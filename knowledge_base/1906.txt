@@ -1,0 +1,222 @@
+Title: Primeros auxilios
+
+Summary:
+Los accidentes son cosas que pasan. Quizás una persona se
+ahogue
+con un cubo de hielo o le
+pique
+una abeja. Es importante saber cuándo llamar al 911. Este número es para emergencias que atentan contra la vida de una persona. Mientras espera la ayuda de
+emergencia
+, usted puede salvar la vida de alguien. La resucitación cardiopulmonar (
+RCP
+) es para las personas cuyo corazón o cuya respiración se detienen y la maniobra de Heimlich es para las personas que se atragantan.
+También se puede aprender a manejar
+lesiones y heridas
+comunes. Las cortaduras y los rasguños, por ejemplo, deben enjuagarse con agua fría. Para detener una hemorragia, presione firme pero suavemente con una gasa. Si la sangre empapa la gasa, coloque otra sobre ella sin retirar la primera que colocó. Mantenga presión en el área.
+Es importante tener un botiquín de primeros auxilios disponible. Tenga uno en casa y uno en su automóvil. El botiquín debe incluir una guía de primeros auxilios. Lea la guía para aprender a utilizar los artículos, de modo que esté listo en caso de una emergencia.
+
+Groups:
+- Lesiones y heridas
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Anafilaxia: primeros auxilios
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-anaphylaxis/basics/art-20056608?p=1
+
+Resource: Aprenda RCP ¡Sí, se puede!
+Category: Spanish/Español, Asuntos relacionados
+Organization: Universidad de Washington, Facultad de Medicina
+URL: http://depts.washington.edu/learncpr/spanish/
+
+Resource: Apósito líquido para laceraciones
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000497.htm
+
+Resource: Asfixia en adulto o niño mayor de un año
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000049.htm
+
+Resource: Asfixia en adultos o niños mayores de 1 año inconscientes
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000051.htm
+
+Resource: Asfixia en niños menores de un año
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000048.htm
+
+Resource: Atragantamiento: primeros auxilios
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-choking/basics/art-20056637?p=1
+
+Resource: Botiquines de primeros auxilios: abastézcase de suministros que pueden salvar vidas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-kits/basics/art-20056673?p=1
+
+Resource: Botiquín de primeros auxilios
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/firstaid-kit.html
+
+Resource: Botiquín de primeros auxilios
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001958.htm
+
+Resource: Compresiones abdominales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000047.htm
+
+Resource: Congelamiento: primeros auxilios
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-frostbite/basics/art-20056653?p=1
+
+Resource: Cortes, rasguños y rozaduras
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/cuts.html
+
+Resource: Crisis convulsivas (convulsiones)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/seizure.html
+
+Resource: Cómo afrontar los cortes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bleeding.html
+
+Resource: Cómo hacer un cabestrillo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000017.htm
+
+Resource: Cómo hacer una tablilla
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000040.htm
+
+Resource: Cómo tratar las lesiones en los dientes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tooth-sheet.html
+
+Resource: Emergencias del oído
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000052.htm
+
+Resource: Enseñar a su hijo a utilizar el teléfono de emergencias (911)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/911.html
+
+Resource: Estado de choque: primeros auxilios
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-shock/basics/art-20056620?p=1
+
+Resource: Extracción de astillas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002137.htm
+
+Resource: Extracción de un anzuelo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000055.htm
+
+Resource: Lo que necesita saber en una urgencia médica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/healthin.html
+
+Resource: Primeros auxilios en caso de dificultad respiratoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000007.htm
+
+Resource: Primeros auxilios en caso de pérdida del conocimiento
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000022.htm
+
+Resource: Primeros auxilios en casos de drogadicción
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000016.htm
+
+Resource: Primeros auxilios en casos de envenenamiento o intoxicación
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007579.htm
+
+Resource: Primeros auxilios y seguridad
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/firstaid-safe/
+
+Resource: Procedimiento para elaborar un cabestrillo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100137_1.htm
+
+Resource: Procedimiento para hacer una férula de mano
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100142_1.htm
+
+Resource: Prueba del llenado capilar ungueal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003394.htm
+
+Resource: Qué hacer ante una emergencia (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/emergency.html
+
+Resource: Raspadura
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007212.htm
+
+Resource: Saber cuando ir al hospital
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Médicos de Emergencia
+URL: https://www.emergencyphysicians.org/article/en-espanol/saber-cuando-ir-al-hospital
+
+Resource: Sangrado
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000045.htm
+
+Resource: Sangrado agudo
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/paginas/acute-bleeding.aspx
+
+Resource: Shock
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000039.htm
+
+Resource: Shock cardiógeno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000185.htm
+
+Resource: Shock hipovolémico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000167.htm

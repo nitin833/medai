@@ -1,0 +1,64 @@
+Title: Dentures
+
+Also Called:
+- False teeth
+
+Summary:
+Dentures are false teeth made to replace teeth you have lost. They can be complete or partial. Complete dentures cover your entire upper or lower jaw. Partials replace one or a few teeth.
+Dentures may feel strange at first. Speaking and eating may feel different. Be careful when wearing dentures because they may make it harder for you to feel hot foods and liquids. Also, you may not notice biting on a bone from your food.
+In the beginning, your dentist may want to see you often to make sure the dentures fit. Over time, your mouth will change and you may need to have your dentures adjusted or replaced. Be sure to let your dentist handle these adjustments.
+If your dentures move too much in your mouth, denture adhesive may help. In some cases, your dentist may suggest that you switch to dental implants. They are permanent, and they replace both the roots and teeth.
+Keep your dentures clean and free from food that can cause stains, bad breath, or swollen gums. Brush them every day with a denture care product. Take your dentures out of your mouth at night, and put them in water or a denture-cleansing liquid.
+NIH: National Institute on Aging
+
+Groups:
+- Mouth and Teeth
+
+MeSH Headings:
+- Dentures
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Dental Implants
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22dental+implants%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Dentures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=dentures&aggFilters=status:not%20rec
+
+Resource: Dental Implant Surgery
+Category: Learn More
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/what-we-do/dental-implant-surgery/
+
+Resource: Denture Adhesives
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/dental-devices/denture-adhesives
+
+Resource: Denture problems
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002037.htm
+
+Resource: Panoramic Dental X-Ray
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Peri-Implant Diseases
+Category: Learn More
+Organization: American Academy of Periodontology
+URL: https://www.perio.org/for-patients/periodontal-treatments-and-procedures/dental-implant-procedures/peri-implant-diseases/
+
+Resource: Dentures
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dentures%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Taking Care of Your Teeth and Mouth
+Category: Learn More
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/teeth-and-mouth/taking-care-your-teeth-and-mouth

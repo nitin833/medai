@@ -1,0 +1,107 @@
+Title: Cytomegalovirus Infections
+
+Also Called:
+- CMV
+
+Summary:
+Cytomegalovirus (CMV) is a virus found around the world. It is related to the viruses that cause chickenpox and infectious mononucleosis (mono). Between 50% and 80% of adults in the United States have had a CMV infection by age 40. Once CMV is in a person's body, it stays there for life.
+CMV is spread through close contact with body fluids. Most people with CMV don't get sick and don't know that they've been infected. But infection with the virus can be serious in babies and people with weak immune systems. If a woman gets CMV when she is pregnant, she can pass it on to her baby. Usually the babies do not have health problems. But some babies can develop lifelong disabilities.
+A blood test can tell whether a person has ever been infected with CMV. Most people with CMV don't need treatment. If you have a weakened immune system, your doctor may prescribe antiviral medicine. Good hygiene, including proper hand washing, may help prevent infections.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Cytomegalovirus Infections
+
+Related Resources:
+
+Resource: About Cytomegalovirus
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cytomegalovirus/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Cytomegalovirus Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cytomegalovirus+Infections%22&aggFilters=status:not%20rec
+
+Resource: CMV - gastroenteritis/colitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000667.htm
+
+Resource: CMV blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003546.htm
+
+Resource: CMV in Newborns
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cytomegalovirus/congenital-infection/
+
+Resource: CMV pneumonia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000664.htm
+
+Resource: CMV retinitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000665.htm
+
+Resource: Congenital CMV and Hearing Loss
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cytomegalovirus/congenital-infection/hearing-loss.html
+
+Resource: Congenital cytomegalovirus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001343.htm
+
+Resource: Cytomegalovirus (CMV) and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/cytomegalovirus-cmv-pregnancy/pdf/
+
+Resource: Cytomegalovirus (CMV) Infection
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cmv/symptoms-causes/syc-20355358?p=1
+
+Resource: Cytomegalovirus (CMV) infection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000568.htm
+
+Resource: Cytomegalovirus (CMV) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cytomegalovirus-cmv-tests/
+
+Resource: Cytomegalovirus (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cytomegalovirus.html
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Cytomegalovirus Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cytomegalovirus+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

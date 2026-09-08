@@ -1,0 +1,101 @@
+Title: Marfan Syndrome
+
+Summary:
+Marfan syndrome is a disorder that affects connective tissue.
+Connective tissues
+are proteins that support skin, bones, blood vessels, and other organs. One of these proteins is fibrillin. A problem with the fibrillin gene causes Marfan syndrome.
+Marfan syndrome can be mild to severe, and the symptoms can vary. People with Marfan syndrome are often very tall, thin, and loose jointed. Most people with Marfan syndrome have heart and blood vessel problems, such as a weakness in the aorta or heart valves that leak. They may also have problems with their bones, eyes, skin, nervous system, and lungs.
+There is no specific test for Marfan syndrome. Your doctor may use your medical history, family history, and a physical exam to diagnose it. Marfan syndrome has no cure, but treatments can help delay or prevent complications. Treatments include medicines, surgery, and other therapies.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Marfan Syndrome
+
+Related Resources:
+
+Resource: Arachnodactyly
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003288.htm
+
+Resource: Beals Syndrome
+Category: Related Issues
+Organization: Marfan Foundation
+URL: https://marfan.org/conditions/beals-syndrome/
+
+Resource: ClinicalTrials.gov: Marfan Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Marfan+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Emergencies
+Category: Related Issues
+Organization: Marfan Foundation
+URL: https://marfan.org/expectations/treatment/emergencies/
+
+Resource: Find a Genetic Counselor
+Category: Find an Expert
+Organization: National Society of Genetic Counselors
+URL: https://findageneticcounselor.nsgc.org
+
+Resource: Getting Diagnosed
+Category: Diagnosis and Tests
+Organization: Marfan Foundation
+URL: https://marfan.org/expectations/diagnosis/
+
+Resource: Heart and Blood Vessels in Marfan Syndrome
+Category: Specifics
+Organization: Marfan Foundation
+URL: https://marfan.org/resource-library/heart-and-blood-vessels/
+
+Resource: Learning about Marfan Syndrome
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Marfan-Syndrome
+
+Resource: Loeys-Dietz Syndrome
+Category: Related Issues
+Organization: Marfan Foundation
+URL: https://marfan.org/conditions/loeys-dietz/
+
+Resource: Marfan syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000418.htm
+
+Resource: Marfan Syndrome
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/marfan-syndrome
+
+Resource: Marfan Syndrome
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/marfan-syndrome
+
+Resource: Marfan Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/marfan.html
+
+Resource: Marfan syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/marfan-syndrome
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Marfan Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Marfan+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Are Related Conditions?
+Category: Related Issues
+Organization: Marfan Foundation
+URL: https://marfan.org/conditions/

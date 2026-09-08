@@ -1,0 +1,48 @@
+Title: Enfermedad de Huntington
+
+Summary:
+La enfermedad de Huntington es una enfermedad hereditaria que provoca el desgaste de algunas células nerviosas del cerebro. Las personas nacen con el gen defectuoso pero los síntomas no aparecen hasta después de los 30 o 40 años. Los síntomas iniciales de esta enfermedad pueden incluir movimientos descontrolados, torpeza y problemas de equilibrio. Más adelante, puede impedir caminar, hablar y tragar. Algunas personas dejan de reconocer a sus familiares. Otros están concientes de lo que los rodea y pueden expresar sus emociones.
+Si uno de sus padres tiene la enfermedad de Huntington, usted tiene un 50% de posibilidades de tenerla. Un análisis de sangre puede indicar si tiene el gen de la enfermedad y si la desarrollará. La consejería genética puede ayudarlo a evaluar los riesgos y los beneficios de someterse al análisis.
+No existe una cura. Hay medicinas que pueden ayudarlo a controlar algunos síntomas, pero no pueden retrasar ni detener la enfermedad.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Enfermedad de Huntington
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11993/enfermedad-de-huntington
+
+Resource: Enfermedad de Huntington
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/enfermedad-de-huntington
+
+Resource: Enfermedad de Huntington
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000770.htm
+
+Resource: Enfermedad de Huntington: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/huntingtons-disease/diagnosis-treatment/drc-20356122?p=1
+
+Resource: Enfermedad de Huntington: Síntomas y causas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117?p=1
+
+Resource: Glosario hablado de términos genéticos
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Problemas para tragar
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm

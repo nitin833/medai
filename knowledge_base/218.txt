@@ -1,0 +1,70 @@
+Title: Drowning
+
+Summary:
+People drown when they get too much water in their lungs. You can drown in as little as an inch or two of water. Babies can drown in a sink or bathtub. Preschoolers are most likely to drown in a swimming pool. People who have seizure disorders are also at risk in the water. Drowning can happen quickly and silently.
+Drowning precautions should include:
+Fences around pools
+Supervising children near any body of water, including tubs
+Not
+swimming or boating
+when under the influence of alcohol or sedatives
+Wearing life jackets when boating
+Learning
+CPR
+
+Groups:
+- Injuries and Wounds
+
+MeSH Headings:
+- Drowning
+
+Related Resources:
+
+Resource: AAP, AHA Update Guidelines on Resuscitation after Drowning
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://publications.aap.org/aapnews/news/30726/AAP-AHA-update-guidelines-on-resuscitation-after
+
+Resource: Cardiopulmonary Resuscitation (CPR): First Aid
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: Drowning Facts
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drowning/data-research/facts/
+
+Resource: Drowning Prevention for Curious Toddlers: What Parents Need to Know
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Water-Safety-And-Young-Children.aspx
+
+Resource: Drowning Prevention Resources
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drowning/about/
+
+Resource: Infant Water Safety: Protect Your New Baby from Drowning
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Infant-Water-Safety.aspx?_gl=1*197g1cz*_ga*MTY0MDIwNzg1OS4xNzY4MzE5ODE1*_ga_FD9D3XZVQQ*czE3NjgzMTk4MTQkbzEkZzEkdDE3NjgzMTk4NTMkajIxJGwwJGgw
+
+Resource: Non-fatal drowning
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000046.htm
+
+Resource: Pool Dangers and Drowning Prevention -- When It's Not Swimming Time
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Pool-Dangers-Drowning-Prevention-When-Not-Swimming-Time.aspx
+
+Resource: Drowning
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Drowning%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Water Safety
+Category: Learn More
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety.html

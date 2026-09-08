@@ -1,0 +1,55 @@
+Title: Distonía
+
+Summary:
+La distonía es un
+trastorno del movimiento
+que causa contracciones involuntarias de los músculos. Estas contracciones resultan en torsiones y movimientos repetitivos. Algunas veces son dolorosas.
+La distonía puede afectar solamente un músculo, un grupo de músculos o todos los músculos. Los síntomas pueden incluir
+temblores
+,
+problemas en la voz
+o arrastrar un pie. Los síntomas suelen comenzar en la infancia. También pueden comenzar al final de la adolescencia o en la edad adulta temprana. Algunos casos empeoran con el tiempo. Otros son leves.
+Algunas personas heredan esta afección. Otras, la desarrollan como consecuencia de otra enfermedad. Los investigadores consideran que la distonía proviene de un problema en la parte del cerebro que controla los mensajes relacionados con las contracciones musculares. No existe una cura. Pero los médicos usan medicinas, inyecciones de
+Botox
+, cirugía, terapia física y otros tratamientos para reducir o eliminar los espasmos musculares y el dolor.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Disfonía espasmódica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000753.htm
+
+Resource: Distonía cervical
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cervical-dystonia/symptoms-causes/syc-20354123?p=1
+
+Resource: Distonías
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales,-medulares-y-nerviosas/trastornos-del-movimiento/diston%C3%ADas
+
+Resource: Inyección de toxina botulínica para la laringe
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007637.htm
+
+Resource: Síndrome de Leigh
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12945/sindrome-de-leigh/
+
+Resource: Tortícolis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000749.htm
+
+Resource: Tortícolis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/torticollis-kids.html

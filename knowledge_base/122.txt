@@ -1,0 +1,92 @@
+Title: Abortion
+
+Also Called:
+- Induced Abortion
+
+Summary:
+An induced abortion is a procedure to end a pregnancy. It can be done two different ways:
+Medication abortion
+(also called medical abortion)
+Procedural abortion
+An induced abortion is different from a spontaneous abortion. That is the loss of a pregnancy before the 20th week of pregnancy. It is more commonly known as a
+miscarriage
+.
+If you are thinking of having an induced abortion, talk with your health care provider. Your provider can explain how the procedures are done, as well as the risks and benefits of each.
+
+Groups:
+- Pregnancy and Reproduction
+- Female Reproductive System
+
+MeSH Headings:
+- Abortion, Induced
+
+Related Resources:
+
+Resource: Abortion - medication
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007382.htm
+
+Resource: Abortion - procedure
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002912.htm
+
+Resource: Abortion - procedure - aftercare
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000658.htm
+
+Resource: Abortion Care
+Category: Learn More
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/induced-abortion
+
+Resource: Could an Elective Abortion Raise the Risk of Problems in a Future Pregnancy?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/getting-pregnant/expert-answers/abortion/faq-20058551?p=1
+
+Resource: D and C
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002914.htm
+
+Resource: Dilation and Curettage (D&C)
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/dilation-and-curettage/about/pac-20384910?p=1
+
+Resource: Ending a Pregnancy
+Category: Learn More
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/ending-a-pregnancy/
+
+Resource: Ending pregnancy with medicines
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000835.htm
+
+Resource: Medical Abortion
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/medical-abortion/about/pac-20394687?p=1
+
+Resource: Pregnancy Choices: Raising the Baby, Adoption, and Abortion
+Category: Learn More
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/pregnancy-choices-raising-the-baby-adoption-and-abortion
+
+Resource: Induced abortion
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Abortion%2C+Induced%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers on Mifepristone for Medical Termination of Pregnancy Through Ten Weeks Gestation
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/questions-and-answers-mifepristone-medical-termination-pregnancy-through-ten-weeks-gestation
+
+Resource: What to Do When Your Pregnancy Is Unexpected
+Category: Learn More
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/what-to-do-when-your-pregnancy-is-unexpected/

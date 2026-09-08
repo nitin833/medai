@@ -1,0 +1,163 @@
+Title: Ostomy
+
+Summary:
+An ostomy is surgery to create an opening (stoma) from an area inside the body to the outside. It treats certain diseases of the digestive or urinary systems. It can be permanent, when an organ must be removed.  It can be temporary, when the organ needs time to heal.  The organ could be the small intestine, colon, rectum, or bladder. With an ostomy, there must be a new way for wastes to leave the body.
+There are many different types of ostomy. Some examples are:
+Ileostomy - the bottom of the small intestine (ileum) is attached to the stoma. This bypasses the colon, rectum and anus.
+Colostomy - the colon is attached to the stoma. This bypasses the rectum and the anus.
+Urostomy - the tubes that carry urine to the bladder are attached to the stoma. This bypasses the bladder.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Kidneys and Urinary System
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Ostomy
+
+Related Resources:
+
+Resource: About Colostomies
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/ostomies/colostomy.html
+
+Resource: About Ileostomies
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/ostomies/ileostomy.html
+
+Resource: About Urostomies
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/ostomies/urostomy.html
+
+Resource: American Society of Colon and Rectal Surgeons
+Category: Find an Expert
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/
+
+Resource: Changing your ostomy pouch
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000204.htm
+
+Resource: ClinicalTrials.gov: Colostomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=colostomy&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Urinary Diversion
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urinary+Diversion%22&aggFilters=status:not%20rec
+
+Resource: Colostomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002942.htm
+
+Resource: Colostomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100011_1.htm
+
+Resource: For Parents of Children with Ostomies
+Category: Children
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/ostomies/for-parents.html
+
+Resource: Ileostomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007378.htm
+
+Resource: Ileostomy - caring for your stoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000071.htm
+
+Resource: Ileostomy - changing your pouch
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000072.htm
+
+Resource: Ileostomy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000074.htm
+
+Resource: Ileostomy - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000227.htm
+
+Resource: Ileostomy and your child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000069.htm
+
+Resource: Ileostomy and your diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000070.htm
+
+Resource: Living with an Ostomy
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/ostomies.html
+
+Resource: Living with your ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000075.htm
+
+Resource: Low-fiber diet
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000200.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Ostomy Expanded Information
+Category: Start Here
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Ostomy-Expanded-Information.aspx
+
+Resource: Ostomy Surgery of the Bowel
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Ostomy: Adapting to Life after Colostomy, Ileostomy, or Urostomy
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/colon-cancer/in-depth/ostomy/art-20045825?p=1
+
+Resource: Ostomy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ostomy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Total proctocolectomy with ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007381.htm
+
+Resource: Types of ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000073.htm
+
+Resource: Urinary Diversion
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-diversion
+
+Resource: Urostomy - stoma and skin care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000477.htm

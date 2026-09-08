@@ -1,0 +1,152 @@
+Title: Cáncer de intestino
+
+Also Called:
+- Cáncer intestinal
+
+Summary:
+El intestino delgado forma parte del sistema digestivo. Es un tubo largo que conecta el estómago al intestino grueso. El cáncer intestinal es poco frecuente, pero las dietas ricas en grasas, la
+enfermedad de Crohn
+, la
+enfermedad celíaca
+y los antecedentes de
+pólipos en el colon
+pueden aumentar el riesgo.
+Algunos síntomas posibles de cáncer del intestino delgado incluyen:
+Dolor abdominal
+Pérdida de peso sin razón
+Presencia de sangre en las heces
+Aparición de masas en el abdomen
+Los estudios con imágenes que muestran el intestino delgado y el área que lo rodea pueden ayudar a diagnosticar el cáncer de intestino y revelar si se diseminó.
+El tratamiento más común es la cirugía. Las opciones de tratamiento incluyen quimioterapia, radiación o una combinación de ambas.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Alta tras radiación abdominal
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000054.htm
+
+Resource: Alta tras resección del intestino delgado
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000152.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (cáncer de intestino delgado)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/intestino-delgado/paciente/tratamiento-intestino-delgado-pdq#_98
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Endoscopia gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Enteritis por radiación
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000300.htm
+
+Resource: Enteroclisis
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003818.htm
+
+Resource: Enteroscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003889.htm
+
+Resource: Estadios del cáncer de intestino delgado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/intestino-delgado/paciente/tratamiento-intestino-delgado-pdq#_89
+
+Resource: Estudio del tránsito esofagogastroduodenal
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-uppergi.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el cáncer de intestino delgado
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/intestino-delgado/paciente/tratamiento-intestino-delgado-pdq#_1
+
+Resource: Información general sobre los tumores de estroma gastrointestinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tegi-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Leiomioma intestinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000251.htm
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resección de intestino delgado
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100039_1.htm
+
+Resource: Resección del intestino delgado
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002943.htm
+
+Resource: Tratamiento de los tumores de estroma gastrointestinal infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tegi-infantil-pdq
+
+Resource: Tratamiento de los tumores neuroendocrinos gastrointestinales infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/tumores-neuroendocrinos-gi/paciente/tratamiento-neuroendocrino-gi-infantiles-pdq
+
+Resource: Tránsito gastrointestinal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-esofagogastroduodenal
+
+Resource: Tumor del estroma gastrointestinal
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/tumor-del-estroma-gastrointestinal.html

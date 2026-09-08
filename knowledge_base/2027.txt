@@ -1,0 +1,85 @@
+Title: Medicare
+
+Summary:
+Medicare es el programa de seguro de salud del gobierno de los Estados Unidos para personas mayores de 65 años. Algunas personas menores de 65 años también pueden reunir los requisitos para Medicare, incluyendo a aquellas con discapacidades, insuficiencia renal permanente o esclerosis lateral amiotrófica.
+Medicare ayuda con el costo de la atención de la salud, pero no cubre todos los gastos médicos ni el costo de la mayoría de los cuidados a largo plazo. El programa tiene cuatro partes:
+La parte A es un seguro hospitalario.
+La parte B ayuda a pagar los servicios médicos que la parte A no cubre.
+La parte C se llama Medicare Advantage. Si usted tiene las partes A y B, se puede seleccionar esta opción para recibir toda la atención médica a través de una organización proveedora, como una HMO.
+La parte D es la cobertura de medicamentos recetados. Ayuda a pagar algunas medicinas.
+
+Groups:
+- Personas mayores
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Buscador de planes de Medicare
+Category: Spanish/Español, Especialistas
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.medicare.gov/plan-compare/#/?lang=es
+
+Resource: Cobertura Medicare: Servicios de prevención y control
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/preventive-screening-services
+
+Resource: Consulta preventiva de bienvenida a Medicare
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/welcome-to-medicare-preventive-visit
+
+Resource: Cuidado a largo plazo ¿Está cubierto por Medicare?
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/long-term-care
+
+Resource: Cómo funciona Medicare
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000945.htm
+
+Resource: Medicare
+Category: Spanish/Español, Especialistas
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/
+
+Resource: Medicare
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/pubs/ES-05-10943.pdf
+
+Resource: Medicare: Cuidado de salud de pacientes internados
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/inpatient-hospital-care
+
+Resource: Partes de Medicare
+Category: Comience aquí, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/basics/get-started-with-medicare/medicare-basics/parts-of-medicare
+
+Resource: Qué cubre Medicare Original
+Category: Comience aquí, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/providers-services/original-medicare
+
+Resource: Reclamaciones, apelaciones y quejas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/providers-services/claims-appeals-complaints
+
+Resource: Terminología del Seguro Social
+Category: Información de referencia, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/espanol/agencia/glosario/glosario-espanol-ingles.html
+
+Resource: ¿Cuánto cuesta la cobertura de medicamentos de Medicare?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/part-d/basics/costs
+
+Resource: ¿Qué es la cobertura de medicamentos recetados de Medicare (Parte D)?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/part-d

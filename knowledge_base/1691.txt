@@ -1,0 +1,108 @@
+Title: Wilson Disease
+
+Also Called:
+- Copper storage disease
+- Hepatolenticular degeneration
+
+Summary:
+Wilson disease is a rare inherited disorder that prevents your body from getting rid of extra copper.  You need a small amount of copper from food to stay healthy. Too much copper is poisonous.
+Normally, your liver releases extra copper into bile, a digestive fluid.  With Wilson disease, the copper builds up in your liver, and it releases the copper directly into your bloodstream. This can cause damage to your brain, kidneys, and eyes.
+Wilson disease is present at birth, but symptoms usually start between ages 5 and 35. It first attacks the liver, the central nervous system or both. The most characteristic sign is a rusty brown ring around the cornea of the eye. A physical exam and laboratory tests can diagnose it.
+Treatment is with drugs to remove the extra copper from your body.  You need to take medicine and follow a low-copper diet for the rest of your life. Don't eat shellfish or liver, as these foods may contain high levels of copper.  At the beginning of treatment, you'll also need to avoid chocolate, mushrooms, and nuts. Have your drinking water checked for copper content and don't take multivitamins that contain copper.
+With early detection and proper treatment, you can enjoy good health.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Brain and Nerves
+- Genetics/Birth Defects
+- Metabolic Problems
+
+MeSH Headings:
+- Hepatolenticular Degeneration
+
+Related Resources:
+
+Resource: 24-hour urine copper test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003604.htm
+
+Resource: Ceruloplasmin blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003662.htm
+
+Resource: Ceruloplasmin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ceruloplasmin-test/
+
+Resource: ClinicalTrials.gov: Hepatolenticular Degeneration
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hepatolenticular+Degeneration%22&aggFilters=status:not%20rec
+
+Resource: Diet and Nutrition: Copper Conscious Eating
+Category: Living With
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/living-with-wilson-disease/copper-conscious-eating/
+
+Resource: How Is Wilson Disease Diagnosed?
+Category: Diagnosis and Tests
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/do-i-have-wilson-disease/diagnosis/
+
+Resource: How Is Wilson Disease Inherited?
+Category: Genetics
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/do-i-have-wilson-disease/family-genetics/
+
+Resource: Kayser-Fleischer Rings
+Category: Diagnosis and Tests
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/do-i-have-wilson-disease/kayser-fleischer-rings/
+
+Resource: Monitoring Your Treatment
+Category: Living With
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/living-with-wilson-disease/monitoring-your-treatment/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Wilson Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hepatolenticular+Degeneration%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Wilson Disease
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/wilson-disease
+
+Resource: Wilson disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000785.htm
+
+Resource: Wilson Disease: Frequently Asked Questions
+Category: Start Here
+Organization: Wilson Disease Association
+URL: https://wilsondisease.org/news-publications/faq/
+
+Resource: Wilson disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wilson-disease
+
+Resource: Wilson's Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/wilsons-disease/symptoms-causes/syc-20353251?p=1

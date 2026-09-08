@@ -1,0 +1,250 @@
+Title: Stomach Cancer
+
+Also Called:
+- Gastric cancer
+
+Summary:
+The stomach is an organ between the esophagus and the small intestine. It mixes food with stomach acid and helps digest protein. Stomach cancer mostly affects older people - two-thirds of people who have it are over age 65. Your risk of getting it is also higher if you:
+Have had a
+Helicobacter pylori infection
+Have had stomach inflammation
+Are a man
+Eat lots of  salted, smoked, or pickled foods
+Smoke cigarettes
+Have a family history of stomach cancer
+It is hard to diagnose stomach cancer in its early stages. Indigestion and stomach discomfort can be symptoms of early cancer, but other problems can cause the same symptoms. In advanced cases, there may be blood in your stool, vomiting, unexplained weight loss, jaundice, or trouble swallowing. Doctors diagnose stomach cancer with a physical exam, blood and imaging tests, an endoscopy, and a biopsy.
+Because it is often found late, it can be hard to treat stomach cancer.  Treatment options include surgery, chemotherapy, radiation or a combination.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Digestive System
+
+MeSH Headings:
+- Stomach Neoplasms
+
+Related Resources:
+
+Resource: Abdominal radiation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000054.htm
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: After Stomach Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/after-treatment.html
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Cancer Statistics: Cancer of the Stomach
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/stomach.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Childhood Stomach Cancer
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/childhood
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Stomach Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Stomach+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Coping with Stomach Cancer
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/coping
+
+Resource: Drugs Approved for Stomach (Gastric) Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/stomach
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Gastrectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002945.htm
+
+Resource: Gastrectomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100022_1.htm
+
+Resource: Gastric tissue biopsy and culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003728.htm
+
+Resource: Helicobacter pylori (H. pylori) and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet
+
+Resource: Hereditary diffuse gastric cancer: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-diffuse-gastric-cancer
+
+Resource: Incidence of Cancers of the Lower Stomach Increasing among Younger Americans
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2018/lower-stomach-cancer-incidence-changing
+
+Resource: Key Statistics about Stomach Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/key-statistics.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Pembrolizumab Secures FDA Approval in Stomach Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2017/gastric-cancer-fda-keytruda
+
+Resource: Stomach Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Stomach+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation enteritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000300.htm
+
+Resource: Risk Factors for Stomach Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Stomach cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000223.htm
+
+Resource: Stomach Cancer
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer.html
+
+Resource: Stomach Cancer Causes and Risk Factors
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/causes-risk-factors
+
+Resource: Stomach Cancer Causes, Risk Factors, and Prevention
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/causes-risks-prevention.html
+
+Resource: Stomach Cancer Diagnosis
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/diagnosis
+
+Resource: Stomach Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/screening
+
+Resource: Stomach Cancer Stages
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/stages
+
+Resource: Stomach Cancer Survival Rates and Prognosis
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/survival
+
+Resource: Stomach Cancer Symptoms
+Category: Symptoms
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/symptoms
+
+Resource: Stomach Cancer Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/treatment
+
+Resource: Stomach Cancer Treatment by Stage
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach/treatment/by-stage
+
+Resource: Stomach Polyps
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/stomach-polyps/symptoms-causes/syc-20377992?p=1
+
+Resource: Surgery for Stomach Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/treating/types-of-surgery.html
+
+Resource: Tests for Stomach Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treating Stomach Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/stomach-cancer/treating.html
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Upper GI Endoscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Upper GI Series
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series
+
+Resource: What Is Stomach Cancer?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/stomach

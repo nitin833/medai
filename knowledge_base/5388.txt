@@ -1,0 +1,64 @@
+Title: Vitamin K
+
+Summary:
+Vitamins
+are substances that your body needs to grow and develop normally. Vitamin K helps your body by making proteins for healthy bones and tissues.  It also makes proteins for blood clotting.  If you don't have enough vitamin K, you may
+bleed
+too much.
+Newborns have very little vitamin K.  They usually get a shot of vitamin K soon after they are born.
+If you take
+blood thinners
+, you need to be careful about how much vitamin K you get.  You also need to be careful about taking vitamin E supplements. Vitamin E can interfere with how vitamin K works in your body.  Ask your health care provider for recommendations about these vitamins.
+There are different types of vitamin K. Most people get vitamin K from plants such as green vegetables, and dark berries.   Bacteria in your intestines also produce small amounts of another type of vitamin K.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Vitamin K
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Vitamin K
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+K%22&aggFilters=status:not%20rec
+
+Resource: Find a Nutrition Expert
+Category: Learn More
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Protect Your Baby from Bleeds
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vitamin-k-deficiency/fact-sheet/
+
+Resource: Vitamin K
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vitamin+K%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rare Clotting Factor Deficiencies
+Category: Learn More
+Organization: World Federation of Hemophilia
+URL: https://elearning.wfh.org/elearning-centres/rare-clotting-factor-deficiencies/
+
+Resource: Vitamin K
+Category: Learn More
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminK-Consumer/
+
+Resource: Vitamin K
+Category: Learn More
+Organization: Harvard School of Public Health
+URL: https://www.hsph.harvard.edu/nutritionsource/vitamin-k/
+
+Resource: Vitamin K
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002407.htm
+
+Resource: Vitamin K deficiency bleeding of the newborn
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007320.htm

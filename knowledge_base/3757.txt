@@ -1,0 +1,88 @@
+Title: Etiquetado de alimentos
+
+Also Called:
+- Etiquetas en los envases de alimentos
+
+Summary:
+Todos los alimentos y bebidas en Estados Unidos cuentan con etiquetas informativas. Estas etiquetas con información nutricional pueden ayudarle a elegir alimentos más sanos y consumir una dieta saludable.
+Antes de leer la etiqueta informativa, usted debe saber algunas cosas:
+El
+tamaño de la porción
+se basa en la cantidad que las personas en general comen y toman de una vez
+Las
+porciones por envase
+señalan cuántas porciones tiene el envase. Algunas etiquetas entregan información sobre calorías y nutrientes tanto para el paquete entero como para cada porción. Usted debe tomar en cuenta el tamaño de la porción al decidir cuánto consumir. Por ejemplo, si una botella de jugo contiene dos porciones y usted se toma toda la botella, está consumiendo el doble de azúcar que se detalla en la etiqueta
+El
+% de valor diario
+es una cifra que le ayuda a entender cuánto nutriente contiene cada porción. Los expertos recomiendan que usted obtenga cierta cantidad de nutrientes todos los días. El valor diario señala el porcentaje que usted obtiene por cada porción que consuma de ese alimento. Con esto, usted puede saber si un producto es alto o bajo en  nutrientes. 5% o menos es bajo, 20% o más es alto
+El contenido de una etiqueta de información nutricional puede ayudarle a ver cómo el alimento se inserta en su dieta general. La etiqueta entrega información por porción de:
+La cantidad de calorías
+Grasas
+, incluyendo total de grasa, grasa saturada y grasa trans
+Colesterol
+Sodio
+(sal)
+Carbohidratos
+, incluyendo
+fibra
+, azúcares totales y azúcar añadida
+Proteínas
+Vitaminas
+y
+minerales
+Administración de Alimentos y Medicamentos
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Cómo leer las etiquetas de los alimentos
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000107.htm
+
+Resource: Cómo leer las etiquetas de los alimentos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/como-leer-las-etiquetas-de-los-alimentos/
+
+Resource: Etiquetado de los alimentos
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002459.htm
+
+Resource: Información nutricional: Lea la etiqueta (consejos para padres)
+Category: Spanish/Español, Niños/as
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/media/128914/download
+
+Resource: Leche y las alternativas a base de plantas: Conozca la diferencia de nutrientes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/la-leche-y-las-alternativas-base-de-plantas-conozca-la-diferencia-de-nutrientes
+
+Resource: Nueva perspectiva de lo que significa "saludable" en los paquetes de alimentos
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/una-nueva-perspectiva-del-significado-de-healthy-saludable-en-los-paquetes-de-alimentos
+
+Resource: Sodio en su dieta: Use la etiqueta de información nutricional y reduzca su consumo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/nutrition-education-resources-materials/el-sodio-en-su-dieta
+
+Resource: Uso de la etiqueta de información nutricional: Para Adultos Mayores
+Category: Personas mayores, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/nutrition-facts-label/uso-de-la-etiqueta-de-informacion-nutricional-para-adultos-mayores
+
+Resource: ¿Cómo puedo entender la etiqueta de 'datos de nutrición'?
+Category: Comience aquí, Spanish/Español
+Organization: Asociación Americana del Corazón
+URL: https://www.heart.org/-/media/files/health-topics/answers-by-heart/answers-by-heart-spanish/how-can-i-read-food-labels_span.pdf
+
+Resource: ¿Tiene alergias a los alimentos? Lea la etiqueta
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/tiene-alergias-los-alimentos-lea-la-etiqueta

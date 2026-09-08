@@ -1,0 +1,314 @@
+Title: Biopsy
+
+Summary:
+A biopsy is a procedure that removes cells or tissue from your body.  A doctor called a pathologist looks at the cells or tissue under a microscope to check for damage or disease. The pathologist may also do other tests on it.
+Biopsies can be done on all parts of the body. In most cases, a biopsy is the only test that can tell for sure if a suspicious area is cancer.  But biopsies are performed for many other reasons too.
+There are different types of biopsies. A needle biopsy removes tissue with a needle passed through your skin to the site of the problem. Other kinds of biopsies may require surgery.
+
+Groups:
+- Cancers
+- Diagnostic Tests
+
+MeSH Headings:
+- Biopsy
+
+Related Resources:
+
+Resource: Abdominal wall fat pad biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003841.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Biopsies (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/biopsy.html
+
+Resource: Biopsies - Overview
+Category: Start Here
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/biopgen
+
+Resource: Biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003416.htm
+
+Resource: Biopsy - biliary tract
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003894.htm
+
+Resource: Biopsy and Cytology Tests
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests/biopsy-and-cytology-tests.html
+
+Resource: Biopsy: Types of Biopsy Procedures Used to Diagnose Cancer
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922?p=1
+
+Resource: Bladder biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003902.htm
+
+Resource: Bone Biopsy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonebiopsy
+
+Resource: Bone lesion biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003923.htm
+
+Resource: Bone marrow biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone Marrow Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Breast Biopsy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/breast-biopsy/
+
+Resource: Breast biopsy  - ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007432.htm
+
+Resource: Breast biopsy -- stereotactic
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007433.htm
+
+Resource: Carpal tunnel biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003925.htm
+
+Resource: Colposcopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/colposcopy/
+
+Resource: Colposcopy - directed biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003913.htm
+
+Resource: Cone biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003910.htm
+
+Resource: Culture - duodenal tissue
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003730.htm
+
+Resource: Endometrial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003917.htm
+
+Resource: From Biopsy to Diagnosis
+Category: Videos and Tutorials
+Organization: College of American Pathologists
+URL: https://www.youtube.com/watch?v=Sb463cGheVY
+
+Resource: Gastric tissue biopsy and culture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003728.htm
+
+Resource: Gram stain of tissue biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003453.htm
+
+Resource: Gum biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003852.htm
+
+Resource: Kidney biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003907.htm
+
+Resource: Kidney Biopsy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy
+
+Resource: Liver Biopsy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/liver-biopsy
+
+Resource: Liver Biopsy
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/tests-procedures/liver-biopsy/
+
+Resource: Liver biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003895.htm
+
+Resource: Lung needle biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003860.htm
+
+Resource: Lymph node biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003933.htm
+
+Resource: Mediastinoscopy with biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003864.htm
+
+Resource: Muscle biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003924.htm
+
+Resource: Nasal mucosal biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003848.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Needle Biopsy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Needle Biopsy of the Lung
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/nlungbiop
+
+Resource: Nerve biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003928.htm
+
+Resource: Open lung biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003861.htm
+
+Resource: Open pleural biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003863.htm
+
+Resource: Oropharynx lesion biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003850.htm
+
+Resource: Pleural needle biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003862.htm
+
+Resource: Polyp biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003415.htm
+
+Resource: Biopsy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Biopsy%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: RadiologyInfo
+Category: Find an Expert
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/
+
+Resource: Rectal biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003891.htm
+
+Resource: Salivary gland biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003847.htm
+
+Resource: Sentinel Lymph Node Biopsy
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/staging/sentinel-node-biopsy-fact-sheet
+
+Resource: Skin Biopsy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/skin-biopsy/
+
+Resource: Skin Biopsy
+Category: Specifics
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/skin-biopsy/?Imiw9cApl=1
+
+Resource: Skin lesion biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003840.htm
+
+Resource: Synovial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003922.htm
+
+Resource: Testicular biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003908.htm
+
+Resource: Tongue biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003849.htm
+
+Resource: Ultrasound- or MRI-Guided Prostate Biopsy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/prostate-biopsy
+
+Resource: Ultrasound-Guided Thyroid Biopsy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/ThyroidBiopsy
+
+Resource: Upper airway biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003856.htm
+
+Resource: Ureteral retrograde brush biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003906.htm

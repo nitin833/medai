@@ -1,0 +1,90 @@
+Title: Problemas de equilibrio
+
+Summary:
+¿Se ha sentido
+mareado
+, aturdido o como si la habitación estuviera dando vueltas a su alrededor? Si esta sensación le sucede a menudo, puede ser un signo de un problema de equilibrio. Los problemas de equilibrio pueden hacer que usted se sienta inestable. También puede tener visión borrosa, confusión y desorientación. Es una causa de
+caídas
+y lesiones, como
+fractura
+de cadera.
+Algunos problemas de equilibrio se deben a problemas en el oído interno, otros pueden estar relacionados con diferentes partes del cuerpo como el cerebro o el corazón. El envejecimiento, las infecciones, las lesiones en la cabeza, ciertos medicamentos o alteraciones en la circulación de la sangre pueden causar problemas de equilibrio.
+Es importante consultar a un médico si tiene problemas de equilibrio. Estos pueden ser señales de otros problemas de salud, como una infección de oído o un derrame cerebral. Su médico puede referirlo a un especialista para el diagnóstico. Es posible que necesite una prueba de audición, análisis de sangre o estudios de imagen de la cabeza y el cerebro. Otras pruebas posibles observarán sus movimientos oculares, y cómo su cuerpo responde al movimiento.
+En algunos casos, el tratamiento de la enfermedad que está causando el desorden le ayudará con el problema de equilibrio. Los ejercicios, un cambio en la dieta y algunos medicamentos también pueden ayudar.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Personas mayores
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Adultos mayores y los problemas de equilibrio
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/caidas/adultos-mayores-problemas-equilibrio
+
+Resource: Cómo funciona el sistema de equilibrio
+Category: Información de referencia, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/how_does_the_balance_system_work_spanish.pdf
+
+Resource: Mareo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003093.htm
+
+Resource: Mareos y problemas de equilibrio en los niños
+Category: Spanish/Español, Niños/as
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mareos-y-problemas-de-equilibrio-en-los-ninos
+
+Resource: Neuritis vestibular
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/neuritis_vestibular_spinsh.pdf
+
+Resource: Ototoxicidad (toxidad auditiva)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ototoxicity.html
+
+Resource: Problemas de equilibrio
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/balance-problems/symptoms-causes/syc-20350474?p=1
+
+Resource: Problemas de equilibrio: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/balance-problems/diagnosis-treatment/drc-20350477?p=1
+
+Resource: Sobrellevar los mareos: Obtener ayuda para un trastorno del equilibrio
+Category: Viviendo con..., Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sobrellevar-los-mareos
+
+Resource: Trastornos asociados con el vértigo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001432.htm
+
+Resource: Trastornos del equilibrio
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/balance-disorders.html
+
+Resource: Traumatismo y problemas del oído interno
+Category: Viviendo con..., Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/trauma_and_inner_ear_problems_spanish.pdf
+
+Resource: ¿Qué es sensibilidad al espacio y al movimiento?
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/space_and_motion_sensitivity_spanish.pdf
+
+Resource: ¿Qué es un trastorno del equilibrio?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/trastornos-del-equilibrio

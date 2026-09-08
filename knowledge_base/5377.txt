@@ -1,0 +1,173 @@
+Title: Vitaminas B
+
+Also Called:
+- Complejo Vitamínico B
+- Vitaminas del complejo B
+
+Summary:
+Las
+vitaminas
+son sustancias que el cuerpo necesita para crecer y desarrollarse normalmente. Las vitaminas B son:
+B1 (tiamina)
+B2 (riboflavina)
+B3 (niacina)
+B5 (ácido pantoténico)
+B6
+B7 (biotina)
+B12
+Ácido fólico
+Estas vitaminas ayudan al proceso que hace su cuerpo para obtener energía de la comida que usted consume.
+También ayudan a formar glóbulos rojos. Usted puede obtener vitaminas B en las proteínas como pescado, pollo, carne de res, huevos y productos lácteos. Los vegetales de hojas verdes, frijoles y judías también tienen vitaminas B. A algunos cereales y panes también se les ha agregado vitaminas B.
+Si usted sufre una deficiencia de vitaminas B, puede sufrir enfermedades. La falta de las vitaminas B12 o B 6 puede causar
+anemia
+.
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Acido pantoténico y biotina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002410.htm
+
+Resource: Anemia perniciosa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000569.htm
+
+Resource: Anemia por deficiencia de vitamina B12
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000574.htm
+
+Resource: Anemia por deficiencia de vitamina B12
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/anemia-por-deficiencia-de-vitamina-b12
+
+Resource: Anemia por deficiencia de vitaminas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: Beriberi
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000339.htm
+
+Resource: Degeneración combinada subaguda
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000723.htm
+
+Resource: Examen de Schilling
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003572.htm
+
+Resource: Examen de ácido metilmalónico en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003565.htm
+
+Resource: La niacina mejora los niveles de colesterol
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/high-blood-cholesterol/in-depth/niacin/art-20046208?p=1
+
+Resource: Niacina
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Niacin-DatosEnEspanol/
+
+Resource: Niacina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002409.htm
+
+Resource: Niacina para el colesterol
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000788.htm
+
+Resource: Nivel de vitamina B12
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003705.htm
+
+Resource: Pelagra
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000342.htm
+
+Resource: Prueba de homocisteína
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-homocisteina/
+
+Resource: Prueba de vitamina B
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-vitamina-b/
+
+Resource: Prueba de ácido metilmalónico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-acido-metilmalonico/
+
+Resource: Riboflavina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002411.htm
+
+Resource: Riboflavina
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Riboflavin-DatosEnEspanol/
+
+Resource: Tiamina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002401.htm
+
+Resource: Tiamina
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Thiamin-DatosEnEspanol/
+
+Resource: Vitamina B-12 y depresión: ¿Están relacionadas?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/depression/expert-answers/vitamin-b12-and-depression/faq-20058077?p=1
+
+Resource: Vitamina B12
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminB12-DatosEnEspanol/
+
+Resource: Vitamina B12
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002403.htm
+
+Resource: Vitamina B12
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/vitamina-b12/
+
+Resource: Vitamina B6
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminB6-DatosEnEspanol/
+
+Resource: Vitamina B6
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002402.htm
+
+Resource: Ácido pantoténico
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/PantothenicAcid-DatosEnEspanol/

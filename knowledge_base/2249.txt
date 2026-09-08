@@ -1,0 +1,125 @@
+Title: Tendinitis
+
+Also Called:
+- Inflamación de los tendones
+
+Summary:
+Los tendones son cuerdas resistentes de tejido que unen los músculos con los huesos. Ayudan a los músculos a mover los huesos. Tendinitis es la inflamación severa de un tendón.
+La tendinitis ocurre en forma usual tras una lesión recurrente en articulaciones como la muñeca o el tobillo. Algunos tipos comunes de tendinitis son nombrados según el deporte que aumenta su riesgo de sufrirla, como el "codo de tenista".
+Los médicos diagnostican la tendinitis con su historia clínica, un examen físico y pruebas de imagen. El primer paso del tratamiento es reducir el dolor y la hinchazón. El descanso, inmovilizar o elevar el área afectada, junto a las medicinas, pueden ayudar. El hielo es útil para lesiones graves recientes. Otros tratamientos incluyen el ultrasonido, fisioterapia, inyecciones de esteroides y la cirugía.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Artrografía directa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Codo de tenista
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000449.htm
+
+Resource: Dedo en gatillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana de Cirugía de la Mano, Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/dedo-en-gatillo-trigger-finger
+
+Resource: Disfunción del tendón tibial posterior (PTTD)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/posterior-tibial-tendon-dysfunction-(pttd)?lang=es-MX
+
+Resource: Dolor de talón y tendinitis de Aquiles: Cuidados posteriores
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000836.htm
+
+Resource: Dolor por tendinitis: ¿Qué es mejor: El hielo o el calor?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/tendinitis/expert-answers/tendinitis/faq-20057872?p=1
+
+Resource: Epicondilitis medial (codo de golfista)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007638.htm
+
+Resource: Inyecciones (aspiraciones) articulares
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/inyecciones-aspiraciones-articulares
+
+Resource: Problemas con el manguito de los rotadores
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000438.htm
+
+Resource: Proteja sus tendones
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/proteja-sus-tendones
+
+Resource: RMN musculoesquelética
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/muscmr
+
+Resource: Rodilla del saltador (para Padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/jumpers-knee.html
+
+Resource: Tendinitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001229.htm
+
+Resource: Tendinitis (bursitis)
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/tendinitis-bursitis-espanol
+
+Resource: Tendinitis aquílea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001072.htm
+
+Resource: Tendinitis de Aquiles
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/achilles.html
+
+Resource: Tendinitis de De Quervain
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000537.htm
+
+Resource: Tendinitis proximal del bíceps
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/biceps-tendonitis.html
+
+Resource: Tendinitis rotuliana
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/patellar-tendinitis/symptoms-causes/syc-20376113?p=1
+
+Resource: Tenosinovitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001242.htm
+
+Resource: Trastornos comunes del tendón de Aquiles
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/achilles-tendon-disorders?lang=es-MX
+
+Resource: Ultrasonido musculoesquelético
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/musculous

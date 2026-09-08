@@ -1,0 +1,379 @@
+Title: Movement Disorders
+
+Summary:
+Movement disorders are neurologic conditions that cause problems with movement, such as:
+Increased movement that can be voluntary (intentional) or involuntary (unintended)
+Decreased or slow voluntary movement
+There are many different movement disorders. Some of the more common types include:
+Ataxia, the loss of muscle coordination
+Dystonia
+, in which involuntary contractions of your muscles cause twisting and repetitive movements. The movements can be painful.
+Huntington's disease
+, an inherited disease that causes nerve cells in certain parts of the brain to waste away. This includes the nerve cells that help to control voluntary movement.
+Parkinson's disease
+, which is a disorder that slowly gets worse over time. It causes tremors, slowness of movement, and
+trouble walking
+.
+Tourette syndrome
+, a condition that causes people to make sudden twitches, movements, or sounds (tics)
+Tremor
+and essential tremor, which cause involuntary trembling or shaking movements. The movements may be in one or more parts of your body.
+Causes of movement disorders include:
+Genetics
+Infections
+Medicines
+Damage to the
+brain
+,
+spinal cord
+, or
+peripheral nerves
+Metabolic disorders
+Stroke
+and
+vascular diseases
+Toxins
+Treatment varies by disorder. Medicines can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.
+
+Groups:
+- Bones, Joints and Muscles
+- Brain and Nerves
+
+MeSH Headings:
+- Movement Disorders
+
+Related Resources:
+
+Resource: Action myoclonus-renal failure syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/action-myoclonus-renal-failure-syndrome/
+
+Resource: ADCY5-related dyskinesia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adcy5-related-dyskinesia
+
+Resource: Allan-Herndon-Dudley syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/allan-herndon-dudley-syndrome
+
+Resource: Alpers-Huttenlocher syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpers-huttenlocher-syndrome
+
+Resource: Angelman Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/angelman-syndrome
+
+Resource: Angelman syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007616.htm
+
+Resource: Angelman syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/angelman-syndrome
+
+Resource: Ataxia with vitamin E deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ataxia-with-vitamin-e-deficiency
+
+Resource: Boucher-Neuhäuser syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/boucher-neuhauser-syndrome
+
+Resource: Chorea
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#chorea
+
+Resource: Christianson syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/christianson-syndrome
+
+Resource: Chronic motor or vocal tic disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000745.htm
+
+Resource: CLCN2-related leukoencephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/clcn2-related-leukoencephalopathy
+
+Resource: ClinicalTrials.gov: Ataxia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ataxia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Chorea
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Chorea%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Movement Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Movement+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tardive Dyskinesia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tardive+Dyskinesia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Torticollis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Torticollis%22&aggFilters=status:not%20rec
+
+Resource: Congenital mirror movement disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-mirror-movement-disorder
+
+Resource: Deep brain stimulation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007453.htm
+
+Resource: Deep Brain Stimulation (DBS)
+Category: Treatments and Therapies
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/deep-brain-stimulation-dbs
+
+Resource: Deep Brain Stimulation (DBS) for the Treatment of Parkinson's Disease and Other Movement Disorders
+Category: Statistics and Research
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/about-ninds/what-we-do/impact/ninds-contributions-approved-therapies/deep-brain-stimulation-dbs-treatment-parkinsons-disease-and-other-movement-disorders
+
+Resource: Dentatorubral-pallidoluysian atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dentatorubral-pallidoluysian-atrophy/
+
+Resource: Dressing with Ease, Style, and Comfort
+Category: Related Issues
+Organization: ALS Association
+URL: https://www.als.org/navigating-als/resources/fyi-dressing-ease-style-and-comfort
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: EMG (Electromyogram) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/emg.html
+
+Resource: Essential tremor: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/essential-tremor
+
+Resource: Facial tics
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001410.htm
+
+Resource: Familial paroxysmal nonkinesigenic dyskinesia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-paroxysmal-nonkinesigenic-dyskinesia
+
+Resource: Fragile X-associated tremor/ataxia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fragile-x-associated-tremor-ataxia-syndrome/
+
+Resource: Hypermanganesemia with dystonia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypermanganesemia-with-dystonia/
+
+Resource: Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leukoencephalopathy-with-brainstem-and-spinal-cord-involvement-and-lactate-elevation/
+
+Resource: McLeod neuroacanthocytosis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mcleod-neuroacanthocytosis-syndrome
+
+Resource: Mitochondrial membrane protein-associated neurodegeneration: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-membrane-protein-associated-neurodegeneration
+
+Resource: Movement - uncontrollable
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003201.htm
+
+Resource: Movement - uncontrolled or slow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003197.htm
+
+Resource: Movement - uncoordinated
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003198.htm
+
+Resource: Movement - unpredictable or jerky
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003196.htm
+
+Resource: Myoclonic epilepsy myopathy sensory ataxia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-myopathy-sensory-ataxia/
+
+Resource: Myoclonus
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/myoclonus
+
+Resource: Myoclonus-dystonia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonus-dystonia/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neuroacanthocytosis Syndromes
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neuroacanthocytosis-syndromes
+
+Resource: Neurodegeneration with Brain Iron Accumulation
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neurodegeneration-brain-iron-accumulation
+
+Resource: Neurodegeneration with brain iron accumulation (NBIA)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001225.htm
+
+Resource: Overview of Movement Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/movement-disorders/overview-of-movement-disorders
+
+Resource: Palatal myoclonus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001637.htm
+
+Resource: Pantothenate kinase-associated neurodegeneration: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pantothenate-kinase-associated-neurodegeneration
+
+Resource: Paroxysmal Choreoathetosis
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/paroxysmal-choreoathetosis
+
+Resource: Paroxysmal Dystonia & Dyskinesias
+Category: Specifics
+Organization: Dystonia Medical Research Foundation
+URL: https://dystonia-foundation.org/what-is-dystonia/types-dystonia/paroxysmal/
+
+Resource: Perry syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/perry-syndrome
+
+Resource: PRICKLE1-related progressive myoclonus epilepsy with ataxia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prickle1-related-progressive-myoclonus-epilepsy-with-ataxia
+
+Resource: Provisional tic disorder
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000747.htm
+
+Resource: Movement disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Movement+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rapid-onset dystonia parkinsonism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rapid-onset-dystonia-parkinsonism/
+
+Resource: Sepiapterin reductase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sepiapterin-reductase-deficiency
+
+Resource: Spinocerebellar ataxia type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-1/
+
+Resource: Spinocerebellar ataxia type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-2/
+
+Resource: Spinocerebellar ataxia type 36: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-36
+
+Resource: Spinocerebellar ataxia type 3: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-3/
+
+Resource: Spinocerebellar ataxia type 6: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinocerebellar-ataxia-type-6/
+
+Resource: Succinic semialdehyde dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/succinic-semialdehyde-dehydrogenase-deficiency/
+
+Resource: Sydenham chorea
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001358.htm
+
+Resource: Sydenham Chorea
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/sydenham-chorea
+
+Resource: Tardive dyskinesia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000685.htm
+
+Resource: Tourette Syndrome: A Not-So-Frightening Diagnosis
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/pages/Tics-Tourette-Syndrome-and-OCD.aspx
+
+Resource: X-linked dystonia-parkinsonism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-dystonia-parkinsonism/

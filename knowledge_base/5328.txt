@@ -1,0 +1,235 @@
+Title: Pituitary Tumors
+
+Summary:
+Your pituitary gland is a pea-sized gland at the base of your brain. The pituitary is the "master control gland" - it makes hormones that affect growth and the functions of other glands in the body.
+Pituitary tumors are common, but often they don't cause health problems. Most people with pituitary tumors never even know they have them. The most common type of pituitary tumor produces hormones and disrupts the balance of hormones in your body. This can cause
+endocrine diseases
+such as
+Cushing's syndrome
+and
+hyperthyroidism
+.
+Symptoms of pituitary tumors include:
+Headaches
+Vision problems
+Nausea and vomiting
+Problems caused by the production of too many hormones
+Pituitary tumors are usually curable. Treatment is often surgery to remove the tumor. Other options include medicines, radiation therapy, and chemotherapy.
+
+Groups:
+- Cancers
+- Endocrine System
+
+MeSH Headings:
+- Pituitary Neoplasms
+
+Related Resources:
+
+Resource: About Pituitary Tumors
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pituitarytumors/conditioninfo
+
+Resource: ACTH blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003695.htm
+
+Resource: Adrenocorticotropic Hormone (ACTH)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/adrenocorticotropic-hormone-acth/
+
+Resource: After Pituitary Tumor Treatment
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pituitary-tumors/after-treatment.html
+
+Resource: Brain MRI (Head MRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mri-brain
+
+Resource: Causes, Risk Factors, and Prevention of Pituitary Tumors
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pituitary-tumors/causes-risks-prevention.html
+
+Resource: Childhood Craniopharyngioma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq
+
+Resource: ClinicalTrials.gov: Pituitary Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pituitary+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Prolactinoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Prolactinoma%22&aggFilters=status:not%20rec
+
+Resource: Craniopharyngioma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000345.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Familial isolated pituitary adenoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-isolated-pituitary-adenoma
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Growth hormone test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003706.htm
+
+Resource: Growth Hormone Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/growth-hormone-tests
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: IGF-1 (Insulin-like Growth Factor 1) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
+
+Resource: Key Statistics About Pituitary Tumors
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pituitary-tumors/key-statistics.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Pituitary apoplexy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001167.htm
+
+Resource: Pituitary gland
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000099.htm
+
+Resource: Pituitary tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000704.htm
+
+Resource: Pituitary Tumors
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/pituitary-tumors
+
+Resource: Pituitary Tumors
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pituitary-tumors.html
+
+Resource: Pituitary Tumors
+Category: Start Here
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/pituitary-tumors
+
+Resource: Pituitary Tumors Diagnosis and Prognosis
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pituitary/diagnosis-prognosis
+
+Resource: Pituitary Tumors Signs and Symptoms
+Category: Symptoms
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pituitary/symptoms
+
+Resource: Pituitary Tumors Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pituitary/treatment
+
+Resource: Prolactin blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003718.htm
+
+Resource: Prolactin Levels
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prolactin-levels/
+
+Resource: Prolactinoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000336.htm
+
+Resource: Prolactinoma
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma
+
+Resource: Pituitary Tumors
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pituitary+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stages of Childhood Craniopharyngioma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq#_25
+
+Resource: Stereotactic radiosurgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000131.htm
+
+Resource: Tests for Pituitary Tumors
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pituitary-tumors/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: TSH (Thyroid-stimulating hormone) test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/
+
+Resource: Types of Treatment for Childhood Craniopharyngioma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq#_49
+
+Resource: What Are Pituitary Tumors?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pituitary/what-are-pituitary-tumors
+
+Resource: What Are the Symptoms of Pituitary Tumors?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pituitarytumors/conditioninfo/symptoms

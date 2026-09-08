@@ -1,0 +1,193 @@
+Title: Enfermedad de Parkinson
+
+Also Called:
+- Mal de Parkinson
+- Parkinson
+- Parkinsonismo
+- Parálisis con temblor
+
+Summary:
+La enfermedad de Parkinson es un tipo de trastorno del movimiento. Ocurre cuando las células nerviosas (neuronas) no producen suficiente cantidad de una sustancia química importante en el cerebro conocida como dopamina. Algunos casos son genéticos pero la mayoría no parece darse entre miembros de una misma familia.
+Los síntomas comienzan lentamente, en general, en un lado del cuerpo. Luego afectan ambos lados. Algunos son:
+Temblor en las manos, los brazos, las piernas, la mandíbula y la cara
+Rigidez en los brazos, las piernas y el tronco
+Lentitud de los movimientos
+Problemas de equilibrio y coordinación
+A medida que los síntomas empeoran, las personas con la enfermedad pueden tener dificultades para caminar o hacer labores simples. También pueden tener problemas como depresión, trastornos del sueño o dificultades para masticar, tragar o hablar.
+No existe un examen de diagnóstico para esta enfermedad. Los doctores usan el historial del paciente y un examen neurológico para diagnosticarlo.
+La enfermedad de Parkinson suele comenzar alrededor de los 60 años, pero puede aparecer antes. Es mucho más común entre los hombres que entre las mujeres. No existe una cura para la enfermedad de Parkinson. Existen diversas medicinas que a veces ayudan a mejorar enormemente los síntomas. En casos severos, una cirugía y estimulación cerebral profunda (electrodos implantados en el cerebro que envían pulsos para estimular las partes del cerebro que controlan el movimiento) pueden ayudar.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Personas mayores
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: 10 signos de alerta temprana (enfermedad de Parkinson)
+Category: Síntomas, Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/10signos
+
+Resource: 4 descubrimientos más allá del cerebro
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/4-descubrimientos-mas-alla-del-cerebro
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Avances en el Parkinson: Deconstrucción de la degeneración de la dopamina
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/avances-en-el-parkinson
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Cognición y el Parkinson
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/library/espanol/fact-sheets/cognicion
+
+Resource: Condiciones que imitan el Parkinson
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/diagnosticado/condiciones-que-imitan
+
+Resource: Enfermedad de Parkinson
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/parkinson.html
+
+Resource: Enfermedad de Parkinson
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/parkinsons-disease/symptoms-causes/syc-20376055?p=1
+
+Resource: Enfermedad de Parkinson: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/parkinsons-disease/diagnosis-treatment/drc-20376062?p=1
+
+Resource: Enfermedad de Parkinson: ser diagnosticado
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/diagnosticado
+
+Resource: Estadísticas
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/estadisticas
+
+Resource: Estimulación cerebral profunda
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007453.htm
+
+Resource: Etapas del Parkinson
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/que-es-parkinson/etapas
+
+Resource: Explicación de la enfermedad de Parkinson
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/explicacion-de-la-enfermedad-de-parkinson
+
+Resource: Fatiga y trastornos del sueño
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/library/espanol/fact-sheets/fatiga
+
+Resource: Habla y la deglución (tragar) en el Parkinson
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/library/espanol/fact-sheets/habla-deglucion
+
+Resource: Mal de Parkinson
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000755.htm
+
+Resource: Mal de Parkinson
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000095.htm
+
+Resource: Manejo y estilo de vida
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/vivir-con-parkinson/manejo-y-estilo-de-vida
+
+Resource: Nutrición y la enfermedad de Parkinson: ¿Qué es lo que más importa?
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/library/espanol/fact-sheets/nutricion
+
+Resource: Para aliados en el cuidado
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/recursos-y-apoyo/aliados-en-cuidado
+
+Resource: Parkinson de inicio temprano
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/que-es-parkinson/inicio-temprano
+
+Resource: Parkinsonismo secundario
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000759.htm
+
+Resource: Problemas para desplazarse o caminar
+Category: Spanish/Español, Síntomas
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/sintomas-motores/problemas-desplazarse
+
+Resource: Problemas para tragar
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Recomendaciones de ejercicio para el Parkinson
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/library/espanol/fact-sheets/recomendaciones-ejercicio
+
+Resource: Síntomas no motores: el dolor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/sintomas-no-motores/dolor
+
+Resource: Síntomas no motores: habla y deglución
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/sintomas-no-motores/habla-deglucion
+
+Resource: Terapias sin receta y complementarias
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/vivir-con-parkinson/medicamentos-recetados/terapias-receta-y-complementarias
+
+Resource: Tomografía por emisión de positrones (TEP) del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007341.htm
+
+Resource: Viviendo bien (con enfermedad de Parkinson)
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/viviendo-bien
+
+Resource: Vivir con Parkinson
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/vivir-con-parkinson

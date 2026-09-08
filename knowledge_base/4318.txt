@@ -1,0 +1,163 @@
+Title: Cushing's Syndrome
+
+Also Called:
+- Hypercortisolism
+
+Summary:
+Cushing's syndrome is a hormonal disorder. The cause is long-term exposure to too much cortisol, a hormone that your adrenal gland makes. Sometimes, taking synthetic hormone medicine to treat an inflammatory disease leads to Cushing's. Some kinds of tumors produce a hormone that can cause your body to make too much cortisol.
+Cushing's syndrome is rare. Some symptoms are:
+Upper body obesity
+Thin arms and legs
+Severe fatigue and muscle weakness
+High blood pressure
+High blood sugar
+Easy bruising
+Lab tests can show if you have it and find the cause. Your treatment will depend on why you have too much cortisol. If it is because you have been taking synthetic hormones, a lower dose may control your symptoms. If the cause is a tumor, surgery and other therapies may be needed.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+
+MeSH Headings:
+- Cushing Syndrome
+
+Related Resources:
+
+Resource: ACTH blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003695.htm
+
+Resource: Adrenocorticotropic Hormone (ACTH)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/adrenocorticotropic-hormone-acth/
+
+Resource: ClinicalTrials.gov: Cushing Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cushing+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Cortisol blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003693.htm
+
+Resource: Cortisol Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cortisol-test/
+
+Resource: Cortisol urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003703.htm
+
+Resource: Cushing disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000348.htm
+
+Resource: Cushing disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cushing-disease
+
+Resource: Cushing syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000410.htm
+
+Resource: Cushing Syndrome
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/adrenal-gland-disorders/cushing-syndrome
+
+Resource: Cushing Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cushing-syndrome.html
+
+Resource: Cushing syndrome due to adrenal tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000407.htm
+
+Resource: Cushing's Syndrome
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/cushings-syndrome
+
+Resource: Dexamethasone suppression test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003694.htm
+
+Resource: Ectopic Cushing syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000406.htm
+
+Resource: Endocrine System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Exogenous Cushing syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000389.htm
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: How Do Health Care Providers Diagnose Cushing's Syndrome?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/conditioninfo/diagnosis
+
+Resource: Hump on upper back (dorsocervical fat pad)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003112.htm
+
+Resource: Is There a Cure for Cushing's Syndrome?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/conditioninfo/cure
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Other Cushing's Syndrome FAQs
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/more_information/other-faqs
+
+Resource: Cushing's Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cushing+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Are the Symptoms of Cushing's Syndrome?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/conditioninfo/symptoms
+
+Resource: What Are the Treatments for Cushing's Syndrome?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/conditioninfo/treatments
+
+Resource: What Causes Cushing's Syndrome?
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cushing/conditioninfo/causes

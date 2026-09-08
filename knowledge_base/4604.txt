@@ -1,0 +1,94 @@
+Title: Wildfires
+
+Also Called:
+- Forest Fire
+- Wildland Fire
+
+Summary:
+Wildfires are fires that burn out of control in a natural area, like a forest, grassland, or prairie. They often begin unnoticed. They spread quickly, and can damage natural resources, destroy homes, and threaten the safety of the public and firefighters.
+Humans cause most wildfires. It can be an accident, like when people don't take care of their campfire properly, burn debris, or are careless when getting rid of their cigarettes. It can also be on purpose, which is called arson. Lightning and
+lava
+also can also cause wildfires. Wildfires are more common when conditions are dry. High winds can make them spread more quickly.
+Although there are no guarantees of safety if you live in an area threatened by a wildfire, you can take actions to protect yourself. You should have a
+disaster plan
+. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Wildfires
+
+Related Resources:
+
+Resource: AirNow.gov
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.airnow.gov/
+
+Resource: Avoiding Wildfire Damage: A Checklist for Homeowners
+Category: Patient Handouts
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/pdf/hazard/wildfire/wdfrdam.pdf
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: How Wildfire Smoke Affects Your Body
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/wildfires/risk-factors/
+
+Resource: National Fire News -- Current Wildfires
+Category: Learn More
+Organization: National Interagency Fire Center
+URL: https://www.nifc.gov/fire-information/nfn
+
+Resource: Protecting Children from Wildfire Smoke and Ash
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sites/default/files/2018-11/documents/protecting-children-from-wildfire-smoke-and-ash.pdf
+
+Resource: Wildfires
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Wildfires%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety Guidelines: After a Wildfire
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-after-a-wildfire.html
+
+Resource: Safety Guidelines: Wildfires and Wildfire Smoke
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/wildfires/safety/how-to-safely-stay-safe-during-a-wildfire.html
+
+Resource: Wildfire Smoke and Burning Eyes: 5 Ways to Cope
+Category: Learn More
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/what-to-do-when-smoke-gets-in-your-eyes
+
+Resource: Wildfires
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/wildfires
+
+Resource: Wildfires
+Category: Learn More
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/mental-health/disaster-preparedness/disaster-types/wildfires
+
+Resource: Wildfires and Your Safety
+Category: Start Here, Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/wildfires/about/index.html
+
+Resource: Wildfires: What Parents Need to Know
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Wildfires-Information-for-Parents.aspx

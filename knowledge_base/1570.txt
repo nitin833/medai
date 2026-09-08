@@ -1,0 +1,137 @@
+Title: Transient Ischemic Attack
+
+Also Called:
+- Mini-stroke
+- TIA
+
+Summary:
+A transient ischemic attack (TIA) is a
+stroke
+that lasts only a few minutes. It happens when the blood supply to part of the brain is briefly blocked. Symptoms of a TIA are like other stroke symptoms, but do not last as long. They happen suddenly, and include:
+Numbness or weakness, especially on one side of the body
+Confusion or trouble speaking or understanding speech
+Trouble seeing in one or both eyes
+Difficulty walking
+Dizziness
+Loss of balance or coordination
+Most symptoms of a TIA disappear within an hour, although they may last for up to 24 hours. Because you cannot tell if these symptoms are from a TIA or a stroke, you should go to the hospital right away.
+TIAs are often a warning sign for future
+strokes
+. Taking medicine, such as
+blood thinners
+, may reduce your risk of a stroke. Your doctor might also recommend surgery. You can also help lower your risk by having a
+healthy lifestyle
+. This includes not smoking, not drinking too much, eating a healthy diet, and exercising. It is also important to control other health problems, such as
+high blood pressure
+and
+cholesterol
+.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Blood, Heart and Circulation
+- Brain and Nerves
+
+MeSH Headings:
+- Ischemic Attack, Transient
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Blood Thinners: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodthinners.html
+
+Resource: Brain MRI (Head MRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mri-brain
+
+Resource: Carotid artery surgery - open
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002951.htm
+
+Resource: Carotid Ultrasound Imaging
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-carotid
+
+Resource: ClinicalTrials.gov: Ischemic Attack, Transient
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ischemic+Attack,+Transient%22&aggFilters=status:not%20rec
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: Heart and Stroke Statistics
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-and-stroke-association-statistics
+
+Resource: Life after Stroke
+Category: Related Issues
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/life-after-stroke
+
+Resource: Ministroke vs. Regular Stroke: What's the Difference?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/transient-ischemic-attack/expert-answers/mini-stroke/faq-20058390?p=1
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Transient Ischemic Attack
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ischemic+Attack%2C+Transient%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stroke Signs and Symptoms
+Category: Symptoms
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/stroke/signs-and-symptoms
+
+Resource: Stroke Symptoms and Warning Signs
+Category: Symptoms
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/stroke-symptoms
+
+Resource: Transient ischemic attack
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000730.htm
+
+Resource: Transient Ischemic Attack
+Category: Videos and Tutorials
+Organization: American Heart Association
+URL: https://watchlearnlive.heart.org/index.php?moduleSelect=tisatk
+
+Resource: Transient Ischemic Attack (TIA)
+Category: Start Here
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/types-of-stroke/tia-transient-ischemic-attack
+
+Resource: Transient Ischemic Attack (TIA)
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/transient-ischemic-attack-tia
+
+Resource: Vertebrobasilar circulatory disorders
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001423.htm
+
+Resource: What Are Stents?
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/stents

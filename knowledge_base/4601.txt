@@ -1,0 +1,69 @@
+Title: Volcanes
+
+Summary:
+Un volcán es una abertura en la corteza terrestre. Cuando un volcán hace erupción, salen a la superficie terrestre rocas calientes, vapor, gases tóxicos y cenizas. Una erupción también puede causar
+terremotos
+, flujos de lodo e
+inundaciones
+repentinas, caídas de rocas y deslizamientos de tierra, lluvia ácida,
+incendios
+, y hasta
+tsunamis
+.
+El gas y las cenizas provenientes del volcán pueden lesionar los pulmones de los niños pequeños, los adultos mayores  y las personas con enfermedades respiratorias graves. Las cenizas volcánicas pueden afectar a personas que se encuentren a cientos de millas del lugar de la erupción.
+Aunque no hay garantías de seguridad durante una erupción volcánica, usted puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. El estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Es probable que necesite
+ayuda para superarlo
+.
+Agencia Federal para el Manejo de Emergencias
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Datos importantes sobre la preparación para una erupción volcánica
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/volcanoes/before.html
+
+Resource: Datos importantes sobre las erupciones
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/volcanoes/facts.html
+
+Resource: Datos importantes sobre su protección después de una erupción volcánica
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/volcanoes/after.html
+
+Resource: Los deslizamientos de tierra, los aludes de barro y su seguridad
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/landslides-and-mudslides/es/about/los-deslizamientos-de-tierra-los-aludes-de-barro-y-su-seguridad.html
+
+Resource: Problemas pulmonares y esmog volcánico
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007468.htm
+
+Resource: Volcanes
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/volcanes
+
+Resource: Volcanes
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/volcanes
+
+Resource: ¿Cuáles son las amenazas o peligros volcánicos?
+Category: Más información, Spanish/Español
+Organization: Servicio Geológico de los Estados Unidos
+URL: https://pubs.usgs.gov/fs/fs144-00/fs144-00.pdf
+
+Resource: ¿Necesita ayuda después de un desastre?
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.disasterassistance.gov/es

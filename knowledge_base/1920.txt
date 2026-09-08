@@ -1,0 +1,217 @@
+Title: Genes y terapia genética
+
+Also Called:
+- Genoterapia
+- Terapia génica
+
+Summary:
+¿Qué son los genes?
+Los
+genes
+son secciones de
+ADN
+en sus células que se transmiten (heredan) de sus padres. Usted hereda dos copias de cada gen, una de cada padre. Los genes contienen información que controla su apariencia y el funcionamiento de su cuerpo..
+Existen alrededor de 20.000 genes que proporcionan instrucciones para la producción de proteínas, necesarias para que su cuerpo funcione correctamente.
+Algunos genes no producen proteínas por sí mismos, sino que ayudan a controlar el funcionamiento de otros genes. Actúan como interruptores, activando o desactivando otros genes. Esto significa que ayudan a decidir cuándo, dónde y cuánta proteína se produce en su cuerpo.
+¿Qué sucede cuando los genes cambian?
+Los cambios en los genes también se llaman variantes o mutaciones genéticas. Estos cambios pueden ser hereditarios, ocurrir con la edad o ser resultado de factores ambientales como sustancias químicas o radiación. Normalmente, estos cambios no tienen ningún efecto, pero a veces, incluso un pequeño cambio en el ADN puede alterar las instrucciones para la producción de proteínas. Si los genes no producen las proteínas adecuadas, o no las producen correctamente, esto puede causar una
+enfermedad genética
+.
+¿Qué es la terapia genética?
+La terapia genética (también conocida como terapia génica o genoterapia) usa genes para tratar o prevenir enfermedades al corregir problemas genéticos. Esta funciona al modificar el material genético, en lugar de depender de tratamientos tradicionales como medicamentos o cirugía.
+Se puede introducir nuevo material genético en las células de dos maneras principales:
+Tratamiento
+ex-vivo
+. Se extraen células del cuerpo, se modifican añadiendo material genético y luego se reintroducen en el organismo
+Tratamiento
+in-vivo
+. El material genético se introduce directamente en el cuerpo, por lo general mediante una inyección
+Una forma común de terapia genética consiste en insertar un gen normal para reemplazar un gen anormal. Otros enfoques incluyen:
+Reparación de un gen anormal
+Alteración del grado en el que se active o se desactive un genf
+Las técnicas más recientes ofrecen diferentes maneras de corregir problemas genéticos:
+Edición de genes
+(también llamada edición genética): En lugar de añadir nuevo material genético a las células, este enfoque modifica el ADN que ya se encuentra en ellas. Un ejemplo bien conocido es CRISPR-Cas9. Esta  técnica prometedora  aún se está estudiando y pronto podría utilizarse para tratar enfermedades genéticas
+Terapia genética celular:
+Combina la terapia genética y la terapia celular. Un ejemplo de esto sería la terapia con células CAR-T. Las células, que por lo general son células del
+sistema inmunitario
+, se modifican genéticamente para ayudar a tratar una enfermedad y luego se introducen en el organismo
+Actualmente, las terapias genéticas sólo  están aprobadas para tratar un número reducido de enfermedades, como:
+Amaurosis congénita de Leber, un trastorno ocular hereditario
+Atrofia muscular espinal, un trastorno muscular genético
+¿Cuáles son los riesgos y los desafíos de la terapia genética?
+Si bien la terapia genética es muy prometedora, conlleva riesgos y desafíos. Aún se están realizando estudios para garantizar la seguridad y eficacia de estos tratamientos. Algunos desafíos incluyen:
+Reacciones del sistema inmunitario:
+El cuerpo podría percibir el nuevo material como una amenaza y reaccionar ante él
+Efectos no deseados:
+Los cambios en el ADN podrían afectar a otros genes de forma perjudicial
+Altos costos:
+Las terapias genéticas suelen ser costosas y no son de fácil acceso
+
+Groups:
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Breve guía de genómica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Breve-guia-de-genomica
+
+Resource: Cromosomas
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Cromosomas
+
+Resource: Cómo la terapia génica puede curar o tratar enfermedades
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/como-la-terapia-genica-puede-curar-o-tratar-enfermedades
+
+Resource: Entender la genética y la salud
+Category: Comience aquí, Spanish/Español
+Organization: Alianza Genética
+URL: https://www.ncbi.nlm.nih.gov/books/NBK115596/pdf/Bookshelf_NBK115596.pdf
+
+Resource: Epigenómica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Epigenomica
+
+Resource: Formas comunes de herencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/formas-comunes-de-herencia.aspx
+
+Resource: Genes
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002371.htm
+
+Resource: Genes y genética
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/genes-genetic-disorders.html
+
+Resource: Genética
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002048.htm
+
+Resource: Genética (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/about-genetics.html
+
+Resource: Glosario hablado de términos genéticos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Información genética de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/
+
+Resource: Las genoterapias son un camino prometedor para el tratamiento de enfermedades raras
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/genoterapias-son-un-camino-prometedor-para-el-tratamiento-de-enfermedades-raras
+
+Resource: Mutaciones genéticas (cambios genéticos)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/gene-mutations.html
+
+Resource: Preguntas frecuentes sobre la farmacogenómica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/FAQ/Preguntas-frecuentes-sobre-la-farmacogenomica
+
+Resource: Pruebas de biomarcadores para el tratamiento de cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer
+
+Resource: Qué son las terapias genéticas
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/terapias-geneticas
+
+Resource: Tecnología de micromatriz de ADN
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Tecnologia-de-micromatriz-de-ADN
+
+Resource: Terapia génica
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.msdmanuals.com/es/hogar/fundamentos/gen%C3%A9tica/terapia-g%C3%A9nica
+
+Resource: Terapia génica
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/gene-therapy/about/pac-20384619?p=1
+
+Resource: Tesha Samuels aboga por otras personas después de vivir con la enfermedad de células falciformes
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/tesha-samuels-aboga-por-otras-personas-despues-de-vivir-con-la-enfermedad-de-celulas-falciformes
+
+Resource: Transcriptoma
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Transcriptoma
+
+Resource: Vías biológicas
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Vias-Biologicas
+
+Resource: ¿Cómo funciona la terapia genética?
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/terapia/procedimientos/
+
+Resource: ¿Qué es la epigenética? Información genética de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/comofuncionangenes/epigenetica/
+
+Resource: ¿Qué es la secuenciación completa del exoma y la secuenciación completa del genoma? Información genética de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/pruebas/secuenciacion/
+
+Resource: ¿Qué es la terapia de células T con CAR, terapia ARN y otras terapias genéticas?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/terapia/otrasterapiasgeneticas/
+
+Resource: ¿Qué es la terapia genética?
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/terapia/terapiagenetica/
+
+Resource: ¿Qué es la terapia genética? ¿Cómo funciona?
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/que-es-la-terapia-genetica-como-funciona
+
+Resource: ¿Qué es un gen?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/what-is-gene.html
+
+Resource: ¿Qué es un gen?
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/basica/gen/
+
+Resource: ¿Qué son la edición del genoma y CRISPR-Cas9?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/investigaciongenomica/ediciondelgenoma/
+
+Resource: ¿Qué son las pruebas de ascendencia genética? Información genética de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/pruebasdirectasalconsumidor/pruebasdeascendencia/

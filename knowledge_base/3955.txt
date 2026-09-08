@@ -1,0 +1,258 @@
+Title: Nuclear Scans
+
+Also Called:
+- Radioisotope scans
+- Radionuclide scans
+
+Summary:
+What is a nuclear scan?
+A nuclear scan is a type of medical
+imaging test
+that uses a small amount of radioactive material, called a radiotracer. This scan shows how organs and tissues are working, not just what they look like.
+After the radiotracer is given, a special camera detects the radiation coming from inside the body. This allows your health care provider to see organ function, blood flow, or tissue activity, which can help diagnose conditions and check how well treatment is working.
+Who needs a nuclear scan?
+Nuclear scans may be used to find disease, target certain cells, and monitor response to treatment. They are commonly used to:
+Check how organs such as the heart, lungs, or kidneys are working
+Find disease early, sometimes before changes can be seen on other imaging tests
+Perform bone scans
+Evaluate the
+thyroid
+Check how well
+cancer
+treatment is working
+How do you prepare for a nuclear scan?
+Before the scan, you will receive a small amount of radiotracer. This may be given as:
+An injection
+A pill or liquid to swallow
+A gas to inhale
+The radiotracer travels to the part of the body being examined. How much of the tracer is absorbed can help show how well an organ or tissue is functioning.
+Always tell your provider if you are pregnant, think you may be pregnant, or are breastfeeding.
+How is a nuclear scan done?
+You may be asked to change clothes and remove jewelry or other items that could interfere with the scan. Ask your provider if there are any special instructions before your scan.
+Depending on the type of nuclear scan, you may:
+Lie on a table
+Sit in a chair
+Stand
+Walk on a treadmill or ride a stationary bike (for some heart scans)
+You will be asked to stay as still as possible, unless movement is part of the test.
+A special imaging device, such as a gamma camera, single-photon emission computed tomography (SPECT) scanner, or positron emission tomography (
+PET
+) scanner, detects
+radiation
+from the tracer and creates images.
+The length of the scan depends on the type of test and the area being examined. Some scans take only minutes. Others may include waiting periods or require you to return later the same day or over several days.
+What should you expect after a nuclear scan?
+Most people can return to normal activities right away. Drinking fluids may help your body clear the radiotracer.
+A specialist called a radiologist reviews the images and shares the results with your provider.
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- Radionuclide Imaging
+
+Related Resources:
+
+Resource: Bone scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003833.htm
+
+Resource: Bone Scan
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bone-scan
+
+Resource: Brain PET scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007341.htm
+
+Resource: Cardiac (Heart) Nuclear Medicine
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/cardinuclear
+
+Resource: ClinicalTrials.gov: Positron-Emission Tomography
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Positron-Emission%20Tomography%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Radionuclide Imaging
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Radionuclide+Imaging%22&aggFilters=status:not%20rec
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Gallbladder radionuclide scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003826.htm
+
+Resource: Gallium scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003450.htm
+
+Resource: General Nuclear Medicine
+Category: Start Here
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/gennuclear
+
+Resource: Heart PET scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007343.htm
+
+Resource: Hepatobiliary Nuclear Medicine
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/hepatobiliary
+
+Resource: Liver scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003825.htm
+
+Resource: Lung gallium scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003824.htm
+
+Resource: Lymphoscintigraphy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/lympho
+
+Resource: MIBG scintiscan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003830.htm
+
+Resource: Nuclear Medicine
+Category: Start Here
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/science-education/science-topics/nuclear-medicine
+
+Resource: Nuclear Medicine Scans for Cancer
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests/imaging-tests/nuclear-medicine-scans-for-cancer.html
+
+Resource: Nuclear stress test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007201.htm
+
+Resource: Nuclear ventriculography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003822.htm
+
+Resource: Pediatric Nuclear Medicine
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/nuclear-pdi
+
+Resource: PET Scan
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pet-scan/
+
+Resource: PET scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003827.htm
+
+Resource: PET scan for breast cancer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007469.htm
+
+Resource: Nuclear Scans
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Radionuclide+Imaging%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary ventilation/perfusion scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003828.htm
+
+Resource: Radiation Exposure and Pregnancy
+Category: Women
+Organization: Health Physics Society
+URL: https://hps.org/wp-content/uploads/2024/12/pregnancy_fact_sheet.pdf
+
+Resource: Radiation Exposure from Medical Exams and Procedures
+Category: Prevention and Risk Factors
+Organization: Health Physics Society
+URL: https://hps.org/wp-content/uploads/2024/12/Medical_Exposures_Fact_Sheet.pdf
+
+Resource: RadiologyInfo
+Category: Find an Expert
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/
+
+Resource: RadiologyInfo: Glossary of Terms
+Category: Reference Desk
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/glossary-index
+
+Resource: Radionuclide cisternogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003823.htm
+
+Resource: Radionuclide cystogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003832.htm
+
+Resource: RBC nuclear scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003835.htm
+
+Resource: Renal (Kidney) Scintigraphy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/Renal
+
+Resource: Renal perfusion scintiscan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003831.htm
+
+Resource: SPECT Scan (Single-Photon Emission Computerized Tomography)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spect-scan/about/pac-20384925?p=1
+
+Resource: Stress Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/stress-tests/
+
+Resource: Thyroid scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003829.htm
+
+Resource: Thyroid Scan and Uptake
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/thyroiduptake
+
+Resource: What You Should Know About Pediatric Nuclear Medicine and Radiation Safety
+Category: Children
+Organization: Alliance for Radiation Safety in Pediatric Imaging
+URL: https://www.imagegently.org/Portals/6/Nuclear%20Medicine/Parent%20Brochure%208th%20Grade.pdf
+
+Resource: Your Radiologist Explains Nuclear Medicine
+Category: Videos and Tutorials
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/gallery/video/977

@@ -1,0 +1,151 @@
+Title: Carotid Artery Disease
+
+Summary:
+Your carotid arteries are two large blood vessels in your neck. They supply your brain and head with blood.  If you have carotid artery disease, the arteries become narrow or blocked, usually because of
+atherosclerosis
+. Atherosclerosis is the buildup of plaque, which is made up of fat,
+cholesterol
+, calcium, and other substances found in the blood.
+Carotid artery disease is serious because it can block the blood flow to your brain, causing a
+stroke
+. Too much plaque in the artery can cause a blockage. You can also have a blockage when a piece of plaque or a
+blood clot
+breaks off the wall of an artery. The plaque or clot can travel through the bloodstream and get stuck in one of your brain's smaller arteries.
+Carotid artery disease often does not cause symptoms until the blockage or narrowing is severe.  One sign may be a bruit (whooshing sound) that your doctor hears when listening to your artery with a stethoscope. Another sign is a
+transient ischemic attack
+(TIA), a "mini-stroke." A TIA is like a stroke, but it only lasts a few minutes, and the symptoms usually go away within an hour. Stroke is another sign.
+Imaging tests can confirm whether you have carotid artery disease.
+Treatments may include:
+Healthy lifestyle changes
+Medicines
+Carotid endarterectomy, surgery to remove the plaque
+Angioplasty
+, a procedure to place a balloon and stent into the artery to open it and hold it open
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Carotid Artery Diseases
+
+Related Resources:
+
+Resource: American Stroke Association
+Category: Find an Expert
+Organization: American Stroke Association
+URL: https://www.stroke.org/
+
+Resource: Angioplasty and stent placement - carotid artery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002953.htm
+
+Resource: Angioplasty and stent placement - carotid artery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000235.htm
+
+Resource: Asymptomatic Carotid Artery Stenosis: Screening
+Category: Diagnosis and Tests
+Organization: U.S. Preventive Services Task Force
+URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/carotid-artery-stenosis-screening
+
+Resource: Carotid Angioplasty and Stenting
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/carotid-angioplasty-and-stenting/about/pac-20385111?p=1
+
+Resource: Carotid Artery Disease
+Category: Start Here
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/carotid-artery-disease/
+
+Resource: Carotid Artery Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/carotid-artery-disease/symptoms-causes/syc-20360519?p=1
+
+Resource: Carotid artery disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007427.htm
+
+Resource: Carotid Artery Screening
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/screening-carotid
+
+Resource: Carotid artery stenosis - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000717.htm
+
+Resource: Carotid artery surgery - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000238.htm
+
+Resource: Carotid artery surgery - open
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002951.htm
+
+Resource: Carotid artery surgery - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100124_1.htm
+
+Resource: Carotid duplex
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003774.htm
+
+Resource: Carotid Ultrasound Imaging
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-carotid
+
+Resource: ClinicalTrials.gov: Carotid Artery Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carotid+Artery+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Carotid Stenosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carotid+Stenosis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Endarterectomy, Carotid
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=carotid+endarterectomy&aggFilters=status:not%20rec
+
+Resource: Doppler Ultrasound
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/doppler-ultrasound/
+
+Resource: Let's Talk about Carotid Endarterectomy
+Category: Treatments and Therapies
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/help-and-support/resource-library/lets-talk-about-stroke/carotid-endarterectomy
+
+Resource: MR Angiography (MRA)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiomr
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Carotid Artery Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Carotid+Artery+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Is Atherosclerosis?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/atherosclerosis

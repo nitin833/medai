@@ -1,0 +1,90 @@
+Title: Trastornos del metabolismo de los lípidos
+
+Also Called:
+- Trastornos del metabolismo de las grasas
+
+Summary:
+El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la  comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un
+trastornos metabólico
+, hay un problema en este proceso.
+Los trastornos del metabolismo de los lípidos, como la
+enfermedad de Gaucher
+y la
+enfermedad de Tay-Sachs
+, tienen que ver con los lípidos. Los lípidos son grasas o sustancias similares a la grasa. Estos incluyen aceites, ácidos grasos, ceras y colesterol. Si usted tiene alguno de estos trastornos, puede que no tenga suficientes enzimas para descomponer los lípidos, o las enzimas pueden no funcionar en forma correcta y su cuerpo no puede convertir las grasas en energía. Esto causa que una cantidad dañina de lípidos se acumule en su organismo. Con el tiempo, se pueden dañar las células y los tejidos, especialmente en el cerebro, el sistema nervioso periférico, el hígado, el bazo y la médula ósea. Muchos de estos trastornos pueden ser muy graves, o incluso a veces fatales.
+Estos trastornos se heredan. Muchos bebés recién nacidos son sometidos a
+pruebas
+mediante análisis de sangre. Si hay historia familiar de uno de estos trastornos, los padres pueden obtener
+pruebas genéticas
+para ver si son portadores del gen. Otras pruebas genéticas pueden determinar si el feto tiene el trastorno o si es portador del gen del trastorno.
+Las terapias de reemplazo de enzimas pueden ayudar con algunos de estos trastornos. Para otros no existe tratamiento. Medicamentos, transfusiones de sangre y otros procedimientos pueden ayudar con las complicaciones.
+
+Groups:
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Acidemia metilmalónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001162.htm
+
+Resource: Deficiencia de la lipasa ácida lisosómica
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12098/deficiencia-de-la-lipasa-acida-lisosomica/
+
+Resource: Deficiencia de LCHAD
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13052/deficiencia-de-lchad/
+
+Resource: Deficiencia familiar de lipoproteinlipasa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000408.htm
+
+Resource: Enfermedad de Gaucher: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/gaucherdisease.html
+
+Resource: Enfermedad de Niemann-Pick
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001207.htm
+
+Resource: Enfermedad de Tay-Sachs: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/taysachsdisease.html
+
+Resource: Evaluación del recién nacido: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/newbornscreening.html
+
+Resource: Examen de ácido metilmalónico en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003565.htm
+
+Resource: Pruebas genéticas: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetictesting.html
+
+Resource: Síndrome de Bassen-Kornzweig
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001666.htm
+
+Resource: Síndrome de quilomicronemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000405.htm
+
+Resource: Xantoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001447.htm

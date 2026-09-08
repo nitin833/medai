@@ -1,0 +1,438 @@
+Title: Craniofacial Abnormalities
+
+Summary:
+Craniofacial is a medical term that relates to the bones of the skull and face. Craniofacial abnormalities are
+birth defects
+of the face or head. Some, like
+cleft lip and palate
+, are among the most common of all birth defects. Others are very rare. Most of them affect how a person's face or head looks. These conditions may also affect other parts of the body.
+Treatment depends on the type of problem. Plastic and reconstructive surgery may help the person's appearance.
+
+Groups:
+- Bones, Joints and Muscles
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Craniofacial Abnormalities
+
+Related Resources:
+
+Resource: 3MC syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3mc-syndrome/
+
+Resource: Aarskog-Scott syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aarskog-scott-syndrome/
+
+Resource: About Care Teams
+Category: Treatments and Therapies
+Organization: American Cleft Palate-Craniofacial Association
+URL: https://acpacares.org/about-care-teams/
+
+Resource: About Holoprosencephaly
+Category: Specifics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Holoprosencephaly
+
+Resource: Acrocallosal syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/acrocallosal-syndrome/
+
+Resource: American Academy of Facial Plastic and Reconstructive Surgery
+Category: Find an Expert
+Organization: American Academy of Facial Plastic and Reconstructive Surgery
+URL: https://www.aafprs.org/
+
+Resource: Apert syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001581.htm
+
+Resource: Apert syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/apert-syndrome
+
+Resource: Baby's Head Shape: Cause for Concern?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20045964?p=1
+
+Resource: Baller-Gerold syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/baller-gerold-syndrome
+
+Resource: Beare-Stevenson cutis gyrata syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beare-stevenson-cutis-gyrata-syndrome
+
+Resource: Birth Disorders of the Brain and Spinal Cord
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/birth-disorders-brain-and-spinal-cord
+
+Resource: Blepharocheilodontic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/blepharocheilodontic-syndrome
+
+Resource: Bohring-Opitz syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bohring-opitz-syndrome
+
+Resource: Bosma arhinia microphthalmia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bosma-arhinia-microphthalmia-syndrome
+
+Resource: Bowen-Conradi syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bowen-conradi-syndrome
+
+Resource: Branchio-oculo-facial syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/branchio-oculo-facial-syndrome
+
+Resource: Burn-McKeown syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/burn-mckeown-syndrome
+
+Resource: Cardiofaciocutaneous syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cardiofaciocutaneous-syndrome
+
+Resource: Carpenter syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carpenter-syndrome
+
+Resource: CCA Newsletters
+Category: Children
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/newsletters.html
+
+Resource: Cerebro-facio-thoracic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cerebro-facio-thoracic-dysplasia
+
+Resource: Cherubism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cherubism
+
+Resource: Cleidocranial dysostosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001589.htm
+
+Resource: Cleidocranial dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cleidocranial-dysplasia
+
+Resource: ClinicalTrials.gov: Craniofacial Abnormalities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Craniofacial+Abnormalities%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Craniosynostoses
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Craniosynostoses%22&aggFilters=status:not%20rec
+
+Resource: Coffin-Lowry Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/coffin-lowry-syndrome
+
+Resource: Craniofacial microsomia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/craniofacial-microsomia
+
+Resource: Craniofacial reconstruction - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100058_1.htm
+
+Resource: Craniofrontonasal syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/craniofrontonasal-syndrome
+
+Resource: Craniometaphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/craniometaphyseal-dysplasia
+
+Resource: Craniosynostosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/craniosynostosis/symptoms-causes/syc-20354513?p=1
+
+Resource: Craniosynostosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001590.htm
+
+Resource: Craniosynostosis repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007364.htm
+
+Resource: Craniosynostosis repair - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000067.htm
+
+Resource: Crouzon syndrome with acanthosis nigricans: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crouzon-syndrome-with-acanthosis-nigricans/
+
+Resource: Crouzon syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crouzon-syndrome
+
+Resource: Enlarged parietal foramina: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/enlarged-parietal-foramina
+
+Resource: Facial Prostheses
+Category: Treatments and Therapies
+Organization: American Academy of Maxillofacial Prosthetics
+URL: https://www.maxillofacialprosthetics.org/resources/patient_education/facial_prostheses/
+
+Resource: Flat Head Syndrome (Positional Plagiocephaly)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/positional-plagiocephaly.html
+
+Resource: Frontonasal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/frontonasal-dysplasia
+
+Resource: Goldenhar Syndrome (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/goldenhar-syndrome.html
+
+Resource: Goldenhar Syndrome/Hemifacial Microsomia
+Category: Specifics
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/goldenhar-hemifacial.html
+
+Resource: Gorlin-Chaudhry-Moss syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gorlin-chaudhry-moss-syndrome
+
+Resource: Greig cephalopolysyndactyly syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/greig-cephalopolysyndactyly-syndrome
+
+Resource: Guide to Understanding Apert Syndrome
+Category: Specifics
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2023/04/Final-Apert-Syndrome-Booklet-6.pdf
+
+Resource: Guide to Understanding Pfeiffer Syndrome
+Category: Specifics
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2022/01/pfeiffer-guide_2018.pdf
+
+Resource: Hartsfield syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hartsfield-syndrome
+
+Resource: Head and face reconstruction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002980.htm
+
+Resource: Helping Your Child Develop a Healthy Body Image
+Category: Related Issues
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2019/04/Body-Image_one-sheet-Copy.pdf
+
+Resource: Hemifacial Microsomia
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/hemifacial-microsomia
+
+Resource: Increased head circumference
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003305.htm
+
+Resource: Isolated Pierre Robin sequence: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-pierre-robin-sequence
+
+Resource: Jackson-Weiss syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/jackson-weiss-syndrome
+
+Resource: Mandibulofacial dysostosis with microcephaly: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mandibulofacial-dysostosis-with-microcephaly
+
+Resource: Metopic ridge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003312.htm
+
+Resource: Micrognathia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003306.htm
+
+Resource: Miller syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/miller-syndrome
+
+Resource: Muenke syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/muenke-syndrome
+
+Resource: Nager syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nager-syndrome
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Noonan Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/noonan-syndrome/symptoms-causes/syc-20354422?p=1
+
+Resource: Noonan syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001656.htm
+
+Resource: Oral-facial-digital syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/oral-facial-digital-syndrome
+
+Resource: Pfeiffer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pfeiffer-syndrome
+
+Resource: Pierre Robin sequence
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001607.htm
+
+Resource: Prognathism
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003026.htm
+
+Resource: Craniofacial Abnormalities
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Craniofacial+Abnormalities%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Robinow syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/robinow-syndrome
+
+Resource: Saethre-Chotzen syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/saethre-chotzen-syndrome
+
+Resource: Short philtrum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003302.htm
+
+Resource: Shprintzen-Goldberg syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/shprintzen-goldberg-syndrome
+
+Resource: Skull x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Sotos syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sotos-syndrome
+
+Resource: Sutures - ridged
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003308.htm
+
+Resource: Syndromes (Craniofacial Syndrome Descriptions)
+Category: Start Here
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/syndromes.html
+
+Resource: Thanatophoric dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/thanatophoric-dysplasia
+
+Resource: Transitioning From Pediatric to Adult Dental Care: Why, When and How?
+Category: Related Issues
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2020/10/Pediatric2Adult-Dental-Care_Overview.pdf
+
+Resource: Treacher Collins syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001659.htm
+
+Resource: Treacher Collins Syndrome (Mandibulofacial Dysostosis)
+Category: Specifics
+Organization: American Cleft Palate-Craniofacial Association
+URL: https://acpacares.org/wp-content/uploads/2023/01/ACPA_booklet_treachercollins_web.pdf
+
+Resource: Treacher Collins syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/treacher-collins-syndrome
+
+Resource: Weaver syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/weaver-syndrome
+
+Resource: What Siblings Would Like Parents and Service Providers to Know
+Category: Related Issues
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2021/08/What-Siblings-Want-You-To-Know.pdf

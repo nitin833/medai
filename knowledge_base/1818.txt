@@ -1,0 +1,119 @@
+Title: Atragantamiento
+
+Also Called:
+- Asfixia mecánica
+- Atragantarse
+
+Summary:
+Los alimentos u objetos pequeños que quedan atrapados en la garganta obstruyen las vías respiratorias y causan asfixia. Esto impide que el oxígeno llegue a los pulmones y al cerebro. Si el cerebro permanece sin oxígeno durante más de cuatro minutos, puede ocurrir algún daño cerebral o la muerte.
+Los niños pequeños son los que están a mayor riesgo de asfixia. Pueden asfixiarse con comida, como las salchichas, las nueces, las uvas y objetos pequeños, como partes de juguetes y monedas. Es importante mantener estos objetos pequeños fuera de su alcance y supervisarlos mientras comen.
+Cuando alguien se esté asfixiando, una acción rápida puede salvarle la vida. Aprenda a dar golpes en la espalda, a realizar la maniobra de Heimlich y a hacer
+RCP
+(resucitación cardiopulmonar).
+
+Groups:
+- Pulmón y vías respiratorias
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: Aprenda RCP ¡Sí, se puede!
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Universidad de Washington, Facultad de Medicina
+URL: http://depts.washington.edu/learncpr/spanish/
+
+Resource: Asfixia en adulto o niño mayor de un año
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000049.htm
+
+Resource: Asfixia en adultos o niños mayores de 1 año inconscientes
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000051.htm
+
+Resource: Asfixia en niños menores de un año
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000048.htm
+
+Resource: Asfixia por aspiración
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/choking.html
+
+Resource: Atragantamiento: primeros auxilios
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-choking/basics/art-20056637?p=1
+
+Resource: Compresiones abdominales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000047.htm
+
+Resource: Ingestión de objetos extraños
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000036.htm
+
+Resource: Inhalación de objetos extraños (en niños)
+Category: Enciclopedia, Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007738.htm
+
+Resource: Maniobra de Heimlich en usted mismo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001983.htm
+
+Resource: Obstrucción de las vías respiratorias altas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000067.htm
+
+Resource: Prevención de asfixia por atragantamiento en bebés y niños
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/paginas/choking-prevention.aspx
+
+Resource: Primeros auxilios en caso de ahogamiento en adultos o niños de más de un año
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100222_1.htm
+
+Resource: Primeros auxilios: Asfixia por aspiración
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/choking-sheet.html
+
+Resource: Procedimiento de emergencia por obstrucción de tráquea
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100113_1.htm
+
+Resource: Punción de emergencia de la vía aérea
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003017.htm
+
+Resource: Reanimación cardiopulmonar (RCP): Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: Reanimación cardiopulmonar: Un verdadero salvavidas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/cpr.html
+
+Resource: Seguridad en casa: cómo prevenir la asfixia por aspiración
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-choking.html
+
+Resource: Serie de primeros auxilios en caso de ahogamiento en bebés menores de un año
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100221_1.htm

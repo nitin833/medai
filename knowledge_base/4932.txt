@@ -1,0 +1,147 @@
+Title: Aneurisma aórtico
+
+Summary:
+Un
+aneurisma
+es un ensanchamiento anormal de las paredes de una arteria. Las arterias son vasos sanguíneos que transportan sangre oxigenada desde el corazón hacia otras partes del cuerpo. Si un aneurisma crece, puede romperse y provocar un sangrado peligroso e incluso la muerte.
+La mayoría de los aneurismas ocurren en la aorta, la arteria principal que va desde el corazón por el pecho y el abdomen.
+Hay dos tipos de aneurisma aórtico:
+Los aneurismas aórticos torácicos: ocurren en la parte de la aorta que pasa por el pecho
+Los aneurismas aórticos abdominales: ocurren en la parte de la aorta que pasa por el abdomen
+Muchas veces los aneurismas se encuentran por accidente durante pruebas hechas por otras razones. Algunas personas tienen un alto riesgo de aneurismas. Es importante que aquellos en alto riesgo se sometan a pruebas, porque los aneurismas pueden desarrollarse y hacerse grandes antes de causar síntoma alguno. Las pruebas se recomiendan a personas de entre 65 y 75 años si tienen antecedentes familiares o si son hombres fumadores. Los médicos usan pruebas de imágenes para encontrar aneurismas. Medicamentos y cirugía son los dos tratamientos principales
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Alta tras reparación abierta de aneurisma aórtico abdominal
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000240.htm
+
+Resource: Alta tras reparación endovascular de aneurisma aórtico
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000236.htm
+
+Resource: Aneurisma aórtico (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/aortic-aneurysm.html
+
+Resource: Aneurisma aórtico abdominal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000162.htm
+
+Resource: Aneurisma de la aorta torácica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001119.htm
+
+Resource: Aneurismas aórticos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/aneurismas-aorticos/
+
+Resource: Angiografía por catéter
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiocath
+
+Resource: Angiografía por resonancia magnética
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007269.htm
+
+Resource: Angiotomografía computarizada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angioct
+
+Resource: Causas y Factores de Riesgo
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta/causas
+
+Resource: Diagnóstico de aneurisma de aorta
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta/diagnostico
+
+Resource: Disección aórtica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000181.htm
+
+Resource: Ecografía abdominal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Hable con su médico sobre el aneurisma aórtico abdominal
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://odphp.health.gov/espanol/myhealthfinder/problemas-salud/salud-corazon/hable-su-medico-aneurisma-aortico-abdominal
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Reparación abierta de aneurisma de la aorta abdominal
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007392.htm
+
+Resource: Reparación de aneurismas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/reparacion-de-aneurismas/
+
+Resource: Reparación endovascular de aneurisma aórtico
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007391.htm
+
+Resource: Resonancia magnética del tórax
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003794.htm
+
+Resource: Seudoaneurisma: ¿Qué lo causa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cardiac-catheterization/expert-answers/pseudoaneurysm/faq-20058420?p=1
+
+Resource: Tomografía computarizada del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003789.htm
+
+Resource: Tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta/tratamiento
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Vivir con aneurisma de Aorta
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta/vivir-con-aneurisma-de-aorta
+
+Resource: ¿Qué es un aneurisma de aorta?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta

@@ -1,0 +1,197 @@
+Title: Análisis de sangre
+
+Also Called:
+- Examen de sangre
+- Hemograma completo
+- Pruebas de conteo sanguíneo
+- Pruebas de sangre
+- Recuento sanguíneo
+
+Summary:
+Su
+sangre
+contiene glóbulos rojos, glóbulos blancos y plaquetas. El análisis o examen de sangre mide el número y tipos de células en la sangre. Esto ayuda a los médicos a verificar su estado general de salud. Las pruebas también pueden ayudar a diagnosticar enfermedades y afecciones como
+anemia
+, infecciones, problemas de coagulación, cáncer de la sangre y
+enfermedades del sistema inmunitario
+.
+Los tipos específicos incluyen pruebas para:
+Glóbulos rojos: Número, tamaño y tipos de glóbulos rojos en la sangre
+Glóbulos blancos: Número y tipos de glóbulos blancos en la sangre
+Plaquetas: Número y tamaño de las plaquetas
+Hemoglobina: Proteína rica en hierro en los glóbulos rojos que transporta el oxígeno
+Hematocrito: La cantidad de espacio que toman los glóbulos rojos en su sangre
+Conteo de reticulocitos: El número de glóbulos rojos jóvenes en su sangre
+La media del volumen corpuscular medio: El tamaño promedio de los glóbulos rojos
+El recuento sanguíneo completo o hemograma incluye la mayor parte o la totalidad de estas pruebas. Es una de las pruebas de sangre más comunes.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Amplitud de distribución eritrocitaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/amplitud-de-distribucion-eritrocitaria/
+
+Resource: Análisis de hemoglobina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-de-hemoglobina/
+
+Resource: Análisis de sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/analisis-de-sangre
+
+Resource: Análisis de sangre: Hemograma completo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest4.html
+
+Resource: Conteo absoluto de eosinófilos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003649.htm
+
+Resource: Conteo de glóbulos blancos
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-de-globulos-blancos/
+
+Resource: Conteo de glóbulos blancos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003643.htm
+
+Resource: Conteo de glóbulos rojos
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-de-globulos-rojos/
+
+Resource: Conteo de glóbulos rojos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003644.htm
+
+Resource: Conteo de plaquetas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003647.htm
+
+Resource: Conteo de reticulocitos
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-de-reticulocitos/
+
+Resource: Conteo sanguíneo completo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100152_1.htm
+
+Resource: Conteo sanguíneo completo (CSC)
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-sanguineo-completo/
+
+Resource: Conteo sanguíneo completo (CSC)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003642.htm
+
+Resource: Electroforesis de hemoglobina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electroforesis-de-hemoglobina/
+
+Resource: Examen de diferencial sanguíneo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003657.htm
+
+Resource: Examen de hemoglobina libre en el suero
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003677.htm
+
+Resource: Frotis de sangre
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003665.htm
+
+Resource: Frotis de sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/frotis-de-sangre/
+
+Resource: Fórmula leucocitaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/formula-leucocitaria/
+
+Resource: Hematocrito
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hematocrito/
+
+Resource: Hematocrito
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003646.htm
+
+Resource: Hemoglobina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003645.htm
+
+Resource: Lo que usted debe saber sobre los análisis de sangre
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/lo-que-usted-debe-saber-sobre-los-analisis-de-sangre/
+
+Resource: Obtención de un análisis de sangre (niños)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/video-bldtest.html
+
+Resource: Problemas plaquetarios: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/plateletdisorders.html
+
+Resource: Prueba de sangre de VCM
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-vcm/
+
+Resource: Prueba de sangre de VPM
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-vpm/
+
+Resource: Recuento bajo de glóbulos blancos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/low-white-blood-cell-count/basics/definition/sym-20050615?p=1
+
+Resource: Recuento de glóbulos rojos alto
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/high-red-blood-cell-count/basics/definition/sym-20050858?p=1
+
+Resource: Trastornos de los glóbulos blancos (leucocitos)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/trastornos-de-los-gl%C3%B3bulos-blancos-leucocitos/introducci%C3%B3n-a-los-trastornos-de-los-gl%C3%B3bulos-blancos-leucocitos
+
+Resource: Índices de glóbulos rojos
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/indices-de-globulos-rojos/
+
+Resource: Índices de glóbulos rojos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003648.htm

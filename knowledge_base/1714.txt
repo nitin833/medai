@@ -1,0 +1,143 @@
+Title: Water Safety (Recreational)
+
+Summary:
+Playing in the water - whether swimming, boating or diving - can be fun. It can also be dangerous, especially for children. Being safe can help prevent injuries and
+drowning
+. To stay safe in the water:
+Avoid alcohol when swimming or boating
+Wear a life jacket whenever you're in a boat
+Don't swim alone, or in bad weather
+Learn
+CPR
+Learn to swim and teach your children to swim
+Supervise your children when they are in the water
+Prevent sunburns - use plenty of sunscreen
+
+Groups:
+- Safety Issues
+
+MeSH Headings:
+- Recreation
+- Water Sports
+- Safety
+
+Related Resources:
+
+Resource: About Swimmer's Itch
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/swimmers-itch/about/
+
+Resource: American College of Emergency Physicians
+Category: Find an Expert
+Organization: American College of Emergency Physicians
+URL: https://www.acep.org/
+
+Resource: Beach Safety for Families: Safe Fun in the Sun, Sand, and Sea
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/safety-prevention/at-play/pages/beach-safety-for-families-safe-fun-in-the-sun-sand-and-sea.aspx
+
+Resource: Boating Safety Tips and Resources
+Category: Specifics
+Organization: National Weather Service
+URL: https://www.weather.gov/safety/safeboating
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Diver Safety
+Category: Specifics
+Organization: Divers Alert Network
+URL: https://dan.org/safety-prevention/diver-safety/
+
+Resource: Drowning Prevention for Curious Toddlers: What Parents Need to Know
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Water-Safety-And-Young-Children.aspx
+
+Resource: Ear barotrauma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001064.htm
+
+Resource: Marine animal stings or bites
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000032.htm
+
+Resource: Outdoor Water Safety
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/water-safety-outdoors.html
+
+Resource: Preventing Diarrheal Illnesses (Healthy Swimming)
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/preventing-diarrheal-illnesses.html
+
+Resource: Preventing Hot Tub Rash
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/preventing-hot-tub-rash.html
+
+Resource: Preventing Molluscum Contagiosum in Schools, Daycares, and Pools
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/molluscum-contagiosum/special-environments/
+
+Resource: Preventing Swimmer's Ear
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/preventing-swimmers-ear.html
+
+Resource: Preventing Swimming-Related Illnesses
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/
+
+Resource: Water Safety (Recreational)
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Water+Sports%22%5Bmajr%3Anoexp%5D+OR+%28+%22Safety%22%5Bmajr%3Anoexp%5D+AND+%22Recreation%22%5Bmajr%3Anoexp%5D+%29+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risky Drinking Can Put a Chill on Your Summer Fun
+Category: Related Issues
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/risky-drinking-can-put-chill-on-your-summer-fun
+
+Resource: Staying Safe in the Water: Guard Against Germs While Swimming
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/06/staying-safe-water
+
+Resource: Swimming pool granuloma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001357.htm
+
+Resource: Water Park Safety
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/water-park-safety.html
+
+Resource: Water Safety
+Category: Start Here
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/water-safety.html
+
+Resource: Water Safety
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/water-safety.html
+
+Resource: Water Safety
+Category: Start Here
+Organization: Department of Agriculture
+URL: https://www.fs.usda.gov/visit/know-before-you-go/water-safety
+
+Resource: Well, This Bites: Prevention and Treatment of Marine Bites
+Category: Specifics
+Organization: Divers Alert Network
+URL: https://dan.org/safety-prevention/diver-safety/divers-blog/well-this-bites-prevention-treatment-of-marine-bites/

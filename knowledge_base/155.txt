@@ -1,0 +1,100 @@
+Title: Motor Vehicle Safety
+
+Also Called:
+- Automobile safety
+- Car safety
+- Vehicle safety
+
+Summary:
+Every year thousands of people in the U.S. die from motor vehicle crashes. Trying to prevent these crashes is one part of motor vehicle safety.  Here are some things you can do to be safer on the road:
+Make sure your vehicle is safe and in working order
+Use car seats for children
+Wear your seat belt
+Don't speed or drive aggressively
+Don't drive
+impaired
+Safety also involves being aware of others. Share the road with bicycles and motorcycles, and watch for pedestrians.
+
+Groups:
+- Safety Issues
+
+MeSH Headings:
+- Automobile Driving
+- Safety
+- Accidents, Traffic
+
+Related Resources:
+
+Resource: Air Bag Safety
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/air-bag-safety.html
+
+Resource: Child safety seats
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000670.htm
+
+Resource: Driving and older adults
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000955.htm
+
+Resource: Electric and Hybrid Vehicles: Battery, Charging and Safety
+Category: Learn More
+Organization: National Highway Traffic Safety Administration
+URL: https://www.nhtsa.gov/vehicle-safety/electric-and-hybrid-vehicles
+
+Resource: Keeping Kids Safe in Cars
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/auto.html
+
+Resource: Lawn Mower Safety: Information for Families
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/safety-prevention/at-home/pages/lawnmower-safety.aspx
+
+Resource: Motorcycle Safety
+Category: Learn More
+Organization: National Highway Traffic Safety Administration
+URL: https://www.nhtsa.gov/road-safety/motorcycles
+
+Resource: OHV and ATV Safety
+Category: Learn More
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/ATV-Safety-Information-Center
+
+Resource: Motor Vehicle Safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Safety%22%5Bmajr%3Anoexp%5D+AND+%22Automobile+Driving%22%5Bmajr%3Anoexp%5D+OR+%22Accidents%2C+Traffic%2Fprevention++and++control%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risks of Kids Riding in Golf Carts and on E-Scooters
+Category: Learn More
+Organization: Children's Hospital St. Louis
+URL: https://www.stlouischildrens.org/health-resources/pulse/risks-of-golf-carts-and-e-scooters
+
+Resource: Safe Driving for Older Adults
+Category: Learn More
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/safety/safe-driving-older-adults
+
+Resource: Safe Driving: Protecting Yourself Behind the Wheel
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/06/safe-driving
+
+Resource: Taking the Pedal Off the Metal: When Should Older Adults Stop Driving?
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/10/taking-pedal-metal
+
+Resource: Teen Safe Driving: How Teens Can Be Safer Drivers
+Category: Learn More
+Organization: National Highway Traffic Safety Administration
+URL: https://www.nhtsa.gov/road-safety/teen-driving
+
+Resource: Transportation Safety
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/transportation-safety/

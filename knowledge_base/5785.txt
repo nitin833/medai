@@ -1,0 +1,153 @@
+Title: Prediabetes
+
+Summary:
+¿Qué es la prediabetes?
+Prediabetes significa que los niveles de
+glucosa
+o azúcar en la sangre son más altos de lo normal pero no lo suficientemente altos como para ser
+diabetes
+. La glucosa proviene de los alimentos que consume. Demasiada glucosa en su sangre puede dañar su cuerpo con el tiempo.
+Si tiene prediabetes, es más probable que presente
+diabetes tipo 2
+,
+enfermedad cardíaca
+y
+accidente cerebrovascular
+. Pero si hace algunos cambios en su estilo de vida, es posible que pueda retrasar o prevenir la diabetes tipo 2.
+¿Qué causa la prediabetes?
+En general, la prediabetes ocurre cuando su cuerpo tiene un problema con la insulina. La insulina es una hormona que ayuda a que la glucosa entre a las células para darles energía. Un problema con la insulina puede ser:
+Resistencia a la insulina: Afección en la cual el cuerpo no puede usar bien la insulina, haciendo más difícil a las células obtener la glucosa de la sangre. Esto puede hacer que sus niveles de azúcar en la sangre suban
+Su cuerpo no puede producir suficiente insulina para mantener sus niveles de azúcar en la sangre a un nivel adecuado
+Los investigadores piensan que el sobrepeso y la falta de actividad física regular son factores importantes para el desarrollo de prediabetes.
+¿Quién está en riesgo de tener prediabetes?
+Cerca de 1 de cada 3 adultos tiene prediabetes. Es más común en personas que:
+Tienen sobrepeso u
+obesidad
+Tienen 45 años o más
+Tienen un padre, hermano o hermana con diabetes
+Son afroamericanos, nativos de Alaska, indios americanos, asiáticos americanos, hispanos / latinos, nativos de Hawái o isleños del Pacífico estadounidense
+No son físicamente activos
+Tienen problemas de salud como
+presión arterial alta
+y
+colesterol alto
+Han tenido
+diabetes gestacional
+(diabetes en el embarazo)
+Tienen antecedentes de enfermedad cardíaca o accidente cerebrovascular
+Tienen
+síndrome metabólico
+Tienen
+síndrome de ovario poliquístico
+¿Cuáles son los síntomas de la prediabetes?
+La mayoría de las personas no saben que tienen prediabetes porque generalmente no presentan síntomas.
+Algunas personas con prediabetes pueden tener piel oscura en la axila o en la parte posterior y los lados del cuello. También pueden tener muchos crecimientos pequeños de la piel en esas mismas áreas.
+¿Cómo se diagnostica la prediabetes?
+Varios análisis de sangre pueden diagnosticar la prediabetes. Los más comunes son:
+Prueba de glucosa plasmática en ayunas
+: Mide el azúcar en la sangre en un solo punto en el tiempo. Debe ayunar (no comer ni beber) durante al menos 8 horas antes de la prueba. Los resultados de la prueba se dan en mg / dL (miligramos por decilitro):
+Un nivel normal es 99 o inferior
+Prediabetes es de 100 a 125
+Diabetes tipo 2 es 126 y superior
+Prueba de
+A1c
+: Mide su nivel promedio de azúcar en la sangre en los últimos 3 meses. Los resultados de una prueba de A1C se dan como un porcentaje. Cuanto mayor sea el porcentaje, mayores serán sus niveles de azúcar en la sangre:
+Un nivel normal está por debajo del 5,7%
+Prediabetes es entre 5.7 a 6.4%
+Diabetes tipo 2 está por encima del 6.5%
+Si tengo prediabetes, ¿tendré diabetes?
+Si tiene prediabetes, puede retrasar o
+prevenir
+la diabetes tipo 2 a través de cambios en el estilo de vida:
+Perder peso
+si tiene sobrepeso
+Hacer
+actividad física
+regular
+Seguir un plan de alimentación saludable y bajo en calorías
+En algunos casos, su proveedor de atención médica también puede recomendarle tomar
+medicinas para la diabetes
+¿Se puede prevenir la prediabetes?
+Si está en riesgo de tener prediabetes, estos mismos cambios en el estilo de vida (pérdida de peso, actividad física regular y un plan de alimentación saludable) pueden evitar que la desarrolle.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema endocrino
+- Diabetes mellitus
+
+Related Resources:
+
+Resource: Cómo prevenir la diabetes: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/howtopreventdiabetes.html
+
+Resource: Examen de glucemia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003482.htm
+
+Resource: Prediabetes
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000778.htm
+
+Resource: Prediabetes: su oportunidad para prevenir la diabetes tipo 2
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diabetes/es/prevention-type-2/la-prediabetes-su-oportunidad-para-prevenir-la-diabetes-tipo-2.html
+
+Resource: Prediabetes: Síntomas y causas
+Category: Síntomas, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/prediabetes/symptoms-causes/syc-20355278?p=1
+
+Resource: Prevengamos la diabetes (para promotores de salud)
+Category: Asuntos específicos, Spanish/Español
+Organization: Alianza Nacional de la Salud Hispana
+URL: https://www.nuestrasalud.org/prevengamosladiabetes
+
+Resource: Prueba de glucosa en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-glucosa-en-la-sangre/
+
+Resource: Prueba de hemoglobina glicosilada (HbA1c): Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/a1c.html
+
+Resource: Prueba de tolerancia a la glucosa - que no están embarazadas
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003466.htm
+
+Resource: Pruebas de diabetes
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-diabetes/
+
+Resource: Pruebas y diagnóstico de la diabetes
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/pruebas-diagnostico
+
+Resource: Resistencia a la insulina y la prediabetes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/que-es/resistencia-insulina-prediabetes
+
+Resource: Revertir la prediabetes empieza aquí: toma la evaluación de riesgo
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://doihaveprediabetes.org/es
+
+Resource: Sorprendente verdad sobre la prediabetes
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diabetes/es/prevention-type-2/la-sorprendente-verdad-sobre-la-prediabetes.html
+
+Resource: ¿Cuántos años tienes? Mientras más años tengas, mayor es tu riesgo de presentar diabetes tipo 2.
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Asociación Americana de la Diabetes
+URL: https://doihaveprediabetes.org/es/toma-la-prueba-de-riesgo#/

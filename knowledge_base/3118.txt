@@ -1,0 +1,86 @@
+Title: Trastornos cerebrales genéticos
+
+Also Called:
+- Trastornos hereditarios del cerebro
+
+Summary:
+Los trastornos genéticos del cerebro son causados por una variación o mutación en un gen. Una variación o alteración es una forma diferente de un gen. Una mutación es un cambio en el gen mismo. Los trastornos cerebrales genéticos afectan el desarrollo y funcionamiento del cerebro.
+Algunos trastornos cerebrales genéticos se deben a las mutaciones genéticas casuales o mutaciones causadas por exposición ambiental, como lo es el humo del cigarrillo. Otras enfermedades son hereditarias, lo que significa que un gen mutante o un grupo de genes mutantes se transmite entre familiares. También existen trastornos causados por una combinación de cambios en los genes y otros factores externos.
+Algunos ejemplos de los trastornos cerebrales genéticos son:
+Leucodistrofias
+Fenilcetonuria
+Enfermedad de Tay-Sachs
+Enfermedad de Wilson
+Muchas personas con trastornos cerebrales genéticos no pueden producir suficiente cantidad de ciertas proteínas que influyen en el desarrollo y el funcionamiento del cerebro. Estos trastornos pueden causar problemas serios que afectan el sistema nervioso. Algunos de estos trastornos cuentan con tratamientos para controlar los síntomas. Algunos otros, ponen en peligro la vida.
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Agenesia del cuerpo calloso
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11869/agenesia-del-cuerpo-calloso/
+
+Resource: Enfermedad de la orina con olor a jarabe de arce
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000373.htm
+
+Resource: Enfermedad de la orina con olor a jarabe de arce (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/msud.html
+
+Resource: Enfermedad de Menkes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001160.htm
+
+Resource: Enfermedad de Niemann-Pick
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001207.htm
+
+Resource: Evaluación del recién nacido: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/newbornscreening.html
+
+Resource: Galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000366.htm
+
+Resource: Galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12418/galactosemia/
+
+Resource: Lipofuscinosis neuronal ceroidea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001613.htm
+
+Resource: Síndrome de Leigh
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12945/sindrome-de-leigh/
+
+Resource: Síndrome de Lesch-Nyhan
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001655.htm
+
+Resource: Trastornos mitocondriales
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/trastornos-mitocondriales
+
+Resource: ¿Qué es un genetista pediátrico?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-geneticist.aspx

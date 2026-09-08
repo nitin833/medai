@@ -1,0 +1,301 @@
+Title: Food Safety
+
+Summary:
+Safe steps in food handling, cooking, and storage can prevent
+foodborne illness
+. There are four basic steps to food safety at home:
+Clean - always wash your fruits and vegetables, hands, counters, and cooking utensils.
+Separate - keep raw foods to themselves. Germs can spread from one food to another.
+Cook - foods need to get hot and stay hot. Heat kills germs.
+Chill - put fresh food in the refrigerator right away.
+In the grocery store, avoid cans that are bulging or jars that have cracks or loose lids. Check packages to be sure food hasn't reached its expiration date.
+United States Department of Agriculture
+
+Groups:
+- Food and Nutrition
+- Poisoning, Toxicology, Environmental Health
+- Safety Issues
+
+MeSH Headings:
+- Food Safety
+
+Related Resources:
+
+Resource: About C. perfringens Food Poisoning
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/clostridium-perfringens/about/
+
+Resource: About Escherichia coli Infection
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ecoli/about/
+
+Resource: About Four Steps to Food Safety
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/prevention/
+
+Resource: Aflatoxin
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002429.htm
+
+Resource: Are You Storing Food Safely?
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely
+
+Resource: Barbecue Basics: Tips to Prevent Foodborne Illness
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/barbecue-basics-tips-prevent-foodborne-illness
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chemicals in Meat Cooked at High Temperatures and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cooked-meats-fact-sheet
+
+Resource: ClinicalTrials.gov: Food Safety
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Food+Safety%22&aggFilters=status:not%20rec
+
+Resource: Cold Food Storage Chart
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts
+
+Resource: Color of Meat and Poultry
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/color-meat-and-poultry
+
+Resource: Cooking utensils and nutrition
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002461.htm
+
+Resource: Cutting Boards and Food Safety
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/cutting-boards
+
+Resource: Drug Resistance, Food, and Food Animals
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/about/drug-resistance.html
+
+Resource: Eating Out & Bringing In - Food Safety for Moms to Be
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/eating-out-bringing-food-safety-moms-be
+
+Resource: Egg Products and Food Safety
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/eggs/egg-products-and-food-safety
+
+Resource: Fires and Food Safety
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/fires-and-food-safety
+
+Resource: Flour Is a Raw Food and Other Safety Facts
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/flour-raw-food-and-other-safety-facts
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Food safety
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002434.htm
+
+Resource: Food Safety and Raw Milk
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/raw-milk.html
+
+Resource: Food Safety at Home
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/food-safety-home
+
+Resource: Food Safety during Pregnancy
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/foods-pregnancy.html
+
+Resource: Food Safety for Moms to Be
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be
+
+Resource: FoodSafety.gov
+Category: Find an Expert
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/
+
+Resource: Freezing and Food Safety
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety
+
+Resource: Genetically modified organisms - GMOs
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002432.htm
+
+Resource: Get Ready to Grill Safely
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/foodsafety/pdfs/grill-safety-infographic-508c.pdf
+
+Resource: Ground Beef and Food Safety
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat/ground-beef-and-food-safety
+
+Resource: Halloween Food Safety Tips for Parents
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/halloween-food-safety-tips-parents
+
+Resource: Handling Flour Safely: What You Need to Know
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/handling-flour-safely-what-you-need-know
+
+Resource: High Altitude Cooking and Food Safety
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/high-altitude-cooking
+
+Resource: How Safe Are Color Additives?
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/how-safe-are-color-additives
+
+Resource: Intentional Genomic Alterations in Animals: Q&A for Consumers
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/animal-veterinary/intentional-genomic-alterations-igas-animals/qa-consumers-intentional-genomic-alterations-animals
+
+Resource: Is Food Safe if It Has Chemicals?
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/food-safe-if-it-has-chemicals
+
+Resource: Keep Food Safe after a Disaster or Emergency
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+
+Resource: Keep Food Safe! Food Safety Basics
+Category: Start Here
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/steps-keep-food-safe
+
+Resource: Keep Your Food Safe During Emergencies: Power Outages, Floods, and Fires
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/emergencies/keep-your-food-safe-during-emergencies
+
+Resource: Keeping Your Milk Safe from the Grass to the Glass
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/keeping-your-milk-safe-grass-glass
+
+Resource: Kitchen Thermometers
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/kitchen-thermometers
+
+Resource: Once Baby Arrives
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/once-baby-arrives-food-safety-moms-be
+
+Resource: People at Risk: Children under Five
+Category: Children
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/people-at-risk/children-under-five
+
+Resource: Perchlorate Questions and Answers
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/environmental-contaminants-food/perchlorate-questions-and-answers
+
+Resource: Preparing Your Holiday Turkey Safely
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/holiday-turkey.html
+
+Resource: Preventing food poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007441.htm
+
+Resource: Preventing Food Poisoning
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/12/preventing-food-poisoning
+
+Resource: Food Safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Food+Safety%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Raw Flour and Dough
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/no-raw-dough.html
+
+Resource: Recalls, Market Withdrawals and Safety Alerts
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+
+Resource: Refrigeration and Food Safety
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/refrigeration
+
+Resource: Safe Minimum Internal Temperature Chart
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart
+
+Resource: Safer Food Choices for Adults 65 Years or Older
+Category: Older Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/adults-65-older.html
+
+Resource: Selecting and Serving Fresh and Frozen Seafood Safely
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely
+
+Resource: Shelf-Stable Food Safety
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/shelf-stable-food
+
+Resource: USDA Meat and Poultry Hotline
+Category: Find an Expert
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/usda-meat-and-poultry-hotline

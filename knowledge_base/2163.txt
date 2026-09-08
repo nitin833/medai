@@ -1,0 +1,113 @@
+Title: Enfermedades de la médula espinal
+
+Summary:
+La médula espinal es la parte del sistema nervioso que transmite mensajes desde y hasta el cerebro. Se encuentra dentro de las vértebras, que son los discos óseos que forman la columna vertebral. Normalmente, las vértebras protegen la médula espinal. Cuando eso no ocurre, puede ocurrir una
+lesión de la médula espinal
+. Además de las lesiones, en la médula espinal pueden aparecer:
+Tumores
+Infecciones como la
+meningitis
+y
+poliomielitis
+Enfermedades inflamatorias
+Enfermedades autoinmunes
+Enfermedades degenerativas, tales como la
+esclerosis lateral amiotrófica
+y
+atrofia muscular espinal
+Los síntomas varían pero pueden incluir dolor, entumecimiento, pérdida de la sensación y debilidad muscular. Estos síntomas pueden ocurrir alrededor de la médula espinal y también en otras áreas, como en los brazos y las piernas. Los tratamientos varían, pero con frecuencia incluyen medicinas y cirugía.
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Absceso de la médula espinal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001405.htm
+
+Resource: Absceso epidural
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001416.htm
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Aspectos generales de las opciones de tratamiento (tumores de células germinativas del sistema nervioso central infantil)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-celulas-germinativas-snc-infantil-pdq#_152
+
+Resource: Degeneración combinada subaguda
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000723.htm
+
+Resource: Estadísticas clave sobre los tumores de encéfalo y los tumores de médula espinal
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/tumores-de-encefalo-o-de-medula-espinal/acerca/estadisticas-clave.html
+
+Resource: Examen neurológico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-neurologico/
+
+Resource: Fuga del LCR
+Category: Enciclopedia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001068.htm
+
+Resource: Información general sobre los tumores de células germinativas del sistema nervioso central infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-celulas-germinativas-snc-infantil-pdq#_1
+
+Resource: Introducción a los trastornos de la médula espinal
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-la-m%C3%A9dula-espinal/introducci%C3%B3n-a-los-trastornos-de-la-m%C3%A9dula-espinal
+
+Resource: Mielografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/mielografia/
+
+Resource: Mielopatía sifilítica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000729.htm
+
+Resource: Quiste de Tarlov
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12006/quiste-de-tarlov/
+
+Resource: RMN de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Síndrome de la persona rígida
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/el-sindrome-de-la-persona-rigida
+
+Resource: Tumor de la médula espinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spinal-cord-tumor/symptoms-causes/syc-20350103?p=1
+
+Resource: Tumor medular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001403.htm
+
+Resource: Tumores del cerebro y la médula espinal
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/tumores-del-cerebro-y-la-medula-espinal

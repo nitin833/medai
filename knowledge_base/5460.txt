@@ -1,0 +1,159 @@
+Title: Síndromes de malabsorción
+
+Also Called:
+- Absorción deficiente de alimentos
+- Mala absorción intestinal
+- Problemas de absorción de alimentos
+- Problemas de absorción de nutrientes
+
+Summary:
+Su intestino delgado hace la mayor parte de la digestión de las comidas que usted ingiere. Si usted sufre de un síndrome de malabsorción, su intestino delgado no puede absorber los nutrientes de los alimentos.
+Las causas de un síndrome de malabsorción incluyen:
+Enfermedad celíaca
+Intolerancia a la lactosa
+Síndrome del intestino corto, que es el resultado de una cirugía para extirpar una gran parte del intestino delgado
+Enfermedad de Whipple, una infección bacteriana rara
+Enfermedades genéticas
+Algunas medicinas
+El tratamiento de los síndromes de malabsorción depende de su causa.
+
+Groups:
+- Sistema digestivo
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Absorción de la D-xilosa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003606.htm
+
+Resource: Análisis de heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Aumento insuficiente de peso
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000991.htm
+
+Resource: Elastasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/elastasa-fecal/
+
+Resource: Enfermedad de Whipple
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13253/enfermedad-de-whipple
+
+Resource: Enfermedad de Whipple
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000209.htm
+
+Resource: Enteroscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003889.htm
+
+Resource: Esprúe tropical
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000275.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Heces flotantes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003128.htm
+
+Resource: Introducción a la malabsorción
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/malabsorci%C3%B3n/introducci%C3%B3n-a-la-malabsorci%C3%B3n
+
+Resource: Linfangiectasia intestinal (Hipoproteinemia idiopática)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/malabsorci%C3%B3n/linfangiectasia-intestinal
+
+Resource: Malabsorción
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000299.htm
+
+Resource: Proliferación excesiva de bacterias en el intestino delgado
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000222.htm
+
+Resource: Pruebas de xilosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-xilosa/
+
+Resource: Pérdida de peso sin causa aparente
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/unexplained-weight-loss/basics/definition/sym-20050700?p=1
+
+Resource: Recolección de una muestra de heces para analizar
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stool-tests-done.html
+
+Resource: Retraso del crecimiento (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/failure-thrive.html
+
+Resource: Sobrecrecimiento bacteriano del intestino delgado
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/small-intestinal-bacterial-overgrowth/symptoms-causes/syc-20370168?p=1
+
+Resource: Síndrome de Bassen-Kornzweig
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001666.htm
+
+Resource: Síndrome de intestino corto
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/short-bowel-syndrome.html
+
+Resource: Síndrome de intestino corto
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/short-bowel-syndrome/?lang=es
+
+Resource: Síndrome del intestino corto
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-corto
+
+Resource: Síndrome del intestino corto
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/malabsorci%C3%B3n/s%C3%ADndrome-del-intestino-corto
+
+Resource: Síndrome del intestino corto
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000237.htm
+
+Resource: Tránsito gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior

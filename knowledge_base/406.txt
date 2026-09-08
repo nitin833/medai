@@ -1,0 +1,323 @@
+Title: Skin Pigmentation Disorders
+
+Also Called:
+- Hyperpigmentation
+- Hypopigmentation
+
+Summary:
+Pigmentation means coloring. Skin pigmentation disorders affect the color of your skin. Your skin gets its color from a pigment called melanin. Special cells in the skin make melanin. When these cells become damaged or unhealthy, it affects melanin production. Some pigmentation disorders affect just patches of skin. Others affect your entire body.
+If your body makes too much melanin, your skin gets darker. Pregnancy, Addison's disease, and sun exposure all can make your skin darker. If your body makes too little melanin, your skin gets lighter.
+Vitiligo
+is a condition that causes patches of light skin. Albinism is a genetic condition affecting a person's skin. A person with albinism may have no color, lighter than normal skin color, or patchy missing skin color. Infections, blisters and burns can also cause lighter skin.
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Pigmentation Disorders
+
+Related Resources:
+
+Resource: Abnormally dark or light skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003242.htm
+
+Resource: Acanthosis Nigricans
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/acanthosis.html
+
+Resource: Acanthosis Nigricans
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/acanthosis-nigricans/?Imiw9cApl=1
+
+Resource: Acanthosis Nigricans
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acanthosis-nigricans/symptoms-causes/syc-20368983?p=1
+
+Resource: Acanthosis nigricans
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000852.htm
+
+Resource: Age Spots
+Category: Specifics
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-conditions/age-spots
+
+Resource: Albinism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001479.htm
+
+Resource: Albinism
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/albinism/symptoms-causes/syc-20369184?p=1
+
+Resource: Albinism
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/albinism.html
+
+Resource: Café au Lait Spot
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/cafeau-lait-spot/?Imiw9cApl
+
+Resource: Chemical Peels
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/chemical-peels
+
+Resource: ClinicalTrials.gov: Hyperpigmentation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperpigmentation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypopigmentation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypopigmentation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pigmentation Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pigmentation+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Crouzon syndrome with acanthosis nigricans: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crouzon-syndrome-with-acanthosis-nigricans/
+
+Resource: Dermabrasion
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/dermabrasion
+
+Resource: Dowling-Degos disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dowling-degos-disease/
+
+Resource: Find a Dermatologic Surgeon
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/find-a-dermatologic-surgeon/advanced/true
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Griscelli syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/griscelli-syndrome/
+
+Resource: Hermansky-Pudlak syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hermansky-pudlak-syndrome/
+
+Resource: Histiocytosis-lymphadenopathy plus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/histiocytosis-lymphadenopathy-plus-syndrome/
+
+Resource: Hyperpigmentation
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Hyperpigmentation?
+
+Resource: Hypomelanosis of Ito
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001461.htm
+
+Resource: Incontinentia pigmenti
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001583.htm
+
+Resource: Incontinentia Pigmenti Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6778/incontinentia-pigmenti-syndrome
+
+Resource: Incontinentia pigmenti: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/incontinentia-pigmenti/
+
+Resource: Laser Resurfacing
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/laser-resurfacing
+
+Resource: Legius syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/legius-syndrome/
+
+Resource: Lentigines
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Lentigines?
+
+Resource: Lentigo Simplex
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/lentigo-simplex/?Imiw9cApl=1
+
+Resource: Liver spots
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001141.htm
+
+Resource: McCune-Albright syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001217.htm
+
+Resource: Melasma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/melasma/?Imiw9cApl=1
+
+Resource: Melasma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000836.htm
+
+Resource: Melasma: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/melasma-treatment?NoAds
+
+Resource: Melasma: Overview
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/melasma-overview?NoAds
+
+Resource: Melasma: Self-Care
+Category: Living With
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/melasma-self-care?NoAds
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Noonan syndrome with multiple lentigines: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/noonan-syndrome-with-multiple-lentigines/
+
+Resource: Oculocutaneous albinism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/oculocutaneous-albinism/
+
+Resource: Oral Melanotic Macule
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/oral-melanotic-macule/?Imiw9cApl=1
+
+Resource: Overview of Skin Pigment
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/skin-disorders/pigment-disorders/overview-of-skin-pigment
+
+Resource: Paleness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003244.htm
+
+Resource: Patchy skin color
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003224.htm
+
+Resource: Piebaldism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/piebaldism/
+
+Resource: Pityriasis alba
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001463.htm
+
+Resource: Pityriasis Alba
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/PityriasisAlba?
+
+Resource: Pityriasis Alba
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pityriasis-alba/child/?Imiw9cApl=1
+
+Resource: Post Inflammatory Hyperpigmentation
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/postinflammatory-hyperpigmentation/?Imiw9cApl=1
+
+Resource: Postinflammatory Hypopigmentation
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/post-inflammatory-hypopigmentation/?Imiw9cApl=1
+
+Resource: Progressive Pigmentary Purpura
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/ProgressivePigmenta?
+
+Resource: Skin Pigmentation Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pigmentation+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Tietz syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tietz-syndrome/
+
+Resource: Urticaria pigmentosa
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001466.htm
+
+Resource: Vici syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/vici-syndrome/
+
+Resource: Waardenburg syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001428.htm
+
+Resource: Waardenburg syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/waardenburg-syndrome/
+
+Resource: What Are Freckles?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/freckles.html
+
+Resource: Wood's Lamp Examination
+Category: Diagnosis and Tests
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/woods-lamp-examination/?Imiw9cApl=1
+
+Resource: Xeroderma pigmentosum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/xeroderma-pigmentosum/

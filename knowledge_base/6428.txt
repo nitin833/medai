@@ -1,0 +1,69 @@
+Title: Trastornos del nervio óptico
+
+Summary:
+El nervio óptico agrupa a más de un millón de fibras nerviosas que trasladan mensajes visuales. Este conecta la parte posterior de cada ojo (su
+retina
+) al cerebro. El daño al nervio óptico puede causar
+pérdida de la visión
+. El tipo de pérdida de la visión y su gravedad depende de dónde ocurra el daño. Puede afectar a uno o ambos ojos.
+Hay muchos tipos diferentes de trastornos del nervio óptico, incluyendo:
+Glaucoma
+: Grupo de enfermedades que son la principal causa de ceguera en los Estados Unidos. El glaucoma generalmente ocurre cuando la presión del líquido dentro del ojo se eleva lentamente y daña el nervio óptico
+Neuritis óptica: Inflamación del nervio óptico. Las causas incluyen infecciones y enfermedades relacionadas con el sistema inmunitario, como la
+esclerosis múltiple
+. A veces la causa es desconocida
+Atrofia del nervio óptico: Daño al nervio óptico. Las causas incluyen poco flujo sanguíneo al ojo, enfermedad, trauma o exposición a sustancias tóxicas
+Drusas de la cabeza del nervio óptico: Bolsas de proteínas y sales de calcio que se acumulan en el nervio óptico a lo largo del tiempo
+Comuníquese con su proveedor de atención médica si tiene problemas de visión. Las pruebas para los trastornos del nervio óptico pueden incluir exámenes del ojo, oftalmoscopia (un examen de la parte posterior del ojo) y
+pruebas de imagen
+. El tratamiento depende del trastorno que tenga. Algunos tratamientos para los trastornos del nervio óptico permiten recuperar su vista, pero para otros no hay tratamiento, o el tratamiento sólo puede prevenir una mayor pérdida de la visión.
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Atrofia del nervio óptico
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001622.htm
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Glioma óptico
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001024.htm
+
+Resource: Hipertensión intracraneal idiopática
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/hipertension-intracraneal-idiopatica
+
+Resource: Hágase un examen de los ojos con dilatación de las pupilas
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/encontrar-un-oculista/hagase-un-examen-de-los-ojos-con-dilatacion-de-las-pupilas
+
+Resource: Introducción a los trastornos del nervio óptico
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-del-nervio-%C3%B3ptico/introducci%C3%B3n-a-los-trastornos-del-nervio-%C3%B3ptico
+
+Resource: Neuritis óptica
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000741.htm
+
+Resource: Neuropatías ópticas nutricionales y tóxicas
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%c3%a1lmicos/trastornos-del-nervio-%c3%b3ptico/neuropat%c3%adas-%c3%b3pticas-nutricionales-y-t%c3%b3xicas
+
+Resource: ¿Qué es un coloboma?
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-un-coloboma

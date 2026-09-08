@@ -1,0 +1,114 @@
+Title: Cáncer de la glándulas salivales
+
+Summary:
+Sus glándulas salivales producen saliva y la deposita en la boca a través de unas aberturas llamadas ductos. La saliva hace que la comida se humedezca, lo que ayuda a masticar y a tragar. Ayuda a digerir la comida. También limpia su boca y contiene anticuerpos que matan gérmenes.
+El cáncer de la glándula salival es un tipo de
+cáncer de cabeza y cuello
+. Es poco común. Puede que no cause ningún síntoma o usted puede notar:
+Un bulto en su oreja, mejilla, mandíbula, labio o dentro de la boca
+Líquido que drena de su oreja
+Problemas para tragar o para abrir grande su boca
+Entumecimiento, debilidad o dolor en su cara
+Los médicos diagnostican el cáncer de glándulas salivales usando un examen físico, pruebas de imagen y una biopsia. El tratamiento puede incluir cirugía, radiación y/o quimioterapia.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (cáncer de glándulas salivales en adultos)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq#_75
+
+Resource: Biopsia de la glándula salival
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003847.htm
+
+Resource: Causas, factores de riesgo y prevención del cáncer de glándulas salivales
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-glandulas-salivales/causas-factores-de-riesgo-y-deteccion.html
+
+Resource: Cáncer de glándulas salivales
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-glandulas-salivales.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Después del tratamiento contra el cáncer de glándulas salivales
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-glandulas-salivales/despues-del-tratamiento.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el cáncer de glándulas salivales
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq?redirect=true#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Problemas para tragar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Pruebas del cáncer de glándulas salivales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-glandulas-salivales/deteccion-diagnostico-y-etapas/pruebas.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Sialograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003812.htm
+
+Resource: Tratamiento de los tumores de glándulas salivales infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/infantil/tratamiento-glandula-salival-pdq
+
+Resource: Tumores de las glándulas salivales
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001040.htm
+
+Resource: Tumores de las glándulas salivales: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/salivary-gland-cancer/diagnosis-treatment/drc-20354155?p=1

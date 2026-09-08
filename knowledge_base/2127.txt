@@ -1,0 +1,48 @@
+Title: Síndrome de Reye
+
+Summary:
+El síndrome de Reye es una enfermedad rara que puede afectar la sangre, el hígado y el cerebro de una persona que tuvo una infección viral recientemente. Siempre sigue a otra enfermedad. Cualquier persona puede tenerlo, aunque afecta principalmente a los niños y adolescentes. Puede aparecer rápidamente y sin signos de advertencia. Es más común en la época de gripe. Los síntomas incluyen:
+Nausea y vómitos
+Desgano
+Cambio de personalidad: como la irritabilidad, agresividad o confusión
+Delirio
+Convulsiones
+Pérdida del conocimiento
+Si estos síntomas ocurren poco tiempo después de una enfermedad viral, busque atención médica inmediatamente. El síndrome de Reye puede causarle coma y muerte cerebral, de modo que el diagnóstico y tratamiento rápido es importante. El tratamiento se enfoca en la prevención del daño cerebral. No existe una cura.
+La causa del síndrome de Reye no se conoce. Sin embargo, los estudios demostraron que tomar aspirina aumenta el riesgo de adquirirlo. Por ese motivo, los profesionales de la salud recomiendan otros analgésicos para los pacientes jóvenes.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003369.htm
+
+Resource: Niveles de amoníaco
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/niveles-de-amoniaco/
+
+Resource: Síndrome de Reye
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/reye.html
+
+Resource: Síndrome de Reye
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001565.htm
+
+Resource: Síndrome de Reye: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/reyes-syndrome/diagnosis-treatment/drc-20377259?p=1
+
+Resource: Síndrome Reye
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/abdominal/Paginas/Reye-Syndrome.aspx

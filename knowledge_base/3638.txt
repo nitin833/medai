@@ -1,0 +1,289 @@
+Title: Salud mental del adolescente
+
+Summary:
+Ser adolescente es difícil. Te sentirás estresado por tratar de ser agradable, desempeñarte bien en la escuela, llevarte bien con la familia y tomar decisiones importantes. La mayoría de estas presiones son inevitables y preocuparte por ellas es normal. Sin embargo, sentirte muy triste, desesperanzado o sin valor alguno puede ser un signo de advertencia de un problema de salud mental.
+Los problemas de salud mental son reales, dolorosos y, algunas veces, graves. Es posible que necesites ayuda si presentas los signos mencionados anteriormente o si:
+Te sientes frecuentemente molesto o muy preocupado
+Sufres por mucho tiempo después de una pérdida o una muerte
+Piensas que alguien o algo controla tu mente o que tu mente está fuera de control
+Consumes
+alcohol
+o
+drogas
+Te ejercitas obsesivamente,
+haces dietas y/o comes en exceso
+Lastimas a otras personas o destruyes la propiedad ajena
+Haces cosas imprudentes que podrían lastimarte o lastimar a los demás
+Te sientes
+deprimido
+(triste y sin esperanza)
+Los problemas de salud mental pueden tratarse. Para obtener ayuda, habla con tus padres, el consejero escolar o un profesional de la salud.
+
+Groups:
+- Niños y adolescentes
+- Salud mental y conducta
+
+Related Resources:
+
+Resource: 3 maneras de aumentar las emociones positivas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/positive-emotions.html
+
+Resource: Acerca del suicido en los adolescentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/suicide.html
+
+Resource: Adolescencia
+Category: Comience aquí, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/teens/adolescencia?partner=nlm
+
+Resource: Adolescentes y el manejo de su depresión
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000647.htm
+
+Resource: Ansiedad
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/anxiety.html
+
+Resource: Ansiedad social
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/social-phobia.html
+
+Resource: Antidepresivos para niños y adolescentes
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/teen-depression/in-depth/antidepressants/art-20047502?p=1
+
+Resource: Ayudarle a su hijo adolescente con depresión
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000646.htm
+
+Resource: Ayude a su hijo adolescente a lidiar con el estrés
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000814.htm
+
+Resource: Cerebro de los adolescentes: 7 cosas que usted debe saber
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/el-cerebro-de-los-adolescentes-7-cosas
+
+Resource: Cinco formas de conocer mejor tus sentimientos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/emotional-awareness.html
+
+Resource: Comprender los grupos cerrados o excluyentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/understanding-cliques.html
+
+Resource: Consulta con un terapeuta
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/therapist.html
+
+Resource: Cuando los niños y los adolescentes se autolesionan
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/emotional-problems/paginas/when-children-and-teens-self-harm.aspx
+
+Resource: Cómo afrontar el estrés
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stress-situations.html
+
+Resource: Cómo ayudar a los niños y adolescentes a superar los acontecimientos catastróficos y otras experiencias traumáticas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/como-ayudar-los-ninos
+
+Resource: Cómo curarse después de un trauma
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/heal-trauma.html
+
+Resource: Cómo enfrentar las emociones difíciles
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stressful-feelings.html
+
+Resource: Cómo lograr una vida feliz
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/happy-life.html
+
+Resource: Cómo nos ayudan las emociones negativas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/negative-emotions-help.html
+
+Resource: Depresión en adolescentes: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/teendepression.html
+
+Resource: Depresión: Lo que necesitas saber
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/depression.html
+
+Resource: Entendamos el estrés traumático infantil
+Category: Asuntos específicos, Spanish/Español
+Organization: Red Nacional para el Estrés Traumático Infantil
+URL: https://www.nctsn.org/sites/default/files/resources//understanding_child_traumatic_stress_sp.pdf
+
+Resource: Evaluación de salud mental
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-de-salud-mental/
+
+Resource: Hábitos saludables en las redes sociales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/habitos-saludables-en-las-redes-sociales
+
+Resource: Imagen corporal y autoestima
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/body-image.html
+
+Resource: Información en español sobre la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/topics/espanol
+
+Resource: Los adolescentes están hablando de la salud mental
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/los-adolescentes-estan-hablando-de-la-salud-mental
+
+Resource: Los adolescentes y el estrés: cuando es más que una preocupación
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/los-adolescentes-y-el-estres
+
+Resource: Línea 988 de prevención del suicidio y crisis
+Category: Spanish/Español, Especialistas
+Organization: Administración de Servicios de la Salud Mental y Abuso de Sustancias
+URL: https://988lifeline.org/es/inicio/
+
+Resource: Maltrato: ¿Qué puedo hacer si necesito ayuda ya mismo?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/abuse-help.html
+
+Resource: Meditación
+Category: Spanish/Español, Niñas
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/meditacion/
+
+Resource: Millones de personas que viven en Estados Unidos tienen problemas de salud mental y de uso de sustancias. Encuentre tratamiento aquí.
+Category: Spanish/Español, Especialistas
+Organization: Administración de Servicios de la Salud Mental y Abuso de Sustancias
+URL: https://findtreatment.gov/es
+
+Resource: Presión de los pares
+Category: Spanish/Español, Mujeres
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/presion-de-los-companeros/
+
+Resource: Reconocimiento de la depresión en los adolescentes
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000648.htm
+
+Resource: Salud mental de los adolescentes: Cómo saber cuándo su hijo necesita ayuda
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/teen/paginas/mental-health-and-teens-watch-for-danger-signs.aspx
+
+Resource: Salud mental y uso de las redes sociales: ¿Qué pueden hacer los padres?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/mental-health-social-media.html
+
+Resource: Terapia conductual dialéctica para adolescentes
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/dialectical-therapy-teens.html
+
+Resource: Trastorno afectivo estacional (información para adolescentes)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sad.html
+
+Resource: Trastorno bipolar en adolescentes y adultos jóvenes
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/trastorno-bipolar-en-adolescentes
+
+Resource: Trastorno bipolar en niños y adolescentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/el-trastorno-bipolar-en-los-ninos-y-los-adolescentes
+
+Resource: Trastorno dismórfico corporal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/body-image-problem.html
+
+Resource: Trastorno obsesivo compulsivo (TOC) (para adolescentes)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/ocd.html
+
+Resource: Trastornos de ansiedad en niños (para los padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/anxiety-disorders.html
+
+Resource: Tricotilomanía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001517.htm
+
+Resource: Tricotilomanía (tirarse del pelo)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/trichotillomania.html
+
+Resource: ¡Estoy tan estresado! hoja informativa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/estoy-tan-estresado
+
+Resource: ¿Cómo puede la conexión social ayudar a los niños y adolescentes a sentirse menos solos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/social-connection.html
+
+Resource: ¿Cómo puede la conexión social puede reducir la soledad?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/lonely.html
+
+Resource: ¿Cómo puedo ayudar a un amigo mío que se corta?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/friend-cuts.html
+
+Resource: ¿Cómo puedo dejar de cortarme?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/resisting-cutting.html
+
+Resource: ¿Cómo puedo recibir ayuda en plena crisis emocional?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/crisis-support.html
+
+Resource: ¿Cómo puedo sentirme menos solo?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/lonely-help.html

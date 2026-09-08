@@ -1,0 +1,248 @@
+Title: Hernia
+
+Also Called:
+- Enterocele
+
+Summary:
+A hernia happens when part of an internal organ or tissue bulges through a weak area of muscle. Most hernias are in the abdomen.
+There are several types of hernias, including:
+Inguinal, in the groin. This is the the most common type.
+Umbilical, around the belly button
+Incisional, through a scar
+Hiatal
+, a small opening in the diaphragm that allows the upper part of the stomach to move up into the chest.
+Congenital diaphragmatic, a birth defect that needs surgery
+Hernias are common. They can affect men, women, and children.  A combination of muscle weakness and straining, such as with heavy lifting, might contribute. Some people are born with weak abdominal muscles and may be more likely to get a hernia.
+Treatment is usually surgery to repair the opening in the muscle wall. Untreated hernias can cause pain and health problems.
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Hernia
+
+Related Resources:
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: Abdominal wall defect: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/abdominal-wall-defect
+
+Resource: Battling a Bulging Hernia: Don't Ignore Your Groin Pain
+Category: Symptoms
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/12/battling-bulging-hernia
+
+Resource: ClinicalTrials.gov: Hernia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=Hernia+NOT+disc&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hernia, Diaphragmatic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hernia,+Diaphragmatic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hernia, Inguinal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hernia,+Inguinal%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hernia, Umbilical
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hernia,+Umbilical%22&aggFilters=status:not%20rec
+
+Resource: Congenital diaphragmatic hernia repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002936.htm
+
+Resource: Congenital diaphragmatic hernia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-diaphragmatic-hernia
+
+Resource: Diaphragmatic hernia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001135.htm
+
+Resource: Diaphragmatic hernia repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100014_1.htm
+
+Resource: Epigastric Hernias
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/epigastric-hernias.html
+
+Resource: Femoral hernia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001136.htm
+
+Resource: Femoral hernia repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007399.htm
+
+Resource: Find a SAGES Surgeon
+Category: Find an Expert
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/public-search/
+
+Resource: Gastroschisis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000992.htm
+
+Resource: Gastroschisis
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/gastroschisis.html
+
+Resource: Gastroschisis repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002924.htm
+
+Resource: Gastroschisis repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100023_1.htm
+
+Resource: Hernia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000960.htm
+
+Resource: Hernias
+Category: Teenagers, Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hernias.html
+
+Resource: Inguinal Hernia
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/inguinal-hernia
+
+Resource: Inguinal Hernia in Infants and Children
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Inguinal-Hernia.aspx
+
+Resource: Inguinal hernia repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007406.htm
+
+Resource: Inguinal hernia repair - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000274.htm
+
+Resource: Inguinal hernia repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100027_1.htm
+
+Resource: Inguinal Hernia Repair Surgery
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/inguinal-hernia-repair-surgery-patient-information-from-sages/
+
+Resource: Lump in the abdomen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003277.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Omphalocele
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000994.htm
+
+Resource: Omphalocele
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/omphalocele.html
+
+Resource: Omphalocele repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002938.htm
+
+Resource: Omphalocele repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100033_1.htm
+
+Resource: Hernia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hernia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sports Hernia (Athletic Pubalgia)
+Category: Related Issues
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/sports-hernia-athletic-pubalgia/
+
+Resource: Surgical Mesh Used for Hernia Repair
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/implants-and-prosthetics/surgical-mesh-used-hernia-repair
+
+Resource: Treating and Preventing Sports Hernias
+Category: Related Issues
+Organization: American Osteopathic Association
+URL: https://doctorsthatdo.osteopathic.org/treating-and-preventing-sports-hernias
+
+Resource: Treating Gastroschisis (Gastroschisis Silo)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gastroschisis_silo.html
+
+Resource: Treating Indirect Inguinal Hernia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/inguinal-hernia-animation.html
+
+Resource: Umbilical hernia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000987.htm
+
+Resource: Umbilical hernia repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002935.htm
+
+Resource: Umbilical hernia repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100105_1.htm
+
+Resource: Umbilical Hernias
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/umbilical-hernias.html
+
+Resource: Ventral hernia repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007661.htm
+
+Resource: Ventral Hernia Repair Surgery
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/patient-information-for-laparoscopic-ventral-hernia-repair-from-sages/

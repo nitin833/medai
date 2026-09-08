@@ -1,0 +1,153 @@
+Title: Esclerosis múltiple
+
+Summary:
+La esclerosis múltiple es una
+enfermedad del sistema nervioso
+que afecta al cerebro y la médula espinal. Lesiona la vaina de mielina, el material que rodea y protege las células nerviosas. La lesión hace más lentos o bloquea los mensajes entre el cerebro y el cuerpo, conduciendo a los síntomas de la esclerosis múltiple. Estos pueden incluir:
+Alteraciones de la vista
+Debilidad muscular
+Problemas con la coordinación y el equilibrio
+Sensaciones como entumecimiento, picazón o pinchazos
+Problemas con el pensamiento y la memoria
+No se conoce la causa de la esclerosis múltiple. Puede ser una enfermedad autoinmune, que ocurre cuando el cuerpo se ataca a sí mismo. La esclerosis múltiple afecta más a las mujeres que a los hombres. Suele comenzar entre los 20 y los 40 años. En general, la enfermedad es leve, pero algunas personas pierden la capacidad para escribir, hablar o caminar.
+No existe una prueba específica para la esclerosis múltiple. Los profesionales de la salud utilizan su historia clínica, examen físico, pruebas neurológicas, resonancia magnética y otros métodos para diagnosticarla. No tiene cura, pero las medicinas pueden hacer más lento el proceso y ayudar a controlar los síntomas. La fisioterapia y la terapia ocupacional también pueden ayudar.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Huesos, articulaciones y músculos
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta tras esclerosis múltiple
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000129.htm
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Bandas oligoclonales en LCR
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003631.htm
+
+Resource: Conteo de células en LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003625.htm
+
+Resource: Esclerosis múltiple
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000737.htm
+
+Resource: Esclerosis múltiple (diagnóstico)
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100145_1.htm
+
+Resource: Esclerosis múltiple (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/multiple-sclerosis.html
+
+Resource: Esclerosis múltiple: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/multiple-sclerosis/diagnosis-treatment/drc-20350274?p=1
+
+Resource: Esclerosis múltiple: Lo que debe saber
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/esclerosis-multiple-lo-que-debe-saber
+
+Resource: Esclerosis múltiple: ¿Puede causar convulsiones?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/multiple-sclerosis/expert-answers/multiple-sclerosis/faq-20058138?p=1
+
+Resource: John King de CNN no permitirá que la esclerosis múltiple lo detenga
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/john-king-de-cnn-no-permitira-que-la-esclerosis-multiple-lo-detenga
+
+Resource: Manejo de la esclerosis múltiple
+Category: Viviendo con..., Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/manejo-de-la-esclerosis-multiple
+
+Resource: Mioclono
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/mioclono
+
+Resource: Mioclono palatino
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001637.htm
+
+Resource: Neuritis óptica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000741.htm
+
+Resource: Obteniendo una visita exitosa con el médico
+Category: Interactivos y videos, Spanish/Español
+Organization: Sociedad Nacional de Esclerosis Múltiple
+URL: https://www.youtube.com/embed/cJ2dQJN2hMQ
+
+Resource: Problemas para tragar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Programa de cuidado diario del intestino
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000133.htm
+
+Resource: Proteína básica de mielina en LCR
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003370.htm
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: Respuesta auditiva provocada del tronco encefálico (BAER)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003926.htm
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: Sobre el embarazo (y la esclerosis múltiple)
+Category: Interactivos y videos, Spanish/Español
+Organization: Sociedad Nacional de Esclerosis Múltiple
+URL: https://www.youtube.com/embed/wGRXwbG_gog
+
+Resource: Vitamina D y esclerosis múltiple: posible relación
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/multiple-sclerosis/expert-answers/vitamin-d-and-ms/faq-20058258?p=1
+
+Resource: Índice de IgG en LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/indice-de-igg-en-lcr/

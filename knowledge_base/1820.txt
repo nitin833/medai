@@ -1,0 +1,99 @@
+Title: Elección de un doctor o plan médico
+
+Also Called:
+- Elección de un médico
+
+Summary:
+Todos queremos recibir un servicio para el cuidado de la salud que sea de alta calidad, pero es difícil saber cómo elegir el plan de atención médica. Existen muchas cosas en las que deberá pensar, entre ellas:
+La cobertura del seguro
+Si el profesional y el plan de atención médica están acreditados
+La ubicación del servicio
+El horario en el que el servicio se encuentra disponible
+Si le agrada la personalidad del profesional de la atención médica
+En esta página, encontrará información que lo ayudará a elegir un profesional o un plan de atención médica.
+
+Groups:
+- Sistemas de salud
+- Asuntos personales de salud
+
+Related Resources:
+
+Resource: Applicación QuestionBuilder en español
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/es/questions/question-builder/index.html
+
+Resource: Buscar un asilo de ancianos
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/care-compare/?providerType=NursingHome
+
+Resource: Consejos a la hora de hablar: Seis aspectos que debe conocer al elegir un profesional de medicina complementaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro Nacional de Salud Complementaria e Integral
+URL: https://www.nccih.nih.gov/health/espanol/consejos-a-la-hora-de-hablar-seis-aspectos-que-debe-conocer-al-elegir-un-profesional-de-medicina-complementaria
+
+Resource: Control de peso
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso?dkrd=/health-information/informacion-de-la-salud/control-de-peso/como-escoger-programa-para-adelgazar-seguro-exitoso
+
+Resource: Cómo elegir un pediatra
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/family-life/health-management/Paginas/How-To-Choose-A-Pediatrician.aspx
+
+Resource: Cómo encontrar cuidados dentales
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/como-encontrar-cuidados-dentales
+
+Resource: Elección del médico de cabecera
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001939.htm
+
+Resource: Elegir a un pediatra para su bebé recién nacido
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/find-ped.html
+
+Resource: Elegir un médico y un hospital para su tratamiento del cáncer
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000928.htm
+
+Resource: En búsqueda de ayuda: Cómo elegir un psicoterapeuta
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Psiquiátrica Americana
+URL: https://www.apa.org/topics/psychotherapy/elegir?partner=nlm
+
+Resource: Encuentre un hospital
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/care-compare/?providerType=Hospital
+
+Resource: Escoger el profesional médico apropiado para el embarazo y el parto
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000596.htm
+
+Resource: Instituto Nacional Sobre el Envejecimiento
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol
+
+Resource: Profesionales del cuidado de la salud: Médicos de familia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hcp-family-doctors.html
+
+Resource: Profesionales del cuidado de la salud: Parteras
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hcp-midwives.html
+
+Resource: Proveedores de atención de la salud mental: Consejos para encontrar uno
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mental-illness/in-depth/mental-health-providers/art-20045530?p=1

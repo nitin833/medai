@@ -1,0 +1,51 @@
+Title: Enfermedades raras
+
+Summary:
+Una enfermedad rara es aquella que afecta a menos de 200.000 personas en los Estados Unidos. Hay cerca de 7.000 enfermedades raras. Más de 25 millones de estadounidenses tienen una.
+Las enfermedades raras:
+Pueden incluir enfermedades crónicas, discapacidad y a menudo muerte prematura
+A menudo no tienen ningún tratamiento o no es muy eficaz
+Con frecuencia no se diagnostican correctamente
+A menudo son muy complejas
+Son causadas en forma frecuente por cambios en los
+genes
+Puede ser difícil encontrar un especialista que sepa cómo tratar su enfermedad rara. Grupos de apoyo de la enfermedad, organizaciones de enfermedades raras y clínicas de genética pueden ayudarle a encontrar uno.
+NIH: Centro de Información sobre Enfermedades Genéticas y Raras
+
+Groups:
+- Genética y defectos congénitos
+- Síntomas
+
+Related Resources:
+
+Resource: Cuando hay investigación, hay esperanza
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/cuando-hay-investigacion-hay-esperanza
+
+Resource: Cómo enfrentar un trastorno infantil raro
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-enfrentar-un-trastorno-infantil-raro
+
+Resource: Glosario hablado de términos genéticos
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Información genética de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/
+
+Resource: Las genoterapias son un camino prometedor para el tratamiento de enfermedades raras
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/genoterapias-son-un-camino-prometedor-para-el-tratamiento-de-enfermedades-raras
+
+Resource: Preguntas frecuentes sobre las enfermedades raras
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/FAQ/Preguntas-frecuentes-sobre-las-enfermedades-raras
+
+Resource: Sobre GARD
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/acerca-de/

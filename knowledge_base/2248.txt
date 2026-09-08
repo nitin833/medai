@@ -1,0 +1,89 @@
+Title: Miositis
+
+Summary:
+La miositis es la inflamación de los músculos que se usan para mover el cuerpo. Puede ser causada por una lesión, una infección o una
+enfermedad autoinmune
+. Dos tipos principales de miositis son la polimiositis y la dermatomiositis. La polimiositis causa debilidad en los músculos y en general afecta a los músculos cercanos al tronco del cuerpo. La dermatomiositis causa también debilidad muscular y además un sarpullido en la piel.
+Otros síntomas de la miositis pueden ser:
+Cansancio después de caminar o estar parado
+Tropiezos o caídas
+Problemas para tragar o respirar
+Para su diagnóstico el doctor hará un examen físico, exámenes de laboratorio, de imagen y una biopsia muscular. No existe una cura para estas enfermedades pero los síntomas se pueden controlar. Tanto la polimiositis como la dermatomiositis se tratan con altas dosis de
+corticosteroides
+. Otras opciones pueden ser otros medicamentos, terapia de rehabilitación, ejercicio, calor, aparatos de asistencia y descanso.
+Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Anticuerpos antinucleares (ANA)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/anticuerpos-antinucleares-ana
+
+Resource: Dermatomiositis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000839.htm
+
+Resource: Dermatomiositis juvenil
+Category: Spanish/Español, Niños/as
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/dermatomiositis-juvenil
+
+Resource: Dermatomiositis juvenil (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/jdm.html
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Enfermedad vascular del colágeno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001223.htm
+
+Resource: Examen de creatina-fosfocinasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003503.htm
+
+Resource: Examen de mioglobina en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003664.htm
+
+Resource: Examen de mioglobina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003663.htm
+
+Resource: Miopatías metabólicas
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/miopatias-metabolicas
+
+Resource: Polimiositis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/polymyositis/symptoms-causes/syc-20353208?p=1
+
+Resource: Polimiositis del adulto
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000428.htm
+
+Resource: Prueba de anticuerpos antinucleares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-antinucleares/

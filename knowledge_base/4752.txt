@@ -1,0 +1,126 @@
+Title: Chequeo médico
+
+Also Called:
+- Chequeo anual
+- Chequeos de rutina
+- Examen médico anual
+
+Summary:
+Los chequeos médicos regulares (también conocidos como examen anual de rutina) con su profesional de la salud son diferentes a las citas por enfermedad o lesión. Estos chequeos incluyen exámenes físicos y atención preventiva. La atención preventiva puede incluir:
+Pruebas de detección
+: Exámenes médicos para detectar enfermedades en etapas tempranas, cuando pueden ser más fáciles de tratar. Los exámenes que necesite dependerán de su:
+Edad
+Sexo
+Salud general
+Antecedentes o
+historia de salud familiar
+Riesgos de ciertas enfermedades
+Vacunas
+: Pueden mejorar su salud al prevenir enfermedades y otros problemas médicos
+Educación y asesoramiento para ayudarle a tomar decisiones de salud informadas: Puede incluir consejos sobre su estilo de vida, incluyendo su dieta, cuánto ejercicio hace y cualquier sustancia, alcohol o tabaco que pueda estar consumiendo
+Para aprovechar al máximo su próximo chequeo, algunas cosas que debe hacer antes de acudir incluyen:
+Revisar su historia de salud familiar
+Averiguar si le corresponde algún examen general o vacuna
+Preparar una lista de problemas y preguntas sobre los que le gustaría hablar con su profesional de la salud
+Preparar una lista de los medicamentos, vitaminas y suplementos que toma para llevar con usted
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Bienestar y estilo de vida
+
+Related Resources:
+
+Resource: Applicación QuestionBuilder en español
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/es/questions/question-builder/index.html
+
+Resource: Atención médica y su hijo de 13 a 18 años
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/medical-care-13-18.html
+
+Resource: Chequeo médico de la mujer: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/womenshealthcheckup.html
+
+Resource: Chequeo médico del bebé: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/babyhealthcheckup.html
+
+Resource: Consulta preventiva de bienvenida a Medicare
+Category: Personas mayores, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/welcome-to-medicare-preventive-visit
+
+Resource: Control del niño sano
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001928.htm
+
+Resource: Cuestionario sobre las pruebas de detección para hombres
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/007465_79.htm
+
+Resource: Cómo entender el resultado de sus pruebas de laboratorio
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-entender-el-resultado-de-sus-pruebas-de-laboratorio/
+
+Resource: Exámenes de salud para hombres de 18 a 39 años
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007464.htm
+
+Resource: Exámenes de salud para hombres de 40 a 64 años
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007465.htm
+
+Resource: Exámenes de salud para hombres de 65 años en adelante
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007466.htm
+
+Resource: Exámenes medicos: Qué esperar
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/med-videos-landing.html
+
+Resource: Frecuencia del examen físico
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002125.htm
+
+Resource: Hablando con su doctor: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/talkingwithyourdoctor.html
+
+Resource: Hombre: Conserve su salud a cualquier edad
+Category: Hombres, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/patients-consumers/patient-involvement/healthy-men/hombre.pdf
+
+Resource: Hombre: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/hombre50.pdf
+
+Resource: Mujer: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/women50sp.pdf
+
+Resource: Pulsioximetría
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/
+
+Resource: Revisiones médicas de su hijo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/checkups.html

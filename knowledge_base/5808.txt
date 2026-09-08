@@ -1,0 +1,148 @@
+Title: Kidney Cysts
+
+Summary:
+A cyst is a fluid-filled sac. You may get simple kidney cysts as you age; they are usually harmless. There are also some diseases which cause kidney cysts. One type is polycystic kidney disease (PKD). It runs in families. In PKD, many cysts grow in the kidneys. This can enlarge the kidneys and make them work poorly. About half of people with the most common type of PKD end up with
+kidney failure
+. PKD also causes cysts in other parts of the body, such as the liver.
+Often, there are no symptoms at first. Later, symptoms include:
+Pain in the back and lower sides
+Headaches
+Blood in the urine
+Doctors diagnose PKD with imaging
+tests
+and family history. There is no cure. Treatments can help with symptoms and complications. They include medicines and lifestyle changes, and if there is kidney failure,
+dialysis
+or
+kidney transplants
+.
+Acquired cystic kidney disease (ACKD) happens in people who have
+chronic kidney disease
+, especially if they are on dialysis. Unlike PKD, the kidneys are normal sized, and cysts do not form in other parts of the body. ACKD often has no symptoms. Usually, the cysts are harmless and do not need treatment. If they do cause complications, treatments include medicines, draining the cysts, or surgery.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Kidney Diseases, Cystic
+
+Related Resources:
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Acquired Cystic Kidney Disease
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/acquired-cystic-kidney-disease
+
+Resource: Autosomal dominant tubulointerstitial kidney disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000465.htm
+
+Resource: ClinicalTrials.gov: Kidney Diseases, Cystic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kidney+Diseases,+Cystic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Polycystic Kidney Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Polycystic+Kidney+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Kidney Cysts
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/kidney-cysts/
+
+Resource: Kidney Disease Statistics for the United States
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease
+
+Resource: Kidney Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kidneytests.html
+
+Resource: Living with PKD
+Category: Living With
+Organization: PKD Foundation
+URL: https://pkdcure.org/about-the-disease/living-with-pkd/
+
+Resource: Meckel syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/meckel-syndrome
+
+Resource: Medullary cystic kidney disease type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/medullary-cystic-kidney-disease-type-1/
+
+Resource: Medullary Sponge Kidney
+Category: Specifics
+Organization: National Kidney and Urologic Diseases Information Clearinghouse
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/medullary-sponge-kidney
+
+Resource: Multicystic Dysplastic Kidney
+Category: Children
+Organization: National Kidney and Urologic Diseases Information Clearinghouse
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/multicystic-dysplastic-kidney
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Kidney Foundation
+Category: Find an Expert
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/
+
+Resource: Nephronophthisis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nephronophthisis/
+
+Resource: Polycystic kidney disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000502.htm
+
+Resource: Polycystic Kidney Disease (PKD)
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/polycystic-kidney-disease
+
+Resource: Polycystic kidney disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/polycystic-kidney-disease
+
+Resource: Kidney Cysts
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Kidney+Diseases%2C+Cystic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renal Cysts
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/renal-cyst
+
+Resource: Simple Kidney Cysts
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/simple-kidney-cysts
+
+Resource: Your Kidneys and How They Work
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work

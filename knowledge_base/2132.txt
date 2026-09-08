@@ -1,0 +1,77 @@
+Title: Enfermedades de las glándulas salivales
+
+Summary:
+Sus glándulas salivales se ubican en su boca. Usted tiene tres pares de glándulas salivales grandes y cientos de glándulas pequeñas. Estas producen saliva, también llamada esputo,  y la segregan hacia la boca a través de aberturas llamadas ductos. La saliva ablanda los alimentos, lo que ayuda a masticarlos y tragarlos. Ayuda a digerir la comida. También limpia la boca y contiene anticuerpos que pueden matar gérmenes.
+Los problemas de las glándulas salivales pueden irritarlas e inflamarlas. Usted puede tener síntomas como:
+Un mal sabor en la boca
+Dificultad para abrir la boca
+Boca seca
+Dolor en su cara o boca
+Inflamación en su cara o cuello
+Entre las causas de los problemas en las glándulas salivales se incluyen las infecciones, la obstrucción y el
+cáncer
+. Los problemas también pueden deberse a otros trastornos, tales como las
+paperas
+o el
+síndrome de Sjögren
+.
+
+Groups:
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Babeo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003048.htm
+
+Resource: Biopsia de la glándula salival
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003847.htm
+
+Resource: Importancia de la saliva
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/una-sorpresa-que-le-hara-salivar
+
+Resource: Infecciones de las glándulas salivales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001041.htm
+
+Resource: Resequedad de la boca o saliva espesa
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/problemas-alimentarios/resequedad-de-la-boca.html
+
+Resource: Saliva y los trastornos de las glándulas salivales
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/saliva-trastornos-glandulas-salivales
+
+Resource: Sialograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003812.htm
+
+Resource: Sialolitos en los conductos salivales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001039.htm
+
+Resource: Trastornos de las glándulas salivales
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-de-la-boca-y-la-garganta/trastornos-de-las-gl%C3%A1ndulas-salivales
+
+Resource: Tumores de las glándulas salivales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001040.htm
+
+Resource: ¿Qué es la saliva?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/spit.html

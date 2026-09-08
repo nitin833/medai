@@ -1,0 +1,242 @@
+Title: Radiation Exposure
+
+Summary:
+What is radiation?
+Radiation is energy. It travels in the form of energy waves or high-speed particles. Radiation can occur naturally or be man-made. There are two types:
+Non-ionizing radiation,
+which includes radio waves, cell phones, microwaves, infrared radiation and visible light
+Ionizing radiation,
+which includes ultraviolet radiation,
+radon
+,
+x-rays
+, and gamma rays
+What are the sources of radiation exposure?
+Background radiation is all around us all the time. Most of it forms naturally from minerals. These radioactive minerals are in the ground, soil, water, and even our bodies. Background radiation can also come from outer space and the sun. Other sources are man-made, such as x-rays,
+radiation therapy
+to treat cancer, and electrical power lines.
+What are the health effects of radiation exposure?
+Radiation has been around us throughout our evolution. So our bodies are designed to deal with the low levels we're exposed to every day. But too much radiation can damage tissues by changing cell structure and damaging DNA. This can cause serious health problems, including cancer.
+The amount of damage that exposure to radiation can cause depends on several factors, including:
+The type of radiation
+The dose (amount) of radiation
+How you were exposed, such as through skin contact, swallowing or breathing it in, or having rays pass through your body
+Where the radiation concentrates in the body and how long it stays there
+How sensitive your body is to radiation. A fetus is most vulnerable to the effects of radiation. Infants, children, older adults, pregnant women, and people with compromised immune systems are more vulnerable to health effects than healthy adults.
+Being exposed to a lot of radiation over a short period of time, such as from a
+radiation emergency
+, can cause skin
+burns
+. It may also lead to acute radiation syndrome (ARS, or "radiation sickness").  The symptoms of ARS include headache and diarrhea. They usually start within hours. Those symptoms will go away and the person will seem healthy for a little while. But then they will get sick again. How soon they get sick again, which symptoms they have, and how sick they get depends on the amount of radiation they received. In some cases, ARS causes death in the following days or weeks.
+Exposure to low levels of radiation in the environment does not cause immediate health effects. But it can slightly increase your overall risk of cancer.
+What are the treatments for acute radiation sickness?
+Before they start treatment, health care professionals need to figure out how much radiation your body absorbed. They will ask about your symptoms, do blood tests, and may use a device that measures radiation. They also try get more information about the exposure, such as what type of radiation it was, how far away you were from the source of the radiation, and how long you were exposed.
+Treatment focuses on reducing and treating infections, preventing
+dehydration
+, and treating injuries and burns. Some people may need treatments that help the
+bone marrow
+recover its function. If you were exposed to certain types of radiation, your provider may give you a treatment that limits or removes the contamination that is inside your body. You may also get treatments for your symptoms.
+How can radiation exposure be prevented?
+There are steps you can take to prevent or reduce radiation exposure:
+If your health care provider recommends a test that uses radiation, ask about its risks and benefits. In some cases, you may be able to have a different test that does not use radiation. But if you do need a test that uses radiation, do some research into the local imaging facilities. Find one that monitors and uses techniques to reduce the doses they are giving patients.
+Reduce
+electromagnetic radiation
+exposure from your cell phone. At this time, scientific evidence has not found a link between cell phone use and health problems in humans. More research is needed to be sure. But if you still have concerns, you can reduce how much time you spend on your phone. You can also use speaker mode or a headset to place more distance between your head and the cell phone.
+If you live in a house, test the radon levels, and if you need to, get a radon reduction system.
+During a radiation emergency, get inside a building to take shelter. Stay inside, with all of the windows and doors shut. Stay tuned to and follow the advice of emergency responders and officials.
+Environmental Protection Agency
+
+Groups:
+- Injuries and Wounds
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Environmental Exposure
+- Radiation
+- Radiation Exposure
+
+Related Resources:
+
+Resource: Accidents at Nuclear Power Plants and Cancer Risk
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/nuclear-accidents-fact-sheet
+
+Resource: Acute Radiation Syndrome
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html
+
+Resource: Beware of Ultraviolet Wands That Give Off Unsafe Levels of UV Radiation
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/beware-ultraviolet-wands-give-unsafe-levels-uv-radiation
+
+Resource: Cell Phones and Cancer Risk
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Radiation Exposure
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Radiation+Exposure%22&aggFilters=status:not%20rec
+
+Resource: Does the Product Emit Radiation?
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/classify-your-medical-device/does-product-emit-radiation
+
+Resource: Facts About Cell Phones and Your Health
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-health/data-research/facts-stats/cell-phones.html
+
+Resource: Food Irradiation: What You Need to Know
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/food-irradiation-what-you-need-know
+
+Resource: Frequently Asked Questions on Potassium Iodide (KI)
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/frequently-asked-questions-potassium-iodide-ki
+
+Resource: How Are People Exposed to X-Rays and Gamma Rays?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/radiation-exposure/x-rays-gamma-rays/how-are-people-exposed.html
+
+Resource: Hyperbaric oxygen therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Non-Ionizing Radiation Used in Microwave Ovens
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radtown/non-ionizing-radiation-used-microwave-ovens
+
+Resource: Nuclear Radiation and the Thyroid
+Category: Related Issues
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/wp-content/uploads/patients/brochures/NuclearRadiation_brochure.pdf
+
+Resource: Potassium Iodide ("KI"): Instructions to Make Potassium Iodide Solution for Use During a Nuclear Emergency (Liquid Form)
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/bioterrorism-and-drug-preparedness/potassium-iodide-ki
+
+Resource: Potassium Iodide (KI)
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/treatment/potassium-iodide.html
+
+Resource: Ionizing radiation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Radiation+Exposure%22%5Bmajr%5D+OR+%22Environmental+Exposure%22%5Bmajr%5D+AND+%22Radiation%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Radiation Basics
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radiation/radiation-basics
+
+Resource: Radiation Dose from X-Ray and CT Exams
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-xray
+
+Resource: Radiation Exposure and Cancer Risk
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/radiation-exposure.html
+
+Resource: Radiation Exposure and Pregnancy
+Category: Women
+Organization: Health Physics Society
+URL: https://hps.org/wp-content/uploads/2024/12/pregnancy_fact_sheet.pdf
+
+Resource: Radiation Exposure from Medical Exams and Procedures
+Category: Specifics
+Organization: Health Physics Society
+URL: https://hps.org/wp-content/uploads/2024/12/Medical_Exposures_Fact_Sheet.pdf
+
+Resource: Radiation from Cardiac Imaging Tests
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.146043
+
+Resource: Radiation Protection
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radiation
+
+Resource: Radiation Safety for Children
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-rad-children
+
+Resource: Radiation sickness
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000026.htm
+
+Resource: Radionuclide Basics: Iodine
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radiation/radionuclide-basics-iodine
+
+Resource: Radionuclide Basics: Plutonium
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radiation/radionuclide-basics-plutonium
+
+Resource: RadTown
+Category: Teenagers
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radtown
+
+Resource: Technologically Enhanced Naturally Occurring Radioactive Materials (TENORM)
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radiation/technologically-enhanced-naturally-occurring-radioactive-materials-tenorm
+
+Resource: Treating Radiation Exposure with DTPA
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/treatment/dtpa.html
+
+Resource: Treating Radiation Exposure with Neupogen
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/treatment/neupogen.html
+
+Resource: Treating Radiation Exposure with Prussian Blue
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/treatment/prussian-blue.html
+
+Resource: What Causes Contamination versus Exposure
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-emergencies/causes/
+
+Resource: What You Should Know About Pediatric Nuclear Medicine and Radiation Safety
+Category: Children
+Organization: Alliance for Radiation Safety in Pediatric Imaging
+URL: https://www.imagegently.org/Portals/6/Nuclear%20Medicine/Parent%20Brochure%208th%20Grade.pdf

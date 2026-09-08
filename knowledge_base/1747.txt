@@ -1,0 +1,182 @@
+Title: Lesiones y enfermedades del tobillo
+
+Summary:
+El hueso del tobillo (astrágalo) y el extremo inferior de los dos huesos de la pierna forman la articulación del tobillo. Los ligamentos, que conectan los huesos entre sí, estabilizan y dan soporte a la articulación. Los músculos y tendones lo mueven.
+Los problemas más comunes del tobillo son las
+torceduras
+y las
+fracturas
+(huesos rotos). Una torcedura o esguince es una lesión en los ligamentos. Los esguinces pueden tardar algunas semanas o hasta varios meses en sanar completamente. Una fractura es una ruptura de un hueso. También pueden ocurrir lesiones en otras partes del tobillo como los tendones, que unen los músculos al hueso, y los cartílagos, que amortiguan los roces e impactos de las articulaciones. Las torceduras y las fracturas del tobillo son
+lesiones deportivas
+comunes.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Alta tras artroplastia de tobillo
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000190.htm
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Artritis reumatoide en el pie y tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/rheumatoid-arthritis-in-the-foot-and-ankle?lang=es-MX
+
+Resource: Artrografía directa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Artroplastia del tobillo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007254.htm
+
+Resource: Artroscopia del tobillo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007584.htm
+
+Resource: Atención postratamiento de una fractura de tobillo
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000548.htm
+
+Resource: Atención postratamiento para el esguince de tobillo
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000574.htm
+
+Resource: Curación de los huesos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/bone-healing?lang=es-MX
+
+Resource: Disfunción del tendón tibial posterior (PTTD)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/posterior-tibial-tendon-dysfunction-(pttd)?lang=es-MX
+
+Resource: Dolor de tobillo
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003167.htm
+
+Resource: Dolor en las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-pain-in-the-foot?lang=es-MX
+
+Resource: Equinismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/equinus?lang=es-MX
+
+Resource: Esguince de tobillo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100209_1.htm
+
+Resource: Esguinces de tobillo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/ankle-sprains.html
+
+Resource: Fracturas de tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/ankle-fractures?lang=es-MX
+
+Resource: Hinchazón de las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-swelling-in-the-foot?lang=es-MX
+
+Resource: Hinchazón de pierna
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/leg-swelling/basics/definition/sym-20050910?p=1
+
+Resource: Hinchazón de tobillos, pies y piernas
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003104.htm
+
+Resource: Inestabilidad crónica de tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/chronic-ankle-instability?lang=es-MX
+
+Resource: Inflamación aguda
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/acute-inflammation?lang=es-MX
+
+Resource: Lesiones del tendón peroneo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/peroneal-tendon-injuries?lang=es-MX
+
+Resource: Lesión del domo talar
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/talar-dome-lesion?lang=es-MX
+
+Resource: Osteoartritis del pie y el tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/osteoarthritis-of-the-foot-and-ankle?lang=es-MX
+
+Resource: Radiografía de una extremidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003461.htm
+
+Resource: Radiografía: Tobillo (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-ankle.html
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Resonancia magnética de la pierna
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007357.htm
+
+Resource: Síndrome del hueso trígono (os trigonum)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/os-trigonum-syndrome?lang=es-MX
+
+Resource: Síndrome del túnel tarsiano
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/tarsal-tunnel-syndrome?lang=es-MX
+
+Resource: Tobillos dislocados
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/orthopedic/paginas/sprained-ankles.aspx
+
+Resource: Tratamiento del esguince de tobillo
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/sports-injuries/paginas/ankle-sprain-treatment.aspx
+
+Resource: ¿Qué es un cirujano de pie y tobillo?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/what-is-a-foot-and-ankle-surgeon?lang=es-MX

@@ -1,0 +1,81 @@
+Title: Carcinoide
+
+Summary:
+Los tumores carcinoides son cánceres raros y de crecimiento lento. Comienzan en la membrana interna de las vías digestivas o en los pulmones. Crecen lentamente y no presentan síntomas en las etapas tempranas. Debido a esto, la edad promedio de las personas al momento del diagnóstico es aproximadamente de 60 años de edad.
+En etapas más avanzadas, el tumor a veces produce hormonas que provocan síndrome carcinoide. El síndrome causa enrojecimiento de la cara y la parte superior del pecho, diarrea y problemas respiratorios.
+El principal tratamiento para los carcinoides es la cirugía. Si no se han diseminado a otras partes del cuerpo, la cirugía puede curar el cáncer.
+
+Groups:
+- Cánceres
+
+Related Resources:
+
+Resource: Aspectos generales de las opciones de tratamiento (tumores neuroendocrinos gastrointestinales)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/tumores-neuroendocrinos-gi/paciente/tratamiento-neuroendocrinos-gi-pdq#_57
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios de los tumores neuroendocrinos gastrointestinales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/tumores-neuroendocrinos-gi/paciente/tratamiento-neuroendocrinos-gi-pdq#_27
+
+Resource: Examen de serotonina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003562.htm
+
+Resource: Información general sobre los tumores neuroendocrinos gastrointestinales
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/tumores-neuroendocrinos-gi/paciente/tratamiento-neuroendocrinos-gi-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Prueba de orina 5-HIAA
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003612.htm
+
+Resource: Síndrome carcinoide
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000347.htm
+
+Resource: Síndrome carcinoide debido a tumores neuroendocrinos
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-hormonales-y-metab%C3%B3licos/tumores-neuroendocrinos-gastrointestinales-y-pancre%C3%A1ticos/s%C3%ADndrome-carcinoide-debido-a-tumores-neuroendocrinos
+
+Resource: Tratamiento de los tumores neuroendocrinos gastrointestinales infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/tumores-neuroendocrinos-gi/paciente/tratamiento-neuroendocrino-gi-infantiles-pdq
+
+Resource: Tumores carcinoides
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/carcinoid-tumors/symptoms-causes/syc-20351039?p=1
+
+Resource: Tumores carcinoides: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/carcinoid-tumors/diagnosis-treatment/drc-20351044?p=1

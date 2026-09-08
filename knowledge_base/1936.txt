@@ -1,0 +1,136 @@
+Title: Seguro de salud
+
+Also Called:
+- Aseguranza
+- Seguro médico
+
+Summary:
+El seguro para el cuidado de la salud ayuda a la gente a protegerse contra los elevados costos médicos. Es un contrato entre la persona y la compañía de seguros en donde la persona compra un plan y la compañía accede a cubrir parte de los gastos médicos.
+Mucha gente en los Estados Unidos tiene un seguro para el cuidado de la salud a través de sus empleadores. En la mayoría de los casos, el empleador ayuda a pagar  ese seguro. El seguro a través de los empleadores suele ser un plan de
+atención médica administrada
+. Estos planes contratan a profesionales de la salud y centros médicos para suministrarles atención médica a los afiliados, con costos reducidos. También puede adquirir por su cuenta un seguro para el cuidado de la salud.
+Las personas que cumplen con ciertos requisitos pueden tener derecho a un seguro gubernamental para el cuidado de la salud, tales como
+Medicare
+y
+Medicaid
+. La Ley del Cuidado de Salud a Bajo Precio amplia la cobertura para muchas personas en los Estados Unidos.
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Beneficios de cuidado preventivo: Lo que cubren los planes
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cuidadodesalud.gov/es/coverage/preventive-care-benefits/
+
+Resource: Búsqueda de un seguro de salud asequible
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/find-care.html
+
+Resource: Cinco maneras de aprovechar su cobertura médica
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cms.gov/About-CMS/Agency-Information/OMH/Downloads/C2C-Postcard-Spanish-April.pdf
+
+Resource: Cobertura de enfermedades preexistentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/coverage/pre-existing-conditions/
+
+Resource: Cobertura de Medicaid y CHIP
+Category: Spanish/Español, Niños/as
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cuidadodesalud.gov/es/medicaid-chip/getting-medicaid-chip/
+
+Resource: Contáctenos (sobre la Ley del Cuidado de Salud a Bajo Precio)
+Category: Spanish/Español, Especialistas
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/contact-us/
+
+Resource: Cuentas de ahorros para gastos de atención médica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000864.htm
+
+Resource: CuidadoDeSalud.gov
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/
+
+Resource: Cómo elegir un plan de salud
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000861.htm
+
+Resource: Cómo interpretar los planes de seguros médicos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000879.htm
+
+Resource: Cómo interpretar su factura del hospital
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000881.htm
+
+Resource: Cómo interpretar sus costos de atención médica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000878.htm
+
+Resource: Cómo seleccionar un plan de seguro médico
+Category: Comience aquí, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cuidadodesalud.gov/es/choose-a-plan/comparing-plans/
+
+Resource: Derechos y protecciones de la cobertura de salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/health-care-law-protections/
+
+Resource: Detecte las estafas de seguro de salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión Federal de Comercio
+URL: https://consumidor.ftc.gov/articulos/detecte-las-estafas-de-seguro-de-salud-0
+
+Resource: Glosario (Ley de Salud a Bajo Precio)
+Category: Información de referencia, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/glossary/
+
+Resource: Guía para el empleado sobre los beneficios de salud bajo COBRA
+Category: Asuntos específicos, Spanish/Español
+Organization: Departamento de Trabajo
+URL: https://www.dol.gov/sites/dolgov/files/EBSA/about-ebsa/our-activities/resource-center/publications/health-benefits-under-cobra.pdf
+
+Resource: Guía rápida para el Mercado de Seguros Médicos
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/quick-guide/
+
+Resource: Ley Sin Sorpresas le protege contra facturas médicas inesperadas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cms.gov/derechos-facturas-medicas
+
+Resource: Por qué la cobertura de salud es importante
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/why-coverage-is-important/
+
+Resource: Reportar cambios de ingresos, hogar y otros cambios
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cuidadodesalud.gov/es/reporting-changes/
+
+Resource: Servicios preventivos de salud para mujeres
+Category: Spanish/Español, Mujeres
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/preventive-care-women/
+
+Resource: ¿Cómo contratar un seguro médico?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/buy-health-insurance.html

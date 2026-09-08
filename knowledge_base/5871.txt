@@ -1,0 +1,130 @@
+Title: Enfermedades rectales
+
+Also Called:
+- Enfermedades del recto
+
+Summary:
+El recto es la parte inferior del intestino grueso, donde el organismo almacena la materia fecal. Los problemas del recto son comunes. Incluyen
+hemorroides
+, abscesos,
+incontinencia
+y
+cáncer
+.
+A muchas personas les avergüenza hablar acerca de problemas  rectales. Pero es importante consultar al médico acerca de ellos,  especialmente si le duele o tiene hemorragia. Los tratamientos varían dependiendo del problema en particular.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Absceso anorrectal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001519.htm
+
+Resource: Anoscopia y anoscopia de alta resolución
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003890.htm
+
+Resource: Biopsia rectal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003891.htm
+
+Resource: Celulitis estreptocócica perianal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001346.htm
+
+Resource: Colonoscopía: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/colonoscopy.html
+
+Resource: Cultivo rectal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003759.htm
+
+Resource: Objetos extraños en el recto
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/trastornos-anales-y-rectales/objetos-extra%C3%B1os-en-el-recto
+
+Resource: Proctitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001139.htm
+
+Resource: Proctitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/proctitis/symptoms-causes/syc-20376933?p=1
+
+Resource: Prolapso rectal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001132.htm
+
+Resource: Prolapso vaginal posterior (rectocele)
+Category: Spanish/Español, Mujeres
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rectocele/symptoms-causes/syc-20353414?p=1
+
+Resource: Pólipos colorrectales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000266.htm
+
+Resource: Rayos X del sistema gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/lowergi
+
+Resource: Recto y ano
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/biolog%C3%ADa-del-aparato-digestivo/recto-y-ano
+
+Resource: Reparación de prolapso rectal
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002932.htm
+
+Resource: Reparación quirúrgica de prolapso rectal
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100037_1.htm
+
+Resource: Sangrado rectal
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/rectal-bleeding/basics/definition/sym-20050740?p=1
+
+Resource: Sangrado rectal
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007741.htm
+
+Resource: Síndrome de úlcera rectal solitaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rectal-ulcer/symptoms-causes/syc-20377749?p=1
+
+Resource: Síndrome del elevador del ano
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/trastornos-anales-y-rectales/s%C3%ADndrome-del-elevador-del-ano
+
+Resource: Tacto rectal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007069.htm
+
+Resource: Tránsito gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior

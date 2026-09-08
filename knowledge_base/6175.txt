@@ -1,0 +1,314 @@
+Title: Hypothyroidism
+
+Also Called:
+- Underactive thyroid
+
+Summary:
+What is hypothyroidism?
+Hypothyroidism, or underactive thyroid, happens when your thyroid gland doesn't make enough thyroid hormones to meet your body's needs.
+Your
+thyroid
+is a small, butterfly-shaped gland in the front of your neck. It makes hormones that control the way the body uses energy. These hormones affect nearly every organ in your body and control many of your body's most important functions. For example, they affect your breathing, heart rate, weight, digestion, and moods. Without enough thyroid hormones, many of your body's functions slow down. But there are treatments that can help.
+What causes hypothyroidism?
+Hypothyroidism has several causes. They include:
+Hashimoto's disease, an autoimmune disorder where your immune system attacks your thyroid. This is the most common cause.
+Thyroiditis, inflammation of the thyroid
+Congenital hypothyroidism, hypothyroidism that is present at birth
+Surgical removal of part or all of the thyroid
+Radiation treatment
+of the thyroid
+Certain medicines
+In rare cases, a
+pituitary disease
+or too much or too little iodine in your diet
+Who is at risk for hypothyroidism?
+You are at higher risk for hypothyroidism if you:
+Are a woman
+Are older than age 60
+Have had a thyroid problem before, such as a goiter
+Have had surgery to correct a thyroid problem
+Have received radiation treatment to the thyroid, neck, or chest
+Have a family history of thyroid disease
+Were pregnant or had a baby in the past 6 months
+Have
+Turner syndrome
+, a genetic disorder that affects females
+Have pernicious
+anemia
+, in which the body cannot make enough healthy red blood cells because it does not have enough
+vitamin B12
+Have
+Sjogren's syndrome
+, a disease that causes dry eyes and mouth
+Have
+type 1 diabetes
+Have
+rheumatoid arthritis
+, an autoimmune disease that affects the joints
+Have
+lupus
+, a chronic autoimmune disease
+What are the symptoms of hypothyroidism?
+The symptoms of hypothyroidism can vary from person to person and may include:
+Fatigue
+Weight gain
+A puffy face
+Trouble tolerating cold
+Joint and muscle pain
+Constipation
+Dry skin
+Dry, thinning hair
+Decreased sweating
+Heavy or irregular
+menstrual periods
+Fertility problems in women
+Depression
+Slowed heart rate
+Goiter, an enlarged thyroid that may cause your neck to look swollen. Sometimes it can cause trouble with breathing or swallowing.
+Because hypothyroidism develops slowly, many people don't notice symptoms of the disease for months or even years.
+What other problems can hypothyroidism cause?
+Hypothyroidism can contribute to
+high cholesterol
+. In rare cases, untreated hypothyroidism can cause myxedema coma. This is a condition in which your body's functions slow down to the point that it becomes life-threatening.
+During pregnancy, hypothyroidism can cause
+complications
+, such as
+premature birth
+,
+high blood pressure in pregnancy
+, and
+miscarriage
+. It can also slow the baby's
+growth and development
+.
+How is hypothyroidism diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, including asking about your symptoms
+A physical exam
+Thyroid tests
+, such as
+TSH
+,
+T3
+,
+T4
+, and
+thyroid antibody  blood tests
+Imaging tests
+, such as a thyroid scan,
+ultrasound
+, or radioactive iodine uptake test. A radioactive iodine uptake test measures how much radioactive iodine your thyroid takes up from your blood after you swallow a small amount of it.
+What are the treatments for hypothyroidism?
+The treatment for hypothyroidism is medicine to replace the hormone that your own thyroid can no longer make. About 6 to 8 weeks after you start taking the medicine, you will get a blood test to check your thyroid hormone level. Your health care provider will adjust your dose if needed. Each time your dose is adjusted, you'll have another blood test. Once you find the right dose, you will probably get a blood test in 6 months. After that, you will need the test once a year.
+If you take your medicine according to the instructions, you usually should be able to control the hypothyroidism. You should never stop taking your medicine without talking with your health care provider first.
+If you have Hashimoto's disease or other types of autoimmune thyroid disorders, you may be sensitive to harmful side effects from iodine. Talk to your health care provider about which foods, supplements, and medicines you need to avoid.
+Women need more iodine when they are pregnant because the baby gets iodine from the mother's diet. If you are pregnant, talk with your health care provider about how much iodine you need.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+
+MeSH Headings:
+- Hypothyroidism
+
+Related Resources:
+
+Resource: Ali Palmer's New Perspective on Beauty
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/ali-palmers-new-perspective-on-beauty
+
+Resource: American Thyroid Association
+Category: Find an Expert
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/
+
+Resource: Autoantibody Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/autoantibody-testing/
+
+Resource: Chronic thyroiditis (Hashimoto disease)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000371.htm
+
+Resource: ClinicalTrials.gov: Hashimoto Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hashimoto+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypothyroidism
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypothyroidism%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thyroiditis, Autoimmune
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thyroiditis,+Autoimmune%22&aggFilters=status:not%20rec
+
+Resource: Congenital Hypothyroidism (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/congenital-hypothyroidism.html?WT.ac=pairedLink
+
+Resource: Congenital hypothyroidism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-hypothyroidism
+
+Resource: Factitious hyperthyroidism
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000309.htm
+
+Resource: Fast Facts About Hypothyroidism
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/fast-facts-about-hypothyroidism
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Find an Endocrinology - Thyroid Specialist
+Category: Find an Expert
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/portal/#find-an-endocrinology-thyroid-specialist
+
+Resource: Free T4 test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003517.htm
+
+Resource: Hashimoto thyroiditis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hashimotos-disease
+
+Resource: Hashimoto's Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/hashimotos-disease
+
+Resource: Hashimoto's Disease
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/hashimotos-disease
+
+Resource: Hypothyroidism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000353.htm
+
+Resource: Hypothyroidism
+Category: Start Here
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/hypothyroidism/
+
+Resource: Hypothyroidism (Underactive Thyroid)
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/hypothyroidism
+
+Resource: Hypothyroidism and Hashimoto's Thyroiditis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hypothyroidism.html
+
+Resource: Hypothyroidism vs. Hyperthyroidism: What's the Difference?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/hypothyroidism-vs-hyperthyroidism-whats-the-difference
+
+Resource: Hypothyroidism: Can It Cause Peripheral Neuropathy?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/expert-answers/hypothyroidism/faq-20058489?p=1
+
+Resource: Hypothyroidism: Does It Cause Joint Pain?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hypothyroidism/expert-answers/hypothyroidism/faq-20057789?p=1
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Neonatal hypothyroidism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001193.htm
+
+Resource: Older Therapies Aren't Necessarily Better for Thyroid Hormone Replacement
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/older-therapies-arent-necessarily-better-thyroid-hormone-replacement
+
+Resource: Hypothyroidism
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hypothyroidism%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Silent thyroiditis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000388.htm
+
+Resource: Subacute thyroiditis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000375.htm
+
+Resource: Thyroid and Weight
+Category: Related Issues
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/thyroid-and-weight/
+
+Resource: Thyroid Function Tests
+Category: Diagnosis and Tests
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/thyroid-function-tests/
+
+Resource: Thyroid Hormone Treatment
+Category: Treatments and Therapies
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/thyroid-hormone-treatment/
+
+Resource: Thyroid scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003829.htm
+
+Resource: Thyroid Scan and Uptake
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/thyroiduptake
+
+Resource: Thyroid Tests
+Category: Diagnosis and Tests, Patient Handouts
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/thyroid
+
+Resource: Thyroxine (T4) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/thyroxine-t4-test/
+
+Resource: Triiodothyronine (T3) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/triiodothyronine-t3-tests/
+
+Resource: TSH (Thyroid-stimulating hormone) test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/
+
+Resource: TSH test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003684.htm
+
+Resource: Why the Internet Can't Diagnose Your Thyroid Problem
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/why-the-internet-cant-diagnose-your-thyroid-problem

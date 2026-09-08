@@ -1,0 +1,223 @@
+Title: B Vitamins
+
+Summary:
+The B vitamins are:
+B1 (thiamine)
+B2 (riboflavin)
+B3 (niacin)
+B5 (pantothenic acid)
+B6
+B7 (biotin)
+B12
+Folic acid
+These vitamins help the process your body uses to get or make energy from the food you eat. They also help form red blood cells.  You can get B vitamins from proteins such as fish, poultry, meat, eggs, and dairy products.  Leafy green vegetables, beans, and peas also have B vitamins.  Many cereals and some breads have added B vitamins.
+Not getting enough of certain B vitamins can cause diseases.  A lack of B12 or B6 can cause
+anemia
+.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Vitamin B Complex
+
+Related Resources:
+
+Resource: Beriberi
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000339.htm
+
+Resource: ClinicalTrials.gov: Biotin
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Biotin%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Niacin
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Niacin%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Riboflavin
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Riboflavin%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thiamine
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Thiamine%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vitamin B Complex
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+B+Complex%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vitamin B12
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+B12%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vitamin B6
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+B6%22&aggFilters=status:not%20rec
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Homocysteine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/homocysteine-test/
+
+Resource: Methylmalonic Acid (MMA) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/methylmalonic-acid-mma-test/
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Niacin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002409.htm
+
+Resource: Niacin
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Niacin-Consumer/
+
+Resource: Niacin for cholesterol
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000788.htm
+
+Resource: Niacin to Improve Cholesterol Numbers
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/niacin/art-20046208?p=1
+
+Resource: Pantothenic Acid
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/PantothenicAcid-Consumer/
+
+Resource: Pantothenic acid and biotin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002410.htm
+
+Resource: Pellagra
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000342.htm
+
+Resource: Pernicious anemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000569.htm
+
+Resource: B Vitamins
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vitamin+B+Complex%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Riboflavin
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Riboflavin-Consumer/
+
+Resource: Riboflavin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002411.htm
+
+Resource: Schilling test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003572.htm
+
+Resource: Subacute combined degeneration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000723.htm
+
+Resource: Thiamin
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Thiamin-Consumer/
+
+Resource: Thiamin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002401.htm
+
+Resource: Transcobalamin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/transcobalamin-deficiency
+
+Resource: Vitamin B Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vitamin-b-test/
+
+Resource: Vitamin B-12 and Depression: Are They Related?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/expert-answers/vitamin-b12-and-depression/faq-20058077?p=1
+
+Resource: Vitamin B12
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
+
+Resource: Vitamin B12
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002403.htm
+
+Resource: Vitamin B12 deficiency anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000574.htm
+
+Resource: Vitamin B12 level
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003705.htm
+
+Resource: Vitamin B12-Deficiency Anemia
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia
+
+Resource: Vitamin B6
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminB6-Consumer/
+
+Resource: Vitamin B6
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002402.htm
+
+Resource: Vitamin Deficiency Anemia
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1

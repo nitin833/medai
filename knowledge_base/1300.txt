@@ -1,0 +1,114 @@
+Title: Fetal Alcohol Spectrum Disorders
+
+Also Called:
+- FASD
+
+Summary:
+Alcohol can harm your baby at any stage during a pregnancy. That includes the earliest stages, before you even know you are pregnant.
+Drinking during pregnancy
+can cause a group of conditions called fetal alcohol spectrum disorders (FASDs). Children who are born with FASD can have a mix of problems, such as medical, behavioral, educational, and social problems. The kinds of problems they have depend on which type of FASD they have. The problems could include :
+Abnormal facial features, such as a smooth ridge between the nose and upper lip
+Small head size
+Shorter-than-average height
+Low body weight
+Poor coordination
+Hyperactive behavior
+Difficulty with attention and memory
+Learning disabilities and difficulty in school
+Speech and language delays
+Intellectual disability or low IQ
+Poor reasoning and judgment skills
+Sleep and sucking problems as a baby
+Vision or hearing problems
+Problems with the heart, kidneys, or bones
+Fetal alcohol syndrome (FAS) is the most serious type of FASD. People with fetal alcohol syndrome have facial abnormalities, including wide-set and narrow eyes, growth problems and nervous system abnormalities.
+Diagnosing FASD can be hard because there is no medical test, like a blood test, for it. The health care provider will make a diagnosis by looking at the
+child's signs and symptoms
+and asking whether the mother drank alcohol during pregnancy.
+FASDs last a lifetime. There is no cure for FASDs, but treatments can help. These include medicines to help with some symptoms, medical care for health problems, behavior and education therapy, and parent training. A good treatment plan is specific to the child's problems. It should include close monitoring, follow-ups, and changes when needed.
+Certain "protective factors" can help reduce the effects of FASDs and help people who have them reach their full potential. They include:
+Diagnosis before 6 years of age
+Loving, nurturing, and stable home environment during the school years
+Absence of violence around them
+Involvement in special education and social services
+There is no known safe amount of alcohol during pregnancy. To prevent FASDs, you should not drink alcohol while you are pregnant, or when you might get pregnant.
+Centers for Disease Control and Prevention
+
+Groups:
+- Substance Use and Disorders
+- Pregnancy and Reproduction
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Fetal Alcohol Spectrum Disorders
+
+Related Resources:
+
+Resource: About Fetal Alcohol Spectrum Disorders (FASDs)
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fasd/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Fetal Alcohol Spectrum Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fetal+Alcohol+Spectrum+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Data and Statistics on FASDs (Fetal Alcohol Spectrum Disorders)
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fasd/data/
+
+Resource: Fetal Alcohol Spectrum Disorders (FASD)
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/fetal-alcohol-spectrum-disorders-fasd/?adree=true
+
+Resource: Fetal Alcohol Spectrum Disorders (FASD) Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fetal-alcohol-spectrum-disorders-fasd-screening/
+
+Resource: Fetal alcohol syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000911.htm
+
+Resource: Fetal Alcohol Syndrome
+Category: Related Issues
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/fetal-alcohol-syndrome
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: National Institute on Alcohol Abuse and Alcoholism
+Category: Find an Expert
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/
+
+Resource: Fetal Alcohol Spectrum Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Fetal+Alcohol+Spectrum+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treatment of FASDs (Fetal Alcohol Spectrum Disorders)
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fasd/treatment/
+
+Resource: Understanding Fetal Alcohol Spectrum Disorders
+Category: Start Here
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/understanding-fetal-alcohol-spectrum-disorders

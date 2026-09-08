@@ -1,0 +1,131 @@
+Title: Hemorrhagic Fevers
+
+Also Called:
+- VHFs
+
+Summary:
+Viral hemorrhagic fevers (VHFs) are a group of illnesses caused by four families of viruses. These include the
+Ebola
+and Marburg, Lassa fever, and yellow fever viruses. VHFs have common features: they affect many organs, they damage the blood vessels, and they affect the body's ability to regulate itself. Some VHFs cause mild disease, but some, like Ebola or Marburg, cause severe disease and death.
+VHFs are found around the world. Specific diseases are usually limited to areas where the animals that carry them live. For example, Lassa fever is limited to rural areas of West Africa where rats and mice carry the virus.
+The risk for travelers is low, but you should avoid visiting areas where there are disease outbreaks. Because there are no effective treatments for some of these viral infections, there is concern about their use in
+bioterrorism
+.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Hemorrhagic Fevers, Viral
+
+Related Resources:
+
+Resource: About Crimean-Congo Hemorrhagic Fever
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/crimean-congo-hemorrhagic/about/
+
+Resource: About Lassa Fever
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/lassa-fever/about/
+
+Resource: About Marburg Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/marburg/about/
+
+Resource: About Nipah Virus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nipah-virus/about/
+
+Resource: About Rift Valley Fever (RVF)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rift-valley-fever/about/
+
+Resource: About Viral Hemorrhagic Fevers
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/viral-hemorrhagic-fevers/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Hemorrhagic Fevers, Viral
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hemorrhagic+Fevers,+Viral%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Lassa Fever
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lassa+Fever%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Yellow Fever
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Yellow+Fever%22&aggFilters=status:not%20rec
+
+Resource: Clinician Brief: Hemorrhagic Fever with Renal Syndrome
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hantavirus/hcp/clinical-overview/hfrs.html
+
+Resource: Crimean-Congo Haemorrhagic Fever
+Category: Specifics
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever
+
+Resource: Marburg Virus Disease
+Category: Specifics
+Organization: World Health Organization
+URL: https://www.who.int/health-topics/marburg-virus-disease/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Hemorrhagic Fevers
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hemorrhagic+Fevers%2C+Viral%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Travelers' Health: Yellow Fever
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/yellow-fever.html
+
+Resource: Viral Hemorrhagic Fevers
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/viral-hemorrhagic-fevers/symptoms-causes/syc-20351260?p=1
+
+Resource: World Health Organization
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/en/
+
+Resource: Yellow fever
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001365.htm
+
+Resource: Yellow Fever Vaccine
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-fever/vaccine/
+
+Resource: Yellow Fever Vaccine: What You Need to Know
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/yf.pdf
+
+Resource: Yellow Fever Virus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-fever/

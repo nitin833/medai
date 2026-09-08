@@ -1,0 +1,437 @@
+Title: Tuberculosis
+
+Also Called:
+- TB
+
+Summary:
+What is tuberculosis (TB)?
+Tuberculosis (TB) is a
+bacterial disease
+that usually attacks the lungs. But it can also attack other parts of the body, including the kidneys, spine, and brain.
+Not everyone infected with TB bacteria (germs) becomes sick. So, there are two types of TB conditions:
+Inactive (latent) TB infection
+, where the TB germs live in your body but don't make you sick.
+TB disease (active TB)
+where you get sick from the TB germs. TB disease can almost always be cured with
+antibiotics
+. But if it's not treated properly, it can be fatal.
+TB is found in the U.S., but it is more common in certain other countries.
+What causes tuberculosis (TB)?
+TB is caused by bacteria (germs) called
+Mycobacterium tuberculosis
+. The germs spread from person to person through the air. People who have TB disease in their throat or lungs spread the germs in the air when they cough, sneeze, talk, or sing. If you breathe in the air that has the germs, you can get TB.
+TB is not spread by touching, kissing, or sharing food or dishes.
+You're more likely to catch TB from people you live or work with than from people you see for shorter amounts of time.
+Who is more likely to get infected with tuberculosis (TB) germs?
+Anyone who is near a person with TB disease can get infected with the germs. You are more likely to be near someone with TB disease if you:
+Were born in or often travel to countries where TB disease is common
+Are a health care worker
+Work or live in a place where TB is more common, such as shelters for people without homes, jails, and nursing homes
+Who is more likely to develop TB disease?
+Certain people are more likely to get sick with TB disease after they get infected. They include people who:
+Have
+HIV
+Became infected with TB in the last 2 years
+Have other diseases, such as
+diabetes
+, that make it hard for your body to fight TB germs
+Have
+alcohol use disorder
+(AUD) or inject
+illegal drugs
+Were not treated correctly for TB in the past
+Are under age 5
+Are an older adult
+Take medicines that
+weaken the immune system
+, such as medicines taken after an
+organ transplant
+,
+steroids
+, and specialized treatments for certain
+autoimmune diseases
+What are the symptoms of tuberculosis (TB)?
+Most people who have TB germs in their bodies don't get sick with TB disease. Instead, they have inactive TB infection. With an inactive TB infection, you:
+Don't have symptoms
+Can't spread TB to others
+Could get sick with active TB disease in the future if your immune system becomes weak for another reason
+Need to take medicine to prevent getting sick with active TB disease in the future
+If you have TB disease
+, the TB germs are active, meaning that they are growing (multiplying) inside your body and making you sick. If the TB is growing in your lungs or throat, you can spread the TB germs to other people. You can get sick with TB disease weeks to years after you're infected with TB germs.
+With TB disease, your symptoms will depend on where the TB is growing in your body:
+General symptoms may include:
+Chills and
+fever
+Night sweats (heavy sweating during sleep)
+Losing weight without trying
+Loss of appetite
+Weakness or
+fatigue
+Symptoms from TB disease in your lungs may include:
+A
+cough
+that lasts longer than 3 weeks
+Coughing up blood or sputum (a thick mucus from the lungs)
+Chest pain
+How is tuberculosis (TB) diagnosed?
+Your health care provider or your local health department can test you to find out if you have TB germs in your body. They will give you either a
+TB skin or blood test
+.
+If your test shows that you have TB germs, you'll need to have other tests to see if the germs are actively growing:
+Tests for TB disease in the lungs
+usually include
+testing samples of your sputum
+and having chest
+x-rays
+.
+Tests for TB disease in other parts of your body
+may include tests of
+urine
+and
+tissue samples
+.
+You may need a TB test if you have symptoms of TB disease or if you are at high risk because you are more likely to be near someone with TB disease.
+People who have HIV also need to get tested for TB. HIV weakens your immune system. So if you have both HIV and inactive TB, the TB can quickly become active TB disease. You will need treatment for the inactive TB as soon as possible to prevent active TB disease.
+What is the treatment for tuberculosis (TB)?
+The treatment for both inactive TB infection and TB disease is antibiotics. To make sure you get rid of all the TB germs in your body, it's very important to follow the directions for taking your medicine.
+If you don't follow the directions, the TB germs in your body could change and become
+antibiotic resistant
+. That means the medicine may stop working and your TB may become hard to cure.
+For inactive TB infections
+, you need to take medicines for three, four, six, or nine months, depending on the treatment plan. Treatment helps make sure you don't get TB disease in the future.
+For active TB disease
+, you usually need to take medicines for four, six, or nine months, depending on the treatment plan. Treatment will almost always cure you if you take your pills the right way.
+For TB disease in your lungs or throat
+, you'll need to stay home for a few weeks, so you don't spread disease to other people. You can protect the people you live with by:
+Covering your nose and mouth.
+Opening windows when possible.
+Not getting too close to them.
+For drug-resistant TB disease,
+which means that the TB germs are resistant to certain TB medicines, you will need to take special medicines. Treatment may take a long time, sometimes months or years. The medicines can cause
+side effects
+. Your provider will closely monitor your treatment to make sure the medicines are working.
+By following medical advice for TB testing and treatment, you can keep yourself healthy and help stop the spread of TB.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Lungs and Breathing
+
+MeSH Headings:
+- Tuberculosis
+
+Related Resources:
+
+Resource: About Active Tuberculosis Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/active-tuberculosis-disease.html
+
+Resource: About Bovine Tuberculosis in Humans
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/m-bovis.html
+
+Resource: About Drug-Resistant Tuberculosis Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/drug-resistant.html
+
+Resource: About Inactive Tuberculosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/inactive-tuberculosis.html
+
+Resource: ACE blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003567.htm
+
+Resource: Acid-Fast Bacillus (AFB) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acid-fast-bacillus-afb-tests/
+
+Resource: Acid-fast stain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003766.htm
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Bacille Calmette-Guérin (BCG) Vaccine for Tuberculosis
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/hcp/vaccines/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chest CT
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003788.htm
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: ClinicalTrials.gov: Tuberculosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tuberculosis%22&aggFilters=status:not%20rec
+
+Resource: Coughing up blood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003073.htm
+
+Resource: Disseminated tuberculosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000624.htm
+
+Resource: Exposure to Tuberculosis
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/exposure/index.html
+
+Resource: Gastric culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003378.htm
+
+Resource: Glossary of Tuberculosis Terms
+Category: Reference Desk
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/glossary/
+
+Resource: Hemoglobinuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003363.htm
+
+Resource: HIV and Tuberculosis (TB)
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-tuberculosis-tb
+
+Resource: Learn about Tuberculosis
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/tuberculosis/learn-about-tuberculosis
+
+Resource: Mediastinoscopy with biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003864.htm
+
+Resource: Meningitis - tuberculous
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000650.htm
+
+Resource: Mycobacterial culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003740.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Open pleural biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003863.htm
+
+Resource: Pleural fluid culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003725.htm
+
+Resource: Pleural needle biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003862.htm
+
+Resource: PPD skin test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003839.htm
+
+Resource: Preventing Tuberculosis
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/prevention/
+
+Resource: Tuberculosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tuberculosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary tuberculosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000077.htm
+
+Resource: Questions and Answers About Tuberculosis Booklet
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/communication-resources/tb-questions-and-answers-booklet.html
+
+Resource: Reported Tuberculosis in the United States, 2024
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb-surveillance-report-2024/index.html
+
+Resource: Scrofula
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001354.htm
+
+Resource: Signs and Symptoms of Tuberculosis
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/signs-symptoms/
+
+Resource: Sputum culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003723.htm
+
+Resource: Sputum stain for mycobacteria
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003724.htm
+
+Resource: Staying on Track with Tuberculosis Medicine
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/media/Staying_on_Track_with_TB_Medicine.pdf
+
+Resource: Synovial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003922.htm
+
+Resource: Taking medicines to treat tuberculosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000425.htm
+
+Resource: TB Risk and People Born in or Who Travel to Places Where TB is Common
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/risk-factors/country.html
+
+Resource: TB Risk and People Who Live or Work in Correctional Facilities
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/risk-factors/correctional-facilities.html
+
+Resource: TB Risk and People with HIV
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/risk-factors/hiv.html
+
+Resource: Testing for Tuberculosis
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/testing/
+
+Resource: Testing for Tuberculosis: Skin Test
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/testing/skin-test.html
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Treating Active Tuberculosis Disease
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/treatment/active-tuberculosis-disease.html
+
+Resource: Treating and Managing Tuberculosis
+Category: Treatments and Therapies
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/tuberculosis/treating-and-managing
+
+Resource: Treating Drug-Resistant Tuberculosis Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/treatment/drug-resistant-tuberculosis.html
+
+Resource: Treating Inactive Tuberculosis
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/treatment/inactive-tuberculosis.html
+
+Resource: Treating Tuberculosis
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/treatment/index.html
+
+Resource: Tuberculosis
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/tuberculosis
+
+Resource: Tuberculosis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tuberculosis.html
+
+Resource: Tuberculosis and Black or African American Persons
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/health-equity/black-or-african-american-persons.html
+
+Resource: Tuberculosis and Hispanic or Latino Persons
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/health-equity/hispanic-or-latino-persons.html
+
+Resource: Tuberculosis Clinical Care and Treatment during Pregnancy
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/hcp/clinical-care/pregnancy.html
+
+Resource: Tuberculosis Data
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb-data/
+
+Resource: Tuberculosis in Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/children.html
+
+Resource: Tuberculosis in Pregnancy
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/about/pregnancy.html
+
+Resource: Tuberculosis Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tuberculosis-screening/
+
+Resource: What You Need to Know about the TB Skin Test
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/media/What_You_Need_to_Know_About_the_TB_Skin_Test.pdf
+
+Resource: What You Need to Know About Tuberculosis
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/media/pdfs/What_You_Need_to_Know_About_TB.pdf

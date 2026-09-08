@@ -1,0 +1,264 @@
+Title: Pancreatic Diseases
+
+Summary:
+The pancreas is a gland behind your stomach and in front of your spine. It produces juices that help break down food and hormones that help control
+blood sugar
+levels. Problems with the pancreas can lead to many health problems. These include:
+Pancreatitis
+, or inflammation of the pancreas: This happens when digestive enzymes start digesting the pancreas itself
+Pancreatic cancer
+Cystic fibrosis
+, a genetic disorder in which thick, sticky mucus can also block tubes in your pancreas
+The pancreas also plays a role in diabetes. In
+type 1 diabetes
+, the beta cells of the pancreas no longer make insulin because the body's immune system has attacked them. In
+type 2 diabetes
+, the pancreas loses the ability to secrete enough insulin in response to meals.
+
+Groups:
+- Digestive System
+- Endocrine System
+
+MeSH Headings:
+- Pancreatic Diseases
+
+Related Resources:
+
+Resource: A Black/African American's Guide to Pancreas Disease
+Category: Living With
+Organization: National Pancreas Foundation
+URL: https://pancreasfoundation.org/wp-content/uploads/2025/02/BlackAfrican-American-Guide-2024.pdf
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal tap
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: Acute pancreatitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000287.htm
+
+Resource: Amylase - blood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003464.htm
+
+Resource: Amylase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003607.htm
+
+Resource: Amylase Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/amylase-test/
+
+Resource: Animated Pancreas Patient
+Category: Videos and Tutorials
+Organization: National Pancreas Foundation
+URL: https://www.animatedpancreaspatient.com/en-pancreas/home
+
+Resource: Annular pancreas
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001142.htm
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Chymotrypsin in Stool
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chymotrypsin-in-stool/
+
+Resource: ClinicalTrials.gov: Pancreatic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pancreatic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: ERCP
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007479.htm
+
+Resource: Exocrine Pancreatic Insufficiency (EPI)
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/exocrine-pancreatic-insufficiency
+
+Resource: Fecal fat
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003588.htm
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Glucagon blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003716.htm
+
+Resource: Hyperinsulinemia: Is It Diabetes?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/expert-answers/hyperinsulinemia/faq-20058488?p=1
+
+Resource: Insulinoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000387.htm
+
+Resource: Lactate Dehydrogenase (LDH) Isoenzymes Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-isoenzymes-test/
+
+Resource: Lactate Dehydrogenase (LDH) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-test/
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: LDH isoenzyme blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003499.htm
+
+Resource: Lipase test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003465.htm
+
+Resource: Lipase Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lipase-tests/
+
+Resource: Macroamylasemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001216.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: NPF Centers of Excellence
+Category: Find an Expert
+Organization: National Pancreas Foundation
+URL: https://pancreasfoundation.org/patient-resources/npf-centers-of-excellence/
+
+Resource: Pain Treatment and Management
+Category: Treatments and Therapies
+Organization: National Pancreas Foundation
+URL: https://pancreasfoundation.org/patient-resources/pain-management/
+
+Resource: Pancreas Basics
+Category: Reference Desk
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/basics
+
+Resource: Pancreas Disease
+Category: Start Here
+Organization: National Pancreas Foundation
+URL: https://pancreasfoundation.org/pancreas-disease/
+
+Resource: Pancreas divisum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000247.htm
+
+Resource: Pancreatic abscess
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000270.htm
+
+Resource: Pancreatic Cysts
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993?p=1
+
+Resource: Pancreatic pseudocyst
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000272.htm
+
+Resource: Percutaneous transhepatic cholangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003820.htm
+
+Resource: Power of Your Pancreas: Keep Your Digestive Juices Flowing
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/02/power-your-pancreas
+
+Resource: Pancreatic Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pancreatic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Secretin stimulation test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003892.htm
+
+Resource: Shwachman-Diamond syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/shwachman-diamond-syndrome
+
+Resource: Stool Elastase
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/stool-elastase/
+
+Resource: Trypsin and chymotrypsin in stool
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003594.htm
+
+Resource: Trypsinogen test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003560.htm
+
+Resource: Zollinger-Ellison syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000325.htm
+
+Resource: Zollinger-Ellison Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/zollinger-ellison-syndrome

@@ -1,0 +1,92 @@
+Title: Cuidado paliativo
+
+Summary:
+Los cuidados paliativos son el tratamiento para la incomodidad, los síntomas y el estrés que produce una enfermedad grave. Proporciona alivio de los síntomas problemáticos, incluyendo:
+Dolor
+Falta de aliento
+Fatiga
+Estreñimiento
+Náusea
+Pérdida de apetito
+Problemas con el sueño
+También puede ayudarle a lidiar con los efectos secundarios de los tratamientos médicos que está recibiendo.
+Los
+cuidados de hospicio
+, la atención que se entrega al final de la vida, siempre incluye cuidados paliativos. Sin embargo, usted puede recibir cuidados paliativos en cualquier etapa de una enfermedad. El objetivo es hacerle sentir cómodo y mejorar su calidad de vida.
+NIH: Instituto Nacional de Investigación en Enfermería
+
+Groups:
+- Sistemas de salud
+- Asuntos personales de salud
+
+Related Resources:
+
+Resource: Breve descripción de los cuidados paliativos pediátricos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Investigación en Enfermería
+URL: https://www.ninr.nih.gov/newsandinformation/conversationsmatter/breve-descripcion-de-los-cuidados-paliativos-pedia
+
+Resource: Control del dolor: Apoyo para las personas con cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/control-dolor.pdf
+
+Resource: Cuidados de confort para niños y sus familias: La historia de una madre
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/cuidados-de-confort-para-ninos-y-sus-familias-la-historia-de-una-madre
+
+Resource: Cuidados paliativos durante el cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/cancer-avanzado/opciones-de-cuidado/hoja-informativa-cuidados-paliativos
+
+Resource: Cuidados paliativos para la dificultad respiratoria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000471.htm
+
+Resource: Cuidados paliativos para la insuficiencia cardíaca
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000365.htm
+
+Resource: Cuidados paliativos: Cómo son los últimos días
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000533.htm
+
+Resource: Cuidados paliativos: Miedo y ansiedad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000470.htm
+
+Resource: Líquidos, los alimentos y la digestión durante los cuidados paliativos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000531.htm
+
+Resource: Manejo del dolor durante los cuidados paliativos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000532.htm
+
+Resource: Tres sugerencias para familias que están considerando cuidados paliativos
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/tres-sugerencias-para-familias-que-estan-considerando-cuidados-paliativos
+
+Resource: ¿Quiénes forman parte de su equipo de cuidados paliativos?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/quienes-forman-parte-de-su-equipo-decuidados-paliativos
+
+Resource: ¿Qué son los cuidados paliativos?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/que-son-los-cuidados-paliativos
+
+Resource: ¿Qué son los cuidados paliativos?
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000536.htm
+
+Resource: ¿Qué son los cuidados paliativos? Le preguntamos a una profesional
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/que-son-los-cuidados-paliativos-le-preguntamos-a-una-profesional

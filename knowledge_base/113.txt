@@ -1,0 +1,434 @@
+Title: Depression
+
+Also Called:
+- Clinical depression
+- Dysthymic disorder
+- Major depressive disorder
+- Unipolar depression
+
+Summary:
+What is depression?
+Depression is more than a feeling of being sad or irritable for a few days. It's a serious
+mood disorder
+. As one of the most common mental disorders in the United States, depression can affect how you think, feel, and your everyday life. You may not know why you feel this way, but even basic daily activities such as sleeping, eating, or working may become difficult. Depression often needs long-term treatment but getting help at the earliest sign of a problem can help manage your symptoms.
+What are the different types of depression?
+The most common types of depression are major depression and persistent depressive disorder.
+Major depression
+symptoms include a depressed mood or a loss of interest. Symptoms affect your daily activities and last for at least two weeks.
+Persistent depressive disorder
+(also called dysthymia or dysthymic disorder) has less severe depressive symptoms, but they last longer, usually for at least two years.
+Other types of depression can include:
+Seasonal affective disorder
+comes and goes with the seasons. It usually starts in late fall and early winter and goes away during the spring and summer.
+Bipolar disorder
+is sometimes called manic depression. This mood disorder can cause intense mood swings.
+Depression with symptoms of psychosis
+is a severe form of depression that also has delusions (false beliefs) or hallucinations (seeing, hearing, or feeling something that isn't there).
+What causes depression?
+There are a variety of things that may cause depression, including genetic, biological, environmental, and psychological factors. Depression can happen at any age and can affect anyone, but it's more common in women. This is often due to the physical and hormonal changes that women have during menstruation, pregnancy,
+the postpartum period
+, and menopause. Other mental disorders or chronic medical conditions such as
+diabetes
+,
+cancer
+, or
+heart disease
+may occur with depression. This may make the chronic condition or depression worse.
+In some cases, there is no clear cause for depression.
+Who is at risk of depression?
+You may be at a higher risk of depression if you have a close relative who has it or another mental health disorder. Going through trauma or stressful life events may raise your risk even more.
+What are the symptoms of depression?
+Depression doesn't look the same on everyone. The type and number of symptoms of depression can vary and don't always appear like sadness. Depression may affect you differently based on your:
+Age.
+The symptoms of depression may be different in a child, who may appear more irritable than sad.
+Teens
+may act out or have excessive sleepiness. The symptoms for an older adult may not be as obvious as other age groups.
+Sex.
+Men often show symptoms and coping behaviors differently than women. Rather than sad, men may appear angry or irritable.
+Medical conditions.
+Some medicines and medical conditions may cause symptoms that look like depression. Chronic conditions may make depression worse.
+Symptoms of depression are ongoing and affect your day-to-day life. They can include:
+Feeling sad or "empty"
+Losing interest in favorite activities
+Overeating, or not wanting to eat at all
+Sleeping too much, or not enough
+Feeling very tired
+Feeling hopeless, irritable, anxious, or guilty
+Having aches and pains, headaches, cramps, or digestive problems
+Having thoughts of death or
+suicide
+Changing moods or behaviors
+Increasing use of alcohol or drugs
+Isolating from family and friends
+How is depression diagnosed?
+If you think you have depression, talk to your health care provider or a mental health provider. To be diagnosed with depression, your provider may use many tools:
+A medical history
+will include asking about your symptoms and family history. To be diagnosed with depression, your symptoms must occur most of the day, nearly every day, for at least two weeks. One of the symptoms must be a depressed mood or a loss of interest in most activities.
+Medical tests
+may be done to rule out other medical conditions. Certain medicines and medical conditions (such as viruses or
+thyroid disorders
+) may cause symptoms like depression.
+A physical exam
+to make sure another issue isn't causing your symptoms.
+A
+mental health evaluation
+by your provider or a mental health provider.
+What are the treatments for depression?
+Depression may need long-term treatment. Most treatments include medicines and/or psychotherapy (talk therapy):
+Medicines
+such as
+antidepressants
+may help control your symptoms. You may need to try several medicines to find which works best for you. Medicine may take time to work and can have side effects. Don't stop taking your medicine without first talking with your provider. Contact your provider if you have any concerns about side effects from the medicine.
+Psychotherapy
+(talk therapy) under the care of a mental health provider can help you recognize and change troubling emotions, thoughts, and behaviors. This may be done one-on-one or in a group setting. It can give you and your family support, education, skills, and coping strategies.
+Light therapy
+has been shown to be effective for seasonal affective disorder (SAD).
+Other treatments options
+may be considered if treatment isn't working or if depression is severe. These may include:
+Electroconvulsive therapy (ECT)
+is a brain stimulation procedure that uses a mild electric current when you are under general anesthesia. ECT is most often used for severe depression that is not getting better with other treatments.
+Repetitive transcranial magnetic stimulation (rTMS)
+is a brain stimulation procedure that uses magnetic waves to relieve depression. It's not as powerful as ECT, but with rTMS, you don't need anesthesia. It also has a low risk of negative effects on your memory and thinking.
+Can depression be prevented?
+Most cases of depression can't be prevented, but healthy lifestyle changes can have long-term benefits for your mental health. These can include:
+Getting regular
+exercise
+Having a consistent
+sleep schedule
+Controlling
+stress
+If you, or someone you love is depressed, see your provider or a mental health provider. It's important to get treatment at the earliest sign of a problem.
+If you or someone you know has thoughts of hurting themselves or attempting suicide, get help right away. If it is an emergency, dial 911.
+NIH: National Institute of Mental Health
+
+Groups:
+- Mental Health and Behavior
+
+MeSH Headings:
+- Depression
+
+Related Resources:
+
+Resource: 8 Things To Know about Depression and Complementary Health Approaches
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-depression-and-complementary-health-approaches
+
+Resource: American Psychiatric Association
+Category: Find an Expert
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/
+
+Resource: Antidepressants: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antidepressants.html
+
+Resource: Anxiety and Depression in Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/children-mental-health/about/about-anxiety-and-depression-in-children.html
+
+Resource: Brain Stimulation Therapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
+
+Resource: Clinical Depression: What Does That Mean?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/expert-answers/clinical-depression/faq-20057770?p=1
+
+Resource: ClinicalTrials.gov: Depression
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Depression%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Dysthymic Disorder
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dysthymic+Disorder%22&aggFilters=status:not%20rec
+
+Resource: Coping at Work
+Category: Living With
+Organization: University of Michigan Depression Center
+URL: https://depressioncenter.org/outreach-education/depression-toolkit/want-stay-mentally-healthy/coping-work
+
+Resource: Depression
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/depression
+
+Resource: Depression
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/mental-health/mental-health-conditions/depression
+
+Resource: Depression
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/feelings/depression-pdq
+
+Resource: Depression
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003213.htm
+
+Resource: Depression (Expert Q&A)
+Category: Start Here
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/depression
+
+Resource: Depression (Major Depressive Disorder)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/symptoms-causes/syc-20356007?p=1
+
+Resource: Depression - stopping your medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000570.htm
+
+Resource: Depression and Aging
+Category: Older Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-aging/about/depression-aging.html
+
+Resource: Depression and Anxiety: Exercise Eases Symptoms
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression-and-exercise/art-20046495?p=1
+
+Resource: Depression and Caregiving
+Category: Specifics
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/depression-and-caregiving/
+
+Resource: Depression and Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/mental-and-emotional-health/depression-and-older-adults
+
+Resource: Depression and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/depression-pregnancy/
+
+Resource: Depression in Black Americans
+Category: Related Issues
+Organization: Mental Health America
+URL: https://mhanational.org/resources/depression-in-black-americans/
+
+Resource: Depression in older adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001521.htm
+
+Resource: Depression in the Workplace
+Category: Related Issues
+Organization: Mental Health America
+URL: https://mhanational.org/resources/depression-in-the-workplace/
+
+Resource: Depression in Women: 4 Things to Know
+Category: Women
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/depression-in-women
+
+Resource: Depression in Women: Understanding the Gender Gap
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression/art-20047725?p=1
+
+Resource: Depression Myths & Facts Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003213_30.htm
+
+Resource: Depression Prevalence in Adolescents and Adults: United States
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nchs/products/databriefs/db527.htm
+
+Resource: Depression Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/depression-screening/
+
+Resource: Depression Treatment
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/reproductive-health/depression/treatment.html
+
+Resource: Depression: Coping with Suicidal Thoughts
+Category: Living With
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/depression-coping-with-suicidal-thoughts/
+
+Resource: Depression: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/depression
+
+Resource: Depression: Supporting a Family Member or Friend
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression/art-20045943?p=1
+
+Resource: Dysthymia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000918.htm
+
+Resource: Easing Depression in Older Adults
+Category: Older Adults
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/06/easing-depression-older-adults
+
+Resource: Electroconvulsive therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007474.htm
+
+Resource: Find Your Local NAMI
+Category: Find an Expert
+Organization: NAMI
+URL: https://www.nami.org/find-your-local-nami/
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Heart disease and depression
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000790.htm
+
+Resource: Help for Mental Illnesses
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/find-help
+
+Resource: Know Your Treatment Options
+Category: Treatments and Therapies
+Organization: University of Michigan Depression Center
+URL: https://depressioncenter.org/outreach-education/community-education/depression-toolkit/not-feeling-well/know-your-treatment
+
+Resource: Learning about depression
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000325.htm
+
+Resource: Link Between Migraine, Depression and Anxiety
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/link-between-migraine-depression-anxiety/
+
+Resource: Major depression
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000945.htm
+
+Resource: Major Depression
+Category: Statistics and Research
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/statistics/major-depression
+
+Resource: Major depression with psychotic features
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000933.htm
+
+Resource: Male Depression: Understanding the Issues
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/male-depression/art-20046216?p=1
+
+Resource: Managing Your Mental Health with Lupus
+Category: Specifics
+Organization: Lupus Foundation of America
+URL: https://www.lupus.org/resources/lupus-and-depression-know-the-signs-and-how-to-get-help
+
+Resource: Metabolic Side Effects of Psychiatric Medications
+Category: Living With
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/weight
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Preventing Relapse and Managing Setbacks
+Category: Prevention and Risk Factors
+Organization: University of Michigan Depression Center
+URL: https://depressioncenter.org/outreach-education/community-education/depression-toolkit/want-stay-mentally-healthy/preventing
+
+Resource: Psychedelic and Dissociative Drugs as Medicines
+Category: Treatments and Therapies
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs-medicines
+
+Resource: Psychologist Locator
+Category: Find an Expert
+Organization: American Psychological Association
+URL: https://locator.apa.org/?partner=nlm
+
+Resource: Psychotherapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+
+Resource: Depression
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Depression%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: St. John's Wort and Depression
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/st-johns-wort-and-depression-in-depth
+
+Resource: Taking Your Child to a Therapist
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/finding-therapist.html
+
+Resource: Teen Depression: MedlinePlus Health Topic
+Category: Teenagers
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/teendepression.html
+
+Resource: Test Your Knowledge about Depression Treatment
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000945_58.htm
+
+Resource: Treatment-Resistant Depression
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/treatment-resistant-depression/art-20044324?p=1
+
+Resource: Understanding the Link Between Chronic Disease and Depression
+Category: Related Issues
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/chronic-illness-mental-health
+
+Resource: Vagus nerve stimulation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007854.htm
+
+Resource: What to Do When You Feel Sad
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/depression.html
+
+Resource: What to Know Before Stopping Medications (Medication Discontinuation)
+Category: Living With
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/med-discontinuation
+
+Resource: When Sadness Lingers: Understanding and Treating Depression
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/11/when-sadness-lingers

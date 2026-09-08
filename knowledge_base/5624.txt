@@ -1,0 +1,291 @@
+Title: Chronic Myeloid Leukemia
+
+Also Called:
+- CML
+- Chronic granulocytic leukemia
+- Chronic myelogenous leukemia
+
+Summary:
+What is leukemia?
+Leukemia
+is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets
+help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What is chronic myeloid leukemia (CML)?
+Chronic myeloid leukemia (CML) is a type of chronic leukemia. "Chronic" means that the leukemia usually gets worse slowly. In CML, the bone marrow makes abnormal granulocytes (a type of white blood cell). These abnormal cells are also called blasts. When the abnormal cells crowd out the healthy cells, it can lead to infection,
+anemia
+, and
+easy bleeding
+. The abnormal cells can also spread outside the blood to other parts of the body.
+CML usually occurs in adults during or after middle age. It is rare in
+children
+.
+What causes chronic myeloid leukemia (CML)?
+Most people with CML have a
+genetic change
+called the Philadelphia chromosome. It's called that because researchers in Philadelphia discovered it. People normally have 23 pairs of chromosomes in each cell. These chromosomes contain your DNA (genetic material). In CML, part of the DNA from one chromosome moves to another chromosome. It combines with some DNA there, which creates a new gene called BCR-ABL. This gene causes your bone marrow to make an abnormal protein. This protein allows the leukemia cells to grow out of control.
+The Philadelphia chromosome isn't passed from parent to child. It happens during your lifetime. The cause is unknown.
+Who is at risk for chronic myeloid leukemia (CML)?
+It is hard to predict who will get CML. There are a few factors that could raise your risk:
+Age - your risk goes up as you get older
+CML is slightly more common in men
+Exposure to high-dose
+radiation
+What are the symptoms of chronic myeloid leukemia (CML)?
+Sometimes CML does not cause symptoms. If you do have symptoms, they can include:
+Feeling very
+tired
+Weight loss for no known reason
+Drenching night sweats
+Fever
+Pain or a feeling of fullness below the ribs on the left side
+How is chronic myeloid leukemia (CML) diagnosed?
+Your health care provider may use many tools to diagnose CML:
+A physical exam
+A medical history
+Blood tests, such as a
+complete blood count (CBC) with differential
+and blood chemistry tests. Blood chemistry tests measure different substances in the blood, including electrolytes, fats, proteins, glucose (sugar), and enzymes. Specific blood chemistry tests include a
+basic metabolic panel (BMP)
+, a
+comprehensive metabolic panel (CMP)
+,
+kidney function tests
+,
+liver function tests
+, and an
+electrolyte panel
+.
+Bone marrow tests
+. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+Genetic tests
+to look for gene and chromosome changes, including tests to look for the Philadelphia chromosome
+If you are diagnosed with CML, you may have additional tests such as imaging tests to see whether the cancer has spread.
+What are the phases of chronic myeloid leukemia (CML)?
+CML has three phases. The phases are based on how much the CML has grown or spread:
+Chronic phase, where less than 10% of cells in the blood and bone marrow are blast cells (leukemia cells). Most people are diagnosed in this phase, and many do not have symptoms. Standard treatment usually helps in this phase.
+Accelerated phase, 10% to 19% of the cells in the blood and bone marrow are blast cells. In this phase, people often have symptoms and standard treatment may not be as effective as in the chronic phase.
+Blastic phase, where 20% or more of the cells in the blood or bone marrow are blast cells. The blast cells have spread to other tissues and organs. If you have tiredness, fever, and an enlarged spleen during the blastic phase, it is called a blast crisis. This phase is harder to treat.
+What are the treatments for chronic myeloid leukemia (CML)?
+There are several different treatments for CML:
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells. For CML, the drugs are tyrosine kinase inhibitors (TKIs). They block tyrosine kinase, which is an enzyme that causes your bone marrow to make too many blasts.
+Chemotherapy
+Immunotherapy
+High-dose chemotherapy with
+stem cell transplant
+Donor lymphocyte infusion (DLI). DLI is a treatment that may be used after a stem cell transplant. It involves giving you an infusion (into your bloodstream) of healthy lymphocytes from the stem cell transplant donor. Lymphocytes are a type of white blood cell. These donor lymphocytes may kill the remaining cancer cells.
+Surgery to remove the spleen (splenectomy)
+Which treatments you get will depend on which phase you are in, your age, your overall health, and other factors. When the signs and symptoms of CML are reduced or have disappeared, it is called remission. The CML may come back after remission, and you may need more treatment.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+- Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Atypical Chronic Myelogenous Leukemia
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_257
+
+Resource: BCR ABL Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bcr-abl-genetic-test/
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood Transfusion
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Can Chronic Myeloid Leukemia Be Found Early?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/detection-diagnosis-staging/detection.html
+
+Resource: Cancer Statistics: Chronic Myeloid Leukemia
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/cmyl.html
+
+Resource: Childhood Leukemia: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodleukemia.html
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chronic Myelogenous Leukemia
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-myelogenous-leukemia/symptoms-causes/syc-20352417?p=1
+
+Resource: Chronic Myelogenous Leukemia (CML)
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant/diseases-treated-by-transplant/chronic-myeloid-leukemia
+
+Resource: Chronic myelogenous leukemia (CML)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000570.htm
+
+Resource: Chronic myeloid leukemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chronic-myeloid-leukemia
+
+Resource: Clinical Trial Support Center (CTSC)
+Category: Clinical Trials
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/resources/patients/clinical-trial-support-center-ctsc
+
+Resource: ClinicalTrials.gov: Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia,+Myelogenous,+Chronic,+BCR-ABL+Positive%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia,+Myeloid,+Chronic,+Atypical,+BCR-ABL+Negative%22&aggFilters=status:not%20rec
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: General Information about Chronic Myelogenous Leukemia
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq
+
+Resource: Immunotherapy
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Lab and Imaging Tests
+Category: Diagnosis and Tests
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/lab-imaging-tests
+
+Resource: Living as a Chronic Myeloid Leukemia Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/after-treatment/follow-up.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Chronic Myeloid Leukemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Leukemia%2C+Myelogenous%2C+Chronic%2C+BCR-ABL+Positive%22%5Bmajr%3Anoexp%5D+OR+%22Leukemia%2C+Myeloid%2C+Chronic%2C+Atypical%2C+BCR-ABL+Negative%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Factors for Chronic Myeloid Leukemia
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/causes-risks-prevention/risk-factors.html
+
+Resource: Stages of Chronic Myelogenous Leukemia
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq#_31
+
+Resource: Tests for Chronic Myeloid Leukemia
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treating Chronic Myeloid Leukemia by Phase
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/treating/treating-by-phase.html
+
+Resource: Treatment Option Overview (Chronic Myelogenous Leukemia)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cml-treatment-pdq#_48
+
+Resource: What Causes Chronic Myeloid Leukemia?
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/causes-risks-prevention/what-causes.html
+
+Resource: What Is Chronic Myeloid Leukemia?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myeloid-leukemia/about/what-is-cml.html

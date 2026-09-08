@@ -1,0 +1,184 @@
+Title: Hemorragia
+
+Also Called:
+- Sangrado
+
+Summary:
+El sangrado o hemorragia es la pérdida de sangre. Puede ser externo o dentro del cuerpo. Usted puede sangrar al hacerse un corte o una
+herida
+. También puede ocurrir cuando sufre una lesión en un órgano interno. Algunos tipos de sangrado, como la hemorragia
+gastrointestinal
+, toser con sangre o el
+sangrado vaginal
+, pueden ser un síntoma de una enfermedad.
+Usualmente, cuando tiene una herida y comienza a sangrar, se forma un
+coágulo sanguíneo
+para detener la hemorragia rápidamente. Luego, el coágulo se disuelve naturalmente. Para poder formar un coágulo, su sangre necesita proteínas sanguíneas llamadas factores de coagulación y un tipo de glóbulo llamado plaqueta. Algunas personas tienen problemas con la coagulación debido a otra afección médica o una enfermedad hereditaria. Existen dos tipos de estos problemas:
+Es posible que su sangre no forme coágulos normalmente, lo que se conoce como
+trastorno de la coagulación
+. Esto sucede cuando su cuerpo no produce suficientes
+plaquetas
+o factores de coagulación, o no funcionan bien
+Su sangre puede formar demasiados coágulos, o los coágulos pueden no disolverse adecuadamente
+En ocasiones, la hemorragia puede causar otros problemas. Un hematoma es sangrado debajo de la piel. Algunos
+accidentes cerebrovasculares
+son causados por sangrado en el cerebro. Ciertas hemorragias pueden requerir primeros auxilios o ir a la sala de
+emergencias
+.
+
+Groups:
+- Sangre, corazón y circulación
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: Acerca de los sangrados por deficiencia de vitamina K
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vitamin-k-deficiency/es/about/acerca-de-los-sangrados-por-deficiencia-de-vitamina-k.html
+
+Resource: Anemia debida a un sangrado excesivo
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/anemia/anemia-debida-a-un-sangrado-excesivo
+
+Resource: Cómo afrontar los cortes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bleeding.html
+
+Resource: Embolización
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/embolization.html
+
+Resource: Encías sangrantes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003062.htm
+
+Resource: Hematoma epidural
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001412.htm
+
+Resource: Hematoma intracraneal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/intracranial-hematoma/symptoms-causes/syc-20356145?p=1
+
+Resource: Hemorragia gastrointestinal: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/gastrointestinalbleeding.html
+
+Resource: Hemorragia interna
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/primeros-auxilios/hemorragia-interna
+
+Resource: Hemorragia intraventricular del recién nacido
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007301.htm
+
+Resource: Hemorragia lineal subungueal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003283.htm
+
+Resource: Hemorragia subaracnoidea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000701.htm
+
+Resource: Hemorragia subconjuntival
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001616.htm
+
+Resource: Hemorragias nasales en los niños
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/nose-bleed.html
+
+Resource: Orina con sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003138.htm
+
+Resource: Proceso de coagulación de la sangre
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000011.htm
+
+Resource: Prueba de sangre en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-en-la-orina/
+
+Resource: Prueba de TPT (tiempo parcial de tromboplastina)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tpt-tiempo-parcial-de-tromboplastina/
+
+Resource: Sangrado
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000045.htm
+
+Resource: Sangrado agudo
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/paginas/acute-bleeding.aspx
+
+Resource: Sangrado dentro de la piel
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003235.htm
+
+Resource: Sangrado durante el tratamiento para el cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000022.htm
+
+Resource: Sangrado grave: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-severe-bleeding/basics/art-20056661?p=1
+
+Resource: Sangrado vaginal: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/vaginalbleeding.html
+
+Resource: Sangre en el semen
+Category: Hombres, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-renales-y-del-tracto-urinario/s%C3%ADntomas-de-los-trastornos-del-ri%C3%B1%C3%B3n-y-de-las-v%C3%ADas-urinarias/sangre-en-el-semen
+
+Resource: Sangre en el semen
+Category: Hombres, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003163.htm
+
+Resource: Sangre en la orina (hematuria)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hematuria.html
+
+Resource: Tos con sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003073.htm
+
+Resource: ¿Qué es una costra?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/scab.html
+
+Resource: ¿Qué es una hemorragia subconjuntival?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/hemorragia-subconjuntival

@@ -1,0 +1,58 @@
+Title: Neurofibromatosis
+
+Summary:
+La neurofibromatosis es un trastorno genético del sistema nervioso. Afecta la manera en que las células crecen y se forman y provoca el crecimiento de tumores en los nervios. En general, los tumores son benignos (no cancerosos), pero a veces pueden convertirse en cáncer.
+La neurofibromatosis se puede heredar de los padres o puede ocurrir por una mutación (cambio) en los genes. Si usted tiene esta afección, puede transmitirla a sus hijos.
+Existen tres tipos:
+Tipo 1 (NF1), que provoca cambios en la piel y deformidades en los huesos. Suele comenzar en la infancia. A veces, los síntomas están presentes al nacer.
+Tipo 2 (NF2), que causa pérdida del oído, zumbidos en los oídos y problemas de equilibrio. Los síntomas suelen comenzar en la adolescencia.
+La schwanomatosis provoca un dolor intenso. Es el tipo más raro.
+Los doctores pueden diagnosticar los diferentes tipos de esta afección basándose en los síntomas. Para diagnosticar NF1 y NF2 también se usan pruebas genéticas. No existe una cura. El tratamiento puede ayudar a controlar los síntomas. Dependiendo del tipo de enfermedad y de su gravedad, el tratamiento puede incluir cirugía para extirpar tumores, radioterapia y medicinas.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cánceres
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Glioma óptico
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001024.htm
+
+Resource: Neurofibromatosis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/nf.html
+
+Resource: Neurofibromatosis
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/neurofibromatosis
+
+Resource: Neurofibromatosis 1
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000847.htm
+
+Resource: Neurofibromatosis 2
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000795.htm
+
+Resource: Neurofibromatosis tipo 1
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17015/la-neurofibromatosis-tipo-1/
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo

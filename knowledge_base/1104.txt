@@ -1,0 +1,92 @@
+Title: Diagnostic Imaging
+
+Also Called:
+- Imaging
+
+Summary:
+What is diagnostic imaging?
+Diagnostic imaging refers to medical tests that create pictures of the inside of the body. These pictures help your health care provider see your organs, bones, blood vessels, and tissues. Imaging tests can help find the cause of symptoms, detect disease early, monitor an illness or injury, and guide treatment.
+What are different types of diagnostic imaging?
+Different machines are used to create pictures inside your body. The type of imaging your provider uses depends on your symptoms and the part of your body being checked.
+Common types of diagnostic imaging include:
+X-rays
+CT (computed tomography) scans
+Nuclear medicine scans
+MRI (magnetic resonance imaging) scans
+Ultrasound
+Why is diagnostic imaging done?
+Diagnostic imaging tests help providers understand health problems and make decisions about care.
+These tests may be used to:
+Find health problems early
+Learn what causes pain or other symptoms
+Plan treatment
+Monitor a condition or see how well treatment is working
+Some imaging tests can also help guide medical procedures, such as placing catheters, stents, or other medical devices inside the body.
+How is diagnostic imaging done?
+Each diagnostic imaging test is different, but many follow similar steps.
+During an imaging test:
+Some tests require you to change clothes or remove metal items, such as jewelry or glasses
+Some tests require you to fast (not eat or drink) or drink contrast material (a substance that helps some parts of your body show up more clearly on the images)
+Many imaging tests take only a short time
+Some tests require you to stay still inside an imaging machine, which may feel uncomfortable
+Some tests use a small amount of
+radiation
+Always tell your provider if you are pregnant or think you may be pregnant.
+After most imaging tests, you can return to normal activities right away. A specialist called a radiologist reviews the images and shares the results with your provider.
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- Diagnostic Imaging
+
+Related Resources:
+
+Resource: All About Your Radiology Report: What to Know
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/all-about-your-radiology-report
+
+Resource: Imaging and radiology
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007451.htm
+
+Resource: Overview of Imaging Tests
+Category: Learn More
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/special-subjects/common-imaging-tests/overview-of-imaging-tests
+
+Resource: Patient Safety -- Contrast Material
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-contrast
+
+Resource: Diagnostic Imaging
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diagnostic+Imaging%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation Dose from X-Ray and CT Exams
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-xray
+
+Resource: Radiation Safety for Children
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-rad-children
+
+Resource: RadiologyInfo: Glossary of Terms
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/glossary-index
+
+Resource: What is Indocyanine Green (ICG)?
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/indocyanine-green.html
+
+Resource: What Is Interventional Radiology (IR)?
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/intvnl-radiology.html

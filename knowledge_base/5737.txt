@@ -1,0 +1,118 @@
+Title: HIV in Women
+
+Summary:
+What is HIV?
+HIV
+stands for human immunodeficiency virus. It harms your immune system by destroying a type of white blood cell that helps your body fight infection. This puts you at risk for other infections and diseases.
+How does HIV spread?
+HIV can spread in different ways:
+By having unprotected vaginal or anal sex with a person who has HIV. "Unprotected" means not using condoms or medicine to treat or prevent HIV. This is the most common way it spreads.
+Anal sex is the riskiest type of sex for getting or spreading HIV. The rectum's lining is thin and may allow HIV to enter the body during anal sex.
+During vaginal sex, HIV can enter the body through the delicate tissue that lines the vagina and cervix.
+Rarely, through oral sex with a person who has HIV.
+By sharing drug needles.
+Through contact with the blood of a person who has HIV.
+From mother to fetus during
+pregnancy
+.
+From mother to baby during childbirth, or breastfeeding.
+How does HIV affect women differently from men?
+About one in four people in the United States who have HIV are women. Women who have HIV have some different problems than men:
+Complications such as
+Repeated
+vaginal yeast infections
+Bacterial vaginosis
+Severe
+pelvic inflammatory disease
+(PID)
+A higher risk of
+cervical cancer
+Menstrual cycle problems
+A higher risk of
+osteoporosis
+A higher risk of
+heart disease
+, especially
+heart attacks
+Entering
+menopause
+younger or having more severe hot flashes
+Different, sometimes more severe, side effects from the medicines that treat HIV
+Drug interactions between some
+HIV medicines
+and hormonal
+birth control
+The risk of giving HIV to their fetus while pregnant
+The risk of giving HIV to their baby during childbirth or breastfeeding
+Are there treatments for HIV?
+There is no cure, but there are many medicines to treat both HIV infection and the infections and cancers that come with it. People who get early treatment can live
+longer and healthier lives
+.
+
+Groups:
+- Women
+- Immune System
+
+MeSH Headings:
+- HIV Infections
+
+Related Resources:
+
+Resource: Clinicalinfo: Information on HIV/AIDS Treatment, Prevention, and Research
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en
+
+Resource: ClinicalTrials.gov: HIV in Women
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22HIV+infections%22+AND+women&aggFilters=status:not%20rec
+
+Resource: HIV and Pregnancy: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hivaidsandpregnancy.html
+
+Resource: HIV and Women
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-women
+
+Resource: HIV Prevention
+Category: Prevention and Risk Factors
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/hiv-and-aids/hiv-prevention
+
+Resource: HIV Testing
+Category: Diagnosis and Tests
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/hiv-and-aids/hiv-and-aids-basics/hiv-testing
+
+Resource: HIV.gov
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/
+
+Resource: HIVinfo
+Category: Find an Expert
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: HIV in Women
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22HIV+Infections%22%5Bmajr%3Anoexp%5D+AND+female+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Women and HIV
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/hiv-and-aids/women-and-hiv
+
+Resource: Women and HIV: Get the Facts on HIV Testing, Prevention, and Treatment
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/women-and-hiv-get-facts-hiv-testing-prevention-and-treatment

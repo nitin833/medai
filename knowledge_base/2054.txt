@@ -1,0 +1,116 @@
+Title: Enfermedades neuromusculares
+
+Summary:
+Las enfermedades neuromusculares afectan su sistema neuromuscular. Estas pueden causar problemas en:
+Los nervios que controlan sus músculos
+Sus músculos
+La comunicación entre sus nervios y sus músculos
+Estas enfermedades pueden causar debilidad y atrofia en sus músculos. También puede tener otros síntomas, como espasmos, contracciones y dolor muscular.
+Algunos ejemplos de trastornos neuromusculares incluyen:
+Esclerosis lateral amiotrófica
+Distrofia muscular
+Miastenia grave
+Atrofia muscular espinal
+Estas enfermedades pueden tener diferentes causas. Muchas son genéticas, lo que significa que son hereditarias (se presentan en familias, o son causadas por mutaciones en los genes. Algunas son enfermedades autoinmunes. En ocasiones, no se conoce la causa.
+Muchas de las enfermedades neuromusculares no tienen cura. Pero los tratamientos pueden mejorar los síntomas, aumentar la movilidad y el lapso de vida.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Apraxia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007472.htm
+
+Resource: Atrofia muscular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003188.htm
+
+Resource: Conducción nerviosa
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000089.htm
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003929.htm
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Electromiograma (EMG)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emg.html
+
+Resource: Enfermedades de las neuronas motoras
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/enfermedades-de-las-neuronas-motoras
+
+Resource: Esclerosis lateral primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/primary-lateral-sclerosis/symptoms-causes/syc-20353968?p=1
+
+Resource: Espasmos en las manos o en los pies
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003194.htm
+
+Resource: Espasticidad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003297.htm
+
+Resource: Fasciculaciones musculares
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003296.htm
+
+Resource: Hiperekplexia hereditaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12005/hiperekplexia-hereditaria/
+
+Resource: Miotonía congénita
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001424.htm
+
+Resource: Preparándose para emergencias: Lista de verificación para personas con enfermedades neuromusculares
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación de la Distrofia Muscular
+URL: https://www.mda.org/sites/default/files/publications/Emergency_Checklist_Spanish.pdf
+
+Resource: Pérdida de la función muscular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003190.htm
+
+Resource: Síndrome de la persona rígida
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/el-sindrome-de-la-persona-rigida
+
+Resource: Síndrome miasténico de Lambert-Eaton
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000710.htm
+
+Resource: Trastornos mitocondriales
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/trastornos-mitocondriales

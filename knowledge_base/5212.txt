@@ -1,0 +1,125 @@
+Title: Cáncer de las glándulas suprarrenales
+
+Summary:
+Sus glándulas suprarrenales se encuentran encima de cada riñón. Estas glándulas producen hormonas que son esenciales para la vida, incluyendo hormonas sexuales y cortisol, que ayuda a responder al estrés y tiene muchas otras funciones.
+Varios problemas pueden afectar a las
+glándulas suprarrenales
+, incluyendo tumores. Éstos pueden ser benignos o malignos. Los tumores benignos no son cáncer, pero sí los malignos. La mayoría de los tumores de las glándulas suprarrenales son benignos (no cancerosos). Usualmente no causan síntomas y pueden no necesitar tratamiento. Los tumores malignos (cancerosos) de glándulas suprarrenales son poco comunes.
+Los tipos de tumores incluyen:
+Carcinoma de la corteza suprarrenal, un cáncer en la parte externa de la glándula
+Neuroblastoma
+, un tipo de cáncer que afecta a los niños
+Feocromocitoma
+, un tumor raro que usualmente es benigno.
+Los síntomas dependen del tipo de cáncer que tenga. Los tratamientos pueden incluir cirugía, quimioterapia o radioterapia.
+
+Groups:
+- Cánceres
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Carcinoma corticosuprarrenal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001663.htm
+
+Resource: Carcinoma de corteza suprarrenal infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/suprarrenal/infantil
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del carcinoma de corteza suprarrenal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/suprarrenal/estadios
+
+Resource: Extirpación de las glándulas suprarrenales
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007437.htm
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Hormona adrenocorticotrópica (ACTH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hormona-adrenocorticotropica-acth/
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Prueba de aldosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-aldosterona/
+
+Resource: Prueba de cortisol
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cortisol/
+
+Resource: Prueba de sulfato de DHEA
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sulfato-de-dhea/
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: RMN de cuerpo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bodymr
+
+Resource: TC abdominal y pélvica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominct
+
+Resource: Tratamiento del carcinoma de corteza suprarrenal
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/suprarrenal/tratamiento
+
+Resource: ¿Qué es el carcinoma de corteza suprarrenal?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/suprarrenal/que-es-carcinoma-de-corteza-suprarrenal

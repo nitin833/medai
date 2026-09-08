@@ -1,0 +1,167 @@
+Title: Trastornos dentales
+
+Also Called:
+- Problemas dentales
+
+Summary:
+Los dientes están formados por un material duro, similar al hueso. Dentro de los dientes hay nervios y vasos sanguíneos. Los dientes son necesarios para muchas actividades que usted da por un hecho. Entre ellas se incluyen comer, hablar e inclusive, sonreír. Pero los problemas en los dientes no son para reírse. Incluyen problemas como las
+caries
+, las infecciones y los traumatismos.
+El síntoma más común de un problema dental es el dolor de un diente. Otros incluyen el desgaste o la caída de los dientes. Es importante que si tiene problemas en los dientes vea a un dentista. Afortunadamente, muchos trastornos dentales pueden prevenirse mediante el
+cuidado
+y la limpieza de los dientes.
+
+Groups:
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Absceso dental
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001060.htm
+
+Resource: Alveolo seco
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000780.htm
+
+Resource: Amalgama dental
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Asociación Dental de California
+URL: https://www.cda.org/wp-content/uploads/amalgam_spanish.pdf
+
+Resource: Amelogénesis imperfecta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001578.htm
+
+Resource: Anatomía del diente
+Category: Información de referencia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002214.htm
+
+Resource: Boca de meta
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Dental de California
+URL: https://www.cda.org/wp-content/uploads/meth_mouth_spanish.pdf
+
+Resource: Bruxismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/el-bruxismo
+
+Resource: Bruxismo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001413.htm
+
+Resource: Bruxismo (apretar y rechinar de dientes)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bruxism.html
+
+Resource: Coronas dentales
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007631.htm
+
+Resource: Cómo encontrar cuidados dentales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/como-encontrar-cuidados-dentales
+
+Resource: Cómo tratar las lesiones en los dientes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tooth-sheet.html
+
+Resource: Diabetes, enfermedad de las encías y otros problemas dentales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/boca
+
+Resource: Diente impactado
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001057.htm
+
+Resource: Dientes de colores anormales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003065.htm
+
+Resource: Dientes muy espaciados
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003063.htm
+
+Resource: Dolor de muelas: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-toothache/basics/art-20056628?p=1
+
+Resource: Dolores de muelas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003067.htm
+
+Resource: Extracción del diente
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007630.htm
+
+Resource: Forma anormal de los dientes
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003064.htm
+
+Resource: Fractura o caída de un diente por un golpe
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000058.htm
+
+Resource: Identificación de la placa dental en el hogar
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003426.htm
+
+Resource: Instituto Nacional de Investigación Dental y Craneofacial
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol
+
+Resource: Introducción a los trastornos dentales
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-bucales-y-dentales/trastornos-dentales/introducci%C3%B3n-a-los-trastornos-dentales
+
+Resource: Muelas del juicio retenidas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/wisdom-teeth/symptoms-causes/syc-20373808?p=1
+
+Resource: Radiografías dentales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003801.htm
+
+Resource: Rayos X panorámicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/panoramic-xray
+
+Resource: Retraso o ausencia en la formación de los dientes
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003061.htm
+
+Resource: Tratamiento de conductos
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007275.htm
+
+Resource: Usar blanqueadores dentales durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tooth-whitening-pregnancy.html

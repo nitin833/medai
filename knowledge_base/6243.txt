@@ -1,0 +1,36 @@
+Title: Tecnología de reproducción asistida
+
+Summary:
+La tecnología de reproducción asistida se usa para tratar la
+infertilidad
+. Incluye tratamientos de fertilidad que manejan tanto los óvulos como los espermatozoides. Consiste en extraer los óvulos de los ovarios. Luego, los óvulos se mezclan con esperma para producir embriones. Luego los embriones se colocan en el cuerpo de la progenitora. La fertilización in vitro es el tipo más común y eficaz de tecnología de reproducción asistida.
+Los procedimientos de tecnología de reproducción asistida a veces usan óvulos de donantes, un donante de esperma o embriones previamente congelados. También pueden utilizar una progenitora subrogada tradicional o gestacional. Una subrogada tradicional queda embarazada con el esperma de uno de los miembros de la pareja. Una subrogada gestacional queda embarazada con un óvulo de un miembro de la pareja y esperma de la otra.
+La complicación más común de tecnología de reproducción asistida es un
+embarazo múltiple
+. Se puede prevenir o minimizar limitando el número de embriones que se colocan en el cuerpo de la progenitora.
+
+Groups:
+- Sistema reproductor femenino
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Fecundación in vitro (FIV)
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007279.htm
+
+Resource: Inyección intracitoplásmica de espermatozoides
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000074.htm
+
+Resource: Síndrome de hiperestimulación ovárica
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007294.htm
+
+Resource: Técnicas de reproducción asistida
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/infertility/informacion/tratamientos-art

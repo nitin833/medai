@@ -1,0 +1,135 @@
+Title: Mamografía
+
+Also Called:
+- Mamograma
+- Mastografía
+
+Summary:
+¿Qué es una mamografía?
+Una mamografía es una imagen de rayos X del seno. Los profesionales de la salud usan mamografías para buscar signos tempranos de
+cáncer de mama
+que no se pueden detectar durante un examen mamario. Hay dos tipos de mamografías, de detección y de diagnóstico.
+¿Qué es una mamografía de detección?
+En general, una mamografía de detección es una mamografía que se hace en mujeres que no presentan signos o síntomas de cáncer de mama. Las mamografías de detección periódicas pueden ayudar a reducir la cantidad de muertes por cáncer de mama en mujeres de entre 40 a 74 años. Esto se debe a que pueden detectar el cáncer de mama temprano y el tratamiento puede comenzar antes, quizás antes de que se haya propagado.
+Sin embargo, las mamografías de detección también pueden tener riesgos. A veces, pueden encontrar algo que parece anormal pero que no es cáncer. Esto conduce a más pruebas y puede provocar ansiedad. En ocasiones, las mamografías pueden pasar por alto el cáncer cuando está presente. También le
+expone a radiación
+. Debe hablar con su profesional de la salud sobre los beneficios y los riesgos de las mamografías. Juntos, pueden decidir cuándo empezar y con qué frecuencia hacerse una mamografía.
+¿Qué es una mamografía de diagnóstico?
+Una mamografía de diagnóstico tarda un poco más que una de detección. Es para personas que tienen un bulto u otros signo o síntoma de cáncer de seno. Los signos pueden incluir dolor en los senos, engrosamiento de la piel del seno, secreción del pezón o un cambio en el tamaño o la forma de los senos. Pero estos signos también pueden ser causados por una
+afección de los senos
+que es benigna (no es cáncer). Una mamografía de diagnóstico también se puede usar si tiene implantes mamarios o si existen otras razones por las que es difícil visualizar el tejido mamario.
+¿Cómo se hace una mamografía?
+Cuando se hace una mamografía, se para frente a una máquina de rayos X. La persona que toma las radiografías coloca su seno entre dos placas de plástico. Las placas presionan su seno, aplanándolo. Esto puede resultar incómodo, pero ayuda a obtener una imagen clara.
+Le sacarán una radiografía de ambos senos desde el frente y desde el costado. Luego, un radiólogo (un médico especialista) analizará la mamografía. El profesional de la salud observará la radiografía en busca de signos tempranos de cáncer de mama u otros problemas. En general, usted obtendrá los resultados en unas pocas semanas, aunque depende de la clínica o consultorio médico al que asistió. Si sus resultados no son normales, debería recibir una respuesta antes. Consulte a su proveedor cuándo y cómo recibirá sus resultados.
+¿Qué ocurre si la mamografía no es normal?
+Una mamografía anormal (no normal) no siempre significa que haya cáncer. Deberá realizarse mamografías, pruebas o exámenes adicionales antes de que su profesional de la salud pueda asegurarlo. También es posible que la refieran a un especialista en mamas o un cirujano. Pero no significa necesariamente que tenga cáncer o necesite cirugía. Ver a uno de estos especialistas es necesario porque son expertos en el diagnóstico de problemas de las mamas.
+
+Groups:
+- Mujeres
+- Pruebas de diagnóstico
+- Sistema reproductor femenino
+
+Related Resources:
+
+Resource: Biopsia de mama estereotáctica (guiada en forma mamográfica)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/breastbixr
+
+Resource: Calcificaciones en mamografías
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002113.htm
+
+Resource: Consejos prácticos para hacerse un mamograma
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-seno/mamogramas/mamogramas-que-debe-saber-antes-de-la-cita.html
+
+Resource: Cómo mejorar los resultados de las mujeres afroamericanas con cáncer de seno
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-mejorar-los-resultados-de-las-mujeres-afroamericanas-con-cancer-de-seno
+
+Resource: Detección de cáncer de mama: El termograma no sustituye a la mamografía
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/deteccion-de-cancer-de-mama-el-termograma-no-sustituye-la-mamografia
+
+Resource: Encuentre un proveedor de pruebas de detección cerca de usted
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/breast-cervical-cancer-screening/es/about/screenings.html
+
+Resource: Galactografía (ductografía)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/galactogram
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Mamas densas: Respuestas a las preguntas más frecuentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/seno/deteccion-mama/mamas-densas
+
+Resource: Mamografía
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003380.htm
+
+Resource: Mamografía: Lo que necesita saber
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/mamografia-lo-que-necesita-saber
+
+Resource: Mamografías
+Category: Comience aquí, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/mammograms
+
+Resource: Mamografías
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/seno/deteccion-mama/mamografias
+
+Resource: Mamogramas para mujeres con implantes de seno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-seno/mamogramas/mamogramas-para-mujeres-con-implantes-de-seno.html
+
+Resource: Mi mamograma fue 'anormal'. ¿Qué debo hacer ahora?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/mi-mamograma-fue-anormal-que-debo-hacer-ahora
+
+Resource: Pruebas de detección de cáncer de mama
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000837.htm
+
+Resource: Pruebas de detección del cáncer de mama y mujeres con discapacidades
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/ncbddd/spanish/disabilityandhealth/breast-cancer-screening.html
+
+Resource: Senos densos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dense-breasts
+
+Resource: Sobre las mamografías
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/breast-cancer/es/about/mammograms.html
+
+Resource: Tomosíntesis de seno
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/tomosynthesis
+
+Resource: ¿Qué busca el médico en un mamograma?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-seno/mamogramas/que-busca-el-medico-en-un-mamograma.html

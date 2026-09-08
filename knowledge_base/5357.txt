@@ -1,0 +1,120 @@
+Title: Lesiones y enfermedades de los dedos
+
+Summary:
+Usted utiliza sus dedos y pulgares para hacer de todo, desde tomar objetos y tocar instrumentos hasta escribir en la computadora. Cuando no funcionan bien, puede hacerle la vida difícil. Los problemas más comunes incluyen:
+Lesiones que producen
+fracturas
+ruptura de ligamentos y
+luxaciones
+Osteoartritis
+: desgaste que también puede causar deformidad
+Tendinitis
+: irritación de los tendones
+Contractura de Dupuytren: una afección hereditaria que produce un engrosamiento del tejido por debajo de la piel de su mano, lo que causa contractura y curvatura en sus dedos
+Dedo en gatillo: una irritación del revestimiento de los tendones flexores, lo que a veces causa que el tendón se flexione en forma de gatillo
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Aracnodactilia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003288.htm
+
+Resource: Artritis del pulgar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thumb-arthritis/symptoms-causes/syc-20378339?p=1
+
+Resource: Atención postratamiento para el dedo en martillo
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000538.htm
+
+Resource: Atención postratamiento para el pulgar de esquiador
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000572.htm
+
+Resource: Dedo en gatillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/trigger-finger/symptoms-causes/syc-20365100?p=1
+
+Resource: Dedo en gatillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana de Cirugía de la Mano, Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/dedo-en-gatillo-trigger-finger
+
+Resource: Dedo en resorte
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000565.htm
+
+Resource: Dedos de las manos que cambian de color
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003249.htm
+
+Resource: Dedos de las manos y pies en palillo de tambor
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003282.htm
+
+Resource: Dedos rotos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000018.htm
+
+Resource: Dolor en los dedos
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003248.htm
+
+Resource: Esguinces del pulgar
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/esguinces-y-otras-lesiones-de-partes-blandas/esguinces-del-pulgar
+
+Resource: Fusión de los dedos de las manos y de los pies
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003289.htm
+
+Resource: Mano en garra
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003169.htm
+
+Resource: Polidactilia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003176.htm
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Reimplantación de los dedos
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100097_1.htm
+
+Resource: Reimplantación de los dedos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002967.htm
+
+Resource: Reparación de la fusión de los dedos de las manos o de los pies
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002969.htm
+
+Resource: Reparación de sindactilia
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100096_1.htm

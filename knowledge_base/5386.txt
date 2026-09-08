@@ -1,0 +1,36 @@
+Title: Vitamina E
+
+Summary:
+Las
+vitaminas
+son sustancias que su cuerpo necesita para crecer y desarrollarse en forma normal. La vitamina E es un
+antioxidante
+. Juega un papel en los procesos de su sistema inmunitario y metabólico.
+Buenas fuentes de vitamina E incluyen:
+Aceites vegetales
+Margarina
+Nueces y semillas
+Verduras de hojas
+La vitamina E también se encuentra en los cereales. La mayoría de la gente consume suficiente vitamina E a través de la dieta.  Las personas que padecen enfermedades tal como trastornos hepáticos, fibrosis quística y enfermedad de Crohn pueden necesitar más vitamina E.
+Los suplementos de vitamina E pueden ser dañinos para las personas que toman anticoagulantes u otros medicamentos. Consulte con su proveedor de salud antes de consumir cualquier suplemento.
+NIH: Oficina de Suplementos Dietéticos
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Prueba de vitamina E (tocoferol)
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-vitamina-e-tocoferol/
+
+Resource: Vitamina E
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002406.htm
+
+Resource: Vitamina E
+Category: Más información, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminE-DatosEnEspanol/

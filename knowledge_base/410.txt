@@ -1,0 +1,205 @@
+Title: Spinal Cord Diseases
+
+Summary:
+Your spinal cord is a bundle of nerves that runs down the middle of your back. It carries signals back and forth between your body and your brain. It is protected by your vertebrae, which are the bone disks that make up your spine. If you have an accident that damages the vertebrae or other parts of the spine, this can also
+injure
+the spinal cord. Other spinal cord problems include:
+Tumors
+Infections such as
+meningitis
+and
+polio
+Inflammatory diseases
+Autoimmune diseases
+Degenerative diseases such as
+amyotrophic lateral sclerosis
+and
+spinal muscular atrophy
+Symptoms vary but might include pain, numbness, loss of sensation and muscle weakness. These symptoms can occur around the spinal cord, and also in other areas such as your arms and legs. Treatments often include medicines and surgery.
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Spinal Cord Diseases
+
+Related Resources:
+
+Resource: Advances in Brain and Spinal Cord Tumor Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/research
+
+Resource: Anatomy of the Spine
+Category: Reference Desk
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Resources/Anatomy-Spine
+
+Resource: Birth Disorders of the Brain and Spinal Cord
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/birth-disorders-brain-and-spinal-cord
+
+Resource: Brain and Spinal Cord Tumors
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brain-and-spinal-cord-tumors
+
+Resource: Brain and Spinal Cord Tumors in Children
+Category: Children
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children.html
+
+Resource: Brown-Sequard Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brown-sequard-syndrome
+
+Resource: Caudal regression syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/caudal-regression-syndrome/
+
+Resource: Causes, Risk Factors, and Prevention of Brain Tumors in Children
+Category: Children
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children/causes-risks-prevention.html
+
+Resource: Central Pain Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/central-pain-syndrome
+
+Resource: Cerebrospinal Fluid (CSF) Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/
+
+Resource: Childhood Central Nervous System Germ Cell Tumors Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cns-germ-cell-treatment-pdq
+
+Resource: ClinicalTrials.gov: Spinal Cord Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Cord+Diseases%22&aggFilters=status:not%20rec
+
+Resource: CSF leak
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001068.htm
+
+Resource: Definitions
+Category: Reference Desk
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Resources/Definitions
+
+Resource: Dressing with Ease, Style, and Comfort
+Category: Living With
+Organization: ALS Association
+URL: https://www.als.org/navigating-als/resources/fyi-dressing-ease-style-and-comfort
+
+Resource: Epidural abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001416.htm
+
+Resource: Key Statistics for Brain Tumors
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults/key-statistics.html
+
+Resource: Lumbar and Cervical Discography
+Category: Diagnosis and Tests
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Assessment-Tools/Discography
+
+Resource: Myelography
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/myelography/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neurological Exam
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/neurological-exam/
+
+Resource: Overview of Spinal Cord Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/spinal-cord-disorders/overview-of-spinal-cord-disorders
+
+Resource: Spinal Cord Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Spinal+Cord+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Specialized Nerve Tests: EMG, NCV and SSEP
+Category: Diagnosis and Tests
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Assessment-Tools/Specialized-Nerve-Tests
+
+Resource: Spinal cord abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001405.htm
+
+Resource: Spinal Cord Tumor
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spinal-cord-tumor/symptoms-causes/syc-20350103?p=1
+
+Resource: Spinal Infections
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Infections-Tumors/Spinal-Infections
+
+Resource: Spinal tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001403.htm
+
+Resource: Spine MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinemr
+
+Resource: Stiff-Person Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/stiff-person-syndrome
+
+Resource: Subacute combined degeneration
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000723.htm
+
+Resource: Tabes dorsalis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000729.htm
+
+Resource: Tarlov Cysts
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/tarlov-cysts
+
+Resource: Tethered Spinal Cord Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/tethered-spinal-cord-syndrome
+
+Resource: Transverse Myelitis
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/transverse-myelitis
+
+Resource: Types of Brain and Spinal Cord Tumors in Adults
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults.html

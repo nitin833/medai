@@ -1,0 +1,87 @@
+Title: Vacunas para el tétanos, difteria y tos ferina
+
+Also Called:
+- Vacuna DPT
+- Vacuna DPaT
+- Vacuna Tdpa
+- Vacuna anticoqueluchosa, antidiftérica y antitetánica
+- Vacuna tetravalente
+- Vacuna triple
+
+Summary:
+El
+tétanos
+, la
+difteria
+y la
+tos ferina
+(tos convulsiva) son
+infecciones bacterianas
+graves:
+El
+tétanos
+es una enfermedad poco común que requiere tratamiento inmediato en un hospital. Provoca una dolorosa rigidez de los músculos, usualmente en todo el cuerpo. Puede causar un "bloqueo" de la mandíbula
+La
+difteria
+suele afectar la nariz y la garganta, pero también puede afectar la piel y otras partes del cuerpo
+La
+tos ferina
+puede causar ataques de tos incontrolables. Puede comenzar como un
+resfrío
+, pero a diferencia de éste, la tos puede durar semanas o meses
+Las vacunas pueden protegerlo de estas enfermedades. Hay tres vacunas combinadas disponibles en los Estados Unidos:
+DTaP
+(difteria, tétanos y tos ferina): Previene las tres enfermedades. Es para bebés y niños menores de siete años. Hay varias vacunas DTaP diferentes. Algunas de ellas también protegen contra otras enfermedades
+Tdap
+(tétanos, difteria y tos ferina): También previene las tres enfermedades. Se recomienda para niños mayores y adultos
+Td
+(tétanos y difteria): Previene estas dos enfermedades. Se recomienda a niños mayores y adultos. En general, se administra como dosis de refuerzo cada 10 años. También puede recibirla después de cinco años si sufre una herida o quemadura grave o sucia
+Algunas personas no deben recibir estas vacunas, incluyendo aquellas que han tenido reacciones graves en el pasado a las vacunas. Si tiene
+convulsiones
+, un
+problema neurológico
+o
+síndrome de Guillain-Barré
+, consulte primero con su profesional de la salud.
+Las personas con enfermedades menores, como un resfriado, pueden vacunarse. Pero aquellas que están más enfermas pueden tener que esperar hasta sentirse mejor antes de recibir algunas vacunas.
+Centro para el Control y Prevención de Enfermedades
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Reporte un evento adverso
+Category: Más información, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://vaers.hhs.gov/reporteventspan.html
+
+Resource: Vacuna contra DTaP (difteria, tétanos y tos ferina): Lo que usted necesita saber
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007594.htm
+
+Resource: Vacuna contra DTaP (difteria, tétanos, tos ferina)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_dtap.pdf
+
+Resource: Vacuna Td (Tétanos y difteria)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_td.pdf
+
+Resource: Vacuna Tdap (difteria, tétanos y pertussis) (y el embarazo)
+Category: Más información, Spanish/Español
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/vacuna-tdap-difteria-tetanos-pertussis/pdf/
+
+Resource: Vacuna Tdap (Tétanos, difteria y tos ferina)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_tdap.pdf
+
+Resource: Vacunas de su hijo: Vacuna contra la difteria, el tétanos y la tos ferina (DTaP)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/dtap-vaccine.html

@@ -1,0 +1,70 @@
+Title: Medidas para el control de infecciones
+
+Also Called:
+- Controlar infecciones
+
+Summary:
+Cada año mueren personas por la diseminación de infecciones en los hospitales. Quienes trabajan en la atención de salud pueden tomar medidas para evitar la diseminación de las
+enfermedades infecciosas
+. Estas medidas son parte del control de las infecciones.
+Lavarse las manos
+correctamente es la forma más eficaz para prevenir que la propagación ocurra. Si es un paciente, no tema recordarles a sus amigos, familiares y profesionales de la salud que se laven las manos antes de acercarse a usted.
+Otras medidas que los profesionales de la salud pueden tomar incluyen:
+Cubrirse la boca al toser o estornudar
+Mantener sus
+vacunas
+al día
+Usar guantes, mascarillas y ropas protectoras
+Tener a mano pañuelos desechables y limpiadores de manos
+Seguir las normas del hospital cuando se lidie con sangre o artículos contaminados
+
+Groups:
+- Infecciones
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Después de una exposición a objetos cortopunzantes o líquidos corporales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000442.htm
+
+Resource: Equipo de protección personal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000447.htm
+
+Resource: Infecciones por estafilococos en el hospital
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000449.htm
+
+Resource: Infecciones por vía central en hospitales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000474.htm
+
+Resource: Limpiar para prevenir la propagación de microbios
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000454.htm
+
+Resource: Limpieza de suministros y equipos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000443.htm
+
+Resource: Patógenos de transmisión hemática
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000453.htm
+
+Resource: Precauciones de aislamiento
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000446.htm
+
+Resource: Prevenir infecciones al realizar visitas a alguien en el hospital
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000448.htm

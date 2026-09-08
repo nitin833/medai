@@ -1,0 +1,254 @@
+Title: Living with HIV
+
+Summary:
+What are HIV and AIDS?
+HIV
+stands for human immunodeficiency virus. It harms your immune system by destroying a type of white blood cell that helps your body fight infection.
+AIDS is the final stage of infection with HIV. It happens when the body's immune system is badly damaged because of the virus. Not everyone with HIV develops AIDS.
+Are there treatments for HIV?
+There is no cure for HIV, but there are many medicines to treat both
+HIV infection
+and the  health problems and
+infections
+(called opportunistic infections, or OIs) that come with it. The medicines allow people with HIV to have long, healthy lives.
+How can I live a healthier life with HIV?
+IIf you have HIV, you can help yourself by:
+Getting medical care as soon as you find out that you have HIV. You should find a health care provider who has experience in treating HIV.
+Taking your medicines every day.
+Letting your provider know if you get any new symptoms or health problems.
+Keeping up with your regular medical and
+dental care
+.This includes staying up to date with your recommended
+health screenings
+and
+vaccinations
+. Your provider can let you know which ones you need.
+Managing
+stress
+and getting support, such as from support groups, therapists, and social service organizations
+Trying to live a healthy lifestyle, including:
+Eating healthy foods.This can give your body the energy it needs to fight HIV and other infections. It can help you manage HIV symptoms and
+medicine side effects
+. It may also improve absorption of your HIV medicines.
+Getting regular physical activity
+. This can strengthen your body and immune system. It may also reduce the risk of
+depression
+.
+Getting enough sleep
+. Sleep is important for your physical strength and mental health.
+Not smoking. People with HIV who smoke have a higher risk of developing conditions such as certain cancers and infections. Smoking can also interfere with your medicines. Talk to your provider if you need help
+quitting smoking
+.
+Avoiding
+heavy drinking
+or
+taking illegal drugs
+. They can damage your liver, which means your HIV medicine may not work as well. They can also make it harder for your body to fight infections.
+Protecting yourself from OIs. Talk to your provider about medicines and vaccines that prevent certain OIs. Also, be careful to
+avoid exposure to contaminated food and water
+.
+It is also important to reduce the risk of spreading HIV to other people. You should tell your sex partners that you have HIV and always use latex condoms. If your or your partner is
+allergic to latex
+, you can use polyurethane condoms.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- HIV Infections
+
+Related Resources:
+
+Resource: Aging with HIV
+Category: Older Adults
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/hiv-basics/living-well-with-hiv/taking-care-of-yourself/aging-with-hiv
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clinicalinfo: Information on HIV/AIDS Treatment, Prevention, and Research
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en
+
+Resource: ClinicalTrials.gov: HIV and Quality of Life
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22HIV+infections%22&term=%22quality+of+life%22&aggFilters=status:not%20rec
+
+Resource: Drugs, Alcohol and HIV
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.hiv.va.gov/patient/daily/alcohol-drugs/single-page.asp
+
+Resource: Fast Facts: HIV in the United States
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hiv/data-research/facts-stats/
+
+Resource: Frequently Asked Questions
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.hiv.va.gov/patient/faqs/fat-loss-and-gain.asp
+
+Resource: General Information about AIDS-Related Lymphoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_1
+
+Resource: Get the Facts about HIV Medical Care
+Category: Living With
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_MedicalCare_508c_0.pdf
+
+Resource: HIV and Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/infections/hiv-infection-aids/hiv-aids-and-cancer.html
+
+Resource: HIV and COVID-19
+Category: Specifics
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-covid-19
+
+Resource: HIV and Infections: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hivaidsandinfections.html
+
+Resource: HIV and Nutrition and Food Safety
+Category: Living With
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-nutrition-and-food-safety
+
+Resource: HIV and Pregnancy: MedlinePlus Health Topic
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hivaidsandpregnancy.html
+
+Resource: HIV and Sexually Transmitted Infections (STIs)
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-sexually-transmitted-infections-stis
+
+Resource: HIV and Vaccination
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-vaccination
+
+Resource: HIV Treatment Adherence
+Category: Living With
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-treatment-adherence
+
+Resource: HIV Treatment Overview
+Category: Start Here
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/hiv-basics/staying-in-hiv-care/hiv-treatment/hiv-treatment-overview
+
+Resource: HIV, AIDS, and Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/hiv-aids/hiv-aids-and-older-adults
+
+Resource: HIV.gov
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/
+
+Resource: HIV/AIDS & Oral Health
+Category: Related Issues
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/hiv-aids
+
+Resource: HIV/AIDS Glossary
+Category: Reference Desk
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en/glossary
+
+Resource: HIV/AIDS Treatment Guidelines
+Category: Reference Desk
+Organization: HIV.gov
+URL: https://clinicalinfo.hiv.gov/en/guidelines
+
+Resource: HIVinfo
+Category: Find an Expert
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/
+
+Resource: How to Find HIV Treatment Services
+Category: Treatments and Therapies
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/how-find-hiv-treatment-services
+
+Resource: How to Stay Healthy with HIV
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_StayHealthy_508c.pdf
+
+Resource: How to Take Care of Your Mental Health with HIV
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_MentalHealth_508c.pdf
+
+Resource: Just Diagnosed: Next Steps after Testing Positive for HIV
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/just-diagnosed-next-steps-after-testing-positive-hiv
+
+Resource: Lactic acidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000391.htm
+
+Resource: Living with HIV
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hiv/living-with/
+
+Resource: Mental Health
+Category: Related Issues
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/hiv-basics/staying-in-hiv-care/other-related-health-issues/mental-health
+
+Resource: Neurological Complications of HIV
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neurological-complications-hiv
+
+Resource: Pets and People Living with HIV
+Category: Images
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/infographics/pets-and-people-living-hiv
+
+Resource: Living with HIV/AIDS
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22HIV+Infections%2Fpsychology%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex and Sexuality and HIV
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.hiv.va.gov/patient/daily/sex/single-page.asp
+
+Resource: Stages of AIDS-Related Lymphoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_29
+
+Resource: Tips for Taking Your HIV Meds, on Time, All the Time
+Category: Images
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/infographics/tips-taking-your-hiv-meds-time-all-time
+
+Resource: Treatment Option Overview (AIDS Related-Lymphoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_45
+
+Resource: What to Do after Finding Out You Have HIV
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_RecentlyDiagnosed_508c.pdf

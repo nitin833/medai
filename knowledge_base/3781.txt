@@ -1,0 +1,50 @@
+Title: Child Sexual Abuse
+
+Summary:
+Sexual abuse is one form of
+child abuse
+. It includes a wide range of actions between a child and an adult or older child. Often these involve body contact, but not always. Exposing one's genitals to children or pressuring them for sex is sexual abuse. Using a child for pornography is also sexual abuse.
+Most sexual abusers know the child they abuse. They may be family friends, neighbors or babysitters. About one-third of abusers are related to the child. Most abusers are men. If you think a child may have been abused, it's important to report it.
+
+Groups:
+- Children and Teenagers
+- Sexual Health Issues
+
+MeSH Headings:
+- Child Abuse, Sexual
+
+Related Resources:
+
+Resource: CDC Vital Signs: Adverse Childhood Experiences (ACEs)
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vitalsigns/ACEs/
+
+Resource: National Center for Missing and Exploited Children
+Category: Find an Expert
+Organization: National Center for Missing and Exploited Children
+URL: https://www.missingkids.org/home
+
+Resource: Parenting a Child Who Has Been Sexually Abused: A Guide for Foster and Adoptive Parents
+Category: Living With
+Organization: Children's Bureau
+URL: https://cwlibrary.childwelfare.gov/discovery/delivery/01CWIG_INST:01CWIG/1218593380007651
+
+Resource: Child Sexual Abuse
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Child+Abuse%2C+Sexual%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sexual Abuse
+Category: Start Here
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Child-Sexual-Abuse-009.aspx
+
+Resource: Sexual abuse in children -- what to know
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000771.htm
+
+Resource: Youth and Teens Page
+Category: Children
+Organization: National Runaway Safeline
+URL: https://www.1800runaway.org/youth-teens

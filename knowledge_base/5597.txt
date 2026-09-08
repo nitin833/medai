@@ -1,0 +1,263 @@
+Title: Interstitial Lung Diseases
+
+Summary:
+Interstitial lung disease is the name for a large group of diseases that inflame or scar the lungs. The inflammation and scarring make it hard to get enough oxygen. The scarring is called
+pulmonary fibrosis
+.
+Breathing in dust or other particles in the air is responsible for some types of interstitial lung diseases. Specific types include:
+Black lung disease among coal miners, from inhaling coal dust
+Farmer's lung, from inhaling farm dust
+Asbestosis, from inhaling
+asbestos
+fibers
+Siderosis, from inhaling iron from mines or welding fumes
+Silicosis, from inhaling silica dust
+Other causes include autoimmune diseases or occupational exposures to molds, gases, or fumes. Some types of interstitial lung disease have no known cause.
+Treatment depends on the type of exposure and the stage of the disease. It may involve medicines, oxygen therapy, or a lung transplant in severe cases.
+
+Groups:
+- Lungs and Breathing
+
+MeSH Headings:
+- Lung Diseases, Interstitial
+
+Related Resources:
+
+Resource: ACE blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003567.htm
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Bronchoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Byssinosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001089.htm
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: Childhood Interstitial Lung Disease
+Category: Children
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/childhood-interstitial-lung-diseases
+
+Resource: ClinicalTrials.gov: Lung Diseases, Interstitial
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lung+Diseases,+Interstitial%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pneumoconiosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pneumoconiosis%22&aggFilters=status:not%20rec
+
+Resource: Coal worker's pneumoconiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000130.htm
+
+Resource: Coal Workers' Health Surveillance Program
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/cwhsp/about/
+
+Resource: Crystalline Silica
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/silica-crystalline
+
+Resource: Dusts and Molds
+Category: Related Issues
+Organization: National Farm Medicine Center
+URL: https://www.marshfieldresearch.org/Media/Default/NFMC/PDFs/DustsandMolds.1.pdf
+
+Resource: Farmer's Lung: Causes and Symptoms of Mold and Dust Induced Respiratory Illness
+Category: Specifics
+Organization: Virginia Cooperative Extension
+URL: https://digitalpubs.ext.vt.edu/vcedigitalpubs/8311332682412886/MobilePagedReplica.action?pm=2&folio=1#pg1
+
+Resource: Histiocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000068.htm
+
+Resource: How the Lungs Work
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs
+
+Resource: Hypersensitivity Pneumonitis
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/hypersensitivity-pneumonitis
+
+Resource: Hypersensitivity pneumonitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000109.htm
+
+Resource: Industrial bronchitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000072.htm
+
+Resource: Interstitial Lung Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/interstitial-lung-disease/symptoms-causes/syc-20353108?p=1
+
+Resource: Interstitial lung disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000128.htm
+
+Resource: Interstitial lung disease - adults - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000016.htm
+
+Resource: Interstitial Lung Diseases Treatment
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/interstitial-lung-diseases/treatment
+
+Resource: Learn about Silicosis
+Category: Specifics
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/silicosis/learn-about-silicosis
+
+Resource: Lung Disease Treatments
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-treatments
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Lung HelpLine
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/help-support/lung-helpline
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Occupational Lung Diseases
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/occupational-lung-diseases
+
+Resource: Overview of Idiopathic Interstitial Pneumonias
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/lung-and-airway-disorders/interstitial-lung-diseases/overview-of-idiopathic-interstitial-pneumonias
+
+Resource: Oxygen Therapy: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/oxygentherapy.html
+
+Resource: Particulate Matter (PM) Pollution
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/pm-pollution
+
+Resource: Pneumonitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pneumonitis/symptoms-causes/syc-20352623?p=1
+
+Resource: Interstitial Lung Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lung+Diseases%2C+Interstitial%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary alveolar microlithiasis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pulmonary-alveolar-microlithiasis
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Respiratory Protection
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/respiratory-protection
+
+Resource: Rheumatoid pneumoconiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000137.htm
+
+Resource: Seven Steps to Correctly Wear a Respirator at Work
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/OSHA4015.pdf
+
+Resource: Shortness of Breath
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/shortness-of-breath/
+
+Resource: Signs of Unhealthy Indoor Air
+Category: Prevention and Risk Factors
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/indoor-air/signs-unhealthy-indoor-air
+
+Resource: Silicosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000134.htm
+
+Resource: Silicosis: Learn the Facts!
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/2004-108/pdfs/2004-108.pdf
+
+Resource: Surfactant dysfunction: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/surfactant-dysfunction
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: ToxFAQs for Beryllium
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=184&toxid=33
+
+Resource: What Are Interstitial Lung Diseases?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/interstitial-lung-diseases
+
+Resource: What is Interstitial Lung Disease?
+Category: Start Here
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/interstitial-lung-disease-ild-center/what-is-ild

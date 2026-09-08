@@ -1,0 +1,200 @@
+Title: Desarrollo del bebé y del recién nacido
+
+Summary:
+¿Cuándo empezará a caminar mi bebé o dirá su primera palabra? La infancia en su primera etapa, desde el nacimiento del bebé hasta que cumple 5 años, es cuando se desarrollan las habilidades que utilizarán  durante el resto de sus vidas. El crecimiento normal de los niños puede dividirse en las siguientes áreas:
+Habilidad motora: controlar la cabeza, sentarse y caminar
+Habilidad motora primaria: sostener una cuchara, sujetar un pedazo de cereal con un dedo y el dedo pulgar
+Sensorial: ver, escuchar, saborear, tocar y oler
+Lenguaje: ser capaz de hablar y hacerse entender y de comprender lo que dicen los padres u otros niños
+Social: habilidades para jugar con los familiares y con otros niños
+Los bebés no se desarrollan a la misma velocidad. Existe una amplia gama de lo que se considera "normal." Su bebé puede estar adelantado en algunas áreas y apenas un poco más atrasado en otras. Si le preocupan los posibles atrasos, consúltelo con el pediatra de su bebé.
+
+Groups:
+- Niños y adolescentes
+
+Related Resources:
+
+Resource: 2 a 20 años: Niños percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centro Nacional de Estadísticas de la Salud
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l021.pdf
+
+Resource: Ansiedad de separación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/separation-anxiety.html
+
+Resource: Ansiedad por la separación en los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001542.htm
+
+Resource: Aprenda los signos. Reaccione pronto
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/act-early/es/
+
+Resource: Aprendizaje, juego y su hijo de 1 a 3 meses
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/learn13m.html
+
+Resource: Aprendizaje, juego y su recién nacido
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/learnnewborn.html
+
+Resource: Aumento insuficiente de peso
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000991.htm
+
+Resource: Bebé: 0 a 3 meses
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/paginas/default.aspx
+
+Resource: Crecimiento y desarrollo normales
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002456.htm
+
+Resource: Dejar el biberón
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/no-bottles.html
+
+Resource: Desarrollo de los niños que comienzan a caminar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002010.htm
+
+Resource: Desarrollo del bebé recién nacido
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002004.htm
+
+Resource: Desarrollo emocional y social: Desde recién nacido hasta 3 meses
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/paginas/emotional-and-social-development-birth-to-3-months.aspx
+
+Resource: El desarrollo de su hijo: 9 meses (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/development-9mos.html
+
+Resource: Etapas del desarrollo del habla y el lenguaje
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/etapas-del-desarrollo-del-habla-y-el-lenguaje
+
+Resource: Fisioterapia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/phys-therapy.html
+
+Resource: Gráficas de crecimiento
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth-charts.html
+
+Resource: Indicadores del desarrollo de los CDC
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/act-early/es/milestones/index.html
+
+Resource: Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/
+
+Resource: Logopedia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/speech-therapy.html
+
+Resource: Monitoreo y pruebas del desarrollo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/act-early/es/about/developmental-monitoring-and-screening.html
+
+Resource: Nacimiento a 36 meses: Niñas: Percentiles de circunferencia de la cabeza por edad y peso por estatura
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf97/co06l028.pdf
+
+Resource: Nacimiento a 36 meses: Niñas: Percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l018.pdf
+
+Resource: Nacimiento a 36 meses: Niños: Percentiles de circunferencia de la cabeza por edad y peso por estatura
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l019.pdf
+
+Resource: Nacimiento a 36 meses: Niños: Percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l017.pdf
+
+Resource: Pruebas de evaluación del desarrollo y el comportamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-evaluacion-del-desarrollo-y-el-comportamiento/
+
+Resource: Registro de acontecimientos importantes del desarrollo a los 6 meses de edad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002008.htm
+
+Resource: Registro de los hitos del desarrollo a los 12 meses de edad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002005.htm
+
+Resource: Registro de los hitos del desarrollo a los 2 meses de edad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002006.htm
+
+Resource: Registro de los hitos del desarrollo a los 4 meses de edad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002007.htm
+
+Resource: Registro de los hitos del desarrollo a los 9 meses de edad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002009.htm
+
+Resource: Retraso en el desarrollo del habla o del lenguaje
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/not-talk.html
+
+Resource: Señales positivas de la lectura temprana en bebés y niños pequeños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/paginas/developmental-milestones-of-early-literacy.aspx
+
+Resource: ¡Los bebés también necesitan pasar tiempo boca abajo!
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/actividades-proyectos/sts/tiempo-boca-abajo
+
+Resource: ¡Su hijo o hija necesita vacunas a medida que crece!
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/imz-schedules/child-easyread-es.html
+
+Resource: ¿Qué es un pediatra del desarrollo conductual?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-developmental-behavioral-pediatrician.aspx
+
+Resource: ¿Qué tan activo es su bebé?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/paginas/how-active-is-your-baby.aspx

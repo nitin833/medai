@@ -1,0 +1,413 @@
+Title: Benign Tumors
+
+Also Called:
+- Benign neoplasms
+- Noncancerous tumors
+
+Summary:
+Tumors are abnormal growths in your body. They can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. Benign tumors grow only in one place. They cannot spread or invade other parts of your body. Even so, they can be dangerous if they press on vital organs, such as your brain.
+Tumors are made up of extra cells. Normally, cells grow and divide to form new cells as your body needs them. When cells grow old, they die, and new cells take their place. Sometimes, this process goes wrong. New cells form when your body does not need them, and old cells do not die when they should. These extra cells can divide without stopping and may form a tumor.
+Treatment often involves surgery. Benign tumors usually don't grow back.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+
+MeSH Headings:
+- Papilloma
+- Fibroma
+- Adenoma
+- Myoma
+- Lipoma
+- Neoplasms
+
+Related Resources:
+
+Resource: About Dercum Disease
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Dercum-Disease
+
+Resource: Adiposis dolorosa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adiposis-dolorosa
+
+Resource: Aldosterone-producing adenoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aldosterone-producing-adenoma/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Atrial myxoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007273.htm
+
+Resource: Bannayan-Riley-Ruvalcaba syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bannayan-riley-ruvalcaba-syndrome
+
+Resource: Benign ear cyst or tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001033.htm
+
+Resource: Benign Liver Tumors
+Category: Specifics
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/complications-of-liver-disease/benign-liver-tumors/
+
+Resource: Bone Tumor
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/bone-tumor/
+
+Resource: Brain and Spinal Cord Tumors
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brain-and-spinal-cord-tumors
+
+Resource: Carney complex: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carney-complex
+
+Resource: Cherry angioma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001441.htm
+
+Resource: Cherry Hemangioma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/cherry-hemangioma/?Imiw9cApl=1
+
+Resource: Childhood Craniopharyngioma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq
+
+Resource: Childhood Heart Tumors
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cardiac/patient-child-cardiac-treatment-pdq
+
+Resource: Chondroblastoma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/chondroblastoma
+
+Resource: Chondromyxoid Fibroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/chondromyxoid-fibroma
+
+Resource: ClinicalTrials.gov: Adenoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adenoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hemangioma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hemangioma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Papilloma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Papilloma%22&aggFilters=status:not%20rec
+
+Resource: Cowden syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cowden-syndrome
+
+Resource: Craniopharyngioma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000345.htm
+
+Resource: CYLD cutaneous syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cyld-cutaneous-syndrome/
+
+Resource: Dermatofibroma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/dermatofibroma/?Imiw9cApl=1
+
+Resource: Desmoid tumor: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/desmoid-tumor
+
+Resource: Encephalocraniocutaneous lipomatosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/encephalocraniocutaneous-lipomatosis
+
+Resource: Enchondroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/enchondroma
+
+Resource: Epidermal nevus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/epidermal-nevus
+
+Resource: Epidermoid cyst
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000842.htm
+
+Resource: Extra-Abdominal Desmoid Tumors (Aggressive Fibromatoses)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/extra-abdominal-desmoid-tumors
+
+Resource: Fibroadenoma of the breast
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007216.htm
+
+Resource: Ganglioneuroma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001437.htm
+
+Resource: Gumma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000859.htm
+
+Resource: Hemangioma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001459.htm
+
+Resource: Hemangioma excision - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100114_1.htm
+
+Resource: Hemangiomas and Vascular Malformations
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/hemangioma
+
+Resource: Hepatic hemangioma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000243.htm
+
+Resource: Hereditary multiple osteochondromas: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-multiple-osteochondromas
+
+Resource: Insulinoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000387.htm
+
+Resource: Intestinal leiomyoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000251.htm
+
+Resource: Juvenile angiofibroma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001572.htm
+
+Resource: Keratoacanthoma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/keratoacanthoma/?Imiw9cApl=1
+
+Resource: Lacrimal gland tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001611.htm
+
+Resource: Lipoma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lipoma/symptoms-causes/syc-20374470?p=1
+
+Resource: Liver Hemangioma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/liver-hemangioma/symptoms-causes/syc-20354234?p=1
+
+Resource: Lobular Capillary Hemangioma (Pyogenic Granuloma)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pyogenic-granuloma/?Imiw9cApl=1
+
+Resource: Meningioma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?p=1
+
+Resource: Multiple Endocrine Neoplasia Type I
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/multiple-endocrine-neoplasia-type-1
+
+Resource: Nasal polyps
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001641.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Non-Cancerous Breast Conditions
+Category: Women
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/non-cancerous-breast-conditions.html
+
+Resource: Open lung biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003861.htm
+
+Resource: Osteochondroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/osteochondroma/
+
+Resource: Osteoid Osteoma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/osteoid-osteoma
+
+Resource: Pilar Cyst
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pilar-cyst/?Imiw9cApl=1
+
+Resource: Pilomatricoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pilomatricoma
+
+Resource: Pituitary Tumors
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/pituitary-tumors
+
+Resource: Plantar Fibroma and Plantar Fibromatosis
+Category: Specifics
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-and-ankle-conditions/heel/plantar-fibroma-and-plantar-fibromatosis
+
+Resource: Polyp biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003415.htm
+
+Resource: Potocki-Shaffer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/potocki-shaffer-syndrome
+
+Resource: Prolactinoma
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma
+
+Resource: PTEN Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pten-genetic-test/
+
+Resource: Benign Tumors
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neoplasms%22%5Bmajr%5D+AND+%28+%22Adenoma%22%5Bmajr%5D+OR+%22Lipoma%22%5Bmajr%5D+OR+%22Papilloma%22%5Bmajr%5D+OR+%22Myoma%22%5Bmajr%5D+OR+%22Fibroma%22%5Bmajr%5D+%29+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text+%5Bsb%5D
+
+Resource: Pyogenic granuloma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001464.htm
+
+Resource: Recurrent Respiratory Papillomatosis or Laryngeal Papillomatosis
+Category: Specifics
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/recurrent-respiratory-papillomatosis
+
+Resource: Sebaceous adenoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002292.htm
+
+Resource: Seborrheic Keratoses
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/seborrheic-keratosis/?Imiw9cApl=1
+
+Resource: Seborrheic keratosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000884.htm
+
+Resource: Stomach Polyps
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/stomach-polyps/symptoms-causes/syc-20377992?p=1
+
+Resource: Strawberry Hemangioma (Infantile Hemangioma)
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/infantile-hemangioma/?Imiw9cApl=1
+
+Resource: Synovial Chondromatosis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/synovial-chondromatosis
+
+Resource: Syringoma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/syringoma/?Imiw9cApl=1
+
+Resource: Thyroid nodule
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007265.htm
+
+Resource: Thyroid Nodules
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thyroid-nodules/symptoms-causes/syc-20355262?p=1
+
+Resource: Tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001310.htm
+
+Resource: Tumor vs. Cyst: What's the Difference?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/expert-answers/tumor/faq-20057829?p=1
+
+Resource: Uterine Polyps
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/uterine-polyps/symptoms-causes/syc-20378709?p=1

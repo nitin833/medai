@@ -1,0 +1,255 @@
+Title: Enfermedades de los párpados
+
+Summary:
+¿Qué son las enfermedades de los párpados?
+Las enfermedades de los párpados incluyen diversas afecciones que afectan los párpados. Los párpados protegen los ojos y ayudan a mantenerlos sanos. Al parpadear, las lágrimas se extienden por los ojos y ayudan a eliminar la suciedad o el polvo. También cerramos los párpados cuando algo se acerca a los ojos para protegerlos de lesiones.
+Al igual que otras partes del cuerpo, los párpados pueden
+infectarse
+, inflamarse o desarrollar tumores o
+cáncer de ojo
+.
+¿Qué causa las enfermedades de los párpados?
+La causa depende del tipo de enfermedad. Algunas enfermedades de los párpados pueden ser hereditarias, mientras que otras ocurren por razones desconocidas.
+¿Cuáles son las enfermedades más comunes de los párpados?
+Existen muchos tipos de problemas en los párpados. Pueden causar hinchazón, infección, irritación o alterar su aspecto o movimiento. Algunos pueden causar bultos o crecimientos en los párpados o alrededor de ellos.
+Las enfermedades de los párpados que causan hinchazón, enrojecimiento o infección incluyen:
+Orzuelo (hordeolum).
+Una pequeña protuberancia roja y dolorosa causada por una
+infección bacteriana
+en una glándula sebácea. Un chalazión es un bulto indoloro que puede formarse después de un orzuelo
+Blefaritis.
+Provoca enrojecimiento,
+picazón
+o ardor en los párpados, y puede causar la formación de costras en las pestañas. Suele estar relacionada con bacterias o afecciones cutáneas como la
+rosácea
+Celulitis periorbitaria.
+Una infección bacteriana del párpado y la piel circundante. Si se extiende detrás del ojo (
+celulitis orbitaria
+), requiere atención médica inmediata
+Las enfermedades de los párpados que afectan la posición o el movimiento del párpado incluyen:
+Ectropión (párpados volteados hacia afuera).
+La parte interna del párpado queda expuesta, lo que puede causar irritación o lagrimeo
+Entropión (párpados volteados hacia adentro).
+Las pestañas rozan contra el ojo, causando molestias o daño
+Ptosis (párpado caído).
+Suele deberse a debilidad muscular, envejecimiento o daño nervioso.
+Los crecimientos de los párpados incluyen:
+Xantelasma.
+. Manchas amarillentas de colesterol cerca de las esquinas internas de los párpados
+Papiloma.
+Un crecimiento benigno (no canceroso) de la piel, similar a una verruga
+Carcinoma basocelular.
+El cáncer de párpado más común, a menudo en el párpado inferior
+Carcinoma espinocelular.
+Un cáncer de piel menos común, pero de crecimiento más rápido
+Carcinoma de glándulas sebáceas.
+Un cáncer poco común, pero grave, de las glándulas sebáceas del párpado
+Las enfermedades de los párpados que afectan el parpadeo o el movimiento de los párpados incluyen:
+Blefaroespasmo.
+Parpadeo o espasmos del párpado incontrolables
+Mioquimia.
+Espasmo del párpado leve y ocasional, a menudo causado por fatiga o estrés
+¿Cuáles son los síntomas de las enfermedades de los párpados?
+Los síntomas pueden variar según la afección, pero pueden incluir:
+Sensación de tener algo en el ojo
+Ardor o escozor
+Ojos llorosos o con picazón
+Párpados rojos e hinchados
+Visión borrosa
+¿Cómo se diagnostican las enfermedades de los párpados?
+Su especialista en el cuidado de los ojos puede diagnosticar trastornos de los párpados durante un
+examen de la vista
+. También pueden preguntarle sobre su historia médica y familiar para ayudar a encontrar la causa.
+¿Cómo se tratan las enfermedades de los párpados?
+El tratamiento depende de la causa de la enfermedad. Algunas afecciones de los párpados mejoran por sí solas o pueden estar relacionadas con
+otra afección
+. Mantener los párpados limpios puede ayudar a prevenir la irritación y la infección.
+Si necesita tratamiento, este puede incluir:
+Compresas tibias
+Medicamentos o ungüentos
+Gotas para los ojos
+Cirugía (menos común)
+Cambios en el estilo de vida, como
+dormir más
+o reducir la
+cafeína
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Arenosidad del ojo
+Category: Síntomas, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/sintomas/arenosidad-del-ojo
+
+Resource: Blefaritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/blefaritis
+
+Resource: Blefaritis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001619.htm
+
+Resource: Blefaroespasmo
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/blefaroespasmo
+
+Resource: Blefaroespasmo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000756.htm
+
+Resource: Blefaroplastia
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100183_1.htm
+
+Resource: Bulto o protuberancia en el párpado
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/sintomas/abultamientos-en-el-parpado
+
+Resource: Caída del párpado: Bebés y niños
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003035.htm
+
+Resource: Chalazión
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001006.htm
+
+Resource: Cirugía de párpados
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002977.htm
+
+Resource: Cirugía del párpado (blefaroplastia)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad  Estadounidense de Cirujanos  Plásticos
+URL: https://www.plasticsurgery.org/cosmetic-procedures/cirug%c3%ada-del-p%c3%a1rpado
+
+Resource: Círculos oscuros debajo de los ojos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/dark-circles-under-eyes/basics/definition/sym-20050624?p=1
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Ectropión
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001007.htm
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Entropión
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001008.htm
+
+Resource: Excrecencias en los párpados
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/excrecencias-en-los-p%C3%A1rpados
+
+Resource: Inclinación palpebral del ojo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003316.htm
+
+Resource: Orzuelo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sty/symptoms-causes/syc-20378017?p=1
+
+Resource: Parpadeo
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000010.htm
+
+Resource: Parálisis de Bell: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bellspalsy.html
+
+Resource: Pliegues epicánticos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003030.htm
+
+Resource: Problemas de párpados
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/eyes/paginas/eyelid-problems.aspx
+
+Resource: Procedimientos oculoplásticos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000781.htm
+
+Resource: Protuberancia en el párpado
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001009.htm
+
+Resource: Párpados caídos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001018.htm
+
+Resource: Síntomas oculares
+Category: Spanish/Español, Síntomas
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/sintomas-lista
+
+Resource: Triquiasis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/triquiasis
+
+Resource: ¿Cuál es la diferencia entre un orzuelo y un chalazión? Causas, síntomas, tratamientos
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/chalazion-orzuelo
+
+Resource: ¿Problemas con los párpados? Tratamiento de la blefaritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/problemas-con-los-parpados
+
+Resource: ¿Qué es la blefaritis?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-blefaritis
+
+Resource: ¿Qué es la cirugía de Mohs?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/tratamientos/cirugia-de-mohs
+
+Resource: ¿Qué es la ptosis?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-ptosis
+
+Resource: ¿Qué es un coloboma?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-un-coloboma
+
+Resource: ¿Qué es un espasmo de párpado o un temblor de párpado?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/espasmo-o-contraccion-muscular-del-parpado

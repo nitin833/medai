@@ -1,0 +1,326 @@
+Title: Skin Cancer
+
+Summary:
+Skin cancer is the most common form of cancer in the United States. The two most common types are basal cell cancer and squamous cell cancer. They usually form on the head, face, neck, hands, and arms. Another type of skin cancer,
+melanoma
+, is more dangerous but less common.
+Anyone can get skin cancer, but it is more common in people who :
+Spend a lot of time in the
+sun
+or have been sunburned
+Have light-colored skin, hair and eyes
+Have a family member with skin cancer
+Are over age 50
+You should have your doctor check any suspicious skin markings and any changes in the way your skin looks. Treatment is more likely to work well when cancer is found early.  If not treated, some types of skin cancer cells can spread to other tissues and organs. Treatments include surgery, radiation therapy, chemotherapy, photodynamic therapy (PDT), and biologic therapy. PDT uses a drug and a type of laser light to kill cancer cells. Biologic therapy boosts your body's own ability to fight cancer.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Skin Neoplasms
+
+Related Resources:
+
+Resource: 9q22.3 microdeletion: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/9q223-microdeletion/
+
+Resource: About Skin Cancer
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Skin-Cancer
+
+Resource: Actinic Cheilitis
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/actinic-cheilitis/?Imiw9cApl=1
+
+Resource: Actinic keratosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000827.htm
+
+Resource: Actinic Keratosis (Solar Keratosis)
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/actinic-keratosis-solar-keratosis/?Imiw9cApl=1
+
+Resource: Advances in Melanoma and Other Skin Cancers Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/research
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Basal cell skin cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000824.htm
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/child-skin-treatment-pdq
+
+Resource: Childhood Melanoma Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/child-melanoma-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Basal Cell Carcinoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Basal+Cell+Carcinoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Carcinoma, Merkel Cell
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carcinoma,+Merkel+Cell%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Keratosis, Actinic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Keratosis,+Actinic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Skin Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Skin+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Cryosurgery to Treat Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/surgery/cryosurgery
+
+Resource: Drugs Approved for Skin Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/skin
+
+Resource: Electrodesiccation
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/electrodesiccation/?Imiw9cApl=1
+
+Resource: Find a Dermatologic Surgeon
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/find-a-dermatologic-surgeon/advanced/true
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: General Information about Merkel Cell Carcinoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq
+
+Resource: General Information about Skin Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-treatment-pdq#_1
+
+Resource: Gorlin syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gorlin-syndrome/
+
+Resource: Living as a Basal or Squamous Cell Skin Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/basal-and-squamous-cell-skin-cancer/after-treatment/follow-up.html
+
+Resource: Melanoma of the Skin Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/skin-cancer/statistics/
+
+Resource: Mohs Micrographic Surgery
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/mohs-micrographic-surgery/?Imiw9cApl=1
+
+Resource: Mohs micrographic surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007634.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Nevoid basal cell carcinoma syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001452.htm
+
+Resource: Skin Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Skin+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Reducing Risk for Skin Cancer
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/skin-cancer/prevention/
+
+Resource: Risks of Skin Cancer Screening
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-screening-pdq#_32
+
+Resource: Sebaceous Carcinoma: Overview
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/skin-cancer/types/common/sebaceous?NoAds
+
+Resource: Skin Biopsy
+Category: Diagnosis and Tests
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/skin-biopsy/?Imiw9cApl=1
+
+Resource: Skin Cancer
+Category: Statistics and Research
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/media/stats-skin-cancer?NoAds
+
+Resource: Skin Cancer
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/skin-cancer/symptoms-causes/syc-20377605?p=1
+
+Resource: Skin Cancer Diagnosis Highlights Importance of Annual Checks
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/skin-cancer-diagnosis-highlights-importance-of-annual-checks
+
+Resource: Skin Cancer in People with Darker Skin
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/skin-cancer-in-black-or-brown-skin
+
+Resource: Skin Cancer Prevention
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-prevention-pdq
+
+Resource: Skin Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/skin-cancer-screening/
+
+Resource: Skin Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-screening-pdq
+
+Resource: Skin Cancer: Everyone's at Risk
+Category: Prevention and Risk Factors
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/skin-cancer/find/at-risk?NoAds
+
+Resource: Skin Cancer: Treatment Types
+Category: Treatments and Therapies
+Organization: American Society for Radiation Oncology
+URL: https://www.rtanswers.org/cancer-types/skin-cancer/treatment-types
+
+Resource: Skin lesion biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003840.htm
+
+Resource: Skin self-exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000711.htm
+
+Resource: Squamous Cell Carcinoma (SCC)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/squamous-cell-carcinoma-scc/?Imiw9cApl=1
+
+Resource: Squamous cell skin cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000829.htm
+
+Resource: Stages of Merkel Cell Carcinoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq#_26
+
+Resource: Stages of Skin Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-treatment-pdq#_29
+
+Resource: Sunscreen in the Winter?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/sunscreen-in-the-winter
+
+Resource: Sunscreen: How to Help Protect Your Skin from the Sun
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun
+
+Resource: Take Steps to Prevent Skin Cancer
+Category: Prevention and Risk Factors
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/health-conditions/cancer/take-steps-prevent-skin-cancer
+
+Resource: Tests for Basal and Squamous Cell Skin Cancers
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/basal-and-squamous-cell-skin-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment of Actinic Keratosis
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-treatment-pdq#_100
+
+Resource: Treatment Option Overview (Merkel Cell Carcinoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/merkel-cell-treatment-pdq#_50
+
+Resource: Treatment Option Overview (Skin Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-treatment-pdq#_59
+
+Resource: What's New in Basal and Squamous Cell Skin Cancer Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/basal-and-squamous-cell-skin-cancer/about/new-research.html
+
+Resource: Xeroderma pigmentosum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/xeroderma-pigmentosum/

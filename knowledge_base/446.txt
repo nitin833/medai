@@ -1,0 +1,384 @@
+Title: Ulcerative Colitis
+
+Also Called:
+- Colitis
+- Distal colitis
+- Pancolitis
+- Ulcerative proctitis
+
+Summary:
+Ulcerative colitis (UC) is a disease that causes inflammation and sores, called ulcers, in the lining of the rectum and colon. It is one of a group of diseases called inflammatory bowel disease.
+UC can happen at any age, but it usually starts between the ages of 15 and 30. It tends to run in families. The most common symptoms are pain in the abdomen and blood or pus in diarrhea. Other symptoms may include:
+Anemia
+Severe tiredness
+Weight loss
+Loss of appetite
+Bleeding from the rectum
+Sores on the skin
+Joint pain
+Growth failure in children
+About half of people with UC have mild symptoms.
+Doctors use blood tests, stool tests, colonoscopy or sigmoidoscopy, and imaging tests to diagnose UC. Several types of drugs can help control it. Some people have long periods of remission, when they are free of symptoms. In severe cases, doctors must remove the colon.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Colitis, Ulcerative
+
+Related Resources:
+
+Resource: Abscess and Fistula Expanded Information
+Category: Related Issues
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Abscess-and-Fistula-Expanded-Information.aspx
+
+Resource: American Society of Colon and Rectal Surgeons
+Category: Find an Expert
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/
+
+Resource: Antibiotic-Associated Diarrhea
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/antibiotic-associated-diarrhea/symptoms-causes/syc-20352231?p=1
+
+Resource: Arthritis and Joint Pain
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/arthritiscomplications.pdf
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Barium enema
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003817.htm
+
+Resource: Black or tarry stools
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003130.htm
+
+Resource: Bone Loss
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/boneloss.pdf
+
+Resource: C-Reactive Protein (CRP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+
+Resource: Calprotectin Stool Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calprotectin-stool-test/
+
+Resource: ClinicalTrials.gov: Colitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Colitis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Colitis, Ulcerative
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Colitis,+Ulcerative%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Inflammatory Bowel Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Inflammatory+Bowel+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Colonoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003886.htm
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Colostomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100011_1.htm
+
+Resource: Current Research Initiatives
+Category: Statistics and Research
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/research/current-research-initiatives
+
+Resource: ESR
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003638.htm
+
+Resource: Eye Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/eyes.pdf
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Gastrointestinal (GI) Bleeding
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding
+
+Resource: General Health Maintenance
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/personal-health-beyond-ibd/general-health-maintenance
+
+Resource: Gut Troubles: Pain, Gassiness, Bloating, and More
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/02/gut-troubles
+
+Resource: IBD and Fatigue
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/pain-and-fatigue/fatigue-causes
+
+Resource: IBD General Nutrition Information
+Category: Living With
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/resource/ibd-general-nutrition-information/
+
+Resource: Inflammation
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/conditions/inflammation
+
+Resource: Inflammatory Bowel Disease
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/inflammatory-bowel-disease
+
+Resource: Inflammatory Bowel Disease (IBD) (for parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ibd.html
+
+Resource: Inflammatory Bowel Disease (IBD) Facts and Stats
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/inflammatory-bowel-disease/php/facts-stats/
+
+Resource: Inflammatory bowel disease - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100171_1.htm
+
+Resource: Intestinal Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/intestinalcomps.pdf
+
+Resource: Kidney Disorders
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/kidney.pdf
+
+Resource: Large bowel resection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002941.htm
+
+Resource: Large bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000151.htm
+
+Resource: Large bowel resection - Series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100089_1.htm
+
+Resource: Liver Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/liver-disease.pdf
+
+Resource: Low-fiber diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000200.htm
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Managing Flares and IBD Symptoms
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2019-07/managing-flares-brochure-final-online.pdf
+
+Resource: Managing IBD as a Young Adult
+Category: Adults
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2021-11/Young%20Adults%20%20IBD%20-%202021-Final.pdf
+
+Resource: Mental and Emotional Well-being
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/mental-health
+
+Resource: Mental and Emotional Well-Being
+Category: Teenagers
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/youth-parent-resources/teens
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Ostomy Surgery of the Bowel
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Overview of Enteropathic Arthritis / Arthritis Associated with Inflammatory Bowel Disease
+Category: Related Issues
+Organization: Spondylitis Association of America
+URL: https://spondylitis.org/about-spondylitis/overview-of-spondyloarthritis/enteropathic-arthritis/
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Pregnancy and IBD
+Category: Women
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/effects-of-ibd-on-women/pregnancy-and-ibd
+
+Resource: Primary Sclerosing Cholangitis
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/primary-sclerosing-cholangitis
+
+Resource: Probiotics: Usefulness and Safety
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety
+
+Resource: Proctitis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/proctitis
+
+Resource: Ulcerative Colitis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Colitis%2C+Ulcerative%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex, Intimacy, and IBD
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/ibdsexuality.pdf
+
+Resource: Skin Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/skin.pdf
+
+Resource: Surgery for Ulcerative Colitis
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/what-is-ulcerative-colitis/surgery
+
+Resource: Total colectomy or proctocolectomy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000153.htm
+
+Resource: Total proctocolectomy and ileal-anal pouch
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007380.htm
+
+Resource: Total proctocolectomy with ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007381.htm
+
+Resource: Toxic megacolon
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000248.htm
+
+Resource: Traveling with IBD
+Category: Related Issues
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/what-is-ibd/traveling-with-ibd
+
+Resource: Types of Ulcerative Colitis
+Category: Specifics
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-ulcerative-colitis/types-of-ulcerative-colitis
+
+Resource: Ulcerative colitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000250.htm
+
+Resource: Ulcerative Colitis
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ulcerative-colitis
+
+Resource: Ulcerative Colitis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ulcerative-colitis/symptoms-causes/syc-20353326?p=1
+
+Resource: Ulcerative Colitis - children - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000936.htm
+
+Resource: Ulcerative colitis - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000203.htm
+
+Resource: Ulcerative Colitis Treatment Options
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-ulcerative-colitis/treatment-options
+
+Resource: Ulcerative colitis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ulcerative-colitis
+
+Resource: Understanding IBD Medications and Side Effects
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2019-10/understanding-ibd-medications-brochure-final-online2.pdf
+
+Resource: Virtual colonoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007253.htm
+
+Resource: What is Complementary Medicine?
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientandcaregivers/ibd/complementary-medicine
+
+Resource: White Blood Cell (WBC) in Stool
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/white-blood-cell-wbc-in-stool/

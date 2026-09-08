@@ -1,0 +1,98 @@
+Title: Enfermedad de Addison
+
+Also Called:
+- Insuficiencia adrenal
+- Insuficiencia suprarrenal
+
+Summary:
+Las glándulas suprarrenales se localizan justo arriba de los riñones. La capa externa de estas glándulas produce hormonas que ayudan al cuerpo a responder al estrés, regulan la presión sanguínea y el equilibrio del agua y sal en el cuerpo. La enfermedad de Addison ocurre cuando las glándulas suprarrenales no producen suficientes hormonas.
+Este enfermeadad suele ser a consecuencia de un problema con el sistema inmunitario. El sistema inmunitario ataca equivocadamente sus propios tejidos y daña las glándulas suprarrenales. Otras causas pueden ser algunas infecciones y cáncer.
+Los síntomas incluyen:
+Pérdida de peso
+Debilidad muscular
+Fatiga que empeora con el tiempo
+Baja presión arterial
+Piel oscura o manchada
+Existen pruebas de laboratorio que pueden confirmar si padece de la enfermedad de Addison. Si no se trata, puede ser mortal. Necesitará tomar pastillas de hormonas por el resto de su vida. Si padece de la enfermedad de Addison deberá llevar consigo una tarjeta de identificación en caso de urgencia. Esta deberá mencionar que usted padece dicha enfermedad e indicar sus medicinas y las dosis que necesita en caso de urgencia.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema inmunitario
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Enfermedad de Addison
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293?p=1
+
+Resource: Enfermedad de Addison
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000378.htm
+
+Resource: Enfermedad de Addison: Diagnóstico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/addisons-disease/diagnosis-treatment/drc-20350296?p=1
+
+Resource: Examen de corticotropina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003695.htm
+
+Resource: Examen de cortisol en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003693.htm
+
+Resource: Examen de cortisol en orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003703.htm
+
+Resource: Examen de la excreción de aldosterona urinaria en 24 horas
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003621.htm
+
+Resource: Hormona adrenocorticotrópica (ACTH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hormona-adrenocorticotropica-acth/
+
+Resource: Insuficiencia suprarrenal aguda
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000357.htm
+
+Resource: Insuficiencia suprarrenal y enfermedad de Addison
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-endocrinas/insuficiencia-suprarrenal-enfermedad-addison
+
+Resource: Prueba de aldosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-aldosterona/
+
+Resource: Prueba de autoanticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-autoanticuerpos/
+
+Resource: Prueba de cortisol
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cortisol/
+
+Resource: Prueba de estimulación con corticotropina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003696.htm
+
+Resource: Prueba de renina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-renina/

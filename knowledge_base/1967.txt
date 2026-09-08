@@ -1,0 +1,76 @@
+Title: Hipotermia
+
+Also Called:
+- Temperatura baja del cuerpo
+
+Summary:
+El clima frío puede afectar al cuerpo en formas diferentes. Usted puede sufrir
+congelación
+, una lesión en el cuerpo causada por el congelamiento. Además, el cuerpo puede perder calor más rápido de lo que usted puede producirlo. El resultado es la hipotermia, o una temperatura corporal anormalmente baja. Puede causarle somnolencia, confusión y torpeza en los movimientos. Dado que ocurre en forma gradual y afecta el pensamiento, es posible que no se dé cuenta que necesita ayuda. Esto lo hace especialmente peligrosa. Una temperatura corporal por debajo de 95 °F (35 ºC) constituye una emergencia médica y puede conducir a la muerte si no se trata en forma rápida.
+Cualquier persona que pase mucho tiempo al aire libre en climas fríos puede tener hipotermia. También puede ocurrir por tener frío y estar mojado, o permanecer en aguas frías durante mucho tiempo. Los bebés y las personas mayores presentan un riesgo especial. Los bebés pueden tenerla por dormir en una habitación fría.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Clima frío y los adultos mayores
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/seguridad/clima-frio-adultos-mayores
+
+Resource: Consejos de seguridad para mantener abrigados a los niños en el invierno
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Winter-Safety.aspx
+
+Resource: Consejos de seguridad para personas mayores cuando hacen ejercicio al aire libre
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/ejercicio/consejos-seguridad-personas-mayores-cuando-hacen-ejercicio-al-aire-libre
+
+Resource: Cómo prevenir el congelamiento y la hipotermia
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000866.htm
+
+Resource: Hipotermia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000038.htm
+
+Resource: Hipotermia y congelación: más fácil de desarrollar de lo que se imagina
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/hipotermia-y-congelacion
+
+Resource: Hipotermia: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-hypothermia/basics/art-20056624?p=1
+
+Resource: Instituto Nacional Sobre el Envejecimiento
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol
+
+Resource: Intolerancia al frío
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003095.htm
+
+Resource: Peligros de la hipotermia: Manténgase abrigado en el clima frío
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/los-peligros-de-la-hipotermia
+
+Resource: Prevenga la hipotermia y la congelación
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/winter/staysafe/hypothermia.html

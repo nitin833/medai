@@ -1,0 +1,102 @@
+Title: Mercury
+
+Summary:
+Mercury is an element that is found in air, water and soil. It has several forms. Metallic mercury is a shiny, silver-white, odorless liquid. If heated, it is a colorless, odorless gas. It also combines with other elements to form powders or crystals. Mercury is in many products. Metallic mercury is used in glass thermometers, silver dental fillings, and button batteries. Mercury salts may be used in skin creams and ointments. It's also used in many industries.
+Mercury in the air settles into water.  It can pass through the food chain and build up in fish, shellfish, and animals that eat fish. The nervous system is sensitive to all forms of mercury. Exposure to high levels can damage the brain and kidneys. Pregnant women can pass the mercury in their bodies to their babies.
+It is important to protect your family from mercury exposure:
+Carefully handle and dispose of products that contain mercury
+Limit your consumption of fish with higher levels of mercury
+Agency for Toxic Substances and Disease Registry
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Mercury Poisoning
+- Mercury
+
+Related Resources:
+
+Resource: Basic Information about Mercury
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/mercury/basic-information-about-mercury
+
+Resource: Dental Amalgam Fillings
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/dental-devices/dental-amalgam-fillings
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: Health Effects of Exposures to Mercury
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/mercury/health-effects-exposures-mercury
+
+Resource: Heavy Metal Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/heavy-metal-blood-test/
+
+Resource: Mercuric chloride poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002474.htm
+
+Resource: Mercuric oxide poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002475.htm
+
+Resource: Mercury
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/mercury
+
+Resource: Mercury
+Category: Start Here
+Organization: Agency for Toxic Substances and Disease Registry
+URL: https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=113&toxid=24
+
+Resource: Mercury and Pregnancy
+Category: Women
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/mercury-and-pregnancy
+
+Resource: Mercury poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002476.htm
+
+Resource: Mercury Poisoning Linked to Skin Products
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/mercury-poisoning-linked-skin-products
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Mercury
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mercury%22%5Bmajr%3Anoexp%5D+OR+%22Mercury+Poisoning%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Should I Be Concerned about Eating Fish and Shellfish?
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/choose-fish-and-shellfish-wisely/should-i-be-concerned-about-eating-fish-and-shellfish
+
+Resource: Storing, Transporting and Disposing of Mercury in Your Home
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/mercury/storing-transporting-and-disposing-mercury
+
+Resource: Thimerosal and Vaccines
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/about/thimerosal.html

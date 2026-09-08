@@ -1,0 +1,205 @@
+Title: Health Screening
+
+Also Called:
+- Screening tests
+
+Summary:
+Screenings are tests that look for diseases before you have symptoms. Screening tests can find diseases early, when they're easier to treat. You can get some screenings in your doctor's office. Others need special equipment, so you may need to go to a different office or clinic.
+Some conditions that doctors commonly screen for include:
+Breast cancer
+and
+cervical cancer
+in women
+Colorectal cancer
+Diabetes
+High blood pressure
+High cholesterol
+Osteoporosis
+Overweight and
+obesity
+Prostate cancer
+in men
+Which tests you need depends on your age, your sex, your family history, and whether you have risk factors for certain diseases.  After a screening test, ask when you will get the results and whom to talk to about them.
+Agency for Healthcare Research and Quality
+
+Groups:
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Diagnostic Tests, Routine
+
+Related Resources:
+
+Resource: Adult BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/adult-calculator/index.html
+
+Resource: Agency for Healthcare Research and Quality
+Category: Find an Expert
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/
+
+Resource: Basic Metabolic Panel (BMP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/basic-metabolic-panel-bmp/
+
+Resource: Blood Glucose Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+
+Resource: Calculate Your BMI
+Category: Health Check Tools
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/calculate-your-bmi
+
+Resource: Cancer Screening Overview
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq
+
+Resource: Child and Teen BMI Calculator
+Category: Teenagers, Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/child-teen-calculator/index.html
+
+Resource: Clinical Screening and Diagnosis for Hepatitis C
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-c/hcp/diagnosis-testing/
+
+Resource: Complete Blood Count (CBC)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/complete-blood-count-cbc/
+
+Resource: Comprehensive Metabolic Panel (CMP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/
+
+Resource: Depression Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/depression-screening/
+
+Resource: Genetic Testing: MedlinePlus Health Topic
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetictesting.html
+
+Resource: Get Screened
+Category: Start Here
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/doctor-visits/screening-tests/get-screened
+
+Resource: Getting Professional Eye Care
+Category: Specifics
+Organization: Prevent Blindness
+URL: https://preventblindness.org/getting-professional-eye-care/
+
+Resource: Health Screening Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/health-screens.html
+
+Resource: Healthy Living by Age
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-living-age
+
+Resource: Home Use Tests
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/in-vitro-diagnostics/home-use-tests
+
+Resource: How to Cope with Medical Test Anxiety
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-cope-with-medical-test-anxiety/
+
+Resource: How to Understand Your Lab Results
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/
+
+Resource: Lead Blood Test (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-lead.html
+
+Resource: Lung Cancer Screening
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/lung-cancer-screening/about/pac-20385024?p=1
+
+Resource: Mammograms
+Category: Women
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/screening/mammograms
+
+Resource: Medicare Preventive and Screening Services
+Category: Older Adults
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/preventive-screening-services
+
+Resource: Mental Health Screening Center
+Category: Health Check Tools
+Organization: Depression and Bipolar Support Alliance
+URL: https://www.dbsalliance.org/education/mental-health-screening-center/
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Pap Smear
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pap-smear/
+
+Resource: Health Screening
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diagnostic+Tests%2C+Routine%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: QuestionBuilder App
+Category: Health Check Tools
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/question-builder/index.html
+
+Resource: Skin Cancer Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/skin-cancer-screening/
+
+Resource: Skin Cancer Screening
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-screening-pdq
+
+Resource: STD Testing: What's Right for You
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sexually-transmitted-diseases-stds/in-depth/std-testing/art-20046019?p=1
+
+Resource: To Screen or Not to Screen? The Benefits and Harms of Screening Tests
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/03/screen-or-not-screen
+
+Resource: Tuberculosis Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tuberculosis-screening/
+
+Resource: Vision Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vision-screening/
+
+Resource: Your Child's Vision
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vision.html

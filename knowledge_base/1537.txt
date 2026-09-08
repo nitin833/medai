@@ -1,0 +1,100 @@
+Title: Indoor Air Pollution
+
+Summary:
+We usually think of air pollution as being outdoors, but the air in your house or office could also be polluted. Sources of indoor pollution include:
+Mold
+and pollen
+Tobacco smoke
+Household products
+and
+pesticides
+Gases such as
+radon
+and
+carbon monoxide
+Materials used in the building such as
+asbestos
+, 
+formaldehyde and
+lead
+Sometimes a group of people have symptoms that seem to be linked to time spent in a certain building. There may be a specific cause, such as Legionnaire's disease. Sometimes the cause of the illness cannot be found. This is known as sick building syndrome.
+Usually indoor air quality problems only cause discomfort. Most people feel better as soon as they remove the source of the pollution.  However, some pollutants can cause diseases that show up much later, such as respiratory diseases or cancer.
+Making sure that your building is well-ventilated and getting rid of pollutants can improve the quality of your indoor air.
+Environmental Protection Agency
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Air Pollution, Indoor
+
+Related Resources:
+
+Resource: Air Cleaners and Air Filters in the Home
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/air-cleaners-and-air-filters-home
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clean Air at Home
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/indoor-air/building-type-air-resources/at-home
+
+Resource: ClinicalTrials.gov: Air Pollution, Indoor
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Air+Pollution,+Indoor%22&aggFilters=status:not%20rec
+
+Resource: Indoor Air in Homes and Coronavirus (COVID-19)
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/indoor-air-homes-and-coronavirus-covid-19
+
+Resource: Introduction to Indoor Air Quality
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Office Building Occupant's Guide to Indoor Air Quality
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/office-building-occupants-guide-indoor-air-quality
+
+Resource: Ozone Generators That Are Sold as Air Cleaners
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/ozone-generators-are-sold-air-cleaners
+
+Resource: Indoor Air Pollution
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Air+Pollution%2C+Indoor%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Should You Have the Air Ducts in Your Home Cleaned?
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/should-you-have-air-ducts-your-home-cleaned
+
+Resource: Volatile Organic Compounds' Impact on Indoor Air Quality
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/volatile-organic-compounds-impact-indoor-air-quality

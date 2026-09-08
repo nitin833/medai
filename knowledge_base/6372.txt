@@ -1,0 +1,166 @@
+Title: Pruebas y exámenes para la tiroides
+
+Also Called:
+- Diagnóstico para la tiroides
+
+Summary:
+La tiroides es una glándula pequeña con forma de mariposa ubicada al frente del cuello. Produce
+hormonas
+que controlan la forma en que el cuerpo utiliza la energía. Estas hormonas afectan a casi todos los órganos del cuerpo y controlan muchas de sus funciones más importantes. Por ejemplo, afectan la respiración, el ritmo cardíaco, el peso, la digestión y el estado de ánimo.
+Las pruebas de función tiroidea verifican cómo está funcionando su tiroides. También se utilizan para diagnosticar y ayudar a encontrar la causa de
+enfermedades de la tiroides
+, incluyendo el
+hipertiroidismo
+y el
+hipotiroidismo
+. Los exámenes de la tiroides incluyen análisis de sangre y pruebas de imagen.
+Los análisis de sangre para la tiroides incluyen:
+Hormona estimulante de la tiroides
+(TSH): Mide la hormona estimulante de la tiroides. En general, esta es la primera prueba que solicitará su profesional de la salud
+T3
+y
+T4
+:  Miden el nivel de diferentes hormonas de la tiroides en la sangre
+Prueba de anticuerpos antitiroideos
+: Mide ciertos anticuerpos tiroideos (indicadores en la sangre). Esta prueba puede ayudar a diagnosticar trastornos tiroideos autoinmunes
+Las pruebas de imagen incluyen:
+Tomografía computarizada
+Ultrasonido
+Pruebas de medicina nuclear
+,
+como:
+Gammagrafía de tiroides:
+Utiliza pequeñas cantidades de material radiactivo para crear una imagen de la tiroides, mostrando su tamaño, forma y posición. Puede ayudar a encontrar la causa del hipertiroidismo y detectar nódulos tiroideos (protuberancias en la tiroides)
+Captación de yodo radiactivo
+(prueba de captación tiroidea): Comprueba cómo su tiroides está funcionando y puede ayudar a encontrar la causa de hipertiroidismo
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema endocrino
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Anticuerpos antiperoxidasa tiroidea
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003556.htm
+
+Resource: Anticuerpos antitiroideos
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/anticuerpos-antitiroideos/
+
+Resource: Análisis de sangre: Hormona estimulante de la tiroides (TSH) (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-tsh.html
+
+Resource: Análisis para determinar el perfil tiroideo (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/thyroid-tests.html
+
+Resource: Aspiración de tiroides con aguja fina
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003899.htm
+
+Resource: Captación de yodo radiactivo
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003689.htm
+
+Resource: Ecografía de la tiroides
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003776.htm
+
+Resource: Examen de ECA en la sangre
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003567.htm
+
+Resource: Examen de inmunoglobulina estimulante de la tiroides (TSI)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003685.htm
+
+Resource: Examen de la captación de T3 por resina (T3RU)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003688.htm
+
+Resource: Examen de la hormona estimulante de la tiroides (TSH)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003684.htm
+
+Resource: Examen de T3
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003687.htm
+
+Resource: Examen de T4
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003517.htm
+
+Resource: Examen de TBG en la sangre
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003374.htm
+
+Resource: Gammagrafía de la tiroides
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003829.htm
+
+Resource: Gammagrafía y absorción tiroideas
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/thyroiduptake
+
+Resource: Por qué Internet no puede diagnosticar su problema de tiroides
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/por-que-internet-no-puede-diagnosticar-su-problema-de-tiroides
+
+Resource: Prueba de anticuerpos antitiroglobulina
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003557.htm
+
+Resource: Prueba de calcitonina
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcitonina/
+
+Resource: Prueba de tiroxina (T4)
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tiroxina-t4/
+
+Resource: Prueba de TSH
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tsh/
+
+Resource: Pruebas de función tiroidea
+Category: Más información, Spanish/Español
+Organization: Asociación Americana de la Tiroides
+URL: https://www.thyroid.org/las-pruebas-de-funcion-tiroidea/
+
+Resource: Pruebas de la tiroides
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/pruebas-tiroides
+
+Resource: Pruebas de triyodotironina (T3)
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-triyodotironina-t3/
+
+Resource: Ultrasonido de la tiroides
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/us-thyroid

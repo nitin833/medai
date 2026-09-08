@@ -1,0 +1,197 @@
+Title: Pubertad
+
+Summary:
+Pubertad es el momento de la vida cuando un niño o una niña madura sexualmente. Es un proceso que suele ocurrir entre los 8 y 13 años para las niñas y entre los 9 y 14 para los varones. Causa cambios físicos y afecta a niños y niñas de manera distinta.
+En las niñas:
+La primera señal de pubertad es por lo general el desarrollo de los senos.
+Luego comienza a crecer el vello en la zona del pubis y las axilas.
+La
+menstruación
+(o período) por lo general es el último paso.
+En los niños:
+La pubertad comienza generalmente con el crecimiento de los testículos y el pene.
+Luego, el vello en el pubis y las axilas.
+Los músculos crecen, la voz se hace más gruesa y el vello facial aparece siguiendo el proceso de la pubertad.
+Tanto los niños como las niñas pueden tener acné. También suelen tener un aumento repentino en el crecimiento (un aumento rápido de altura) que dura alrededor de dos o tres años. Esto los acerca más a su estatura adulta, la que alcanzan después de la pubertad.
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Niños y adolescentes
+- Asuntos de salud sexual
+
+Related Resources:
+
+Resource: Acné (para niños)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/acne.html
+
+Resource: Análisis de sangre: Estradiol
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/blood-test-estradiol.html
+
+Resource: Análisis de sangre: Testosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/testosterone.html
+
+Resource: Comprender la pubertad (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/understanding-puberty.html
+
+Resource: Cómo hablar con su hijo sobre la pubertad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/talk-about-puberty.html
+
+Resource: Estoy creciendo: Pero, ¿soy normal?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/growing-up-normal.html
+
+Resource: Etapas de la pubertad
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/puberty/paginas/stages-of-puberty.aspx
+
+Resource: Ginecomastia
+Category: Spanish/Español, Niños
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/boybrst.html
+
+Resource: Inquietudes que las niñas tienen acerca de la pubertad
+Category: Spanish/Español, Niñas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/puberty/paginas/concerns-girls-have-about-puberty.aspx
+
+Resource: Inquietudes que los niños tienen acerca de la pubertad
+Category: Spanish/Español, Niños
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/puberty/paginas/concerns-boys-have-about-puberty.aspx
+
+Resource: Olor corporal
+Category: Spanish/Español, Niñas
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/olor-corporal/
+
+Resource: Prueba de estrógeno
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estrogeno/
+
+Resource: Pubertad
+Category: Spanish/Español, Niñas
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/la-pubertad/
+
+Resource: Pubertad en las niñas
+Category: Spanish/Español, Niñas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000651.htm
+
+Resource: Pubertad en los niños
+Category: Spanish/Español, Niños, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000650.htm
+
+Resource: Pubertad precoz
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001168.htm
+
+Resource: Pubertad precoz (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/precocious.html
+
+Resource: Retraso de la pubertad
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/delayed-puberty.html
+
+Resource: Retraso de la pubertad en niños
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007695.htm
+
+Resource: Retraso en la pubertad en niñas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niñas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007694.htm
+
+Resource: Senos y sostenes
+Category: Spanish/Español, Niñas
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/breasts-bras.html
+
+Resource: Todo acerca de la pubertad (información para niños)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/puberty.html
+
+Resource: Todo lo que querías saber sobre la pubertad (información para adolescentes)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/puberty.html
+
+Resource: Varones y la pubertad
+Category: Spanish/Español, Niños
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/boys-puberty.html
+
+Resource: Video: ¿Soy normal? (Las niñas y la pubertad)
+Category: Interactivos y videos, Spanish/Español, Niñas
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/puberty-normal-video.html
+
+Resource: ¿Cuáles son los síntomas de la pubertad normal, la pubertad precoz y la pubertad tardía?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/puberty/informacion/sintomas
+
+Resource: ¿Cuáles son los tratamientos comunes para los problemas de la pubertad?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/puberty/informacion/tratamientos
+
+Resource: ¿Cuándo me vendrá la menstruación?
+Category: Spanish/Español, Niñas
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/when-period.html
+
+Resource: ¿Cómo diagnostican los proveedores de cuidado de la salud la pubertad precoz y la pubertad tardía?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/puberty/informacion/diagnostica
+
+Resource: ¿Cómo me puedo sentir mejor acerca de mi cuerpo?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/feel-better-about-body.html
+
+Resource: ¿Por qué está cambiando mi voz? (información para adolescentes)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/voice-changing.html
+
+Resource: ¿Por qué me sale acné?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/acne.html
+
+Resource: ¿Puedo evitar tener sueños húmedos?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stop-dreams.html
+
+Resource: ¿Qué es la nuez?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/adams-apple.html
+
+Resource: ¿Qué son la pubertad normal, la pubertad precoz y la pubertad tardía?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/puberty/informacion

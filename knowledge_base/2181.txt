@@ -1,0 +1,95 @@
+Title: Transpiración
+
+Also Called:
+- Sudor
+- Sudoración
+
+Summary:
+El sudor es un líquido claro y salado producido por glándulas en la piel. La transpiración es la manera que el cuerpo tiene para enfriarse. El sudor se produce principalmente debajo de los brazos, en los pies y las palmas de las manos. Cuando el sudor se mezcla con las bacterias de la piel puede causar olor. Bañarse con regularidad y usar antitranspirantes o desodorantes puede ayudar a controlar el olor.
+Cuando hace calor, practica ejercicios, está ansioso o tiene fiebre es normal transpirar mucho. También ocurre durante la menopausia. Sin embargo, si transpira demasiado (hiperhidrosis), puede deberse a un trastorno de la tiroides o del sistema nervioso, disminución del azúcar en la sangre u otro problema de salud.
+Transpirar demasiado poco (anhidrosis), puede poner en riesgo la vida porque el cuerpo puede sobrecalentarse. Entre las causas de anhidrosis se incluyen la deshidratación, las quemaduras y algunos trastornos de la piel y los nervios.
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Antitranspirantes o desodorantes y el cáncer de seno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/mitos/hoja-informativa-antitranspirantes
+
+Resource: Ausencia de sudoración
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003219.htm
+
+Resource: Enfermedad que huele: El olor corporal puede ser señal de una enfermedad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/enfermedad-que-huele
+
+Resource: Hiperhidrosis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hyperhidrosis/symptoms-causes/syc-20367152?p=1
+
+Resource: Hiperhidrosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007259.htm
+
+Resource: Iontoforesis
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007293.htm
+
+Resource: Miliaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heat-rash/symptoms-causes/syc-20373276?p=1
+
+Resource: Olor corporal
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/olor-corporal/
+
+Resource: Piel fría y húmeda
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003216.htm
+
+Resource: Simpatectomía torácica endoscópica
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007291.htm
+
+Resource: Sofocos y sudoración (y el cáncer)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/piel-cabello-unas/bochornos-sudoracion.html
+
+Resource: Sudoraciones nocturnas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/night-sweats/basics/definition/sym-20050768?p=1
+
+Resource: Sudoración
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000127.htm
+
+Resource: Sudoración
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003218.htm
+
+Resource: Sudoración y olor corporal
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sweating-and-body-odor/symptoms-causes/syc-20353895?p=1
+
+Resource: ¿Qué es el sudor?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/sweat.html

@@ -1,0 +1,308 @@
+Title: Multiple Sclerosis
+
+Also Called:
+- MS
+
+Summary:
+Multiple sclerosis (MS) is a
+nervous system disease
+that affects your brain and spinal cord.  It damages the myelin sheath, the material that surrounds and protects your nerve cells. This damage slows down or blocks messages between your brain and your body, leading to the symptoms of MS. They can include:
+Visual disturbances
+Muscle weakness
+Trouble with coordination and balance
+Sensations such as numbness, prickling, or "pins and needles"
+Thinking and memory problems
+No one knows what causes MS. It may be an autoimmune disease, which happens when your immune system attacks healthy cells in your body by mistake. Multiple sclerosis affects women more than men. It often begins between the ages of 20 and 40.  Usually, the disease is mild, but some people lose the ability to write, speak, or walk.
+There is no specific test for MS.  Doctors use a medical history, physical exam, neurological exam, MRI, and other tests to diagnose it. There is no cure for MS, but medicines may slow it down and help control symptoms. Physical and occupational therapy may also help.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Bones, Joints and Muscles
+- Brain and Nerves
+
+MeSH Headings:
+- Multiple Sclerosis
+
+Related Resources:
+
+Resource: Advanced Multiple Sclerosis Care Needs
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/treating-ms/advanced-care-needs
+
+Resource: BAER - brainstem auditory evoked response
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003926.htm
+
+Resource: Building Relationships and MS
+Category: Related Issues
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/relationships
+
+Resource: But You Look So Good! (Common "Invisible" MS Symptoms)
+Category: Related Issues
+Organization: National Multiple Sclerosis Society
+URL: https://cdn.sanity.io/files/y936aps5/production/c1eb2e85aea829f3b911fcc585fa62cb33b36e02.pdf
+
+Resource: Cerebral spinal fluid (CSF) collection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003428.htm
+
+Resource: Cerebrospinal Fluid (CSF) Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/
+
+Resource: ClinicalTrials.gov: Multiple Sclerosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Multiple+Sclerosis%22&aggFilters=status:not%20rec
+
+Resource: CNN's John King Isn't Letting Multiple Sclerosis Slow Him Down
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/cnns-john-king-isnt-letting-multiple-sclerosis-slow-him-down
+
+Resource: Comprehensive Care Approach to MS
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/treating-ms/comprehensive-care
+
+Resource: CSF cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003625.htm
+
+Resource: CSF Immunoglobulin G (IgG) Index
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/csf-immunoglobulin-g-igg-index/
+
+Resource: CSF myelin basic protein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003370.htm
+
+Resource: CSF oligoclonal banding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003631.htm
+
+Resource: CSF oligoclonal banding - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100145_1.htm
+
+Resource: Daily bowel care program
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000133.htm
+
+Resource: Depression and Multiple Sclerosis
+Category: Related Issues
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/ms-symptoms/depression
+
+Resource: Diet and Nutrition for Multiple Sclerosis
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/diet-exercise-and-healthy-behaviors/diet-nutrition
+
+Resource: Disease-Modifying Therapies
+Category: Treatments and Therapies
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/treating-ms/disease-modifying-therapies
+
+Resource: Dressing with Ease, Style, and Comfort
+Category: Living With
+Organization: ALS Association
+URL: https://www.als.org/navigating-als/resources/fyi-dressing-ease-style-and-comfort
+
+Resource: Exercising with Multiple Sclerosis
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/diet-exercise-and-healthy-behaviors/exercise
+
+Resource: Family Planning and Pregnancy with Multiple Sclerosis
+Category: Women
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/diet-exercise-and-healthy-behaviors/pregnancy
+
+Resource: Financial Planning for Living with MS
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/resources/financial-planning
+
+Resource: Guide for Support Partners
+Category: Related Issues
+Organization: National Multiple Sclerosis Society
+URL: https://cdn.sanity.io/files/y936aps5/production/aecdc13c9d92b721ef4b0be3dc8d14f20f5868f6.pdf
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: How Is Multiple Sclerosis Diagnosed?
+Category: Diagnosis and Tests
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/how-ms-is-diagnosed
+
+Resource: How MS Affects the Black Community
+Category: Related Issues
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/who-gets-ms/how-ms-affects-the-black-community
+
+Resource: Managing Multiple Sclerosis: Treatment Can Delay Future Attacks
+Category: Living With
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2019/01/managing-multiple-sclerosis
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: Multiple Sclerosis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/symptoms-causes/syc-20350269?p=1
+
+Resource: Multiple sclerosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000737.htm
+
+Resource: Multiple Sclerosis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/multiple-sclerosis.html
+
+Resource: Multiple Sclerosis (MS)
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/multiple-sclerosis-ms
+
+Resource: Multiple sclerosis - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000129.htm
+
+Resource: Multiple Sclerosis and Complementary Health Approaches: What the Science Says
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/providers/digest/multiple-sclerosis-and-complementary-health-approaches-science
+
+Resource: Multiple Sclerosis and Me
+Category: Videos and Tutorials
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/MS/RESOURCES/YouTube_index.asp
+
+Resource: Multiple sclerosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-sclerosis/
+
+Resource: Multiple Sclerosis: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/multiple-sclerosis-what-you-need-to-know
+
+Resource: Myoclonus
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/myoclonus
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: National Multiple Sclerosis Society
+Category: Find an Expert
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/
+
+Resource: Neuromyelitis Optica Spectrum Disorder
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neuromyelitis-optica-spectrum-disorder
+
+Resource: Optic neuritis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000741.htm
+
+Resource: Palatal myoclonus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001637.htm
+
+Resource: Pediatric Multiple Sclerosis
+Category: Children
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/who-gets-ms/pediatric-multiple-sclerosis
+
+Resource: Primary Progressive Multiple Sclerosis (PPMS)
+Category: Specifics
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/types-of-ms/primary-progressive-ms
+
+Resource: Multiple Sclerosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Multiple+Sclerosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rehabilitation and Multiple Sclerosis
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/treating-ms/rehabilitation
+
+Resource: Relapsing-Remitting Multiple Sclerosis (RRMS)
+Category: Specifics
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/types-of-ms/relapse-remitting-ms
+
+Resource: Research News and Progress
+Category: Statistics and Research
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/ms-research/research-news-progress
+
+Resource: Resources for People with MS
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/resources
+
+Resource: Secondary Progressive Multiple Sclerosis (SPMS)
+Category: Specifics
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/understanding-ms/what-is-ms/types-of-ms/secondary-progressive-ms
+
+Resource: Spasticity
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#spasticity
+
+Resource: Staying Mobile with Multiple Sclerosis
+Category: Living With
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/mobility-and-accessibility/staying-mobile
+
+Resource: Supplements for Multiple Sclerosis
+Category: Treatments and Therapies
+Organization: National Multiple Sclerosis Society
+URL: https://www.nationalmssociety.org/managing-ms/living-with-ms/diet-exercise-and-healthy-behaviors/diet-nutrition/vitamin-mineral-and-supplements
+
+Resource: Swallowing problems
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000065.htm
+
+Resource: Symptoms of Multiple Sclerosis
+Category: Symptoms
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/MS/SYMPTOMS/index.asp
+
+Resource: Vitamin D and MS: Is There Any Connection?
+Category: Statistics and Research
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/expert-answers/vitamin-d-and-ms/faq-20058258?p=1

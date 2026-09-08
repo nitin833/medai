@@ -1,0 +1,560 @@
+Title: Enfermedades de los pulmones
+
+Also Called:
+- Enfermedades pulmonares
+
+Summary:
+¿Qué son los pulmones?
+Los pulmones son un par de órganos ubicados en el pecho. Son los órganos principales del sistema respiratorio y permiten respirar. Los pulmones suministran oxígeno al cuerpo para que las células obtengan el oxígeno que necesitan para vivir y funcionar. También eliminan el dióxido de carbono, un producto de desecho, del cuerpo.
+¿Qué son las enfermedades pulmonares?
+Las enfermedades pulmonares afectan los pulmones e impiden su funcionamiento normal. Estas afecciones pueden alterar su:
+Función respiratoria (capacidad para respirar)
+Función pulmonar (qué tan bien funcionan los pulmones)
+Algunas enfermedades pulmonares son agudas (de corta duración), mientras que otras son crónicas (de larga duración). Las enfermedades pulmonares crónicas suelen desarrollarse lentamente y pueden empeorar con el tiempo.
+Existen muchos tipos diferentes de enfermedades pulmonares, como:
+Asma
+Bronquitis, que puede ser
+aguda
+o
+crónica
+EPOC
+Gripe
+Cáncer de pulmón
+Neumonía
+Fibrosis pulmonar
+Sarcoidosis
+¿Qué causa las enfermedades pulmonares?
+Algunas de las causas de las enfermedades pulmonares incluyen:
+Infecciones
+bacterianas
+,
+virales
+y
+por hongos
+Fumar tabaco
+Respirar
+humo de segunda mano
+,
+radón
+,
+asbesto
+y otras formas de
+contaminación del aire
+Genética
+En ocasiones, no se conoce la causa de una enfermedad pulmonar.
+¿Cuáles son los síntomas de las enfermedades pulmonares?
+Los primeros signos de una enfermedad pulmonar pueden pasar desapercibidos fácilmente. A menudo, un signo temprano de enfermedad pulmonar es no tener el nivel de energía habitual.
+Diferentes enfermedades pulmonares pueden causar síntomas distintos, pero algunos de los síntomas más comunes incluyen:
+Tos
+que no desaparece
+Tos con sangre o mucosidad
+Problemas para respirar
+(sensación de que no se está obteniendo suficiente aire)
+Menor capacidad para hacer ejercicio
+Dolor o malestar al inhalar o exhalar
+Sibilancia
+¿Cómo se diagnostican las enfermedades pulmonares?
+Existen muchos tipos de pruebas para diagnosticar diferentes tipos de enfermedades pulmonares, como:
+Pruebas de diagnóstico por imágenes
+, como
+radiografías
+de tórax,
+tomografías computarizadas
+o
+resonancias magnéticas
+Broncoscopia
+: Procedimiento que permite a su profesional de la salud observar sus pulmones. Implica insertar un tubo flexible a través de su nariz o boca hasta llegar a sus pulmones
+Pruebas de función pulmonar
+: Pueden ayudar a su proveedor de atención médica a ver qué tan bien están funcionando sus pulmones. Muchas de ellas implican respirar a través de una boquilla. Otras son pruebas de ejercicio
+Pruebas que miden su nivel de oxígeno en sangre, como la
+oximetría
+de pulso y una
+gasometría arterial
+(que también mide sus niveles de dióxido de carbono)
+Biopsia
+Las pruebas que le realicen dependerán de sus síntomas y de la enfermedad pulmonar que su profesional de la salud piense que podría tener.
+¿Cuáles son los tratamientos para las enfermedades pulmonares?
+Su tratamiento dependerá de la enfermedad pulmonar que tenga. Algunos de los diferentes tipos de tratamientos para enfermedades pulmonares incluyen medicamentos, cirugía,
+oxigenoterapia
+y
+rehabilitación pulmonar
+. Para algunas afecciones pulmonares muy graves, puede ser necesario un
+trasplante de pulmón
+.
+¿Se pueden prevenir las enfermedades pulmonares?
+No todas las enfermedades pulmonares se pueden prevenir. Pero puede reducir el riesgo de padecer algunas enfermedades pulmonares al:
+Dejar de fumar
+(si no fuma, no comience)
+Evitar el humo de segunda mano
+Reducir su exposición a sustancias peligrosas como el radón y el asbesto
+Limitar su exposición a la contaminación del aire exterior
+Vacunarse contra la gripe y la neumonía
+Tener un estilo de vida saludable con
+actividad física regular
+y una
+dieta sana
+Oficina para la Salud de la Mujer en el Dept. de Salud y Servicios Humanos de los EE.UU
+
+Groups:
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Acidosis láctica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000391.htm
+
+Resource: Acidosis respiratoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000092.htm
+
+Resource: Actinomicosis pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000074.htm
+
+Resource: Adenovirus
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/adenovirus.html
+
+Resource: Alcalosis respiratoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000111.htm
+
+Resource: Alta tras cirugía del pulmón
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000242.htm
+
+Resource: Anomalías alveolares
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001093.htm
+
+Resource: Aspergiloma pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000127.htm
+
+Resource: Aspiración de meconio
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/meconium.html
+
+Resource: Biopsia de aspiración pulmonar (tórax)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/nlungbiop
+
+Resource: Biopsia de pulmón a cielo abierto
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003861.htm
+
+Resource: Biopsia pulmonar por punción
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003860.htm
+
+Resource: Broncoscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003857.htm
+
+Resource: Broncoscopia con lavado broncoalveolar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/broncoscopia-con-lavado-broncoalveolar/
+
+Resource: Bronquiectasia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000144.htm
+
+Resource: Cambios en los pulmones con la edad
+Category: Personas mayores, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/004011.htm
+
+Resource: Cateterismo cardíaco derecho de Swan-Ganz
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003870.htm
+
+Resource: Cirugía de pulmón
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002956.htm
+
+Resource: Cuestionario sobre el manejo de la EPOC
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000066_87.htm
+
+Resource: Cultivo broncoscópico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003748.htm
+
+Resource: Cómo funcionan los pulmones
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: Cómo obtener una lectura precisa con oxímetros de pulso
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-obtener-una-lectura-precisa-con-oximetros-de-pulso
+
+Resource: Cómo usar el inhalador de dosis medida
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/14-ASTHMA-TSS.pdf
+
+Resource: Edema pulmonar
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000140.htm
+
+Resource: Edema pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009?p=1
+
+Resource: Empiema
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000123.htm
+
+Resource: Enfermedad de anticuerpos antimembrana basal glomerular
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000142.htm
+
+Resource: Enfermedad pulmonar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000066.htm
+
+Resource: Enfermedad pulmonar inducida por fármacos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000104.htm
+
+Resource: Enfermedad pulmonar reumatoidea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000113.htm
+
+Resource: Eosinofilia pulmonar simple
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000105.htm
+
+Resource: Espirometría
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/spirometry/about/pac-20385201?p=1
+
+Resource: Espirometría
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spirometry.html
+
+Resource: Examen de CO2 en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003469.htm
+
+Resource: Examen de difusión pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003854.htm
+
+Resource: Examen de isoenzimas de la lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-isoenzimas-de-la-lactato-deshidrogenasa-ldh/
+
+Resource: Frotis para hongos en esputo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003736.htm
+
+Resource: Fumar marihuana y los pulmones
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Torácica Estadounidense
+URL: https://www.thoracic.org/patients/patient-resources/resources/spanish/marijuana.pdf
+
+Resource: Gammagrafía pulmonar con galio
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003824.htm
+
+Resource: Gammagrafía pulmonar de ventilación/perfusión
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003828.htm
+
+Resource: Gasometría arterial
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003855.htm
+
+Resource: Inserción de sonda pleural
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002947.htm
+
+Resource: Inserción de una sonda torácica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100008_1.htm
+
+Resource: Intercambio de gases
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000059.htm
+
+Resource: Isoenzimas de la DHL prueba de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003499.htm
+
+Resource: Lobectomía pulmonar
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100094_1.htm
+
+Resource: Nebulizador
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17129/nebulizador/
+
+Resource: Neumoconiosis de los mineros del carbón
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000130.htm
+
+Resource: Neumoconiosis reumatoide
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000137.htm
+
+Resource: Neumomediastino
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000084.htm
+
+Resource: Neumonitis por hipersensibilidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000109.htm
+
+Resource: Neumonitis por químicos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000143.htm
+
+Resource: Nocardiosis pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000083.htm
+
+Resource: Nódulo pulmonar solitario
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000071.htm
+
+Resource: Obtención de un estudio de la respiración, espirometría
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-spirometer.html
+
+Resource: Obtención de un estudio de la respiración, espirometría (para niños)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/video-spirometer.html
+
+Resource: Oximetría de pulso
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Torácica Estadounidense
+URL: https://www.thoracic.org/patients/patient-resources/resources/spanish/pulse-oximetry.pdf
+
+Resource: Pletismografía pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007289.htm
+
+Resource: Problemas pulmonares y esmog volcánico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007468.htm
+
+Resource: Proteinosis alveolar pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000114.htm
+
+Resource: Pruebas de función pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-funcion-pulmonar/
+
+Resource: Pruebas de la función pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003853.htm
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Pulmones hiperinsuflados: ¿Qué significa?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/emphysema/expert-answers/hyperinflated-lungs/faq-20058169?p=1
+
+Resource: Pulmones y aparato respiratorio
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/lungs.html
+
+Resource: Pulmones y el sistema respiratorio
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/lungs.html
+
+Resource: Pulsioximetría
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/
+
+Resource: Punción arterial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003422.htm
+
+Resource: Radiografía torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Rayos X del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Rehabilitación pulmonar
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/rehabilitacion-pulmonar
+
+Resource: Rehabilitación pulmonar: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pulmonaryrehabilitation.html
+
+Resource: Respiración
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000018.htm
+
+Resource: Respiración rápida y superficial
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007198.htm
+
+Resource: Ruidos respiratorios
+Category: Síntomas, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007535.htm
+
+Resource: Sibilancias
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003070.htm
+
+Resource: Silicosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000134.htm
+
+Resource: Silicosis - el trabajo con tejas de cemento: El peligro de la sílice
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2006-110sp.html
+
+Resource: Silicosis: ¡Conozca los datos!
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2004-108sp.html
+
+Resource: Síndrome de aspiración de meconio
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001596.htm
+
+Resource: Taquipnea transitoria del recién nacido
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ttn.html
+
+Resource: Taquipnea transitoria en recién nacidos
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007233.htm
+
+Resource: TC torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003788.htm
+
+Resource: Terapia con oxígeno: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/oxygentherapy.html
+
+Resource: Tinción de Gram en esputo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003765.htm
+
+Resource: Tomografía por emisión de positrones (TEP) del pulmón
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007342.htm
+
+Resource: Tos con sangre
+Category: Síntomas, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003073.htm
+
+Resource: Tratamientos para las enfermedades pulmonares
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/tratamientos-pulmonares
+
+Resource: Tus pulmones y tu sistema respiratorio
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/lungs.html
+
+Resource: Uso del oxígeno en el hogar
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000048.htm
+
+Resource: Ventilador/Soporte ventilatorio: ¿Qué es?
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/ventilador
+
+Resource: ¿Qué es la LAM (linfangioleiomiomatosis)?
+Category: Spanish/Español, Mujeres
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/lam

@@ -1,0 +1,417 @@
+Title: Blood Disorders
+
+Also Called:
+- Hematologic diseases
+
+Summary:
+Your
+blood
+is living tissue made up of liquid and solids. The liquid part, called plasma, is made of water, salts and protein. Over half of your blood is plasma. The solid part of your blood contains red blood cells, white blood cells and platelets.
+Blood disorders affect one or more parts of the blood and prevent your blood from doing its job.  They can be acute or chronic. Many blood disorders are inherited. Other causes include other diseases, side effects of medicines, and a lack of certain nutrients in your diet.
+Types of blood disorders include:
+Platelet disorders
+,
+excessive clotting
+, and
+bleeding problems
+, which affect how your blood clots
+Anemia
+, which happens when your blood does not carry enough oxygen to the rest of your body
+Cancers of the blood, such as
+leukemia
+and
+myeloma
+Eosinophilic disorders
+, which are problems with one type of white blood cell.
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Hematologic Diseases
+
+Related Resources:
+
+Resource: Aceruloplasminemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aceruloplasminemia
+
+Resource: Agranulocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001295.htm
+
+Resource: Arterial stick
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003422.htm
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Blood differential test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003657.htm
+
+Resource: Blood Diseases
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/blood-diseases
+
+Resource: Blood smear
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003665.htm
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood typing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003345.htm
+
+Resource: Capillary sample
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003427.htm
+
+Resource: CBC blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003642.htm
+
+Resource: ClinicalTrials.gov: Blood Cells
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Blood+Cells%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hematologic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hematologic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: CLPB deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/clpb-deficiency
+
+Resource: Congenital plasminogen deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-plasminogen-deficiency
+
+Resource: Coombs test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003344.htm
+
+Resource: Cord blood testing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003403.htm
+
+Resource: Donath-Landsteiner test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003668.htm
+
+Resource: Dyserythropoietic anemia and thrombocytopenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dyserythropoietic-anemia-and-thrombocytopenia
+
+Resource: Eosinophilia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/eosinophilia/basics/definition/SYM-20050752?p=1
+
+Resource: Familial erythrocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-erythrocytosis
+
+Resource: Find a Hematologist
+Category: Find an Expert
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/find-a-hematologist
+
+Resource: Haptoglobin (HP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/haptoglobin-hp-test/
+
+Resource: Haptoglobin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003634.htm
+
+Resource: Heavy Chain Diseases
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/plasma-cell-disorders/heavy-chain-diseases
+
+Resource: Hematocrit
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003646.htm
+
+Resource: Hematology Glossary
+Category: Reference Desk
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/blood-basics/hematology-glossary
+
+Resource: Hemoglobin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003645.htm
+
+Resource: Hemoglobin C disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000572.htm
+
+Resource: Hemoglobin C, S-C, and E Diseases
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/anemia/hemoglobin-c-s-c-and-e-diseases
+
+Resource: Hemoglobin electrophoresis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003639.htm
+
+Resource: Hemoglobin Electrophoresis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hemoglobin-electrophoresis/
+
+Resource: Hemoglobinopathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001291.htm
+
+Resource: Hemolytic crisis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003270.htm
+
+Resource: Hemolytic disease of the newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001298.htm
+
+Resource: Hereditary elliptocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000563.htm
+
+Resource: Hereditary ovalocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000566.htm
+
+Resource: Hereditary Spherocytosis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hereditary-spherocytosis.html
+
+Resource: Hereditary spherocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-spherocytosis
+
+Resource: High Red Blood Cell Count
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/high-red-blood-cell-count/basics/definition/SYM-20050858?p=1
+
+Resource: Karyotype Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/karyotype-genetic-test/
+
+Resource: Low White Blood Cell Count
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/low-white-blood-cell-count/basics/definition/SYM-20050615?p=1
+
+Resource: Low white blood cell count and cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000675.htm
+
+Resource: Lupus and the Heart, Lungs, and Blood
+Category: Related Issues
+Organization: Lupus Foundation of America
+URL: https://www.lupus.org/resources/how-lupus-affects-the-heart-and-circulation
+
+Resource: Lymphocytosis (High Lymphocyte Count)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/lymphocytosis/basics/definition/SYM-20050660?p=1
+
+Resource: McLeod neuroacanthocytosis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mcleod-neuroacanthocytosis-syndrome
+
+Resource: Methemoglobinemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000562.htm
+
+Resource: Methemoglobinemia - acquired
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000561.htm
+
+Resource: Methemoglobinemia, beta-globin type: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methemoglobinemia-beta-globin-type
+
+Resource: Methylene blue test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003412.htm
+
+Resource: Monoclonal Gammopathies
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/monoclonal-gammopathies
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Neuroferritinopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neuroferritinopathy
+
+Resource: Neutropenia (Low Neutrophil Count)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/neutropenia/basics/definition/SYM-20050854?p=1
+
+Resource: Neutropenia - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007230.htm
+
+Resource: Osmotic fragility test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003641.htm
+
+Resource: Overview of Plasma Cell Disorders
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/plasma-cell-disorders/overview-of-plasma-cell-disorders
+
+Resource: Overview of White Blood Cell Disorders
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/white-blood-cell-disorders/overview-of-white-blood-cell-disorders
+
+Resource: Paroxysmal cold hemoglobinuria (PCH)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000557.htm
+
+Resource: Paroxysmal Nocturnal Hemoglobinuria (PNH)
+Category: Specifics
+Organization: Aplastic Anemia and MDS International Foundation
+URL: https://www.aamds.org/pnh
+
+Resource: Paroxysmal nocturnal hemoglobinuria (PNH)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000534.htm
+
+Resource: Paroxysmal nocturnal hemoglobinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria
+
+Resource: Polychromatophilia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001318.htm
+
+Resource: Polycythemia - newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000536.htm
+
+Resource: Polycythemia Vera
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850?p=1
+
+Resource: Polycythemia vera: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/polycythemia-vera
+
+Resource: Blood Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hematologic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RBC count
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003644.htm
+
+Resource: RBC indices
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003648.htm
+
+Resource: Serum free hemoglobin test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003677.htm
+
+Resource: Sugar-water hemolysis test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003673.htm
+
+Resource: Symptoms of Blood Disorders
+Category: Symptoms
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/symptoms-and-diagnosis-of-blood-disorders/symptoms-of-blood-disorders
+
+Resource: Twin-to-twin transfusion syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001595.htm
+
+Resource: Venipuncture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003423.htm
+
+Resource: WBC count
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003643.htm
+
+Resource: What Is Lymphopenia?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lymphopenia
+
+Resource: X-linked sideroblastic anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-sideroblastic-anemia

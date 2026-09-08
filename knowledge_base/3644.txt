@@ -1,0 +1,144 @@
+Title: Occupational Health for Health Care Providers
+
+Summary:
+Health care workers are exposed to many job hazards. These can include :
+Infections
+Needle injuries
+Back injuries
+Allergy-causing substances
+Violence
+Stress
+Follow good job safety and injury prevention practices. They can reduce your risk of health problems. Use protective equipment, follow
+infection control
+guidelines, learn the right way to lift heavy objects, and find ways to manage stress.
+National Institute for Occupational Safety and Health
+
+Groups:
+- Safety Issues
+- Health System
+
+MeSH Headings:
+- Health Occupations
+- Occupational Health
+- Occupational Exposure
+
+Related Resources:
+
+Resource: Bloodborne Pathogens and Needlestick Prevention
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/bloodborne-pathogens
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Cross Infection
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cross+Infection%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Infection Control
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22infection+control%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Occupational Exposure
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Occupational+Exposure%22&aggFilters=status:not%20rec
+
+Resource: Exposure to Stress: Occupational Hazards in Hospitals
+Category: Related Issues
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/2008-136/pdfs/2008-136.pdf
+
+Resource: Eye Protection for Infection Control
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/ppe/eye-safety/infection-control.html
+
+Resource: Hazardous Drugs
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/hazardous-drugs
+
+Resource: Healthcare
+Category: Start Here
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/healthcare
+
+Resource: HIV Occupational Transmission
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hiv/causes/occupational-transmission.html
+
+Resource: Hospital-Wide Hazards
+Category: Start Here
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/hospitals/hospital-wide-hazards
+
+Resource: Hospital-Wide Hazards: Biological Hazards -- Infectious Diseases
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/hospitals/hospital-wide-hazards/biological-hazards
+
+Resource: Hospital-Wide Hazards: Work-Related Musculoskeletal Disorders
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/hospitals/hospital-wide-hazards/work-related-musculoskeletal-disorders
+
+Resource: Hospital-Wide Hazards: Workplace Violence
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/hospitals/hospital-wide-hazards/workplace-violence
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: Occupational Safety and Health Administration
+Category: Find an Expert
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/
+
+Resource: Personal protective equipment
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000447.htm
+
+Resource: Occupational Health for Health Care Providers
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%28+%22Occupational+Health%22%5Bmajr%5D+OR+%22Occupational+Exposure%22%5Bmajr%5D+%29+AND+%22Health+Occupations%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Questions about Personal Protective Equipment (PPE)
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/questions-about-personal-protective-equipment-ppe
+
+Resource: Safe Patient Handling
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/healthcare/safe-patient-handling
+
+Resource: Slip, Trip and Fall Prevention for Healthcare Workers
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/docs/2011-123/default.html
+
+Resource: Surgical Suite
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/hospitals/surgical-suite
+
+Resource: Vaccines for Health Care Workers
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/who-and-when/health-care-workers/index.html
+
+Resource: Worker Safety in Hospitals
+Category: Statistics and Research
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/hospitals

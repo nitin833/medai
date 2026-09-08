@@ -1,0 +1,110 @@
+Title: Mobility Aids
+
+Also Called:
+- Ambulation devices
+
+Summary:
+What are mobility aids?
+Mobility aids help you walk or move from place to place if you have a
+disability
+or an injury.
+Types of mobility aids can include:
+Crutches
+Canes
+Walkers
+Wheelchairs
+Motorized scooters
+Prostheses, a device to replace a missing part of your body or make part of your body work better, such as a leg
+Ramps, stairlifts, and handrails are also mobility aids. These additions can help you safely move around your environment.
+Who might benefit from mobility aids?
+Mobility aids can help people who have a physical disability or trouble moving around be more independent. A few reasons a mobility aid might help you include:
+If you are at
+risk of falling
+or are healing from a lower-body injury, you may need a walker or cane.
+You may use crutches to keep your body weight off your foot, ankle, or knee.
+You may need a wheelchair or a scooter if an injury or disease has left you unable to walk.
+Various mobility aids may also benefit people with certain health conditions or older adults.
+How do I choose a mobility aid?
+Your health care provider or a physical therapist may help you choose a mobility aid. Choosing these devices takes time and research. You might need good upper body strength or balance to use some mobility aids safely. Otherwise, they may not be the best choice for you. You should be fitted for some mobility aids such as crutches, canes, and walkers. If they fit, these devices give you support, but they can be uncomfortable and unsafe if they don't.
+
+Groups:
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Self-Help Devices
+
+Related Resources:
+
+Resource: Choosing the Right Cane or Walker
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-choosing-right-cane-or-walker
+
+Resource: ClinicalTrials.gov: Self-Help Devices
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Self-Help+Devices%22&aggFilters=status:not%20rec
+
+Resource: Crutch Use
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/crutch-use
+
+Resource: Crutches and children - proper fit and safety tips
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000640.htm
+
+Resource: Crutches and children - sitting and getting up from a chair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000642.htm
+
+Resource: Crutches and children - stairs
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000643.htm
+
+Resource: Crutches and children - standing and walking
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000641.htm
+
+Resource: Durable Medical Equipment (DME) Coverage
+Category: Specifics
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/durable-medical-equipment-dme-coverage
+
+Resource: Eldercare at Home: Mobility Problems
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/caregiver-guide-mobility-problems
+
+Resource: Gardening from a Wheelchair
+Category: Related Issues
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/health/staying-active/gardening-from-a-wheelchair/
+
+Resource: Home Modifications
+Category: Specifics
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/Home_Modification.pdf
+
+Resource: National Institute on Disability, Independent Living, and Rehabilitation Research
+Category: Find an Expert
+Organization: Administration for Community Living
+URL: https://acl.gov/about-acl/about-national-institute-disability-independent-living-and-rehabilitation-research
+
+Resource: Mobility Aids
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Self-Help+Devices%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D++
+
+Resource: Using a cane
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000343.htm
+
+Resource: Wheelchairs For Spinal Cord Injuries
+Category: Specifics
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/lifestyle/wheelchairs/

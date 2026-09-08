@@ -1,0 +1,61 @@
+Title: Gaucher Disease
+
+Summary:
+Gaucher disease is a rare, inherited disorder. It is a type of
+lipid metabolism disorder
+. If you have it, you do not have enough of an enzyme called glucocerebrosidase.  This causes too much of a fatty substance to build up in your spleen, liver, lungs, bones and, sometimes, your brain. This prevents these organs from working properly.
+There are three types:
+Type 1, the most common form, causes liver and spleen enlargement, bone pain and
+fractures
+(broken bones), and, sometimes,
+lung
+and
+kidney
+problems. It does not affect the brain. It can occur at any age.
+Type 2, which causes severe brain damage, appears in infants. Most children who have it die by age 2.
+In type 3, there may be liver and spleen enlargement. The brain is gradually affected. It usually starts in childhood or adolescence.
+Gaucher disease has no cure. Treatment options for types 1 and 3 include medicine and enzyme replacement therapy, which is usually very effective. There is no good treatment for the brain damage of types 2 and 3.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Genetics/Birth Defects
+- Metabolic Problems
+
+MeSH Headings:
+- Gaucher Disease
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Gaucher Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Gaucher+Disease%22&aggFilters=status:not%20rec
+
+Resource: Gaucher disease
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000564.htm
+
+Resource: Gaucher Disease and Pregnancy
+Category: Learn More
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/gaucher-disease-pregnancy/
+
+Resource: Gaucher disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gaucher-disease
+
+Resource: Learning about Gaucher Disease
+Category: Learn More
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Gaucher-Disease
+
+Resource: Lipid Storage Diseases
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lipid-storage-diseases
+
+Resource: Gaucher Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Gaucher+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

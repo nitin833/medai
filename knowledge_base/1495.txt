@@ -1,0 +1,166 @@
+Title: Parenting
+
+Summary:
+If you're a parent, you get plenty of suggestions on how to raise your child. From experts to other parents, people are always ready to offer advice. Parenting tips, parents' survival guides, dos, don'ts, shoulds and shouldn'ts - new ones come out daily.
+The truth is there is more than one "right" way to be a good parent. Good parenting includes:
+Keeping your child safe
+Showing affection and listening to your child
+Providing order and consistency
+Setting and enforcing limits
+Spending time with your child
+Monitoring your child's friendships and activities
+Leading by example
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Children and Teenagers
+- Social/Family Issues
+
+MeSH Headings:
+- Parenting
+
+Related Resources:
+
+Resource: "Perfect" Parent Myth
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/A-Perfect-Parent.aspx
+
+Resource: Adoption and Foster Care
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/adoption-and-foster-care/Pages/default.aspx
+
+Resource: ClinicalTrials.gov: Parenting
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Parenting%22&aggFilters=status:not%20rec
+
+Resource: Constantly Connected: How Media Use Can Affect Your Child
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/Media/Pages/adverse-Effects-of-Television-Commercials.aspx
+
+Resource: Delving Into Devices: Children and Screen Time
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/02/delving-into-devices
+
+Resource: Essentials for Parenting Teens
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parenting-teens/about/index.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: How to Talk with Kids about Tragedies and Other Traumatic News Events
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/Media/Pages/talking-to-children-about-tragedies-and-other-news-events.aspx
+
+Resource: Importance of Family Routines
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/pages/The-Importance-of-Family-Routines.aspx
+
+Resource: Kids and Media Use: How to Build Healthy Habits
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tv-habits.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Nine Steps to More Effective Parenting
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nine-steps.html
+
+Resource: Parenting a Child Who Has Been Sexually Abused: A Guide for Foster and Adoptive Parents
+Category: Specifics
+Organization: Children's Bureau
+URL: https://cwlibrary.childwelfare.gov/discovery/delivery/01CWIG_INST:01CWIG/1218593380007651
+
+Resource: Parenting Teens: Guiding Kids Through Turbulent Years
+Category: Teenagers
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2019/06/parenting-teens
+
+Resource: Parenting Your Adopted Teenager
+Category: Teenagers
+Organization: Children's Bureau
+URL: https://cwlibrary.childwelfare.gov/discovery/delivery/01CWIG_INST:01CWIG/1218709090007651
+
+Resource: Positive Parenting: Building Healthy Relationships with Your Kids
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/07/positive-parenting
+
+Resource: Power of Peers: Who Influences Your Health?
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/09/power-peers
+
+Resource: Parenting
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Parenting%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex Education: Talking to Your Teen about Sex
+Category: Teenagers
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/sexual-health/in-depth/sex-education/art-20044034?p=1
+
+Resource: Shape Your Family's Habits: Helping Kids Make Healthy Choices
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/07/shape-your-family-s-habits
+
+Resource: Share Your Values
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Share-Your-Values.aspx
+
+Resource: Talk to Your Kids about Sex and Healthy Relationships
+Category: Patient Handouts, Specifics
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/healthy-living/sexual-health/talk-your-kids-about-sex-and-healthy-relationships
+
+Resource: Talk to Your Kids about Tobacco, Alcohol, and Drugs
+Category: Patient Handouts, Specifics
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/healthy-living/mental-health-and-relationships/talk-your-kids-about-tobacco-alcohol-and-drugs
+
+Resource: Talking to Kids About Race and Racism
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/talk-about-race.html
+
+Resource: Talking to your teen about drinking
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000505.htm
+
+Resource: Teaching Your Child Self-Control
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/self-control.html
+
+Resource: Time outs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000756.htm
+
+Resource: When To Let Your Teenager Start Dating
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/teen/dating-sex/pages/when-to-let-your-teenager-start-dating.aspx
+
+Resource: Your Child's Self-Esteem
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/self-esteem.html

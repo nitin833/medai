@@ -1,0 +1,288 @@
+Title: Cáncer en niños
+
+Also Called:
+- Cáncer en la niñez
+- Cáncer pediátrico
+
+Summary:
+El cáncer es un grupo de enfermedades relacionadas. En todos los tipos de cáncer, algunas de las células del cuerpo comienzan a dividirse sin detenerse, extendiéndose a los tejidos cercanos.
+En general, se forman nuevas células a medida que se necesitan, reemplazando las células viejas que mueren. A veces, este proceso no resulta como se espera. Se forman nuevas células cuando no las necesita, y las células viejas no mueren cuando deberían. Las células adicionales pueden formar un tumor. Los tumores pueden ser benignos o malignos. Los
+tumores benignos
+no son cancerosos. Los tumores malignos son cáncer, y las células cancerosas pueden invadir tejidos cercanos. También pueden separarse y extenderse a otras partes del cuerpo.
+Los niños pueden tener cáncer en las mismas partes del cuerpo que los adultos, pero hay diferencias. El cáncer infantil puede ocurrir repentinamente, sin síntomas tempranos. Frecuentemente, algunos tipos se pueden curar. El cáncer infantil más común es la
+leucemia
+. Algunos de los otros tipos comunes de cáncer en niños incluyen
+tumores cerebrales
+,
+linfoma
+y
+sarcoma del tejido blando
+.
+Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzado que esté. Los tratamientos pueden incluir:
+Cirugía
+Radioterapia
+Quimioterapia
+Trasplante de células madre
+Terapia dirigida: Esta usa medicamentos u otras sustancias para combatir células cancerosas específicas con menor daño a las células normales
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Niños y adolescentes
+
+Related Resources:
+
+Resource: Adolescentes y adultos jóvenes con cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/adolescentes-adultos-jovenes
+
+Resource: Afrontar el cáncer
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/deal-with-cancer.html
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/extracraneal-celulas-germinativas/paciente/tratamiento-celulas-germinativas-pdq#_50
+
+Resource: Avances en el cáncer infantil
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/avances-en-el-cancer-infantil
+
+Resource: Carcinoma de corteza suprarrenal infantil
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/suprarrenal/infantil
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Centros oncológicos para niños
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000841.htm
+
+Resource: Consumo de calorías adicionales cuando los niños estén enfermos
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000034.htm
+
+Resource: Cuando el tratamiento contra el cáncer de su hijo deja de funcionar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000852.htm
+
+Resource: Cuidados de supervivencia para niños
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/supervivencia/infancia
+
+Resource: Cáncer en la infancia (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cancer.html
+
+Resource: Cáncer en niños y adolescentes
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/hoja-informativa-ninos-adolescentes
+
+Resource: Cáncer infantil
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cancer-infantil.html
+
+Resource: Cáncer: Aspectos fundamentales
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/cancer.html
+
+Resource: Cánceres infantiles
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil
+
+Resource: Cánceres raros de abdomen (cánceres poco comunes en la niñez)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_61
+
+Resource: Cánceres raros de aparato reproductor y sistema urinario (cánceres poco comunes en la niñez)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_64
+
+Resource: Cánceres raros de cabeza y cuello
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_55
+
+Resource: Cánceres raros de tórax (cánceres raros en la niñez)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_58
+
+Resource: Cómo afrontar los efectos estéticos del tratamiento del cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cosmetic-effects.html
+
+Resource: Cómo ayudar a su hijo a entender un diagnóstico de cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000844.htm
+
+Resource: Cómo buscar apoyo cuando su hijo tiene cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000843.htm
+
+Resource: Cómo mantener sano a su hijo durante la remisión del cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/in-remission.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Diferencias entre el cáncer en niños y en adultos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000845.htm
+
+Resource: Efectos del tratamiento contra el cáncer sobre la fertilidad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cancer-fertility.html
+
+Resource: Efectos secundarios de la quimioterapia y la radioterapia (para padres)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/side-effects.html
+
+Resource: Efectos tardíos del tratamiento anticanceroso en la niñez
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/efectos-tardios-pdq
+
+Resource: Estadios de los tumores extracraneales de células germinativas en la niñez
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/extracraneal-celulas-germinativas/paciente/tratamiento-celulas-germinativas-pdq#_26
+
+Resource: Esteroides para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/steroid-treatment.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Guía para ayudar a los niños a entender el cáncer
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000921.htm
+
+Resource: Información general sobre los cánceres raros en la niñez
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_1
+
+Resource: Información general sobre los tumores extracraneales de células germinativas en la niñez
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/extracraneal-celulas-germinativas/paciente/tratamiento-celulas-germinativas-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Ir a la escuela durante el tratamiento del cáncer y después de él
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cancer-infantil/ir-a-la-escuela-durante-el-tratamiento-del-cancer-y-despues.html
+
+Resource: Otros cánceres raros en la niñez
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/paciente/canceres-infantiles-raros-pdq#_67
+
+Resource: Papás que tienen a un niño con cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/apoyo-a-quien-cuida/padres
+
+Resource: Preguntas para el médico de su hijo sobre el cáncer
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000922.htm
+
+Resource: Prevención del cáncer empieza en la niñez
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/cancer-prevention-starts-in-childhood.html
+
+Resource: Quimioterapia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/chemo.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Rabdomiosarcoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001429.htm
+
+Resource: Radioterapia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/radiation.html
+
+Resource: Riesgos a largo plazo del tratamiento para el cáncer infantil
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000849.htm
+
+Resource: Salud de los huesos después del tratamiento contra el cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bones-after-cancer.html
+
+Resource: Síndrome de Li-Fraumeni
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11860/sindrome-de-li-fraumeni/
+
+Resource: Tipos de cáncer
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos
+
+Resource: ¿Qué es el cáncer?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/cancer.html

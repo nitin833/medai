@@ -1,0 +1,259 @@
+Title: Health Occupations
+
+Also Called:
+- Health careers
+- Health professions
+- Medical occupations
+- Medical professions
+
+Summary:
+Every day, around the clock, people who work in the health care industry provide care for millions of people, from newborns to the very ill. In fact, the health care industry is one of largest providers of jobs in the United States. Many health jobs are in hospitals. Others are in nursing homes, doctors' offices, dentists' offices, outpatient clinics and laboratories.
+To work in a health occupation, you often must have special training.  Some, like doctors, must have more than 4 years of college.
+Bureau of Labor Statistics
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Health Occupations
+
+Related Resources:
+
+Resource: Audiologists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Audiologists.htm
+
+Resource: Biochemists and Biophysicists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Life-Physical-and-Social-Science/Biochemists-and-biophysicists.htm
+
+Resource: Biological Technicians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Biological-technicians.htm
+
+Resource: Chiropractors
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Chiropractors.htm
+
+Resource: Clinical Laboratory Technologists and Technicians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/healthcare/clinical-laboratory-technologists-and-technicians.htm
+
+Resource: Dental Assistants
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Dental-assistants.htm
+
+Resource: Dental Hygienists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Dental-hygienists.htm
+
+Resource: Dentists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Dentists.htm
+
+Resource: Diagnostic Medical Sonographers and Cardiovascular Technologists and Technicians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Diagnostic-medical-sonographers.htm
+
+Resource: Dietitians and Nutritionists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Dietitians-and-nutritionists.htm
+
+Resource: Emergency Medical Technicians (EMTs) and Paramedics
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/EMTs-and-paramedics.htm
+
+Resource: Exercise Physiologists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm
+
+Resource: Find an Endocrinologist
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Health Care Providers: Nurses
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hcp-nursing.html
+
+Resource: Health Education Specialists and Community Health Workers
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/community-and-social-service/health-educators.htm
+
+Resource: Home Health and Personal Care Aides
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm
+
+Resource: Massage Therapists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/healthcare/massage-therapists.htm
+
+Resource: Medical and Health Services Managers
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Management/Medical-and-health-services-managers.htm
+
+Resource: Medical Assistants
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Medical-assistants.htm
+
+Resource: Medical Records Specialists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Medical-records-and-health-information-technicians.htm
+
+Resource: Medical Scientists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Life-Physical-and-Social-Science/Medical-scientists.htm
+
+Resource: Medical Transcriptionists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Medical-transcriptionists.htm
+
+Resource: National Institute of Nursing Research
+Category: Find an Expert
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/
+
+Resource: Nursing Assistants and Orderlies
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Nursing-assistants.htm
+
+Resource: Nursing: Licensed Practical and Licensed Vocational Nurses
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Licensed-practical-and-licensed-vocational-nurses.htm
+
+Resource: Nursing: Registered Nurses
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Registered-nurses.htm
+
+Resource: Occupational Outlook Handbook: Healthcare Occupations
+Category: Start Here
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/healthcare/home.htm
+
+Resource: Occupational Therapist Assistants and Aides
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Occupational-therapy-assistants-and-aides.htm
+
+Resource: Opticians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Opticians-dispensing.htm
+
+Resource: Optometrists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Optometrists.htm
+
+Resource: Pharmacists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Pharmacists.htm
+
+Resource: Pharmacy Technicians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Pharmacy-technicians.htm
+
+Resource: Physical Therapist Assistants and Aides
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Physical-therapist-assistants-and-aides.htm
+
+Resource: Physical Therapists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Physical-therapists.htm
+
+Resource: Physician Assistants
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Physician-assistants.htm
+
+Resource: Physicians and Surgeons
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Physicians-and-surgeons.htm
+
+Resource: Podiatrists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Podiatrists.htm
+
+Resource: Psychologists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Life-Physical-and-Social-Science/Psychologists.htm
+
+Resource: Health Occupations
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Health+Occupations%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recreational Therapists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Recreational-therapists.htm
+
+Resource: Respiratory Therapists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Respiratory-therapists.htm
+
+Resource: Social and Human Service Assistants
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Community-and-Social-Service/Social-and-human-service-assistants.htm
+
+Resource: Surgical Assistants and Technologists
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Surgical-technologists.htm
+
+Resource: Types of health care providers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001933.htm
+
+Resource: Veterinarians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://stats.bls.gov/ooh/Healthcare/Veterinarians.htm
+
+Resource: Veterinary Technologists and Technicians
+Category: Specifics
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/ooh/Healthcare/Veterinary-technologists-and-technicians.htm
+
+Resource: What Is a Gastroenterologist?
+Category: Specifics
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/gi-health-and-disease/what-is-a-gastroenterologist/
+
+Resource: What Is an Ophthalmologist?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/what-is-ophthalmologist

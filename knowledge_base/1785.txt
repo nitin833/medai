@@ -1,0 +1,265 @@
+Title: Enfermedades del cerebro
+
+Also Called:
+- Enfermedades cerebrales
+
+Summary:
+El cerebro es el centro de control del cuerpo. Controla sus pensamientos, memoria, habla y movimiento. Regula la función de muchos órganos. Es parte del sistema nervioso, que también incluye la médula espinal y los nervios periféricos. El sistema nervioso envía señales entre el cerebro y el resto del cuerpo. Sus nervios registran información de sus sentidos y la envían a su cerebro para ser procesada. Su cerebro y sus nervios también se comunican para ayudarle a moverse y controlar las funciones del cuerpo.
+Cuando el cerebro está sano, funciona de forma rápida y automática. Pero cuando tiene una enfermedad cerebral, puede afectar qué tan bien puede funcionar y realizar sus actividades diarias. Algunas enfermedades cerebrales comunes incluyen:
+Tumores cerebrales
+: Pueden ejercer presión sobre los nervios y afectar la función cerebral
+Enfermedades neurodegenerativas
+: Pueden afectar muchas de las actividades del cuerpo, como el
+equilibrio
+, el
+movimiento
+, el
+habla
+, la
+respiración
+y la función del corazón. Los tipos incluyen la
+enfermedad de Alzheimer
+y el
+Parkinson
+Encefalitis
+(inflamación del cerebro): Puede provocar problemas como
+pérdida de la visión
+, debilidad y
+parálisis
+Trastornos cerebrales genéticos
+: Son causados por cambios en los genes (también llamados variantes o mutaciones). Estos trastornos pueden afectar el desarrollo y la función del cerebro
+Accidentes cerebrovasculares
+: Pueden provocar la pérdida de células cerebrales y afectar la capacidad para pensar con claridad
+Lesiones cerebrales traumáticas
+: Pueden afectar la función cerebral. Pueden variar de leves a graves. Los efectos de una lesión cerebral traumática pueden ser temporales o permanentes
+Los síntomas de las enfermedades cerebrales varían ampliamente, dependiendo del problema específico. En algunos casos, el daño es permanente. En otros casos, tratamientos como cirugía, medicamentos o terapias como terapia física, ocupacional y del habla pueden curar la enfermedad o mejorar los síntomas.
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Absceso cerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000783.htm
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Angiopatía amiloide cerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000719.htm
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Atetosis que resulta de la lesión de los ganglios basales
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000007.htm
+
+Resource: Aumento de la presión intracraneal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000793.htm
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Cerebro y sistema nervioso (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/brain.html
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Componentes del cerebro
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000016.htm
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Degeneración hepatocerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001393.htm
+
+Resource: Disfunción de los ganglios basales
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001069.htm
+
+Resource: Disfunción hipotalámica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001202.htm
+
+Resource: Ecografía: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-head.html
+
+Resource: El cerebro y el sistema nervioso
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/brain-nervous-system.html
+
+Resource: Electroencefalograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003931.htm
+
+Resource: Encefalopatía hepática
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000302.htm
+
+Resource: Encefalopatía hepática
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/enfermedades-del-HIGADO/complicaciones-de-la-enfermedad-hep%C3%A1tica/encefalopat%C3%ADa-hep%C3%A1tica/
+
+Resource: Examen neurológico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-neurologico/
+
+Resource: Fontanelas abultadas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003310.htm
+
+Resource: Hematoma subdural
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000713.htm
+
+Resource: Hemorragia intraventricular del recién nacido
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007301.htm
+
+Resource: Hipertensión intracraneal idiopática
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000351.htm
+
+Resource: Hipoxia cerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001435.htm
+
+Resource: Kuru
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001379.htm
+
+Resource: Lesiones cerebrales
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/brain-lesions/basics/definition/sym-20050692?p=1
+
+Resource: Leucoencefalopatía multifocal progresiva
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000674.htm
+
+Resource: Leucomalacia periventricular
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007232.htm
+
+Resource: Neurociencias
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007456.htm
+
+Resource: Prueba de amoníaco en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003506.htm
+
+Resource: Radiografía de cráneo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003802.htm
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: Seudotumor cerebri
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12324/seudotumor-cerebri/
+
+Resource: Sistema nervioso
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/brain-nervous-system.html
+
+Resource: Síndrome de desmielización osmótica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000775.htm
+
+Resource: Síndrome de Wernicke-Korsakoff
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional sobre el Abuso de Alcohol y Alcoholismo
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/el-sindrome-de-wernicke-korsakoff
+
+Resource: Síndrome de Wernicke-Korsakoff
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000771.htm
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: Tomografía computada: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ct-head.html
+
+Resource: Tomografía computarizada de la cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003786.htm
+
+Resource: Tomografía por emisión de positrones (TEP) del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007341.htm

@@ -1,0 +1,122 @@
+Title: Personal Health Records
+
+Also Called:
+- Electronic health records
+- Patient health record
+
+Summary:
+You've probably seen your chart at your doctor's office. In fact, you may have charts at several doctors' offices.  If you've been in the hospital, you have a chart there, too. These charts are your medical records. They may be on paper or electronic. To keep track of all this information, it's a good idea to keep your own personal health record.
+What kind of information would you put in a personal health record? You could start with:
+Your name, birth date, blood type, and emergency contact information
+Date of last physical
+Dates and results of tests and screenings
+Major illnesses and surgeries, with dates
+A list of your medicines and supplements, the dosages, and how long you've taken them
+Any allergies
+Any chronic diseases
+Any history of illnesses in your family
+
+Groups:
+- Social/Family Issues
+- Health System
+- Personal Health Issues
+
+MeSH Headings:
+- Health Records, Personal
+- Meaningful Use
+
+Related Resources:
+
+Resource: All About Your Radiology Report: What to Know
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/all-about-your-radiology-report
+
+Resource: ClinicalTrials.gov: Electronic Health Records
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Electronic+Health+Records%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Health Records, Personal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Personal+Health+Records%22&aggFilters=status:not%20rec
+
+Resource: Creating a Personal Health Journal (Health Diary)
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/creating-a-personal-health-journal-health-diary/
+
+Resource: Department of Health and Human Services, Office for Civil Rights
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/ocr/index.html
+
+Resource: Does the HIPAA Privacy Rule Allow Parents the Right to See Their Children's Medical Records?
+Category: Children
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/hipaa/for-professionals/faq/227/can-i-access-medical-record-if-i-have-power-of-attorney/index.html
+
+Resource: Electronic Health Records
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ehr.html
+
+Resource: FastStats: Electronic Health Records (EHRs)
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/electronic-health-records.htm
+
+Resource: Health Information Privacy: HIPAA for Individuals
+Category: Start Here
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/hipaa/for-individuals/index.html
+
+Resource: Health Information Privacy: Research
+Category: Related Issues
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/hipaa/for-professionals/special-topics/research/index.html
+
+Resource: How to Keep Your Health Information Private and Secure
+Category: Related Issues
+Organization: Office of the National Coordinator for Health Information Technology
+URL: https://healthit.gov/wp-content/uploads/2025/06/ASTP_Health_information_private_and_secure_Fact-sheet-508.pdf
+
+Resource: Individuals Use of Technology to Track Health Care Charges and Costs
+Category: Statistics and Research
+Organization: Office of the National Coordinator for Health Information Technology
+URL: https://healthit.gov/data/quickstats/individuals-use-technology-track-health-care-charges-and-costs/
+
+Resource: Office-Based Physician Electronic Health Record Adoption
+Category: Statistics and Research
+Organization: Office of the National Coordinator for Health Information Technology
+URL: https://healthit.gov/data/quickstats/office-based-physician-electronic-health-record-adoption/
+
+Resource: Patient portals - an online tool for your health
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000880.htm
+
+Resource: Personal Health Records
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Health+Records%2C+Personal%22%5Bmajr%3Anoexp%5D+OR+%22Meaningful+Use%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: The Guide to Getting and Using Your Health Records
+Category: Related Issues
+Organization: Office of the National Coordinator for Health Information Technology
+URL: https://healthit.gov/get-it-check-it-use-it/
+
+Resource: Viewing Clinical Notes in Your Child's Electronic Medical Record
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/clinical-notes.html
+
+Resource: Your Health Information Privacy
+Category: Related Issues
+Organization: Office of the National Coordinator for Health Information Technology
+URL: https://healthit.gov/privacy-security/your-health-information-privacy/
+
+Resource: Your Medical Records
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/medical-records.html

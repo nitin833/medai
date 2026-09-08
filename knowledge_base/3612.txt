@@ -1,0 +1,165 @@
+Title: School Health
+
+Summary:
+Your child spends more time at school than anywhere else except home. Schools can have a major effect on children's health. Schools can teach children about health, and promote healthy behaviors. Physical education classes give children a chance to get exercise.
+Schools work to:
+Prevent risky behaviors such as
+alcohol
+and
+tobacco
+use or
+bullying and cyberbullying
+Encourage healthy habits like exercise and healthy eating
+Deal with specific health problems in students, such as
+asthma
+,
+obesity
+and infectious diseases
+The school building and environment should be a safe and healthy place for your child.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- School Health Services
+
+Related Resources:
+
+Resource: 10 Ways to Help Your Child Succeed in Elementary School
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/school-help-elementary.html
+
+Resource: 4 Ways to Make Homework Easier
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/homework.html
+
+Resource: About School Violence
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/youth-violence/about/about-school-violence.html
+
+Resource: Adolescent and School Health
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-youth/
+
+Resource: Adolescent and School Health: Data and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-youth/data-statistics/index.html
+
+Resource: Asthma Factsheet (for Schools)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/asthma-factsheet.html
+
+Resource: Back to School
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/back-to-school.html
+
+Resource: Backpack Basics
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/backpack.html
+
+Resource: Backpack Safety
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/backpack.html
+
+Resource: Can People with Asthma Play Sports?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/asthma-sports.html
+
+Resource: Food Allergies in Schools
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/school-health-conditions/food-allergies/
+
+Resource: Going Back to School After a Concussion
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/school-concussions.html
+
+Resource: Health Problems at School
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/gradeschool/school/pages/Health-Problems-at-School.aspx
+
+Resource: Healthy School Environments
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/schools
+
+Resource: Healthy Schools
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-schools/about/
+
+Resource: Helping the Student with Diabetes Succeed: A Guide for School Personnel
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/diabetes/helping-student-diabetes-succeed-guide-school-personnel
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Mold and Indoor Air Quality in Schools
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/mold/mold-and-indoor-air-quality-schools
+
+Resource: Playground Safety (For Parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/playground.html
+
+Resource: School Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22School+Health+Services%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Reducing the Spread of Illness in Child Care
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/prevention/pages/Prevention-In-Child-Care-or-School.aspx
+
+Resource: Report on Indicators of School Crime and Safety: 2023
+Category: Statistics and Research
+Organization: Department of Education
+URL: https://nces.ed.gov/pubs2024/2024145.pdf
+
+Resource: School and Diabetes
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/school-diabetes.html
+
+Resource: School Refusal
+Category: Related Issues
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/School-Refusal-007.aspx
+
+Resource: School Violence: What Students Can Do
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/school-violence.html
+
+Resource: See, Hear, Speak: Are Kids' Senses Ready for School?
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/07/see-hear-speak
+
+Resource: Test-Taking Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/testing-tips.html
+
+Resource: Youth Risk Behavior Surveillance System
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yrbs/

@@ -1,0 +1,113 @@
+Title: Enanismo
+
+Summary:
+Las personas con enanismo tienen baja estatura. Esto significa que su altura es menor a 4'10" (cerca de 1.25 metro) como adulto. Usualmente tienen una inteligencia normal. El enanismo a menudo ocurre en familias donde ambos padres son de estatura promedio.
+Más de 300 afecciones diferentes pueden causar enanismo. La acondroplasia es el tipo más común de enanismo. Es un problema genético que afecta aproximadamente entre una en 15,000 a una en 40,000 personas. Hace que sus brazos y piernas sean cortos en comparación con su cabeza y tronco. También puede tener una cabeza más grande y un tono muscular débil. Otras afecciones genéticas, enfermedad renal y problemas con el metabolismo u hormonas también pueden causar enanismo.
+Las afecciones que causan enanismo también pueden causar otros problemas de salud. La mayoría de ellos son tratables. Es importante tener chequeos regulares a lo largo de su vida. Con la atención médica adecuada, la mayoría de las personas con enanismo tienen vidas activas y viven tanto como otras personas.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Genética y defectos congénitos
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Acondrogénesis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001247.htm
+
+Resource: Acondroplasia
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12001/acondroplasia/
+
+Resource: Acondroplasia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001577.htm
+
+Resource: Acondroplasia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/achondroplasia.html
+
+Resource: Acondroplasia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/acondroplasia.aspx
+
+Resource: Disostosis espondilotorácica (síndrome de Jarcho-Levin)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12288/disostosis-espondilotoracica/
+
+Resource: Displasia campomélica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/campomelic-dysplasia.html
+
+Resource: Displasia de Ellis-Van Creveld
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ellis-dysplasia.html
+
+Resource: Displasia de Kniest
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/kniest-dysplasia.html
+
+Resource: Displasia diastrófica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diastrophic-dysplasia.html
+
+Resource: Displasia espondiloepifisaria congénita
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sedc-dysplasia.html
+
+Resource: Enanismo
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dwarfism/symptoms-causes/syc-20371969?p=1
+
+Resource: Enanismo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/dwarfism.html
+
+Resource: Enanismo (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/dwarfism.html
+
+Resource: Enanismo primordial
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/primordial-dwarfism.html
+
+Resource: Hipocondroplasia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hypochondroplasia.html
+
+Resource: Hipocondroplasia
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12423/hipocondroplasia/
+
+Resource: Pruebas genéticas (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/genetics.html
+
+Resource: Síndrome de Desbuquois
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11870/sindrome-de-desbuquois/
+
+Resource: Síndrome de Ellis van Creveld
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001667.htm

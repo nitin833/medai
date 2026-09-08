@@ -1,0 +1,165 @@
+Title: COVID-19 Vaccines
+
+Summary:
+COVID-19
+(coronavirus disease 2019) is an illness caused by a virus. This virus is a coronavirus called SARS-CoV-2. Most people with COVID-19 have mild symptoms, but some people become very sick. You can protect yourself by getting a COVID-19 vaccine. The vaccines might help keep you from getting sick from COVID-19. And if you do get sick, the vaccines can reduce your risk for:
+Needing to go to urgent care or the emergency room
+Getting severe illness
+Being hospitalized
+Dying
+Getting
+long COVID
+It's important to stay up to date with the COVID-19 vaccines. Contact your health care provider if you don't know when you need another vaccine or if you have other questions about the vaccines.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Immune System
+
+MeSH Headings:
+- COVID-19 Vaccines
+
+Related Resources:
+
+Resource: All in the Spike: How Past Virus Research Gave a Head Start to the COVID-19 Vaccine
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/all-in-the-spike-how-past-virus-research-gave-a-head-start-to-the-covid-19-vaccine
+
+Resource: Bivalent Boosters Block Severe COVID-19
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/03/bivalent-boosters-block-severe-covid-19
+
+Resource: Can Kids Get a COVID-19 Vaccine, Flu Vaccine, and RSV Shot at the Same Time?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/covid-flu-vaccines.html
+
+Resource: ClinicalTrials.gov: COVID-19 Vaccines
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22COVID-19+Vaccines%22&aggFilters=status:not%20rec
+
+Resource: Coronavirus Disease 2019 (COVID-19) Vaccine Safety
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/vaccines/covid-19.html
+
+Resource: COVID-19 Vaccination for People Who Are Pregnant or Breastfeeding
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/pregnant-or-breastfeeding.html
+
+Resource: COVID-19 Vaccinations in the United States
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://covid.cdc.gov/covid-data-tracker/#vaccinations
+
+Resource: COVID-19 Vaccine (Moderna)
+Category: Specifics
+Organization: American Society of Health-System Pharmacists
+URL: https://medlineplus.gov/druginfo/meds/a621002.html
+
+Resource: COVID-19 Vaccine (Pfizer-BioNTech)
+Category: Specifics
+Organization: American Society of Health-System Pharmacists
+URL: https://medlineplus.gov/druginfo/meds/a621003.html
+
+Resource: COVID-19 Vaccine (Topic Center)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/center/vaccine.html
+
+Resource: COVID-19 Vaccine Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/how-they-work.html
+
+Resource: COVID-19 Vaccines
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/
+
+Resource: COVID-19 vaccines
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007775.htm
+
+Resource: Covid-19 Vaccines for Moderately to Severely Immunocompromised People
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/immunocompromised-people.html
+
+Resource: COVID-19 Vaccines Not Linked With Fertility Issues
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/03/covid-19-vaccines-not-linked-fertility-issues
+
+Resource: COVID-19 Vaccines: Get the Facts
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-vaccine/art-20484859?p=1
+
+Resource: COVID-19: Questions and Answers about Vaccines
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/covid-vaccines.html
+
+Resource: Getting Your COVID-19 Vaccine
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/getting-your-covid-19-vaccine.html
+
+Resource: Moderna COVID-19 Vaccine Fact Sheet for Recipients and Caregivers
+Category: Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/167209/download
+
+Resource: Novavax COVID-19 Vaccine, Adjuvanted EUA Fact Sheet
+Category: Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/159898/download
+
+Resource: Pfizer-BioNTech COVID-19 Vaccine Fact Sheet for Recipients and Caregivers
+Category: Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/167212/download
+
+Resource: COVID-19 Vaccines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22COVID-19+Vaccines%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Staying Up to Date with COVID-19 Vaccines
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/stay-up-to-date.html
+
+Resource: Vaccine Adverse Event Reporting System (VAERS)
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://vaers.hhs.gov/
+
+Resource: Vaccines & Antibiotics: A Safe Combo?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vaccines-and-antibiotics.html
+
+Resource: Vaccines Protect Your Community
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/basics/work/protection/index.html
+
+Resource: What are mRNA vaccines and how do they work?: MedlinePlus Genetics
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/
+
+Resource: What is in a Vaccine: Vaccine Ingredients and Safety
+Category: Videos and Tutorials
+Organization: National Institutes of Health
+URL: https://www.nlm.nih.gov/oet/ed/ceal/what-is-in-a-vaccine.html
+
+Resource: When Can Kids Get the Updated COVID Vaccine?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/COVID-19/Pages/when-can-kids-get-the-COVID-vaccine-or-booster.aspx

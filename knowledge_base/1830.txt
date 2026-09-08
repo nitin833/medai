@@ -1,0 +1,173 @@
+Title: Enfermedades del colon
+
+Also Called:
+- Enfermedades del intestino colon
+
+Summary:
+El colon, también llamado intestino grueso, es parte de su sistema digestivo. Es un tubo largo y hueco que se encuentra al final del sistema digestivo, en el cual el cuerpo produce y almacena las heces. Existen muchos trastornos que pueden afectar su capacidad para  funcionar adecuadamente. Entre ellos:
+Cáncer colorrectal
+Pólipos del colon
+: crecimientos de tejido en el colon que pueden hacerse cancerosos
+Colitis ulcerativa
+: úlceras en el colon y el recto
+Diverticulitis
+: inflamación o infección de pequeños sacos o divertículos en el colon
+Síndrome del intestino irritable
+: un cuadro molesto que causa cólicos abdominales y otros síntomas
+El tratamiento de las enfermedades de colon varía ampliamente dependiendo de la enfermedad y su severidad. Puede incluir dieta, medicinas y, en algunos casos, la cirugía.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta tras colectomía o proctocolectomía total
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000153.htm
+
+Resource: Alta tras resección del intestino grueso
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000151.htm
+
+Resource: Angiodisplasia del colon
+Category: Personas mayores, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000238.htm
+
+Resource: Angiografía mesentérica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003819.htm
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Colectomía abdominal total
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007379.htm
+
+Resource: Colitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001125.htm
+
+Resource: Colitis isquémica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/ischemic-colitis/symptoms-causes/syc-20374001?p=1
+
+Resource: Colitis microscópica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/microscopic-colitis/symptoms-causes/syc-20351478?p=1
+
+Resource: Colonoscopia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003886.htm
+
+Resource: Colonoscopia virtual
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007253.htm
+
+Resource: Colonoscopía: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/colonoscopy.html
+
+Resource: Colostomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100011_1.htm
+
+Resource: Cultivo de tejido colónico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003733.htm
+
+Resource: Enema opaco
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003817.htm
+
+Resource: Enfermedad de Hirschsprung
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001140.htm
+
+Resource: Enfermedad de Hirschsprung
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hirschsprung.html
+
+Resource: Fistula enterovesical
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12537/fistula-enterovesical/
+
+Resource: Gas: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/gas.html
+
+Resource: Isquemia e infarto intestinal pequeño
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001151.htm
+
+Resource: Isquemia intestinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/intestinal-ischemia/symptoms-causes/syc-20373946?p=1
+
+Resource: Megacolon tóxico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000248.htm
+
+Resource: Problemas anatómicos de la parte inferior del aparato digestivo
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/problemas-anatomicos-parte-inferior-del-aparato-digestivo
+
+Resource: Proctocolectomía total con ileostomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007381.htm
+
+Resource: Resección del intestino grueso
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002941.htm
+
+Resource: Resección del intestino grueso
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100089_1.htm
+
+Resource: Seudoobstrucción intestinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000253.htm
+
+Resource: Tránsito gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior
+
+Resource: ¿Limpieza de colon es una buena manera de eliminar las toxinas del cuerpo?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/consumer-health/expert-answers/colon-cleansing/faq-20058435?p=1

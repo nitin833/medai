@@ -1,0 +1,97 @@
+Title: Spider Bites
+
+Summary:
+Though many people are afraid of spiders, they rarely bite people unless threatened.  Most spider bites are harmless.  Occasionally, spider bites can cause allergic reactions. And bites by the venomous black widow and brown recluse spiders can be very dangerous to people.
+If you are bitten by a spider, you may see a reaction similar to that of a bee sting, including redness, pain and swelling at the site. To treat a spider bite:
+Wash the area well with soap and water
+Apply an ice pack or a wet compress to the area
+Take over-the-counter pain medicine, if needed
+Consider using antihistamines for severe swelling
+Seek medical treatment for small children and adults with severe symptoms
+
+Groups:
+- Injuries and Wounds
+
+MeSH Headings:
+- Spider Bites
+
+Related Resources:
+
+Resource: Black Widow Spider
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/BLACK_WIDOW_SPIDER.pdf
+
+Resource: Black widow spider
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002858.htm
+
+Resource: Brown Recluse Spider
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/BROWN_RECLUSE_SPIDER.pdf
+
+Resource: Brown recluse spider
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002859.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Spiders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spiders%22&aggFilters=status:not%20rec
+
+Resource: Funnel-web spider bite
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002844.htm
+
+Resource: Hey! A Black Widow Spider Bit Me!
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/black-widow.html
+
+Resource: Hey! A Brown Recluse Spider Bit Me!
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/brown-recluse.html
+
+Resource: Hey! A Chigger Bit Me!
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/chigger.html
+
+Resource: Spider Bites
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Spider+Bites%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D
+
+Resource: Spider Bites
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spider-bites/symptoms-causes/syc-20352371?p=1
+
+Resource: Spider Bites: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-spider-bites/basics/art-20056618?p=1
+
+Resource: Tarantula spider bite
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002855.htm
+
+Resource: Venomous Spiders at Work
+Category: Start Here
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/outdoor-workers/about/venomous-spiders.html
+
+Resource: What to Do about Spider Bites (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/spider-bites-sheet.html

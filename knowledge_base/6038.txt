@@ -1,0 +1,132 @@
+Title: Sangre
+
+Summary:
+La sangre es tejido vivo formado por líquidos y sólidos. La parte líquida, llamada plasma, contiene agua, sales y proteínas. Más de la mitad del cuerpo es plasma. La parte sólida de la sangre contiene glóbulos rojos, glóbulos blancos y plaquetas.
+Los glóbulos rojos suministran oxígeno desde los pulmones a los tejidos y órganos. Los glóbulos blancos combaten las infecciones y son parte del sistema inmunitario del cuerpo. Las plaquetas ayudan a la coagulación de la sangre cuando sufre un corte o una herida. La médula ósea, el material esponjoso dentro de los huesos, produce nuevas células sanguíneas. Las células de la sangre constantemente mueren y su cuerpo produce nuevas. Los glóbulos rojos viven unos 120 días y las plaquetas viven cerca de seis. Algunos glóbulos blancos de la sangre viven menos de un día, pero otros viven mucho más tiempo.
+Hay cuatro grupos de sangre: A, B, AB y O. Asimismo, la sangre es Rh positivo o Rh negativo. Así, si su tipo de sangre es A, es A positivo o A negativo. Su tipo de sangre es importante si necesita una
+transfusión de sangre
+. Y su factor de sangre puede ser importante si usted queda embarazada, ya que la
+incompatibilidad
+entre su tipo de sangre y el de su bebé puede crear problemas.
+Los análisis de sangre como las
+pruebas de conteo sanguíneo
+ayudan a los médicos a analizar ciertas enfermedades y afecciones. También ayudan a comprobar la función de los órganos y muestran qué tan bien están funcionando los tratamientos. Algunos
+problemas de la sangre
+pueden incluir
+problemas de coagulación
+,
+coágulos sanguíneos
+y
+desórdenes plaquetarios
+. Si pierde mucha sangre, usted puede necesitar una transfusión.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Acerca de la sangre
+Category: Comience aquí, Spanish/Español
+Organization: Cruz Roja Americana
+URL: https://www.redcrossblood.org/espanol/donar-sangre/acerca-de-la-sangre.html
+
+Resource: Análisis de sangre
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/analisis-de-sangre
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Conteo de glóbulos rojos
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003644.htm
+
+Resource: Conteo sanguíneo completo (CSC)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003642.htm
+
+Resource: Determinación del grupo sanguíneo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003345.htm
+
+Resource: Examen de sangre del cordón umbilical
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003403.htm
+
+Resource: Frotis de sangre
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003665.htm
+
+Resource: Grupos sanguíneos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/blood-types.html
+
+Resource: Introducción a la sangre
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/biolog%C3%ADa-de-la-sangre/introducci%C3%B3n-a-la-sangre
+
+Resource: La sangre
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/blood.html
+
+Resource: Lo que usted debe saber sobre los análisis de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/lo-que-usted-debe-saber-sobre-los-analisis-de-sangre/
+
+Resource: Muestra capilar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003427.htm
+
+Resource: Más allá de los análisis básicos de sangre
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mas-alla-de-los-analisis-basicos-de-sangre
+
+Resource: Obtención de un análisis de sangre (adolescentes)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-bldtest.html
+
+Resource: Producción de glóbulos rojos
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000104.htm
+
+Resource: Pruebas y bancos de sangre del cordón umbilical
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-y-bancos-de-sangre-del-cordon-umbilical/
+
+Resource: Punción arterial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003422.htm
+
+Resource: Venopunción
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003423.htm
+
+Resource: ¿Qué es la sangre?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/blood.html
+
+Resource: Índices de glóbulos rojos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003648.htm

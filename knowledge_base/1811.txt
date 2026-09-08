@@ -1,0 +1,158 @@
+Title: Salud dental del niño
+
+Summary:
+Los dientes sanos son importantes para la salud general de un niño. Desde el momento del nacimiento, hay cosas que se pueden hacer para promover los dientes sanos y prevenir
+caries
+. En los bebés, se deben limpiar los dientes con un paño suave y limpio o con un cepillo de dientes para bebés. Evite acostar al niño con un biberón y revísele los dientes regularmente para detectar manchas.
+En todos los niños se debe:
+Comenzar a usar una pequeña cantidad de pasta dental con flúor a los dos años de edad. El doctor puede recomendar empezar antes
+Ofrecer alimentos sanos y limitar los refrigerios y las bebidas dulces
+Programar visitas periódicas al odontólogo
+Formar buenos hábitos alimenticios a una edad temprana puede ayudar al niño a tener dientes sanos para toda la vida.
+NIH: Instituto Nacional de Investigación Dental y Craneofacial
+
+Groups:
+- Niños y adolescentes
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Alivie el dolor de la dentición de los bebés y los niños de una manera segura
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/alivie-el-dolor-de-la-denticion-de-los-bebes-y-los-ninos-de-una-manera-segura
+
+Resource: Anatomía del diente
+Category: Información de referencia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002214.htm
+
+Resource: Boca saludable para su bebé
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/sites/default/files/2018-12/healthy-mouth-spanish.pdf
+
+Resource: Boca y los dientes
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/mouth-teeth.html
+
+Resource: Caries dental en la primera infancia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000721.htm
+
+Resource: Cepillado de los dientes de su hijo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000769.htm
+
+Resource: Cuidado de tu dentadura
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/teeth.html
+
+Resource: Cuidado dental en niños
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002213.htm
+
+Resource: Cómo encontrar cuidados dentales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/como-encontrar-cuidados-dentales
+
+Resource: Dentición
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002045.htm
+
+Resource: Dentición e higiene dental de los niños pequeños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/healthy-living/oral-health/paginas/teething-and-dental-hygiene.aspx
+
+Resource: Dentición en los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/teething.html
+
+Resource: Dentición y cuidado de los dientes
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/baby/teething-tooth-care/Paginas/default.aspx
+
+Resource: Dientes natales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003268.htm
+
+Resource: Dolor de muelas: Primeros auxilios
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-toothache/basics/art-20056628?p=1
+
+Resource: Examen dental
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-dental/
+
+Resource: Fluoruro en la dieta
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002420.htm
+
+Resource: Hora de empezar el cepillado dental
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/healthy-living/oral-health/paginas/let-the-brushing-games-begin.aspx
+
+Resource: Instituto Nacional de Investigación Dental y Craneofacial
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol
+
+Resource: La caries dental
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/la-caries-dental
+
+Resource: Mantener sana la dentadura de su hijo
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/healthy.html
+
+Resource: Microbios bucales: Los útiles y los dañinos
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/microbios-bucales
+
+Resource: Niños con bocas saludables
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/ninos-con-bocas-saludables
+
+Resource: Rayos X panorámicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/panoramic-xray
+
+Resource: Sonrisa saludable para tu niño pequeño: Consejos para mantener sano a tu niño
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro Nacional de Recursos de Salud Oral Materna e Infantil
+URL: https://www.mchoralhealth.org/PDFs/childbrochure_sp.pdf
+
+Resource: Tus dientes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/teeth.html
+
+Resource: ¿Por qué es importante cuidar los dientes de leche de su hijo?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/teething-tooth-care/paginas/how-to-prevent-tooth-decay-in-your-baby.aspx
+
+Resource: ¿Qué es la saliva?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/spit.html

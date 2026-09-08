@@ -1,0 +1,104 @@
+Title: Enfermedades del tejido conectivo
+
+Summary:
+Su tejido conectivo apoya a muchas partes diferentes de su cuerpo, como la piel, los ojos y el corazón. Es como un "pegamento celular" que entrega su forma a partes de su cuerpo y ayuda a mantenerlas fuertes. También ayuda a algunos de tus tejidos a hacer su trabajo. Está hecho de muchos tipos de proteínas. El cartílago y la grasa son tipos de tejido conectivo.
+Existen más de 200 trastornos que afectan el tejido conectivo. Hay de diferentes tipos:
+Trastornos genéticos, como el
+síndrome de Ehlers-Danlos
+,
+síndrome de Marfan
+y la
+osteogénesis imperfecta
+Enfermedades autoinmunes, como el
+lupus
+y la
+esclerodermia
+Cáncer, como algunos tipos de
+sarcoma del tejido blando
+Cada trastorno tiene sus propios síntomas y requiere diferentes tratamientos.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Acondrogénesis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001247.htm
+
+Resource: Anticuerpos antinucleares (ANA)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/anticuerpos-antinucleares-ana
+
+Resource: Contractura de Dupuytren
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001233.htm
+
+Resource: Deformidad por contractura
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003185.htm
+
+Resource: Displasia de Ellis-Van Creveld
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ellis-dysplasia.html
+
+Resource: Displasia de Kniest
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/kniest-dysplasia.html
+
+Resource: Displasia diastrófica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diastrophic-dysplasia.html
+
+Resource: Displasia epifisaria múltiple
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/multiple-epiphyseal-dysplasia.html
+
+Resource: Displasia espondiloepifisaria congénita
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sedc-dysplasia.html
+
+Resource: Ganglión en la muñeca y la mano
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/quiste-ganglionar-de-la-muneca-y-la-mano-ganglion-cyst/
+
+Resource: Hipoplasia cartílago-cabello (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cartilage-hair-hypoplasia.html
+
+Resource: Piel laxa (cutis laxa)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/trastornos-del-tejido-conjuntivo-en-ni%C3%B1os/piel-laxa-cutis-laxa
+
+Resource: Prueba de anticuerpos antinucleares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-antinucleares/
+
+Resource: Prueba de autoanticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-autoanticuerpos/
+
+Resource: Quiste de ganglio
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/ganglion-cyst?lang=es-MX
+
+Resource: Trastornos del tejido conectivo
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/trastornos-del-tejido-conectivo

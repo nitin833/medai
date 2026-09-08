@@ -1,0 +1,69 @@
+Title: Salud en la universidad
+
+Summary:
+La vida en la universidad implica emoción como así también nuevos retos, riesgos y responsabilidades. Conoces gente nueva, aprendes cosas nuevas y tomas tus propias decisiones. Puede, a veces, ser estresante. Tendrás que lidiar con cosas relacionadas a la comida, bebidas, aspecto físico, drogas y actividad sexual.
+Hay medidas que puedes tomar para mantenerte saludable y seguro cuando estés en la universidad:
+Come una dieta equilibrada
+Duerme lo suficiente
+Realiza actividad física regular
+Mantén tu salud con chequeos y vacunaciones
+Si decides tener relaciones sexuales, tenlas con precaución practicando sexo seguro
+Toma decisiones inteligentes sobre el alcohol y las drogas
+Pide ayuda si te sientes estresado o deprimido
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Niños y adolescentes
+- Bienestar y estilo de vida
+
+Related Resources:
+
+Resource: Alcohol y menores de edad: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/underagedrinking.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Enfermedad meningocócica en preadolescentes, adolescentes y adultos jóvenes
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/teen/paginas/meningococcal-disease-information-for-teens-and-college-students-.aspx
+
+Resource: Gripe y los estudiantes universitarios
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007446.htm
+
+Resource: Problemas comunes de salud en la universidad
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/young-adult/paginas/health-care-for-college-students.aspx
+
+Resource: Salud universitaria: información general
+Category: Comience aquí, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/salud-en-universidad/
+
+Resource: Salud universitaria: problemas de salud mental
+Category: Asuntos específicos, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/salud-en-universidad-salud-mental-y-desordenes-de-la-alimentacion/
+
+Resource: Salud universitaria: salud sexual, relaciones, y recursos
+Category: Spanish/Español, Mujeres
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/salud-en-universidad-salud-sexual/
+
+Resource: Semestre de otoño: El momento para que los padres hablen sobre los riesgos del alcohol en la universidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional sobre el Abuso de Alcohol y Alcoholismo
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/semestre-de-otono-momento-para-que-los-padres-hablen-sobre-de-los-riesgos-del-consumo-de-alcohol-en
+
+Resource: Trastornos alimenticios: información general
+Category: Mujeres, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/desordenes-de-la-alimentacion/

@@ -1,0 +1,154 @@
+Title: Eyewear
+
+Also Called:
+- Contact lenses
+- Eyeglasses
+
+Summary:
+Eyewear protects or corrects your vision. Examples are:
+Sunglasses
+Safety goggles
+Glasses (also called eyeglasses)
+Contact lenses
+If you need corrective lenses, you may be able to choose between contacts or glasses.   Either usually requires a prescription. Almost anyone can wear glasses.  Contact lenses require more careful handling.
+Many jobs and some sports carry a risk of
+eye injury
+. Thousands of children and adults get eye injuries every year. Most are preventable with proper eye protection. Everyone is at risk for eye damage from the sun year-round. It's important to regularly use sunglasses that block out at least 99% of UV rays.
+
+Groups:
+- Eyes and Vision
+
+MeSH Headings:
+- Contact Lenses
+- Eyeglasses
+
+Related Resources:
+
+Resource: Are Blue Light-Blocking Glasses Worth It?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/are-computer-glasses-worth-it
+
+Resource: ClinicalTrials.gov: Contact Lenses
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Contact+Lenses%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Eyeglasses
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Eyeglasses%22&aggFilters=status:not%20rec
+
+Resource: Colored and Decorative Contact Lenses: A Prescription Is a Must
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/colored-and-decorative-contact-lenses-prescription-must
+
+Resource: Contact Lens Care
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/contact-lens-care
+
+Resource: Contact Lens Risks
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/contact-lenses/contact-lens-risks
+
+Resource: Contact Lenses for Vision Correction
+Category: Start Here
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/glasses-contacts/contact-lens-102
+
+Resource: Eye Infections from Contact Lenses
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/contact-lens-related-eye-infections
+
+Resource: Eye Protection for Infection Control
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/ppe/eye-safety/infection-control.html
+
+Resource: Eyeglasses: How to Choose Glasses for Vision Correction
+Category: Start Here
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/glasses-contacts/glasses
+
+Resource: Find a Doctor of Optometry
+Category: Find an Expert
+Organization: American Optometric Association
+URL: https://www.aoa.org/healthy-eyes/find-a-doctor?sso=y
+
+Resource: Find an Ophthalmologist
+Category: Find an Expert
+Organization: American Academy of Ophthalmology
+URL: https://secure.aao.org/aao/find-ophthalmologist
+
+Resource: Glasses for Children
+Category: Children
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/glasses-for-children
+
+Resource: How the Eyes Work
+Category: Reference Desk
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work
+
+Resource: National Eye Institute
+Category: Find an Expert
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/
+
+Resource: Pros and Cons of Progressive Lenses
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/glasses-contacts/pros-cons-progressive-lenses-computer-glasses
+
+Resource: Protective Eyewear
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/protective-eyewear
+
+Resource: Eyewear
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Contact+Lenses%22%5Bmajr%3Anoexp%5D+OR+%22Eyeglasses%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recommended Types of Sunglasses
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/glasses-contacts/sunglasses-recommended-types
+
+Resource: Safety Glasses: How to Prevent Blinding Eye Injuries
+Category: Start Here
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/injuries-protective-eyewear
+
+Resource: Sun, UV Light, and Your Eyes
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/sun
+
+Resource: Tips to Stay Safe in the Sun: From Sunscreen to Sunglasses
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/tips-stay-safe-sun-sunscreen-sunglasses
+
+Resource: Types of Contact Lenses
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/contact-lenses/types-contact-lenses
+
+Resource: Using a Home Vision Test to Order Glasses Online
+Category: Related Issues
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/self-home-vision-test-order-glasses-online
+
+Resource: What to Know If Your Child Wants Contact Lenses
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/what-know-if-your-child-wants-contact-lenses
+
+Resource: Your Eyewear Prescription Rights
+Category: Related Issues
+Organization: Federal Trade Commission
+URL: https://www.ftc.gov/media/your-eyewear-prescription-rights

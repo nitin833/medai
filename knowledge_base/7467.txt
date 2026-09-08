@@ -1,0 +1,155 @@
+Title: Telehealth
+
+Also Called:
+- Telemedicine
+
+Summary:
+What is telehealth?
+Telehealth is the use of communications technologies to provide health care from a distance. These technologies may include computers, cameras, videoconferencing, the Internet, and satellite and wireless communications. Some examples of telehealth include:
+A "virtual visit" with a health care provider, through a phone call or video chat
+Remote patient monitoring, which lets your provider check on you while you are at home. For example, you might wear a device that measures your heart rate and sends that information to your provider.
+A surgeon using robotic technology to do surgery from a different location
+Sensors that can alert caregivers if a person with dementia leaves the house
+Sending your provider a message through your electronic health record (EHR)
+Watching an online video that your provider sent you about how to use an inhaler
+Getting an email, phone, or text reminder that it's time for a cancer screening
+What is the difference between telemedicine and telehealth?
+Sometimes people use the term telemedicine to mean the same thing as telehealth. Telehealth is a broader term. It includes telemedicine. But it also includes things like training for health care providers, health care administrative meetings, and services provided by pharmacists and social workers.
+What are the benefits of telehealth?
+Some of the benefits of telehealth include:
+Getting care at home, especially for people who can't easily get to their providers' offices
+Getting care from a specialist who is not close by
+Getting care after office hours
+More communication with your providers
+Better communication and coordination between health care providers
+More support for people who are managing their health conditions, especially chronic conditions such as
+diabetes
+Lower cost, since virtual visits may be cheaper than in-person visits
+What are the problems with telehealth?
+Some of the problems with telehealth include:
+If your virtual visit is with someone who is not your regular provider, he or she may not have all of your medical history
+After a virtual visit, it may be up to you to coordinate your care with your regular provider
+In some cases, the provider may not be able to make the right diagnosis without examining you in person. Or your provider may need you to come in for a lab test.
+There may be problems with the technology, for example, if you lose the connection, there is a problem with the software, etc.
+Some insurance companies may not cover telehealth visits
+What types of care can I get using telehealth?
+The types of care that you can get using telehealth may include:
+General health care, like
+wellness visits
+Prescriptions for medicine
+Dermatology (skin care)
+Eye exams
+Nutrition counseling
+Mental health counseling
+Urgent care conditions, such as
+sinusitis
+,
+urinary tract infections
+,
+common rashes
+, etc.
+For telehealth visits, just like with an in-person visit, it is important to be prepared and have
+good communication with the provider
+.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Telemedicine
+
+Related Resources:
+
+Resource: 10 Telehealth Tips for an Ob-Gyn Visit
+Category: Women
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/infographics/10-telehealth-tips-for-an-ob-gyn-visit
+
+Resource: Can Telehealth "Video Visits" Be a Good Option for My Child? How Do They Work?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Can-video-visits-be-good-for-my-child.aspx
+
+Resource: ClinicalTrials.gov: Telehealth
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=telehealth&aggFilters=status:not%20rec
+
+Resource: Getting the Care You Need via Telemedicine
+Category: Older Adults
+Organization: National Council on Aging
+URL: https://www.ncoa.org/article/getting-the-care-you-need-via-telemedicine/
+
+Resource: Getting the Most Out of Your Telemedicine Visit
+Category: Patient Handouts
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/sites/default/files/telemedicineworksheet.pdf
+
+Resource: How Do I Schedule a Telehealth Appointment?
+Category: Specifics
+Organization: Department of Health and Human Services
+URL: https://telehealth.hhs.gov/patients/how-do-i-schedule-telehealth-appointment
+
+Resource: Telehealth
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Telemedicine%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stay Safe: Getting the Care You Need, at Home
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/files/document/c2c-covid-care-home.pdf
+
+Resource: Talking With Your Doctor: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/talkingwithyourdoctor.html
+
+Resource: Telehealth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000919.htm
+
+Resource: Telehealth (Medicare Part B Coverage)
+Category: Older Adults
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/telehealth
+
+Resource: Telehealth and Your Child
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/telemedicine.html
+
+Resource: Telehealth: Technology Meets Health Care
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/telehealth/art-20044878?p=1
+
+Resource: VA Telehealth Services
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://telehealth.va.gov/
+
+Resource: What Can Be Treated through Telehealth?
+Category: Specifics
+Organization: Department of Health and Human Services
+URL: https://telehealth.hhs.gov/patients/what-can-be-treated-through-telehealth
+
+Resource: What Is Telemental Health?
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/sites/default/files/health/publications/what-is-telemental-health/what-is-telemental-health.pdf
+
+Resource: What Should I Know before My Telehealth Visit?
+Category: Specifics
+Organization: Department of Health and Human Services
+URL: https://telehealth.hhs.gov/patients/what-should-i-know-before-my-telehealth-visit
+
+Resource: What to Expect at a Telehealth Visit (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/telehealth-how-to.html
+
+Resource: Why Use Telehealth?
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://telehealth.hhs.gov/patients/why-use-telehealth

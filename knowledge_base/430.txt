@@ -1,0 +1,162 @@
+Title: Taste and Smell Disorders
+
+Summary:
+Our senses of taste and smell give us great pleasure. Taste helps us enjoy food and beverages. Smell lets us enjoy the scents and fragrances like roses or coffee. Taste and smell also protect us, letting us know when food has gone bad or when there is a gas leak. They make us want to eat, ensuring we get the nutrition we need.
+People with taste disorders may taste things that aren't there, may not be able to tell the difference in tastes, or can't taste at all. People with smell disorders may lose their sense of smell, or things may smell different.  A smell they once enjoyed may now smell bad to them.
+Many illnesses and injuries can cause taste and smell disorders, including colds and head injuries. Some drugs can also affect taste and smell. Most people lose some ability to taste and smell as they get older. Treatment varies, depending on the problem and its cause.
+NIH: National Institute on Deafness and Other Communication Disorders
+
+Groups:
+- Older Adults
+- Ear, Nose and Throat
+- Mouth and Teeth
+
+MeSH Headings:
+- Taste Disorders
+- Taste Perception
+- Olfaction Disorders
+
+Related Resources:
+
+Resource: Aging changes in the senses
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004013.htm
+
+Resource: American Rhinologic Society
+Category: Find an Expert
+Organization: American Rhinologic Society
+URL: https://www.american-rhinologic.org/
+
+Resource: Bosma arhinia microphthalmia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bosma-arhinia-microphthalmia-syndrome
+
+Resource: ClinicalTrials.gov: Dysgeusia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dysgeusia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Olfaction Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Olfaction+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Taste Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Taste+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Taste Perception
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Taste+Perception%22&aggFilters=status:not%20rec
+
+Resource: Directory of Organizations
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/directory
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Glossary
+Category: Reference Desk
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/glossary
+
+Resource: How Do We Taste…and Why Does It Go Wrong?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/how-do-we-tasteand-why-does-it-go-wrong
+
+Resource: How Smell and Taste Change as You Age
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/teeth-and-mouth/how-smell-and-taste-change-you-age
+
+Resource: Kallmann syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/kallmann-syndrome
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Overview of Smell and Taste Disorders
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/ear-nose-and-throat-disorders/symptoms-of-nose-and-throat-disorders/overview-of-smell-and-taste-disorders
+
+Resource: Taste and taste disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Taste+Disorders%22%5Bmajr%3Anoexp%5D+OR+%22Olfaction+Disorders%22%5Bmajr%3Anoexp%5D+OR+%22Taste+Perception%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quick Statistics about Taste and Smell
+Category: Statistics and Research
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/statistics/quick-statistics-taste-smell
+
+Resource: Refsum disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/refsum-disease
+
+Resource: Sinus MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007356.htm
+
+Resource: Smell - impaired
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003052.htm
+
+Resource: Smell and Taste Disorders
+Category: Start Here
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/smell-and-taste-disorders
+
+Resource: Smell Disorders
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/smell-disorders
+
+Resource: Smelling
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000145.htm
+
+Resource: Taste - impaired
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003050.htm
+
+Resource: Taste Disorders
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/taste-disorders
+
+Resource: Taste Disorders
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/taste-disorders
+
+Resource: Tasting
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000148.htm
+
+Resource: What Are Taste Buds?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/taste-buds.html
+
+Resource: Your Nose
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/nose.html

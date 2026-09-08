@@ -1,0 +1,544 @@
+Title: Birth Defects
+
+Summary:
+What are birth defects?
+A birth defect is a problem that happens while a
+baby is developing
+in the mother's body.  Most birth defects happen during the first 3 months of pregnancy. One out of every 33 babies in the United States is born with a birth defect.
+A birth defect may affect how the body looks, works, or both. Some birth defects like
+cleft lip
+or
+neural tube defects
+are structural problems that can be easy to see. Others, like
+heart disease
+, are found using special tests. Birth defects can range from mild to severe. How a birth defect affects a child's life depends mostly on which organ or body part is involved and how severe the defect is.
+What causes birth defects?
+For some birth defects, researchers know the cause. But for many birth defects, the exact cause is unknown. Researchers think that most birth defects are caused by a complex mix of factors, which can include:
+Genetics.
+One or more genes might have a change or mutation that prevents them from working properly. For example, this happens in
+Fragile X syndrome
+. With some defects, a gene or part of the gene might be missing.
+Chromosomal problems.
+In some cases, a chromosome or part of a chromosome might be missing. This is what happens in
+Turner syndrome
+. In other cases, such as with
+Down syndrome
+, the child has an extra chromosome.
+Exposures to
+medicines
+, chemicals, or
+other toxic substances
+.
+For example, alcohol misuse can cause
+fetal alcohol spectrum disorders
+.
+Infections during pregnancy
+.
+For example, infection with
+Zika virus
+during pregnancy can cause a serious
+defect in the brain
+.
+Lack of certain nutrients.
+Not getting enough
+folic acid
+before and during pregnancy is a key factor in causing neural tube defects.
+Who is at risk of having a baby with birth defects?
+Certain factors may increase the chances of having a baby with a birth defect, such as:
+Smoking, drinking alcohol, or taking certain "street" drugs
+during pregnancy
+Having certain medical conditions, such as
+obesity
+or uncontrolled
+diabetes
+, before and during pregnancy
+Taking certain medicines
+Having someone in your family with a birth defect. To learn more about your risk of having a baby with a birth defect, you can talk with a
+genetic counselor
+,
+Being an older mother, typically over the age of 34 years
+How are birth defects diagnosed?
+Health care providers can diagnose some birth defects during pregnancy, using
+prenatal testing
+.  That's why it important to get regular
+prenatal care
+.
+Other birth defects may not be found until after the baby is born. Providers may find them through
+newborn screening
+. Some defects, such as club foot, are obvious right away. Other times, the health care provider may not discover a defect until later in life, when the child has symptoms.
+What are the treatments for birth defects?
+Children with birth defects often need special care and treatments. Because the symptoms and problems caused by birth defects vary, the treatments also vary. Possible treatments may include surgery, medicines,
+assistive devices
+, physical therapy, and speech therapy.
+Often, children with birth defects need a variety of services and may need to see several specialists. The primary health care provider can coordinate the special care that the child needs.
+Can birth defects be prevented?
+Not all birth defects can be prevented. But there are things you can do before and during pregnancy to increase your chance of having a healthy baby:
+Start prenatal care as soon as you think you might be pregnant, and see your health care provider regularly during pregnancy
+Get 400 micrograms (mcg) of folic acid every day. If possible, you should start taking it at least one month before you get pregnant.
+Don't drink alcohol, smoke, or use "street" drugs
+Talk to your health care provider about any medicines you are taking or thinking about taking. This includes prescription and over-the-counter medicines, as well as dietary or herbal supplements.
+Learn how to prevent infections during pregnancy
+If you have any medical conditions, try to get them under control before you get pregnant
+Centers for Disease Control and Prevention
+
+Groups:
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Congenital Abnormalities
+
+Related Resources:
+
+Resource: About Birth Defects
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/
+
+Resource: About Congenital Anomalies
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/congenital-anomalies/about
+
+Resource: Acrodysostosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001248.htm
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Ambiguous genitalia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003269.htm
+
+Resource: Amniotic constriction bands
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001579.htm
+
+Resource: Annular pancreas
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001142.htm
+
+Resource: Anophthalmia and Microphthalmia
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/anophthalmia-and-microphthalmia
+
+Resource: Anotia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anotia.html
+
+Resource: Assistive Devices: Positioning Aids (Slideshow)
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/assistive-devices-positioners.html
+
+Resource: Atypical Genitalia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/atypical-genitalia/symptoms-causes/syc-20369273?p=1
+
+Resource: Bardet-Biedl Syndrome
+Category: Specifics
+Organization: Foundation Fighting Blindness
+URL: https://www.fightingblindness.org/diseases/bardet-biedl-syndrome-bbs
+
+Resource: Birth Defects (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/birth-defects.html
+
+Resource: Birth Defects Tracking
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/tracking/
+
+Resource: Branchio-oto-renal Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10147/bor-syndrome
+
+Resource: Campomelic Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/campomelic-dysplasia.html
+
+Resource: Camptomelic dysplasia
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10027/camptomelic-dysplasia
+
+Resource: Caring for Your Child with Clubfoot
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/center/clubfoot-center.html
+
+Resource: ClinicalTrials.gov: Congenital Abnormalities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Congenital+Abnormalities%22&aggFilters=status:not%20rec
+
+Resource: Clubfoot
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001228.htm
+
+Resource: Clubfoot
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/clubfoot/symptoms-causes/syc-20350860?p=1
+
+Resource: Clubfoot repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002964.htm
+
+Resource: Clubfoot repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100056_1.htm
+
+Resource: Congenital Abnormalities
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/developmental-disabilities/Pages/Congenital-Abnormalities.aspx
+
+Resource: Congenital diaphragmatic hernia repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002936.htm
+
+Resource: Constricted Ears
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/constricted-ears.html
+
+Resource: Cryptotia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cryptotia.html
+
+Resource: Data and Statistics on Birth Defects
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/data-research/facts-stats/
+
+Resource: Developmental differences of the female genital tract
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001497.htm
+
+Resource: Diagnosis of Birth Defects
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/screening/diagnosis.html
+
+Resource: Diaphragmatic hernia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001135.htm
+
+Resource: Diaphragmatic hernia repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100014_1.htm
+
+Resource: Differences of sex development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001669.htm
+
+Resource: Duodenal atresia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001131.htm
+
+Resource: Ear Canal Stenosis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ear-canal-stenosis.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: FastStats: Birth Defects or Congenital Anomalies
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/birth-defects.htm
+
+Resource: Fetal Abdominal Cyst
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fetal-ab-cyst.html
+
+Resource: Fetal Lung Mass
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fetal-lung-mass.html
+
+Resource: Fibular Hemimelia
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fibular-hemimelia.html
+
+Resource: Fusion of the ear bones
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001633.htm
+
+Resource: Gastroschisis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/gastroschisis.html
+
+Resource: Gastroschisis repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002924.htm
+
+Resource: Gastroschisis repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100023_1.htm
+
+Resource: Genital and Urinary Tract Defects
+Category: Specifics
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/planning-baby/genital-and-urinary-tract-defects
+
+Resource: Good Health Habits and Birth Defects Prevention
+Category: Prevention and Risk Factors
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/blog/good-health-habits-and-birth-defects-prevention
+
+Resource: Hirschsprung Disease
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hirschsprung.html
+
+Resource: Hirschsprung Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/hirschsprung-disease
+
+Resource: Hirschsprung disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001140.htm
+
+Resource: How Do Health Care Providers Diagnose Congenital Anomalies?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/congenital-anomalies/conditioninfo/diagnosed
+
+Resource: Hypospadias
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001286.htm
+
+Resource: Hypospadias
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/hypospadias.html
+
+Resource: Hypospadias repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003000.htm
+
+Resource: Hypospadias repair - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000158.htm
+
+Resource: Hypospadias repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100126_1.htm
+
+Resource: If Your Baby Has a Birth Defect
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/baby-has-birth-defect.html
+
+Resource: Imperforate anus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001147.htm
+
+Resource: Imperforate anus repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002926.htm
+
+Resource: Imperforate anus repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100030_1.htm
+
+Resource: Isotretinoin and Other Retinoids during Pregnancy
+Category: Related Issues
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/isotretinoin-and-other-retinoids-during-pregnancy
+
+Resource: Karyotype Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/karyotype-genetic-test/
+
+Resource: Limb Reduction Defects
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/limb-reduction-defects.html
+
+Resource: Low-set ears and pinna abnormalities
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003303.htm
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Meckel diverticulectomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002929.htm
+
+Resource: Meckel diverticulum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000234.htm
+
+Resource: Meckel's diverticulectomy - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100092_1.htm
+
+Resource: Microtia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/microtia.html
+
+Resource: Mobius Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/8549/moebius-syndrome
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Omphalocele
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000994.htm
+
+Resource: Omphalocele
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/omphalocele.html
+
+Resource: Omphalocele repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002938.htm
+
+Resource: Omphalocele repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100033_1.htm
+
+Resource: Pierre Robin Syndrome
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pierre-robin-syndrome.html
+
+Resource: Polyhydramnios
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003267.htm
+
+Resource: Prenatal Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/prenataltesting.html
+
+Resource: Preventing Birth Defects
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/prevention/
+
+Resource: Prune belly syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001269.htm
+
+Resource: Birth Defects
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Congenital+Abnormalities%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quadruple screen test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007311.htm
+
+Resource: Reducing Risks of Birth Defects
+Category: Prevention and Risk Factors
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/reducing-risks-of-birth-defects
+
+Resource: Talking Glossary of Genomic and Genetic Terms
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/genetics-glossary
+
+Resource: Treating Gastroschisis (Gastroschisis Silo)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gastroschisis_silo.html
+
+Resource: Trisomy 13
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001660.htm
+
+Resource: Trisomy 18
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001661.htm
+
+Resource: Undescended Testicles (Cryptorchidism) (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cryptorchidism.html
+
+Resource: What Are the Types of Congenital Anomalies?
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/congenital-anomalies/conditioninfo/types
+
+Resource: When Your Baby's in the NICU (Neonatal Intensive Care Unit)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nicu-caring.html
+
+Resource: Williams Syndrome (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/williams-syndrome.html

@@ -1,0 +1,279 @@
+Title: Equilibrio hidroelectrolítico
+
+Summary:
+¿Qué son los electrolitos?
+Los electrolitos son
+minerales
+que tienen carga eléctrica cuando se disuelven en agua o fluidos corporales, incluida la sangre. La carga eléctrica puede ser positiva o negativa. Usted tiene electrolitos en la sangre, la orina, los tejidos y otros fluidos corporales.
+Son importantes porque ayudan a:
+Equilibrar la cantidad de agua en el cuerpo
+Equilibrar el nivel ácido-base (pH) de su cuerpo
+Llevar nutrientes a sus células
+Eliminar los desechos de sus células
+Apoyar el funcionamiento de sus músculos y nervios
+Mantener su frecuencia y ritmo cardíacos estable
+Manter estable su presión arterial
+Mantener sus huesos y dientes sanos
+¿Cuáles son los diferentes tipos de electrolitos en su cuerpo?
+Los principales electrolitos de su cuerpo incluyen:
+Bicarbonato: Ayuda a mantener el equilibrio ácido-base del cuerpo y cumple una función importante en la circulación de dióxido de carbono por el torrente sanguíneo
+Calcio
+: Ayuda a fortalecer y mantener los huesos y los dientes
+Cloruro: También ayuda a controlar la cantidad de líquido en el cuerpo. Además, ayuda a mantener un volumen de sangre y una presión arterial saludables
+Magnesio: Ayuda a que los músculos, los nervios y el corazón funcionen bien. También ayuda a controlar la presión arterial y los niveles de
+glucosa (azúcar) en sangre
+Fosfato: Trabaja junto con el mineral calcio para formar huesos y dientes fuertes
+Potasio
+: Ayuda a que el corazón y los músculos funcionen bien
+Sodio
+: Ayuda a controlar la cantidad de líquido que hay en el cuerpo. También contribuye a que los nervios y los músculos funcionen bien
+Los electrolitos se obtienen de los alimentos que consume y de los líquidos que bebe.
+¿Qué es un desequilibrio electrolítico?
+Un desequilibrio electrolítico significa que el nivel de uno o más electrolitos en su cuerpo es demasiado bajo o demasiado alto. Puede ocurrir cuando cambia la cantidad de agua en su cuerpo. La cantidad de agua que ingiere debe ser igual a la cantidad que elimina. Si algo altera este equilibrio, es posible que tenga muy poca agua (
+deshidratación
+) o demasiada agua (sobrehidratación). Algunas de las razones más comunes por las que podría tener un desequilibrio del agua en su cuerpo incluyen:
+Ciertos medicamentos
+Vómito
+y/o
+diarrea
+intenso
+Sudoración
+intensa
+Problemas
+cardíacos
+,
+hepáticos
+o
+renales
+No beber suficientes líquidos, especialmente cuando se hace ejercicio intenso o cuando hace mucho calor
+Beber demasiada agua
+¿Cuáles son los diferentes tipos de desequilibrios electrolíticos?
+Los nombres de los diferentes tipos de desequilibrios electrolíticos son:
+Electrolito
+Demasiado bajo
+Demasiado alto
+Bicarbonato
+Acidosis
+Alcalosis
+Calcio
+Hipocalcemia
+Hipercalcemia
+Cloruro
+Hipocloremia
+Hipercloremia
+Magnesio
+Hipomagnesemia
+Hipermagnesemia
+Fosfato
+Hipofosfatemia
+Hiperfosfatemia
+Potasio
+Hipocalemia
+Hipercalemia
+Sodio
+Hiponatremia
+Hipernatremia
+¿Cómo se diagnostican los desequilibrios electrolíticos?
+Una prueba llamada
+panel de electrolitos
+puede verificar los niveles de los principales electrolitos de su cuerpo. Una prueba relacionada, el
+análisis de sangre de la brecha aniónica
+, verifica si sus electrolitos están desequilibrados o si su sangre es demasiado ácida o no lo suficientemente ácida.
+¿Cuáles son los tratamientos para los desequilibrios electrolíticos?
+El tratamiento para un desequilibrio electrolítico depende de qué electrolitos están desequilibrados, si hay muy pocos o demasiados y qué está causando el desequilibrio. En casos menores, es posible que simplemente deba realizar algunos cambios en su dieta. En otros casos, es posible que necesite otros tratamientos. Por ejemplo:
+Si no tiene suficientes electrolitos, puede recibir una terapia de reemplazo de electrolitos. Esto implica darle más de ese electrolito. Puede ser un medicamento o suplemento que se traga o bebe, o se puede administrar por vía intravenosa
+Si tiene demasiado electrolito, su profesional de la salud puede darle medicamentos o líquidos (por vía oral o intravenosa) para ayudar a eliminar ese electrolito de su cuerpo. En casos graves, es posible que necesite diálisis para filtrar el electrolito
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Agua en la dieta
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002471.htm
+
+Resource: Agua: ¿Cuánta debería beber por día?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?p=1
+
+Resource: Análisis de sangre de la brecha aniónica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-de-sangre-de-la-brecha-anionica/
+
+Resource: Ausencia de sed
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003086.htm
+
+Resource: Deficiencia de magnesio
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000315.htm
+
+Resource: Desequilibrio de líquidos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001187.htm
+
+Resource: Disminución del gasto urinario
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003147.htm
+
+Resource: Dióxido de carbono (CO2) en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/dioxido-de-carbono-co2-en-la-sangre/
+
+Resource: Electrólitos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002350.htm
+
+Resource: Examen de aldosterona en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003704.htm
+
+Resource: Examen de cloruro en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003485.htm
+
+Resource: Examen de CO2 en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003469.htm
+
+Resource: Examen de fósforo en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003478.htm
+
+Resource: Examen de hormona antidiurética en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003702.htm
+
+Resource: Examen de la concentración de la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003608.htm
+
+Resource: Examen de la densidad de la orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003587.htm
+
+Resource: Examen de magnesio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003487.htm
+
+Resource: Examen de osmolalidad de la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003463.htm
+
+Resource: Examen de sodio en la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003599.htm
+
+Resource: Examen del cloruro en la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003601.htm
+
+Resource: Grupo de pruebas metabólicas básicas
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003462.htm
+
+Resource: H20 para un envejecimiento saludable
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/el-h20-para-un-envejecimiento-saludable
+
+Resource: Hidratarse para estar sano
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/hidratarse-para-estar-sano
+
+Resource: Hipofosfatemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000307.htm
+
+Resource: Introducción al agua corporal
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-hormonales-y-metab%C3%B3licos/equilibrio-h%C3%ADdrico/introducci%C3%B3n-al-agua-corporal
+
+Resource: Ionograma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/ionograma/
+
+Resource: Nivel bajo de sodio en sangre
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000394.htm
+
+Resource: Osmolalidad de la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003609.htm
+
+Resource: Panel metabólico básico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-basico/
+
+Resource: Prueba de cloruro en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cloruro-en-sangre/
+
+Resource: Prueba de electrolitos en el sudor
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003630.htm
+
+Resource: Prueba de magnesio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-magnesio-en-la-sangre/
+
+Resource: Prueba de sodio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sodio-en-la-sangre/
+
+Resource: Prueba del llenado capilar ungueal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003394.htm
+
+Resource: Pruebas de osmolalidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-osmolalidad/
+
+Resource: Pruebas de química sanguínea básica (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest5.html
+
+Resource: Síndrome de leche y alcalinos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000332.htm
+
+Resource: Turgencia cutánea
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003281.htm

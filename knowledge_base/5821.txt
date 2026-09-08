@@ -1,0 +1,93 @@
+Title: Vasectomy
+
+Summary:
+A vasectomy is a type of minor surgery that prevents a man from being able to get a woman pregnant. It is a permanent form of
+birth control
+.
+A vasectomy works by cutting the vas deferens, which are the tubes that carry the sperm out of the testicles. Then the sperm can no longer reach the semen. Semen is the fluid that the penis ejaculates (releases during orgasm). Since there are no sperm, the man cannot get a woman pregnant.
+The surgery is quick; it usually takes less than 30 minutes. You will probably be able to go home the same day. You may have some discomfort, bruising, and swelling for a few days. In most cases, you will fully recover in less than a week.
+A vasectomy is one of the most effective forms of birth control. But it takes about three months (or about 20 ejaculations) before it is effective. You will still need to use other birth control until you know that your semen doesn't have any more sperm in it. After two to three months, your health care provider will test your semen to make sure that there are no sperm in it.
+Having a vasectomy does not affect your sex life. It does not decrease your sex drive. And it will not affect your ability to get an erection or have an orgasm.
+Vasectomies can sometimes be reversed, but not always. It is done with a procedure to reconnect the vas deferens. Another option if you decide to have children later might be to have sperm taken from your testicles. The sperm could then be used for
+in vitro fertilization
+(IVF). However, this may not always work. It's also important to know that both a vasectomy reversal and IVF are expensive.
+Having a vasectomy does not protect you from
+sexually transmitted infections
+(STIs), such as
+HIV
+.   Using a condom every time you have anal, vaginal, or oral sex is the only way to protect against STIs.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Pregnancy and Reproduction
+- Men
+- Male Reproductive System
+
+MeSH Headings:
+- Vasectomy
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Reproductive Sterilization
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Sterilization,+Reproductive%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vasectomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vasectomy%22&aggFilters=status:not%20rec
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: How Is a Vasectomy Done?
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/vasectomy/conditioninfo/done
+
+Resource: Key Statistics from the National Survey of Family Growth: Vasectomy
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/nsfg/key_statistics/v.htm
+
+Resource: Vasectomy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vasectomy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Semen Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/semen-analysis/
+
+Resource: Sterilization surgery - making a decision
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002138.htm
+
+Resource: Vasectomy
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000139.htm
+
+Resource: Vasectomy
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/vasectomy
+
+Resource: Vasectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002995.htm
+
+Resource: Vasectomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100106_1.htm
+
+Resource: What Are the Risks of Vasectomy?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/vasectomy/conditioninfo/risk

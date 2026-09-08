@@ -1,0 +1,54 @@
+Title: G6PD
+
+Also Called:
+- Deficiencia de G6PD
+- Deficiencia de glucosa -6- fosfato-deshidrogenasa
+- G-6-PD
+- G6FD
+
+Summary:
+La deficiencia de glucosa -6- fosfato-deshidrogenasa (también llamada deficiencia de G-6-PD) es una enfermedad hereditaria que se da generalmente en los varones. Aproximadamente uno de cada 10 afroamericanos en los EE. UU. la padece. La deficiencia de G-6-PD afecta principalmente los
+glóbulos rojos
+, que son los que llevan el oxígeno desde los pulmones a los tejidos del cuerpo. El problema médico que puede causar es la
+anemia hemolítica
+. Esto sucede cuando los glóbulos rojos son destruidos antes que el cuerpo pueda reponerlos.
+Si usted sufre esta deficiencia, es posible que no tenga ningún síntoma. Estos comienzan cuando sus glóbulos rojos se combinan con ciertos químicos presentes en algunos alimentos o medicamentos o por ciertas infecciones bacterianas o virales o también por estrés. Estos síntomas incluyen:
+Palidez
+Ictericia
+Orina de color oscuro
+Cansancio
+Dificultad para respirar
+Agrandamiento del bazo
+Corazón que late rápidamente
+Un examen de sangre puede diagnosticar la enfermedad. Los tratamientos incluyen medicamentos para controlar la infección, la suspensión de cualquier sustancia que cause problemas con los glóbulos rojos y, a veces, transfusiones de sangre.
+NIH: Biblioteca Nacional de Medicina
+
+Groups:
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Deficiencia de G6PD (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/g6pd.html
+
+Resource: Deficiencia de glucosa -6- fosfato deshidrogenasa
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000528.htm
+
+Resource: Examen de glucosa-6-fosfato deshidrogenasa
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003671.htm
+
+Resource: Prueba de G6PD
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-g6pd/

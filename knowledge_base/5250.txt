@@ -1,0 +1,75 @@
+Title: Picaduras de arañas
+
+Summary:
+Aunque mucha gente le tiene miedo a las arañas, éstas generalmente no pican a las personas a menos que se sientan amenazadas. La mayoría de las picaduras de arañas son inofensivas. A veces pueden causar reacciones alérgicas. Pero las picaduras de la viuda negra o la reclusa parda pueden ser muy peligrosas.
+Si a usted le ha picado una araña, quizás tenga una reacción similar a la que puede ocasionarle una abeja, como enrojecimiento, dolor e hinchazón en el lugar de la picadura. Para tratar una picadura de araña:
+Lave el área afectada con agua y jabón
+Aplique hielo o una compresa húmeda
+Si necesita, tome un medicamento para el dolor de venta libre
+Considere tomar remedios para la alergia en caso de hinchazón severa
+Busque tratamiento médico para niños y adultos con síntomas graves
+
+Groups:
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Araña reclusa parda
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002859.htm
+
+Resource: Araña viuda negra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002858.htm
+
+Resource: Picadura de araña
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/mordeduras-y-picaduras/picadura-de-ara%C3%B1a
+
+Resource: Picadura de araña de tela en embudo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002844.htm
+
+Resource: Picadura de tarántula
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002855.htm
+
+Resource: Picaduras de arañas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spider-bites/symptoms-causes/syc-20352371?p=1
+
+Resource: Picaduras de arañas: primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-spider-bites/basics/art-20056618?p=1
+
+Resource: ¡Ay! ¡Me picó una araña viuda negra!
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/black-widow.html
+
+Resource: ¡Ay! ¡Me picó una coloradilla!
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/chigger.html
+
+Resource: ¡Ay! ¡Me picó una reclusa parda!
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/brown-recluse.html
+
+Resource: ¡Ay! ¡Me picó una tarántula!
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/tarantula.html
+
+Resource: ¿Qué hacer ante una picadura de araña? (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spider-bites-sheet.html

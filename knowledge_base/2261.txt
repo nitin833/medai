@@ -1,0 +1,144 @@
+Title: Enfermedades de la garganta
+
+Summary:
+La garganta es un tubo que lleva la comida hacia el esófago y el aire a la tráquea y la laringe. El nombre técnico de su garganta es faringe.
+Los problemas en la garganta son comunes. Probablemente, alguna vez tuvo un
+dolor de garganta
+. La causa suele ser una infección viral, pero otras causas incluyen alergias, infecciones por la bacteria
+estreptococo
+o ácidos del estómago que regresan al esófago, llamado
+reflujo gástroesofágico
+, o ERGE.
+Otros problemas que afectan la garganta incluyen:
+Amigdalitis
+Cáncer
+Crup
+: Inflamación, usualmente en niños pequeños, que causa una tos seca
+Faringitis: Inflamación de la faringe, lo que puede causar ronquera o pérdida de la voz
+La mayoría de los problemas de la garganta son menores y desaparecen por si solos. Cuando es necesario un tratamiento, depende del problema.
+
+Groups:
+- Pulmón y vías respiratorias
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Absceso retrofaríngeo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000984.htm
+
+Resource: Abscesos retrofaríngeos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/retropharyngeal-abscess.html
+
+Resource: Amigdalitis estreptocócica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000639.htm
+
+Resource: Biopsia de lesión orofaríngea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003850.htm
+
+Resource: Crup: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/croup.html
+
+Resource: Cultivo de muestra faríngea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003746.htm
+
+Resource: Epiglotitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000605.htm
+
+Resource: Escarlatina
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/scarlet-fever.html
+
+Resource: Faringoamigdalitis estreptocócica (Para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/strep-throat.html
+
+Resource: Herpangina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000969.htm
+
+Resource: Infección de garganta (faringitis, amigdalitis, faringoamigdalitis)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-de-la-boca-y-la-garganta/infecci%C3%B3n-de-garganta
+
+Resource: Laringitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001385.htm
+
+Resource: Laringoceles
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-de-la-laringe/laringoceles
+
+Resource: Laringoscopia y nasolaringoscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007507.htm
+
+Resource: Neuralgia glosofaríngea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001636.htm
+
+Resource: Obstrucción de las vías respiratorias altas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000067.htm
+
+Resource: Obtención de un exudado faríngeo
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-strep.html
+
+Resource: Papilomatosis respiratoria recurrente o papilomatosis laríngea
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/papilomatosis-respiratoria-recurrente
+
+Resource: Prueba de estreptococos A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estreptococos-a/
+
+Resource: Prueba estreptocócica: Cultivo de exudado faríngeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest11.html
+
+Resource: Prueba estreptocócica: Prueba rápida
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-rapid-strep.html
+
+Resource: Radiografía: Cuello (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-neck.html
+
+Resource: Tránsito esofagogastroduodenal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/transito-esofagogastroduodenal/
+
+Resource: ¿Cuándo es un dolor de garganta una infección más grave?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/ear-nose-throat/paginas/when-a-sore-thoat-is-a-more-serious-infection.aspx

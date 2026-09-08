@@ -1,0 +1,181 @@
+Title: Sepsis
+
+Summary:
+¿Qué es la sepsis?
+La sepsis es la respuesta abrumadora y extrema de su cuerpo a una
+infección
+. La sepsis es una emergencia médica que puede ser mortal. Sin un tratamiento rápido, puede provocar daños en los tejidos, falla orgánica e incluso la muerte.
+¿Qué causa la sepsis?
+La sepsis ocurre cuando una infección desencadena una reacción en cadena en todo el cuerpo. Las
+infecciones bacterianas
+son la causa más común, pero otros tipos de infecciones también pueden provocarla.
+Las infecciones a menudo ocurren en los pulmones, el estómago, los riñones o la vejiga. Es posible que la sepsis comience con un pequeño corte que se infecta o con una infección que se desarrolla después de una operación. A veces, la sepsis puede ocurrir en personas que ni siquiera sabían que tenían una infección.
+¿Quién tiene más probabilidades de tener sepsis?
+Cualquier persona que tiene una infección puede contraer sepsis. Pero ciertas personas tienen más probabilidades de tenerla:
+Adultos mayores de 65 años
+Personas con afecciones crónicas, como
+diabetes
+,
+enfermedad pulmonar
+,
+cáncer
+y
+enfermedad renal
+Personas con sistemas inmunitarios debilitados
+Mujeres embarazadas
+Niños menores de un año
+¿Cuáles son los síntomas de la sepsis?
+La sepsis puede causar uno o más de estos síntomas:
+Respiración y frecuencia cardíaca rápida
+Dificultad para respirar
+Confusión o desorientación
+Dolor o molestia extrema
+Fiebre
+, escalofríos o sensación de mucho frío
+Piel húmeda o sudorosa
+Es importante obtener atención médica
+de inmediato
+si cree que puede tener sepsis o si su infección no mejora o empeora.
+¿Qué otros problemas puede causar la sepsis?
+Los casos graves de sepsis pueden provocar shock séptico, en el cual la presión arterial cae a un nivel peligroso y pueden fallar varios órganos.
+¿Cómo se diagnostica la sepsis?
+Para saber si tiene sepsis, su profesional de la salud:
+Analizará su historia clínica, lo que incluye preguntas sobre sus síntomas
+Hará un examen físico, incluyendo medir sus
+signos vitales
+(temperatura, presión arterial, frecuencia cardíaca y respiración)
+Es probable que solicite pruebas de laboratorio para detectar signos de infección o daño a órganos
+Puede solicitar
+pruebas de imagen
+como
+radiografía
+o una
+tomografía computarizada
+para encontrar la ubicación de la infección
+Muchos de los signos y síntomas de la sepsis también pueden ser causados por otras afecciones médicas. Esto puede hacer que sea difícil de diagnosticar en sus primeras etapas.
+¿Cuáles son los tratamientos para la sepsis?
+Es muy importante recibir tratamiento de inmediato. En general, el tratamiento incluye:
+Antibióticos
+Mantener el flujo sanguíneo a los órganos, lo que puede significar asistencia con
+oxígeno
+y líquidos por vía intravenosa
+Tratar la causa de la infección
+Si es necesario, medicamentos para subir la presión arterial
+En casos graves, es posible que necesite diálisis renal o un tubo de respiración. Algunas personas necesitan cirugía para eliminar el tejido dañado por la infección.
+¿Se puede prevenir la sepsis?
+Para prevenir la sepsis, debe tratar de evitar una infección:
+Cuide bien cualquier afección de salud crónica que tenga
+Obtenga las vacunas que se recomiendan
+Practique una
+buena higiene
+, como lavarse las manos
+Mantenga las heridas limpias y cubiertas hasta que sanen
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Acidosis láctica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000391.htm
+
+Resource: Bacteriemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/bacteriemia-sepsis-y-choque-s%C3%A9ptico/bacteriemia
+
+Resource: Cultivo de sangre (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest3.html
+
+Resource: Cómo evitar la sepsis: Prevención de infecciones y mejora de la supervivencia
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-evitar-la-sepsis
+
+Resource: Hemocultivo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003744.htm
+
+Resource: Información Básica Sobre Sepsis
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/sepsis/es/about/
+
+Resource: Muertes relacionadas con el embarazo están aumentando y la septicemia es una de las principales razones
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/las-muertes-relacionadas-con-el-embarazo-estan-aumentando-y-la-septicemia-es-una-de-las-principales-razones
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Prueba de lactato
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato/
+
+Resource: Prueba de procalcitonina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-procalcitonina/
+
+Resource: Sepsis
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17032/la-sepsis/
+
+Resource: Sepsis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000666.htm
+
+Resource: Sepsis neonatal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007303.htm
+
+Resource: Septicemia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001355.htm
+
+Resource: Septicemia (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sepsis-es.html
+
+Resource: Septicemia neonatal por estreptococos del grupo B
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001366.htm
+
+Resource: Shock séptico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000668.htm
+
+Resource: Síndrome de shock tóxico
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/tss.html
+
+Resource: Síndrome de shock tóxico
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toxic-shock.html
+
+Resource: Síndrome de shock tóxico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000653.htm
+
+Resource: ¿Qué es la septicemia?
+Category: NIH Revista MedlinePlus Salud, Spanish/Español
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/que-es-la-septicemia

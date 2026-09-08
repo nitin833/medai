@@ -1,0 +1,133 @@
+Title: Evacuación de las heces
+
+Also Called:
+- Defecación
+- Evacuación fecal
+- Ir de cuerpo
+- Mover el vientre
+
+Summary:
+La evacuación de las heces es el último paso de la comida en el camino por el tracto digestivo. Las heces salen del cuerpo a través del recto y del ano. Otro nombre para las heces es materia fecal o excremento. Las heces están hechas de lo que queda después de que el aparato digestivo (estómago, intestino delgado y colon) absorbe los nutrientes y líquidos de lo que usted comió y tomó.
+A veces, pueden surgir problemas en este proceso. La
+diarrea
+ocurre cuando las heces pasan por el intestino largo muy rápidamente. También se puede sufrir de
+estreñimiento
+, que es cuando la materia fecal pasa a través del intestino muy lentamente. La
+incontinencia fecal
+es un problema para controlar la evacuación de la materia fecal. Otras anormalidades con la evacuación de las heces pueden ser un signo de un problema digestivo.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Análisis de heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: Color de las heces: Cuándo puede ser preocupante
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/diarrhea/expert-answers/stool-color/faq-20058080?p=1
+
+Resource: Coprocultivo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003758.htm
+
+Resource: Cuidado de la piel e incontinencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003976.htm
+
+Resource: Defecografía por RM
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/defecography-mri
+
+Resource: Diferentes colores del popó de bebé: Cuándo hay que preocuparse
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/baby/Paginas/the-many-colors-of-poop.aspx
+
+Resource: Dispositivos externos para la incontinencia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003974.htm
+
+Resource: Encopresis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/encopresis.html
+
+Resource: Examen de guayacol en heces
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003393.htm
+
+Resource: Examen de huevos y parásitos en las heces
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003756.htm
+
+Resource: Frotis fecal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003755.htm
+
+Resource: Heces con olor fétido
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003132.htm
+
+Resource: Heces flotantes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003128.htm
+
+Resource: Heces negras o alquitranosas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003130.htm
+
+Resource: Heces pálidas o de color arcilla
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003129.htm
+
+Resource: Manometría anorrectal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007846.htm
+
+Resource: Movimientos intestinales frecuentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/frequent-bowel-movements/basics/definition/sym-20050720?p=1
+
+Resource: Programa de cuidado diario del intestino
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000133.htm
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Reeducación del esfínter anal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003971.htm
+
+Resource: Retención fecal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000230.htm
+
+Resource: Tenesmo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003131.htm

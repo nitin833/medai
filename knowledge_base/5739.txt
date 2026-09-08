@@ -1,0 +1,111 @@
+Title: Bone Infections
+
+Summary:
+Like other parts of the body, bones can get infected. The infections are usually bacterial, but can also be fungal. They may spread to the bone from nearby skin or muscles, or from another part of the body through the bloodstream. People who are at risk for bone infections include those with
+diabetes
+, poor circulation, or recent injury to the bone. You may also be at risk if you are having
+hemodialysis
+.
+Symptoms of bone infections include:
+Pain in the infected area
+Chills and fever
+Swelling, warmth, and redness
+A blood test or imaging test such as an x-ray can tell if you have a bone infection. Treatment includes antibiotics and often surgery.
+
+Groups:
+- Bones, Joints and Muscles
+- Infections
+
+MeSH Headings:
+- Bone Diseases, Infectious
+
+Related Resources:
+
+Resource: Bone lesion biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003923.htm
+
+Resource: Bone pain or tenderness
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003180.htm
+
+Resource: Bone Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bone-scan/about/pac-20393136?p=1
+
+Resource: Bone x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003808.htm
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: ClinicalTrials.gov: Bone Diseases, Infectious
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bone+Diseases,+Infectious%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Osteomyelitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Osteomyelitis%22&aggFilters=status:not%20rec
+
+Resource: Disseminated tuberculosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000624.htm
+
+Resource: Hyperbaric Oxygen Therapy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/hyperbaric-oxygen-therapy/about/pac-20394380?p=1
+
+Resource: Musculoskeletal MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/muscmr
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Osteomyelitis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/osteomyelitis.html
+
+Resource: Osteomyelitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000437.htm
+
+Resource: Osteomyelitis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/osteomyelitis/symptoms-causes/syc-20375913?p=1
+
+Resource: Osteomyelitis
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/osteomyelitis.html
+
+Resource: Osteomyelitis - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000297.htm
+
+Resource: Osteomyelitis in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007697.htm
+
+Resource: Bone Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Diseases%2C+Infectious%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29

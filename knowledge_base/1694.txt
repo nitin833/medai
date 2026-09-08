@@ -1,0 +1,208 @@
+Title: Spinal Muscular Atrophy
+
+Also Called:
+- SMA
+
+Summary:
+What is spinal muscular atrophy (SMA)?
+Spinal muscular atrophy (SMA) is a group of
+genetic diseases
+that damages and kills motor neurons. Motor neurons are a type of nerve cell in the spinal cord and lower part of the brain. They control movement in your arms, legs, face, chest, throat, and tongue.
+As the motor neurons die off, your muscles start to weaken and atrophy (waste away). The muscle damage gets worse over time and can affect speaking, walking, swallowing, and breathing.
+What are the types of spinal muscular atrophy (SMA) and what are their symptoms?
+There are different types of SMA. They are based on how serious the disease is and when the symptoms start:
+Type l
+is also called Werdnig-Hoffman disease or infantile-onset SMA. It is the most severe type. It is also the most common. Babies with this type usually show signs of the disease before 6 months of age. In more severe cases, the signs show up even before or just after birth (Types 0 or 1A). The babies may have trouble
+swallowing
+and
+breathing
+and may not move around a lot. They have chronic shortening of muscles or tendons (called contractures). They usually cannot sit up without help. Without treatment, many children with this type will die before 2 years of age.
+Type ll
+is a moderate to severe type of SMA. It usually first noticed between 6 and 18 months of age. Most children with this type can sit without support but cannot stand or walk without help. They may also have trouble breathing. They can usually live into adolescence or young adulthood.
+Type lll
+is also called Kugelberg-Welander disease. It is the mildest type that affects children. The signs of the disease usually show up after age 18 months. Children with this type can walk by themselves but may have trouble running, getting up from a chair, or climbing stairs. They may also have
+scoliosis
+(curvature of the spine), contractures, and respiratory infections. With treatment, most children with this type will have a normal lifespan.
+Type IV
+is rare and often mild. It usually causes symptoms after 21 years of age. The symptoms include mild to moderate leg muscle weakness,
+tremors
+, and mild breathing problems. The symptoms slowly get worse over time. People with this type of SMA have a normal lifespan.
+What causes spinal muscular atrophy (SMA)?
+Most types of SMA are caused by a
+change in the SMN1 gene
+. This gene is responsible for making a protein that the motor neurons need to be healthy and to function. But when part of the SMN1 gene is missing or abnormal, there isn't enough protein for the motor neurons. This causes the motor neurons to die off.
+Most people have two copies of the SM1 gene - one from each parent. SMA normally only happens when both copies have the gene change. If only one copy has the change, there usually aren't any symptoms. But that gene could be passed down from parent to child.
+Some of the less common types of SMA may be caused by changes in other genes.
+How is spinal muscular atrophy (SMA) diagnosed?
+Your health care provider may use many tools to diagnose SMA:
+A physical exam
+A medical history, including asking about family history
+Genetic testing
+to check for the gene changes that cause SMA
+Electromyography and nerve conduction studies
+and a muscle
+biopsy
+may be done, especially if no gene changes were found
+Parents who have a family history of SMA may want to do a
+prenatal test
+to check to see whether their baby has an SMN1 gene change. An
+amniocentesis
+or in some cases a chorionic villi sampling (CVS) is used to get the sample for testing.
+In some states, genetic testing for SMA is part of
+newborn screening tests
+.
+What are the treatments for spinal muscular atrophy (SMA)?
+There is no cure for SMA. Treatments can help manage symptoms and prevent complications. They may include:
+Medicines to help the body make more of the proteins that the motor neurons need
+Gene therapy for children under 2 years of age
+Physical, occupational, and rehabilitation therapy to help to improve posture and the mobility of the joints. These therapies may also improve blood flow and slow muscle weakness and atrophy. Some people may also need therapy for
+trouble speaking
+, chewing, and swallowing.
+Assistive devices
+such as supports or braces, orthotics, speech synthesizers, and wheelchairs to help people stay more independent
+Good nutrition and a balanced diet to help maintain weight and strength. Some people might need a feeding tube in order to get the nutrition they need.
+Breathing support for people who have muscle weakness in the neck, throat, and chest. The support may include devices to help with breathing during the day and to prevent sleep apnea at night. Some people might need to be on a ventilator.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Muscular Atrophy, Spinal
+
+Related Resources:
+
+Resource: About Spinal Muscular Atrophy (SMA): Frequently Asked Questions
+Category: Start Here
+Organization: Spinal Muscular Atrophy Foundation
+URL: https://smafoundation.org/about-sma/faq/
+
+Resource: ClinicalTrials.gov: Muscular Atrophy, Spinal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Muscular+Atrophy,+Spinal%22&aggFilters=status:not%20rec
+
+Resource: Describing SMA
+Category: Start Here
+Organization: Cure SMA
+URL: https://www.curesma.org/describing-sma/
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: Genetics
+Category: Prevention and Risk Factors
+Organization: Cure SMA
+URL: https://www.curesma.org/genetics/
+
+Resource: Kennedy's Disease Symptoms
+Category: Symptoms
+Organization: Kennedy's Disease Association
+URL: https://kennedysdisease.org/living-with-kd/what-is-kennedys-disease/symptoms.html
+
+Resource: Learning about Spinal Muscular Atrophy
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Spinal-Muscular-Atrophy
+
+Resource: Medical Issues: Breathing Risks and Care
+Category: Living With
+Organization: Cure SMA
+URL: https://www.curesma.org/breathing/
+
+Resource: Medical Issues: Musculoskeletal
+Category: Living With
+Organization: Cure SMA
+URL: https://www.curesma.org/musculoskeletal/
+
+Resource: Medical Issues: Nutrition
+Category: Living With
+Organization: Cure SMA
+URL: https://www.curesma.org/nutrition/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Newborn Screening for SMA
+Category: Diagnosis and Tests
+Organization: Cure SMA
+URL: https://www.curesma.org/newborn-screening-for-sma/
+
+Resource: Spinal Muscular Atrophy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Muscular+Atrophy%2C+Spinal%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: SMA: Infants and Children
+Category: Children
+Organization: Cure SMA
+URL: https://www.curesma.org/infants-and-children/
+
+Resource: SMA: Testing & Diagnosis
+Category: Diagnosis and Tests
+Organization: Cure SMA
+URL: https://www.curesma.org/testing-diagnosis/
+
+Resource: SMArt Moves: Early Action
+Category: Symptoms
+Organization: Cure SMA
+URL: https://smartmoves.curesma.org/early-action/
+
+Resource: SMArt Moves: Early Treatment
+Category: Treatments and Therapies
+Organization: Cure SMA
+URL: https://smartmoves.curesma.org/early-treatment/
+
+Resource: Spinal and bulbar muscular atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinal-and-bulbar-muscular-atrophy
+
+Resource: Spinal muscular atrophy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000996.htm
+
+Resource: Spinal Muscular Atrophy
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/spinal-muscular-atrophy
+
+Resource: Spinal Muscular Atrophy (SMA)
+Category: Start Here
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/2020/11/MDA_SMA_Fact_Sheet_Nov_2020.pdf
+
+Resource: Spinal Muscular Atrophy (SMA)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sma.html
+
+Resource: Spinal muscular atrophy with lower extremity predominance: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinal-muscular-atrophy-with-lower-extremity-predominance
+
+Resource: Spinal muscular atrophy with progressive myoclonic epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinal-muscular-atrophy-with-progressive-myoclonic-epilepsy
+
+Resource: Spinal muscular atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinal-muscular-atrophy
+
+Resource: Swallowing problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000065.htm
+
+Resource: X-linked infantile spinal muscular atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-infantile-spinal-muscular-atrophy

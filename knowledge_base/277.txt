@@ -1,0 +1,586 @@
+Title: Heart Diseases
+
+Also Called:
+- Cardiac diseases
+
+Summary:
+What is heart disease?
+Heart disease is a general term that includes many types of heart problems. It's a type of cardiovascular disease, which means heart and blood vessel disease.
+Heart disease is the leading cause of death in the United States, but there are ways to prevent and manage many types of heart disease.
+What are the types of heart disease?
+There are many different types of heart disease. Some you may be born with, called
+congenital heart disease
+. Other types develop during your lifetime.
+Coronary artery disease
+(also called coronary heart disease) is the most common type of heart disease. It happens slowly over time when a sticky substance called plaque builds up in the arteries that supply your heart muscle with blood. The plaque narrows or blocks blood flow to the heart muscle and can lead to other heart problems:
+Angina
+- chest pain from lack of blood flow
+Heart attacks
+- when part of the heart muscle dies from loss of blood flow
+Heart failure
+- when your heart can't pump enough blood to meet your body's needs
+Arrhythmia
+- a problem with the rate or rhythm of your heartbeat
+Other types of heart diseases may affect your
+heart valves
+or heart muscle (
+cardiomyopathy
+).
+What causes heart diseases?
+The causes of heart disease depend on the type of disease. Some possible causes include lifestyle, genetics, infections, medicines, and other diseases.
+Who is more likely to develop heart diseases?
+There are many different factors that can make you more likely to develop heart disease. Some of these factors you can change, but others you cannot.
+Age.
+Your risk of heart disease goes up as you get older.
+Sex.
+Some factors may affect heart disease risk differently in
+women
+than in men.
+Family history and genetics.
+A family history of early heart disease raises your risk. And research has shown that some genes are linked to a higher risk of certain heart diseases.
+Race/ethnicity.
+Heart disease is the leading cause of death in most racial and ethnic groups in the United States. However, certain groups have higher risks than others. This includes Black people, White people, and American Indian/Alaska Native people.
+Lifestyle habits.
+Over time, unhealthy lifestyle habits can raise your risk of heart disease. These can include:
+Eating a diet high in saturated
+fats
+, refined carbohydrates, and
+salt
+.
+Not getting
+enough physical activity
+.
+Drinking too much
+alcohol
+.
+Smoking
+and exposure to
+secondhand smoke
+.
+Too much
+stress
+.
+Having other medical conditions
+can raise your risk of heart diseases. These conditions include:
+High blood pressure
+.
+High
+cholesterol levels
+.
+Diabetes
+.
+Obesity
+.
+Autoimmune
+and inflammatory diseases.
+Chronic kidney disease
+.
+Metabolic syndrome
+.
+What are the symptoms of heart disease?
+Your symptoms will depend on the type of heart disease you have. You may not have symptoms at first. In some cases, you may not know you have heart disease until you have a complication such as a heart attack.
+How are heart diseases diagnosed?
+To find out if you have heart disease, your health care provider will:
+Ask about your
+medical history
+, including your symptoms
+Ask about your
+family health history
+, including relatives who have had heart disease
+Do a
+physical exam
+Likely run
+heart tests
+and
+blood tests
+In some cases, your provider may refer you to a cardiologist (a doctor who specializes in heart diseases) for tests, diagnosis, and care.
+What are the treatments for heart disease?
+Treatment plans for heart disease depend on the type of heart disease you have, how serious your symptoms are, and what other health conditions you have. Possible treatments may include:
+Heart-healthy lifestyle changes
+Medicines
+Procedures or
+surgeries
+Cardiac rehabilitation
+Can heart diseases be prevented?
+You may be able to lower your risk of certain heart diseases by making
+heart-healthy lifestyle changes
+and managing any other medical conditions you have.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Older Adults
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Heart Diseases
+
+Related Resources:
+
+Resource: 3 Delicious Heart Healthy Recipes
+Category: Videos and Tutorials
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.youtube.com/watch?v=gdlVJOkmJd4
+
+Resource: About Men and Heart Disease
+Category: Men
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease/about/men-and-heart-disease.html
+
+Resource: About the Atlas of Heart Disease and Stroke
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease-stroke-atlas/about/
+
+Resource: Aging changes in the heart and blood vessels
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004006.htm
+
+Resource: Air Pollution, Climate, and Heart Disease
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.113.003988
+
+Resource: All about Heart Rate
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Aspirin and heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000092.htm
+
+Resource: Atrial myxoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007273.htm
+
+Resource: Being active when you have heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000094.htm
+
+Resource: Black People, Heart Disease and Stroke
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/african-americans-and-heart-disease-stroke
+
+Resource: Blood flow
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000012.htm
+
+Resource: Blood Thinners: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodthinners.html
+
+Resource: C-reactive protein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003356.htm
+
+Resource: Cardiac amyloidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000193.htm
+
+Resource: Cardiac Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cardiacrehabilitation.html
+
+Resource: Cardiac Sarcoidosis
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/cardiac-sarcoidosis
+
+Resource: Cardiovascular system
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000023.htm
+
+Resource: Chelation for Coronary Heart Disease: What You Need To Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/chelation-for-coronary-heart-disease-what-you-need-to-know
+
+Resource: Cholesterol Levels
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cholesterol-levels/
+
+Resource: Chronic Kidney Disease, Diabetes, and Heart Disease
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/kidney-disease/risk-factors/link-between-diabetes-and-heart-disease.html
+
+Resource: ClinicalTrials.gov: Cardiovascular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cardiovascular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Heart Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Heart+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Coping with Feelings
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/coping-with-feelings
+
+Resource: CPK isoenzymes test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003504.htm
+
+Resource: Diabetes, Heart Disease, and Stroke
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke
+
+Resource: Doctor Finder (Database of Interventional Radiologists)
+Category: Find an Expert
+Organization: Society of Interventional Radiology
+URL: https://www.sirweb.org/doctor-finder/
+
+Resource: Electrocardiogram
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003868.htm
+
+Resource: Enlarged Heart
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/enlarged-heart/symptoms-causes/syc-20355436?p=1
+
+Resource: Exercise stress test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003878.htm
+
+Resource: Familial HDL deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hdl-deficiency
+
+Resource: FastStats: Heart Disease
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/heart-disease.htm
+
+Resource: Five Things to Know about Omega-3s for Heart Disease
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-omegas-for-heart-disease
+
+Resource: Flu and People with Heart Disease or History of Stroke
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/heartdisease.html
+
+Resource: Healthy Recipes
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/recipes/
+
+Resource: Heart Anatomy
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/
+
+Resource: Heart and Stroke Statistics
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-and-stroke-association-statistics
+
+Resource: Heart and vascular services
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007459.htm
+
+Resource: Heart Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/heart-disease/symptoms-causes/syc-20353118?p=1
+
+Resource: Heart Disease (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/heart-disease.html
+
+Resource: Heart disease - risk factors
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000106.htm
+
+Resource: Heart disease and depression
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000790.htm
+
+Resource: Heart disease and intimacy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000540.htm
+
+Resource: Heart Disease Facts
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease/data-research/facts-stats/index.html
+
+Resource: Heart Disease in Women: MedlinePlus Health Topic
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/heartdiseaseinwomen.html
+
+Resource: Heart Disease Risk Assessment
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/heart-disease-risk-assessment/
+
+Resource: Heart Disease Risk Factors
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease/risk-factors/
+
+Resource: Heart Health
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/heart-health
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Heart palpitations
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003081.htm
+
+Resource: Heart Palpitations Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003081_33.htm
+
+Resource: Heart Surgery: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/heartsurgery.html
+
+Resource: Herbal Supplements and Heart Medicines May Not Mix
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488?p=1
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: How to Prevent Heart Disease: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/howtopreventheartdisease.html
+
+Resource: Illegal Drugs and Heart Disease
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/illegal-drugs-and-heart-disease
+
+Resource: Inflammation and Heart Disease
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/inflammation-and-heart-disease
+
+Resource: Know the Difference: Cardiovascular Disease, Heart Disease, and Coronary Heart Disease
+Category: Patient Handouts
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/FactSheetKnowDiffDesign2020V4a.pdf
+
+Resource: Left Ventricular Hypertrophy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/left-ventricular-hypertrophy/symptoms-causes/syc-20374314?p=1
+
+Resource: Lipoprotein (a) Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lipoprotein-a-blood-test/
+
+Resource: Medication Adherence: Taking Your Meds as Directed
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-adherence-taking-your-meds-as-directed
+
+Resource: Medication Interactions: Food, Supplements, and Other Drugs
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/medication-information/medication-interactions-food-supplements-and-other-drugs
+
+Resource: Medication Management
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/medication-information
+
+Resource: Mental Health and Heart Health
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/mental-health-and-heart-health
+
+Resource: Myocardial Bridge
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/myocardial-bridge/
+
+Resource: Myocardial contusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000202.htm
+
+Resource: Myocardial Ischemia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/myocardial-ischemia/symptoms-causes/syc-20375417?p=1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pacemakers and Implantable Defibrillators: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pacemakersandimplantabledefibrillators.html
+
+Resource: People at Higher Risk of Flu Complications
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/
+
+Resource: Picturing the Heart
+Category: Diagnosis and Tests
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/picturing-heart
+
+Resource: Heart Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Heart+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003399.htm
+
+Resource: Pulse - bounding
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003077.htm
+
+Resource: Racial and Ethnic Dispartities in Heart Disease
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/hus/spotlight/HeartDiseaseSpotlight_2019_0404.pdf
+
+Resource: Risks for Heart Disease and Stroke
+Category: Prevention and Risk Factors
+Organization: Department of Health and Human Services
+URL: https://millionhearts.hhs.gov/learn-prevent/risks.html
+
+Resource: Simple, heart-smart substitutions
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000746.htm
+
+Resource: Swan-Ganz - right heart catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003870.htm
+
+Resource: Take Action for Your Heart: Get Started!
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/take-action-your-heart-get-started-fact-sheet
+
+Resource: Take Diabetes to Heart
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/take-diabetes-heart-fact-sheet
+
+Resource: Tangier disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tangier-disease
+
+Resource: Top 10 Myths about Cardiovascular Disease
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/top-10-myths-about-cardiovascular-disease
+
+Resource: Types of Heart Medications
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/treatment-of-a-heart-attack/cardiac-medications
+
+Resource: Understanding cardiovascular disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000759.htm
+
+Resource: Ventricular assist device
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007268.htm
+
+Resource: Ventricular Assist Device (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vad.html
+
+Resource: VLDL test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003494.htm
+
+Resource: Warning signs and symptoms of heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000775.htm
+
+Resource: What Are Heart Disease and Stroke?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-are-heart-disease-and-stroke.pdf
+
+Resource: What Is Heart-Healthy Living?
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living
+
+Resource: What the Latest Heart Disease and Stroke Numbers Mean for Your Health
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/news/2026/01/21/what-the-latest-heart-disease-and-stroke-numbers-mean-for-your-health
+
+Resource: Williams syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/williams-syndrome
+
+Resource: Your Guide to Living Well with Heart Disease
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/06-5716.pdf

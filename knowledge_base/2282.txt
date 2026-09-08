@@ -1,0 +1,134 @@
+Title: Leucodistrofias
+
+Summary:
+¿Qué son las leucodistrofias?
+Las leucodistrofias son un grupo de
+raros que afectan el sistema nervioso central, el que está formado por su cerebro y médula espinal. Las leucodistrofias dañan la sustancia blanca (o materia blanca) de su sistema nervioso central. La sustancia blanca incluye:
+Fibras nerviosas: Conectan las células nerviosas, también se conocen como axones
+Mielina: Capa de proteínas y materia grasa que recubre y protege las fibras nerviosas. También ayuda a acelerar las señales entre las células nerviosas
+Cuando la sustancia blanca está dañada, puede hacer más lentas o bloquear las señales entre las células nerviosas. Esto puede causar muchos síntomas diferentes, incluyendo problemas de
+movimiento
+,
+vista
+,
+audición
+y pensamiento.
+Hay más de 50 tipos de leucodistrofias. Algunos tipos están presentes al nacer, mientras que otros pueden no causar síntomas hasta que el niño comienza a caminar. Algunos tipos afectan principalmente a los adultos. La mayoría de los tipos empeoran con el tiempo.
+¿Qué causa las leucodistrofias?
+Las leucodistrofias son causadas por cambios genéticos. En general, estos cambios se heredan, lo que significa que se transmiten de padres a hijos.
+¿Cuáles son los síntomas de las leucodistrofias?
+Los síntomas de las leucodistrofias dependen del tipo. Pueden incluir una pérdida gradual de:
+Tono muscular
+Equilibrio
+y movilidad
+El caminar
+El habla
+Habilidad para comer
+La visión
+El escuchar
+El comportamiento
+También puede haber otros síntomas, como:
+Problemas del aprendizaje
+Problemas de la vejiga
+Problemas respiratorios
+Problemas del desarrollo
+Trastornos del control muscular
+Convulsiones
+¿Cómo se diagnostican las leucodistrofias?
+Las leucodistrofias pueden ser difíciles de diagnosticar porque hay muchos tipos diferentes que pueden tener síntomas distintos. Su profesional de la salud puede hacer un diagnóstico al evaluar:
+Exámenes físicos y
+neurológicos
+Su historia clínica, incluyendo preguntas sobre antecedentes familiares
+Pruebas de imágenes
+, como una
+resonancia magnética
+o una
+tomografía computarizada
+Pruebas genéticas
+para buscar cambios genéticos que podrían causar leucodistrofias
+Pruebas de laboratorio
+¿Cuáles son los tratamientos para las leucodistrofias?
+No existe cura para las leucodistrofias. El tratamiento busca aliviar los síntomas y brindar apoyo. Puede incluir:
+Medicamentos para controlar el tono muscular, las convulsiones y la rigidez muscular (espasticidad)
+Terapias físicas, ocupacionales y del habla para mejorar la movilidad, la función y los problemas cognitivos
+Terapia nutricional para problemas de alimentación y para tragar
+Programas educativos y recreativos
+El trasplante de
+células madre
+o de
+médula ósea
+puede ayudar en algunos tipos de leucodistrofia.
+Un tipo de leucodistrofia, xantomatosis cerebrotendinosa (CTX), es tratable si se diagnostica temprano. Se trata con terapia de reemplazo de ácido quenodesoxicólico.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Adrenoleucodistrofia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001182.htm
+
+Resource: Adrenoleucodistrofia (ALD) y el trasplante
+Category: Spanish/Español, Tratamientos y terapias
+Organization: NMDP
+URL: https://www.nmdp.org/-/media/project/nmdp/nmdpsite/pdfs/patients-and-families/support-for-you-and-your-family/apoyo-en-espanol/nmdp-document-np01429-transplant-ald-factsheet-spanish.pdf
+
+Resource: Adrenoleucodistrofia ligada al X
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12216/adrenoleucodistrofia-ligada-al-x/
+
+Resource: CADASIL
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/cadasil
+
+Resource: Enfermedad de Canavan
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001586.htm
+
+Resource: Enfermedad de Krabbe
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001198.htm
+
+Resource: Leucodistrofia
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/leucodistrofia
+
+Resource: Leucodistrofia metacromática
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12627/leucodistrofia-metacromatica/
+
+Resource: Leucodistrofia metacromática
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001205.htm
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: Síndrome de Aicardi-Goutières
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/sindrome-de-aicardi-goutieres
+
+Resource: Trasplante y la leucodistrofia de células globoides (LCG)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: NMDP
+URL: https://www.nmdp.org/-/media/project/nmdp/nmdpsite/pdfs/patients-and-families/support-for-you-and-your-family/apoyo-en-espanol/nmdp-document-np01427-transplant-krabbe-factsheet-spanish.pdf

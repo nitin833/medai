@@ -1,0 +1,136 @@
+Title: Addison Disease
+
+Also Called:
+- Adrenocortical hypofunction
+- Hypocortisolism
+- Primary adrenal insufficiency
+
+Summary:
+Your adrenal glands are just above your kidneys. The outside layer of these glands makes hormones that help your body respond to stress and regulate your blood pressure and water and salt balance.  Addison disease happens if the adrenal glands don't make enough of these hormones.
+A problem with your immune system usually causes Addison disease. The immune system mistakenly attacks your own tissues, damaging your adrenal glands. Other causes include infections and cancer.
+Symptoms include:
+Weight loss
+Muscle weakness
+Fatigue that gets worse over time
+Low blood pressure
+Patchy or dark skin
+Lab tests can confirm that you have Addison disease.  If you don't treat it, it can be fatal. You will need to take hormone pills for the rest of your life.  If you have Addison disease, you should carry an emergency ID. It should say that you have the disease, list your medicines and say how much you need in an emergency.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Immune System
+- Endocrine System
+
+MeSH Headings:
+- Addison Disease
+
+Related Resources:
+
+Resource: 24-hour urinary aldosterone excretion rate
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003621.htm
+
+Resource: ACTH blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003695.htm
+
+Resource: ACTH stimulation test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003696.htm
+
+Resource: Acute adrenal crisis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000357.htm
+
+Resource: Addison disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000378.htm
+
+Resource: Addison's Disease: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/addisons-disease/diagnosis-treatment/drc-20350296?p=1
+
+Resource: Addison's Disease: Symptoms and Causes
+Category: Symptoms
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/addisons-disease/symptoms-causes/syc-20350293?p=1
+
+Resource: Adrenal Insufficiency
+Category: Start Here
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/adrenal-insufficiency
+
+Resource: Adrenal Insufficiency and Addison's Disease
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease
+
+Resource: Adrenocorticotropic Hormone (ACTH)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/adrenocorticotropic-hormone-acth/
+
+Resource: Aldosterone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/aldosterone-test/
+
+Resource: Autoantibody Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/autoantibody-testing/
+
+Resource: Autoimmune Addison disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autoimmune-addison-disease
+
+Resource: ClinicalTrials.gov: Addison Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Addison+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Adrenal Insufficiency
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adrenal+Insufficiency%22&aggFilters=status:not%20rec
+
+Resource: Cortisol blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003693.htm
+
+Resource: Cortisol Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cortisol-test/
+
+Resource: Cortisol urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003703.htm
+
+Resource: Endocrine Society
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Addison Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Addison+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/renin-test

@@ -1,0 +1,119 @@
+Title: Cirugía
+
+Summary:
+Existen muchas razones para someterse a una cirugía. Algunas operaciones pueden aliviar o prevenir el dolor. Otras pueden disminuir un síntoma de alguna afección o mejorar alguna función del cuerpo. Algunas cirugías se hacen para detectar un problema. Por ejemplo, un cirujano puede hacerle una
+biopsia
+, que implica la extirpación de tejido para examinarlo bajo el microscopio. Algunas operaciones, como la
+cirugía de corazón
+, pueden salvarle la vida.
+Algunas operaciones que antes necesitaban de grandes incisiones (cortes en el cuerpo) pueden hacerse con cortes mucho más pequeños. A esto se le llama cirugía laparoscópica. Los cirujanos insertan un tubo delgado con una cámara para ver, y utilizan pequeñas herramientas para realizar la operación.
+Puede haber complicaciones
+después de una cirugía
+, incluyendo infecciones, sangrado excesivo, reacciones a la
+anestesia
+o lesiones accidentales. Casi siempre las cirugías implican algo de dolor.
+Agencia Para la Calidad e Investigación y Cuidado de la Salud
+
+Groups:
+- Cirugía y rehabilitación
+
+Related Resources:
+
+Resource: Applicación QuestionBuilder en español
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/es/questions/question-builder/index.html
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Cirugía
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/temas-especiales/cirug%C3%ADa/cirug%C3%ADa
+
+Resource: Cirugía de la piel con láser
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002958.htm
+
+Resource: Cirugía electiva (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/elective.html
+
+Resource: Cirugía laparoscópica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100166_1.htm
+
+Resource: Cirugía robótica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007339.htm
+
+Resource: Cómo escoger el mejor hospital para su cirugía
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007497.htm
+
+Resource: Cómo obtener una lectura precisa con oxímetros de pulso
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-obtener-una-lectura-precisa-con-oximetros-de-pulso
+
+Resource: Donación de sangre antes de la cirugía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000367.htm
+
+Resource: Día de la cirugía en adultos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000578.htm
+
+Resource: Día de la cirugía para su hijo
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000579.htm
+
+Resource: Exámenes y consultas antes de la cirugía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000479.htm
+
+Resource: Prepararse para cirugía cuando tenga diabetes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000702.htm
+
+Resource: Prevenir infecciones en la cirugía de su hijo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/preventing-infections-surgery.html
+
+Resource: Procurar estar saludable antes de la cirugía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000433.htm
+
+Resource: Pulsioximetría
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/
+
+Resource: Segundas opiniones quirúrgicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/second-surgical-opinions
+
+Resource: Tabaquismo y cirugía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000437.htm
+
+Resource: Ventilador/Soporte ventilatorio: ¿Qué es?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/ventilador

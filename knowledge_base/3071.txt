@@ -1,0 +1,73 @@
+Title: Acupuncture
+
+Summary:
+Acupuncture has been practiced in China and other Asian countries for thousands of years. Acupuncture involves stimulating specific points on the body. This is most often done by inserting thin needles through the skin, to cause a change in the physical functions of the body.
+Research has shown that acupuncture reduces nausea and vomiting after surgery and chemotherapy. It can also relieve pain. Researchers don't fully understand how acupuncture works. It might aid the activity of your body's pain-killing chemicals. It also might affect how you release chemicals that regulate blood pressure and flow.
+NIH: National Center for Complementary and Integrative Health
+
+Groups:
+- Complementary and Alternative Therapies
+
+MeSH Headings:
+- Acupuncture Therapy
+
+Related Resources:
+
+Resource: 6 Things to Know When Selecting a Complementary Health Practitioner
+Category: Learn More
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-when-selecting-a-complementary-health-practitioner
+
+Resource: Acupuncture
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/acupuncture/about/pac-20392763?p=1
+
+Resource: Acupuncture
+Category: Learn More
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/acupuncture/
+
+Resource: Acupuncture
+Category: Learn More
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/acupuncture-pdq
+
+Resource: Acupuncture (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/acupuncture.html
+
+Resource: Acupuncture: Effectiveness and Safety
+Category: Learn More
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety
+
+Resource: Chronic Pain and Complementary Health Approaches
+Category: Learn More
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/chronic-pain-and-complementary-health-approaches-usefulness-and-safety
+
+Resource: ClinicalTrials.gov: Acupuncture Therapy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=acupuncture&aggFilters=status:not%20rec
+
+Resource: Credentialing, Licensing, and Education
+Category: Learn More
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/credentialing-licensing-and-education
+
+Resource: Find a Practitioner Directory
+Category: Learn More
+Organization: National Certification Commission for Acupuncture and Oriental Medicine
+URL: https://www.nccaom.org/find-a-practitioner-directory/
+
+Resource: National Center for Complementary and Integrative Health
+Category: Learn More
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/
+
+Resource: Acupuncture
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Acupuncture+Therapy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

@@ -1,0 +1,145 @@
+Title: Facial Injuries and Disorders
+
+Summary:
+Face injuries and disorders can cause pain and affect how you look. In severe cases, they can affect sight, speech, breathing and your ability to swallow.
+Fractures
+(broken bones), especially in the bones of your nose, cheekbone and
+jaw
+, are common facial injuries.
+Certain diseases also lead to facial disorders. For example, nerve diseases like
+trigeminal neuralgia
+or
+Bell's palsy
+sometimes cause facial pain, spasms and trouble with eye or facial movement. Birth defects can also affect the face. They can cause underdeveloped or unusually prominent facial features or a lack of facial expression.
+Cleft lip and palate
+are a common facial birth defect.
+
+Groups:
+- Brain and Nerves
+- Ear, Nose and Throat
+- Injuries and Wounds
+
+MeSH Headings:
+- Craniofacial Abnormalities
+- Facial Injuries
+
+Related Resources:
+
+Resource: Blowout Fracture
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/blowout-fracture
+
+Resource: ClinicalTrials.gov: Craniofacial Abnormalities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Craniofacial+Abnormalities%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Facial Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Facial+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Coffin-Lowry Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/coffin-lowry-syndrome
+
+Resource: Coffin-Lowry syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/coffin-lowry-syndrome
+
+Resource: Corrective Jaw Surgery
+Category: Treatments and Therapies
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/what-we-do/corrective-jaw-surgery/
+
+Resource: Face pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003027.htm
+
+Resource: Facial Hemiatrophy
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7338/progressive-hemifacial-atrophy
+
+Resource: Facial nerve palsy due to birth trauma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001425.htm
+
+Resource: Facial paralysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003028.htm
+
+Resource: Facial Reanimation Surgery
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/facial-reanimation-surgery/about/pac-20556545?p=1
+
+Resource: Facial swelling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003105.htm
+
+Resource: Facial Swelling
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/facial-swelling/
+
+Resource: Facial tics
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001410.htm
+
+Resource: Facial trauma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001062.htm
+
+Resource: Find an Oral and Maxillofacial Surgeon
+Category: Find an Expert
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/find-a-surgeon/
+
+Resource: Freeman-Sheldon syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/freeman-sheldon-syndrome
+
+Resource: Melkersson-Rosenthal Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7010/melkersson-rosenthal-syndrome
+
+Resource: Mobius Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/8549/moebius-syndrome
+
+Resource: Moebius syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/moebius-syndrome
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Facial Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Facial+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Craniofacial+Abnormalities%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scar Revision: Understanding Facial Scar Treatment
+Category: Treatments and Therapies
+Organization: American Academy of Facial Plastic and Reconstructive Surgery
+URL: https://www.aafprs.org/Consumers/Procedures/FacialRejuvenation/Scar/A/FR11.aspx
+
+Resource: Treatment of Facial Injury
+Category: Treatments and Therapies
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/wp-content/uploads/2019/09/Ebook_facial_Injury_R.pdf

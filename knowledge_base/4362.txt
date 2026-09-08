@@ -1,0 +1,58 @@
+Title: Enfermedad de von Hippel-Lindau
+
+Summary:
+¿Qué es la enfermedad de Von Hippel-Lindau (VHL)?
+La enfermedad de Von Hippel-Lindau (VHL) es una enfermedad rara que causa tumores y quistes en el cuerpo. Pueden crecer en el cerebro y la médula espinal, los riñones, el páncreas, las glándulas suprarrenales y el tracto reproductivo. En general, los tumores son benignos (no cancerosos). Pero algunos tumores, como los del riñón y el páncreas, pueden volverse cancerosos.
+¿Qué causa la enfermedad de Von Hippel-Lindau (VHL)?
+La enfermedad de Von Hippel-Lindau (VHL) es una enfermedad genética. Se hereda, lo que significa que se transmite de padres a hijos.
+¿Cuáles son los síntomas de la enfermedad de Von Hippel-Lindau (VHL)?
+Los síntomas de la VHL dependen del tamaño y la ubicación de los tumores. Pueden incluir:
+Dolores de cabeza
+Problemas con el
+equilibrio
+y
+caminar
+Mareos
+Debilidad de las extremidades
+Problemas de la visión
+Presión arterial alta
+¿Cómo se diagnostica la enfermedad de Von Hippel-Lindau (VHL)?
+La detección y el tratamiento temprano de la VHL es importante. Su proveedor de atención médica puede sospechar que tiene VHL si tiene ciertos patrones de quistes y tumores. Hay una prueba genética para VHL. Si tiene el gen, necesitará otras pruebas, incluyendo pruebas de imágenes, para buscar tumores y quistes.
+¿Cuáles son los tratamientos para la enfermedad de Von Hippel-Lindau (VHL)?
+El tratamiento puede variar, dependiendo de la ubicación y el tamaño de los tumores y quistes. Por lo general, implica cirugía. Ciertos tumores pueden tratarse con radioterapia. El objetivo es tratar los tumores mientras son pequeños y antes de que causen un daño permanente. Necesitará un monitoreo cuidadoso por parte de un médico y/o equipo médico familiarizado con la enfermedad.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Encuentre un consejero genético
+Category: Más información, Spanish/Español
+Organization: Sociedad Nacional de Consejeros Genéticos
+URL: https://sp.findageneticcounselor.nsgc.org/
+
+Resource: Enfermedad de Von Hippel-Lindau
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/s%C3%ADndromes-neurocut%C3%A1neos-en-ni%C3%B1os/enfermedad-de-von-hippel-lindau
+
+Resource: Enfermedad de von Hippel-Lindau
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13610/enfermedad-de-von-hippel-lindau/
+
+Resource: Enfermedades neurológicas: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/neurologicdiseases.html
+
+Resource: Feocromocitoma: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pheochromocytoma.html
+
+Resource: Síndrome de von Hippel-Lindau
+Category: Más información, Spanish/Español
+Organization: Hospital de Investigación sobre Niños St. Jude
+URL: https://www.stjude.org/es/care-treatment/treatment/genetic-syndromes/von-hippel-lindau.htmldau.html

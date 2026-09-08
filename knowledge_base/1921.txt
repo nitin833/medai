@@ -1,0 +1,322 @@
+Title: Enfermedades genéticas
+
+Summary:
+¿Qué son las enfermedades genéticas?
+Las enfermedades genéticas son afecciones causadas por cambios (también llamados mutaciones o variantes) en los genes. Los genes son partes del
+ADN
+que se encuentran en las células y que contienen instrucciones sobre cómo el cuerpo crece, se desarrolla y funciona. Muchos genes le indican al cuerpo cómo producir proteínas, necesarias para que su cuerpo funcione correctamente.
+¿Qué causa las enfermedades genéticas?
+Una enfermedad genética se produce cuando una
+variante genética
+altera la producción de una proteína. Esta variante puede provocar que la proteína funcione mal o que no se produzca. Si los genes no producen las proteínas adecuadas, o no las producen correctamente, puede producirse un trastorno genético.
+No todos los cambios genéticos causan enfermedades. Normalmente, estos cambios no tienen ningún efecto, pero, a veces, incluso un pequeño cambio en el ADN puede afectar la producción de proteínas.
+Las
+variantes genéticas
+se pueden agrupar en dos tipos principales:
+Variantes hereditarias (germinales):
+Se transmiten de padres a hijos. Provienen de óvulos o espermatozoides
+Variantes no hereditarias (somáticas):
+No se transmiten de padres a hijos. Se desarrollan durante la vida. Pueden estar causadas por factores como sustancias químicas nocivas o rayos ultravioleta (UV) del sol
+¿Cuáles son los tipos de enfermedades genéticas?
+Las enfermedades genéticas pueden ser causadas por:
+Trastornos monogenéticos:
+Se deben a cambios en un solo gen. Algunos ejemplos incluyen la
+anemia de células falciformes
+, en la que un cambio en un solo gen puede causar la enfermedad, y la
+enfermedad de Charcot-Marie-Tooth
+, en la que una variante en uno de muchos genes diferentes puede causarla
+Trastornos cromosómicos:
+Se deben a la falta, exceso o alteración de cromosomas. Los cromosomas son estructuras que transportan genes. Estos trastornos
+implican cambios en el número
+de cromosomas que las personas tienen o
+cambios en la estructura
+de uno o más cromosomas. Un ejemplo es el
+síndrome de Down
+, causado por una copia adicional del cromosoma 21
+Trastornos complejos (multifactoriales):
+Se deben a mutaciones en muchos genes. Cada cambio por sí solo puede no causar la enfermedad, pero juntos aumentan el riesgo. El estilo de vida y los factores ambientales, como el ejercicio, la dieta o la exposición a contaminantes, también influyen. El
+cáncer de colon
+es un ejemplo
+¿Cuáles son las diferentes maneras en que se puede heredar una enfermedad genética?
+Algunas enfermedades genéticas se transmiten de padres a hijos (hereditarias) según varios patrones, dependiendo del gen específico involucrado.
+Los
+patrones de herencia
+pueden incluir:
+Dominante:
+Solo se necesita un gen modificado para causar la enfermedad
+Recesiva:
+Se necesitan dos copias modificadas del gen (una de cada progenitor) para que la enfermedad se presente
+Enfermedades ligadas al cromosoma X:
+Involucran genes ubicados en el cromosoma X. Estas enfermedades suelen afectar con mayor frecuencia a los hombres
+Enfermedades mitocondriales:
+Se transmiten por vía materna
+¿Cómo se diagnostican las enfermedades genéticas?
+Su profesional de la salud podría detectar una
+enfermedad genética
+basándose en:
+Un examen físico
+Su historial médico personal
+Su historial médico familiar
+Pruebas de laboratorio, incluyendo
+pruebas genéticas
+NIH: Biblioteca Nacional de Medicina
+
+Groups:
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Afecciones de origen genético ¿Cómo se dan en las familias? (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/genetic-passed-down.html
+
+Resource: Anomalías cromosómicas
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Anomal%C3%ADas-Cromos%C3%B3micas
+
+Resource: Beriberi
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000339.htm
+
+Resource: Condiciones genéticas y cromosómicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/condiciones-geneticas-y-cromosomicas.aspx
+
+Resource: Defectos de aparición tardía
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/defectos-de-aparicion-tardia.aspx
+
+Resource: Displasia campomélica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/campomelic-dysplasia.html
+
+Resource: Displasia de Ellis-Van Creveld
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ellis-dysplasia.html
+
+Resource: Displasia epifisaria múltiple
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/multiple-epiphyseal-dysplasia.html
+
+Resource: Eliptocitosis hereditaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000563.htm
+
+Resource: Enfermedad de Von Hippel-Lindau
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/s%C3%ADndromes-neurocut%C3%A1neos-en-ni%C3%B1os/enfermedad-de-von-hippel-lindau
+
+Resource: Enfermedades genéticas
+Category: Comience aquí, Spanish/Español
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/16992/enfermedades-geneticas/
+
+Resource: Entender la genética y la salud
+Category: Comience aquí, Spanish/Español
+Organization: Alianza Genética
+URL: https://www.ncbi.nlm.nih.gov/books/NBK115596/pdf/Bookshelf_NBK115596.pdf
+
+Resource: Evaluación del recién nacido: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/newbornscreening.html
+
+Resource: Examen de lipasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003465.htm
+
+Resource: Formas comunes de herencia
+Category: Información de referencia, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/formas-comunes-de-herencia.aspx
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Genes y genética
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/genes-genetic-disorders.html
+
+Resource: Genética
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002048.htm
+
+Resource: Genética (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/about-genetics.html
+
+Resource: Glosario hablado de términos genéticos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Hipoplasia cartílago-cabello (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cartilage-hair-hypoplasia.html
+
+Resource: Información genética de MedlinePlus
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/
+
+Resource: Mosaicismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001317.htm
+
+Resource: Mutaciones genéticas (cambios genéticos)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/gene-mutations.html
+
+Resource: Ovalocitosis hereditaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000566.htm
+
+Resource: Progeria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001657.htm
+
+Resource: Pruebas genéticas: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetictesting.html
+
+Resource: Síndrome CLOVES (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cloves-syndrome.html
+
+Resource: Síndrome de Alström
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001665.htm
+
+Resource: Síndrome de Glass-Chapman-Hockley
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12611/sindrome-de-glass-chapman-hockley/
+
+Resource: Síndrome de Haim-Munk
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12612/sindrome-de-haim-munk/
+
+Resource: Síndrome de Noonan
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001656.htm
+
+Resource: Síndrome de Noonan
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11856/sindrome-de-noonan/
+
+Resource: Síndrome de Noonan con lentigos múltiples
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001473.htm
+
+Resource: Síndrome de Peutz-Jeghers
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000244.htm
+
+Resource: Síndrome de von Hippel-Lindau
+Category: Asuntos específicos, Spanish/Español
+Organization: Hospital de Investigación sobre Niños St. Jude
+URL: https://www.stjude.org/es/care-treatment/treatment/genetic-syndromes/von-hippel-lindau.htmldau.html
+
+Resource: Síndrome de Williams
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001116.htm
+
+Resource: Síndrome de Williams
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13102/sindrome-de-williams
+
+Resource: Síndrome del carcinoma basocelular congénito
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001452.htm
+
+Resource: Síndrome del ojo de gato
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12260/sindrome-del-ojo-de-gato/
+
+Resource: Síndrome triple X
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/triple-x-syndrome/symptoms-causes/syc-20350977?p=1
+
+Resource: Síndromes autoinflamatorios asociados a la criopirina
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/sindromes-autoinflamatorios-asociados-a-la-criopirina
+
+Resource: ¿Cuáles son las diferentes formas en las que una afección genética pueda ser heredada?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/herencia/patroneshereditarios/
+
+Resource: ¿Cómo las variantes genéticas pueden afectar la salud y el desarrollo?
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/variantescausanenfermedad/
+
+Resource: ¿Cómo se diagnostican las enfermedades genéticas? Información genética de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/consulta/diagnostico/
+
+Resource: ¿Cómo se nombran las afecciones genéticas y los genes?
+Category: Información de referencia, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/nombrando/
+
+Resource: ¿Cómo se tratan o manejan los trastornos genéticos? Información genética de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/consulta/tratamiento/
+
+Resource: ¿Qué es un gen?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/what-is-gene.html
+
+Resource: ¿Qué es un genetista pediátrico?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-geneticist.aspx
+
+Resource: ¿Qué significa que un trastorno parezca ser hereditario en mi familia?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/herencia/eshereditariodefamilia/
+
+Resource: ¿Qué son las enfermedad complejas o multifactoriales?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/variantesytrastornos/trastornoscomplejos/

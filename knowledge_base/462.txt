@@ -1,0 +1,155 @@
+Title: Women's Health
+
+Summary:
+Women have unique health issues. And some of the health issues that affect both men and women can affect women differently.
+Unique issues include
+pregnancy
+,
+menopause
+, and conditions of the female organs. Women can have a healthy pregnancy by getting early and regular
+prenatal care
+. They should also get recommended breast cancer,
+cervical cancer
+, and
+bone density
+screenings.
+Women and men also have many of the same health problems. But these problems can affect women differently. For example:
+Women are more likely to die following a
+heart attack
+than men
+Women are more likely to show signs of
+depression
+and
+anxiety
+than men
+The effects of
+sexually transmitted infections
+(STIs) can be more serious in women
+Osteoarthritis
+affects more women than men
+Women are more likely to have
+urinary tract problems
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Women
+- Population Groups
+
+MeSH Headings:
+- Women's Health
+
+Related Resources:
+
+Resource: A-Z Health Topics
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics
+
+Resource: AMA Find a Doctor
+Category: Find an Expert
+Organization: American Medical Association
+URL: https://find-doctor.ama-assn.org/
+
+Resource: Body Image and Mental Health
+Category: Related Issues
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/mental-health/body-image-and-mental-health
+
+Resource: ClinicalTrials.gov: Women's Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Women%27s%20Health%22&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Excessive or unwanted hair in women
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007622.htm
+
+Resource: FastStats: Women's Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/womens-health.htm
+
+Resource: Gynecologic Cancer Awareness
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/features/gynecologic-cancer.html
+
+Resource: Healthy Eating
+Category: Specifics
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-eating
+
+Resource: Healthy Living by Age
+Category: Diagnosis and Tests
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-living-age
+
+Resource: Heart Health for Women
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/heart-health-women
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Menopause
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/menopause
+
+Resource: National Institutes of Health, Office of Research on Women's Health
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Research on Women's Health
+URL: https://orwh.od.nih.gov/
+
+Resource: Preventive Care Benefits for Women
+Category: Prevention and Risk Factors
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.healthcare.gov/preventive-care-women/
+
+Resource: Women's health issues
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Women%27s+Health%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex and Gender: How Being Male or Female Can Affect Your Health
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2016/05/sex-gender
+
+Resource: Stroke
+Category: Specifics
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/heart-disease-and-stroke/stroke
+
+Resource: Tips for Good Health in Later Life for Older Women
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-good-health-later-life-older-women
+
+Resource: Vulvovaginal Health
+Category: Specifics
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/vulvovaginal-health
+
+Resource: Women and Alcohol
+Category: Specifics
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/women-and-alcohol
+
+Resource: Women's health
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007458.htm
+
+Resource: Women's Health Topics
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health/womens-health-topics

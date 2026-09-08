@@ -1,0 +1,76 @@
+Title: Deterioro cognitivo leve
+
+Summary:
+Algunos olvidos pueden ser parte normal del envejecimiento. Sin embargo, algunas personas tienen más problemas de
+memoria
+que otras de su misma edad.  Esta es una afección llamada deterioro cognitivo leve. La gente con deterioro cognitivo leve puede cuidarse a sí misma y puede desarrollar sus actividades normalmente.
+Los problemas de memoria del deterioro cognitivo leve pueden incluir:
+Perder objetos frecuentemente
+Olvidarse de ir a programas y citas
+Tener más problemas para encontrar las palabras adecuadas en un momento dado que otras personas
+Su proveedor de cuidados de salud puede  realizar pruebas de pensamiento, de memoria y del habla para determinar si usted sufre de deterioro cognitivo leve. También puede sugerirle consultar a un especialista para obtener más pruebas. Dado que el deterioro cognitivo leve puede ser una señal temprana de la
+enfermedad de Alzheimer
+, es muy importante ver a su proveedor de cuidados de salud cada 6 a 12 meses.
+En este momento no hay un tratamiento efectivo contra el deterioro cognitivo leve. Su proveedor de cuidados de salud puede ir examinando si aparece algún cambio en su memoria o  proceso intelectual en el transcurso del tiempo.
+
+Groups:
+- Salud mental y conducta
+- Personas mayores
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Cuidado de los adultos con trastornos cognitivos y de la memoria
+Category: Más información, Spanish/Español
+Organization: Alianza Familiar de Personas que Cuidan Enfermos
+URL: https://www.caregiver.org/es/resource/el-cuidado-de-los-adultos-con-trastornos-cognitivos-y-de-la-memoria-caring-adults-cognitive/
+
+Resource: Demencia: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/dementia.html
+
+Resource: Deterioro cognitivo leve
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mild-cognitive-impairment/symptoms-causes/syc-20354578?p=1
+
+Resource: Deterioro Cognitivo Leve (DCL)
+Category: Más información, Spanish/Español
+Organization: Asociación de Alzheimer
+URL: https://www.alz.org/demencia-alzheimer/que-es-demencia/condiciones_relacionados/deterioro-cognitivo-leve
+
+Resource: Deterioro cognitivo leve: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mild-cognitive-impairment/diagnosis-treatment/drc-20354583?p=1
+
+Resource: Etapas de la enfermedad de Alzheimer
+Category: Más información, Spanish/Español
+Organization: Asociación de Alzheimer
+URL: https://www.alz.org/alzheimer-demencia/etapas?lang=es-MX
+
+Resource: Evaluación del estado mental
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003326.htm
+
+Resource: Mantener la salud cognitiva
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/una-mente-bien-envejecida
+
+Resource: Memoria, olvido y envejecimiento
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/memoria/memoria-olvido-envejecimiento
+
+Resource: Pruebas cognitivas
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-cognitivas/
+
+Resource: ¿Qué es el deterioro cognitivo leve?
+Category: Más información, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.alzheimers.gov/es/alzheimer-demencias/deterioro-cognitivo-leve

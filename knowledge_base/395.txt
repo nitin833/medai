@@ -1,0 +1,145 @@
+Title: Scoliosis
+
+Summary:
+Scoliosis causes a sideways curve of your backbone, or spine. These curves are often S- or C-shaped.  Scoliosis is most common in late childhood and the early teens, when children grow fast. Girls are more likely to have it than boys. It can run in families. Symptoms include leaning to one side and having uneven shoulders and hips. Sometimes it is easy to notice, but not always.
+Children may get screening for scoliosis at school or during a
+checkup
+. If it looks like there is a problem, your doctor will use your medical and family history, a physical exam, and imaging tests to make a diagnosis. Treatment depends on your age, how much more you're likely to grow, how much curving there is, and whether the curve is temporary or permanent. People with mild scoliosis might only need checkups to see if the curve is getting worse. Others might need to wear a brace or have surgery.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Scoliosis
+
+Related Resources:
+
+Resource: Adolescent idiopathic scoliosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adolescent-idiopathic-scoliosis
+
+Resource: Cervical MRI scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007354.htm
+
+Resource: ClinicalTrials.gov: Scoliosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Scoliosis%22&aggFilters=status:not%20rec
+
+Resource: Congenital Scoliosis
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/congenital-scoliosis.html
+
+Resource: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Diagnosis-And-Treatment
+
+Resource: Early Onset Scoliosis
+Category: Children
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Conditions/Scoliosis/Early-Onset-Scoliosis
+
+Resource: Halo-Gravity Traction (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/halo-gravity-traction.html
+
+Resource: Horizontal gaze palsy with progressive scoliosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/horizontal-gaze-palsy-with-progressive-scoliosis
+
+Resource: Lumbar MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007352.htm
+
+Resource: Lumbosacral spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003807.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Neuromuscular Scoliosis
+Category: Specifics
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Conditions/Scoliosis/Neuromuscular-Scoliosis
+
+Resource: Scoliosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Scoliosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scoliosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001241.htm
+
+Resource: Scoliosis
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/scoliosis.html
+
+Resource: Scoliosis
+Category: Start Here
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Conditions/Scoliosis
+
+Resource: Scoliosis in Children and Teens
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/scoliosis
+
+Resource: Scoliosis in Children and Teens: Diagnosis, Treatment, and Steps to Take
+Category: Treatments and Therapies
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/scoliosis/diagnosis-treatment-and-steps-to-take
+
+Resource: Scoliosis surgery in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007383.htm
+
+Resource: Spinal fusion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002968.htm
+
+Resource: Spinal fusion - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100121_1.htm
+
+Resource: Spondylocostal dysostosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondylocostal-dysostosis
+
+Resource: Thoracic Insufficiency Syndrome
+Category: Related Issues
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Conditions/Scoliosis/Thoracic-Insufficiency-Syndrome-TIS
+
+Resource: Thoracic spine x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: Use of Scoliometer
+Category: Diagnosis and Tests
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Resources/Video-Library/Use-of-Scoliometer
+
+Resource: X-Ray Exam: Scoliosis (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-scoliosis.html

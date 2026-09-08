@@ -1,0 +1,56 @@
+Title: Impétigo
+
+Summary:
+El impétigo es una infección de la piel. Generalmente, es causada por la bacteria
+estafilococo
+pero algunas veces el
+estreptococo
+también puede causarla. Es más común en los niños entre dos y seis años. Suele comenzar cuando las bacterias entran por una grieta de la piel, como una cortadura, rasguño o picadura de un insecto.
+Los primeros síntomas son pequeñas llagas rojizas o similares a una espinilla rodeadas por piel enrojecida. Estas llagas suelen presentarse en la cara, los brazos y las piernas, aunque pueden encontrarse en otros lugares. Las llagas se llenan de pus, al cabo de algunos días se abren y forman una costra gruesa. Con frecuencia pican, pero rascarse puede diseminar las llagas.
+El impétigo puede contagiarse por contacto con las lesiones o la secreción nasal de una persona infectada. Puede tratarse con antibióticos.
+
+Groups:
+- Infecciones
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Acerca del impétigo
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/about/acerca-del-impetigo.html
+
+Resource: Ectima
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000864.htm
+
+Resource: Impétigo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/impetigo.html
+
+Resource: Impétigo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/impetigo.html
+
+Resource: Impétigo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000860.htm
+
+Resource: Impétigo (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/impetigo.html
+
+Resource: Impétigo: todo lo que debe saber sobre esta infección común de la piel en los niños
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/skin/paginas/impetigo.aspx
+
+Resource: Infecciones por estafilococo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/staphylococcus.html

@@ -1,0 +1,43 @@
+Title: Derrame de petróleo
+
+Summary:
+Los derrames de petróleo a menudo ocurren debido a accidentes, cuando las personas cometen errores o equipos se descomponen. Otras causas incluyen desastres naturales o actos deliberados. Los derrames de petróleo tienen importantes efectos ambientales y económicos.
+Los derrames de petróleo también pueden
+afectar a la salud humana
+. Estos efectos pueden depender de qué tipo de petróleo se derramó y dónde (en tierra, en un río o en el mar). Otros factores incluyen qué tipo de exposición y la cantidad de exposición que hubo. Las personas que limpian derrames están en mayor riesgo. Los problemas pueden incluir irritación cutánea y ocular, problemas neurológicos y respiratorios, y estrés. No se sabe mucho acerca de los efectos a largo plazo de estos derrames.
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+- Desastres
+
+Related Resources:
+
+Resource: A quién notificar y cómo estar preparado en caso de una emergencia ambiental
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/quien-notificar-y-como-estar-preparado-en-caso-de-una-emergencia-ambiental
+
+Resource: Aceites combustibles
+Category: Más información, Spanish/Español
+Organization: Agencia para Sustancias Tóxicas y el Registro de Enfermedades
+URL: https://www.atsdr.cdc.gov/es/toxfaqs/es_tfacts75.html
+
+Resource: Estudio sobre la salud a largo plazo para los trabajadores y voluntarios en la limpieza del derrame de petróleo
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de las Ciencias de Salud Ambiental
+URL: https://gulfstudy.nih.gov/sp/index.html
+
+Resource: Hidrocarburos totales de petróleo
+Category: Más información, Spanish/Español
+Organization: Agencia para Sustancias Tóxicas y el Registro de Enfermedades
+URL: https://www.atsdr.cdc.gov/es/toxfaqs/es_tfacts123.html
+
+Resource: Problemas relacionados con el derrame de petróleo Información pública: qué hacer y por qué
+Category: Más información, Spanish/Español
+Organization: Departamento de Salud y Hospitales de Louisiana
+URL: https://ldh.la.gov/assets/docs/OilSpillResources/OilSpillFAQsPublicSpnsh.pdf
+
+Resource: Seguridad y concienciación de salud para trabajadores de limpieza de derrames de petróleo
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de las Ciencias de Salud Ambiental
+URL: https://tools.niehs.nih.gov/wetp/public/hasl_get_blob.cfm?ID=8616

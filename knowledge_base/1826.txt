@@ -1,0 +1,118 @@
+Title: Estudios clínicos
+
+Also Called:
+- Ensayos clínicos
+
+Summary:
+Los ensayos clínicos son estudios de investigación que prueban qué tan bien pueden aplicarse los descubrimientos médicos a los pacientes. Cada estudio responde preguntas científicas e intenta encontrar mejores formas de prevenir, examinar, diagnosticar o tratar una enfermedad. Los ensayos clínicos también pueden comparar un tratamiento nuevo con uno que ya se encuentra disponible.
+Cada ensayo clínico tiene un protocolo o plan de acción para llevarlo a cabo. El plan describe lo que se hará en el estudio, cómo se hará y por qué cada parte del estudio es necesaria. Cada estudio tiene sus propias reglas acerca de quién puede participar. Algunos necesitan voluntarios con una determinada enfermedad, otros necesitan personas sanas y otros solamente solicitan hombres o mujeres.
+Un Consejo Institucional de Revisión (Institutional Review Board, IRB) revisa, supervisa y aprueba muchos de los ensayos clínicos. El IRB es un comité independiente de médicos, estadistas y miembros de la comunidad. Su rol es:
+Asegurar que el estudio es ético
+Proteger los derechos y el bienestar de los participantes
+Asegurar que los riesgos son razonables comparados con los beneficios potenciales
+En Estados Unidos, un estudio clínico tiene que tener un Consejo Institucional de Revisión si esta estudiando un medicamento, producto biológico o un equipo médico que la Administración de Alimentos y Medicamentos (FDA) regula o si esta financiado o llevado a cabo por el gobierno federal.
+NIH: Institutos Nacionales de la Salud
+
+Groups:
+- Asuntos personales de salud
+
+Related Resources:
+
+Resource: Acerca de la investigación clínica del cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/aceerca-de-la-investigacion-clinica-del-cancer
+
+Resource: Ensayos clínicos (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/clinical-trials.html
+
+Resource: Ensayos clínicos sobre la infección por el VIH/SIDA
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/ensayos-clinicos-sobre-la-infeccion-por-el-vihsida
+
+Resource: Ensayos clínicos: Información para los participantes
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/trials/estudios-clinicos-informacion-para-los-participantes
+
+Resource: Ensayos de investigación clínica y usted
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/los-ensayos-de-investigacion-clinica-y-usted-preguntas-y-respuestas
+
+Resource: Estudios clínicos de cáncer en el Centro Clínico de los Institutos Nacionales de la Salud
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/centro-clinico
+
+Resource: Estudios clínicos: beneficios, riesgos y seguridad
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/estudios-clinicos/estudios-clinicos-beneficios-riesgos-seguridad
+
+Resource: Guía de ensayos clínicos para el cáncer
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000823.htm
+
+Resource: Guía sobre ensayos clínicos para el paciente
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Alergias y Enfermedades Infecciosas
+URL: https://www.niaid.nih.gov/clinical-trials/guia-para-el-paciente
+
+Resource: Investigación clínica: Glosario de términos comunes
+Category: Información de referencia, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/investigacion-clinica/glosario-de-terminos-comunes
+
+Resource: Los ensayos clínicos, ¿son para usted?
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro Clínico de los NIH
+URL: https://www.cc.nih.gov/participate/studies-spanish
+
+Resource: Participe en la investigación clínica
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/participe-en-la-investigacion-clinica
+
+Resource: Programas e iniciativas de estudios clínicos del NCI (Instituto Nacional del Cáncer)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/estudios-clinicos
+
+Resource: Videos sobre la investigación clínica
+Category: Interactivos y videos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/investigacion-clinica/videos-sobre-la-investigacion-clinica
+
+Resource: ¿Debería su hijo participar en un ensayo clínico?
+Category: Spanish/Español, Niños/as
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/deberia-su-hijo-participar-en-un-ensayo-clinico
+
+Resource: ¿Es un estudio clínico lo indicado para usted?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/es-un-estudio-clinico-lo-indicado-para-usted
+
+Resource: ¿Por qué los investigadores realizan distintos tipos de estudios clínicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/sites/salud/files/2022-04/por-que-los-investigadores-realizan-distintos-tipos-de-estudios-clinicos.pdf
+
+Resource: ¿Quién paga por los estudios clínicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos/quien-paga-por-los-estudios-clinicos
+
+Resource: ¿Qué es un ensayo clínico?
+Category: Interactivos y videos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://www.nlm.nih.gov/oet/ed/ceal/what-is-a-clinical-trial-spanish.html
+
+Resource: ¿Son seguros los estudios clínicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos/son-seguros-los-estudios-clinicos

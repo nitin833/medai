@@ -1,0 +1,143 @@
+Title: Problemas para caminar
+
+Summary:
+¿Qué son los problemas para caminar?
+Si usted es como la mayoría de las personas, camina miles de pasos cada día. Usted camina para hacer sus actividades diarias, movilizarse y hacer ejercicio. Es algo que usted hace y que en general no piensa mucho. Pero para aquellos con problemas para caminar, la vida diaria puede ser un problema.
+Los problemas para caminar pueden hacer que usted:
+Camine con la cabeza y el cuello doblados
+Arrastre los pies
+Tenga movimientos irregulares y bruscos al caminar
+Camine con pasos más pequeños
+Oscile
+Camine más despacio o rígido
+¿Cuáles son las causas de los problemas para caminar?
+El patrón de cómo usted camina se llama marcha. Una variedad de problemas puede causar una alteración de la marcha y dar lugar a problemas para caminar. Estos incluyen:
+Desarrollo anormal de los músculos o huesos de sus
+piernas
+o los
+pies
+Artritis
+de cadera, rodillas, tobillos o pies
+Enfermedades del cerebelo
+, área del cerebro que controla la coordinación y el
+equilibrio
+Problemas de los pies, incluyendo
+callos y callosidades
+, llagas y
+verrugas
+Infecciones
+Lesiones como
+fracturas
+(huesos rotos),
+torceduras y distensiones
+; y
+tendinitis
+Trastornos del movimiento
+como la
+enfermedad de Parkinson
+Enfermedades neurológicas, incluyendo
+esclerosis múltiple
+y trastornos de los
+nervios periféricos
+Problemas de la visión
+¿Cómo se diagnostica la causa de los problemas para caminar?
+Para hacer un diagnóstico, su profesional de la salud le preguntará sobre su historia clínica y le realizará un examen físico, incluyendo una  revisión de sus huesos y músculos y un examen neurológico. En algunos casos, es posible que necesite otras pruebas, como pruebas de laboratorio o de imagen.
+¿Cuáles son los tratamientos para los problemas para caminar?
+El tratamiento de los problemas para caminar depende de la causa. Si es una afección médica, a menudo el tratamiento de esa afección mejora su forma de caminar. Algunos tipos comunes de tratamientos para los problemas para caminar pueden incluir:
+Medicamentos
+Ayudas para la movilidad
+como andadores o bastones
+Terapia física
+Zapatos, plantillas, férulas o aparatos ortopédicos especiales
+Cirugía
+
+Groups:
+- Huesos, articulaciones y músculos
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Andar de puntillas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toe-walking.html
+
+Resource: Anomalías en la forma de caminar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003199.htm
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Coalición tarsal
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/tarsal-coalition?lang=es-MX
+
+Resource: Enfermedad de Legg-Calvé-Perthes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/legg-calve-perthes-disease/symptoms-causes/syc-20374343?p=1
+
+Resource: Enfermedad de Legg-Calvé-Perthes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/perthes-disease.html
+
+Resource: Enfermedad de Sever
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/severs-disease.html
+
+Resource: Equinismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/equinus?lang=es-MX
+
+Resource: Hallux rigidus
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/hallux-rigidus?lang=es-MX
+
+Resource: Inestabilidad crónica de tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/chronic-ankle-instability?lang=es-MX
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Marcha de puntillas en niños
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/toe-walking/symptoms-causes/syc-20378410?p=1
+
+Resource: Pie cavo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/cavus-foot-(high-arched-foot)?lang=es-MX
+
+Resource: Pie plano flexible
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/flexible-flatfoot?lang=es-MX
+
+Resource: Pies hacia adentro (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/gait.html
+
+Resource: Pies hacia afuera
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/out-toeing.html
+
+Resource: Problemas para desplazarse o caminar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación para el Parkinson
+URL: https://www.parkinson.org/espanol/entendiendo-parkinson/sintomas-motores/problemas-desplazarse

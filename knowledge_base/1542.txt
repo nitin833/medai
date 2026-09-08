@@ -1,0 +1,123 @@
+Title: Sexual Health
+
+Summary:
+Sexuality is a big part of being human. Love, affection and sexual intimacy all play a role in healthy relationships. They also contribute to your sense of well-being. A number of disorders can affect the ability to have or enjoy sex  in both
+men
+and
+women
+.
+Factors that can affect sexual health include:
+Fear of unplanned pregnancy
+Concerns about
+infertility
+Sexually transmitted infections
+(STIs)
+Chronic diseases such as cancer or heart disease
+Medicines that affect sexual desire or performance
+
+Groups:
+- Women
+- Men
+- Wellness and Lifestyle
+- Sexual Health Issues
+- Female Reproductive System
+- Male Reproductive System
+
+MeSH Headings:
+- Sexual Health
+
+Related Resources:
+
+Resource: American Association for Marriage and Family Therapy
+Category: Find an Expert
+Organization: American Association for Marriage and Family Therapy
+URL: https://www.aamft.org/
+
+Resource: Answering Questions about Sex
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/questions-sex.html
+
+Resource: Compulsive Sexual Behavior
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/compulsive-sexual-behavior/symptoms-causes/syc-20360434?p=1
+
+Resource: Erectile Dysfunction: MedlinePlus Health Topic
+Category: Men
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/erectiledysfunction.html
+
+Resource: Estrogen Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/estrogen-levels-test/
+
+Resource: Female Reproductive System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/female-reproductive-system.html
+
+Resource: Heart disease and intimacy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000540.htm
+
+Resource: Infidelity: Mending Your Marriage after an Affair
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/infidelity/art-20048424?p=1
+
+Resource: Masturbation
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Masturbation.aspx
+
+Resource: Sexual Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sexual+Health%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex Headaches
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sex-headaches/symptoms-causes/syc-20377477?p=1
+
+Resource: Sexual Health
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-living/sexual-health/basics/sexual-health-basics/HLV-20049432?p=1
+
+Resource: Sexual Health
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/sexual-health
+
+Resource: Sexual Problems in Men: MedlinePlus Health Topic
+Category: Men
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/sexualproblemsinmen.html
+
+Resource: Sexual Problems in Women: MedlinePlus Health Topic
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/sexualproblemsinwomen.html
+
+Resource: Sexuality and Intimacy in Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/sexuality/sexuality-and-intimacy-older-adults
+
+Resource: Teaching Kids about Their Bodies
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/teach-about-bodies.html
+
+Resource: Teen Sexual Health: MedlinePlus Health Topic
+Category: Teenagers
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/teensexualhealth.html
+
+Resource: Testosterone Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/testosterone-levels-test/

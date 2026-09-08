@@ -1,0 +1,255 @@
+Title: Linfoma de Hodgkin
+
+Also Called:
+- Enfermedad de Hodgkin
+
+Summary:
+¿Qué es el linfoma de Hodgkin?
+El linfoma de Hodgkin, también conocido como enfermedad de Hodgkin, es un tipo de cáncer que se desarrolla en el sistema linfático. Su sistema linfático es parte de su
+sistema inmunitario
+. Ayuda a proteger su cuerpo de infecciones y enfermedades.
+El sistema linfático está formado por tejidos y órganos que producen, almacenan y transportan glóbulos blancos. Incluye:
+Médula ósea
+Ganglios linfáticos
+Vasos linfáticos
+Bazo
+Timo
+Amígdalas
+El linfoma de Hodgkin es uno de los principales tipos de
+linfoma
+. El otro es el linfoma no Hodgkin. Cada tipo comienza en diferentes tipos de glóbulos blancos.
+¿Qué causa el linfoma de Hodgkin?
+No se conoce la causa del linfoma de Hodgkin. Pero hay ciertas personas que tienen un mayor riesgo de desarrollarlo.
+¿Quién tiene más probabilidades de desarrollar linfoma de Hodgkin?
+Ciertos factores pueden hacerle más propenso a desarrollar linfoma de Hodgkin:
+Su edad
+: El linfoma de Hodgkin es más común en la edad adulta temprana (20 a 39 años) y en personas mayores (65 años o más)
+Ser hombre
+: El riesgo de linfoma de Hodgkin en adultos es ligeramente mayor en los hombres que en las mujeres
+Infección previa por el virus de Epstein-Barr (EBV)
+: Tener una infección con EBV cuando niño o adolescente aumenta el riesgo de linfoma de Hodgkin
+Antecedentes familiares de linfoma de Hodgkin
+: Tener un padre o un hermano con linfoma de Hodgkin aumenta el riesgo de desarrollarlo
+¿Cuáles son los síntomas del linfoma de Hodgkin?
+Los signos y síntomas del linfoma de Hodgkin pueden incluir:
+Ganglios linfáticos inflamados e indoloros en el cuello, la axila o la ingle
+Fiebre
+sin razón conocida
+Sudores nocturnos intensos (sudoración muy abundante mientras duerme)
+Pérdida de peso sin causa aparente en los últimos 6 meses
+Comezón
+en la piel, especialmente después de bañarse o beber alcohol
+Fatiga
+¿Cómo se diagnostica el linfoma de Hodgkin?
+Para saber si tiene linfoma de Hodgkin, su profesional de la salud:
+Le preguntará acerca de sus síntomas e historial médico: Esto incluye verificar si hay signos de enfermedad, como bultos o cualquier otra cosa que parezca inusual
+Puede solicitar algunas pruebas de laboratorio, como:
+Hemograma completo
+Estudios de química sanguínea
+Examen de isoenzimas de la lactato deshidrogenasa (LDH)
+Tasa de sedimentación eritrocítica
+Exámenes de sangre para descartar otras afecciones médicas
+Es posible que se realicen pruebas de
+diagnóstico por imágenes
+, como
+tomografías computarizadas
+y
+PET
+(tomografía por emisión de positrones)
+Puede hacer una
+biopsia
+de ganglio linfático
+¿Cuáles son los tratamientos para el linfoma de Hodgkin?
+Los tratamientos para el linfoma de Hodgkin incluyen:
+Quimioterapia
+Radioterapia
+Terapia dirigida: Usa medicamentos u otras sustancias que atacan células cancerosas específicas con menos daño a las células normales
+Inmunoterapia para el cáncer
+En general, el linfoma de Hodgkin se puede curar si se detecta y se trata a tiempo.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Alta tras radiación en el tórax
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000057.htm
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Aspectos generales de las opciones de tratamiento del linfoma de Hodgkin en adultos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-adultos-pdq#_57
+
+Resource: Aspectos generales de las opciones de tratamiento del linfoma de Hodgkin infantil
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-infantil-pdq#_51
+
+Resource: Biopsia con aguja
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Biopsia de los ganglios linfáticos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003933.htm
+
+Resource: Biopsia de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Blood Cancer United
+Category: Spanish/Español, Especialistas
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/es/homepage
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Conteo de células T
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003516.htm
+
+Resource: Cánceres posteriores al linfoma de Hodgkin
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/despues-del-tratamiento/segundos-canceres.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Estadios del linfoma de Hodgkin en adultos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-adultos-pdq#_26
+
+Resource: Estadios del linfoma de Hodgkin infantil
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-infantil-pdq#_24
+
+Resource: Estadísticas importantes sobre el linfoma de Hodgkin
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/acerca/estadisticas-clave.html
+
+Resource: Examen de ferritina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003490.htm
+
+Resource: Factores de riesgo del linfoma de Hodgkin
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Información general sobre el linfoma de Hodgkin
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-adultos-pdq#_1
+
+Resource: Información general sobre el linfoma de Hodgkin infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-infantil-pdq#section/_101
+
+Resource: Información general sobre el linfoma relacionado con el sida
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-relacionado-sida-pdq#section/_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Linfoma de Hodgkin
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000580.htm
+
+Resource: Linfoma de Hodgkin (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hodgkin.html
+
+Resource: Linfoma de Hodgkin en niños
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007685.htm
+
+Resource: Manejo del dolor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/aya0sbmkfg/booklet_ES_PainManagementFacts_fs19s.pdf
+
+Resource: Mediastinoscopia con biopsia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003864.htm
+
+Resource: Prueba de PD-L1 (inmunoterapia)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-pd-l1-inmunoterapia/
+
+Resource: Pruebas para diagnosticar el linfoma de Hodgkin
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Trasplante de médula ósea: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bonemarrowtransplantation.html
+
+Resource: Tratamiento de la enfermedad de Hodgkin con predominio linfocitario nodular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/tratamiento/linfoma-hodgkin-con-predominio-linfocitario-nodular.html
+
+Resource: Tratamiento del linfoma de Hodgkin primario resistente al tratamiento o recidivante en niños y adolescentes
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-hodgkin-infantil-pdq#_115
+
+Resource: Vida después del diagnóstico de linfoma de Hodgkin
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: ¿Cuál es la diferencia entre el linfoma de Hodgkin y el linfoma no Hodgkin?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hodgkins-lymphoma/expert-answers/lymphoma/faq-20058546?p=1
+
+Resource: ¿Qué avances hay en las investigaciones y el tratamiento del linfoma de Hodgkin?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/acerca/nuevas-investigaciones.html
+
+Resource: ¿Qué es el linfoma de Hodgkin?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/linfoma-hodgkin/acerca/que-es-enfermedad-de-hodgkin.html

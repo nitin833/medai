@@ -1,0 +1,97 @@
+Title: Reanimación cardiopulmonar
+
+Also Called:
+- RCP
+- Reanimación cardiorrespiratoria
+- Reanimación cardíaca
+- Resucitación cardiopulmonar
+
+Summary:
+Cuando la circulación de la sangre o la respiración de una persona se detienen, cada segundo cuenta. El daño cerebral permanente o la muerte pueden ocurrir rápidamente. Si usted sabe hacer resucitación cardiopulmonar (RCP), puede salvar una vida. La RCP es un procedimiento de emergencia para una persona cuyo corazón se ha detenido (llamado
+paro cardíaco súbito
+) o para quien no se encuentra respirando. La RCP puede mantener la circulación y la respiración hasta la llegada de
+ayuda médica de emergencia
+.
+Siga estos pasos si una persona está en paro cardíaco:
+Llame al 911
+Si hay alguien más cerca, pídale que busque un desfibrilador externo automático (DEA). Un DEA es un dispositivo que envía una descarga eléctrica al corazón para intentar restaurar su ritmo normal. Los DEA están disponibles en muchos lugares públicos, como escuelas, empresas y aeropuertos
+Asegúrese que la persona en paro cardíaco se encuentra de espaldas sobre una superficie sólida
+Si no tiene entrenamiento en RCP, puede hacer RCP "solo con las manos" para un adolescente o adulto cuyo corazón ha dejado de latir (no se recomienda la RCP "solo con las manos" para los niños). La RCP "solo con las manos" usa compresiones en el tórax para mantener la sangre circulando. Las compresiones torácicas implican empujar fuerte y rápido en el centro del pecho
+Si ha recibido capacitación, puede usar compresiones torácicas, abrir las vías respiratorias y hacer respiración boca a boca. La respiración boca a boca ayuda a llevar oxígeno a los pulmones de una persona que ha dejado de respirar. Para mantenerse actualizado en las técnicas de RCP, repita su capacitación cada dos años
+Si está disponible, use el desfibrilador automático lo antes posible
+
+Groups:
+- Sangre, corazón y circulación
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Aprenda RCP ¡Sí, se puede!
+Category: Comience aquí, Spanish/Español
+Organization: Universidad de Washington, Facultad de Medicina
+URL: http://depts.washington.edu/learncpr/spanish/
+
+Resource: Contusión miocárdica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000202.htm
+
+Resource: Cómo los Desfibriladores Externos Automáticos (DEA) en lugares públicos pueden reanimar corazones
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/como-los-desfibriladores-externos-automaticos-dea-en-lugares-publicos-pueden-reanimar-corazones
+
+Resource: Primeros auxilios en caso de dificultad respiratoria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000007.htm
+
+Resource: RCP
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000010.htm
+
+Resource: RCP en adultos
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100219_1.htm
+
+Resource: RCP en bebés
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000011.htm
+
+Resource: RCP en bebés (imagen)
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100216_1.htm
+
+Resource: RCP en niños de 1 a 8 años (imagen)
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100215_1.htm
+
+Resource: RCP en niños pequeños (de 1 año hasta el inicio de la pubertad)
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000012.htm
+
+Resource: RCP: Adultos y niños después del inicio de la pubertad
+Category: Adultos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000013.htm
+
+Resource: Reanimación cardiopulmonar (RCP) (Para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cpr.html
+
+Resource: Reanimación cardiopulmonar (RCP): Primeros auxilios
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: Reanimación cardiopulmonar: Un verdadero salvavidas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/cpr.html

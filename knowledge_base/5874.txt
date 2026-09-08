@@ -1,0 +1,121 @@
+Title: Trastornos de movimiento del ojo
+
+Also Called:
+- Trastornos de movimientos oculares
+
+Summary:
+Cuando usted mira un objeto, usted está utilizando varios músculos para mover ambos ojos y focalizarse en él. Si usted tiene un problema con los músculos, los ojos no funcionan apropiadamente.
+Existen muchos problemas de movimientos oculares. Los más comunes son:
+Estrabismo: Un trastorno donde los ojos no se alinean en la misma dirección. Esto resulta en ojos cruzados o bizcos
+Nistagmo: Movimientos rápidos e incontrolables de los ojos
+Algunos de los trastornos oculares están presentes al nacer. Otros se desarrollan con el tiempo y pueden estar asociados a otros problemas, como lesiones. Los tratamientos incluyen anteojos, parches, ejercicios para los músculos del ojo y cirugía. No existe cura para algunos tipos de trastornos de movimiento del ojo, como el nistagmo.
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Alta tras reparación de los músculos oculares
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000111.htm
+
+Resource: Cómo funcionan los ojos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos
+
+Resource: Cómo ver el camino a la solución al estrabismo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/strabismus.html
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Estrabismo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001004.htm
+
+Resource: Evaluación de la función del músculo extraocular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003397.htm
+
+Resource: Examen de la vista
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-la-vista/
+
+Resource: Mononeurapatía del III par craneal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000698.htm
+
+Resource: Mononeuropatía del VI par craneal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000690.htm
+
+Resource: Nistagmo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003037.htm
+
+Resource: Oftalmoplejia internuclear
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-los-pares-craneales/oftalmoplejia-internuclear
+
+Resource: Oftalmoplejía supranuclear
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001624.htm
+
+Resource: Parálisis de la mirada conjugada
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-los-pares-craneales/par%C3%A1lisis-de-la-mirada-conjugada
+
+Resource: Parálisis supranuclear progresiva (PSP)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/paralisis-supranuclear-progresiva-psp
+
+Resource: Reparación de los músculos oculares
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002961.htm
+
+Resource: Reparación quirúrgica del estrabismo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100062_1.htm
+
+Resource: Videonistagmografía (VNG)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/videonistagmografia-vng/
+
+Resource: ¿Qué es el estrabismo del adulto?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/estrabismo
+
+Resource: ¿Qué es un nistagmo?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/nistagmo
+
+Resource: ¿Qué es una parálisis microvascular del nervio craneal?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/paralisis-microvascular-del-nervio-craneal

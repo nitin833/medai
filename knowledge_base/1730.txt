@@ -1,0 +1,78 @@
+Title: Contaminación del aire
+
+Also Called:
+- Polución del aire
+
+Summary:
+La contaminación del aire es una mezcla de partículas sólidas y gases en el aire. Las emisiones de los automóviles, los compuestos químicos de las fábricas, el polvo, el polen y las esporas de moho pueden estar suspendidas como partículas. El
+ozono
+, un gas, es un componente fundamental de la contaminación del aire en las ciudades. Cuando el ozono forma la contaminación del aire también se denomina
+smog
+.
+Algunos contaminantes del aire son tóxicos. Su inhalación puede aumentar las posibilidades de tener problemas de salud. Las personas con enfermedades del corazón o de pulmón, los adultos de más edad y los niños tienen mayor riesgo de tener problemas por la contaminación del aire. La polución del aire no ocurre solamente en el exterior: el
+aire en el interior
+de los edificios también puede estar contaminado y afectar su salud.
+Agencia de Protección Ambiental
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Agencia de Protección Ambiental de EE. UU.
+Category: Spanish/Español, Especialistas
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Conceptos básicos sobre el material particulado (PM, por sus siglas en inglés)
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/conceptos-basicos-sobre-el-material-particulado-pm-por-sus-siglas-en-ingles
+
+Resource: Efectos de los contaminantes comunes del aire
+Category: Spanish/Español, Síntomas
+Organization: Agencia de Protección Ambiental
+URL: https://www3.epa.gov/airnow/health-prof/EPA-poster-Spanish-2008.pdf
+
+Resource: Efectos del material particulado (PM) sobre la salud y el medioambiente
+Category: Asuntos específicos, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/efectos-del-material-particulado-pm-sobre-la-salud-y-el-medioambiente
+
+Resource: Guía de la calidad del aire sobre la contaminación por partículas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://www.airnow.gov/sites/default/files/2018-05/air-quality-guide_particle_SPA.pdf
+
+Resource: Los investigadores están exponiendo las preocupantes consecuencias de la contaminación ambiental
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/los-investigadores-estan-exponiendo-las-preocupantes-consecuencias-de-la-contaminacion-ambiental
+
+Resource: Mal día para el aire: La calidad del aire y su salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/un-mal-dia-para-el-aire
+
+Resource: Monóxido de carbono en exteriores
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/monoxido-de-carbono-en-exteriores
+
+Resource: Problemas pulmonares y esmog volcánico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007468.htm
+
+Resource: ¿Cuáles son los costos para la salud de la contaminación ambiental y qué podemos hacer al respecto?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/cuales-son-los-costos-para-la-salud-de-la-contaminacion-ambiental-y-que-podemos-hacer-al-respecto
+
+Resource: ¿Padece del corazón?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/padece-del-corazon

@@ -1,0 +1,101 @@
+Title: Degeneración macular
+
+Also Called:
+- Degeneración de la mácula
+
+Summary:
+La degeneración macular o la degeneración macular relacionada con la edad (AMD, por sus siglas en inglés) es la principal causa de pérdida de visión en los estadounidenses mayores de 60 años. Es una enfermedad que destruye la agudeza de la visión central. La vista central es necesaria para ver los objetos con claridad y hacer actividades como leer o conducir vehículos.
+La enfermedad afecta la mácula, que es la parte del ojo que permite ver los detalles con claridad. No duele, pero provoca la muerte de las células de la mácula. Existen dos tipos: La húmeda y la seca. La húmeda ocurre cuando vasos sanguíneos anormales crecen bajo la mácula. Estos nuevos vasos frecuentemente gotean sangre y líquido. El daño a la mácula ocurre rápidamente. Uno de los primeros síntomas es una visión borrosa. La seca, ocurre cuando las células de la mácula sensibles a la luz se deterioran. Lentamente, se pierde la visión central. Uno de los primeros síntomas es ver torcidas las líneas rectas.
+Los exámenes oculares integrales regulares pueden detectar una degeneración macular antes de que la enfermedad cause una pérdida de la vista. El tratamiento puede hacer más lento el avance del deterioro de la vista, sin embargo no recupera la visión.
+NIH: Instituto Nacional del Ojo
+
+Groups:
+- Personas mayores
+- Ojos y visión
+
+Related Resources:
+
+Resource: Angiografía con fluoresceína
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003846.htm
+
+Resource: Cómo funcionan los ojos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Degeneración macular
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000085.htm
+
+Resource: Degeneración macular asociada con la edad
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001000.htm
+
+Resource: Degeneración macular húmeda
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/wet-macular-degeneration/symptoms-causes/syc-20351107?p=1
+
+Resource: Degeneración macular relacionada con la edad
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/degeneracion-macular-relacionada-con-la-edad
+
+Resource: Degeneración macular seca
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dry-macular-degeneration/symptoms-causes/syc-20350375?p=1
+
+Resource: Dieta, nutrición y suplementos para la salud ocular
+Category: Viviendo con..., Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/dieta-nutricion
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Examen con lámpara de hendidura
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003880.htm
+
+Resource: Examen ocular estándar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003434.htm
+
+Resource: Exámenes caseros de la visión
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003446.htm
+
+Resource: Factores de Riesgo y Prevención (Macular)
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Fundación Bright Focus
+URL: https://www.brightfocus.org/resource/factores-de-riesgo-y-prevencin-macular/
+
+Resource: Inyección intravítrea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007629.htm
+
+Resource: Oftalmoscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003881.htm
+
+Resource: ¿Qué es la degeneración macular relacionada con la edad?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/dmre-degeneracion-macular-relacionada-edad

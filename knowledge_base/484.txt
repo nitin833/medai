@@ -1,0 +1,573 @@
+Title: Lung Diseases
+
+Summary:
+When you breathe, your lungs take in oxygen from the air and deliver it to the bloodstream. The cells in your body need oxygen to work and grow.  During a normal day, you breathe nearly 25,000 times. People with lung disease have difficulty breathing. Millions of people in the U.S. have lung disease. If all types of lung disease are lumped together, it is the number three killer in the United States.
+The term lung disease refers to many disorders affecting the lungs, such as
+asthma
+,
+COPD
+, infections like
+influenza
+,
+pneumonia
+and
+tuberculosis
+,
+lung cancer
+, and many other
+breathing problems
+. Some lung diseases can lead to
+respiratory failure
+.
+Dept. of Health and Human Services Office on Women's Health
+
+Groups:
+- Lungs and Breathing
+
+MeSH Headings:
+- Lung Diseases
+
+Related Resources:
+
+Resource: About Adenovirus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/adenovirus/about/
+
+Resource: About Histoplasmosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/histoplasmosis/about/
+
+Resource: Adenovirus
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/adenovirus.html
+
+Resource: Aging changes in the lungs
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004011.htm
+
+Resource: Air Pollutants
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/air-quality/pollutants/
+
+Resource: Alveolar abnormalities
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001093.htm
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Anti-GBM (Goodpasture's) Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease/anti-gbm-goodpastures-disease
+
+Resource: Anti-glomerular basement membrane disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000142.htm
+
+Resource: Arterial stick
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003422.htm
+
+Resource: Birt-Hogg-Dubé syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/birt-hogg-dube-syndrome
+
+Resource: Blood gases
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003855.htm
+
+Resource: Breath sounds
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007535.htm
+
+Resource: Breathing
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000018.htm
+
+Resource: Breathing and Relaxation
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/education/health-information/stress-and-relaxation/breathing-and-relaxation
+
+Resource: Bronchoscopic culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003748.htm
+
+Resource: Bronchoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Chemical pneumonitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000143.htm
+
+Resource: Chest CT
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003788.htm
+
+Resource: Chest tube insertion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002947.htm
+
+Resource: Chest tube insertion - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100008_1.htm
+
+Resource: Chest Tube Thoracostomy
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/chest-tube-thoracostomy.pdf
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: ClinicalTrials.gov: Lung Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lung+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Respiratory Distress Syndrome, Adult
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Respiratory+Distress+Syndrome,+Adult%22&aggFilters=status:not%20rec
+
+Resource: CO2 blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003469.htm
+
+Resource: Coal worker's pneumoconiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000130.htm
+
+Resource: Coughing up Blood
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/coughing-up-blood/basics/definition/SYM-20050934?p=1
+
+Resource: Coughing up blood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003073.htm
+
+Resource: Drug-induced pulmonary disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000104.htm
+
+Resource: Empyema
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000123.htm
+
+Resource: Gas exchange
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000059.htm
+
+Resource: Getting an Accurate Read on Pulse Oximeters
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/getting-an-accurate-read-on-pulse-oximeters
+
+Resource: Histoplasmosis - acute (primary) pulmonary
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000098.htm
+
+Resource: How the Lungs Work
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs
+
+Resource: Hyperinflated Lungs: What Does It Mean?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/emphysema/expert-answers/hyperinflated-lungs/faq-20058169?p=1
+
+Resource: Inhaled Marijuana and the Lungs
+Category: Related Issues
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/marijuana.pdf
+
+Resource: Lactate Dehydrogenase (LDH) Isoenzymes Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-isoenzymes-test/
+
+Resource: Lactic acidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000391.htm
+
+Resource: LDH isoenzyme blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003499.htm
+
+Resource: Long-Term Control Medications for Lung Diseases
+Category: Treatments and Therapies
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/longterm?modal=1
+
+Resource: Lung diffusion testing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003854.htm
+
+Resource: Lung Disease
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/lung-disease
+
+Resource: Lung disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000066.htm
+
+Resource: Lung Disease Treatments
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-treatments
+
+Resource: Lung Diseases
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/conditions/lung-disease
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Lung gallium scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003824.htm
+
+Resource: Lung HelpLine
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/help-support/lung-helpline
+
+Resource: Lung needle biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003860.htm
+
+Resource: Lung Nodules: Overview
+Category: Specifics
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/lung-nodules?modal=1
+
+Resource: Lung PET scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007342.htm
+
+Resource: Lung surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002956.htm
+
+Resource: Lung surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000242.htm
+
+Resource: Lungs and Respiratory System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/lungs.html
+
+Resource: Lungs and Respiratory System
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/lungs.html
+
+Resource: Lymphangioleiomyomatosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lymphangioleiomyomatosis
+
+Resource: Meconium aspiration syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001596.htm
+
+Resource: Meconium Aspiration Syndrome (MAS)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/meconium.html
+
+Resource: Mold Allergy: Proper Humidifier Care
+Category: Related Issues
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/allergy/overview/allergens/mold-allergy/humidifier-care?modal=1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Needle Biopsy of the Lung
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/nlungbiop
+
+Resource: Open lung biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003861.htm
+
+Resource: Oxygen safety
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000049.htm
+
+Resource: Oxygen therapy in infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007242.htm
+
+Resource: Oxygen Therapy: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/oxygentherapy.html
+
+Resource: Pneumomediastinum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000084.htm
+
+Resource: Primary ciliary dyskinesia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-ciliary-dyskinesia
+
+Resource: Lung Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lung+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary actinomycosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000074.htm
+
+Resource: Pulmonary alveolar proteinosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000114.htm
+
+Resource: Pulmonary aspergilloma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000127.htm
+
+Resource: Pulmonary edema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000140.htm
+
+Resource: Pulmonary Edema
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009?p=1
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Pulmonary lobectomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100094_1.htm
+
+Resource: Pulmonary nocardiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000083.htm
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Pulmonary ventilation/perfusion scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003828.htm
+
+Resource: Pulse Oximetry
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+
+Resource: Quick-Relief Medications for Lung Disease Symptoms
+Category: Treatments and Therapies
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/quickrelief?modal=1
+
+Resource: Rapid shallow breathing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007198.htm
+
+Resource: Respiratory acidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000092.htm
+
+Resource: Respiratory alkalosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000111.htm
+
+Resource: Respiratory Distress Syndrome (RDS)
+Category: Children
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/respiratory-distress-syndrome
+
+Resource: Respiratory Protection
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/respiratory-protection
+
+Resource: Rheumatoid lung disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000113.htm
+
+Resource: Simple pulmonary eosinophilia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000105.htm
+
+Resource: Solitary pulmonary nodule
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000071.htm
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spirometry/about/pac-20385201?p=1
+
+Resource: Sputum fungal smear
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003736.htm
+
+Resource: Sputum Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003765.htm
+
+Resource: Swan-Ganz - right heart catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003870.htm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Transient tachypnea - newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007233.htm
+
+Resource: Transient Tachypnea of the Newborn (TTN)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ttn.html
+
+Resource: Understanding Exercise, Diet and Lung Disease
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/NJH/media/pdf/pdf-Understanding-ExerciseDietLungDisease.pdf?modal=1
+
+Resource: Using oxygen at home
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000048.htm
+
+Resource: Using oxygen at home - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000251.htm
+
+Resource: Warning Signs of Lung Disease
+Category: Diagnosis and Tests
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/warning-signs-of-lung-disease
+
+Resource: What Are Newborn Breathing Conditions?
+Category: Children
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/newborn-breathing-conditions
+
+Resource: What Is a Ventilator?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/ventilator
+
+Resource: What Is LAM (Lymphangioleiomyomatosis)?
+Category: Women
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lam
+
+Resource: What Is Primary Ciliary Dyskinesia?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/primary-ciliary-dyskinesia
+
+Resource: Wheezing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003070.htm
+
+Resource: Your Lung Operation
+Category: Videos and Tutorials
+Organization: American College of Surgeons
+URL: https://www.facs.org/for-patients/the-day-of-your-surgery/lung/
+
+Resource: Your Lungs and Respiratory System
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/lungs.html

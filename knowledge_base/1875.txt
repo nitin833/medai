@@ -1,0 +1,268 @@
+Title: Enfermedades del oído
+
+Summary:
+El oído tiene tres partes principales: externo, medio e interno. Para oír se utilizan todas ellas. Las ondas sonoras entran por el oído externo. Llegan al oído medio, donde hacen vibrar el tímpano. Las vibraciones se transmiten a través de tres huesos diminutos llamados osículos que se encuentran en el oído medio. Las vibraciones viajan hacia el oído interno, un órgano curvilíneo con forma de serpiente. El oído interno transmite los impulsos nerviosos hasta el cerebro. El cerebro los identifica como sonidos. El oído interno también controla el equilibrio.
+Muchas enfermedades pueden afectar el oído o el
+equilibrio
+:
+Infecciones de oído
+son las más comunes en bebés y niños pequeños.
+Tinnitus
+, un rumor que se escucha en el oído y que puede ser a consecuencia de ruidos fuertes, medicinas o algunas otras causas.
+Enfermedad de Ménière
+puede resultar debido a problemas con líquidos en el oído medio; sus síntomas incluyen tinnitus y vértigo.
+Barotrauma
+del oído, que es una lesión al oído a causa de cambios en la presión barométrica (aire) o del agua.
+Algunas enfermedades del oído pueden terminar en
+problemas de la audición y sordera
+.
+
+Groups:
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Acueductos vestibulares dilatados y la pérdida de audición en los niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/acueductos-vestibulares-dilatados-y-la-perdida-de-audicion-en-los-ninos
+
+Resource: Anomalías en el pabellón auricular e implantación baja de las orejas
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003303.htm
+
+Resource: Atresia aural (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/aural-atresia.html
+
+Resource: Cirugía de las orejas
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100016_1.htm
+
+Resource: Cirugía de tubos de timpanostomía: Qué preguntarle al médico
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000220.htm
+
+Resource: Cirugía estética de oreja
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002988.htm
+
+Resource: Criptotia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cryptotia.html
+
+Resource: Cuídate los oídos y las orejas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/ear-care.html
+
+Resource: Dolor de oído
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003046.htm
+
+Resource: Emergencias del oído
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000052.htm
+
+Resource: Estenosis del canal auditivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ear-canal-stenosis.html
+
+Resource: Estimulación calórica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003429.htm
+
+Resource: Examen del oído
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003340.htm
+
+Resource: Fosita o papiloma preauricular
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003304.htm
+
+Resource: Fusión de los huesecillos del oído
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001633.htm
+
+Resource: Gotas para los oídos
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/16982/gotas-para-los-oidos/
+
+Resource: Infección del conducto auditivo (oído del nadador)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-del-o%C3%ADdo-externo/infecci%C3%B3n-del-conducto-auditivo-o%C3%ADdo-de-nadador
+
+Resource: Lesiones de oído
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ear-injuries.html
+
+Resource: Lesiones de tímpano (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/eardrums.html
+
+Resource: Lesión del oído
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/lesiones-faciales/lesi%C3%B3n-del-o%C3%ADdo
+
+Resource: Microtia (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/microtia.html
+
+Resource: Neuronitis vestibular
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-del-o%C3%ADdo-interno/neuronitis-vestibular
+
+Resource: Objeto extraño en el oído: primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid/basics/art-20056709?p=1
+
+Resource: Oclusión por cerumen
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/earwax-blockage/symptoms-causes/syc-20353004?p=1
+
+Resource: Orejas en copa
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/constricted-ears.html
+
+Resource: Orejas prominentes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/protruding-ears.html
+
+Resource: Otosclerosis
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001036.htm
+
+Resource: Otosclerosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/otosclerosis
+
+Resource: Oído (para padres)
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ears.html
+
+Resource: Pericondritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001253.htm
+
+Resource: Pericondritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-del-o%C3%ADdo-externo/pericondritis
+
+Resource: Permeabilidad de la trompa de Eustaquio
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001630.htm
+
+Resource: Pliegues en el lóbulo de la oreja
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003045.htm
+
+Resource: Pólipos auriculares
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001638.htm
+
+Resource: Quiste o tumor benigno de oído
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001033.htm
+
+Resource: Reparación del tímpano
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003014.htm
+
+Resource: Reparación quirúrgica del tímpano
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100015_1.htm
+
+Resource: Ruptura del tímpano
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001038.htm
+
+Resource: Secreción del oído
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003042.htm
+
+Resource: Tapón de cerumen
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000979.htm
+
+Resource: Timpanometría
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003390.htm
+
+Resource: Timpanoplastia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tympanoplasty.html
+
+Resource: Traumatismo y problemas del oído interno
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/trauma_and_inner_ear_problems_spanish.pdf
+
+Resource: Tumor del glomus timpánico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001635.htm
+
+Resource: Tumores del oído
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-del-o%C3%ADdo-externo/tumores-del-o%C3%ADdo
+
+Resource: Tus oídos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/ear.html
+
+Resource: Viajar en avión y los oídos de su hijo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/flying-ears.html
+
+Resource: ¿Qué es la cera de los oídos?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/earwax.html
+
+Resource: ¿Qué es una oreja de coliflor?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/cauliflower-ear.html

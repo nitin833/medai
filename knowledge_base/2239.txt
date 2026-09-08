@@ -1,0 +1,137 @@
+Title: Lesiones y enfermedades de la mano
+
+Summary:
+Independientemente de su edad o de lo que haga para ganarse la vida, usted está siempre utilizando las manos. Cuando tiene algún problema con ellas, es posible que no pueda realizar sus actividades habituales.
+Los problemas en las manos incluyen:
+Síndrome del túnel carpiano
+: compresión de un nervio en su paso a través de la muñeca que provoca entumecimiento frecuente de los dedos
+Lesiones que resultan en
+fracturas
+(huesos rotos), ruptura de ligamentos y
+dislocaciones
+Osteoartritis
+: artritis por desgaste, que también puede causar deformidad
+Tendinitis
+: irritación de los tendones
+Lesiones y enfermedades de los dedos
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Ampollas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/blisters.html
+
+Resource: Artrosis de la mano
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-los-huesos-articulaciones-y-m%C3%BAsculos/trastornos-de-la-mano/artrosis-de-la-mano
+
+Resource: Contractura de Dupuytren
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001233.htm
+
+Resource: Contractura de Volkmann
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001221.htm
+
+Resource: Disfunción del nervio cubital
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000789.htm
+
+Resource: Disfunción del nervio radial
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000790.htm
+
+Resource: Dislocación: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-dislocation/basics/art-20056693?p=1
+
+Resource: Espasmos en las manos o en los pies
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003194.htm
+
+Resource: Fracturas de la mano
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.msdmanuals.com/es/hogar/traumatismos-y-envenenamientos/fracturas/fracturas-de-la-mano
+
+Resource: Ganglión en la muñeca y la mano
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/quiste-ganglionar-de-la-muneca-y-la-mano-ganglion-cyst/
+
+Resource: Lesiones por sobrecarga
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/rsi.html
+
+Resource: Mano en garra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003169.htm
+
+Resource: Manos frías
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/cold-hands/basics/definition/sym-20050648?p=1
+
+Resource: Plexopatía braquial
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001418.htm
+
+Resource: Pliegue palmar único
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003290.htm
+
+Resource: Procedimiento para hacer una férula de mano
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100142_1.htm
+
+Resource: Radiografía de las manos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003811.htm
+
+Resource: Radiografía de mano (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-hand.html
+
+Resource: Radiografía de una extremidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003461.htm
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Temblor
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003192.htm
+
+Resource: Trastornos de la mano
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-los-huesos-articulaciones-y-m%C3%BAsculos/trastornos-de-la-mano/introducci%C3%B3n-a-los-trastornos-de-la-mano
+
+Resource: Tratamiento poshospitalario para una fractura de la mano
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000552.htm

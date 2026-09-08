@@ -1,0 +1,138 @@
+Title: Desarrollo del adolescente
+
+Summary:
+Como adolescente, pasas por muchos cambios físicos, mentales, emocionales y sociales. El cambio más grande es la
+pubertad
+el proceso por el cual se llega a la madurez sexual. Por lo general, ocurre entre los 10 y 14 para las niñas y los 12 y 16 para los varones. A medida que tu cuerpo cambia, puede que tengas preguntas sobre la
+salud sexual
+.
+Durante este tiempo, comienzas a desarrollar tu propia personalidad y opiniones. Algunos cambios que podrías notar incluyen :
+Aumento de la independencia de tus padres
+Más preocupaciones sobre la imagen corporal y la ropa
+Más influencia de tus compañeros
+Mayor capacidad de sentir el bien y el mal
+Todos estos cambios a veces pueden ser abrumadores. Un poco de tristeza o mal humor puede ser normal. Pero sentirse muy triste, sin esperanza o sin valor podrían ser señales de advertencia de un
+problema de salud mental
+. Si necesitas ayuda, habla con tus padres, un consejero escolar o un profesional de la salud.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Niños y adolescentes
+- Salud mental y conducta
+
+Related Resources:
+
+Resource: Aparato reproductor femenino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/female-repro.html
+
+Resource: Aparato reproductor masculino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/male-repro.html
+
+Resource: Aspectos básicos de la higiene
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hygiene-basics.html
+
+Resource: Atracción y orientación sexual
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sexual-orientation.html
+
+Resource: Cerebro de los adolescentes: 7 cosas que usted debe saber
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/el-cerebro-de-los-adolescentes-7-cosas
+
+Resource: Crecimiento y desarrollo (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth/
+
+Resource: Crecimiento y su hijo de 13 a 18 años
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth-13-to-18.html
+
+Resource: Depilación del vello púbico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/depilacion-del-vello-pubiano/
+
+Resource: Desarrollo del adolescente
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002003.htm
+
+Resource: Etapas de la adolescencia
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/teen/paginas/stages-of-adolescence.aspx
+
+Resource: Ginecomastia
+Category: Spanish/Español, Niños
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/boybrst.html
+
+Resource: Hablar con tu médico
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/talk-doctor.html
+
+Resource: Imagen corporal y autoestima
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/body-image.html
+
+Resource: La comunicación y su hijo de 13 a 18 años
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/comm-13-to-18.html
+
+Resource: Olor corporal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/olor-corporal/
+
+Resource: Poder de los compañeros: ¿Quién influye en su salud?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-poder-de-los-companeros
+
+Resource: ¿Cuál es el peso adecuado para mi altura?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/weight-height.html
+
+Resource: ¿Es normal mi pene?
+Category: Spanish/Español, Niños
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/penis.html
+
+Resource: ¿Estoy en una relación sana?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/KidsHealthDemo/es/teens/healthy-relationship.html
+
+Resource: ¿La conducta de tocarse los pechos puede hacer que crezcan más?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/growth-touch.html
+
+Resource: ¿Por qué está cambiando mi voz? (información para adolescentes)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/voice-changing.html
+
+Resource: ¿Por qué me duelen los pechos?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sore-breasts.html
+
+Resource: ¿Qué es un pediatra del desarrollo conductual?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-developmental-behavioral-pediatrician.aspx

@@ -1,0 +1,412 @@
+Title: Ovarian Cancer
+
+Summary:
+What is ovarian cancer?
+Cancer
+is a disease in which abnormal cells in the body grow out of control and form a tumor. Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. The ovaries are a pair of female reproductive glands that make eggs and female
+hormones
+.
+What are the types of ovarian cancer?
+There are a few different types of ovarian cancer. The most common type is epithelial cancer. It begins in the cells that cover the ovary.
+There are also two related types of epithelial cancer that can spread to the ovaries:
+Fallopian tube cancer forms in the tissue lining a fallopian tube. The fallopian tubes are a pair of long, slender tubes on each side of the uterus. The uterus is the female reproductive organ where a fetus grows during pregnancy.
+Primary peritoneal cancer forms in the tissue lining the peritoneum. Your peritoneum is a tissue lining that covers the organs in the abdomen (belly).
+These two cancers are like ovarian cancer, and they have the same treatments. So some medical experts also consider those two types as ovarian cancer.
+Some other rarer types of ovarian cancer are malignant germ cell tumors and stromal tumors.
+What causes ovarian cancer?
+Ovarian cancer happens when there are
+changes (mutations) in the genetic material
+(DNA). Often, the exact cause of these genetic changes is unknown.
+Most ovarian cancers are caused by genetic changes that happen during your lifetime. But sometimes these genetic changes are inherited, meaning that you are born with them. Ovarian cancer that is caused by inherited genetic changes is called hereditary ovarian cancer.
+There are also certain genetic changes that can raise your risk of ovarian cancer, including changes called
+BRCA1
+and
+BRCA2
+. These two changes also raise your risk of breast and other cancers.
+Besides genetics, your lifestyle and the environment can affect your risk of ovarian cancer.
+Who is more likely to develop ovarian cancer?
+Certain people are more likely to develop ovarian cancer. They include those who:
+Have a family history of ovarian cancer in a mother, aunt, grandmother, or sister
+Have inherited changes in the BRCA1 or BRCA2 genes
+Have certain other genetic conditions, such as Lynch syndrome
+Have
+endometriosis
+Took
+hormone replacement therapy
+Are overweight or have
+obesity
+Are tall
+Are older, especially those who have gone through
+menopause
+Have never been pregnant
+What are the symptoms of ovarian cancer?
+Ovarian cancer may not cause early signs or symptoms. By the time you do have signs or symptoms, the cancer is often advanced.
+The signs and symptoms may include:
+Pain, swelling, or a feeling of pressure in the abdomen (belly) or pelvis
+Sudden or frequent urge to urinate (pee)
+Trouble eating or feeling full
+A lump in the pelvic area
+Gastrointestinal problems, such as
+gas
+, bloating, or
+constipation
+How is ovarian cancer diagnosed?
+To find out if you have ovarian cancer, your health care provider:
+Will ask about your
+medical history
+, including your symptoms
+Will ask about your
+family health history
+, including relatives who have had ovarian cancer
+Will do a
+physical exam
+, including a pelvic exam
+Will likely do
+imaging tests
+May do
+blood tests
+such as a
+CA-125 blood test
+Often the only way to know for sure that you have ovarian cancer is by having a
+biopsy
+of the tissue. A biopsy is done during surgery to remove the tumor.
+What are the treatments for ovarian cancer?
+Treatments for ovarian cancer may include:
+Surgery
+to remove as much of the cancer as possible
+Chemotherapy
+Targeted therapy
+, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+Your provider may suggest that you have
+genetic testing
+to look for the gene changes that raise the risk for ovarian cancer. Knowing whether you have the gene change may help your provider decide on your treatment plan.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Women
+- Endocrine System
+- Female Reproductive System
+
+MeSH Headings:
+- Peritoneal Neoplasms
+- Fallopian Tube Neoplasms
+- Ovarian Neoplasms
+
+Related Resources:
+
+Resource: 3 Types of Ovarian Cancer, Explained
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/3-types-of-ovarian-cancer-explained
+
+Resource: Abdominal exploration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002928.htm
+
+Resource: Abdominal exploration - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100049_1.htm
+
+Resource: Abdominal radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000054.htm
+
+Resource: Abdominal tap
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: About Hereditary Breast and Ovarian Cancers
+Category: Genetics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breast-ovarian-cancer-hereditary/about/
+
+Resource: Advances in Ovarian Cancer Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/research
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: After Ovarian Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/after-treatment.html
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Alpha Fetoprotein (AFP) Tumor Marker Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: BRCA Gene Changes: Cancer Risk and Genetic Testing
+Category: Genetics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/genetics/brca-fact-sheet
+
+Resource: BRCA Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/brca-test/
+
+Resource: BRCA1 and BRCA2 gene testing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000690.htm
+
+Resource: By the Numbers: Ovarian Cancer
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/by-the-numbers-ovarian-cancer
+
+Resource: CA 125 Blood Test (Ovarian Cancer)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ca-125-blood-test-ovarian-cancer/
+
+Resource: CA-125 blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007217.htm
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Causes, Risk Factors, and Prevention of Ovarian Cancer
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/causes-risks-prevention.html
+
+Resource: CEA Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cea-test/
+
+Resource: Childhood Ovarian Cancer Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/patient/child-ovarian-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Fallopian Tube Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fallopian+Tube+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hereditary Breast and Ovarian Cancer Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hereditary+Breast+and+Ovarian+Cancer+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ovarian Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ovarian+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peritoneal Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peritoneal+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Diagnostic laparoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003918.htm
+
+Resource: Drugs Approved for Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/ovarian
+
+Resource: Estradiol blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003711.htm
+
+Resource: Genetic Counseling for Hereditary Breast and Ovarian Cancer
+Category: Genetics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bring-your-brave/take-action/genetic-counseling-testing.html
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Key Statistics for Ovarian Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/key-statistics.html
+
+Resource: Laparoscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Olympic Gymnast Shannon Miller: Accepting Help was Essential to Ovarian Cancer Recovery
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/olympic-gymnast-shannon-miller-accepting-help-was-essential-to-ovarian-cancer-recovery
+
+Resource: Oral Contraceptives and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet
+
+Resource: Ovarian Cancer
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/symptoms-causes/syc-20375941?p=1
+
+Resource: Ovarian Cancer
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer.html
+
+Resource: Ovarian cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000889.htm
+
+Resource: Ovarian Cancer Early Detection, Diagnosis, and Staging
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/detection-diagnosis-staging.html
+
+Resource: Ovarian Cancer Research Highlights
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/research/acs-research-highlights/ovarian-cancer-research-highlights.html
+
+Resource: Ovarian Cancer Risk Factors
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Ovarian Cancer Stages
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/detection-diagnosis-staging/staging.html
+
+Resource: Ovarian Cancer Statistics
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/ovary.html
+
+Resource: Ovarian cancer: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ovarian-cancer
+
+Resource: Ovarian Cancer: Still Possible after Hysterectomy?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ovarian-cancer/expert-answers/ovarian-cancer/faq-20057780?p=1
+
+Resource: Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancers Treatment
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/patient/ovarian-epithelial-treatment-pdq
+
+Resource: Ovarian Germ Cell Tumors Treatment
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/patient/ovarian-germ-cell-treatment-pdq
+
+Resource: Ovarian Low Malignant Potential Tumors Treatment
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/patient/ovarian-low-malignant-treatment-pdq
+
+Resource: Ovarian, Fallopian Tube, and Primary Peritoneal Cancers Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/ovarian/patient/ovarian-screening-pdq
+
+Resource: Pelvic radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000059.htm
+
+Resource: Pelvis MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007355.htm
+
+Resource: People at Increased Risk for BRCA Gene Mutations
+Category: Genetics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breast-ovarian-cancer-hereditary/risk-factors/index.html
+
+Resource: Ovarian Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Peritoneal+Neoplasms%22%5Bmajr%3Anoexp%5D+OR+%22Fallopian+Tube+Neoplasms%22%5Bmajr%3Anoexp%5D+OR+%22Ovarian+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation enteritis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000300.htm
+
+Resource: Sertoli-Leydig cell tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001172.htm
+
+Resource: Symptoms of Ovarian Cancer
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ovarian-cancer/symptoms/
+
+Resource: Transvaginal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003779.htm
+
+Resource: Treating Ovarian Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/ovarian-cancer/treating.html
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/

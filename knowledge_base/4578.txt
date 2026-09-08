@@ -1,0 +1,148 @@
+Title: Health Disparities
+
+Summary:
+Health disparities are health differences between different groups of people. These health differences may include:
+How many people get certain diseases
+How severe the diseases are
+How many people have complications because of the diseases
+How many people die from a disease
+Whether people can get health care
+How many people get screened for a disease
+These groups of people may be based on:
+Race
+Ethnicity
+Immigrant status
+Disability
+Sex or gender
+Sexual orientation
+Geography
+Income
+Level of education
+NIH: National Institute on Minority Health and Health Disparities
+
+Groups:
+- Health System
+- Population Groups
+
+MeSH Headings:
+- Healthcare Disparities
+- Health Status Disparities
+
+Related Resources:
+
+Resource: 'Why Can't I Sleep?!'
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/why-cant-i-sleep
+
+Resource: By the Numbers: Health Disparities in Pregnancy
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/by-the-numbers-health-disparities-in-pregnancy
+
+Resource: Cancer Data and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/data/
+
+Resource: Cancer Health Disparities Definitions and Examples
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-nci/organization/crchd/about-health-disparities/definitions
+
+Resource: Cancer Statistics by Demographics
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://surveillance.cancer.gov/statistics/types/demographics.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Healthcare Disparities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=Healthcare+Disparities&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Racial and Ethnic Disparities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=(racial+OR+ethnic)+AND+disparities&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office of Minority Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office of Minority Health
+URL: https://minorityhealth.hhs.gov/
+
+Resource: Disparities in the Impact of Air Pollution
+Category: Specifics
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities
+
+Resource: Health Disparities in HIV, Viral Hepatitis, STDs, and Tuberculosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/health-disparities-hiv-std-tb-hepatitis/
+
+Resource: Health Disparities in Oral Health
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/oral-health/health-equity/
+
+Resource: Indian Health Disparities
+Category: Statistics and Research
+Organization: Indian Health Service
+URL: https://www.ihs.gov/newsroom/index.cfm/factsheets/disparities/
+
+Resource: LGBT -- Healthy People 2030
+Category: Specifics
+Organization: Department of Health and Human Services
+URL: https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/lgbt
+
+Resource: Minority Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/minority-health/about/
+
+Resource: National Healthcare Quality and Disparities Reports
+Category: Statistics and Research
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/research/findings/nhqrdr/index.html
+
+Resource: National Institute on Minority Health and Health Disparities
+Category: Find an Expert
+Organization: National Institute on Minority Health and Health Disparities
+URL: https://www.nimhd.nih.gov
+
+Resource: Neglected Diseases
+Category: Specifics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/FAQ/Neglected-Diseases
+
+Resource: NIH-Designated Populations with Health Disparities
+Category: Specifics
+Organization: National Institute on Minority Health and Health Disparities
+URL: https://www.nimhd.nih.gov/about/nih-designated-populations-health-disparities
+
+Resource: Health Disparities
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Health+Status+Disparities%22%5Bmajr%3Anoexp%5D+OR+%22Healthcare+Disparities%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rural Health Disparities
+Category: Specifics
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/rural-health-disparities
+
+Resource: The Truth About African American Women and Heart Disease
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/truth-about-african-american-women-and-heart-disease-fact-sheet
+
+Resource: Tuberculosis and Black or African American Persons
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/health-equity/black-or-african-american-persons.html
+
+Resource: What Are Health Disparities?
+Category: Start Here
+Organization: National Institute on Minority Health and Health Disparities
+URL: https://www.nimhd.nih.gov/about/what-are-health-disparities

@@ -1,0 +1,141 @@
+Title: Enfermedades neurológicas
+
+Also Called:
+- Déficits neurológicos
+
+Summary:
+El cerebro, la médula espinal y los nervios conforman el sistema nervioso. En conjunto controlan todas las funciones del cuerpo. Cuando algo funciona mal en una parte del sistema nervioso, es posible que tenga dificultad para moverse, hablar, tragar, respirar o aprender. También puede haber problemas con la memoria, los sentidos o el estado de ánimo.
+Existen más de 600 enfermedades neurológicas. Los tipos más reconocidos incluyen:
+Enfermedades causadas por genes defectuosos, tales como la
+enfermedad de Huntington
+y la
+distrofia muscular
+Problemas con el desarrollo del sistema nervioso, tales como la
+espina bífida
+Enfermedades degenerativas
+, en las cuales las células nerviosas están dañadas o mueren, tales como las enfermedades de
+Parkinson
+y el
+mal de Alzheimer
+Enfermedades de los vasos sanguíneos que abastecen el cerebro, tales como los
+derrames cerebrales
+Lesiones en la
+médula espinal
+y el
+cerebro
+Trastornos convulsivos, tales como la
+epilepsia
+Cáncer, tales como los
+tumores cerebrales
+Infecciones como la
+meningitis
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Afección pseudobulbar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pseudobulbar-affect/symptoms-causes/syc-20353737?p=1
+
+Resource: Brain&Life (revista)
+Category: Información de referencia, Spanish/Español
+Organization: Academia Estadounidense de Neurología
+URL: https://www.brainandlife.org/the-magazine/spanish/
+
+Resource: Deficiencias neurológicas focales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003191.htm
+
+Resource: Electroencefalograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003931.htm
+
+Resource: Enfermedad de Von Hippel-Lindau
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/s%C3%ADndromes-neurocut%C3%A1neos-en-ni%C3%B1os/enfermedad-de-von-hippel-lindau
+
+Resource: Entumecimiento y hormigueo
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003206.htm
+
+Resource: Examen neurológico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-neurologico/
+
+Resource: Mielitis flácida aguda: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/acuteflaccidmyelitis.html
+
+Resource: Neurociencias
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007456.htm
+
+Resource: Opistótonos
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003195.htm
+
+Resource: Postura de decorticación
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003300.htm
+
+Resource: Postura de descerebración
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003299.htm
+
+Resource: Pruebas y procedimientos de diagnóstico neurológico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/pruebas-y-procedimientos-de-diagnostico-neurologico
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Sentidos mezclados: La sinestesia explicada
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sentidos-mezclados
+
+Resource: Síndrome de von Hippel-Lindau
+Category: Asuntos específicos, Spanish/Español
+Organization: Hospital de Investigación sobre Niños St. Jude
+URL: https://www.stjude.org/es/care-treatment/treatment/genetic-syndromes/von-hippel-lindau.htmldau.html
+
+Resource: Velocidad de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003927.htm
+
+Resource: ¿Cuáles son las partes del sistema nervioso?
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/neuro/informacion/partes
+
+Resource: ¿Qué es un neurocirujano pediátrico?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-neurosurgeon.aspx
+
+Resource: ¿Qué hace el sistema nervioso?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/neuro/informacion/funciones
+
+Resource: ¿Tiene problemas con el tacto?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/tiene-problemas-con-el-tacto

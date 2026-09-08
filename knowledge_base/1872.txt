@@ -1,0 +1,117 @@
+Title: Problemas para tragar
+
+Also Called:
+- Disfagia
+- Trastorno de la deglución
+
+Summary:
+Si tiene un problema de la deglución, puede tener dificultades y dolor al tragar. Algunas personas no pueden tragar en lo absoluto o tener problemas para tragar líquidos, alimentos o saliva. Esto hace que el comer sea más difícil. Con frecuencia, puede ser difícil ingerir suficientes calorías y líquidos para alimentar al cuerpo.
+Cualquiera puede tener un problema para tragar, pero es más común en personas mayores. En general, estos trastornos suelen ocurrir debido a otros trastornos, entre ellos:
+Trastornos del sistema nervioso
+: Como la
+enfermedad de Parkinson
+y la
+parálisis cerebral
+Problemas en el
+esófago
+: Incluyendo la enfermedad por reflujo gastroesofágico (
+ERGE
+)
+Accidente cerebrovascular
+Traumatismos en la
+cabeza
+o
+médula espinal
+Cáncer de
+cabeza, cuello
+o
+esófago
+Las medicinas pueden ayudar a algunas personas, mientras que otras pueden necesitar cirugía. Tal vez resulte útil modificar la dieta o sostener la cabeza o el cuello en determinada posición al comer. En los casos muy serios, las personas necesitan
+sondas para alimentarse
+.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Cómo comprender la dilatación esofágica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-dilataci%C3%B3n-esof%C3%A1gica
+
+Resource: Cómo comprender la manometría esofágica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-manometr%C3%ADa-esof%C3%A1gica
+
+Resource: Deglución
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000126.htm
+
+Resource: Deglución dolorosa
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003116.htm
+
+Resource: Dificultad con la deglución
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007543.htm
+
+Resource: Dificultad para tragar
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/problemas-alimentarios/problemas-de-deglucion.html
+
+Resource: Dificultad para tragar (Disfagia)
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/s%C3%ADntomas-de-los-trastornos-digestivos/dificultad-para-tragar
+
+Resource: Disfagia: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dysphagia/diagnosis-treatment/drc-20372033?p=1
+
+Resource: Endoscopia gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Estudio del tránsito esofagogastroduodenal
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-uppergi.html
+
+Resource: Manometría esofágica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003884.htm
+
+Resource: Problemas para tragar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Pruebas de disfagia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-disfagia/
+
+Resource: Tránsito esofagogastroduodenal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/transito-esofagogastroduodenal/

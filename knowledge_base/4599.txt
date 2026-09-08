@@ -1,0 +1,46 @@
+Title: Emergencias causadas por la radiación
+
+Summary:
+La radiación es un tipo de energía. Las personas están
+expuestas
+a pequeñas cantidades de radiación todos los días provenientes de fuentes tales como la luz del sol. Una emergencia por radiación implicaría cantidades mayores de radiación y podría ser consecuencia de:
+Bombas sucias: una mezcla de explosivos y polvo radiactivo
+Precipitaciones radiactivas de una bomba nuclear
+Liberación accidental de un reactor nuclear o una planta de armas nucleares
+Mucha radiación por un corto período de tiempo puede causar quemaduras o enfermedades por radiación. Si la exposición es lo suficientemente grande, puede causar envejecimiento prematuro o incluso la muerte.
+Aunque no existen garantías de seguridad durante una emergencia por radiación, puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal que se sienta estresado. Es posible que necesite ayuda para encontrar maneras de
+enfrentarlo
+.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: A quién notificar y cómo estar preparado en caso de una emergencia ambiental
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/quien-notificar-y-como-estar-preparado-en-caso-de-una-emergencia-ambiental
+
+Resource: Accidentes en plantas de energía nuclear y riesgo de cáncer
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-accidentes-plantas-nucleares
+
+Resource: Emergencias por radiación
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/radiation
+
+Resource: Náuseas por radiación
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058?p=1
+
+Resource: Protección contra la radiación y emergencias radiológicas
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/proteccion-contra-la-radiacion-y-emergencias-radiologicas

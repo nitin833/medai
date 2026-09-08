@@ -1,0 +1,215 @@
+Title: Birthmarks
+
+Also Called:
+- Cafe au lait spot
+- Hemangioma
+- Mongolian spot
+- Nevus
+- Strawberry mark
+
+Summary:
+Birthmarks are abnormalities of the skin that are present when a baby is born. There are two types of birthmarks. Vascular birthmarks are made up of blood vessels that haven't formed correctly. They are usually red. Two types of vascular birthmarks are hemangiomas and port-wine stains.
+Pigmented
+birthmarks are made of a cluster of pigment cells which cause color in skin. They can be many different colors, from tan to brown, gray to black, or even blue.
+Moles
+can be birthmarks.
+No one knows what causes many types of birthmarks, but some run in families. Your baby's doctor will look at the birthmark to see if it needs any treatment or if it should be watched. Pigmented birthmarks aren't usually treated, except for moles. Treatment for vascular birthmarks includes laser surgery.
+Most birthmarks are not serious, and some go away on their own. Some stay the same or get worse as you get older. Usually birthmarks are only a concern for your appearance. But certain types can increase your risk of skin cancer. If your birthmark bleeds, hurts, itches, or becomes infected, call your health care provider.
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Nevus
+- Hemangioma
+
+Related Resources:
+
+Resource: Birthmarks (for parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/birthmarks.html
+
+Resource: Birthmarks - pigmented
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000828.htm
+
+Resource: Birthmarks: Conditions, Treatments, and Pictures
+Category: Start Here
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/birthmarks-conditions-treatments-and-pictures/?Imiw9cApl
+
+Resource: Birthmarks: Signs and Symptoms
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/birthmarks-symptoms?NoAds
+
+Resource: Café au Lait Spot
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/cafeau-lait-spot/?Imiw9cApl
+
+Resource: Capillary Hemangioma
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/capillary-hemangioma
+
+Resource: Cherry angioma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001441.htm
+
+Resource: Cherry Hemangioma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/cherry-hemangioma/?Imiw9cApl=1
+
+Resource: ClinicalTrials.gov: Hemangioma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hemangioma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Nevus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nevus%22&aggFilters=status:not%20rec
+
+Resource: Congenital Hemangiomas (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/congenital-hemangioma.html
+
+Resource: Congenital Melanocytic Nevus (Birthmark)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/congenital-melanocytic-nevus/?Imiw9cApl=1
+
+Resource: Dermal melanocytosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001472.htm
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Giant congenital melanocytic nevus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/giant-congenital-melanocytic-nevus
+
+Resource: Guide to Understanding Hemangiomas
+Category: Specifics
+Organization: Children's Craniofacial Association
+URL: https://ccakids.org/wp-content/uploads/2022/01/Hemangioma-guide_2018.pdf
+
+Resource: Hemangioma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001459.htm
+
+Resource: Hemangioma excision - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100114_1.htm
+
+Resource: Hemangiomas
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Hemangiomas?
+
+Resource: Infantile Hemangiomas (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/infantile-hemangioma.html
+
+Resource: Infantile Hemangiomas: About Strawberry Baby Birthmarks
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/baby/bathing-skin-care/Pages/Infantile-Hemangiomas-Baby-Birthmarks.aspx
+
+Resource: Klippel-Trenaunay syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000150.htm
+
+Resource: Laser Therapy for Birthmarks
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/laser-light-therapy/laser-therapy-for-birthmarks
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Port-Wine Stain
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/port-wine-stain/?Imiw9cApl=1
+
+Resource: Port-wine stain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001475.htm
+
+Resource: Port-Wine Stains
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/port-wine-stains.html
+
+Resource: Birthmarks
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hemangioma%22%5Bmajr%3Anoexp%5D+OR+%22Nevus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Red birthmarks
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001440.htm
+
+Resource: Salmon Patch
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/salmon-patch/?Imiw9cApl=1
+
+Resource: Stork bite
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001388.htm
+
+Resource: Strawberry Hemangioma (Infantile Hemangioma)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/infantile-hemangioma/?Imiw9cApl=1
+
+Resource: Sturge-Weber syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001426.htm
+
+Resource: Sturge-Weber Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/sturge-weber-syndrome
+
+Resource: Sturge-Weber Syndrome
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sturge-weber-syndrome.html
+
+Resource: Vascular Lesion Treatment, Laser
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/laser-vascular-lesion-treatment/?Imiw9cApl=1
+
+Resource: What does LCMN (Large Congenital Melanocytic Nevus) Mean?
+Category: Specifics
+Organization: Nevus Outreach, Inc.
+URL: https://www.nevus.org/what-is-cmn
+
+Resource: What Is Hemangioma?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/hemangioma

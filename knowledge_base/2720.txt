@@ -1,0 +1,128 @@
+Title: Nasal Cancer
+
+Also Called:
+- Cancer of the nasal cavity
+- Cancer of the paranasal sinus
+
+Summary:
+Your paranasal sinuses are small hollow spaces around the nose. They are lined with cells that make mucus, which keeps your nose from drying out. The nasal cavity is the passageway just behind your nose. Air passes through it on the way to your throat as you breathe.
+Cancer of the nasal cavity and paranasal sinuses is rare.  You are at greater risk if you are:
+Male and over 40 years old
+Exposed to certain workplace chemicals
+Infected with HPV
+A smoker
+There may be no symptoms at first, and later symptoms can be like those of infections. Doctors diagnose nasal cancer with imaging tests, lighted tube-like instruments that look inside the nose, and biopsies. Treatment options include surgery, radiation, and chemotherapy.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Ear, Nose and Throat
+
+MeSH Headings:
+- Nose Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: After Nasal Cavity (Nose) and Sinus Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/nasal-cavity-and-paranasal-sinus-cancer/after-treatment.html
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: American Rhinologic Society
+Category: Find an Expert
+Organization: American Rhinologic Society
+URL: https://www.american-rhinologic.org/
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Causes, Risk Factors, and Prevention of Nasal Cavity and Paranasal Sinus Cancers
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/nasal-cavity-and-paranasal-sinus-cancer/causes-risks-prevention.html
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Nose Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nose+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Paranasal Sinus Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Paranasal+Sinus+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Esthesioneuroblastoma
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/2197/esthesioneuroblastoma
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: General Information about Paranasal Sinus and Nasal Cavity Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/head-and-neck/patient/adult/paranasal-sinus-treatment-pdq#_1
+
+Resource: Key Statistics for Nasal Cavity and Paranasal Sinus Cancers
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/nasal-cavity-and-paranasal-sinus-cancer/key-statistics.html
+
+Resource: Nasal Cavity and Paranasal Sinus Cancer Stages
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/nasal-cavity-and-paranasal-sinus-cancer/detection-diagnosis-staging/staging.html
+
+Resource: Nasal Cavity and Paranasal Sinus Cancers
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/nasal-cavity-and-paranasal-sinus-cancer.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Oral Complications of Cancer Therapies
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq
+
+Resource: Panoramic Dental X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Nasal cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Nose+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

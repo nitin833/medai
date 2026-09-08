@@ -1,0 +1,103 @@
+Title: Liver Transplantation
+
+Also Called:
+- Hepatic transplantation
+
+Summary:
+Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. You cannot live without a liver that works. If your liver fails, your doctor may put you on a waiting list for a liver transplant. Doctors do liver transplants when other treatment cannot keep a damaged liver working.
+During a liver transplantation, the surgeon removes the diseased liver and replaces it with a healthy one. Most transplant livers come from a donor who has died.  Sometimes there is a living donor.  This is when a healthy person donates part of his or her liver for a specific patient.
+The most common reason for a transplant in adults is
+cirrhosis
+. This is scarring of the liver, caused by injury or long-term disease. The most common reason in children is biliary atresia, a disease of the
+bile ducts
+.
+If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new liver.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Transplantation and Donation
+
+MeSH Headings:
+- Liver Transplantation
+
+Related Resources:
+
+Resource: American Liver Foundation
+Category: Find an Expert
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/
+
+Resource: ClinicalTrials.gov: Liver Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22liver+transplantation%22&aggFilters=status:not%20rec
+
+Resource: Getting a New Liver: Facts about Liver Transplants
+Category: Start Here
+Organization: American Society of Transplantation
+URL: https://www.myast.org/uploads/files/general/Getting-A-New-Liver-Adults_FINAL.pdf
+
+Resource: Liver
+Category: Related Issues
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/resources/liver
+
+Resource: Liver transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003006.htm
+
+Resource: Liver Transplant
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/liver-transplant
+
+Resource: Liver Transplant (for parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/liver-transplant.html
+
+Resource: Liver transplant - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100090_1.htm
+
+Resource: Liver Transplant: Complications/Medications
+Category: Living With
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/liver-transplant/patient/complications.asp
+
+Resource: Liver Transplant: Nutrition
+Category: Living With
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/liver-transplant/patient/nutrition.asp
+
+Resource: Living Donor Liver Transplantation
+Category: Specifics
+Organization: American Society of Transplantation
+URL: https://www.myast.org/uploads/files/general/Living-Donor-Liver-Transplantation_FINAL.pdf
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: OPTN/SRTR Annual Data Report
+Category: Statistics and Research
+Organization: Scientific Registry of Transplant Recipients
+URL: https://srtr.hrsa.gov/transplant-professionals/optnsrtr-annual-data-report/
+
+Resource: Organ Procurement and Transplantation Network
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn
+
+Resource: Liver Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Liver+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers for Transplant Candidates about Model for End-Stage Liver Disease (MELD) and Pediatric End-Stage Liver Disease (PELD)
+Category: Related Issues
+Organization: United Network for Organ Sharing
+URL: https://www.unos.org/wp-content/uploads/unos/MELD_PELD.pdf

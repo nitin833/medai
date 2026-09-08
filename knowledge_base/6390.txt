@@ -1,0 +1,118 @@
+Title: Trastornos del metabolismo de los carbohidratos
+
+Also Called:
+- Trastornos del metabolismo de los hidratos de carbono
+
+Summary:
+El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la  comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un
+trastorno metabólico
+, hay un problema en este proceso.
+Los trastornos del metabolismo de los carbohidratos son un grupo de trastornos metabólicos. En general, sus enzimas descomponen los
+carbohidratos
+en glucosa, un tipo de azúcar. Si usted tiene alguno de estos trastornos, puede que no tenga suficientes enzimas para descomponer los carbohidratos, o puede que las enzimas no funcionen en forma correcta. Esto hace que una cantidad dañina de azúcar se acumule en su organismo. Esto puede conducir a problemas de salud, incluso graves. Algunos de estos trastornos son fatales.
+Estos trastornos se heredan. Muchos bebés recién nacidos son sometidos a
+pruebas
+mediante análisis de sangre. Si hay historia familiar de uno de estos trastornos, los padres pueden obtener
+pruebas genéticas
+para ver si son portadores del gen. Otras pruebas genéticas pueden determinar si el feto tiene el trastorno o si es portador del gen del trastorno.
+Los tratamientos pueden incluir dietas especiales, suplementos y medicamentos. Algunos bebés también pueden necesitar tratamientos adicionales, si se presentan complicaciones. Para algunos trastornos no existe cura, pero los tratamientos pueden ayudar con los síntomas.
+
+Groups:
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Diabetes: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/diabetes.html
+
+Resource: Enfermedad de almacenamiento de glucógeno tipo 2
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13557/enfermedad-de-almacenamiento-de-glucogeno-tipo-2
+
+Resource: Enfermedad de almacenamiento de glucógeno tipo 5
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12891/enfermedad-de-almacenamiento-de-glucogeno-tipo-5/
+
+Resource: Enfermedad de Von Gierke
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000338.htm
+
+Resource: Enfermedad del almacenamiento de glucógeno tipo V
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000329.htm
+
+Resource: Enfermedad por almacenamiento de glucógeno tipo 1 (von Gierke)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/enfermedades-del-HIGADO/centro-de-informaci%C3%B3n-hep%C3%A1tica-pedi%C3%A1trica/enfermedad-hep%C3%A1tica-pedi%C3%A1trica/enfermedad-por-almacenamiento-de-gluc%C3%B3geno-tipo-1-de-von-gierke/
+
+Resource: Galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12418/galactosemia/
+
+Resource: Galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000366.htm
+
+Resource: Galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/galactosemia/
+
+Resource: Intolerancia hereditaria a la fructosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000359.htm
+
+Resource: Mucopolisacaridosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/mucopolisacaridosis
+
+Resource: Mucopolisacaridosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001246.htm
+
+Resource: Mucopolisacaridosis tipo I
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001204.htm
+
+Resource: Mucopolisacaridosis tipo II
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001203.htm
+
+Resource: Mucopolisacaridosis tipo III
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001210.htm
+
+Resource: Mucopolisacaridosis tipo IV
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001206.htm
+
+Resource: Mucopolisacáridos ácidos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003368.htm
+
+Resource: Prueba de sangre de galactosa-1-fosfato uridiltransferasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003636.htm
+
+Resource: Síndrome de Sanfilippo (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sanfilippo-syndrome.html

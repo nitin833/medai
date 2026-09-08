@@ -1,0 +1,364 @@
+Title: Obesity
+
+Summary:
+What is obesity?
+Obesity is a disease that means having too much body fat. It is different from being overweight, which means weighing too much. Both terms mean that your weight is greater than what's considered healthy for your height.
+Body Mass Index (BMI) measures how much you weigh compared to how tall you are. An adult who has a BMI of 30 or more is considered to have obesity. Severe obesity is having a BMI of 40 or higher. Obesity increases your risk for many other diseases and health problems, especially if the extra body fat is carried around the waist.
+What raises your risk of obesity?
+Obesity happens over time from taking in more calories (through food and drinks) than used up from physical activity and daily living. Your body stores the extra calories as fat. The right balance between calories and activity is different for everyone.
+There are many different factors that can affect your
+body weight
+. Certain medicines or medical conditions may affect your weight. Other factors include your:
+Genetic makeup
+Eating habits
+Sex
+Race or ethnicity
+Physical activity level
+How is obesity diagnosed?
+To find out if you have obesity, your health care provider may:
+Ask about your health history
+, which may include reviewing your weight history, weight-loss efforts, and how physically active you are.
+Do a physical exam
+, which may include checking your height, weight, and
+vital signs
+, as well as listening to your heart and lungs.
+Order blood tests or other imaging tests
+, which may include checking any known health problems, as well as for other weight-related diseases and health conditions.
+Calculate your BMI
+, to check your risk for certain diseases. The higher your BMI, the higher your risk. BMI does not distinguish between fat, muscle, and bone mass. It may also overestimate body fat in athletes or those with a muscular build, or underestimate body fat in older persons, or others who have lost muscle.
+Check your waist size
+, since a large waistline, with more body fat around your abdomen (belly) rather than your hips, increases your risk for weight-related health problems.
+What health problems can obesity cause?
+Having a larger body size can make your heart work harder, put extra pressure on your joints, and may increase your risk for many health conditions, including:
+Type 2 diabetes
+.
+Heart disease
+.
+High blood pressure
+.
+Stroke
+.
+Metabolic syndrome
+.
+Osteoarthritis
+.
+Sleep apnea
+.
+Pregnancy problems
+.
+Fertility problems
+.
+Some cancers.
+If you have obesity, losing even 5 to 10% of your weight can delay or prevent some of these diseases. For example, that means losing 10 to 20 pounds if you weigh 200 pounds.
+What are the treatments for obesity?
+Treatment plans for obesity may depend on your overall weight, other health conditions, and your willingness to participate in a
+weight-loss plan
+.
+Your provider can tell you what a healthy weight is for you, help you set goals, and give you tips on how to lose weight. They may refer you to other providers that specialize in nutrition or weight loss to help you make realistic goals and provide support.
+Possible treatments may include:
+Dietary changes and exercise goals
+to help you learn how to adopt healthy nutrition,
+exercise
+, and lifestyle changes to lose weight safely and keep it off long term.
+Counseling or support groups
+can give you encouragement and help you understand what's behind weight changes.
+Weight-loss medicines
+to treat obesity.
+Weight loss procedures or
+surgery
+if you have severe obesity or serious obesity-related health problems and have not been able to lose enough weight.
+A healthy lifestyle that includes healthy eating patterns and regular physical activity can help you lose weight and lower your chance of developing complications related to obesity.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Food and Nutrition
+- Metabolic Problems
+
+MeSH Headings:
+- Obesity
+
+Related Resources:
+
+Resource: About Obesity
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/obesity/php/about/
+
+Resource: Adult BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/adult-calculator/index.html
+
+Resource: Adult Obesity Prevalence Maps
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/obesity/data-and-statistics/adult-obesity-prevalence-maps.html
+
+Resource: Belly Fat in Men: Why Weight Loss Matters
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685?p=1
+
+Resource: Belly Fat in Women: Taking -- and Keeping -- It off
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809?p=1
+
+Resource: Bioimpedance Scale
+Category: Diagnosis and Tests
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/all-childrens-hospital/services/pediatric-and-adolescent-medicine/healthy-weight-initiative/resources-for-all-ages/bioimpedance-scale-in-children
+
+Resource: Body mass index
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007196.htm
+
+Resource: Body Mass Index Table
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/media/docs/bmi_tbl.pdf
+
+Resource: Calculate Your BMI
+Category: Health Check Tools
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/calculate-your-bmi
+
+Resource: ClinicalTrials.gov: Obesity
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Obesity%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Overweight
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Overweight%22&aggFilters=status:not%20rec
+
+Resource: Congenital leptin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-leptin-deficiency/
+
+Resource: Dealing with Feelings When You're Overweight
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/feelings-overweight.html
+
+Resource: Diet--Not a Lack of Exercise--Is Main Driver of Obesity, Study Finds
+Category: Statistics and Research
+Organization: Harvard School of Public Health
+URL: https://hsph.harvard.edu/news/diet-not-a-lack-of-exercise-is-main-driver-of-obesity-study-finds/
+
+Resource: Disability and Obesity
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/disability-and-health/conditions/obesity.html
+
+Resource: FastStats: Obesity and Overweight
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/obesity-overweight.htm
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Find an Obesity Medicine Provider
+Category: Find an Expert
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/about/find-a-provider/
+
+Resource: Health risks of obesity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000348.htm
+
+Resource: Health Risks of Overweight and Obesity
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks
+
+Resource: Heart-Healthy Living - Aim for a Healthy Weight
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight
+
+Resource: Heart-Healthy Living - For Children
+Category: Children
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/children
+
+Resource: How Well Does Body Mass Index Correlate with Excess Fat?
+Category: Diagnosis and Tests
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/how-well-does-body-mass-index-correlate-with-excess-fat
+
+Resource: Leptin receptor deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leptin-receptor-deficiency/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Obesity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007297.htm
+
+Resource: Obesity
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/obesity/symptoms-causes/syc-20375742?p=1
+
+Resource: Obesity
+Category: Start Here
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/obesity
+
+Resource: Obesity
+Category: Specifics
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/obesity?partner=nlm
+
+Resource: Obesity and Anesthesia
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/risks/obesity/
+
+Resource: Obesity and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet
+
+Resource: Obesity and Exercise
+Category: Treatments and Therapies
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/blog/obesity-and-exercise/
+
+Resource: Obesity and Hypertension: Mechanisms, Risks, and Treatment
+Category: Related Issues
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/blog/obesity-and-hypertension/
+
+Resource: Obesity and Severe Obesity Prevalence in Adults: United States, August 2021--August 2023
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nchs/products/databriefs/db508.htm
+
+Resource: Obesity and Sleep Apnea: Understanding the Connection
+Category: Related Issues
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/blog/sleep-apnea-and-obesity/
+
+Resource: Obesity and Your Digestive Health
+Category: Related Issues
+Organization: American College of Gastroenterology
+URL: https://s3.gi.org/patients/obesity/pdfs/ACG_Obesity_Patient_Education_Pamphlet.pdf
+
+Resource: Obesity Care and Treatment
+Category: Older Adults
+Organization: National Council on Aging
+URL: https://www.ncoa.org/older-adults/health/physical-health/chronic-disease/obesity/
+
+Resource: Obesity Hypoventilation Syndrome
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/obesity-hypoventilation-syndrome
+
+Resource: Obesity hypoventilation syndrome (OHS)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000085.htm
+
+Resource: Obesity in Children: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/obesityinchildren.html
+
+Resource: Obesity Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/obesity-screening/
+
+Resource: Overweight and Obesity Statistics
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity
+
+Resource: Overweight and Obesity: Causes and Risk Factors
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/overweight-and-obesity/causes
+
+Resource: Pregnancy and Obesity: Know the Risks
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy-and-obesity/art-20044409?p=1
+
+Resource: Proopiomelanocortin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/proopiomelanocortin-deficiency/
+
+Resource: Obesity
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Obesity%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sarcopenic Obesity: Causes, Diagnosis and Treatment
+Category: Specifics
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/blog/sarcopenic-obesity/
+
+Resource: Staying Active at Any Size
+Category: Prevention and Risk Factors
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/staying-active-at-any-size
+
+Resource: Test Your Weight Loss Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000348_4.htm
+
+Resource: Understanding the Dietary Inflammatory Index and Its Uses
+Category: Treatments and Therapies
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/blog/foods-that-aid-in-stress-relief-and-lowering-inflammation/
+
+Resource: Weight and Obesity
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-weight/weight-and-obesity
+
+Resource: Weight Control: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/weightcontrol.html
+
+Resource: Weight Loss Myths & Facts Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/007297_2.htm
+
+Resource: Weight Loss Surgery: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/weightlosssurgery.html
+
+Resource: Weight Management and Healthy Living Tips
+Category: Prevention and Risk Factors
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/community-health-outreach/healthy-living-tips
+
+Resource: What Are Overweight and Obesity?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/overweight-and-obesity

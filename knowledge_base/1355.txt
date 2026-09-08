@@ -1,0 +1,86 @@
+Title: Hospice Care
+
+Also Called:
+- End-of-life care
+
+Summary:
+Hospice care is
+end-of-life
+care. A team of health care professionals and volunteers provides it. They give medical, psychological, and spiritual support. The goal of the care is to help people who are dying have peace, comfort, and dignity. The caregivers try to control pain and other symptoms so a person can remain as alert and comfortable as possible. Hospice programs also provide services to support a patient's family.
+Usually, a hospice patient is expected to live 6 months or less. Hospice care can take place:
+At home
+At a hospice center
+In a hospital
+In a skilled nursing facility
+NIH: National Cancer Institute
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Hospices
+
+Related Resources:
+
+Resource: Choices for Cancer Care when Treatment May Not Be an Option
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/advanced-cancer/care-choices
+
+Resource: ClinicalTrials.gov: Hospice Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Hospice+Care%22&aggFilters=status:not%20rec
+
+Resource: Data analysis shows poor long-term cognitive, physical outcomes after prolonged hospitalization
+Category: Statistics and Research
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/news/data-analysis-shows-poor-long-term-cognitive-physical-outcomes-after-prolonged-hospitalization
+
+Resource: Different Care Settings at the End of Life
+Category: Start Here
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/end-life/different-care-settings-end-life
+
+Resource: FastStats: Hospice Care
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/hospice-care.htm
+
+Resource: Find a Provider
+Category: Find an Expert
+Organization: National Alliance for Care at Home
+URL: https://allianceforcareathome.org/find-a-provider/
+
+Resource: Hospice care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000467.htm
+
+Resource: Hospice Care: Comfort at the End of Life
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://newsnetwork.mayoclinic.org/discussion/hospice-care-comforting-the-terminally-ill/
+
+Resource: National Alliance for Care at Home
+Category: Find an Expert
+Organization: National Alliance for Care at Home
+URL: https://allianceforcareathome.org/
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Hospice Care
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hospices%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Are Palliative Care and Hospice Care?
+Category: Start Here
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/hospice-and-palliative-care/what-are-palliative-care-and-hospice-care
+
+Resource: What Is Palliative Care? We Asked a Professional
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/what-is-palliative-care-we-asked-a-professional

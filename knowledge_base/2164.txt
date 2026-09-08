@@ -1,0 +1,133 @@
+Title: Traumatismo de la médula espinal
+
+Summary:
+Su médula espinal es un conjunto de nervios que se extiende por el centro de su espalda. Transmite señales desde y hacia su cuerpo y su cerebro. Un traumatismo de la médula espinal interrumpe estas señales. En general, las lesiones de la médula espinal comienzan con un golpe que
+fractura
+(rompe) o
+disloca
+las vértebras, los discos óseos que forman la columna vertebral. La mayoría de las lesiones no cortan la médula espinal. En cambio, causan daño cuando partes de vértebras rompen el tejido medular o presionan las partes nerviosas que transmiten las señales.
+Las lesiones de la médula espinal pueden ser completas o incompletas. En una lesión completa de médula espinal, la médula no puede transmitir mensajes por debajo del nivel de la lesión. Como consecuencia, el paciente queda
+paralizado
+por debajo del nivel del traumatismo. En un traumatismo incompleto, se conservan ciertos movimientos y sensaciones por debajo de la lesión.
+Una lesión de la médula espinal es una emergencia médica. El tratamiento inmediato puede reducir los efectos a largo plazo. Los tratamientos pueden incluir medicamentos, aparatos ortopédicos o tracción para estabilizar la columna vertebral; y cirugía. En general, el tratamiento posterior incluye medicamentos y terapia de rehabilitación. Las
+ayudas para la movilidad
+y los
+dispositivos de asistencia
+pueden ayudarle a moverse y realizar algunas tareas diarias.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Autosondaje en hombres
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000143.htm
+
+Resource: Autosondaje en mujeres
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000144.htm
+
+Resource: Cuidado de sonda permanente
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000140.htm
+
+Resource: Cuidado de sonda suprapúbica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000145.htm
+
+Resource: Estimulación de la médula espinal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007560.htm
+
+Resource: Fuga del LCR
+Category: Enciclopedia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001068.htm
+
+Resource: Hiperreflexia autónoma
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001431.htm
+
+Resource: Introducción a los trastornos de la médula espinal
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-la-m%C3%A9dula-espinal/introducci%C3%B3n-a-los-trastornos-de-la-m%C3%A9dula-espinal
+
+Resource: Lesiones de la médula espinal: Síntomas y causas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spinal-cord-injury/symptoms-causes/syc-20377890?p=1
+
+Resource: Lesión de columna
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000029.htm
+
+Resource: Lesión de la médula espinal
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/lesion-de-la-medula-espinal
+
+Resource: Lesión en la columna vertebral: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-spinal-injury/basics/art-20056677?p=1
+
+Resource: Mielografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/myelography
+
+Resource: Programa de cuidado diario del intestino
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000133.htm
+
+Resource: Resonancia magnética de la región lumbar
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007352.htm
+
+Resource: RMN de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Sondas vesicales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003981.htm
+
+Resource: Tomografía computarizada de la columna dorsal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007442.htm
+
+Resource: Traumatismo de la médula espinal
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001066.htm
+
+Resource: ¿Cuáles son los tratamientos para una lesión de la médula espinal?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinalinjury/informacion/tratamientos
+
+Resource: ¿Cómo se diagnostica una lesión de la médula espinal?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinalinjury/informacion/diagnostica
+
+Resource: ¿Qué es una lesión de la médula espinal?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinalinjury/informacion

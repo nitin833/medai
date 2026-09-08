@@ -1,0 +1,348 @@
+Title: Epilepsy
+
+Summary:
+Epilepsy is a brain disorder that causes people to have recurring
+seizures
+.  The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness.
+Epilepsy has many possible causes, including illness, brain injury, and abnormal brain development. In many cases, the cause is unknown.
+Doctors use brain scans and other tests to diagnose epilepsy. It is important to start treatment right away. There is no cure for epilepsy, but medicines can control seizures for most people. When medicines are not working well, surgery or implanted devices such as vagus nerve stimulators may help. Special diets can help some children with epilepsy.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Epilepsy
+
+Related Resources:
+
+Resource: Autosomal dominant epilepsy with auditory features: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-epilepsy-with-auditory-features
+
+Resource: Autosomal dominant sleep-related hypermotor epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-sleep-related-hypermotor-epilepsy
+
+Resource: Benign familial neonatal seizures: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/benign-familial-neonatal-seizures
+
+Resource: Brain PET scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007341.htm
+
+Resource: Brain surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003018.htm
+
+Resource: Brain surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000124.htm
+
+Resource: CDKL5 deficiency disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cdkl5-deficiency-disorder
+
+Resource: CHD2 myoclonic encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chd2-myoclonic-encephalopathy
+
+Resource: Childhood absence epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/childhood-absence-epilepsy
+
+Resource: ClinicalTrials.gov: Epilepsy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Epilepsy%22&aggFilters=status:not%20rec
+
+Resource: CLN8 disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cln8-disease
+
+Resource: Craniotomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100048_1.htm
+
+Resource: Curing the Epilepsies: The Promise of Research
+Category: Statistics and Research
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/current-research/focus-disorders/epilepsy-research/curing-epilepsies-promise-research
+
+Resource: Developmental and epileptic encephalopathy 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/developmental-and-epileptic-encephalopathy-1/
+
+Resource: Dravet Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/dravet-syndrome
+
+Resource: EEG
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003931.htm
+
+Resource: EEG (Electroencephalogram)
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875?p=1
+
+Resource: Employees with Epilepsy/Seizure Disorder
+Category: Related Issues
+Organization: Office of Disability Employment Policy
+URL: https://askjan.org/disabilities/Epilepsy-Seizure-Disorder.cfm
+
+Resource: Epilepsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000694.htm
+
+Resource: Epilepsy
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/epilepsy.html
+
+Resource: Epilepsy
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/epilepsy.html
+
+Resource: Epilepsy - Symptoms, Causes, Treatments and More
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.epilepsy.va.gov/Information/about.asp
+
+Resource: Epilepsy and Pregnancy: What You Need to Know
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20048417?p=1
+
+Resource: Epilepsy and Seizures
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures
+
+Resource: Epilepsy Facts and Stats
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/epilepsy/data-research/facts-stats/
+
+Resource: Epilepsy in adults - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000221.htm
+
+Resource: Epilepsy in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007681.htm
+
+Resource: Epilepsy in children - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000127.htm
+
+Resource: Epilepsy in children - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000222.htm
+
+Resource: Epilepsy of infancy with migrating focal seizures: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/epilepsy-of-infancy-with-migrating-focal-seizures
+
+Resource: Epilepsy or seizures - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000128.htm
+
+Resource: Epilepsy Surgery
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/epilepsy-surgery/about/pac-20393981?p=1
+
+Resource: Epilepsy Surgery
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/epilepsy-surgery.html
+
+Resource: Epilepsy-aphasia spectrum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/epilepsy-aphasia-spectrum
+
+Resource: Fashion Icon Camila Coelho Gets Real About Epilepsy Diagnosis
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/fashion-icon-camila-coelho-gets-real-about-epilepsy-diagnosis
+
+Resource: Find a Doctor
+Category: Find an Expert
+Organization: American Epilepsy Society
+URL: https://my.aesnet.org/FindaDoctor
+
+Resource: First Aid for Seizures
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/epilepsy/first-aid-for-seizures/
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Genetic epilepsy with febrile seizures plus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/genetic-epilepsy-with-febrile-seizures-plus
+
+Resource: GM3 synthase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gm3-synthase-deficiency
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: Head CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: How to Help Someone Who Is Having a Seizure
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/how-to-help-someone-who-is-having-a-seizure
+
+Resource: Infantile Spasms: Symptoms, Causes and Treatment
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Infantile-Spasms-What-Parents-Need-to-Know.aspx
+
+Resource: Juvenile myoclonic epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-myoclonic-epilepsy
+
+Resource: Lafora progressive myoclonus epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lafora-progressive-myoclonus-epilepsy
+
+Resource: Lennox-Gastaut Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lennox-gastaut-syndrome
+
+Resource: Lennox-Gastaut syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lennox-gastaut-syndrome
+
+Resource: Managing Epilepsy
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/epilepsy/living-with/
+
+Resource: Myoclonic epilepsy with ragged-red fibers: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-with-ragged-red-fibers/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: One Family's Journey to Find Epilepsy Answers
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/one-familys-journey-to-find-epilepsy-answers
+
+Resource: Pharmacogenetic Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pharmacogenetic-tests/
+
+Resource: PRICKLE1-related progressive myoclonus epilepsy with ataxia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prickle1-related-progressive-myoclonus-epilepsy-with-ataxia
+
+Resource: Progressive myoclonic epilepsy type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/progressive-myoclonic-epilepsy-type-1
+
+Resource: Epilepsy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Epilepsy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pyridoxine-dependent epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pyridoxine-dependent-epilepsy
+
+Resource: Ring chromosome 14 syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ring-chromosome-14-syndrome
+
+Resource: Ring chromosome 20 syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ring-chromosome-20-syndrome
+
+Resource: Spinal muscular atrophy with progressive myoclonic epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spinal-muscular-atrophy-with-progressive-myoclonic-epilepsy
+
+Resource: STXBP1 encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stxbp1-encephalopathy/
+
+Resource: Sudden unexpected death in epilepsy
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/epilepsy/sudep/
+
+Resource: Suicide Warnings on Medications
+Category: Treatments and Therapies
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/faq/471018/suicide-warnings-medications
+
+Resource: Tracking Seizures
+Category: Living With
+Organization: Epilepsy Foundation
+URL: https://www.epilepsy.com/manage/tracking
+
+Resource: Vagus nerve stimulation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007854.htm
+
+Resource: Vagus Nerve Stimulation
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/vagus-nerve-stimulation/about/pac-20384565?p=1
+
+Resource: Vagus Nerve Stimulator Therapy for Epilepsy (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vagus-nerve-stimulator.html

@@ -1,0 +1,289 @@
+Title: Uncommon Infant and Newborn Problems
+
+Summary:
+It can be scary when your baby is sick, especially when it is not an
+everyday problem
+like a cold or a fever.  You may not know whether the problem is serious or how to treat it.  If you have concerns about your baby's health, call your health care provider right away.
+Learning information about your baby's condition can help ease your worry.  Do not be afraid to ask questions about your baby's care. By working together with your health care provider, you make sure that your baby gets the best care possible.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Infant, Newborn, Diseases
+
+Related Resources:
+
+Resource: Anemia caused by low iron - infants and toddlers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007618.htm
+
+Resource: Anemia in the Newborn
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/blood-problems-in-newborns/anemia-in-the-newborn
+
+Resource: Biliary Atresia
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/biliary-atresia.html
+
+Resource: Brief resolved unexplained event -- BRUE
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007683.htm
+
+Resource: Bronchopulmonary Dysplasia (BPD)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/bronchopulmonary-dysplasia
+
+Resource: Caput succedaneum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001587.htm
+
+Resource: Chest Pain in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/chest-pain-in-infants-and-children/
+
+Resource: ClinicalTrials.gov: Infant, Newborn, Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Infant,+Newborn,+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Common Childhood Orthopedic Conditions
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/common-ortho.html
+
+Resource: Craniotabes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001591.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Excessive crying in infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003023.htm
+
+Resource: Exchange transfusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002923.htm
+
+Resource: Exchange transfusion - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100018_1.htm
+
+Resource: Failure to Thrive
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/failure-thrive.html
+
+Resource: Faltering weight
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000991.htm
+
+Resource: Feeding Problems in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/feeding-problems-in-infants-and-children/
+
+Resource: Fetal Macrosomia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/fetal-macrosomia/symptoms-causes/syc-20372579?p=1
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Fontanelles - bulging
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003310.htm
+
+Resource: Fontanelles - enlarged
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003311.htm
+
+Resource: Fontanelles - sunken
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003309.htm
+
+Resource: Frontal bossing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003301.htm
+
+Resource: Fussy or irritable child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003214.htm
+
+Resource: Genital Problems in Infants (Female)
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/genital-problems-in-infants-female/
+
+Resource: Home apnea monitor use - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000755.htm
+
+Resource: Hyperglycemia - infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007228.htm
+
+Resource: Infantile pyloric stenosis - Series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100095_1.htm
+
+Resource: Intussusception
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/intussusception.html
+
+Resource: Intussusception - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000958.htm
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Laryngomalacia
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/laryngomalacia.html
+
+Resource: Low Calcium in Babies (Hypocalcemia)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hypocalcemia.html
+
+Resource: Low calcium level - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007229.htm
+
+Resource: Neonatal hypothyroidism
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001193.htm
+
+Resource: Neonatal respiratory distress syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001563.htm
+
+Resource: Neonatal sepsis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007303.htm
+
+Resource: Neutropenia
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/neutropenia.html
+
+Resource: Neutropenia - infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007230.htm
+
+Resource: Polycythemia - newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000536.htm
+
+Resource: Uncommon Infant and Newborn Problems
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Infant%2C+Newborn%2C+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D++
+
+Resource: Pyloric Stenosis
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pyloric-stenosis.html
+
+Resource: Pyloric stenosis in infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000970.htm
+
+Resource: Reflux in Infants: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/refluxininfants.html
+
+Resource: Repeated Infections in Children
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/repeated-infections-in-children/
+
+Resource: Sick Baby? When to Seek Medical Attention
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20047793?p=1
+
+Resource: Spasmus nutans
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001409.htm
+
+Resource: Tongue tie
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001640.htm
+
+Resource: Tracheoesophageal fistula and esophageal atresia repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002934.htm
+
+Resource: Tracheomalacia - acquired
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007310.htm
+
+Resource: Transient tachypnea - newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007233.htm
+
+Resource: Transient Tachypnea of the Newborn (TTN)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ttn.html
+
+Resource: Vitamin K deficiency bleeding of the newborn
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007320.htm
+
+Resource: When Your Baby's in the NICU (Neonatal Intensive Care Unit)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nicu-caring.html
+
+Resource: When Your Child's in the Pediatric Intensive Care Unit
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picu.html

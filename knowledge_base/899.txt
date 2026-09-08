@@ -1,0 +1,96 @@
+Title: Electromagnetic Fields
+
+Also Called:
+- EMFs
+
+Summary:
+Electric and magnetic fields (EMFs), also called
+radiation
+, are areas of energy that surround electrical devices. Everyday sources of EMFs include:
+Power lines
+Electrical wiring
+Microwave ovens
+Computers
+Cell phones
+Some people worry about EMF exposure and cancer. Some studies have found a link between EMF exposure and a higher risk of childhood leukemia, but other studies have not. Other studies have not found proof that EMF exposure causes other childhood cancers. Studies in adults did not prove that EMF exposure causes cancer.
+Some people worry that cell (wireless) phones cause cancer or other health problems. The phones do give off radiofrequency energy (RF), a form of electromagnetic radiation.  So far, scientific evidence has not found a link between cell phone use and health problems in humans. However, scientists need to do more research on this before they can say for sure. If you are worried about avoiding any possible risks, you can limit your exposure by:
+Reducing the amount of time you spend using your cell phone
+Use speaker mode or a headset to place more distance between your head and the cell phone
+NIH: National Institute of Environmental Health Sciences
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Electromagnetic Fields
+
+Related Resources:
+
+Resource: Cell Phone Towers
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/radiation-exposure/cellular-phone-towers.html
+
+Resource: Cell Phones
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/home-business-and-entertainment-products/cell-phones
+
+Resource: Cell phones and cancer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007151.htm
+
+Resource: Cell Phones and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+
+Resource: ClinicalTrials.gov: Electromagnetic Fields
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Electromagnetic+Fields%22&aggFilters=status:not%20rec
+
+Resource: Electric and Magnetic Fields
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/emf
+
+Resource: Electromagnetic Fields and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet
+
+Resource: Facts About Cell Phones and Your Health
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/radiation-health/data-research/facts-stats/cell-phones.html
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: International EMF Project
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/initiatives/the-international-emf-project
+
+Resource: Microwave Ovens
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Electromagnetic Fields
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Electromagnetic+Fields%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Are Electric and Magnetic Fields? (EMF)
+Category: Children
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/kids/topics/pollution/emf

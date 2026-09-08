@@ -1,0 +1,254 @@
+Title: Lesiones y enfermedades de la pierna
+
+Summary:
+Las piernas están formadas por huesos, vasos sanguíneos, músculos y otros tejidos conectivos. Son importantes para moverse y como soporte del cuerpo. La práctica deportiva, correr, las caídas o los accidentes pueden lesionar sus piernas. Las lesiones más comunes incluyen
+torceduras y distensiones
+,
+dislocaciones de una articulación
+y
+fracturas
+(huesos rotos).
+Estas lesiones pueden afectar toda la pierna o solamente el
+pie
+, el
+tobillo
+, la
+rodilla
+o la
+cadera
+. Algunas enfermedades también causan problemas en las piernas. Por ejemplo, la osteoartritis de la rodilla, común en personas mayores, puede causar dolor y limitarles sus movimientos. Los problemas en las venas de las piernas pueden causar
+várices
+o
+trombosis venosa profunda
+.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Alargamiento de la pierna
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100127_1.htm
+
+Resource: Alargamiento y acortamiento de la pierna
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002965.htm
+
+Resource: Alta tras reparación de fractura femoral
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000166.htm
+
+Resource: Amputación de un pie o una pierna
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007365.htm
+
+Resource: Anomalías esqueléticas de las extremidades
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003170.htm
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Atención postratamiento de síndrome de la banda iliotibial
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000683.htm
+
+Resource: Calambres nocturnos en las piernas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/night-leg-cramps/basics/definition/sym-20050813?p=1
+
+Resource: Claudicación
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/claudication/symptoms-causes/syc-20370952?p=1
+
+Resource: Cuidados personales con las úlceras isquémicas
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000742.htm
+
+Resource: Cuidados personales en caso de úlceras venosas
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000744.htm
+
+Resource: Cuidados personales para el dolor en las espinillas
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000654.htm
+
+Resource: Disfunción del nervio femoral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000687.htm
+
+Resource: Disfunción del nervio peroneo común
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000791.htm
+
+Resource: Dolor de piernas
+Category: Síntomas, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003182.htm
+
+Resource: Dolores de crecimiento
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growing-pains.html
+
+Resource: Enfermedad de Blount
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/blount-disease.html
+
+Resource: Enfermedad de Blount
+Category: Adolescentes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001584.htm
+
+Resource: Enfermedad de Buerger
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/buergers-disease/symptoms-causes/syc-20350658?p=1
+
+Resource: Hinchazón de pierna
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/leg-swelling/basics/definition/sym-20050910?p=1
+
+Resource: Hinchazón de tobillos, pies y piernas
+Category: Síntomas, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003104.htm
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Insuficiencia venosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000203.htm
+
+Resource: Lesiones deportivas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/lesiones-deportivas
+
+Resource: Lesiones en las placas de crecimiento
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/lesiones-en-las-placas-de-crecimiento
+
+Resource: Lesiones por sobrecarga
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/rsi.html
+
+Resource: Linfedema
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/lymphedema/symptoms-causes/syc-20374682?p=1
+
+Resource: Meralgia parestésica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/meralgia-paresthetica/symptoms-causes/syc-20355635?p=1
+
+Resource: Neuropatía periférica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/neuropatia-periferica
+
+Resource: Periostitis tibial
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/shin-splints/symptoms-causes/syc-20354105?p=1
+
+Resource: Periostitis tibial
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/shin-splints.html
+
+Resource: Piernas arqueadas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001585.htm
+
+Resource: Piernas arqueadas y rodillas torcidas
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/orthopedic/paginas/bowlegs-and-knock-knees.aspx
+
+Resource: Piernas en X (genu valgum )
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/knock-knees.html
+
+Resource: Quebradura de pierna
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/broken-leg/symptoms-causes/syc-20370412?p=1
+
+Resource: Radiografía de la pelvis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003809.htm
+
+Resource: Radiografía: Parte inferior de las piernas (tibia y peroné)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-lower-leg.html
+
+Resource: Resonancia magnética de la pierna
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007357.htm
+
+Resource: Rodillas valgas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001263.htm
+
+Resource: Síndrome del tunel tarsal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000792.htm
+
+Resource: Tomografía computarizada de la pierna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007348.htm
+
+Resource: Tromboflebitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thrombophlebitis/symptoms-causes/syc-20354607?p=1
+
+Resource: Vasos sanguíneos de la pierna
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/vasos-sanguineos-de-la-pierna/
+
+Resource: ¿En qué consiste la radiografía de longitud de piernas?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-leg-length.html
+
+Resource: Índice tobillo-brazo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/ankle-brachial-index/about/pac-20392934?p=1

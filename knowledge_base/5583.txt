@@ -1,0 +1,137 @@
+Title: Peritoneal Disorders
+
+Summary:
+Your peritoneum is the tissue that lines your abdominal wall and covers most of the organs in your abdomen. A liquid, peritoneal fluid, lubricates the surface of this tissue.
+Disorders of the peritoneum are not common. They include:
+Peritonitis - an inflammation of the peritoneum
+Cancer
+Complications from peritoneal
+dialysis
+Your doctor may use imaging tests or lab tests to analyze the peritoneal fluid to diagnose the problem. Treatment of peritoneal disorders depends on the cause.
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Peritoneal Diseases
+
+Related Resources:
+
+Resource: Abdominal exploration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002928.htm
+
+Resource: Abdominal exploration - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100049_1.htm
+
+Resource: Abdominal tap
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Ascites
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000286.htm
+
+Resource: Ascites: A Common Problem in People with Cirrhosis
+Category: Related Issues
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/ascites/
+
+Resource: ClinicalTrials.gov: Peritoneal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peritoneal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peritonitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peritonitis%22&aggFilters=status:not%20rec
+
+Resource: Familial Mediterranean Fever
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/familial-mediterranean-fever/symptoms-causes/syc-20372470?p=1
+
+Resource: Mesenteric artery ischemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001156.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Peritoneal fluid analysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003626.htm
+
+Resource: Peritoneal fluid culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003727.htm
+
+Resource: Peritoneal Multicystic Mesothelioma
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10777/peritoneal-cystic-mesothelioma
+
+Resource: Peritoneal Ports
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/PeritonealPort
+
+Resource: Peritonitis
+Category: Start Here
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/peritonitis
+
+Resource: Peritonitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001335.htm
+
+Resource: Peritonitis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/peritonitis/symptoms-causes/syc-20376247?p=1
+
+Resource: Peritonitis - secondary
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000651.htm
+
+Resource: Peritonitis - spontaneous bacterial
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000648.htm
+
+Resource: Peritonitis Diagnosis and Treatment
+Category: Diagnosis and Tests
+Organization: Johns Hopkins Medicine
+URL: https://www.mayoclinic.org/diseases-conditions/peritonitis/diagnosis-treatment/drc-20376250?p=1
+
+Resource: Peritoneal Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Peritoneal+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retroperitoneal inflammation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001255.htm
+
+Resource: Superior Mesenteric Artery Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7712/superior-mesenteric-artery-syndrome/

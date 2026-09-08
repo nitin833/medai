@@ -1,0 +1,99 @@
+Title: Enfermedades peritoneales
+
+Also Called:
+- Enfermedades del peritoneo
+
+Summary:
+El peritoneo es el tejido que recubre la pared abdominal y cubre la mayor parte de los órganos en el abdomen. Un líquido, fluido peritoneal, lubrica la superficie de este tejido .
+Los trastornos del peritoneo son raros. Estos pueden ser :
+Peritonitis: Una inflamación del peritoneo
+Cáncer
+Complicaciones por
+diálisis
+peritoneal
+Su doctor puede usar test por imágenes o de laboratorio para analizar el fluido peritoneal para diagnosticar una enfermedad peritoneal. El tratamiento de los trastornos peritoneales dependerá de la causa.
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Análisis del líquido peritoneal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003626.htm
+
+Resource: Ascitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000286.htm
+
+Resource: Cultivo del líquido peritoneal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003727.htm
+
+Resource: Exploración abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002928.htm
+
+Resource: Exploración quirúrgica del abdomen
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100049_1.htm
+
+Resource: Fiebre mediterránea familiar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/familial-mediterranean-fever/symptoms-causes/syc-20372470?p=1
+
+Resource: Inflamación retroperitoneal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001255.htm
+
+Resource: Isquemia de las arterias mesentéricas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001156.htm
+
+Resource: Peritonitis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/peritonitis/symptoms-causes/syc-20376247?p=1
+
+Resource: Peritonitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001335.htm
+
+Resource: Peritonitis bacteriana espontánea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000648.htm
+
+Resource: Peritonitis secundaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000651.htm
+
+Resource: Puertos peritoneales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/PeritonealPort
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Síndrome de la arteria mesentérica superior
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12871/sindrome-de-la-arteria-mesenterica-superior/
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus

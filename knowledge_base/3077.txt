@@ -1,0 +1,342 @@
+Title: Breathing Problems
+
+Summary:
+When you're short of breath, it's hard or uncomfortable for you to take in the oxygen your body needs. You may feel as if you're not getting enough air. Sometimes you can have mild breathing problems because of a stuffy nose or intense exercise. But shortness of breath can also be a sign of a serious disease.
+Many conditions can make you feel short of breath:
+Lung conditions such as
+asthma
+,
+emphysema
+, or
+pneumonia
+Problems with your
+trachea
+or
+bronchi
+, which are part of your airway system
+Heart disease
+can make you feel breathless if your heart cannot pump enough blood to supply oxygen to your body
+Anxiety
+and
+panic attacks
+Allergies
+If you often have trouble breathing, it is important to find out the cause.
+
+Groups:
+- Lungs and Breathing
+- Symptoms
+
+MeSH Headings:
+- Tachypnea
+- Dyspnea
+
+Related Resources:
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Arterial Blood Gas (ABG) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-oxygen-level/
+
+Resource: Blood gases
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003855.htm
+
+Resource: Breath - holding spell
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000967.htm
+
+Resource: Breath sounds
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007535.htm
+
+Resource: Breath-Holding Spells
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/spells.html
+
+Resource: Breathing
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000018.htm
+
+Resource: Breathing - slowed or stopped
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003069.htm
+
+Resource: Breathing difficulties - first aid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000007.htm
+
+Resource: Breathing difficulty
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003075.htm
+
+Resource: Breathing difficulty - lying down
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003076.htm
+
+Resource: Breathlessness -- Shortness of Breath
+Category: Start Here
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/breathlessness.pdf
+
+Resource: Bronchiectasis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000144.htm
+
+Resource: Bronchoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Caregiver Guide: Breathing Problems
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/caregiver-guide-breathing-problems
+
+Resource: Chest CT
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003788.htm
+
+Resource: ClinicalTrials.gov: Dyspnea
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dyspnea%22&aggFilters=status:not%20rec
+
+Resource: Dyspnea during Advanced Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-pdq#_143
+
+Resource: Gas exchange
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000059.htm
+
+Resource: Home apnea monitor use - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000755.htm
+
+Resource: How to breathe when you are short of breath
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000053.htm
+
+Resource: How Your Body Controls Breathing
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs/body-controls-breathing
+
+Resource: Humidifiers: Ease Skin, Breathing Symptoms
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/humidifiers/art-20048021?p=1
+
+Resource: Hyperventilation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003071.htm
+
+Resource: Hypoxemia (Low Blood Oxygen)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/hypoxemia/basics/definition/SYM-20050930?p=1
+
+Resource: Intercostal retractions
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003322.htm
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Minimizing Shortness of Breath
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/education/health-information/stress-and-relaxation/breathing-and-relaxation/minimizing-shortness-of-breath
+
+Resource: Nasal flaring
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003055.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Obesity Hypoventilation Syndrome
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/obesity-hypoventilation-syndrome
+
+Resource: Obesity hypoventilation syndrome (OHS)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000085.htm
+
+Resource: Palliative care - shortness of breath
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000471.htm
+
+Resource: Primary alveolar hypoventilation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000078.htm
+
+Resource: Breathing Problems
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dyspnea%22%5Bmajr%3Anoexp%5D+OR+%22Tachypnea%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Rapid shallow breathing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007198.htm
+
+Resource: Respirator Types and Use
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/ppe/respirators/
+
+Resource: Respiratory Pathogens Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/respiratory-pathogens-panel/
+
+Resource: Shortness of Breath
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/shortness-of-breath/
+
+Resource: Shortness of Breath
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/01.CIR.0000075956.36340.78
+
+Resource: Shortness of Breath
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/shortness-of-breath/basics/definition/SYM-20050890?p=1
+
+Resource: Shortness Of Breath (Dyspnea)
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/shortness-of-breath-dyspnea/
+
+Resource: Shortness of Breath and Eating
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/health-insights/healthy-eating/shortness-of-breath?modal=1
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/spirometry
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spirometry/about/pac-20385201?p=1
+
+Resource: Sputum Culture
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sputum-culture/
+
+Resource: Stridor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003074.htm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Thoracic Insufficiency Syndrome
+Category: Related Issues
+Organization: Scoliosis Research Society
+URL: https://www.srs.org/Patients/Conditions/Scoliosis/Thoracic-Insufficiency-Syndrome-TIS
+
+Resource: Tracheomalacia - acquired
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007310.htm
+
+Resource: Tracheomalacia - congenital
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001084.htm
+
+Resource: Transient tachypnea - newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007233.htm
+
+Resource: Transient Tachypnea of the Newborn (TTN)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ttn.html
+
+Resource: Traveling with breathing problems
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000066.htm
+
+Resource: Turbinate surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007563.htm
+
+Resource: V/Q Scan
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vq-scan/
+
+Resource: What Are Retractions?
+Category: Symptoms
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/retract.html
+
+Resource: Wheezing
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/wheezing/basics/definition/SYM-20050764?p=1
+
+Resource: Wheezing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003070.htm

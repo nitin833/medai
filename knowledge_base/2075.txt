@@ -1,0 +1,215 @@
+Title: Enfermedades del páncreas
+
+Also Called:
+- Enfermedades pancreáticas
+
+Summary:
+El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de
+azúcar en la sangre
+. Los problemas en el páncreas pueden conducir a muchos problemas de salud. Entre ellos:
+Pancreatitis
+o inflamación del páncreas: esto ocurre cuando las enzimas digestivas comienzan a digerir al mismo páncreas
+Cáncer de páncreas
+Fibrosis quística
+, un trastorno genético en el que una secreción mucosa espesa y pegajosa pueden obstruir los conductos pancreáticos
+El páncreas también tiene un papel en la diabetes. En la
+diabetes tipo I
+, las células beta del páncreas no producen insulina debido a una reacción del sistema inmunitario del cuerpo contra ellas. En la
+diabetes tipo 2
+, el páncreas pierde la capacidad de segregar suficiente insulina en respuesta a las comidas.
+
+Groups:
+- Sistema digestivo
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Absceso pancreático
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000270.htm
+
+Resource: Absorción de la D-xilosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003606.htm
+
+Resource: Amilasa en orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003607.htm
+
+Resource: Amilasa en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003464.htm
+
+Resource: Colangiografía transhepática percutánea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003820.htm
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Ecografía abdominal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Elastasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/elastasa-fecal/
+
+Resource: Examen de deshidrogenasa láctica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003471.htm
+
+Resource: Examen de estimulación de secretina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003892.htm
+
+Resource: Examen de isoenzimas de la lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-isoenzimas-de-la-lactato-deshidrogenasa-ldh/
+
+Resource: Examen de lipasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003465.htm
+
+Resource: Examen de sangre de glucagón
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003716.htm
+
+Resource: Examen de tripsinógeno
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003560.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Guía animada para pacientes sobre enfermedades pancreáticas
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nacional del Páncreas
+URL: https://www.pancreasanimado.com/es/home.aspx
+
+Resource: Hiperinsulinemia: ¿Es diabetes?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/type-2-diabetes/expert-answers/hyperinsulinemia/faq-20058488?p=1
+
+Resource: Insuficiencia pancreática exocrina
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/insuficiencia-pancreatica-exocrina
+
+Resource: Insulinoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000387.htm
+
+Resource: Isoenzimas de la DHL prueba de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003499.htm
+
+Resource: Macroamilasemia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001216.htm
+
+Resource: Pancreatitis aguda
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000287.htm
+
+Resource: Pancreatitis crónica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000221.htm
+
+Resource: Prueba de amilasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-amilasa/
+
+Resource: Prueba de lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato-deshidrogenasa-ldh/
+
+Resource: Prueba de lipasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lipasa/
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Páncreas anular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001142.htm
+
+Resource: Páncreas divisum
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000247.htm
+
+Resource: Quimotripsina en heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/quimotripsina-en-heces/
+
+Resource: Quistes pancreáticos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pancreatic-cysts/symptoms-causes/syc-20375993?p=1
+
+Resource: Resonancia magnética del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Seudoquiste pancreático
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000272.htm
+
+Resource: Síndrome de Zollinger-Ellison
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000325.htm
+
+Resource: Tomografía computarizada del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003789.htm
+
+Resource: Tripsina y quimotripsina en las heces
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003594.htm

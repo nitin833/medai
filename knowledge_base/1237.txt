@@ -1,0 +1,152 @@
+Title: Pheochromocytoma
+
+Summary:
+Pheochromocytoma is a rare tumor that usually starts in the cells of one of your adrenal glands. Although they are usually
+benign
+, pheochromocytomas often cause the adrenal gland to make too many hormones. This can lead to high blood pressure and cause  symptoms such as :
+Headaches
+Sweating
+Pounding of the heart
+Being shaky
+Being extremely pale
+Sometimes pheochromocytoma is part of another condition called multiple endocrine neoplasia syndrome (MEN). People with MEN often have other cancers and other problems involving hormones.
+Doctors use lab tests and imaging tests to diagnose it. Surgery is the most common treatment.  Other options include radiation therapy, chemotherapy, and targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Endocrine System
+
+MeSH Headings:
+- Pheochromocytoma
+
+Related Resources:
+
+Resource: About Pheochromocytoma and Paraganglioma
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pheochrom/conditioninfo
+
+Resource: Adrenal gland removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007437.htm
+
+Resource: Adrenal Gland Removal (Adrenalectomy)
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/adrenal-gland-removal-adrenalectomy-patient-information-from-sages/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Catecholamine blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003561.htm
+
+Resource: Catecholamine Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/catecholamine-tests/
+
+Resource: Catecholamines - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003613.htm
+
+Resource: Childhood Pheochromocytoma and Paraganglioma Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pheochromocytoma/patient/child-pheochromocytoma-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Pheochromocytoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pheochromocytoma%22&aggFilters=status:not%20rec
+
+Resource: Drugs Approved for Pheochromocytoma and Paraganglioma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/pheochromocytoma-paraganglioma
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: General Information about Pheochromocytoma and Paraganglioma
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq
+
+Resource: Hereditary paraganglioma-pheochromocytoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-paraganglioma-pheochromocytoma
+
+Resource: How Do Health Care Providers Diagnose Pheochromocytoma?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pheochrom/conditioninfo/diagnosed
+
+Resource: MIBG scintiscan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003830.htm
+
+Resource: Multiple Endocrine Neoplasia Type I
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/multiple-endocrine-neoplasia-type-1
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Nonsyndromic paraganglioma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nonsyndromic-paraganglioma
+
+Resource: Pheochromocytoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000340.htm
+
+Resource: Pheochromocytoma
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pheochromocytoma/symptoms-causes/syc-20355367?p=1
+
+Resource: Pheochromocytoma and Paraganglioma
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pheochrom
+
+Resource: Pheochromocytoma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pheochromocytoma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stages of Pheochromocytoma and Paraganglioma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq#_26
+
+Resource: Treatment Option Overview (Pheochromocytoma and Paraganglioma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq#_50
+
+Resource: What Are Common Symptoms of Pheochromocytoma?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pheochrom/conditioninfo/symptoms

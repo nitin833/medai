@@ -1,0 +1,70 @@
+Title: Salud ocupacional de proveedores de salud
+
+Also Called:
+- Salud de las enfermeras y enfermeros
+- Salud de los doctores
+- Salud de los profesionales de la salud
+
+Summary:
+Los empleados dedicados al cuidado de la salud están expuestos a muchos riesgos laborales. Ellos pueden incluir:
+Infecciones
+Lesiones con agujas
+Lesiones en la espalda
+Sustancias que causan alergias
+Violencia
+Estrés
+Se deben seguir buenas prácticas de seguridad laboral y prevenir las lesiones. Eso  puede reducir los riesgos de tener problemas con la salud. Use equipo protector, siga las pautas para el
+control de infecciones
+, aprenda la forma correcta de levantar objetos pesados y encuentre maneras para controlar el estrés.
+Instituto Nacional de la Seguridad y la Salud Ocupacional
+
+Groups:
+- Asuntos de seguridad
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Datos Breves de NIOSH: Cómo prevenir las alergias al látex
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/hcp/numbered/2012-119sp.html
+
+Resource: Equipo de protección individual para trabajadores del sector de la salud que manipulan medicamentos peligrosos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/hcp/numbered/2009-106sp.html
+
+Resource: Equipo de protección personal
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000447.htm
+
+Resource: Exposición al estrés: Riesgos ocupacionales en los hospitales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/hcp/numbered/2008-136sp.html
+
+Resource: Glutaraldehído
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/spanish/niosh/docs/2001-115_sp/
+
+Resource: Instituto Nacional de Salud y Seguridad Ocupacional
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/spanish/niosh/
+
+Resource: Prevención de resbalones, tropezones y caídas de los trabajadores de la salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/hcp/numbered/2011-123sp.html
+
+Resource: Prevención de trastornos musculoesqueléticos en la realización de ecografías
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/spanish/niosh/docs/wp-solutions/2006-148_sp/
+
+Resource: Violencia: Peligros ocupacionales en los hospitales
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/spanish/NIOSH/docs/2002-101_sp/

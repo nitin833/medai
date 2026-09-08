@@ -1,0 +1,136 @@
+Title: COVID-19 Testing
+
+Also Called:
+- COVID-19 Antibody Test
+- COVID-19 Viral Test
+- SARS-CoV-2 Testing
+
+Summary:
+COVID-19
+(coronavirus disease 2019) is a disease caused by a virus called SARS-CoV-2. There are two types of tests for this virus:
+A
+viral test
+tells you if you have a current infection. Viral tests can either be rapid tests or laboratory tests:
+Rapid tests
+can be done in minutes. They are often antigen tests, which look for specific proteins from the virus. Some rapid tests are self-tests which you can do at home.
+Laboratory tests can take days to complete and include
+PCR tests
+.
+An
+antibody (serology) test
+might tell you if you had a past infection.
+If you need a COVID-19 test, you can:
+Buy a self-test online or at a store. Make sure that the test you buy has been authorized by the U.S. Food and Drug Administration (FDA).
+Check your state or local health department's website for information on testing in your area.
+Contact your health care provider.
+Even if your COVID-19 viral test is negative (the test did not detect the virus), you should still take steps to
+protect yourself and others
+.
+Centers for Disease Control and Prevention
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- COVID-19 Testing
+
+Related Resources:
+
+Resource: Antibody Serology Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/antibody-serology-tests/
+
+Resource: At-Home Medical Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/at-home-medical-tests/
+
+Resource: At-Home OTC COVID-19 Diagnostic Tests
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-otc-covid-19-diagnostic-tests
+
+Resource: ClinicalTrials.gov: COVID-19 Antibody Test
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=SARS-CoV-2+%28+antibody+OR+serology%29+test&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: COVID-19 Viral Test
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=COVID-19&intr=%28PCR+test%29+OR+%28antigen+test%29&aggFilters=status:not%20rec
+
+Resource: COVID-19 antibody test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007773.htm
+
+Resource: COVID-19 Antibody Testing
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/covid-19-antibody-testing/about/pac-20489696?p=1
+
+Resource: COVID-19 Test Basics
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/covid-19-test-basics
+
+Resource: COVID-19 virus test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007769.htm
+
+Resource: COVID-19: Getting Tested
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coronavirus-tests.html
+
+Resource: Directory of Local Health Departments
+Category: Diagnosis and Tests
+Organization: National Association of County and City Health Officials
+URL: https://www.naccho.org/membership/lhd-directory
+
+Resource: How Do COVID-19 Antibody Tests Differ from Diagnostic Tests?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429?p=1
+
+Resource: How Do I Know if the Expiration Date of My At-Home COVID-19 Test Has Been Extended?
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/home-covid-19-diagnostic-tests-frequently-asked-questions#updated-expiration
+
+Resource: Nasal Swab
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/nasal-swab/
+
+Resource: PCR Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pcr-tests
+
+Resource: COVID-19 Testing
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22COVID-19+Testing%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RADx Programs
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://www.nih.gov/radx/radx-programs
+
+Resource: Rapid Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rapid-tests/
+
+Resource: Self-testing for COVID-19
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000986.htm
+
+Resource: Testing for COVID-19
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/testing/

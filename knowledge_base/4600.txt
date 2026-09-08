@@ -1,0 +1,66 @@
+Title: Volcanoes
+
+Summary:
+A volcano is a vent in the Earth's crust. Hot rock, steam, poisonous gases, and ash reach the Earth's surface when a volcano erupts.  An eruption can also cause
+earthquakes
+, mudflows and flash
+floods
+, rock falls and landslides, acid rain,
+fires
+, and even
+tsunamis
+.
+Volcanic gas and ash can damage the lungs of small infants, older adults, and people with severe respiratory illnesses.   Volcanic ash can affect people hundreds of miles away from the eruption.
+Although there are no guarantees of safety during a volcanic eruption, you can take actions to protect yourself.  You should have a
+disaster plan
+. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Volcanic Eruptions
+
+Related Resources:
+
+Resource: AirNow.gov
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.airnow.gov/
+
+Resource: DisasterAssistance.gov
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: Lung problems and volcanic smog
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007468.htm
+
+Resource: Volcanoes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Volcanic+Eruptions%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Volcanic Gases Can Be Harmful to Health, Vegetation, and Infrastructure
+Category: Learn More
+Organization: U.S. Geological Survey
+URL: https://www.usgs.gov/programs/VHP/volcanic-gases-can-be-harmful-health-vegetation-and-infrastructure
+
+Resource: Volcanoes
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/volcanoes
+
+Resource: Volcanoes and Your Safety
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/volcanoes/about/

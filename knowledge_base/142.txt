@@ -1,0 +1,210 @@
+Title: Angina
+
+Summary:
+Angina is
+chest pain
+or discomfort you feel when there is not enough blood flow to your heart muscle. Your heart muscle needs the oxygen that the blood carries. Angina may feel like pressure or a squeezing pain in your chest. It may feel like indigestion. You may also feel pain in your shoulders, arms, neck, jaw, or back.
+Angina is a symptom of
+coronary artery disease
+(CAD), the most common
+heart disease
+. CAD happens when a sticky substance called plaque builds up in the arteries that supply blood to the heart, reducing blood flow.
+There are three types of angina:
+Stable angina is the most common type. It happens when the heart is working harder than usual. Stable angina has a regular pattern.  Rest and medicines usually help.
+Unstable angina is the most dangerous. It does not follow a pattern and can happen without physical exertion. It does not go away with rest or medicine. It is a sign that you could have a heart attack soon.
+Variant angina is rare. It happens when you are resting. Medicines can help.
+Not all chest pain or discomfort is angina.  If you have chest pain, you should see your health care provider.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Older Adults
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Angina Pectoris
+
+Related Resources:
+
+Resource: Acute coronary syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007639.htm
+
+Resource: Acute Coronary Syndrome
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/acute-coronary-syndrome
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Angina
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/angina/symptoms-causes/syc-20369373?p=1
+
+Resource: Angina (Chest Pain)
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain
+
+Resource: Angina - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000089.htm
+
+Resource: Angina - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000207.htm
+
+Resource: Angina - when you have chest pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000088.htm
+
+Resource: Angina in Women Can Be Different than Men
+Category: Women
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/angina-in-women-can-be-different-than-men
+
+Resource: Angina Treatment: Stents, Drugs, Lifestyle Changes -- What's Best?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/in-depth/angina-treatment/art-20046240?p=1
+
+Resource: Apolipoprotein B100
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003502.htm
+
+Resource: Apolipoprotein CII
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003505.htm
+
+Resource: Calcium Channel Blockers
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/calcium-channel-blockers/art-20047605?p=1
+
+Resource: Chest Pain
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chest-pain/symptoms-causes/syc-20370838?p=1
+
+Resource: ClinicalTrials.gov: Angina Pectoris
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Angina+Pectoris%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Microvascular Angina
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Microvascular+Angina%22&aggFilters=status:not%20rec
+
+Resource: Coronary angiography
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003876.htm
+
+Resource: Coronary artery spasm
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000159.htm
+
+Resource: Coronary Artery Spasm: Cause for Concern?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/angina/expert-answers/coronary-artery-spasm/faq-20058316?p=1
+
+Resource: Electrocardiogram
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003868.htm
+
+Resource: Heart and Stroke Statistics
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-and-stroke-association-statistics
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Living with heart disease and angina
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000576.htm
+
+Resource: Microvascular Angina
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/microvascular-angina
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Nitrates
+Category: Treatments and Therapies
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/nitrates/
+
+Resource: Prinzmetal Angina
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/prinzmetal-angina
+
+Resource: Angina
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Angina+Pectoris%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radionuclide Angiography (MUGA Scan)
+Category: Diagnosis and Tests
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-failure/diagnosing-heart-failure/muga-scan
+
+Resource: Stable Angina
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/angina-pectoris-stable-angina
+
+Resource: Stable angina
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000198.htm
+
+Resource: Transmyocardial Laser Revascularization
+Category: Treatments and Therapies
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/transmyocardial-laser-revascularization/
+
+Resource: Troponin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/troponin-test/
+
+Resource: Unstable angina
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000201.htm
+
+Resource: Unstable Angina
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/angina-chest-pain/unstable-angina
+
+Resource: What Is Angina?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/angina

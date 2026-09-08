@@ -1,0 +1,187 @@
+Title: Cardiomiopatía
+
+Also Called:
+- Miocardiopatía
+
+Summary:
+Cardiomiopatía es el nombre que se usa para llamar a las enfermedades del músculo cardíaco. Estas enfermedades aumentan el tamaño del corazón o lo hacen más grueso y rígido que lo normal. En raros casos, el tejido cicatrizante reemplaza el tejido muscular.
+Algunas personas con cardiomiopatía tienen vidas largas y sanas. Muchas de ellas no se dan cuenta de que la tienen. Sin embargo, en otros casos puede hacer que el corazón sea menos capaz de bombear sangre a todo el cuerpo. Esto puede causar complicaciones serias, entre ellas:
+Insuficiencia cardiaca
+Ritmos cardíacos anormales
+Paro cardíaco
+Los
+infartos
+, la
+hipertensión arterial
+, algunas infecciones y otras enfermedades también pueden causar cardiomiopatía. Algunos tipos de cardiomiopatía son hereditarios. A pesar de eso, en muchas personas se desconoce la causa. El tratamiento puede incluir medicinas, cirugía, otros procedimientos médicos y cambios en el estilo de vida.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Anatomía del corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Biopsia miocárdica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003873.htm
+
+Resource: Cardiomiopatía
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/cardiomiopatia/
+
+Resource: Cardiomiopatía
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000022.htm
+
+Resource: Cardiomiopatía dilatada
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/cardiomiopatia-dilatada/
+
+Resource: Cardiomiopatía restrictiva
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/cardiomiopatia-restrictiva/
+
+Resource: Cateterismo cardíaco
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003419.htm
+
+Resource: Cómo funciona el corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon
+
+Resource: Deficiencia de LCHAD
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13052/deficiencia-de-lchad/
+
+Resource: Disfunción diastólica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/disfuncion-diastolica/
+
+Resource: Ecocardiografía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003869.htm
+
+Resource: Electrocardiograma
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003868.htm
+
+Resource: Enfermedad de Danon
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12318/enfermedad-de-danon/
+
+Resource: Estudios y procedimientos diagnósticos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-y-procedimientos-diagnosticos/
+
+Resource: Glosario de terminología cardiovascular
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/glosario-de-terminologia-cardiovascular/
+
+Resource: Isoenzimas de la DHL prueba de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003499.htm
+
+Resource: Miocardiopatía
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cardiomyopathy/symptoms-causes/syc-20370709?p=1
+
+Resource: Miocardiopatía
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001105.htm
+
+Resource: Miocardiopatía dilatada
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000168.htm
+
+Resource: Miocardiopatía en niños y adolescentes
+Category: Adolescentes, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/heart/paginas/pediatric-cardiomyopathy.aspx
+
+Resource: Miocardiopatía hipertrófica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000192.htm
+
+Resource: Miocardiopatía periparto
+Category: Mujeres, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000188.htm
+
+Resource: Miocardiopatía restrictiva
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000189.htm
+
+Resource: Miocardiopatía: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cardiomyopathy/diagnosis-treatment/drc-20370714?p=1
+
+Resource: Miocarditis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/miocarditis/
+
+Resource: Miocarditis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000149.htm
+
+Resource: Miocarditis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/myocarditis.html
+
+Resource: Miocarditis pediátrica
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007307.htm
+
+Resource: Muerte súbita en los jóvenes: los problemas cardíacos suelen ser la causa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sudden-cardiac-arrest/in-depth/sudden-death/art-20047571?p=1
+
+Resource: Obtención de un ECG (electrocardiograma)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/video-ekg.html
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Síndrome de Noonan
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11856/sindrome-de-noonan/
+
+Resource: Tomografía por emisión de positrones (TEP) del corazón
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007343.htm

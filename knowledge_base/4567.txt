@@ -1,0 +1,266 @@
+Title: Diabetes Complications
+
+Also Called:
+- Diabetic complications
+
+Summary:
+What is diabetes?
+If you have
+diabetes
+, your blood glucose, or
+blood sugar
+, levels are too high. Glucose comes from the foods you eat. A hormone called insulin helps the glucose get into your cells to give them energy.
+With
+type 1 diabetes
+, your body does not make insulin. With
+type 2 diabetes
+, your body does not make or use insulin well. Without enough insulin, the glucose stays in your blood.
+What health problems can diabetes cause?
+Over time, having too much glucose in your blood can cause complications, including:
+Eye disease
+, due to changes in fluid levels, swelling in the tissues, and damage to the blood vessels in the eyes.
+Foot problems
+, caused by damage to the nerves and reduced blood flow to your feet.
+Gum disease
+and other dental problems, because a high amount of glucose in your saliva helps harmful bacteria grow in your mouth. The bacteria combine with food to form a soft, sticky film called plaque. Plaque also comes from eating foods that contain sugars or starches. Some types of plaque cause gum disease and
+bad breath
+. Other types cause
+tooth decay
+and cavities.
+Heart disease
+and
+stroke
+, caused by damage to your blood vessels and the nerves that control your heart and blood vessels.
+Kidney disease
+, due to damage to the blood vessels in your kidneys. Many people with diabetes develop
+high blood pressure
+. That can also damage your kidneys.
+Nerve problems
+(diabetic neuropathy), caused by damage to the nerves and the small blood vessels that nourish your nerves with oxygen and nutrients.
+Sexual and
+bladder
+problems, caused by damage to the nerves and reduced blood flow in the genitals and bladder.
+Skin conditions
+, some of which are caused by changes in the small blood vessels and reduced circulation. People with diabetes are also more likely to have infections, including
+skin infections
+.
+What other problems can people with diabetes have?
+If you have diabetes, you need to watch out for blood glucose levels that are
+too high
+(hyperglycemia) or
+too low for you
+(hypoglycemia). These can happen quickly and can become dangerous. Some of the causes include having another illness or infection and certain medicines. They can also happen if you don't get the right amount of
+diabetes medicines
+. To try to prevent these problems, make sure to take your diabetes medicines correctly, follow your
+diabetic diet
+, and check your blood glucose regularly.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+- Metabolic Problems
+- Diabetes Mellitus
+
+MeSH Headings:
+- Diabetes Complications
+
+Related Resources:
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Bone and Joint Problems Associated with Diabetes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes/art-20049314?p=1
+
+Resource: ClinicalTrials.gov: Diabetes Complications
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Diabetes+Complications%22&aggFilters=status:not%20rec
+
+Resource: Diabetes & Oral Health
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/diabetes
+
+Resource: Diabetes - preventing heart attack and stroke
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000080.htm
+
+Resource: Diabetes -- Know When to Go to the ER
+Category: Start Here
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/know-when-to-go/diabetes
+
+Resource: Diabetes and High Blood Pressure
+Category: Specifics
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/complications/high-blood-pressure
+
+Resource: Diabetes and Skin Complications
+Category: Specifics
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/complications/skin-complications
+
+Resource: Diabetes and Women
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/risk-factors/diabetes-and-women-1.html
+
+Resource: Diabetes Care: 10 Ways to Avoid Diabetes Complications
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-management/art-20045803?p=1
+
+Resource: Diabetes Complications
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/complications/
+
+Resource: Diabetes, Gum Disease, and Other Dental Problems
+Category: Prevention and Risk Factors
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/gum-disease-dental-problems
+
+Resource: Diabetes, Heart Disease, and Stroke
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke
+
+Resource: Diabetes, Sexual, and Bladder Problems
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/sexual-bladder-problems
+
+Resource: Diabetes: Dental Tips
+Category: Patient Handouts
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2021-01/Diabetes-Dental-Tips.pdf
+
+Resource: Diabetic Coma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetic-coma/symptoms-causes/syc-20371475?p=1
+
+Resource: Diabetic Dermopathy
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/diabetic-dermopathy/?Imiw9cApl=1
+
+Resource: Diabetic hyperglycemic hyperosmolar syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000304.htm
+
+Resource: Diabetic Hypoglycemia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetic-hypoglycemia/symptoms-causes/syc-20371525?p=1
+
+Resource: Diabetic ketoacidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000320.htm
+
+Resource: Diabetic Ketoacidosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetic-ketoacidosis/symptoms-causes/syc-20371551?p=1
+
+Resource: DKA: Signs, Symptoms, and Treatment
+Category: Specifics
+Organization: American Diabetes Association
+URL: https://diabetes.org/living-with-diabetes/dka
+
+Resource: Erectile Dysfunction and Diabetes: Take Control Today
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/erectile-dysfunction/in-depth/erectile-dysfunction/art-20043927?p=1
+
+Resource: Eruptive xanthomatosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007746.htm
+
+Resource: Gastroparesis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000297.htm
+
+Resource: Gastroparesis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis
+
+Resource: Healthy Weight
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/living-with/healthy-weight.html
+
+Resource: Hyperglycemia in Diabetes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631?p=1
+
+Resource: Ketones blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003498.htm
+
+Resource: Ketones in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-blood/
+
+Resource: Ketones in Urine
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-urine/
+
+Resource: Ketones urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003585.htm
+
+Resource: Long-term complications of diabetes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000327.htm
+
+Resource: Manage Blood Sugar
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/treatment/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Necrobiosis lipoidica diabeticorum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007742.htm
+
+Resource: Potassium urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003600.htm
+
+Resource: Diabetes Complications
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetes+Complications%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scleredema diabeticorum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007749.htm
+
+Resource: Steps to Prevent or Delay Nerve Damage
+Category: Living With
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/complications/neuropathy/steps-prevent-or-delay-nerve-damage

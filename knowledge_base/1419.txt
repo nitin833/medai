@@ -1,0 +1,174 @@
+Title: Sun Exposure
+
+Also Called:
+- Sunburn
+
+Summary:
+Ultraviolet (UV) rays are an invisible form of radiation. They can pass through your skin and damage your skin cells. Sunburns are a sign of skin damage.
+Suntans
+aren't healthy, either. They appear after the sun's rays have already killed some cells and damaged others. UV rays can cause skin damage during any season or at any temperature.  They can also cause eye problems,
+wrinkles
+, skin spots, and
+skin cancer
+.
+To protect yourself :
+Stay out of the sun when it is strongest (between 10 a.m. and 2 p.m.)
+Use sunscreen with an SPF of 15 or higher
+Wear protective clothing
+Wear wraparound sunglasses that provide 100% UV ray protection
+Avoid sunlamps and tanning beds
+Check your skin regularly for changes in the size, shape, color, or feel of birthmarks, moles, and spots. Such changes are a sign of skin cancer.
+Food and Drug Administration
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Sunscreening Agents
+- Sunbathing
+- Sunburn
+
+Related Resources:
+
+Resource: Actinic Cheilitis
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/actinic-cheilitis/?Imiw9cApl=1
+
+Resource: Actinic keratosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000827.htm
+
+Resource: Actinic Keratosis (Solar Keratosis)
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/actinic-keratosis-solar-keratosis/?Imiw9cApl=1
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Keratosis, Actinic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Keratosis,+Actinic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Sunscreening Agents
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Sunscreening+Agents%22&aggFilters=status:not%20rec
+
+Resource: Cutaneous Horn
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/cutaneous-horn/?Imiw9cApl=1
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: Health Effects of UV Radiation
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sunsafety/health-effects-uv-radiation
+
+Resource: How to Treat Sunburn
+Category: Treatments and Therapies
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/everyday-care/injured-skin/burns/treat-sunburn?NoAds
+
+Resource: Poikiloderma of Civatte
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/poikiloderma-of-civatte/?Imiw9cApl=1
+
+Resource: Polymorphic light eruption
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001477.htm
+
+Resource: Protecting Yourself from Sun Exposure
+Category: Patient Handouts
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/2010-116/
+
+Resource: Sun Exposure
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sunbathing%22%5Bmajr%3Anoexp%5D+OR+%22Sunburn%22%5Bmajr%3Anoexp%5D+OR+%22Sunscreening+Agents%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Should You Put Sunscreen on Infants? Not Usually
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/should-you-put-sunscreen-infants-not-usually
+
+Resource: Sun Allergy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sun-allergy/symptoms-causes/syc-20378077?p=1
+
+Resource: Sun Damage
+Category: Start Here
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/sun-damage/?Imiw9cApl
+
+Resource: Sun Exposure at Work
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/outdoor-workers/about/sun-exposure.html
+
+Resource: Sun Safety Facts
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/skin-cancer/sun-safety/
+
+Resource: Sun's effect on skin
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000125.htm
+
+Resource: Sun, UV Light, and Your Eyes
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/sun
+
+Resource: Sunburn
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/sunburn/?Imiw9cApl=1
+
+Resource: Sunburn
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sunburn/symptoms-causes/syc-20355922?p=1
+
+Resource: Sunburn
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003227.htm
+
+Resource: Sunscreen in the Winter?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/sunscreen-in-the-winter
+
+Resource: Sunscreen: How to Help Protect Your Skin from the Sun
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun
+
+Resource: Tips to Stay Safe in the Sun: From Sunscreen to Sunglasses
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/tips-stay-safe-sun-sunscreen-sunglasses
+
+Resource: Vitamin D
+Category: Related Issues
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminD-Consumer/

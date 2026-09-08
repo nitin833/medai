@@ -1,0 +1,110 @@
+Title: Manchas de nacimiento
+
+Summary:
+Las manchas de nacimiento son anomalías de la piel que se presentan en el recién nacido. Hay dos tipos de manchas de nacimiento: vasculares y pigmentadas. Las vasculares son formadas por vasos sanguíneos que no se han desarrollado correctamente y que comúnmente son rojas. Los hemangiomas y los hemangiomas planos son dos tipos de manchas vasculares. Las
+pigmentadas
+están compuestas por un racimo de células que contienen el pigmento que da el color a la piel. Pueden ser de varios colores, desde color marrón claro, gris a negro y, a veces, azul. Los
+lunares
+pueden ser manchas de nacimiento.
+No se sabe qué es lo que causa este tipo de manchas, pero algunas son de familia. El doctor de su bebé mirará las manchas para ver si necesitan tratamiento o seguimiento. Generalmente, las manchas pigmentadas no se tratan, excepto los lunares. El tratamiento para las manchas vasculares incluye láser.
+La mayoría no es un problema serio y otras desaparecen por sí solas. Algunas permanecen igual o empeoran a medida que se envejece. Por lo general, las marcas de nacimiento son sólo una preocupación por su apariencia. Pero ciertos tipos pueden aumentar el riesgo de cáncer de piel. Si su marca de nacimiento sangra, duele, pica o se infecta, llame a su proveedor de salud.
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Extirpación quirúrgica de un hemangioma
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100114_1.htm
+
+Resource: Hemangioma
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001459.htm
+
+Resource: Hemangioma capilar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001441.htm
+
+Resource: Hemangioma plano
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001475.htm
+
+Resource: Hemangiomas congénitos (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/congenital-hemangioma.html
+
+Resource: Hemangiomas del lactante
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/infantile-hemangioma.html
+
+Resource: Hemangiomas infantiles: Acerca de las marcas de nacimiento en fresa de los bebés
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/bathing-skin-care/paginas/infantile-hemangiomas-baby-birthmarks.aspx
+
+Resource: Manchas de nacimiento (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/birthmarks.html
+
+Resource: Manchas de vino de oporto
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/port-wine-stains.html
+
+Resource: Marca de la cigüeña
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001388.htm
+
+Resource: Marcas de nacimiento pigmentadas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000828.htm
+
+Resource: Marcas de nacimiento rojas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001440.htm
+
+Resource: Melanocitosis dérmica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001472.htm
+
+Resource: Nevo melanocítico congénito gigante
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13427/nevo-melanocitico-congenito-gigante
+
+Resource: Síndrome de Klippel-Trenaunay
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000150.htm
+
+Resource: Síndrome de Klippel-Trénaunay
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12255/sindrome-de-klippel-trenaunay/
+
+Resource: Síndrome de Sturge-Weber
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001426.htm
+
+Resource: ¿Qué es un cirujano plástico pediátrico?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-plastic-surgeon.aspx
+
+Resource: ¿Qué es un hemangioma?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-un-hemangioma

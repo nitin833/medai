@@ -1,0 +1,423 @@
+Title: Muscle Disorders
+
+Also Called:
+- Myopathy
+
+Summary:
+Your muscles help you move and help your body work. Different types of muscles have different jobs. There are many problems that can affect muscles. Muscle disorders can cause weakness, pain or even paralysis.
+Causes of muscle disorders include:
+Injury or overuse, such as
+sprains or strains
+,
+cramps
+or
+tendinitis
+A genetic disorder, such as
+muscular dystrophy
+Some
+cancers
+Inflammation, such as
+myositis
+Diseases of
+nerves
+that affect muscles
+Infections
+Certain medicines
+Sometimes the cause of muscle disorders is unknown.
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Muscular Diseases
+
+Related Resources:
+
+Resource: Actin-accumulation myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/actin-accumulation-myopathy
+
+Resource: Adenosine monophosphate deaminase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adenosine-monophosphate-deaminase-deficiency
+
+Resource: Aging changes in the bones - muscles - joints
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004015.htm
+
+Resource: Aldolase blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003566.htm
+
+Resource: Bones, Muscles, and Joints
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/bones-muscles-joints.html
+
+Resource: Brody myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/brody-myopathy
+
+Resource: Cap myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cap-myopathy
+
+Resource: Caring for muscle spasticity or spasms
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000063.htm
+
+Resource: Central core disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/central-core-disease
+
+Resource: Centronuclear myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/centronuclear-myopathy
+
+Resource: ClinicalTrials.gov: Muscular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Muscular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Rhabdomyolysis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rhabdomyolysis%22&aggFilters=status:not%20rec
+
+Resource: Collagen VI-related myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/collagen-vi-related-myopathy
+
+Resource: Compartment syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001224.htm
+
+Resource: Congenital fiber-type disproportion: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-fiber-type-disproportion
+
+Resource: Congenital Myopathy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/congenital-myopathy
+
+Resource: Contracture deformity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003185.htm
+
+Resource: Creatine Kinase
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/creatine-kinase/
+
+Resource: Creatine phosphokinase test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003503.htm
+
+Resource: Danon disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/danon-disease
+
+Resource: Early-onset myopathy with fatal cardiomyopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/early-onset-myopathy-with-fatal-cardiomyopathy
+
+Resource: Electromyography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003929.htm
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: EMG (Electromyogram) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/emg.html
+
+Resource: Extra-Abdominal Desmoid Tumors (Aggressive Fibromatoses)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/extra-abdominal-desmoid-tumors
+
+Resource: Eyelid twitch
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000756.htm
+
+Resource: Fibrodysplasia ossificans progressiva: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fibrodysplasia-ossificans-progressiva
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Foot Drop Syndrome
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome
+
+Resource: Glycogen storage disease type III: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-iii
+
+Resource: Glycogen storage disease type VII: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-vii
+
+Resource: Health Lesson: Learning About Muscles
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/educational-resources/health-lesson-learning-about-muscles
+
+Resource: Hereditary myopathy with early respiratory failure: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-myopathy-with-early-respiratory-failure
+
+Resource: Hyperkalemic periodic paralysis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperkalemic-periodic-paralysis/
+
+Resource: Hypokalemic periodic paralysis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypokalemic-periodic-paralysis/
+
+Resource: Hypotonia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#hypotonia
+
+Resource: Hypotonia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003298.htm
+
+Resource: Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/inclusion-body-myopathy-with-early-onset-paget-disease-and-frontotemporal-dementia
+
+Resource: Isolated hyperCKemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-hyperckemia
+
+Resource: KCNK9 imprinting syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/kcnk9-imprinting-syndrome
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: Malignant hyperthermia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/malignant-hyperthermia
+
+Resource: Mitochondrial Disorders
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/mitochondrial-disorders
+
+Resource: Miyoshi myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/miyoshi-myopathy
+
+Resource: Multiminicore disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiminicore-disease
+
+Resource: Muscle aches
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003178.htm
+
+Resource: Muscle atrophy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003188.htm
+
+Resource: Muscle biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003924.htm
+
+Resource: Muscle disorder
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001220.htm
+
+Resource: Muscle function loss
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003190.htm
+
+Resource: Muscle twitching
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003296.htm
+
+Resource: Musculoskeletal MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/muscmr
+
+Resource: Myopathy with deficiency of iron-sulfur cluster assembly enzyme: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myopathy-with-deficiency-of-iron-sulfur-cluster-assembly-enzyme
+
+Resource: Myosin storage myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myosin-storage-myopathy
+
+Resource: Myostatin-related muscle hypertrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myostatin-related-muscle-hypertrophy
+
+Resource: Myotonia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#myotonia
+
+Resource: Myotonia congenita
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001424.htm
+
+Resource: Myotonia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myotonia-congenita
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Needle Biopsy
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Nemaline myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nemaline-myopathy
+
+Resource: Neutral lipid storage disease with myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neutral-lipid-storage-disease-with-myopathy
+
+Resource: Orthopedic services
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007455.htm
+
+Resource: Paramyotonia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/paramyotonia-congenita
+
+Resource: Phosphoglycerate kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-kinase-deficiency/
+
+Resource: Phosphoglycerate mutase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-mutase-deficiency
+
+Resource: Potassium-aggravated myotonia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/potassium-aggravated-myotonia
+
+Resource: Muscle disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Muscular+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rhabdomyolysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000473.htm
+
+Resource: Rheumatology Provider Directory
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://my.rheumatology.org/rheumatology-provider-directory
+
+Resource: Rippling muscle disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rippling-muscle-disease
+
+Resource: STAC3 disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stac3-disorder
+
+Resource: Structure of Skeletal Muscle
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/structure.html
+
+Resource: Tubular aggregate myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tubular-aggregate-myopathy
+
+Resource: Volkmann contracture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001221.htm
+
+Resource: Weakness
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003174.htm
+
+Resource: Your Muscles
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/muscles.html

@@ -1,0 +1,57 @@
+Title: Rabia
+
+Summary:
+La rabia es una enfermedad animal mortal causada por un virus. Puede ocurrir entre los animales salvajes, incluyendo mapaches, zorrinos, murciélagos y zorros o en perros, gatos o animales de granja. Las personas la adquieren por la
+mordedura
+de un animal infectado.
+En las personas, los síntomas de la rabia incluyen fiebre, dolor de cabeza y fatiga, después confusión, alucinaciones y parálisis. Una vez que los síntomas comienzan, la enfermedad suele ser mortal. Una serie de vacunas puede prevenir la rabia en las personas expuestas al virus. Debe recibirlas de inmediato. Si un animal lo muerde, lávese bien la herida y luego busque atención médica.
+Para ayudar a prevenir la rabia:
+Vacune a sus mascotas. Las vacunas contra la rabia se encuentran disponibles para perros, gatos y animales de granja
+No permita que merodeen las mascotas sin su vigilancia
+No se acerque a animales desconocidos. Los animales con rabia pueden ser agresivos y feroces o estar cansados y débiles
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Mordeduras de animales: Primeros auxilios
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-animal-bites/basics/art-20056591?p=1
+
+Resource: Rabia
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001334.htm
+
+Resource: Rabia
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.merckmanuals.com/es-us/hogar/breve-informaci%C3%B3n-trastornos-cerebrales-medulares-y-nerviosos/infecciones-cerebrales/rabia
+
+Resource: Rabia
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/rabies
+
+Resource: Rabia
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/from-insects-animals/Paginas/Rabies.aspx
+
+Resource: Rabia (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/rabies.html
+
+Resource: Rabia: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rabies/diagnosis-treatment/drc-20351826?p=1
+
+Resource: Vacuna contra la rabia
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades, Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_rabies.pdf

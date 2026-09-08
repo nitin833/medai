@@ -1,0 +1,121 @@
+Title: DASH Eating Plan
+
+Also Called:
+- DASH Diet
+- Dietary Approaches to Stop Hypertension
+
+Summary:
+DASH stands for Dietary Approaches to Stop Hypertension. It is an eating plan that is based on research studies sponsored by the National Heart, Lung, and Blood Institute (NHLBI). These studies showed that DASH lowers
+high blood pressure
+and improves levels of
+cholesterol
+. This reduces your risk of getting
+heart disease
+.
+The DASH eating plan:
+Emphasizes vegetables, fruits, and whole-grains
+Includes fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils
+Limits foods that are high in saturated fat. These foods include fatty meats, full-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils.
+Limits sugar-sweetened beverages and sweets
+Along with DASH, other lifestyle changes can help
+lower your blood pressure
+. They include staying at a healthy weight, exercising, and not smoking.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Food and Nutrition
+
+MeSH Headings:
+- Dietary Approaches To Stop Hypertension
+
+Related Resources:
+
+Resource: Can Whole-Grain Foods Lower Blood Pressure?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/whole-grain-foods/faq-20058417?p=1
+
+Resource: ClinicalTrials.gov: DASH Diet
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=DASH+Diet&aggFilters=status:not%20rec
+
+Resource: DASH Diet for High Blood Pressure
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dash-diet.html
+
+Resource: DASH diet to lower high blood pressure
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000770.htm
+
+Resource: DASH Diet: Healthy Eating to Lower Your Blood Pressure
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/dash-diet/art-20048456?p=1
+
+Resource: DASH Eating Plan
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/dash-eating-plan
+
+Resource: DASH Eating Plan: Reducing Blood Pressure through Diet and Lifestyle
+Category: Learn More
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/health-conditions/cardiovascular-health-heart-disease-hypertension/dash-diet-reducing-hypertension-through-diet-and-lifestyle
+
+Resource: DASH Eating Plan: Tips to Keep on Track
+Category: Patient Handouts
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/tips-keep-track
+
+Resource: Getting Started on DASH
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/GettingStarted.pdf
+
+Resource: Healthy Recipes: Low Sodium
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/recipes/low-sodium/
+
+Resource: Healthy Recipes: Low-fat
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/recipes/low-fat/
+
+Resource: Hypertension: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypertension/
+
+Resource: DASH Eating Plan
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Approaches+To+Stop+Hypertension%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Tips to Reduce Salt and Sodium
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/TipsToReduceSodium.pdf
+
+Resource: Understanding the DASH diet
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000784.htm
+
+Resource: Week with the DASH Eating Plan
+Category: Patient Handouts
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/week-dash-eating-plan
+
+Resource: Why the DASH Eating Plan Works
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/WhyDASHWorks_UpdateNov20.pdf
+
+Resource: Your Guide To Lowering Your Blood Pressure with DASH
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/files/docs/public/heart/new_dash.pdf

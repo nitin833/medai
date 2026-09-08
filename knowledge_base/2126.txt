@@ -1,0 +1,48 @@
+Title: Síndrome de las piernas inquietas
+
+Summary:
+El síndrome de las piernas inquietas causa un deseo irresistible de mover sus piernas. Sus piernas se sienten incómodas cuando se acuesta o se sienta. Algunas personas lo describen como una sensación de que algo se arrastra o trepa por sus piernas, hormigueo o un ardor. El movimiento ayuda a sentirse mejor, pero no durante mucho tiempo. El síndrome de piernas inquietas puede ocasionar problemas para quedarse y permanecer dormido.
+En la mayoría de los casos, no hay una causa conocida de este síndrome. En otros, es producto de una enfermedad o un cuadro como la anemia o el embarazo. Algunas medicinas también pueden causar síndrome de piernas inquietas temporal. La cafeína, el tabaco y el alcohol pueden empeorar los síntomas.
+Los cambios en el estilo de vida, como lo son los hábitos para dormir, las técnicas de relajación y el ejercicio moderado durante el día, pueden ser útiles. Si eso no funciona, las medicinas pueden reducir los síntomas del síndrome.
+La mayoría de las personas con el síndrome también padecen una afección llamada síndrome de movimientos periódicos de las piernas. Este trastorno consiste en el movimiento descontrolado de las piernas de una persona, usualmente mientras duerme. Ambos síndromes también pueden afectar a los brazos.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Estudio del sueño
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/estudio-del-sueno/
+
+Resource: Estudio del sueño (polisomnografía)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sleep-study.html
+
+Resource: Síndrome de las piernas inquietas
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000807.htm
+
+Resource: Síndrome de las piernas inquietas: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/restless-legs-syndrome/diagnosis-treatment/drc-20377174?p=1
+
+Resource: Síndrome de piernas inquietas
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/sindrome-de-piernas-inquietas
+
+Resource: Trastorno de movimiento periódico de las extremidades y síndrome de piernas inquietas
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-del-sue%C3%B1o/trastorno-de-movimiento-peri%C3%B3dico-de-las-extremidades-y-s%C3%ADndrome-de-piernas-inquietas
+
+Resource: ¿Movimiento perturbador de las piernas? Control del síndrome de las piernas inquietas
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/movimiento-perturbador-de-las-piernas

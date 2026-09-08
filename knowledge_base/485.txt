@@ -1,0 +1,77 @@
+Title: Safety
+
+Also Called:
+- Accident prevention
+
+Summary:
+You can't remove all the safety hazards from your life, but you can reduce them. To avoid many major hazards and prepare for emergencies:
+Keep emergency phone numbers by your telephones
+Make a first aid kit for your home
+Make a family emergency plan
+Install and maintain
+smoke
+alarms and
+carbon monoxide
+detectors
+Keep guns unloaded and locked up. Lock up the ammunition separately.
+Follow the directions carefully when using tools or equipment
+Young
+children
+are especially at risk.  Supervision is the best way to keep them safe. Childproofing the house can also help.
+
+Groups:
+- Safety Issues
+
+MeSH Headings:
+- Safety
+
+Related Resources:
+
+Resource: American Red Cross
+Category: Learn More
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Child Safety: MedlinePlus Health Topic
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childsafety.html
+
+Resource: Crime Prevention and Personal Safety Tips to Help Keep You and Your Community Safe from Crime
+Category: Learn More
+Organization: National Crime Prevention Council
+URL: https://www.ncpc.org/resources/home-neighborhood-safety/
+
+Resource: Guns in the Home: How to Keep Kids Safe
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Handguns-in-the-Home.aspx
+
+Resource: Pedestrian Safety
+Category: Learn More
+Organization: National Highway Traffic Safety Administration
+URL: https://www.nhtsa.gov/road-safety/pedestrian-safety
+
+Resource: Pest Control and Pesticide Safety for Consumers
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/safepestcontrol/home-safe-home
+
+Resource: Preventing Injuries from Electrical, Heating, and Cooling Systems
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/safety-electric.html
+
+Resource: Consumer product safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Safety%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety for Older Consumers: Home Safety Checklist
+Category: Learn More
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/s3fs-public/701.pdf
+
+Resource: Staying safe at home
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000924.htm

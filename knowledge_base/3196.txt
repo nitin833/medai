@@ -1,0 +1,75 @@
+Title: Cicatriz
+
+Summary:
+Una cicatriz es un parche de piel permanente que crece sobre una
+herida
+. Se forma cuando el cuerpo se cura después de una cortadura, un raspón, una quemadura o una llaga. Las cicatrices también pueden resultar tras una cirugía donde se corte la piel, infecciones como la varicela o afecciones de la piel, como el
+acné
+. Las cicatrices suelen ser más gruesas, así como más rosadas, rojas o brillantes que el resto de la piel.
+La apariencia de sus cicatrices depende de:
+El tamaño y la profundidad de la herida
+Su localización
+El tiempo de curación
+Su edad
+Su tendencia hereditaria a la cicatrización
+Las cicatrices suelen desvanecerse con el tiempo, pero nunca desaparecen completamente. Si la apariencia de una cicatriz le molesta, hay varios tratamientos que pueden minimizarla. Entre ellos se encuentran la revisión quirúrgica, la dermoabrasión, los tratamientos con láser, las inyecciones, la eliminación de células muertas con productos químicos y las cremas.
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Cicatrices (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/scars.html
+
+Resource: Cicatrices y heridas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/piel-cabello-unas/cicatrices-y-heridas.html
+
+Resource: Cirugía para suavizar la superficie de la piel (dermabrasión)
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100101_1.htm
+
+Resource: Corrección de cicatriz
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad  Estadounidense de Cirujanos  Plásticos
+URL: https://www.plasticsurgery.org/x27153
+
+Resource: Cómo tratar cortes, raspaduras y cicatrices: Preguntas frecuentes de los padres
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/injuries-emergencies/Paginas/treating-cuts.aspx
+
+Resource: Dermoabrasión
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002987.htm
+
+Resource: Estrías
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stretch-marks.html
+
+Resource: Extirpación quirúrgica de una cicatriz
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100098_1.htm
+
+Resource: Queloides
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000849.htm
+
+Resource: Revisión de cicatriz
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002991.htm
+
+Resource: ¿Es posible eliminar las cicatrices del acné?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/acne-scars.html

@@ -1,0 +1,146 @@
+Title: Edema
+
+Also Called:
+- Dropsy
+- Swelling
+
+Summary:
+Edema means swelling caused by fluid in your body's tissues. It usually occurs in the feet, ankles and legs, but it can involve your entire body.
+Causes of edema include:
+Eating too much salt
+Sunburn
+Heart failure
+Kidney disease
+Liver problems from
+cirrhosis
+Pregnancy
+Problems with
+lymph nodes
+, especially after
+mastectomy
+Some medicines
+Standing or walking a lot when the weather is warm
+To keep swelling down, your health care provider may recommend keeping your legs raised when sitting, wearing support stockings, limiting how much salt you eat, or taking a medicine called a diuretic - also called a water pill.
+
+Groups:
+- Blood, Heart and Circulation
+- Symptoms
+
+MeSH Headings:
+- Edema
+
+Related Resources:
+
+Resource: Abdomen - swollen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003122.htm
+
+Resource: Abdominal tap
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Angioedema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000846.htm
+
+Resource: C1 esterase inhibitor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003353.htm
+
+Resource: ClinicalTrials.gov: Edema
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Edema%22&aggFilters=status:not%20rec
+
+Resource: Diuretics
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/diuretics/art-20048129?p=1
+
+Resource: Edema
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/edema/
+
+Resource: Edema
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/edema/symptoms-causes/syc-20366493?p=1
+
+Resource: Facial swelling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003105.htm
+
+Resource: Foot Swelling during Air Travel: A Concern?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/edema/expert-answers/foot-swelling/faq-20057828?p=1
+
+Resource: Foot, leg, and ankle swelling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003104.htm
+
+Resource: Hand Swelling during Exercise: A Concern?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/edema/expert-answers/hand-swelling/faq-20058255?p=1
+
+Resource: Hives and Angioedema
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hives-and-angioedema/symptoms-causes/syc-20354908?p=1
+
+Resource: Hydrops fetalis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007308.htm
+
+Resource: Leg Swelling
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/leg-swelling/basics/definition/SYM-20050910?p=1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Edema
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Edema%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary Edema
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009?p=1
+
+Resource: Pulmonary edema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000140.htm
+
+Resource: Swelling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003103.htm
+
+Resource: What Causes Ankle Swelling during Pregnancy -- and What Can I Do about It?
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/swelling-during-pregnancy/faq-20058467?p=1
+
+Resource: What Is Macular Edema?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-macular-edema
+
+Resource: When Body Parts Swell: Taking a Closer Look at Edema
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/07/when-body-parts-swell

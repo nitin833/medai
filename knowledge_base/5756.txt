@@ -1,0 +1,132 @@
+Title: Bronquitis aguda
+
+Summary:
+La bronquitis es la inflamación de los conductos bronquiales, las vías respiratorias que llevan oxígeno a sus pulmones. Esta causa una tos que en forma frecuente presenta mucosidad. También causa dificultad para respirar, jadeo y presión en el pecho. Existen dos tipos de bronquitis: aguda y
+crónica
+.
+La mayoría de los casos de bronquitis aguda mejora en unos días, pero la tos puede durar varias semanas después de haberse curado la infección.
+A menudo, los mismos virus que causan el resfrío y la gripe pueden causar bronquitis aguda. Estos virus se propagan por el aire cuando alguien tose o a través del contacto físico (por ejemplo, alguien que no se haya lavado las manos). La exposición al humo del cigarrillo, contaminación del aire, polvo y gases también pueden causar bronquitis aguda. Así mismo, las bacterias pueden causar bronquitis aguda, pero no tan seguido como los virus.
+Para diagnosticar la bronquitis aguda, el médico le preguntará sobre sus síntomas y escuchará su respiración. Usted también puede tener otras pruebas.
+El tratamiento incluye descansar, tomar líquidos y aspirina (para adultos) o acetaminofén para bajar la fiebre. Un humidificador de ambientes puede ayudar. Puede necesitar inhalar medicinas para abrir sus vías respiratorias si tiene jadeo o sibilancias. Los antibióticos no le ayudarán si la causa es un virus. A usted le recetarán antibióticos si la causa es bacteriana.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Infecciones
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Alta tras bronquiolitis
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000007.htm
+
+Resource: Bronquiolitis
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000975.htm
+
+Resource: Bronquiolitis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bronchiolitis.html
+
+Resource: Bronquitis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bronchitis.html
+
+Resource: Bronquitis aguda
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001087.htm
+
+Resource: Bronquitis aguda: ¿Es contagiosa?
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bronchitis/expert-answers/acute-bronchitis/faq-20057839?p=1
+
+Resource: Bronquitis industrial
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000072.htm
+
+Resource: Bronquitis plástica (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/plastic-bronchitis.html
+
+Resource: Bronquitis: ¿Qué es la bronquitis?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/bronquitis
+
+Resource: Cultivo de esputo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003723.htm
+
+Resource: Cómo funcionan los pulmones
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: Drenaje postural
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000051.htm
+
+Resource: Gasometría arterial
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003855.htm
+
+Resource: Humidificadores y la salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002104.htm
+
+Resource: Información básica sobre el resfriado de pecho (bronquitis aguda)
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/acute-bronchitis/es/about/informacion-basica-sobre-el-resfriado-de-pecho-bronquitis-aguda.html
+
+Resource: Los culpables de la tos: ¿Cuáles son las diferencias entre la bronquitis y la neumonía?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/los-culpables-de-la-tos
+
+Resource: Obtención de un estudio de la respiración, espirometría
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-spirometer.html
+
+Resource: Prueba de gasometría arterial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-gasometria-arterial/
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Pulmones y aparato respiratorio
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/lungs.html
+
+Resource: Radiografía torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Rayos X del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Seguridad con el oxígeno
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000049.htm

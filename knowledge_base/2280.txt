@@ -1,0 +1,102 @@
+Title: Seguridad en el agua (Recreación)
+
+Also Called:
+- Seguridad al nadar
+
+Summary:
+Jugar en el agua, ya sea al nadar, navegar o bucear, puede ser divertido. También puede ser peligroso, especialmente para los niños. Tomar medidas de seguridad puede ayudar a prevenir lesiones y
+ahogos
+. Para mantenerse seguro en el agua:
+Evite el alcohol cuando nade o navegue
+Use un chaleco salvavidas cada vez que esté en un bote
+No nade solo o con mal tiempo
+Aprenda
+resucitación cardiopulmonar (RCP)
+Aprenda a nadar y enséñele a sus niños
+Supervise a sus niños cuando estén en el agua
+Prevenga las quemaduras por el sol y use suficiente bloqueador solar
+
+Groups:
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Barotrauma del oído
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001064.htm
+
+Resource: Beber peligrosamente puede enfriar la diversión del verano
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional sobre el Abuso de Alcohol y Alcoholismo
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/beber-peligrosamente-puede-enfriar-la-diversion-del-verano
+
+Resource: Consejos de seguridad en el agua
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Summer-Safety-Tips-Sun-and-Water-Safety.aspx
+
+Resource: Cómo prevenir el molusco contagioso en escuelas, guarderías y piscinas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/molluscum-contagiosum/es/special-environments/index.html
+
+Resource: Cómo prevenir la foliculitis del jacuzzi o sarpullido de la bañera de hidromasaje
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/healthy-swimming/es/prevention/como-prevenir-la-foliculitis-del-jacuzzi-o-sarpullido-de-la-banera-de-hidromasaje.html
+
+Resource: Cómo prevenir las enfermedades relacionadas con la natación y la recreación en el agua
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/healthy-swimming/es/prevention/como-prevenir-las-enfermedades-relacionadas-con-la-natacion-y-la-recreacion-en-el-agua.html
+
+Resource: Granuloma de las piscinas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001357.htm
+
+Resource: Lo que debe saber sobre la natación y sus ojos
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/lo-que-debe-saber-sobre-la-natacion-y-sus-ojos
+
+Resource: Lo que puede hacer para mantenerse saludable en un jacuzzi o bañera de hidromasaje
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/healthy-swimming/es/safety/lo-que-puede-hacer-para-mantenerse-saludable-en-un-jacuzzi-o-banera-de-hidromasaje.html
+
+Resource: Mantenerse seguro en el agua
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mantenerse-seguro-en-el-agua
+
+Resource: Otitis externa (oído de nadador u otitis del nadador)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/swimmer-ear.html
+
+Resource: Oído de nadador
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/swimmers-ear/symptoms-causes/syc-20351682?p=1
+
+Resource: Seguridad con el agua al aire libre
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/water-safety-outdoors.html
+
+Resource: Seguridad en el agua
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/water-safety.html
+
+Resource: Seguridad en la playa: diversión familiar segura en el sol, la arena y el mar
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-play/paginas/beach-safety-for-families-safe-fun-in-the-sun-sand-and-sea.aspx
+
+Resource: Seguridad en los parques acuáticos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/water-park-safety.html

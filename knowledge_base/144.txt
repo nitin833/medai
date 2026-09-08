@@ -1,0 +1,327 @@
+Title: Anxiety
+
+Summary:
+What is anxiety?
+Anxiety is a feeling of fear, dread, and uneasiness. It might cause you to sweat, feel restless and tense, and have a rapid heartbeat.   It can be a normal reaction to stress. For example, you might feel anxious when faced with a difficult problem at work, before taking a test, or before making an important decision. It can help you to cope. The anxiety may give you a boost of energy or help you focus. But for people with anxiety disorders, the fear is not temporary and can be overwhelming.
+What are anxiety disorders?
+Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.
+What are the types of anxiety disorders?
+There are several types of anxiety disorders, including:
+Generalized anxiety disorder (GAD).
+People with GAD worry about ordinary issues such as health, money, work, and family. But their worries are excessive, and they have them almost every day for at least 6 months.
+Panic disorder
+.
+People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more.
+Phobias
+.
+People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).
+What causes anxiety disorders?
+The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry,
+stress
+, and your environment may play a role.
+Who is at risk for anxiety disorders?
+The risk factors for the different types of anxiety disorders can vary. For example, GAD and phobias are more common in women, but social anxiety affects men and women equally. There are some general risk factors for all types of anxiety disorders, including:
+Certain personality traits, such as being shy or withdrawn when you are in new situations or meeting new people
+Traumatic events in early childhood or adulthood
+Family history of anxiety or other
+mental disorders
+Some physical health conditions, such as
+thyroid problems
+or
+arrhythmia
+What are the symptoms of anxiety disorders?
+The different types of anxiety disorders can have different symptoms. But they all have a combination of:
+Anxious thoughts or beliefs that are hard to control. They make you feel restless and tense and interfere with your daily life. They do not go away and can get worse over time.
+Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains,
+dizziness
+, and
+shortness of breath
+Changes in behavior, such as avoiding everyday activities you used to do
+Using
+caffeine
+, other substances, and certain medicines can make your symptoms worse.
+How are anxiety disorders diagnosed?
+To diagnose anxiety disorders, your health care provider will ask about your symptoms and medical history. You may also have a physical exam and lab tests to make sure that a different health problem is not the cause of your symptoms.
+If you don't have another health problem, you will get a
+psychological evaluation
+. Your provider may do it, or you may be referred to a mental health professional to get one.
+What are the treatments for anxiety disorders?
+The main treatments for anxiety disorders are psychotherapy (talk therapy), medicines, or both:
+Psychotherapy
+can help you recognize and change troubling emotions, thoughts, and behaviors. To be effective, it should focus on your specific anxieties and needs. There are many types; some of the types used for anxiety disorders include:
+Cognitive behavioral therapy (CBT),
+which teaches you different ways of thinking and behaving. It can help you change how you react to the things that cause you to feel fear and anxiety. It may include exposure therapy. This therapy focuses on having you confront your fears so that you will be able to do the things that you had been avoiding.
+Acceptance and commitment therapy
+may help with some anxiety disorders. It uses strategies such as mindfulness and goal setting to reduce discomfort and anxiety.
+Medicines
+to treat anxiety disorders include anti-anxiety medicines and certain
+antidepressants
+. Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.
+Support groups and stress management techniques may also be helpful.
+NIH: National Institute of Mental Health
+
+Groups:
+- Mental Health and Behavior
+
+MeSH Headings:
+- Anxiety Disorders
+- Anxiety
+
+Related Resources:
+
+Resource: 4 Types of Common Anxiety Disorders
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/4-types-of-common-anxiety-disorders
+
+Resource: 5 Ways to Cope with Anxiety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/anxiety-tips.html
+
+Resource: Agitation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003212.htm
+
+Resource: American Academy of Child and Adolescent Psychiatry
+Category: Find an Expert
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/
+
+Resource: Anxiety
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/anxiety
+
+Resource: Anxiety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/anxiety.html
+
+Resource: Anxiety and Complementary Health Approaches
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/anxiety-and-complementary-health-approaches
+
+Resource: Anxiety and Depression Association of America
+Category: Find an Expert
+Organization: Anxiety and Depression Association of America
+URL: https://adaa.org/
+
+Resource: Anxiety Disorders
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/mental-health/mental-health-conditions/anxiety-disorders
+
+Resource: Anxiety Disorders
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anxiety-disorders.html
+
+Resource: Anxiety Disorders
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/anxiety-disorders
+
+Resource: Beyond Worry: How Psychologists Help with Anxiety Disorders
+Category: Treatments and Therapies
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/anxiety/disorders?partner=nlm
+
+Resource: Childhood Fears and Worries
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anxiety.html
+
+Resource: ClinicalTrials.gov: Anxiety
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anxiety%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Generalized Anxiety Disorder
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Generalized+Anxiety+Disorder%22&aggFilters=status:not%20rec
+
+Resource: Coping with Anxiety: Can Diet Make a Difference?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/expert-answers/coping-with-anxiety/faq-20057987?p=1
+
+Resource: Depression and Anxiety: Exercise Eases Symptoms
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression-and-exercise/art-20046495?p=1
+
+Resource: Find Your Therapist
+Category: Find an Expert
+Organization: Anxiety and Depression Association of America
+URL: https://findyourtherapist.adaa.org/
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Generalized anxiety disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000917.htm
+
+Resource: Generalized Anxiety Disorder
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/generalized-anxiety-disorder/
+
+Resource: Generalized anxiety disorder - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000685.htm
+
+Resource: Generalized anxiety disorder in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007687.htm
+
+Resource: Generalized Anxiety Disorder: When Worry Gets Out of Control
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad
+
+Resource: Help for Mental Illnesses
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/find-help
+
+Resource: Helping Kids when They Worry
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/worrying.html
+
+Resource: Helping Your Child Manage Anxiety
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/manage-anxiety-video.html
+
+Resource: Herbal Treatment for Anxiety: Is It Effective?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/generalized-anxiety-disorder/expert-answers/herbal-treatment-for-anxiety/faq-20057945?p=1
+
+Resource: How Can I Worry Less?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/worry-less.html
+
+Resource: How to Cope with Medical Test Anxiety
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-cope-with-medical-test-anxiety/
+
+Resource: How Well Are You Managing Stress?
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003211_13.htm
+
+Resource: Hyperventilation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003071.htm
+
+Resource: Link Between Migraine, Depression and Anxiety
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/link-between-migraine-depression-anxiety/
+
+Resource: Mental Health Medications
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/mental-health-medications
+
+Resource: Mental Health Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mental-health-screening/
+
+Resource: Metabolic Side Effects of Psychiatric Medications
+Category: Living With
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/weight
+
+Resource: NAMI
+Category: Find an Expert
+Organization: NAMI
+URL: https://www.nami.org/
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Palliative care - fear and anxiety
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000470.htm
+
+Resource: Perinatal Anxiety
+Category: Women
+Organization: Postpartum Support International
+URL: https://postpartum.net/perinatal-mental-health/#Perinatal-Anxiety
+
+Resource: Psychotherapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+
+Resource: Anxiety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anxiety%22%5Bmajr%3Anoexp%5D+OR+%22Anxiety+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Separation Anxiety
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sep-anxiety.html
+
+Resource: Separation anxiety in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001542.htm
+
+Resource: Stress and your health
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003211.htm
+
+Resource: Teens and Stress: When It's More Than Worry
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/teens-and-stress-when-its-more-than-worry
+
+Resource: Test Anxiety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/test-anxiety.html
+
+Resource: Test Your Anxiety Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000917_12.htm
+
+Resource: Understanding Anxiety Disorders: When Panic, Fear, and Worries Overwhelm
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2016/03/understanding-anxiety-disorders
+
+Resource: What Are Anxiety Disorders?
+Category: Start Here
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/anxiety-disorders/what-are-anxiety-disorders
+
+Resource: What to Know Before Stopping Medications (Medication Discontinuation)
+Category: Living With
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/med-discontinuation
+
+Resource: Women and Anxiety
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/women-and-anxiety

@@ -1,0 +1,103 @@
+Title: Sexual Problems in Men
+
+Summary:
+Many men have sexual problems. They become more common as men age.  Problems can include:
+Erectile dysfunction
+Reduced or lost interest in sex
+Problems with ejaculation
+Low testosterone
+Stress, illness, medicines, or emotional problems may also be factors.  Occasional problems with sexual function are common. If problems last more than a few months or cause distress for you or your partner, you should see your health care provider.
+
+Groups:
+- Men
+- Sexual Health Issues
+- Male Reproductive System
+
+MeSH Headings:
+- Sexual Dysfunction, Physiological
+
+Related Resources:
+
+Resource: Aging changes in the male reproductive system
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004017.htm
+
+Resource: ClinicalTrials.gov: Male Sexual Dysfunction
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22sexual+dysfunction%22&aggFilters=sex:m,status:not%20rec
+
+Resource: ClinicalTrials.gov: Premature Ejaculation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Premature+Ejaculation%22&aggFilters=status:not%20rec
+
+Resource: Delayed Ejaculation
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/delayed-ejaculation/symptoms-causes/syc-20371358?p=1
+
+Resource: Delayed ejaculation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001954.htm
+
+Resource: How Cancer Can Affect Ejaculation and Orgasm
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/sexual-side-effects/ejaculation-and-treatment.html
+
+Resource: How Cancer Can Affect Sexual Desire in Men
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/sexual-side-effects/treatment-and-desire-and-response.html
+
+Resource: Hypogonadism in Men
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism
+
+Resource: Male Hypogonadism
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/male-hypogonadism/symptoms-causes/syc-20354881?p=1
+
+Resource: Male Menopause: Myth or Reality?
+Category: Older Adults
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/mens-health/in-depth/male-menopause/art-20048056?p=1
+
+Resource: Premature Ejaculation
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/premature-ejaculation/
+
+Resource: Premature ejaculation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001524.htm
+
+Resource: Sexual Problems in Men
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sexual+Dysfunction%2C+Physiological%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retrograde ejaculation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001282.htm
+
+Resource: Senior Sex: Tips For Older Men
+Category: Older Adults
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/sexual-health/in-depth/senior-sex/art-20046465?p=1
+
+Resource: Testosterone Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/testosterone-levels-test/
+
+Resource: Testosterone Therapy: Potential Benefits and Risks as You Age
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/sexual-health/in-depth/testosterone-therapy/art-20045728?p=1

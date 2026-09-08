@@ -1,0 +1,137 @@
+Title: Vulvar Cancer
+
+Summary:
+Vulvar cancer is a rare type of cancer. It forms in a woman's external genitals, called the vulva. The cancer usually grows slowly over several years. First, precancerous cells grow on vulvar skin. This is called vulvar intraepithelial neoplasia (VIN), or dysplasia. Not all VIN cases turn into cancer, but it is best to treat it early.
+Often, vulvar cancer doesn't cause symptoms at first. However, see your doctor for testing if you notice:
+A lump in the vulva
+Vulvar itching or tenderness
+Bleeding that is not your period
+Changes in the vulvar skin, such as color changes or growths that look like a wart or ulcer
+You are at greater risk if you've had a
+human papillomavirus
+(HPV) infection or have a history of genital warts. Your health care provider diagnoses vulvar cancer with a physical exam and a biopsy. Treatment varies, depending on your overall health and how advanced the cancer is. It might include surgery, radiation therapy, chemotherapy, or biologic therapy. Biologic therapy boosts your body's own ability to fight cancer.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Women
+- Female Reproductive System
+
+MeSH Headings:
+- Vulvar Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Can Vulvar Cancer Be Prevented?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/causes-risks-prevention/prevention.html
+
+Resource: Cancer Stat Facts: Vulvar Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/vulva.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Vulvar Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vulvar+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Drugs Approved for Vulvar Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/vulvar
+
+Resource: Fertility Problems
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/fertility.html
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Key Statistics for Vulvar Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/about/key-statistics.html
+
+Resource: Living as a Vulvar Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/after-treatment/follow-up.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Pelvic radiation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000059.htm
+
+Resource: Vulvar Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vulvar+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to Ask Your Doctor about Vulvar Cancer
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/detection-diagnosis-staging/talking-with-doctor.html
+
+Resource: Risk Factors for Vulvar Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Symptoms of Vaginal and Vulvar Cancers
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaginal-vulvar-cancers/symptoms/
+
+Resource: Tests for Vulvar Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vulvar-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Vaginal and Vulvar Cancers
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaginal-vulvar-cancers/
+
+Resource: Vulvar cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000902.htm
+
+Resource: Vulvar Cancer Treatment
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/vulvar/patient/vulvar-treatment-pdq

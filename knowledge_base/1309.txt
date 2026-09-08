@@ -1,0 +1,148 @@
+Title: Swallowing Disorders
+
+Also Called:
+- Dysphagia
+
+Summary:
+If you have a swallowing disorder, you may have difficulty or pain when swallowing. Some people cannot swallow at all. Others may have trouble swallowing liquids, foods, or saliva. This makes it hard to eat. Often, it can be difficult to take in enough calories and fluids to nourish your body.
+Anyone can have a swallowing disorder, but it is more common in older adults. It often happens because of other conditions, including:
+Nervous system disorders
+, such as
+Parkinson's disease
+and
+cerebral palsy
+Problems with your
+esophagus,
+including
+GERD
+(gastroesophageal reflux disease)
+Stroke
+Head
+or
+spinal cord
+injury
+Cancer of the
+head, neck
+, or
+esophagus
+Medicines can help some people, while others may need surgery.  Swallowing treatment with a speech-language pathologist can help.  You may find it helpful to change your diet or hold your head or neck in a certain way when you eat. In very serious cases, people may need
+feeding tubes
+.
+NIH: National Institute on Deafness and Other Communication Disorders
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Deglutition Disorders
+
+Related Resources:
+
+Resource: Barium Swallow
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/barium-swallow/
+
+Resource: ClinicalTrials.gov: Deglutition Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Deglutition+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Dysphagia
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/dysphagia/
+
+Resource: Dysphagia (Difficulty Swallowing)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dysphagia/symptoms-causes/syc-20372028?p=1
+
+Resource: Dysphagia Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dysphagia-tests/
+
+Resource: Dysphagia: What Happens during a Bedside Swallow Exam
+Category: Diagnosis and Tests
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/dysphagia-what-happens-during-a-bedside-swallow-exam
+
+Resource: Esophageal manometry
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003884.htm
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Fluoroscopy/Modified Barium Swallow Study
+Category: Diagnosis and Tests
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/tests-procedures/imaging/fluoroscopy-modified-barium-swallow-study?modal=1
+
+Resource: Globus
+Category: Related Issues
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://iffgd.org/gi-disorders/upper-gi-disorders/globus/
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Oculopharyngeal muscular dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/oculopharyngeal-muscular-dystrophy
+
+Resource: Oromandibular Dystonia
+Category: Specifics
+Organization: Dystonia Medical Research Foundation
+URL: https://dystonia-foundation.org/what-is-dystonia/types-dystonia/oromandibular/
+
+Resource: Painful swallowing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003116.htm
+
+Resource: Swallowing Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Deglutition+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Swallowing
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000126.htm
+
+Resource: Swallowing difficulty
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007543.htm
+
+Resource: Swallowing Problems
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/eating-problems/swallowing-problems.html
+
+Resource: Swallowing problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000065.htm
+
+Resource: Trouble Swallowing After Stroke (Dysphagia)
+Category: Specifics
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/effects-of-stroke/physical-effects/dysphagia
+
+Resource: Upper GI Endoscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Your Digestive System and How It Works
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works

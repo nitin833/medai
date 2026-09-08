@@ -1,0 +1,164 @@
+Title: Cáncer de ojo
+
+Also Called:
+- Cáncer ocular
+
+Summary:
+El cáncer de ojo es poco común. Puede afectar las partes externas del ojo, como los párpados, que están formados por músculos, piel y nervios. Si comienza en el interior del globo ocular se denomina cáncer intraocular. Los cánceres intraoculares más comunes en adultos son el melanoma y el linfoma. El cáncer de ojo más común en los niños es el retinoblastoma, que comienza en las células de la retina. El cáncer también puede diseminarse desde el ojo hasta otras partes del cuerpo.
+El tratamiento del cáncer de ojo varía según el tipo y el estado en el que se encuentre. Puede incluir cirugía, radioterapia, terapia con calor o frío o tratamiento con rayos láser.
+
+Groups:
+- Cánceres
+- Ojos y visión
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (melanoma ocular uveal)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq#_55
+
+Resource: Aspectos generales de las opciones de tratamiento (retinoblastoma)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/retinoblastoma/paciente/tratamiento-retinoblastoma-pdq#_43
+
+Resource: Braquiterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/braquiterapia
+
+Resource: Cáncer ocular
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/cancer-de-ojo
+
+Resource: Cánceres que afectan la retina
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-retina/c%C3%A1nceres-que-afectan-la-retina
+
+Resource: Cómo funcionan los ojos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Estadios del melanoma ocular uveal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq#_30
+
+Resource: Estadios del retinoblastoma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/retinoblastoma/paciente/tratamiento-retinoblastoma-pdq#_27
+
+Resource: Excrecencias en los párpados
+Category: Spanish/Español, Imágenes
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/excrecencias-en-los-p%C3%A1rpados
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el melanoma ocular uveal
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq#_1
+
+Resource: Información general sobre el retinoblastoma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/retinoblastoma/paciente/tratamiento-retinoblastoma-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Melanoma del ojo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001022.htm
+
+Resource: Nevo (peca del ojo)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/nevo
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Retinoblastoma
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001030.htm
+
+Resource: Retinoblastoma
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/retinoblastoma.html
+
+Resource: Retinoblastoma
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/retinoblastoma
+
+Resource: Síntomas oculares
+Category: Spanish/Español, Síntomas
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/sintomas-lista
+
+Resource: Tratamiento del melanoma ocular uveal infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-infantil-pdq
+
+Resource: Tratamiento para el melanoma ocular uveal
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/ojo/paciente/tratamiento-melanoma-ocular-pdq#_88
+
+Resource: Tumor de las glándulas lagrimales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001611.htm
+
+Resource: ¿Qué es el melanoma ocular?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/melanoma-ocular
+
+Resource: ¿Qué es un retinoblastoma?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-retinoblastoma

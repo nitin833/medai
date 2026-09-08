@@ -1,0 +1,41 @@
+Title: Acupuntura
+
+Summary:
+La acupuntura se ha practicado en China y en otros países asiáticos por miles de años. Es una práctica que implica estimular partes específicas del cuerpo, generalmente, mediante la inserción de agujas muy finas. Esto crea un cambio en las funciones físicas del cuerpo.
+Las investigaciones han demostrado que la acupuntura reduce las náuseas y los vómitos después de una cirugía y quimioterapia. También puede aliviar el dolor. Los investigadores no comprenden en su totalidad el efecto de la acupuntura pero se cree que podría ayudar a la actividad de los químicos que alivian el dolor del cuerpo. También podría afectar la manera en la que se liberan las sustancias químicas que regulan la presión arterial y el flujo de la sangre.
+NIH: Centro Nacional de Salud Complementaria e Integral
+
+Groups:
+- Terapias complementarias y alternativas
+
+Related Resources:
+
+Resource: Acupuntura
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/acupuncture/about/pac-20392763?p=1
+
+Resource: Acupuntura
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/acupuncture.html
+
+Resource: Acupuntura (PDQ)
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/mca/paciente/acupuntura-pdq
+
+Resource: Consejos a la hora de hablar: Seis aspectos que debe conocer al elegir un profesional de medicina complementaria
+Category: Más información, Spanish/Español
+Organization: Centro Nacional de Salud Complementaria e Integral
+URL: https://www.nccih.nih.gov/health/espanol/consejos-a-la-hora-de-hablar-seis-aspectos-que-debe-conocer-al-elegir-un-profesional-de-medicina-complementaria
+
+Resource: Cómo tratar el dolor con acupuntura
+Category: Más información, Spanish/Español
+Organization: Asociación Médica Americana
+URL: https://sites.jamanetwork.com/spanish-patient-pages/2014/hoja-para-el-paciente-de-jama-141001.pdf
+
+Resource: Medicina alternativa para el alivio del dolor
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002064.htm

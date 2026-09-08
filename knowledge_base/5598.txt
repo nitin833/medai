@@ -1,0 +1,173 @@
+Title: Enfermedad pulmonar intersticial
+
+Also Called:
+- Enfermedades pulmonares intersticiales
+
+Summary:
+La enfermedad pulmonar intersticial es el nombre de un grupo de enfermedades que causan inflamación o cicatrización de los pulmones. Esto hace que sea difícil obtener suficiente oxígeno. La cicatrización se llama
+fibrosis pulmonar
+.
+La inhalación de polvo u otras partículas en el aire son responsables de algunos tipos de enfermedades pulmonares intersticiales. Los tipos específicos incluyen:
+Enfermedad del pulmón negro entre los mineros que resulta de la inhalación del polvo del carbón mineral
+Neumopatía de los granjeros debido a la inhalación del polvo proveniente del heno mohoso, la paja y los granos
+Asbestosis, por la inhalación de fibras de
+asbesto
+Siderosis debido a la inhalación de polvo de hierro
+Silicosis que resulta de la inhalación de polvo que contiene sílice
+Otras causas son las enfermedades autoinmunes o la exposición ocupacional a los mohos, gases o vapores. Algunos tipos de enfermedad pulmonar intersticial no tienen causa conocida.
+El tratamiento depende del tipo de exposición y la etapa de la enfermedad. Puede tratarse con medicamentos, terapia de oxígeno o, en casos más severos, con un trasplante de pulmón.
+
+Groups:
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Alta tras enfermedad pulmonar intersticial en adultos
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000016.htm
+
+Resource: Bisinosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001089.htm
+
+Resource: Broncoscopia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003857.htm
+
+Resource: Bronquitis industrial
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000072.htm
+
+Resource: Cómo funcionan los pulmones
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: Cómo ponerse y quitarse adecuadamente un respirador desechable
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-133sp.html
+
+Resource: Enfermedad pulmonar intersticial
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000128.htm
+
+Resource: Enfermedad pulmonar intersticial difusa
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/diffuselung
+
+Resource: Enfermedad pulmonar intersticial: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/interstitial-lung-disease/diagnosis-treatment/drc-20353113?p=1
+
+Resource: Examen de ECA en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003567.htm
+
+Resource: Histiocitosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000068.htm
+
+Resource: Información general sobre la histiocitosis de células de Langerhans
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/langerhans/paciente/tratamiento-langerhans-pdq
+
+Resource: Introducción a las enfermedades pulmonares intersticiales
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/enfermedades-pulmonares-intersticiales/introducci%C3%B3n-a-las-enfermedades-pulmonares-intersticiales
+
+Resource: Neumoconiosis de los mineros del carbón
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000130.htm
+
+Resource: Neumoconiosis reumatoide
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000137.htm
+
+Resource: Neumonitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pneumonitis/symptoms-causes/syc-20352623?p=1
+
+Resource: Neumonitis por hipersensibilidad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000109.htm
+
+Resource: Neumonías intersticiales idiopáticas
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/enfermedades-pulmonares-intersticiales/introducci%C3%B3n-a-las-neumon%C3%ADas-intersticiales-idiop%C3%A1ticas
+
+Resource: Pruebas de función pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-funcion-pulmonar/
+
+Resource: Pruebas de la función pulmonar
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003853.htm
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Radiografía torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Rayos X del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Rehabilitación pulmonar: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pulmonaryrehabilitation.html
+
+Resource: Resonancia magnética del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003794.htm
+
+Resource: Silicosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000134.htm
+
+Resource: Silicosis - el trabajo con tejas de cemento: El peligro de la sílice
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2006-110sp.html
+
+Resource: Silicosis: ¡Conozca los datos!
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2004-108sp.html
+
+Resource: Terapia con oxígeno: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/oxygentherapy.html
+
+Resource: ¿Qué es el berilio?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.atsdr.cdc.gov/es/toxfaqs/es_tfacts4.html

@@ -1,0 +1,175 @@
+Title: Colonic Polyps
+
+Also Called:
+- Colon polyps
+
+Summary:
+A polyp is an extra piece of tissue that grows inside your body. Colonic polyps grow in the large intestine, or colon.  Most polyps are not dangerous. However, some polyps may turn into cancer or already be cancer. To be safe, doctors remove polyps and test them.  Polyps can be removed when a doctor examines the inside of the large intestine during a
+colonoscopy
+.
+Anyone can get polyps, but certain people are more likely than others. You may have a greater chance of getting polyps if you :
+Are over age 50
+Have had polyps before
+Have a family member with polyps
+Have a family history of
+colon cancer
+Most colon polyps do not cause symptoms. If you have symptoms, they may include blood on your underwear or on toilet paper after a bowel movement, blood in your stool, or constipation or diarrhea lasting more than a week.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Cancers
+- Digestive System
+
+MeSH Headings:
+- Colonic Polyps
+
+Related Resources:
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Barium enema
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003817.htm
+
+Resource: Can Colorectal Polyps and Cancer Be Found Early?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/detection.html
+
+Resource: ClinicalTrials.gov: Colonic Polyps
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Colonic+Polyps%22&aggFilters=status:not%20rec
+
+Resource: Colon Polyps
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/colon-polyps
+
+Resource: Colonoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003886.htm
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Colorectal polyps
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000266.htm
+
+Resource: Familial adenomatous polyposis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-adenomatous-polyposis/
+
+Resource: Gastrointestinal Polyps
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/digestive-topics/gastrointestinal-polyps/
+
+Resource: Juvenile polyposis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-polyposis-syndrome/
+
+Resource: Large bowel resection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002941.htm
+
+Resource: Large bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000151.htm
+
+Resource: Large bowel resection - Series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100089_1.htm
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Peutz-Jeghers syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000244.htm
+
+Resource: Peutz-Jeghers syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/peutz-jeghers-syndrome/
+
+Resource: Polyp biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003415.htm
+
+Resource: Polyps of the Colon and Rectum
+Category: Start Here
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Polyps-of-the-Colon-and-Rectum.aspx
+
+Resource: Colonic Polyps
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Colonic+Polyps%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Screening Tests to Detect Colorectal Cancer and Polyps
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/screening-fact-sheet
+
+Resource: Total proctocolectomy and ileal-anal pouch
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007380.htm
+
+Resource: Total proctocolectomy with ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007381.htm
+
+Resource: Treatment for Colon Polyps
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/colon-polyps/treatment
+
+Resource: Virtual colonoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007253.htm
+
+Resource: What to Know If Polyps Were Found during Your Colonoscopy
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/latest-news/what-to-know-if-polyps-were-found-during-your-colonoscopy.html
+
+Resource: When You Visit Your Doctor -- Colonic Polyps
+Category: Diagnosis and Tests
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/when-you-visit-your-doctor-colonic-polyps
+
+Resource: Your Colon or Rectal Pathology Report: Polyps (Including Serrated Adenomas)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests/pathology-reports/colon-pathology/colon-polyps-sessile-or-traditional-serrated-adenomas.html

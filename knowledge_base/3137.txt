@@ -1,0 +1,83 @@
+Title: Tecnología asistencial
+
+Also Called:
+- Aparatos de asistencia
+- Equipo de ayuda a personas con discapacidades
+
+Summary:
+¿Qué es la tecnología asistencial?
+La tecnología asistencial (o dispositivos de asistencia) son herramientas, productos o equipos que pueden ayudarle a realizar tareas y actividades. Pueden ayudarle a
+moverse
+, ver, comunicarse, comer o vestirse.
+¿Quién puede beneficiarse de la tecnología asistencial?
+Puede utilizar varios dispositivos de asistencia si:
+Tiene una discapacidad o lesión
+Tiene ciertas afecciones de salud, como
+demencia
+, o si ha sufrido un
+accidente cerebrovascular
+Es una persona mayor
+Puede usar la tecnología asistencial durante un período breve o prolongado. Otras personas pueden utilizarlos durante toda su vida.
+¿Cómo puede ayudar la tecnología asistencial?
+Algunos dispositivos de asistencia son herramientas de alta tecnología, como las computadoras. Otros son mucho más simples, como un "alcanzador", una herramienta que le ayuda a agarrar un objeto fuera de su alcance.
+Hay una variedad de dispositivos o herramientas de asistencia disponibles que pueden usarse para ayudarlo a:
+Comunicarse, ver o escuchar mejor
+Hacer actividades diarias
+Moverse usando una silla de ruedas, un andador u otro dispositivo de movilidad
+Cocinar o comer
+Vestirse o asearse
+Mejorar su memoria o atención
+Ser más activo
+Participar en actividades educativas
+La tecnología asistencial también pueden usarse para hacer cambios en su entorno físico con el fin de que sea más fácil moverse o cuidarse. Esto puede incluir agregar rampas o barras de apoyo.
+
+Groups:
+- Personas mayores
+- Cirugía y rehabilitación
+
+Related Resources:
+
+Resource: Accesibilidad de la información de emergencia en televisión
+Category: Más información, Spanish/Español
+Organization: Comisión Federal de Comunicaciones
+URL: https://www.fcc.gov/consumers/guides/accesibilidad-de-la-informacion-de-emergencia-en-television
+
+Resource: Dispositivo asistencial WREX
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/wrex.html
+
+Resource: Dispositivos de ayuda para personas con discapacidades: Ayudas de posicionamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/assistive-devices-positioners.html
+
+Resource: Servicio de retransmisión en teléfonos públicos
+Category: Más información, Spanish/Español
+Organization: Comisión Federal de Comunicaciones
+URL: https://www.fcc.gov/consumers/guides/servicio-de-retransmision-en-telefonos-publicos
+
+Resource: Subtitulado opcional en televisión
+Category: Más información, Spanish/Español
+Organization: Comisión Federal de Comunicaciones
+URL: https://www.fcc.gov/consumers/guides/subtitulado-opcional-en-television
+
+Resource: Tecnología de rehabilitación y asistencia
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rehabtech
+
+Resource: ¿Cuáles son algunos de los tipos de dispositivos de asistencia y cómo se utilizan?
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rehabtech/informacion/tipos-dispositivos
+
+Resource: ¿Cuáles son algunos tipos de tecnologías de rehabilitación?
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rehabtech/informacion/tipos-rehab
+
+Resource: ¿Cómo beneficia la tecnología de rehabilitación a las personas con discapacidades?
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rehabtech/informacion/ayuda

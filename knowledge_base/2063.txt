@@ -1,0 +1,33 @@
+Title: Donación de órganos
+
+Summary:
+La donación de órganos toma órganos y tejidos sanos de una persona para
+trasplantarlos
+en otras. Los especialistas dicen que los órganos de una persona donante pueden salvar o ayudar hasta 50 personas. Los órganos que se pueden donar incluyen:
+Órganos internos: riñones, corazón, hígado, páncreas, intestinos, pulmones
+Piel
+Hueso y médula ósea
+Córnea
+La mayoría de las donaciones de órganos y tejido ocurre cuando el donante fallece. Pero algunos pueden ser donados en vida.
+Los donantes pueden ser personas de todas las edades y orígenes. Si es menor de 18 años, sus padres o su tutor deben autorizarlo a ser donante. Si es mayor de 18 años, puede indicar que desea ser donante firmando una tarjeta de donantes. También puede comunicarle sus deseos a su familia.
+Administración de Servicios y Recursos de la Salud
+
+Groups:
+- Transplantes y donaciones
+
+Related Resources:
+
+Resource: Donación de órganos: No  dejes que estos mitos te confundan
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/consumer-health/in-depth/organ-donation/art-20047529?p=1
+
+Resource: Done vida
+Category: Más información, Spanish/Español
+Organization: Done Vida
+URL: https://donatelife.net/done-vida/
+
+Resource: ¿Cómo puede usted contribuir a la investigación médica? Done su sangre, sus tejidos y otras muestras
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/como-contribuir-a-la-investigacion-medica

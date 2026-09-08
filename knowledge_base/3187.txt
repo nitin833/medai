@@ -1,0 +1,50 @@
+Title: Asistencia económica
+
+Also Called:
+- Asistencia financiera
+
+Summary:
+El cuidado de la salud puede ser costoso. Los
+seguros médicos
+suelen cubrir por lo menos parte de los gastos médicos. Si no tiene un seguro médico o necesita ayuda con los gastos que no están cubiertos, podría contar con ayuda económica. Algunos programas del gobierno y organizaciones sin fines de lucro pueden ayudar. También puede hablar acerca de sus dudas sobre el pago de las facturas médicas con el profesional de la salud, un trabajador social o la oficina administrativa del hospital o la clínica.
+
+Groups:
+- Asuntos sociales y familiares
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Ayuda para el pago de medicamentos recetados
+Category: Más información, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/asuntos-financieros-y-cobertura/manejo-del-seguro-medico/programas-de-ayuda-para-medicamentos-recetados.html
+
+Resource: Beneficios para niños incapacitados
+Category: Más información, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/pubs/ES-05-10926.pdf
+
+Resource: Lo que hay saber sobre el costo del tratamiento contra el cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/asuntos-financieros-y-cobertura/administracion-de-los-costos/el-costo-del-tratamiento-contra-el-cancer.html
+
+Resource: Medicare: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/medicare.html
+
+Resource: Ocho maneras de reducir sus costos de atención médica
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000870.htm
+
+Resource: Programas de ayuda de nutrición
+Category: Más información, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/pubs/ES-05-10978.pdf
+
+Resource: Seguro por incapacidad
+Category: Más información, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/es/disability

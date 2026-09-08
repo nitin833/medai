@@ -1,0 +1,86 @@
+Title: Breast Reconstruction
+
+Summary:
+If you need a
+mastectomy
+, you have a choice about whether or not to have surgery to rebuild the shape of the breast. Instead of breast reconstruction, you could choose to wear a breast form that replaces the breast, wear padding inside your bra, or do nothing. All of these options have pros and cons. What is right for one woman may not be right for another.
+Breast reconstruction may be done at the same time as the mastectomy, or it may be done later on. If radiation therapy is part of the treatment plan, your doctor may suggest waiting until after radiation therapy.
+If you're thinking about breast reconstruction, talk to a plastic surgeon before the mastectomy, even if you plan to have your reconstruction later on.
+A surgeon can reconstruct the breast in many ways. Some women choose to have breast implants, which are filled with saline or silicone gel. Another method uses tissue taken from another part of your body. The plastic surgeon can take skin, muscle, and fat from your lower abdomen, back, or buttocks.
+The type of reconstruction that is best for you depends on your age, body type, and the type of cancer surgery that you had. A plastic surgeon can help you decide.
+NIH: National Cancer Institute
+
+Groups:
+- Women
+- Surgery and Rehabilitation
+- Female Reproductive System
+
+MeSH Headings:
+- Mammaplasty
+- Breast Implants
+
+Related Resources:
+
+Resource: Breast reconstruction - implants
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007403.htm
+
+Resource: Breast reconstruction - natural tissue
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007404.htm
+
+Resource: Breast reconstruction - series
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100156_1.htm
+
+Resource: Breast Reconstruction after a Mastectomy
+Category: Learn More
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/breast-cancer/treatment/type/surgery/breast-reconstruction/
+
+Resource: Breast Reconstruction after Mastectomy
+Category: Learn More
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/treatment/surgery/breast-reconstruction
+
+Resource: Breast Reconstruction or Prosthesis after Mastectomy
+Category: Learn More
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/wp-content/uploads/BreastReconstruction.pdf
+
+Resource: ClinicalTrials.gov: Breast Implants
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22Breast+Implants%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Mammaplasty
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=Mammaplasty&aggFilters=status:not%20rec
+
+Resource: Mastectomy and breast reconstruction - what to ask your doctor
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000253.htm
+
+Resource: Breast reconstruction
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Breast+Implants%22%5Bmajr%3Anoexp%5D+OR+%22Mammaplasty%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risks and Complications of Breast Implants
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/breast-implants/risks-and-complications-breast-implants
+
+Resource: Should I Get Breast Reconstruction Surgery?
+Category: Learn More
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/reconstruction-surgery/should-i-get-breast-reconstruction-surgery.html
+
+Resource: Types of Breast Implants
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/breast-implants/types-breast-implants

@@ -1,0 +1,170 @@
+Title: Air Pollution
+
+Summary:
+Air pollution is a mixture of solid particles and gases in the air. Car emissions, 
+chemicals from factories, dust, pollen and mold spores may be suspended as particles.
+Ozone
+, a gas, is a major part of air pollution in cities. 
+When ozone forms air pollution, it's also called smog.
+Some air pollutants are poisonous. Inhaling them can increase the chance you'll have 
+health problems. People with heart or lung disease, older adults and children are at 
+greater risk from air pollution. Air pollution isn't just outside - the
+air inside
+buildings can also be polluted and affect your health.
+Environmental Protection Agency
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Air Pollution
+
+Related Resources:
+
+Resource: 10 Tips to Protect Yourself from Unhealthy Air
+Category: Prevention and Risk Factors
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/outdoors/10-tips-to-protect-yourself
+
+Resource: About Air Quality
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/air-quality/about/
+
+Resource: Acid Rain
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/acidrain
+
+Resource: Air Pollutants
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/air-quality/pollutants/
+
+Resource: Air Pollution and Your Health
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/air-pollution
+
+Resource: Air Quality and Ionizing Radiation during Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/air-quality-and-ionizing-radiation-during-travel.html
+
+Resource: Air Quality Guide for Particle Pollution
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://document.airnow.gov/air-quality-guide-for-particle-pollution.pdf
+
+Resource: Air Quality Index (AQI) Basics
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.airnow.gov/aqi/aqi-basics/
+
+Resource: AirNow.gov
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.airnow.gov/
+
+Resource: America's Children and the Environment
+Category: Statistics and Research
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/americaschildrenenvironment
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clean Air Outdoors
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/outdoors
+
+Resource: ClinicalTrials.gov: Air Pollution
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22Air+Pollution%22&aggFilters=status:not%20rec
+
+Resource: Disparities in the Impact of Air Pollution
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities
+
+Resource: Green Vehicle Guide
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/greenvehicles
+
+Resource: Hazardous Air Pollutants
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/haps
+
+Resource: Healthy Heart Toolkit and Research: Steps You Can Take to Reduce Health Effects from Air Pollution
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/air-research/healthy-heart-toolkit-and-research-steps-you-can-take
+
+Resource: Lung problems and volcanic smog
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007468.htm
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Particulate Matter (PM) Pollution
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/pm-pollution
+
+Resource: Air Pollution
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Air+Pollution%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Research on Health Effects from Air Pollution
+Category: Statistics and Research
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/air-research/research-health-effects-air-pollution
+
+Resource: Respiratory Protection
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/respiratory-protection
+
+Resource: Risk Assessment
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/risk
+
+Resource: State of the Air Report Cards: States and Counties
+Category: Statistics and Research
+Organization: American Lung Association
+URL: https://www.lung.org/research/sota/city-rankings/states
+
+Resource: Transportation, Air Pollution, and Climate Change
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/transportation-air-pollution-and-climate-change
+
+Resource: Volcanic Gases Can Be Harmful to Health, Vegetation, and Infrastructure
+Category: Specifics
+Organization: U.S. Geological Survey
+URL: https://www.usgs.gov/programs/VHP/volcanic-gases-can-be-harmful-health-vegetation-and-infrastructure
+
+Resource: What Are the Health Costs of Air Pollution, and What Can We Do About It?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/what-are-the-health-costs-of-air-pollution-and-what-can-we-do-about-it

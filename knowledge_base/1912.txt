@@ -1,0 +1,312 @@
+Title: Lesiones y enfermedades del pie
+
+Summary:
+Cada uno de sus pies tiene 26 huesos, 33 articulaciones y más de 100 tendones, músculos y ligamentos. Por ello pueden afectarle muchos problemas de salud. Entre los más comunes se encuentran:
+Juanetes
+: Masa dura y dolorosa en la articulación del dedo gordo del pie
+Callos y durezas
+: Engrosamiento de la piel por la fricción o la presión
+Verrugas plantares: Verrugas en la planta del pie
+Caída del arco: También conocido como pie plano
+El uso de zapatos inadecuados suele causar estos problemas. La edad y el sobrepeso también aumentan las posibilidades de tener problemas en los pies.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Ampollas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/blisters.html
+
+Resource: Amputación de un pie o una pierna
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007365.htm
+
+Resource: Andar de puntillas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toe-walking.html
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Arco plantar alto
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001261.htm
+
+Resource: Ardor en los pies
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/burning-feet/basics/definition/SYM-20050809?p=1
+
+Resource: Artritis reumatoide en el pie y tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/rheumatoid-arthritis-in-the-foot-and-ankle?lang=es-MX
+
+Resource: Atención postratamiento en el hogar para un esguince del pie
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000652.htm
+
+Resource: Callos y callosidades
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001232.htm
+
+Resource: Caída del pie
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007761.htm
+
+Resource: Coalición tarsal
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/tarsal-coalition?lang=es-MX
+
+Resource: Curación de los huesos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/bone-healing?lang=es-MX
+
+Resource: Disfunción del nervio peroneo común
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000791.htm
+
+Resource: Disfunción del tendón tibial posterior (PTTD)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/posterior-tibial-tendon-dysfunction-(pttd)?lang=es-MX
+
+Resource: Dolor en el pie
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003183.htm
+
+Resource: Dolor en las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-pain-in-the-foot?lang=es-MX
+
+Resource: Equinismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/equinus?lang=es-MX
+
+Resource: Espasmos en las manos o en los pies
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003194.htm
+
+Resource: Fascitis plantar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007021.htm
+
+Resource: Fascitis plantar (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/plantar-fasciitis.html
+
+Resource: Fibroma plantar
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/plantar-fibroma?lang=es-MX
+
+Resource: Fracturas de los dedos del pie y de los huesos metatarsianos
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/toe-and-metatarsal-fractures-(broken-toes)?lang=es-MX
+
+Resource: Fracturas de los metatarsianos
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/fracturas/fracturas-de-los-metatarsianos
+
+Resource: Fracturas del quinto metatarsiano
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/fractures-of-the-fifth-metatarsal?lang=es-MX
+
+Resource: Heridas por punción
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/puncture-wounds?lang=es-MX
+
+Resource: Hinchazón de las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-swelling-in-the-foot?lang=es-MX
+
+Resource: Hinchazón de tobillos, pies y piernas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003104.htm
+
+Resource: Inflamación aguda
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/acute-inflammation?lang=es-MX
+
+Resource: Juanetes (Hallux Abducto Valgus)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/bunions?lang=es-MX
+
+Resource: Juanetes de sastre (bunionette)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/tailor-s-bunion-(bunionette)?lang=es-MX
+
+Resource: Lesiones del tendón peroneo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/peroneal-tendon-injuries?lang=es-MX
+
+Resource: Lesiones en un hueso sesamoideo del pie
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/sesamoid-injuries-in-the-foot?lang=es-MX
+
+Resource: Metatarsalgia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/metatarsalgia/symptoms-causes/syc-20354790?p=1
+
+Resource: Metatarso aducto
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001601.htm
+
+Resource: Neuroma de Morton
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007286.htm
+
+Resource: Neuroma de Morton
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/morton-s-neuroma-(intermetatarsal-neuroma)?lang=es-MX
+
+Resource: Osteoartritis del pie y el tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/osteoarthritis-of-the-foot-and-ankle?lang=es-MX
+
+Resource: Pie cavo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/cavus-foot-(high-arched-foot)?lang=es-MX
+
+Resource: Pie de Charcot
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/charcot-foot?lang=es-MX
+
+Resource: Pie de Charcot
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007748.htm
+
+Resource: Pie en garra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003168.htm
+
+Resource: Pie plano
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001262.htm
+
+Resource: Pie plano flexible
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/flexible-flatfoot?lang=es-MX
+
+Resource: Pie plano pediátrico
+Category: Spanish/Español, Niños/as
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/pediatric-flatfoot?lang=es-MX
+
+Resource: Pie zambo
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001228.htm
+
+Resource: Pie zambo
+Category: Spanish/Español, Niños/as
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/pie-zambo.aspx
+
+Resource: Pies fríos
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/cold-feet?lang=es-MX
+
+Resource: Pies hacia adentro (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/gait.html
+
+Resource: Pies hacia afuera
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/out-toeing.html
+
+Resource: Quiste de ganglio
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/ganglion-cyst?lang=es-MX
+
+Resource: Radiografía de una extremidad
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003461.htm
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Reparación del pie zambo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002964.htm
+
+Resource: Reparación quirúrgica del pie zambo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100056_1.htm
+
+Resource: Resonancia magnética de la pierna
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007357.htm
+
+Resource: Tratamiento poshospitalario para fractura metatarsiana (aguda)
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000571.htm
+
+Resource: Tratamiento poshospitalario para una fractura metatarsiana
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000553.htm
+
+Resource: Verruga plantar
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/plantar-wart-(verruca-plantaris)?lang=es-MX
+
+Resource: Verrugas plantares
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/plantar-warts/symptoms-causes/syc-20352691?p=1

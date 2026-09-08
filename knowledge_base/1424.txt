@@ -1,0 +1,268 @@
+Title: Vasculitis
+
+Also Called:
+- Angiitis
+
+Summary:
+Vasculitis is an inflammation of the blood vessels. It happens when the body's immune system attacks the blood vessel by mistake. It can happen because of an infection, a medicine, or another disease. The cause is often unknown.
+Vasculitis can affect arteries, veins and capillaries. Arteries are vessels that carry blood from the heart to the body's organs. Veins are the vessels that carry blood back to the heart. Capillaries are tiny blood vessels that connect the small arteries and veins.
+When a blood vessel becomes inflamed, it can:
+Narrow, making it more difficult for blood to get through.
+Close off completely so that blood can't get through.
+Stretch and weaken so much that it bulges.  The bulge is called an
+aneurysm
+. If it  bursts, it can cause dangerous bleeding inside the body.
+Symptoms of vasculitis can vary, but usually include fever, swelling and a general sense of feeling ill. The main goal of treatment is to stop the inflammation. Steroids and other medicines to stop inflammation are often helpful.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Vasculitis
+
+Related Resources:
+
+Resource: About Aortitis
+Category: Specifics
+Organization: Vasculitis Foundation
+URL: https://vasculitisfoundation.org/education/vasculitis-types/aortitis/
+
+Resource: Adenosine deaminase 2 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adenosine-deaminase-2-deficiency/
+
+Resource: Antineutrophil Cytoplasmic Antibodies (ANCA) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/antineutrophil-cytoplasmic-antibodies-anca-test/
+
+Resource: Aortic angiography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003814.htm
+
+Resource: Autoimmune Association
+Category: Find an Expert
+Organization: Autoimmune Association
+URL: https://autoimmune.org/
+
+Resource: Buerger's Disease
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/buergers-disease/
+
+Resource: C-reactive protein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003356.htm
+
+Resource: C-Reactive Protein (CRP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+
+Resource: Central Nervous System Vasculitis
+Category: Specifics
+Organization: Vasculitis Foundation
+URL: https://vasculitisfoundation.org/education/vasculitis-types/central-nervous-system-vasculitis/
+
+Resource: Cerebral angiography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003799.htm
+
+Resource: ClinicalTrials.gov: Vasculitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vasculitis%22&aggFilters=status:not%20rec
+
+Resource: Collagen vascular disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001223.htm
+
+Resource: Cryoglobulinemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000540.htm
+
+Resource: Cryoglobulinemic Vasculitis
+Category: Specifics
+Organization: Vasculitis Foundation
+URL: https://vasculitisfoundation.org/education/vasculitis-types/cryoglobulinemic-vasculitis/
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: CT Angiography (CTA)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angioct
+
+Resource: Cyclophosphamide (Cytoxan)
+Category: Treatments and Therapies
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/vasculitis-treatments/cyclophosphamide-cytoxan/
+
+Resource: Eosinophilic Granulomatosis with Polyangiitis, formerly Churg-Strauss Syndrome (EGPA)
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/churgstrauss-syndrome-css/
+
+Resource: Erythrocyte Sedimentation Rate (ESR)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/erythrocyte-sedimentation-rate-esr/
+
+Resource: Granulomatosis with polyangiitis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/granulomatosis-with-polyangiitis
+
+Resource: Henoch-Schonlein Purpura
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/henochschnlein-purpura/
+
+Resource: Hypersensitivity vasculitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000874.htm
+
+Resource: IgA vasculitis - Henoch-Schonlein purpura
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000425.htm
+
+Resource: Immune System and Rheumatic Disease
+Category: Related Issues
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/immune-system-rheumatic-disease
+
+Resource: Immunoglobulin A (IgA) Vasculitis
+Category: Children
+Organization: National Kidney and Urologic Diseases Information Clearinghouse
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/iga-vasculitis
+
+Resource: Kawasaki Disease: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kawasakidisease.html
+
+Resource: Methotrexate
+Category: Treatments and Therapies
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/vasculitis-treatments/methotrexate-mtx/
+
+Resource: Microscopic Polyangiitis
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/microscopic-polyangiitis/
+
+Resource: MR Angiography (MRA)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiomr
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Necrotizing vasculitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000432.htm
+
+Resource: Polyarteritis Nodosa
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/polyarteritis-nodosa/
+
+Resource: Polyarteritis nodosa
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001438.htm
+
+Resource: Prednisone
+Category: Treatments and Therapies
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/vasculitis-treatments/prednisone/
+
+Resource: Vasculitis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vasculitis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Purpura
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003232.htm
+
+Resource: Rheumatoid Vasculitis
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/rheumatoid-vasculitis/
+
+Resource: Splinter hemorrhages
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003283.htm
+
+Resource: Takayasu arteritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001250.htm
+
+Resource: Takayasu's Arteritis
+Category: Specifics
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/takayasus-arteritis/
+
+Resource: Upper airway biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003856.htm
+
+Resource: Urticarial Vasculitis
+Category: Specifics
+Organization: Vasculitis Foundation
+URL: https://vasculitisfoundation.org/education/vasculitis-types/urticarial-vasculitis/
+
+Resource: Vasculitis
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/vasculitis
+
+Resource: Vasculitis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vasculitis/symptoms-causes/syc-20363435?p=1
+
+Resource: Vasculitis in the Nervous System
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/vasculitis-nervous-system
+
+Resource: Vasculitis Terms A to Z
+Category: Reference Desk
+Organization: Vasculitis Foundation
+URL: https://vasculitisfoundation.org/resources/glossary/
+
+Resource: What is Vasculitis?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/vasculitis

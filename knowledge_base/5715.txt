@@ -1,0 +1,101 @@
+Title: Infecciones por neumococo
+
+Also Called:
+- Infecciones neumocócicas
+
+Summary:
+El neumococo es un tipo de bacteria
+estreptocócica
+. La bacteria se disemina a través del contacto con personas que están infectadas o con personas que no están enfermas pero que portan la bacteria en la parte posterior de su nariz.  Las infecciones neumocócicas pueden ser leves o graves. Las infecciones más comunes son:
+Infecciones del oído
+Sinusitis
+Neumonía
+Sepsis
+Meningitis
+Cómo se realice el diagnóstico depende de dónde está la infección. Su médico le hará un examen físico y le preguntará acerca de su historia clínica. Las posibles pruebas pueden incluir exámenes de sangre, imágenes o pruebas de laboratorio. El tratamiento es con antibióticos. Las vacunas previenen las infecciones por neumococo. Existen dos vacunas. Una para recién nacidos y niños pequeños. La otra es para personas en riesgo, incluyendo aquellas personas mayores de 65 años o que padecen de una enfermedad crónica o que tienen un sistema inmune debilitado o que fuman o tienen asma o viven en residencias de cuidado.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Acerca de la enfermedad neumocócica
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/pneumococcal/es/about/acerca-de-la-enfermedad-neumococica.html
+
+Resource: Antibióticos: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/antibiotics.html
+
+Resource: Enfermedad neumocócica: causas y cómo se propaga
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/pneumococcal/es/causes/enfermedad-neumococica-causas-y-como-se-propaga.html
+
+Resource: Infecciones neumocócicas
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/infecciones-bacterianas-bacterias-grampositivas/infecciones-neumoc%C3%B3cicas
+
+Resource: Infecciones por neumococo
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/vaccine-preventable-diseases/paginas/pneumococcal-infections.aspx
+
+Resource: Meningitis neumocócica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000607.htm
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Pruebas de detección de enfermedades neumocócicas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-deteccion-de-enfermedades-neumococicas/
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Radiografía torácica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Tinción de Gram en esputo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003765.htm
+
+Resource: Vacuna antineumocócica
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/pneumococcal/es/vaccines/vacuna-antineumococica.html
+
+Resource: Vacuna conjugada neumocócica: Lo que necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/pdf/spanish_pcv.pdf
+
+Resource: Vacuna contra el neumococo (neumocócica)
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/inmunizaci%C3%B3n-vacunaci%C3%B3n/vacuna-contra-el-neumococo-neumoc%C3%B3cica
+
+Resource: Vacuna neumocócica polisacárida: Lo que necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_ppsv.pdf
+
+Resource: Vacunas de su hijo: Vacunas antineumocócicas (PCV y PPSV)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pneumococcal-vaccine.html

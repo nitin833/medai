@@ -1,0 +1,57 @@
+Title: Lunares
+
+Also Called:
+- Nevos
+
+Summary:
+Los lunares son crecimientos sobre la piel. Se producen cuando las células productoras de pigmento de la piel, llamadas melanocitos, crecen en grupos. Los lunares son muy comunes. La mayoría de las personas tiene entre 10 y 40 lunares. Una persona puede desarrollar nuevos lunares hasta los 40 años aproximadamente. Suelen ir desapareciendo a medida que envejecemos.
+Los lunares suelen ser rosados, morenos o marrones. Pueden ser planos o elevados. Generalmente son redondos u ovalados y no mayores que una goma de lápiz.
+Casi una de cada diez personas tiene por lo menos un lunar inusual (atípico) de aspecto distinto a los lunares comunes. Este se denomina nevo displásico. Estos lunares pueden tener más probabilidades de convertirse en
+melanoma
+, un tipo de cáncer de piel, que los lunares comunes. Usted debería consultar con un médico para que le revise cualquier lunar de aspecto irregular, de mayor crecimiento, que cambia de color o de forma o cualquier otro tipo de anormalidad.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Autoexamen de piel
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000711.htm
+
+Resource: Lunares comunes, nevos displásicos y el riesgo de melanoma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/hoja-informativa-lunares
+
+Resource: Manchas de nacimiento (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/birthmarks.html
+
+Resource: Manchas en la piel
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003224.htm
+
+Resource: Marcas de nacimiento pigmentadas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000828.htm
+
+Resource: Melanocitosis dérmica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001472.htm
+
+Resource: Nevo congénito gigante
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001453.htm
+
+Resource: Nevos displásicos (lunares atípicos)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación contra el Cáncer de Piel
+URL: https://cancerdepiel.org/cancer-de-piel/nevos-displasicos

@@ -1,0 +1,57 @@
+Title: Derechos del paciente
+
+Summary:
+¿Cuáles son los derechos del paciente?
+Como paciente, usted tiene ciertos derechos. Algunos están garantizados por la ley federal, como el derecho a obtener una copia de sus registros médicos y el derecho a mantenerlos privados y seguros. Muchos estados tienen leyes adicionales que protegen a los pacientes. Además, algunos estados, planes de seguro, organizaciones médicas y centros de atención de salud tienen su propia declaración de derechos del paciente.
+Otros ejemplos de derechos del paciente incluyen:
+Ser tratado con respeto
+No ser discriminado en su atención de salud
+El derecho a rechazar el tratamiento
+El derecho al consentimiento informado
+¿Qué es el consentimiento informado?
+El consentimiento informado es un derecho importante del paciente. Es un proceso en el que su profesional de la salud le entrega la información que necesita para tomar decisiones sobre su atención de salud. Los tipos de atención pueden ser tratamientos, procedimientos, pruebas genéticas o ensayos clínicos. La información debe incluir los riesgos y beneficios de la atención, así como detalles sobre su afección médica.
+Es importante que comprenda todo antes de dar su consentimiento. A veces, su proveedor le pedirá que firme un formulario para dar su consentimiento. Esto se llama consentimiento por escrito. Usted tiene derecho a cambiar de opinión en cualquier momento sobre este consentimiento.
+¿Dónde puedo obtener ayuda con los derechos del paciente?
+Hay diferentes recursos que pueden ayudar si tiene un problema con sus derechos como paciente:
+Muchos hospitales tienen un defensor o procurador de pacientes. Estas son personas que le pueden guiar a través del sistema de atención médica y asegurarse de que sus derechos sean protegidos
+Su estado puede tener recursos para ayudarlo, por ejemplo:
+Su estado puede tener una oficina (llamada defensor del pueblo) para problemas con la atención a largo plazo
+El departamento de salud de su estado puede asistirle
+Los estados también tienen agencias de supervisión para compañías de seguros y varios tipos de centros y proveedores de atención médica. Estas agencias se aseguran de que estas organizaciones y proveedores cumplan con las reglas para que pueda recibir atención de calidad
+El Departamento de Salud y Servicios Humanos de los EE. UU. tiene una Oficina de Derechos Civiles (OCR, por sus siglas en inglés). Puede presentar una queja ante ellos si siente que ha sido discriminado en su atención de salud o si piensa que se han violado sus derechos de privacidad de la información médica.
+
+Groups:
+- Sistemas de salud
+- Asuntos personales de salud
+
+Related Resources:
+
+Resource: Consentimiento informado con adultos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000445.htm
+
+Resource: Consentimiento válido
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tomar-decisiones-sobre-el-tratamiento/consentimiento-valido.html
+
+Resource: Declaración de derechos del paciente
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/asuntos-financieros-y-cobertura/manejo-del-seguro-medico/declaracion-de-derechos-del-paciente.html
+
+Resource: Derechos y responsabilidades del usuario
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001947.htm
+
+Resource: Segundas opiniones quirúrgicas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/second-surgical-opinions
+
+Resource: ¿Son seguros los estudios clínicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos/son-seguros-los-estudios-clinicos

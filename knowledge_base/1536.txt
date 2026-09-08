@@ -1,0 +1,122 @@
+Title: Smoking and Youth
+
+Also Called:
+- Teen smoking
+
+Summary:
+Smoking cigarettes has many health risks for everyone. However, the younger you are when you start smoking, the more problems it can cause. People who start smoking before the age of 21 have the hardest time quitting. Teens who smoke are also more likely to use alcohol and illegal drugs.
+The problem is not just cigarettes.
+Spit tobacco
+,
+e-cigarettes
+, and cigars are not safe alternatives to cigarettes. Low-tar and additive-free tobacco products are not safe either.
+Young people who do not start using tobacco by age 18 will most likely never start.
+Centers for Disease Control and Prevention
+
+Groups:
+- Children and Teenagers
+- Substance Use and Disorders
+
+MeSH Headings:
+- Smoking
+
+Related Resources:
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Cigarette Smoking
+Category: Start Here
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/cigarette-smoking/
+
+Resource: ClinicalTrials.gov: Smoking and Youth
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=smoking&aggFilters=ages:child,status:not%20rec
+
+Resource: E-Cigarettes: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/ecigarettes.html
+
+Resource: Hookah: What's Old Is New - And Unsafe
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/tobacco/Pages/Hookah.aspx
+
+Resource: How Lungs Work
+Category: Reference Desk
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/how-lungs-work
+
+Resource: Kids and Smoking (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/smoking.html
+
+Resource: Know the Risks
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute, Tobacco Control Research Branch
+URL: https://teen.smokefree.gov/the-risks-of-tobacco/know-the-risks
+
+Resource: Menthol Tobacco Products
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/menthol-tobacco/
+
+Resource: National Institute on Drug Abuse
+Category: Find an Expert
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/
+
+Resource: Path to Smoking Addiction Starts at Very Young Ages
+Category: Related Issues
+Organization: Campaign for Tobacco-Free Kids
+URL: https://assets.tobaccofreekids.org/factsheets/0127.pdf
+
+Resource: Smoking and Youth
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Smoking%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+OR+%22Smoking%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Smoking (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/smoking.html
+
+Resource: Smoking and Asthma (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/smoking-asthma.html
+
+Resource: Smoking and Asthma (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/smoking-asthma.html
+
+Resource: Smoking Stinks! (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/smoking.html
+
+Resource: Talking to your child about smoking
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000873.htm
+
+Resource: The Real Cost: Know the Real Cost of Tobacco
+Category: Teenagers
+Organization: Department of Health and Human Services
+URL: https://therealcost.betobaccofree.hhs.gov/?g=t
+
+Resource: Tobacco Harm to Kids
+Category: Related Issues
+Organization: Campaign for Tobacco-Free Kids
+URL: https://assets.tobaccofreekids.org/factsheets/0077.pdf
+
+Resource: Youth and Tobacco Use
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/php/data-statistics/youth-data-tobacco/

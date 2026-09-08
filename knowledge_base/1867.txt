@@ -1,0 +1,88 @@
+Title: Agua potable
+
+Also Called:
+- Agua para beber
+
+Summary:
+Todos necesitamos agua para vivir. La cantidad depende de nuestra talla, el nivel de actividad y el clima donde vivimos.
+El agua potable de la llave es una combinación de aguas que se encuentran en la superficie del suelo (superficial) y aguas subterráneas. El agua superficial incluye a los ríos, lagos y represas. Las aguas subterráneas provienen del subsuelo (capa de suelo debajo de la capa superficial de la tierra). En los Estados Unidos existe uno de los suministros de agua más sanos del mundo, pero la calidad del agua potable puede variar de un lugar a otro. Esta depende de la condición de la fuente del agua y del tratamiento que recibe. El tratamiento puede incluir agregarle fluoruro para prevenir las caries y cloruro para matar a los gérmenes.
+En los Estados Unidos, su proveedor de agua potable debe enviarle informes anuales sobre el agua potable. El informe incluye de dónde viene el agua y qué
+contaminantes
+puede contener.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Alimentos y nutrición
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Agua
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/agua
+
+Resource: Agua del grifo: Lo que usted debe saber
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPDF.cgi/P1008ZO0.PDF?Dockey=P1008ZO0.PDF
+
+Resource: Agua embotellada: Cómo mantener su inocuidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/agua-embotellada-por-todas-partes-como-mantener-su-inocuidad
+
+Resource: Agua en la dieta
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002471.htm
+
+Resource: Agua fluorada
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/mitos/hoja-informativa-agua-fluorada
+
+Resource: Agua: ¿Cuánta debería beber por día?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?p=1
+
+Resource: Beber agua del grifo durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tap-water-pregnancy.html
+
+Resource: Ciencia del agua para las escuelas
+Category: Spanish/Español, Niños/as
+Organization: Servicio Geológico de los Estados Unidos, Agencia de Protección Ambiental
+URL: https://water.usgs.gov/gotita/
+
+Resource: Desinfección de agua potable en situaciones de emergencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/desinfeccion-de-agua-potable-en-situaciones-de-emergencia
+
+Resource: FDA regula la seguridad del agua envasada, incluidas el agua saborizada y el agua con nutrientes agregados
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/la-fda-regula-la-seguridad-del-agua-envasada-incluidas-el-agua-saborizada-y-el-agua-con-nutrientes
+
+Resource: Mantenga los alimentos seguros después de un desastre o una emergencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/food-safety/es/foods/mantenga-los-alimentos-seguros-despues-de-un-desastre-o-una-emergencia.html
+
+Resource: Persistencia de los plásticos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/la-persistencia-de-los-plasticos
+
+Resource: Usando el agua eficientemente: Ideas para las residencias
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://www.epa.gov/sites/default/files/2017-02/documents/ws-ourwater-residence-spanish.pdf
+
+Resource: ¿Por qué es bueno beber agua?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/water.html

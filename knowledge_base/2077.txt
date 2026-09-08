@@ -1,0 +1,53 @@
+Title: Parálisis
+
+Summary:
+La parálisis es la pérdida de las funciones musculares en parte de su cuerpo. Ocurre cuando algo funciona mal en la transmisión de los mensajes entre el cerebro y los músculos. Las parálisis pueden ser totales o parciales. Puede ocurrir en uno o en ambos lados del cuerpo. También puede ocurrir sólo en un lugar o diseminarse. La parálisis de la mitad inferior del cuerpo, que afecta a ambas piernas, se denomina paraplejia. La parálisis que afecta los brazos y las piernas es una cuadriplegia.
+La mayoría de las parálisis se deben a
+derrames
+o lesiones, como las
+lesiones de la médula espinal
+o una fractura en el cuello. Otras causas de parálisis incluyen:
+Enfermedades nerviosas, tales como la
+esclerosis lateral amiotrófica
+Enfermedades autoinmunes, como el
+síndrome de Guillain-Barré
+Parálisis de Bell
+, que afecta los músculos de la cara
+La
+polio
+(poliomielitis) solía ser una causa de parálisis, pero ya no hay casos de esta enfermedad en los Estados Unidos.
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Lesión del plexo braquial en recién nacidos
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001395.htm
+
+Resource: Parálisis periódica hipercaliémica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000316.htm
+
+Resource: Parálisis periódica hipocaliémica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000312.htm
+
+Resource: Parálisis periódica tirotóxica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000319.htm
+
+Resource: Pérdida de la función muscular
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003190.htm
+
+Resource: Úlceras de decúbito (úlceras por presión)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bed-sores/symptoms-causes/syc-20355893?p=1

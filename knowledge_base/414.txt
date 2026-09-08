@@ -1,0 +1,142 @@
+Title: Spleen Diseases
+
+Also Called:
+- Splenic diseases
+
+Summary:
+Your spleen is an organ above your stomach and under your ribs on your left side. It is about as big as your fist. The spleen is part of your
+lymphatic system
+, which fights infection and keeps your body fluids in balance. It contains white blood cells that fight germs. Your spleen also helps control the amount of blood in your body, and destroys old and damaged cells.
+Certain diseases might cause your spleen to swell. You can also damage or rupture your spleen in an injury, especially if it is already swollen. If your spleen is too damaged, you might need surgery to remove it. You can live without a spleen. Other organs, such as your liver, will take over some of the spleen's work. Without a spleen, however, your body will lose some of its ability to fight infections.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Splenic Diseases
+
+Related Resources:
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: ClinicalTrials.gov: Splenic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Splenic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Splenomegaly
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Splenomegaly%22&aggFilters=status:not%20rec
+
+Resource: Enlarged Spleen (Splenomegaly)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/enlarged-spleen/symptoms-causes/syc-20354326?p=1
+
+Resource: Hypersplenism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001314.htm
+
+Resource: Isolated congenital asplenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-congenital-asplenia
+
+Resource: Laparoscopic spleen removal in adults - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000286.htm
+
+Resource: Liver scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003825.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Open spleen removal in adults - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000287.htm
+
+Resource: Overview of the Spleen
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/spleen-disorders/overview-of-the-spleen
+
+Resource: Post-splenectomy complications
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001290.htm
+
+Resource: Spleen Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Splenic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Ruptured Spleen
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ruptured-spleen/symptoms-causes/syc-20352317?p=1
+
+Resource: Spleen (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/spleen.html
+
+Resource: Spleen and Lymphatic System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/spleen.html
+
+Resource: Spleen removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002944.htm
+
+Resource: Spleen Removal (Splenectomy) Surgery
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/patient-information-for-laparoscopic-spleen-removal-splenectomy-from-sages/
+
+Resource: Spleen removal - child - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000277.htm
+
+Resource: Spleen removal - series -- Normal anatomy
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100040_1.htm
+
+Resource: Splenectomies (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/splenectomies.html
+
+Resource: Splenectomy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/splenectomy/about/pac-20395066?p=1
+
+Resource: Splenic Sequestration (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/splenic-sequestration.html
+
+Resource: Splenomegaly
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003276.htm

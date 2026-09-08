@@ -1,0 +1,75 @@
+Title: Bursitis
+
+Also Called:
+- Inflamación de la bursa
+
+Summary:
+Una bursa es una bolsa pequeña que protege y amortigua los huesos y otras partes del cuerpo como los músculos, tendones o piel. La inflamación de la bursa se llama bursitis y se produce cuando se usa demasiado una articulación o por una lesión. Generalmente, se presenta en las rodillas o codos. Arrodillarse o apoyar los codos en una superficie dura por mucho tiempo puede desencadenar una bursitis. También, usar una articulación para hacer el mismo movimiento una y otra vez, puede agregar tensión e incrementar el riesgo.
+Los síntomas de la bursitis incluyen dolor e hinchazón. El doctor puede diagnosticarla con un examen físico y otros exámenes como rayos X y resonancias magnéticas. También puede tomar muestras de fluidos (líquidos) del área inflamada para descartar una infección.
+Por lo general la bursitis puede tratarse con reposo, hielo o medicinas. Si esto no ayuda, el doctor puede decidir inyectar un medicamento localizado, en el área alrededor de la bursa inflamada. Si aún así la bursitis no mejora dentro de los 6 a 12 meses, puede ser necesaria una cirugía para reparar el daño a los nervios y aliviar la presión sobre la bursa.
+Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Bursitis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/bursitis.html
+
+Resource: Bursitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000419.htm
+
+Resource: Bursitis de la rodilla
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/knee-bursitis/symptoms-causes/syc-20355501?p=1
+
+Resource: Bursitis retrocalcánea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001073.htm
+
+Resource: Bursitis: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bursitis/diagnosis-treatment/drc-20353247?p=1
+
+Resource: Cómo combatir la bursitis: Cuide las almohadillas de las articulaciones
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-combatir-la-bursitis
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Inyecciones (aspiraciones) articulares
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/inyecciones-aspiraciones-articulares
+
+Resource: Lesiones deportivas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/lesiones-deportivas
+
+Resource: Síndrome doloroso del trocánter mayor
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000777.htm
+
+Resource: Tendinitis (bursitis)
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/tendinitis-bursitis-espanol
+
+Resource: Ultrasonido musculoesquelético
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/musculous

@@ -1,0 +1,83 @@
+Title: Tay-Sachs Disease
+
+Summary:
+Tay-Sachs disease is a rare, inherited disease. It is a type of
+lipid metabolism disorder
+. It causes too much of a fatty substance to build up in the brain. This buildup destroys nerve cells, causing mental and physical problems.
+Infants with Tay-Sachs disease appear to develop normally for the first few months of life. Then mental and physical abilities decline. The child becomes blind, deaf, and unable to swallow. Muscles begin to waste away and paralysis sets in. Even with the best of care, children with Tay-Sachs disease usually die by age 4.
+The cause is a gene mutation which is most common in Eastern European Ashkenazi Jews. To get the disease, both parents must have the gene.  If they do, there is a 25% chance of the child having the disease. A blood test and prenatal tests can check for the gene or the disease.
+There is no cure. Medicines and good nutrition can help some symptoms. Some children need feeding tubes.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Tay-Sachs Disease
+
+Related Resources:
+
+Resource: About Tay-Sachs Disease
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Tay-Sachs-Disease
+
+Resource: ClinicalTrials.gov: Tay-Sachs Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tay-Sachs+Disease%22&aggFilters=status:not%20rec
+
+Resource: Genetic Counseling: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/geneticcounseling.html
+
+Resource: Genetic Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetictesting.html
+
+Resource: GM2 activator deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gm2-activator-deficiency/
+
+Resource: Lipid Storage Diseases
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lipid-storage-diseases
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Tay-Sachs Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tay-Sachs+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sandhoff disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sandhoff-disease/
+
+Resource: Tay-Sachs Disease
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tay-sachs.html
+
+Resource: Tay-Sachs disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001417.htm
+
+Resource: Tay-Sachs Disease: Causes, Symptoms, and Progression
+Category: Videos and Tutorials
+Organization: National Organization for Rare Disorders
+URL: https://www.youtube.com/watch?v=10TltrRvin4
+
+Resource: Tay-Sachs disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tay-sachs-disease/

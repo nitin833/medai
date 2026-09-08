@@ -1,0 +1,109 @@
+Title: Espina bífida
+
+Summary:
+La espina bífida es un
+defecto del tubo neural
+, un tipo de defecto congénito del cerebro, la columna vertebral o de la médula espinal. Ocurre si la columna vertebral del feto no se cierra completamente durante el primer mes de embarazo. Esto puede dañar los nervios y la médula espinal. Pruebas de detección durante el embarazo pueden diagnosticar espina bífida. A veces se descubre sólo después del nacimiento del bebé.
+Los síntomas de la espina bífida varían de persona a persona. La mayoría de las personas con espina bífida poseen una inteligencia normal. Otras necesitan dispositivos de asistencia, como aparatos ortopédicos, muletas o sillas de ruedas. También pueden presentar dificultades de aprendizaje, problemas urinarios e intestinales o
+hidrocefalia
+, una acumulación de líquido en el cerebro.
+Se desconoce la causa exacta de la espina bífida, aunque parece presentarse en  familias. Tomar
+ácido fólico
+puede reducir el riesgo de tener un bebé con espina bífida, y éste se encuentra en la mayoría de los suplementos multivitamínicos. Las mujeres que pueden quedar embarazadas deben tomarlo a diario.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Alfa fetoproteína
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003573.htm
+
+Resource: Amniocentesis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/amniocentesis.aspx
+
+Resource: Análisis de la sangre materna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/analisis-de-la-sangre-materna.aspx
+
+Resource: Espina bífida
+Category: Comience aquí, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/espina-bifida.aspx
+
+Resource: Espina bífida
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/espina-bifida
+
+Resource: Espina bífida (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spina-bifida.html
+
+Resource: Espina bífida: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spina-bifida/diagnosis-treatment/drc-20377865?p=1
+
+Resource: Espina bífida: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spina-bifida/symptoms-causes/syc-20377860?p=1
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Lesión del plexo branquial en recién nacidos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001558.htm
+
+Resource: Meningocele
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100128_1.htm
+
+Resource: Mielomeningocele (espina bífida aperta)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/myelomeningocele.html
+
+Resource: Prueba de AFP (alfafetoproteína)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-afp-alfafetoproteina/
+
+Resource: Reparación de meningocele
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003020.htm
+
+Resource: ¿Cuáles son los tratamientos para la espina bífida y los trastornos relacionados?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinabifida/informacion/tratamientos
+
+Resource: ¿Cómo diagnostican los proveedores de cuidado de la salud la espina bífida?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinabifida/informacion/diagnostica
+
+Resource: ¿Hay enfermedades o trastornos asociados con la espina bífida?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/spinabifida/informacion/asociados
+
+Resource: Ácido fólico: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/folicacid.html

@@ -1,0 +1,147 @@
+Title: Neural Tube Defects
+
+Summary:
+Neural tube defects are
+birth defects
+of the brain, spine, or spinal cord. They happen in the first month of pregnancy, often before a woman even knows that she is pregnant. The two most common neural tube defects are
+spina bifida
+and anencephaly. In spina bifida, the fetal spinal column doesn't close completely. There is usually nerve damage that causes at least some paralysis of the legs. In anencephaly, most of the brain and skull do not develop. Babies with anencephaly are usually either stillborn or die shortly after birth. Another type of defect,
+Chiari malformation
+, causes the brain tissue to extend into the spinal canal.
+The exact causes of neural tube defects aren't known. You're at greater risk of having an infant with a neural tube defect if you:
+Have obesity
+Have poorly controlled diabetes
+Take certain antiseizure medicines
+Getting enough
+folic acid
+, a type of B vitamin, before and during pregnancy prevents most neural tube defects.
+Neural tube defects are usually diagnosed before the infant is born, through lab or imaging tests. There is no cure for neural tube defects. The nerve damage and loss of function that are present at birth are usually permanent. However, a variety of treatments can sometimes prevent further damage and help with complications.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Neural Tube Defects
+
+Related Resources:
+
+Resource: About Neural Tube Defects (NTDs)
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/ntds/conditioninfo
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Alpha-Fetoprotein (AFP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-test/
+
+Resource: Anencephaly
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001580.htm
+
+Resource: Anencephaly
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/anencephaly.html
+
+Resource: Anencephaly: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/anencephaly
+
+Resource: Are There Disorders or Conditions Associated with Neural Tube Defects (NTDs)?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/ntds/conditioninfo/disorders
+
+Resource: Birth Disorders of the Brain and Spinal Cord
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/birth-disorders-brain-and-spinal-cord
+
+Resource: ClinicalTrials.gov: Arnold-Chiari Malformation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Arnold-Chiari+Malformation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neural Tube Defects
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neural+Tube+Defects%22&aggFilters=status:not%20rec
+
+Resource: Encephalocele
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/encephalocele.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Find a Genetic Counselor
+Category: Find an Expert
+Organization: National Society of Genetic Counselors
+URL: https://findageneticcounselor.nsgc.org
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Folic Acid: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/folicacid.html
+
+Resource: How Do Health Care Providers Diagnose Neural Tube Defects (NTDs)?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/ntds/conditioninfo/diagnosed
+
+Resource: How Many People Are at Risk for Neural Tube Defects (NTDs)?
+Category: Statistics and Research
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/ntds/conditioninfo/risk
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neural Tube Defects
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/planning-baby/neural-tube-defects
+
+Resource: Neural Tube Defects
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neural+Tube+Defects%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Spina bifida: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spina-bifida
+
+Resource: Tethered Spinal Cord Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/tethered-spinal-cord-syndrome
+
+Resource: What Are the Treatments for Neural Tube Defects (NTDs)?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/ntds/conditioninfo/treatment

@@ -1,0 +1,272 @@
+Title: Kidney Failure
+
+Also Called:
+- ESRD
+- End-stage renal disease
+- Renal failure
+
+Summary:
+Healthy kidneys clean your blood by removing excess fluid, minerals, and wastes. They also make hormones that keep your bones strong and your blood healthy. But if the kidneys are damaged, they don't work properly. Harmful wastes can build up in your body. Your blood pressure may rise. Your body may retain excess fluid and not make enough red blood cells. This is called kidney failure.
+If your kidneys fail, you need treatment to replace the work they normally do. The treatment options are
+dialysis
+or a
+kidney transplant
+. Each treatment has benefits and drawbacks. No matter which treatment you choose, you'll need to make some changes in your life, including how you eat and plan your activities. But with the help of health care providers, family, and friends, most people with kidney failure can lead full and active lives.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Kidney Failure, Chronic
+
+Related Resources:
+
+Resource: Acute kidney failure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000501.htm
+
+Resource: Acute Kidney Injury
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/kidney-failure/symptoms-causes/syc-20369048?p=1
+
+Resource: Acute tubular necrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000512.htm
+
+Resource: Alport syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alport-syndrome/
+
+Resource: Amyloidosis and Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis
+
+Resource: Anemia in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/anemia
+
+Resource: Are You at Risk of Developing Kidney Disease?: One-Minute Quiz
+Category: Health Check Tools
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-quiz/
+
+Resource: Autosomal dominant tubulointerstitial kidney disease--UMOD: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-tubulointerstitial-kidney-disease-umod/
+
+Resource: Calcium - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003603.htm
+
+Resource: Choosing a Treatment for Kidney Failure
+Category: Treatments and Therapies
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/sites/default/files/11-10-0352_choosing_treatment_kidney_failure.pdf
+
+Resource: Choosing a Treatment for Kidney Failure
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure/choosing-treatment
+
+Resource: ClinicalTrials.gov: Kidney Failure
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kidney+Failure%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Kidney Failure, Chronic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kidney+Failure,+Chronic%22&aggFilters=status:not%20rec
+
+Resource: Coping Effectively: A Guide for Patients and their Families
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/coping-effectively-guide-patients-and-their-families
+
+Resource: Creatinine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/creatinine-test/
+
+Resource: Dialysis - peritoneal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007434.htm
+
+Resource: Dialysis: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/dialysis.html
+
+Resource: End-stage kidney disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000500.htm
+
+Resource: Fibronectin glomerulopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fibronectin-glomerulopathy/
+
+Resource: Glomerular filtration rate
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007305.htm
+
+Resource: Hepatorenal syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000489.htm
+
+Resource: How Do Health Care Professionals Treat Kidney Failure in Children?
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children#kidney
+
+Resource: Keeping Kidneys Safe: Smart Choices about Medicines
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/keeping-kidneys-safe
+
+Resource: Kidney Disease Statistics for the United States
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease
+
+Resource: Kidney Failure
+Category: Living With
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidney-failure
+
+Resource: Kidney Failure
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/kidneyfailure
+
+Resource: Kidney Failure (ESRD) Symptoms, Causes and Treatment
+Category: Start Here
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/all-about-kidneys/kidney-failure-symptoms-and-causes
+
+Resource: Kidney Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kidneytests.html
+
+Resource: Kidney Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kidneytransplantation.html
+
+Resource: Lactic acidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000391.htm
+
+Resource: Mineral and Bone Disorder in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder
+
+Resource: MRI: Is Gadolinium Safe for People with Kidney Problems?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/expert-answers/gadolinium/faq-20057772?p=1
+
+Resource: My Kidney Life Toolkit
+Category: Living With
+Organization: Life Options Rehabilitation Program
+URL: https://lifeoptions.org/kidney-life/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Kidney Foundation
+Category: Find an Expert
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/
+
+Resource: Nephronophthisis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nephronophthisis/
+
+Resource: Peritonitis - secondary
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000651.htm
+
+Resource: Peritonitis - spontaneous bacterial
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000648.htm
+
+Resource: Potter syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001268.htm
+
+Resource: Prerenal azotemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000508.htm
+
+Resource: Kidney Failure
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Kidney+Failure%2C+Chronic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renal arteriography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003781.htm
+
+Resource: Renal Diet for Vegetarians: What about Protein?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/expert-answers/renal-diet/faq-20058205?p=1
+
+Resource: Renal scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003790.htm
+
+Resource: Urine 24-hour volume
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003425.htm
+
+Resource: Vaccines for Adults with Chronic Kidney Disease
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/vaccines-for-adults-with-chronic-kidney-disease
+
+Resource: Vaccines for Children with Kidney Disease
+Category: Children
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/vaccines-children-kidney-disease
+
+Resource: What is Hospice for Kidney Failure?
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/news-stories/what-hospice-kidney-failure
+
+Resource: When You Can't Do It All--Living with End-Stage Kidney Disease
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/news-stories/when-you-can-t-do-it-all-living-end-stage-kidney-disease
+
+Resource: Your Kidneys and How They Work
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work

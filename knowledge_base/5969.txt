@@ -1,0 +1,73 @@
+Title: Infecciones por Haemophilus
+
+Summary:
+Haemophilus es el nombre de un grupo de bacterias que pueden causar diferentes tipos de enfermedades que involucran la respiración, los huesos, las articulaciones y el sistema nervioso.
+Hay varios tipos de Haemophilus. Uno común es  Hib  (
+Haemophilus influenzae
+tipo b), que provoca una enfermedad grave. Por lo general afecta a niños menores de cinco años. Su niño puede contraer la enfermedad por Hib al estar cerca de otros niños o adultos que tengan la bacteria sin saberlo. Los gérmenes se propagan de persona a persona. Si los gérmenes permanecen en la nariz y en la garganta del niño, probablemente no se enferme. Pero a veces los gérmenes pasan a los pulmones o al torrente sanguíneo y entonces el Hib puede causar problemas graves como la
+meningitis
+y la
+neumonía
+.
+Existe una vacuna para prevenir la enfermedad Hib. Todos los niños menores de cinco años de edad deben ser vacunados con la vacuna Hib.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Acerca de la enfermedad por Haemophilus influenzae
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/hi-disease/es/about/acerca-de-la-enfermedad-por-haemophilusinfluenzae.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Epiglotitis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000605.htm
+
+Resource: Factores de riesgo de la enfermedad por Haemophilus influenzae
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/hi-disease/es/risk-factors/factores-de-riesgo-de-la-enfermedad-por-haemophilusinfluenzae.html
+
+Resource: Haemophilus influenzae tipo b
+Category: Spanish/Español, Síntomas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/vaccine-preventable-diseases/paginas/haemophilus-influenzae-type-b.aspx
+
+Resource: Infecciones por Haemophilus influenzae
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/infecciones-bacterianas-bacterias-gramnegativas/infecciones-por-haemophilus-influenzae
+
+Resource: Meningitis por H. influenzae
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000612.htm
+
+Resource: Síntomas y complicaciones de la enfermedad por Haemophilus influenzae
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/hi-disease/es/symptoms/sintomas-y-complicaciones-de-la-enfermedad-por-haemophilus-influenzae.html
+
+Resource: Vacuna contra el Hib (Haemophilus influenzae tipo b)
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_hib.pdf
+
+Resource: Vacunación contra Hib
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/hi-disease/es/vaccines/vacunacion-contra-hib.html
+
+Resource: Vacunas de su hijo: Vacuna contra la Haemophilus influenzae tipo b (Hib)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hib-vaccine.html

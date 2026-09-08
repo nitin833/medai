@@ -1,0 +1,93 @@
+Title: Incendios forestales
+
+Summary:
+Los incendios forestales son fuegos fuera de control en un área natural, como bosques, pastizales o praderas. A menudo comienzan inadvertidos. Se propagan rápidamente y pueden dañar recursos naturales, destruir hogares y amenazar la seguridad de la población y de los bomberos.
+Los seres humanos causan la mayoría de los incendios forestales. Pueden ocurrir por accidente, como cuando las personas no prestan atención a una fogata, queman escombros o son descuidados al botar los cigarrillos. También pueden provocarse a propósito, a lo que se llama incendio premeditado. Los rayos y la
+lava
+también pueden causar incendios forestales. Estos son más comunes cuando las condiciones son secas. Los vientos fuertes pueden hacer que avancen más rápidamente.
+Aunque no hay garantías de seguridad si usted vive en un área amenazada por un incendio forestal, puede tomar medidas para protegerse. Usted debe tener un
+plan para desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si experimenta un desastre, es normal sentirse estresado. Es posible que necesite ayuda para encontrar
+formas para afrontarlo
+.
+Agencia Federal para el Manejo de Emergencias
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Cree una habitación limpia para proteger la calidad del aire interior durante un incendio forestal
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/cai/cree-una-habitacion-limpia-para-proteger-la-calidad-del-aire-interior-durante-un-incendio
+
+Resource: Cómo el humo de los incendios forestales afecta el cuerpo
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/wildfires/es/risk-factors/como-el-humo-de-los-incendios-forestales-afecta-el-cuerpo.html
+
+Resource: Cómo prepararse para los incendios forestales
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/wildfires/es/safety/como-prepararse-para-los-incendios-forestales.html
+
+Resource: Esté listo para el humo
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://www.airnow.gov/es/wildfires/be-smoke-ready/
+
+Resource: Humo de incendios forestales
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/nceh/especiales/incendiosforestales/index.html
+
+Resource: Humo de los incendios forestales
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/wildfires/smoke.html
+
+Resource: Incendios forestales
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/incendios-forestales
+
+Resource: Incendios forestales
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/wildfires/
+
+Resource: Incendios forestales: Información para los padres
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-home/paginas/wildfires-information-for-parents.aspx
+
+Resource: Lesiones por inhalación: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/inhalationinjuries.html
+
+Resource: Listo niños
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/kids
+
+Resource: Manténgase seguro después de un incendio forestal
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/wildfires/afterfire.html
+
+Resource: Prepárese para la temporada de incendios
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPDF.cgi/P1014530.PDF?Dockey=P1014530.PDF
+
+Resource: Proteja sus pulmones del  humo o las cenizas provocados  por los incendios forestales
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPDF.cgi/P1014538.PDF?Dockey=P1014538.PDF
+
+Resource: Protéjase de los incendios forestales y del humo de estos incendios
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/wildfires/es/safety/protejase-de-los-incendios-forestales-y-del-humo-de-estos-incendios.html

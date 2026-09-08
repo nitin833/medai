@@ -1,0 +1,98 @@
+Title: Trastornos del pericardio
+
+Also Called:
+- Trastornos pericardiales
+- Trastornos pericardíacos
+
+Summary:
+El pericardio es una membrana o saco, que rodea el corazón. Sostiene el corazón en su lugar y ayuda a que funcione correctamente. Los problemas con el pericardio incluyen:
+La pericarditis, una inflamación del saco. Puede ser causada por un virus u otra infección, ataque al corazón, cirugía de corazón, otras afecciones médicas, lesiones y ciertos medicamentos
+Derrame pericárdico, acumulación de líquido en el saco
+Taponamiento cardíaco, un problema grave en el cual la acumulación de líquido en el saco causa problemas con el funcionamiento del corazón
+Los síntomas de los problemas pericárdicos incluyen dolor en el pecho, palpitaciones y dificultad para respirar. La fiebre es un síntoma común de pericarditis aguda. Para el diagnóstico, su doctor puede hacer un examen físico, pruebas con imágenes y/o pruebas para el corazón. El tratamiento depende de la causa.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Anatomía del corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Cultivo del líquido pericárdico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003720.htm
+
+Resource: Derrame pericárdico
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pericardial-effusion/symptoms-causes/syc-20353720?p=1
+
+Resource: Pericardiocentesis
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003872.htm
+
+Resource: Pericarditis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/pericarditis/
+
+Resource: Pericarditis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000182.htm
+
+Resource: Pericarditis aguda
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-coraz%C3%B3n-y-los-vasos-sangu%C3%ADneos/enfermedad-peric%C3%A1rdica-del-pericardio-y-miocarditis/pericarditis-aguda
+
+Resource: Pericarditis constrictiva
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001103.htm
+
+Resource: Pericarditis crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-coraz%C3%B3n-y-los-vasos-sangu%C3%ADneos/enfermedad-peric%C3%A1rdica-del-pericardio-y-miocarditis/pericarditis-cr%C3%B3nica
+
+Resource: Pericarditis después de un ataque cardíaco
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000166.htm
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Resonancia magnética del corazón
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003795.htm
+
+Resource: Síndrome de Dressler
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dresslers-syndrome/symptoms-causes/syc-20371811?p=1
+
+Resource: Taponamiento cardíaco
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000194.htm
+
+Resource: Tinción de Gram del líquido pericárdico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003719.htm
+
+Resource: ¿Qué es la inflamación cardíaca?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/inflamacion-cardiaca

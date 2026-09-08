@@ -1,0 +1,233 @@
+Title: Bone Cancer
+
+Summary:
+Cancer that starts in a bone is uncommon.  Cancer that has spread to the bone from another part of the body is more common.
+There are three types of bone cancer:
+Osteosarcoma - occurs most often between ages 10 and 19. It is more common in the knee and upper arm.
+Chondrosarcoma - starts in cartilage, usually after age 40
+Ewing's sarcoma - occurs most often in children and teens under 19. It is more common in boys than girls.
+The most common symptom of bone cancer is pain. Other symptoms vary, depending on the location and size of the cancer. Surgery is often the main treatment for bone cancer. Other treatments may include amputation, chemotherapy, and radiation therapy. Because bone cancer can come back after treatment, regular follow-up visits are important.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Bone Neoplasms
+
+Related Resources:
+
+Resource: After Bone Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/after-treatment.html
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Bone and Joint Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/bones.html
+
+Resource: Bone Biopsy
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonebiopsy
+
+Resource: Bone Cancer
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer.html
+
+Resource: Bone Cancer Causes, Risk Factors, and Prevention
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/causes-risks-prevention.html
+
+Resource: Bone Cancer Stages
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/detection-diagnosis-staging/staging.html
+
+Resource: Bone lesion biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003923.htm
+
+Resource: Bone Metastasis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bone-metastasis/symptoms-causes/syc-20370191?p=1
+
+Resource: Bone Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bone-scan/about/pac-20393136?p=1
+
+Resource: Bone scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003833.htm
+
+Resource: Bone tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001230.htm
+
+Resource: Bone Tumor
+Category: Start Here
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/bone-tumor/
+
+Resource: Bone x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003808.htm
+
+Resource: Childhood Chordoma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/child-chordoma-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chordoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chordoma/
+
+Resource: ClinicalTrials.gov: Bone Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bone+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Osteosarcoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Osteosarcoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Sarcoma, Ewing
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Sarcoma,+Ewing's%22&aggFilters=status:not%20rec
+
+Resource: Drugs Approved for Bone Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/bone
+
+Resource: Ewing sarcoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001302.htm
+
+Resource: Ewing sarcoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ewing-sarcoma/
+
+Resource: General Information about Ewing Sarcoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq#_1
+
+Resource: General Information about Osteosarcoma and Undifferentiated Pleomorphic Sarcoma (UPS) of Bone
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq#_1
+
+Resource: Joint x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003810.htm
+
+Resource: Key Statistics about Bone Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/key-statistics.html
+
+Resource: Li-Fraumeni syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/li-fraumeni-syndrome/
+
+Resource: Metastatic Bone Disease
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/metastatic-bone-disease/
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Osteosarcoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001650.htm
+
+Resource: Osteosarcoma
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cancer-osteosarcoma.html
+
+Resource: Primary Bone Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/bone-fact-sheet
+
+Resource: Bone cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Signs and Symptoms of Bone Cancer
+Category: Symptoms
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/detection-diagnosis-staging/signs-symptoms.html
+
+Resource: Stages of Ewing Sarcoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq#_28
+
+Resource: Surgery for Bone Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/treating/surgery.html
+
+Resource: Tests for Bone Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/bone-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Thoracic spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: TP53 Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tp53-genetic-test/
+
+Resource: Treatment Option Overview (Ewing Sarcoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq#_47
+
+Resource: Treatment Option Overview (Osteosarcoma or Undifferentiated Pleomorphic Sarcoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq#_50

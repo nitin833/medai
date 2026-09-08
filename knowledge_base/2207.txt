@@ -1,0 +1,38 @@
+Title: Esclerosis tuberosa
+
+Summary:
+La esclerosis tuberosa es un trastorno genético raro que causa el crecimiento de tumores no cancerosos en el cerebro y otros órganos. Los síntomas varían dependiendo de la ubicación de los tumores. Los síntomas pueden incluir:
+Problemas con la piel, como zonas de piel claras y gruesas
+Convulsiones
+Problemas de conducta
+Discapacidades del aprendizaje
+Problemas renales
+Algunas personas presentan signos de esclerosis tuberosa al momento de nacer. En otras el desarrollo de los síntomas puede tomarse más tiempo. La enfermedad puede ser leve en algunos casos o provocar severas limitaciones. En casos raros, los tumores en los órganos vitales u otros síntomas pueden amenazar la vida.
+La esclerosis tuberosa no tiene cura, pero los tratamientos pueden ayudar a disminuir los síntomas. Las opciones incluyen medicinas, terapia educacional y ocupacional, cirugía para la afección o para tratar complicaciones específicas.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Complejo de esclerosis tuberosa
+Category: Más información, Spanish/Español
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17041/el-complejo-de-esclerosis-tuberosa/
+
+Resource: Esclerosis tuberosa
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000787.htm
+
+Resource: Esclerosis tuberosa (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tuberous-sclerosis.html
+
+Resource: Esclerosis tuberosa: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/tuberous-sclerosis/diagnosis-treatment/drc-20365971?p=1

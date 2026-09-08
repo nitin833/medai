@@ -1,0 +1,81 @@
+Title: Medical Ethics
+
+Summary:
+The field of ethics studies principles of right and wrong. There is hardly an area in medicine that doesn't have an ethical aspect. For example, there are ethical issues relating to
+:
+End of life care
+: Should a patient receive
+nutrition
+? What about
+advance directives
+and resuscitation orders?
+Abortion
+: When does life begin? Is it ethical to terminate a pregnancy with a birth defect?
+Genetic
+and
+prenatal
+testing: What happens if you are a carrier of a defect? What if testing shows that your unborn baby has a defect?
+Birth control
+: Should it be available to minors?
+Is it ethical to harvest embryonic
+stem cells
+to treat diseases?
+Organ donation
+: Must a relative donate an organ to a sick relative?
+Your personal health information: who has access to your
+records
+?
+Patient rights
+: Do you have the right to refuse treatment?
+When you
+talk with your doctor
+, is it ethical for her to withhold information from you or your family?
+
+Groups:
+- Social/Family Issues
+- Health System
+- Personal Health Issues
+
+MeSH Headings:
+- Ethics, Medical
+
+Related Resources:
+
+Resource: AI in Healthcare
+Category: Learn More
+Organization: Hastings Center
+URL: https://www.thehastingscenter.org/briefingbook/ai-in-healthcare/
+
+Resource: End of Life Care
+Category: Learn More
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/age-friendly-healthcare-you/care-what-matters-most/end-life-care
+
+Resource: Genetic Discrimination
+Category: Learn More
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination
+
+Resource: Organ Transplantation
+Category: Learn More
+Organization: Hastings Center
+URL: https://www.thehastingscenter.org/briefingbook/organ-transplantation/
+
+Resource: Psychiatric Advance Directives
+Category: Learn More
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/psychiatric-advance-directives-1
+
+Resource: Medical Ethics
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ethics%2C+Medical%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Research Ethics Timeline
+Category: Learn More
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/research/resources/bioethics/timeline
+
+Resource: What Is Ethics in Research and Why Is It Important?
+Category: Learn More
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/research/resources/bioethics/whatis

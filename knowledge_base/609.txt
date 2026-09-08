@@ -1,0 +1,218 @@
+Title: Teen Health
+
+Also Called:
+- Adolescent health
+
+Summary:
+As a teenager, you go through many changes. Your body is on its way to becoming its adult size. You may notice that you can't fit into your old shoes or that your jeans are now 3 inches too short. Along with these changes, you are probably becoming more independent and making more of your own choices. Some of the biggest choices you face are about your health.
+Healthy habits, including eating a healthy diet and being physically active, can help you feel good, look good, and do your best in school, work, or sports. They might also prevent diseases such as diabetes, high blood pressure, heart disease, osteoporosis, stroke, and some cancers when you are older.
+
+Groups:
+- Children and Teenagers
+- Population Groups
+
+MeSH Headings:
+- Adolescent, Hospitalized
+- Adolescent Health Services
+- Adolescent Health
+
+Related Resources:
+
+Resource: 7 Things to Know about Mind and Body Practices for Children and Teens
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-mind-and-body-practices-for-children-and-teens
+
+Resource: Adolescent and Young Adult Health
+Category: Statistics and Research
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions
+
+Resource: Ages and Stages: Teen
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx
+
+Resource: Body Image and Self-Esteem
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/body-image.html
+
+Resource: Child and Teen BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/child-teen-calculator/index.html
+
+Resource: Choosing a Primary Health Care Provider (PCP): General Information
+Category: Related Issues
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/choosing-a-doctor/
+
+Resource: ClinicalTrials.gov: Adolescent Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=adolescent+health&aggFilters=status:not%20rec
+
+Resource: Compulsive Exercise
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/compulsive-exercise.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: FastStats: Adolescent Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/adolescent-health.htm
+
+Resource: Female Athlete Triad
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/triad.html
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Gyn Checkups
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/obgyn.html
+
+Resource: How Much Sleep Do I Need? (For Teens)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/how-much-sleep.html
+
+Resource: How's Your Self-Esteem? (Quiz)
+Category: Health Check Tools
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/self-esteem-quiz.html
+
+Resource: Hygiene Basics
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hygiene-basics.html
+
+Resource: Is It OK for My Child to Use Skin Care Products?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/skincare-products.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Media and Body Image
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/media-and-body-image
+
+Resource: Medical Care and Your 13- to 18-Year-Old
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/medical-care-13-18.html
+
+Resource: Teen Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Adolescent+Health%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+OR+%22Adolescent+Health+Services%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+OR+%22Adolescent%2C+Hospitalized%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Smoking and Youth: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/smokingandyouth.html
+
+Resource: Take Charge of Your Health: A Guide for Teenagers
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers
+
+Resource: Talking to Your Doctor (For Teens)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/talk-doctor.html
+
+Resource: Teen Sexual Health: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/teensexualhealth.html
+
+Resource: Teenagers and sleep
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000872.htm
+
+Resource: Teenagers: How to Stay Healthy
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/teenagers-how-to-stay-healthy/
+
+Resource: TeensHealth
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/
+
+Resource: TeensHealth: Q&A
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/expert/
+
+Resource: Testicular Exams
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/testicles.html
+
+Resource: Underage Drinking: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/underagedrinking.html
+
+Resource: Understanding Medicines and What They Do
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/meds.html
+
+Resource: Vaccinations for Preteens and Teens
+Category: Prevention and Risk Factors
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4020.pdf
+
+Resource: Vaccines by Age
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/by-age/
+
+Resource: What Are Germs?
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/germs.html
+
+Resource: What Are the Risks of Steroid Use?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/steroids.html
+
+Resource: What's the Right Weight for My Height? (For Teens)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/weight-height.html
+
+Resource: When To Let Your Teenager Start Dating
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/teen/dating-sex/pages/when-to-let-your-teenager-start-dating.aspx
+
+Resource: Your First Pelvic Exam
+Category: Related Issues
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/pelvic-exam/
+
+Resource: Youth Risk Behavior Surveillance System
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yrbs/

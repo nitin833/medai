@@ -1,0 +1,122 @@
+Title: Salud de las mascotas
+
+Summary:
+Las mascotas pueden agregarle diversión, compañía y una sensación de seguridad a su vida. Antes de adquirir una mascota, piense cuidadosamente acerca de qué animal es el mejor para su familia. ¿Qué es lo que cada integrante de la familia busca en una mascota? ¿Quién va a cuidarla? ¿Alguna persona en la casa es alérgica a los animales? ¿Qué tipo de animal se ajusta a su estilo de vida y presupuesto?
+Cuando ya tenga una mascota, manténgala sana. Aprenda a reconocer los signos de problemas médicos. Lleve a su mascota al veterinario si observa:
+Pérdida del apetito
+Consumo excesivo de agua
+Aumento o pérdida de peso en forma rápida
+Comportamiento fuera de lo común
+Cansancio y pereza
+Dificultad para levantarse o acostarse
+Abultamientos extraños
+
+Groups:
+- Bienestar y estilo de vida
+
+Related Resources:
+
+Resource: Almacene adecuadamente los medicamentos para mantener a su mascota segura
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/animal-veterinary/animal-health-literacy/almacene-adecuadamente-los-medicamentos-para-mantener-su-mascota-segura
+
+Resource: Artículos potencialmente peligrosos para su mascota
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/animal-veterinary/animal-health-literacy/articulos-potencialmente-peligrosos-para-su-mascota
+
+Resource: Cómo prevenir las garrapatas en las mascotas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/ticks/es/prevention/como-prevenir-las-garrapatas-en-las-mascotas.html
+
+Resource: Cómo seleccionar un veterinario
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Americana de Medicina Veterinaria
+URL: https://ebusiness.avma.org/files/productdownloads/LR_COM_ClientBroch_ChoosingaVet_Spanish.pdf
+
+Resource: Cómo tratar la enfermedad de Cushing en los perros
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/como-tratar-la-enfermedad-de-cushing-en-los-perros
+
+Resource: Errores de medicación también ocurren en las mascotas
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-errores-de-medicacion-tambien-ocurren-en-las-mascotas
+
+Resource: Humo de segunda mano (y el humo que se impregna en los objetos) puede enfermar a su mascota
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/el-humo-de-segunda-mano-y-el-humo-que-se-impregna-en-los-objetos-puede-enfermar-su-mascota
+
+Resource: Mascotas y la persona inmunocomprometida
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003967.htm
+
+Resource: Medicamentos para su mascota: ¿Cuál es la diferencia entre los medicamentos aprobados por la FDA y los preparados en farmacia?
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/medicamentos-para-su-mascota-cual-es-la-diferencia-entre-los-medicamentos-aprobados-por-la-fda-y-los
+
+Resource: Mi perro tiene cáncer. ¿Qué necesito saber?
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/mi-perro-tiene-cancer-que-necesito-saber
+
+Resource: Peligros domésticos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Americana de Medicina Veterinaria
+URL: https://ebusiness.avma.org/files/ProductDownloads/mcm-client-brochures-household-hazards-spanish-2022.pdf
+
+Resource: Poder de las mascotas: Beneficios para la salud por interacciones entre humanos y animales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-poder-de-las-mascotas
+
+Resource: Prevención de mordeduras de perros
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Asociación Americana de Medicina Veterinaria
+URL: https://ebusiness.avma.org/files/productdownloads/LR_COM_ClientBroch_DogBitePrevention_Spanish_022616.pdf
+
+Resource: Proteja a su mascota de los parásitos del corazón durante todo el año
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/proteja-su-mascota-de-los-parasitos-del-corazon-durante-todo-el-ano
+
+Resource: Pulgas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001329.htm
+
+Resource: Uso seguro de los productos para eliminar pulgas y garrapatas en las mascotas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/uso-seguro-de-los-productos-para-eliminar-pulgas-y-garrapatas-en-las-mascotas
+
+Resource: Vacunar a su mascota
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Asociación Americana de Medicina Veterinaria
+URL: https://ebusiness.avma.org/files/productdownloads/LR_COM_ClientBrochure_VaccinationsSpanish_041516.pdf
+
+Resource: Xilitol es peligroso para los perros, manténgalo fuera de su alcance
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/el-xilitol-es-peligroso-para-los-perros-mantengalo-fuera-de-su-alcance
+
+Resource: ¡Mantenga a los parásitos fuera del corazón de su mascota! Información sobre la enfermedad del parásito del corazón
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/animal-veterinary/animal-health-literacy/mantenga-los-parasitos-fuera-del-corazon-de-su-mascota-informacion-sobre-la-enfermedad-del-parasito
+
+Resource: ¿Tiene mi perro o gato un peso saludable?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/tiene-mi-perro-o-gato-un-peso-saludable-preguntas-importantes-que-debe-hacer-al-veterinario
+
+Resource: ¿Tiene preguntas sobre la salud de su mascota?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/tiene-preguntas-sobre-la-salud-de-su-mascota

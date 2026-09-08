@@ -1,0 +1,163 @@
+Title: Vacunas para los niños
+
+Also Called:
+- Inyecciones
+- Vacunación de los niños
+
+Summary:
+¿Qué son las vacunas?
+Las
+vacunas
+son inyecciones, líquidos, pastillas o aerosoles nasales que usted toma para enseñarle al
+sistema inmunitario
+de su cuerpo a reconocer y defenderse de gérmenes dañinos.  Estos gérmenes pueden ser
+virus
+o
+bacterias
+.
+Algunos tipos de vacunas contienen gérmenes que causan enfermedades, pero estos gérmenes han sido eliminados o debilitados lo suficiente como para que no enfermen a su hijo. Otras solo contienen una parte del germen. Otros tipos de vacunas incluyen instrucciones para sus células con el fin de fabricar una proteína de un germen.
+Estas diferentes vacunas son capaces de desencadenar una respuesta inmunitaria que ayuda al cuerpo a combatirlos. El sistema inmunitario de su hijo también recordará el germen y lo atacará si vuelve a invadirlo. Esta protección contra una determinada enfermedad se llama inmunidad.
+¿Por qué necesito vacunar a mi hijo?
+Los bebés nacen con un sistema inmunitario que puede combatir la mayoría de los gérmenes, pero hay algunas enfermedades graves que no pueden enfrentar. Por ello, necesitan vacunas para fortalecer su sistema inmunitario.
+En el pasado, estas afecciones mataron o dañaron a muchos bebés, niños y adultos. Pero, con las vacunas, hoy su hijo puede inmunizarse contra estas enfermedades sin tener que enfermarse. Y en el caso de algunas vacunas, la inmunización puede brindarle una mejor respuesta inmunitaria que la que obtendría al contagiarse de la enfermedad.
+Vacunar a su hijo también protege a los demás. En general, los gérmenes pueden viajar muy rápido a través de una comunidad y enfermar a muchas personas. Si se enferman suficientes personas, puede provocar un brote. Pero cuando se vacuna a suficientes personas contra una determinada afección, es más difícil que esa enfermedad se transmita a otras personas. La comunidad entera tiene menos probabilidades de contraer la enfermedad. Esto se conoce como "inmunidad comunitaria" o "inmunidad colectiva".
+La inmunidad comunitaria es especialmente importante para las personas que no pueden recibir ciertas vacunas. Por ejemplo, es posible que no puedan recibir una vacuna porque tienen un sistema inmunitario debilitado. Otros pueden ser alérgicos a ciertos ingredientes de la vacuna. Y los bebés recién nacidos son demasiado pequeños para recibir algunas inmunizaciones. La inmunidad comunitaria puede ayudar a protegerlos a todos.
+¿Son seguras las vacunas para los niños?
+Las vacunas son seguras. Deben pasar por completas pruebas y evaluaciones de seguridad antes de ser aprobadas en los Estados Unidos.
+A algunas personas les preocupa que las vacunas para niños puedan causar
+trastorno del espectro autista
+. Pero muchos estudios científicos han analizado esto y no han encontrado ningún vínculo entre las vacunas y el autismo.
+¿Pueden las vacunas sobrecargar el sistema inmunitario de mi hijo?
+No, las vacunas no sobrecargan el sistema inmunitario. Todos los días, el sistema inmunitario de un niño sano combate con éxito miles de gérmenes. Cuando su hijo recibe vacunas, los gérmenes están debilitados o muertos. Entonces, incluso si reciben varias vacunas en un día, están expuestos a una pequeña cantidad de gérmenes en comparación con lo que encuentran todos los días en su entorno.
+¿Cuándo necesito vacunar a mi hijo?
+Su hijo recibirá vacunas en las
+visitas de niño sano
+. Se administrarán de acuerdo al calendario de vacunación. Este programa enumera las vacunas recomendadas para los niños. Incluye quiénes deben recibir las vacunas, cuántas dosis necesitan y a qué edad deben recibirlas. Los Centros para el Control y la Prevención de Enfermedades (CDC) publican el calendario de vacunas en EE. UU.
+Seguir el calendario de vacunas permite que su hijo reciba protección contra las enfermedades exactamente en el momento adecuado. Le da a su cuerpo la oportunidad de desarrollar inmunidad antes de exponerse a enfermedades muy graves.
+
+Groups:
+- Niños y adolescentes
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Calendario de vacunación
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/immunization-chart.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Guía para niños sobre vacunas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/guide-shots.html
+
+Resource: Información básica sobre las vacunas
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/es/basics/informacion-basica-sobre-las-vacunas.html
+
+Resource: Inmunizaciones (vacunas) para los bebés prematuros
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/immunizations/paginas/immunizations-for-preterm-babies.aspx
+
+Resource: Mejor protección contra el sarampión es la vacunación
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/la-mejor-proteccion-contra-el-sarampion-es-la-vacunacion
+
+Resource: Preguntas frecuentes sobre las vacunas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/fact-myth-immunizations.html
+
+Resource: Seguridad de las vacunas: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/vaccinesafety.html
+
+Resource: Vacuna contra DTaP (difteria, tétanos y tos ferina): Lo que usted necesita saber
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007594.htm
+
+Resource: Vacuna contra MMRV: Lo que usted necesita saber
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_mmrv.pdf
+
+Resource: Vacunas
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002024.htm
+
+Resource: Vacunas de refuerzo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/booster-shots.html
+
+Resource: Vacunas de su hijo
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vaccine.html
+
+Resource: Vacunas para niños: preguntas difíciles, respuestas sencillas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334?p=1
+
+Resource: Vacunas para preadolescentes y adolescentes
+Category: Adolescentes, Spanish/Español, Asuntos relacionados
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4020-spa.pdf
+
+Resource: Vacunas para preadolescentes, adolescentes y adultos jóvenes
+Category: Adolescentes, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/immunizations/paginas/immunizations-for-teenagers-and-young-adults.aspx
+
+Resource: Vacunas por edad
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/es/by-age/vacunas-por-edad.html
+
+Resource: Vacunas protegen a los niños de enfermedades infecciosas perjudiciales
+Category: Spanish/Español, Niños/as
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/las-vacunas-protegen-los-ninos-de-enfermedades-infecciosas-perjudiciales
+
+Resource: ¡Los niños más grandes y los adolescentes también necesitan vacunas!
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/imz-schedules/adolescent-easyread-es.html
+
+Resource: ¡Su hijo o hija necesita vacunas a medida que crece!
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/imz-schedules/child-easyread-es.html
+
+Resource: ¿Existe una conexión entre las vacunas y el autismo?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/autism-studies.html
+
+Resource: ¿Necesitan vacunarse mis hijos antes de viajar al extranjero?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/travel-vaccinations.html
+
+Resource: ¿Qué es la inmunidad de rebaño?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/herd-immunity.html
+
+Resource: ¿Qué puedo hacer para disminuir el miedo de mi hijo a ponerse inyecciones?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/scared-shots.html

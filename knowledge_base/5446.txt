@@ -1,0 +1,254 @@
+Title: Small Intestine Disorders
+
+Summary:
+Your small intestine is the longest part of your digestive system - about twenty feet long!  It connects your stomach to your large intestine (or colon) and folds many times to fit inside your abdomen. Your small intestine does most of the digesting of the foods you eat.  It has three areas called the duodenum, the ileum, and the jejunum.
+Problems with the small intestine can include:
+Bleeding
+Celiac disease
+Crohn's disease
+Infections
+Intestinal cancer
+Intestinal obstruction
+Irritable bowel syndrome
+Ulcers, such as
+peptic ulcer
+Treatment of disorders of the small intestine depends on the cause.
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Jejunal Diseases
+- Duodenal Diseases
+- Ileal Diseases
+
+Related Resources:
+
+Resource: American College of Gastroenterology
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Capsule Endoscopy
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/capsule-endoscopy/about/pac-20393366?p=1
+
+Resource: ClinicalTrials.gov: Duodenal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Duodenal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ileal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ileal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Intestinal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intestinal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Culture - duodenal tissue
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003730.htm
+
+Resource: Disorders of the Small Intestine
+Category: Specifics
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://aboutgimotility.org/learn-about-gi-motility/disorders-of-the-small-intestine/
+
+Resource: Duodenal atresia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001131.htm
+
+Resource: EGD - esophagogastroduodenoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003888.htm
+
+Resource: EGD discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000898.htm
+
+Resource: Enteritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001149.htm
+
+Resource: Enteroclysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003818.htm
+
+Resource: Enteroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003889.htm
+
+Resource: Fecal Occult Blood Test (FOBT)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/
+
+Resource: Ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007378.htm
+
+Resource: Intestinal Malrotation
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/malrotation.html
+
+Resource: Intestine
+Category: Treatments and Therapies
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/resources/intestine
+
+Resource: Meckel diverticulectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002929.htm
+
+Resource: Meckel diverticulum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000234.htm
+
+Resource: Meckel's diverticulectomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100092_1.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Necrotizing enterocolitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001148.htm
+
+Resource: Necrotizing Enterocolitis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nec.html
+
+Resource: Necrotizing Enterocolitis (NEC)
+Category: Children
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/nec
+
+Resource: Ostomy Surgery of the Bowel
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Ova and Parasite Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ova-and-parasite-test/
+
+Resource: Small Intestine Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ileal+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Duodenal+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Jejunal+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rare Infections: Yersinia Enterocolitica and Yersinia Pseudotuberculosis
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Rare-Infections-Yersinia-Enterocolitica-and-Yersinia-Pseudotuberculosis.aspx
+
+Resource: Short bowel syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000237.htm
+
+Resource: Short Bowel Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/short-bowel-syndrome
+
+Resource: Short Bowel Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/short-bowel-syndrome.html
+
+Resource: Short Bowel Syndrome and Intestinal Failure
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/digestive-topics/short-bowel-syndrome/
+
+Resource: Small bowel bacterial overgrowth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000222.htm
+
+Resource: Small Bowel Bleeding
+Category: Diagnosis and Tests
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/small-bowel-bleeding/
+
+Resource: Small Bowel Follow-Through
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/small-bowel-follow-thru
+
+Resource: Small bowel resection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002943.htm
+
+Resource: Small bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000152.htm
+
+Resource: Small bowel resection - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100039_1.htm
+
+Resource: Small Intestinal Bacterial Overgrowth (SIBO)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/small-intestinal-bacterial-overgrowth/symptoms-causes/syc-20370168?p=1
+
+Resource: Small intestine aspirate and culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003731.htm
+
+Resource: Smear of duodenal fluid aspirate
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003729.htm
+
+Resource: Superior Mesenteric Artery Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7712/superior-mesenteric-artery-syndrome/
+
+Resource: Upper GI and small bowel series
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003816.htm
+
+Resource: Upper GI Series
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series
+
+Resource: Your Digestive System and How It Works
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works

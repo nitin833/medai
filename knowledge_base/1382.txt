@@ -1,0 +1,96 @@
+Title: Polymyalgia Rheumatica
+
+Summary:
+Polymyalgia rheumatica is a disorder that causes muscle pain and stiffness in your neck, shoulders, and hips. It is most common in women and almost always occurs in people over 50. The main symptom is stiffness after resting. Other symptoms include
+fever
+, weakness and weight loss. In some cases, polymyalgia rheumatica develops overnight. In others, it is gradual.
+The cause of polymyalgia rheumatica is unknown. There is no specific test for it. Your doctor will use your medical history, symptoms, and a physical exam to make the diagnosis. Lab tests for inflammation may help confirm the diagnosis.
+Polymyalgia rheumatica sometimes occurs along with
+giant cell arteritis
+, a condition that causes swelling of the arteries in your head. Symptoms include headaches and blurred vision.  Doctors often prescribe prednisone, a
+steroid
+medicine, for both conditions. With treatment, polymyalgia rheumatica usually disappears in a day or two. Without treatment, it usually goes away after a year or more.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Polymyalgia Rheumatica
+
+Related Resources:
+
+Resource: American College of Rheumatology
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/
+
+Resource: C-Reactive Protein (CRP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+
+Resource: ClinicalTrials.gov: Polymyalgia Rheumatica
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Polymyalgia+Rheumatica%22&aggFilters=status:not%20rec
+
+Resource: Erythrocyte Sedimentation Rate (ESR)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/erythrocyte-sedimentation-rate-esr/
+
+Resource: ESR
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003638.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Polymyalgia rheumatica
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000415.htm
+
+Resource: Polymyalgia Rheumatica
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/polymyalgia-rheumatica
+
+Resource: Polymyalgia Rheumatica
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/polymyalgia-rheumatica/symptoms-causes/syc-20376539?p=1
+
+Resource: Polymyalgia Rheumatica and Giant Cell Arteritis
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/polymyalgia-rheumatica-giant-cell-arteritis
+
+Resource: Prednisone
+Category: Treatments and Therapies
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/vasculitis-treatments/prednisone/
+
+Resource: Prednisone and Other Corticosteroids: Balance the Risks and Benefits
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cortisone-shots/in-depth/steroids/art-20045692?p=1
+
+Resource: Polymyalgia rheumatica
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Polymyalgia+Rheumatica%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rheumatology Provider Directory
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://my.rheumatology.org/rheumatology-provider-directory
+
+Resource: What is Vasculitis?
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/vasculitis

@@ -1,0 +1,124 @@
+Title: Impaired Driving
+
+Also Called:
+- Distracted driving
+- Drugged driving
+- Drunk driving
+
+Summary:
+Impaired driving is dangerous. It's the cause of more than half of all car crashes.  It means operating a motor vehicle while you are affected by:
+Alcohol
+Legal or illegal drugs
+Sleepiness
+Distractions, such as using a cell phone or texting
+Having a medical condition which affects your driving
+For your safety and the safety of others, do not drive while impaired.  Have someone else drive you or take public transportation when you cannot drive. If you need to take a call or send a text message, pull over.
+National Highway Traffic Safety Administration
+
+Groups:
+- Safety Issues
+
+MeSH Headings:
+- Driving Under the Influence
+- Distracted Driving
+
+Related Resources:
+
+Resource: Alcohol-Impaired Driving
+Category: Statistics and Research
+Organization: National Highway Traffic Safety Administration
+URL: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813713
+
+Resource: Blood Alcohol Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-alcohol-level/
+
+Resource: Breath alcohol test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003632.htm
+
+Resource: ClinicalTrials.gov: Driving Under the Influence
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Driving+Under+the+Influence%22&aggFilters=status:not%20rec
+
+Resource: Dangers of Distracted Driving
+Category: Start Here
+Organization: Federal Communications Commission
+URL: https://www.fcc.gov/consumers/guides/dangers-texting-while-driving
+
+Resource: Dementia and driving
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000028.htm
+
+Resource: Distracted driving
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000818.htm
+
+Resource: Distracted Driving
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/distracted-driving/about/
+
+Resource: Distracted Driving in 2024
+Category: Statistics and Research
+Organization: National Highway Traffic Safety Administration
+URL: https://crashstats.nhtsa.dot.gov/Api/Public/Publication/813790
+
+Resource: Driving after Stroke
+Category: Specifics
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/life-after-stroke/recovery/daily-living/driving-after-stroke
+
+Resource: Driving Safety and Alzheimer's Disease
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/safety/driving-safety-and-alzheimers-disease
+
+Resource: Driving When You Have Cataracts
+Category: Specifics
+Organization: National Highway Traffic Safety Administration
+URL: https://www.nhtsa.gov/sites/nhtsa.gov/files/10900b-drivewell-handout-cataracts.pdf
+
+Resource: Drugged Driving
+Category: Specifics
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/publications/drugfacts/drugged-driving
+
+Resource: Impaired Driving Facts
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/impaired-driving/facts/
+
+Resource: National Institute on Alcohol Abuse and Alcoholism
+Category: Find an Expert
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/
+
+Resource: National Institute on Drug Abuse
+Category: Find an Expert
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/
+
+Resource: Impaired Driving
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Distracted+Driving%22%5Bmajr%3Anoexp%5D+OR+%22Driving+Under+the+Influence%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safe Driving for Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/safety/safe-driving-older-adults
+
+Resource: Some Medicines and Driving Don't Mix
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/some-medicines-and-driving-dont-mix
+
+Resource: State Alcohol-Impaired-Driving Estimates
+Category: Statistics and Research
+Organization: National Highway Traffic Safety Administration
+URL: https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813726

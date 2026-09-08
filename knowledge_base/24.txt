@@ -1,0 +1,405 @@
+Title: Allergy
+
+Also Called:
+- Hypersensitivity
+
+Summary:
+An allergy is a reaction by your immune system to something that does not bother most other people. People who have allergies often are sensitive to more than one thing. Substances that often cause reactions are:
+Pollen
+Dust mites
+Mold spores
+Pet dander
+Food
+Insect stings
+Medicines
+Normally, your immune system fights germs. It is your body's defense system. In most allergic reactions, however, it is responding to a false alarm. Genes and the environment probably both play a role.
+Allergies can cause a variety of symptoms such as a runny nose, sneezing, itching,
+rashes
+, swelling, or
+asthma
+. Allergies can range from minor to severe.
+Anaphylaxis
+is a severe reaction that can be life-threatening.   Doctors use skin and blood tests to diagnose allergies. Treatments include medicines, allergy shots, and avoiding the substances that cause the reactions.
+
+Groups:
+- Ear, Nose and Throat
+- Immune System
+
+MeSH Headings:
+- Hypersensitivity
+
+Related Resources:
+
+Resource: 6 Things To Know About Complementary Health Approaches for Seasonal Allergy Relief
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-complementary-health-approaches-for-seasonal-allergy-relief
+
+Resource: All About Allergy Testing
+Category: Diagnosis and Tests
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/all-about-allergy-testing
+
+Resource: Allergens and Irritants
+Category: Prevention and Risk Factors
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/allergens
+
+Resource: Allergic asthma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/allergic-asthma
+
+Resource: Allergic Bronchopulmonary Aspergillosis (ABPA)
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/related-conditions/allergic-bronchopulmonary-aspergillosis
+
+Resource: Allergic conjunctivitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001031.htm
+
+Resource: Allergic reactions
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000005.htm
+
+Resource: Allergic Reactions
+Category: Start Here
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/allergic-reactions
+
+Resource: Allergic rhinitis - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000547.htm
+
+Resource: Allergic rhinitis - what to ask your doctor - adult
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000247.htm
+
+Resource: Allergic rhinitis - what to ask your doctor - child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000248.htm
+
+Resource: Allergic Skin Conditions
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/allergic-skin-conditions
+
+Resource: Allergies
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/allergies/symptoms-causes/syc-20351497?p=1
+
+Resource: Allergies
+Category: Videos and Tutorials, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000002.htm
+
+Resource: Allergies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000812.htm
+
+Resource: Allergies and Asthma: They Often Occur Together
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/in-depth/allergies-and-asthma/art-20047458?p=1
+
+Resource: Allergies, asthma, and dust
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000487.htm
+
+Resource: Allergies, asthma, and molds
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000488.htm
+
+Resource: Allergies, asthma, and pollen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000489.htm
+
+Resource: Allergy Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/allergy-blood-test/
+
+Resource: Allergy Causes in Children and What Parents Can Do
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/health-issues/conditions/allergies-asthma/pages/allergy-causes.aspx
+
+Resource: Allergy Medications: Know Your Options
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy-medications/art-20047403?p=1
+
+Resource: Allergy Relief for Your Child
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/allergy-relief-your-child
+
+Resource: Allergy shots
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000405.htm
+
+Resource: Allergy Skin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/allergy-skin-test/
+
+Resource: Allergy testing - skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003519.htm
+
+Resource: Allergy-Proof Your House
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/allergies/in-depth/allergy/art-20049365?p=1
+
+Resource: American Academy of Allergy, Asthma, and Immunology
+Category: Find an Expert
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/
+
+Resource: Angioedema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000846.htm
+
+Resource: Antihistamines for allergies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000549.htm
+
+Resource: Butterbur
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/butterbur
+
+Resource: ClinicalTrials.gov: Hypersensitivity
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypersensitivity%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Rhinitis, Allergic, Perennial
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rhinitis,+Allergic,+Perennial%22&aggFilters=status:not%20rec
+
+Resource: Cockroach Allergy
+Category: Specifics
+Organization: Asthma and Allergy Foundation of America
+URL: https://aafa.org/allergies/types-of-allergies/insect-allergy/cockroach-allergy/
+
+Resource: Colds, Allergies and Sinusitis - How to Tell the Difference
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/colds-allergies-sinusitis
+
+Resource: Decongestants: OTC Relief for Congestion
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/decongestants-otc-relief-for-congestion/
+
+Resource: Do Allergies Cause Asthma?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/allergies-asthma.html
+
+Resource: Do Allergies Cause Asthma? (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/allergies-asthma.html
+
+Resource: Dust Mite Allergy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dust-mites/symptoms-causes/syc-20352173?p=1
+
+Resource: Eosinophilic Esophagitis: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/eosinophilicesophagitis.html
+
+Resource: Erythema multiforme
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000851.htm
+
+Resource: FastStats: Allergies and Hay Fever
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/allergies.htm
+
+Resource: Feel Better. Live Better. See an Allergist / Immunologist
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/feel-better-live-better-see-an-allergist-immunolog
+
+Resource: Find an Allergist/Immunologist
+Category: Find an Expert
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://allergist.aaaai.org/find/
+
+Resource: Histamine: The Stuff Allergies are Made of
+Category: Videos and Tutorials
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medlineplus-videos/histamine-the-stuff-allergies-are-made-of/
+
+Resource: Hypersensitivity vasculitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000874.htm
+
+Resource: Is It Flu, COVID-19, Allergies, or a Cold?
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/01/it-flu-covid-19-allergies-or-cold
+
+Resource: Kids and Allergies (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/allergy.html
+
+Resource: Marvels of Mucus and Phlegm: The Slime That Keeps You Healthy
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/08/marvels-mucus-phlegm
+
+Resource: Mold Allergy
+Category: Specifics
+Organization: Asthma and Allergy Foundation of America
+URL: https://aafa.org/allergies/types-of-allergies/mold-allergy/
+
+Resource: Nasal corticosteroid sprays
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000404.htm
+
+Resource: Nasal Wash Treatment
+Category: Treatments and Therapies
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/alternative/nasal-wash-treatment?modal=1
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Nickel Allergy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/nickel-allergy/symptoms-causes/syc-20351529?p=1
+
+Resource: Oral Allergy Syndrome (OAS)
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/oral-allergy-syndrome-(oas)
+
+Resource: Oral Hypersensitivity Reactions
+Category: Specifics
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://www.aaom.com/index.php?option=com_content&amp;view=article&amp;id=125:oral-hypersensitivity-reactions&amp;catid=22:patient-condition-information&amp;Itemid=120
+
+Resource: Overview of the Immune System
+Category: Reference Desk
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-overview
+
+Resource: Pet Allergy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192?p=1
+
+Resource: Pet Allergy Quiz
+Category: Test Your Knowledge
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/allergies/pet-allergy/pet-allergy-quiz
+
+Resource: Physical Allergy
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/immune-disorders/allergic-reactions-and-other-hypersensitivity-disorders/physical-allergy
+
+Resource: Prevention of Allergies and Asthma in Children
+Category: Children
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/prevention-of-allergies-and-asthma-in-children
+
+Resource: Allergy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hypersensitivity%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Red Meat Allergy
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/red-meat-allergy.html
+
+Resource: Saline nasal washes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000801.htm
+
+Resource: Seasonal Allergy Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000812_18.htm
+
+Resource: Sneezing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003060.htm
+
+Resource: Stinging Insect Allergy
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/stinging-insect-allergy
+
+Resource: Stuffy or runny nose - adult
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003049.htm
+
+Resource: Stuffy or runny nose - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003051.htm
+
+Resource: Suicide Warnings on Medications
+Category: Treatments and Therapies
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/faq/471018/suicide-warnings-medications
+
+Resource: Sun Allergy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sun-allergy/symptoms-causes/syc-20378077?p=1
+
+Resource: Vibratory urticaria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/vibratory-urticaria/
+
+Resource: Virtual Allergist
+Category: Health Check Tools
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://allergist.aaaai.org/virtual-allergist/
+
+Resource: What Is a Pediatric Allergist / Immunologist?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Allergist-Immunologist.aspx

@@ -1,0 +1,69 @@
+Title: Nutrición del niño pequeño
+
+Summary:
+Los alimentos proveen la energía que los niños más pequeños necesitan para crecer sanos. También están aprendiendo a comer por sí mismos. Deben comer una  gran variedad de comidas de todos los grupos.
+Algunas cosas a las que hay que prestar atención:
+Asegúrese que su niño pequeño obtenga suficiente hierro
+Los niños pequeños de 1 a 3 años necesitan 500 miligramos de calcio por día
+No le dé de comer frutos de mar, maníes o nueces antes de los 2 o 3 años
+
+Groups:
+- Niños y adolescentes
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Alimentar a su hijo de 1 a 2 años de edad
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/feed12yr.html
+
+Resource: Cómo elegir alimentos saludables
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/nutrition/paginas/making-healthy-food-choices.aspx
+
+Resource: Dejar el biberón
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/no-bottles.html
+
+Resource: Dieta y patrones de alimentación en niños de seis meses a dos años
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000713.htm
+
+Resource: Guía de nutrición para sus hijos pequeños
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toddler-food.html
+
+Resource: Hidratos de carbono y azúcar (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sugar.html
+
+Resource: Hierro (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/iron.html
+
+Resource: Leche de vaca y los niños
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001973.htm
+
+Resource: Preferencia por un solo alimento
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002425.htm
+
+Resource: Suplementos alimenticios para niños pequeños
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/toddler/nutrition/paginas/dietary-supplements-for-toddlers.aspx
+
+Resource: Tentempiés para niños de entre 1 y 3 años de edad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toddler-snacks.html

@@ -1,0 +1,140 @@
+Title: Anticoagulantes y antiplaquetarios
+
+Summary:
+¿Qué son los anticoagulantes?
+Los anticoagulantes son medicamentos que evitan la formación de
+coágulos sanguíneos
+. No rompen los coágulos que ya tiene, pero pueden evitar que crezcan. Es importante tratar los coágulos sanguíneos, porque los coágulos en los vasos sanguíneos y el corazón pueden causar
+ataques al corazón
+,
+derrames cerebrales
+y obstrucciones.
+¿Quién necesita anticoagulantes?
+Es posible que necesite un anticoagulante si tiene:
+Ciertas enfermedades del
+corazón
+o de los
+vasos sanguíneos
+Un ritmo cardíaco anormal llamado
+fibrilación auricular
+Un reemplazo de
+válvula cardíaca
+Un riesgo de coágulos de sangre después de una cirugía
+Defectos cardíacos congénitos
+¿Cuáles son los diferentes tipos de anticoagulantes?
+Hay diferentes tipos de anticoagulantes:
+Los
+anticoagulantes
+como la heparina o la warfarina (también llamada Coumadin), hacen más lento el proceso de formación de coágulos del cuerpo
+Los
+antiplaquetarios
+como la aspirina y el clopidogrel evitan que las células sanguíneas llamadas plaquetas se agrupen para formar un coágulo. Los antiplaquetarios los toman principalmente las personas que han tenido un ataque al corazón o un derrame cerebral
+¿Cómo puedo tomar anticoagulantes en forma segura?
+Cuando tome un anticoagulante, siga las instrucciones cuidadosamente. Los anticoagulantes pueden interactuar con ciertos alimentos, medicamentos, vitaminas y el alcohol. Asegúrese de que su profesional de la salud conozca todos los medicamentos y suplementos que toma.
+Es posible que necesite análisis de sangre regulares para verificar qué tan bien está coagulando su sangre. Es importante asegurarse de que está tomando suficiente medicamento para prevenir los coágulos, pero no tanto como para causar sangrado.
+¿Cuáles son los efectos secundarios de los anticoagulantes?
+El
+sangrado
+es el efecto secundario más común de los anticoagulantes. También pueden causar malestar estomacal,
+náuseas
+y
+diarrea
+. Otros posibles efectos secundarios pueden depender del tipo de anticoagulante que esté tomando.
+Llame a su profesional de la salud si tiene algún signo de sangrado grave, como:
+Sangrado menstrual mucho más intenso de lo normal
+Orina roja o marrón
+Evacuaciones intestinales rojas o negras
+Sangrado de las encías o la nariz que no se detiene rápidamente
+Vómito de color marrón o rojo brillante
+Toser algo rojo
+Dolor intenso, como de cabeza o de estómago
+Moretones inusuales
+Un corte que no deja de sangrar
+Una caída grave o un golpe en la cabeza
+Mareos o debilidad
+
+Groups:
+- Sangre, corazón y circulación
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Anticoagulantes y la vitamina K
+Category: Spanish/Español, Niños/as
+Organization: Hospital de Investigación sobre Niños St. Jude
+URL: https://www.stjude.org/content/dam/es_US/shared/www/do-you-know-spanish/nutrition-anticoagulant-k-spa.pdf
+
+Resource: Anticoagulantes: ¿Aún puedo formar coágulos sanguíneos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/deep-vein-thrombosis/expert-answers/blood-thinners/faq-20058261?p=1
+
+Resource: Antitrombóticos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/antitromboticos/
+
+Resource: Cómo aplicarse una inyección de heparina
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000661.htm
+
+Resource: Efectos secundarios de la warfarina
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/deep-vein-thrombosis/in-depth/warfarin-side-effects/art-20047592?p=1
+
+Resource: Medicamentos antiplaquetarios: Inhibidores P2Y12
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000100.htm
+
+Resource: Millones de personas toman aspirina sin un beneficio claro
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/millones-de-personas-toman-aspirina-sin-un-beneficio-claro
+
+Resource: Monitorización de fármacos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/monitorizacion-de-farmacos/
+
+Resource: Pastillas que diluyen la sangre
+Category: Comience aquí, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/btpills-esp/btpillssp2.html
+
+Resource: Prueba de tiempo de protrombina e INR (TP/INR)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tiempo-de-protrombina-e-inr-tpinr/
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas/
+
+Resource: Terapia antiplaquetaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/terapia-antiplaquetaria/
+
+Resource: Tomar warfarina (Coumadin)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000292.htm
+
+Resource: Tomar warfarina (Coumadin, Jantoven): Qué preguntarle al médico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000255.htm
+
+Resource: Tratamiento diario con aspirina: comprenda los beneficios y los riesgos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-disease/in-depth/daily-aspirin-therapy/art-20046797?p=1
+
+Resource: Ácido acetilsalicílico y cardiopatía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000092.htm

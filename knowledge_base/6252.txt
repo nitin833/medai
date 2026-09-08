@@ -1,0 +1,227 @@
+Title: Antibiotic Resistance
+
+Summary:
+What are antibiotics?
+Antibiotics
+are medicines that treat
+bacterial infections
+in humans and animals. They work by killing the bacteria or making it hard for the bacteria to grow and multiply. When used properly, antibiotics can save lives. But there is a growing problem of antibiotic resistance.
+What is antibiotic resistance?
+Antibiotic resistance happens when bacteria change and can resist the effects of an antibiotic. The bacteria are not killed, and they continue to grow. The infections these bacteria cause are called resistant infections. Resistant infections can be difficult, and sometimes impossible, to treat. In some cases, they can even be deadly.
+Antibiotic resistance does
+not
+mean that your body is resistant to antibiotics.
+There are many different types of resistant infections. They include
+MRSA
+and drug-resistant
+tuberculosis
+(TB). If you get a resistant infection, you might need:
+A long hospital stay
+A long recovery
+Follow-up visits with health care providers
+Treatments that are expensive and may have severe
+side effects
+Antibiotic resistance is one type of antimicrobial resistance. There are other types;
+viruses
+,
+fungi
+, and
+parasites
+can also become resistant to medicines.
+How do bacteria become resistant to antibiotics?
+Antibiotic resistance is a natural process that happens over time. To survive, bacteria can develop defense strategies against antibiotics. This happens through genetic changes in the bacteria. These resistant bacteria survive, grow, and spread.
+Each time you take antibiotics, there is a risk that the bacteria will become resistant. So it is important to only take antibiotics when you really need them. They won't work on viral infections such as
+colds
+and the
+flu
+. And you don't need antibiotics for every bacterial infection. For example, you may not need them for some
+sinus
+and
+ear
+infections.
+Who is more likely to develop an antibiotic-resistant infection?
+Anyone can develop an antibiotic-resistant infection, but certain people may be at higher risk, including those who:
+Have a
+weakened immune system
+from diseases such as
+HIV
+or from taking medicines that affect the immune system
+Are getting medical care such as surgery and hospital stays
+Take antibiotics for a long time
+Are infants, especially if they were born
+prematurely
+Are older adults
+How can antibiotic resistance be prevented?
+There will always be some antibiotic resistance, since it happens naturally. But you can help fight against antibiotic resistance by taking these steps:
+Don't use antibiotics for viruses.
+Don't pressure your health care provider to give you an antibiotic if they don't think you need one.
+When you take antibiotics, follow the directions carefully.
+Don't share your antibiotics with others.
+Don't save antibiotics for later or use someone else's prescription.
+Help prevent the spread of bacterial infections with
+good hygiene habits
+. These include washing your hands often and covering your mouth and nose when coughing or sneezing.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Drug Therapy
+
+MeSH Headings:
+- Drug Resistance, Bacterial
+- Drug Resistance, Microbial
+
+Related Resources:
+
+Resource: 2019 Antibiotic Resistance Threats Report
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antimicrobial-resistance/data-research/threats/
+
+Resource: About Antimicrobial Resistance
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antimicrobial-resistance/about/
+
+Resource: About Carbapenem-resistant Enterobacterales
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cre/about/
+
+Resource: Animation of Antimicrobial Resistance
+Category: Videos and Tutorials
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/animal-veterinary/antimicrobial-resistance/animation-antimicrobial-resistance
+
+Resource: Antibiotic Sensitivity Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/antibiotic-sensitivity-test/
+
+Resource: Antibiotic Use and Antimicrobial Resistance Facts
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/data-research/facts-stats/
+
+Resource: Antibiotics and Antibiotic Resistance
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/buying-using-medicine-safely/antibiotics-and-antibiotic-resistance
+
+Resource: Antibiotics vs. Bacteria: Fighting the Resistance
+Category: Videos and Tutorials
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medlineplus-videos/antibiotics-vs-bacteria-fighting-the-resistance/
+
+Resource: Antimicrobial Resistance
+Category: Specifics
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/antimicrobial-resistance
+
+Resource: Antimicrobial Resistance Threats
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/antimicrobial-resistance-threats
+
+Resource: Antimicrobial Resistance: Causes and How It Spreads
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antimicrobial-resistance/causes/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Antibiotic Resistance
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22antibiotic+resistance%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vancomycin-Resistant Enterococci
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vancomycin-Resistant+Enterococci%22&aggFilters=status:not%20rec
+
+Resource: Controlling the Emergence and Spread of Antimicrobial Resistance
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antimicrobial-resistance/prevention/
+
+Resource: Danger of Antibiotic Overuse (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/antibiotic-overuse.html
+
+Resource: Drug Resistance, Food, and Food Animals
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/about/drug-resistance.html
+
+Resource: Drug-Resistant Gonorrhea
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/gonorrhea/hcp/drug-resistant/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Glossary (Antibiotics)
+Category: Reference Desk
+Organization: Alliance for the Prudent Use of Antibiotics
+URL: https://apua.org/glossary
+
+Resource: How Antibiotic Resistance Happens
+Category: Images
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/how_antibiotic_resistance_happens_508.pdf
+
+Resource: How Antibiotic Resistance Spreads
+Category: Images
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antimicrobial-resistance/media/pdfs/how-ar-spreads-p.pdf
+
+Resource: Know When and How to Use Antibiotics, and When to Skip Them
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/know-when-and-how-use-antibiotics-and-when-skip-them
+
+Resource: Leading Antimicrobial Drug-Resistant Diseases
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/leading-antimicrobial-drug-resistant-diseases
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Antibiotic resistance
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Drug+Resistance%2C+Bacterial%22%5Bmajr%3Anoexp%5D+OR+%22Drug+Resistance%2C+Microbial%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stamping Out Superbugs
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/10/stamping-out-superbugs
+
+Resource: Vancomycin-resistant Enterococci (VRE) Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vre/about/
+
+Resource: Vancomycin-resistant enterococci - hospital
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000476.htm
+
+Resource: What Can Be Done about Antibiotic Resistance?
+Category: Treatments and Therapies
+Organization: Alliance for the Prudent Use of Antibiotics
+URL: https://apua.org/what-can-be-done
+
+Resource: What Is Antibiotic Resistance?
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://biobeat.nigms.nih.gov/2023/11/what-is-antibiotic-resistance/

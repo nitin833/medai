@@ -1,0 +1,96 @@
+Title: Aneurismas
+
+Also Called:
+- Dilatación o abultamiento en las arterias
+
+Summary:
+Un aneurisma es un ensanchamiento anormal de las paredes de una arteria. Las arterias son vasos sanguíneos que transportan sangre oxigenada desde el corazón hacia otras partes del cuerpo. Si un aneurisma crece, puede romperse y provocar una hemorragia peligrosa e incluso la muerte.
+La mayoría de los aneurismas ocurre en la
+aorta
+, la arteria principal que sale  del corazón y pasa por el pecho y el abdomen. También pueden ocurrir en las arterias del
+cerebro
+y otras partes del cuerpo. Si un aneurisma cerebral se rompe, produce un
+derrame
+.
+Los aneurismas pueden desarrollarse y crecer antes de causar síntomas. Con frecuencia, si se detectan y se tratan anticipadamente, los médicos pueden detener la ruptura de los aneurismas. Para encontrarlos se usan pruebas de imágenes. Muchas veces los aneurismas se encuentran por accidente durante pruebas hechas por otras razones. Los dos tratamientos principales son las medicinas y la cirugía.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Aneurisma
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001122.htm
+
+Resource: Aneurismas y Disecciones
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/aneurismas-y-disecciones/
+
+Resource: Angiografía por catéter
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiocath
+
+Resource: Angiotomografía computarizada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angioct
+
+Resource: Embolizaciones cerebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dc-embol
+
+Resource: Embolización transcatéter
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/cathembol
+
+Resource: Estudios y procedimientos diagnósticos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-y-procedimientos-diagnosticos/
+
+Resource: Glosario de terminología cardiovascular
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/glosario-de-terminologia-cardiovascular/
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Reparación de aneurismas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/reparacion-de-aneurismas/
+
+Resource: Seudoaneurisma: ¿Qué lo causa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cardiac-catheterization/expert-answers/pseudoaneurysm/faq-20058420?p=1
+
+Resource: Ultrasonido vascular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/vascularus
+
+Resource: ¿Qué es un aneurisma de aorta?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aneurisma-de-aorta
+
+Resource: ¿Qué es un aneurisma?
+Category: Comience aquí, Spanish/Español
+Organization: Asociación Americana del Corazón
+URL: https://www.goredforwomen.org/es/health-topics/aortic-aneurysm/what-is-an-aneurysm

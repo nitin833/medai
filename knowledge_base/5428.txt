@@ -1,0 +1,349 @@
+Title: Common Infant and Newborn Problems
+
+Summary:
+It is hard when your baby is sick.  Common health problems in babies include colds, coughs, fevers, and vomiting.  Babies also commonly have skin problems, like diaper rash or
+cradle cap
+.
+Many of these problems are not serious. It is important to know how to help your sick baby, and to know the warning signs for more serious problems.  Trust your intuition - if you are worried about your baby, call your health care provider right away.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Infant, Newborn, Diseases
+
+Related Resources:
+
+Resource: 11 Common Conditions in Newborns
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/baby/pages/Common-Conditions-in-Newborns.aspx
+
+Resource: Baby Acne
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/baby-acne/symptoms-causes/syc-20369880?p=1
+
+Resource: Choosing a Pediatrician for Your New Baby
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/find-ped.html
+
+Resource: ClinicalTrials.gov: Diaper Rash
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Diaper+Rash%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Infant, Newborn, Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Infant,+Newborn,+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Infantile Colic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Infantile+Colic%22&aggFilters=status:not%20rec
+
+Resource: Colic
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/colic.html
+
+Resource: Colic and crying - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000753.htm
+
+Resource: Colic in Babies
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/colic/
+
+Resource: Colic Symptoms and Causes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/colic/symptoms-causes/syc-20371074?p=1
+
+Resource: Common Cold in Babies: Symptoms and Causes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-cold-in-babies/symptoms-causes/syc-20351651?p=1
+
+Resource: Congenital Dermal Melanocytosis (Blue-Gray Spot)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/blue-gray-spot-mongolian-spot/?Imiw9cApl=1
+
+Resource: Coughing (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/childs-cough.html
+
+Resource: Dermal melanocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001472.htm
+
+Resource: Diaper Dermatitis
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/diaper-dermatitis-candidiasis/?Imiw9cApl=1
+
+Resource: Diaper rash
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000964.htm
+
+Resource: Diaper Rash
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diaper-rash/symptoms-causes/syc-20371636?p=1
+
+Resource: Diaper Rash
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diaper-rash.html
+
+Resource: Diaper Rash (Irritant Diaper Dermatitis)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/diaper-irritant-dermatitis/?Imiw9cApl=1
+
+Resource: Diarrhea in infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000691.htm
+
+Resource: Diastasis recti
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001602.htm
+
+Resource: Ear Infection
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/ear-infection/
+
+Resource: Ear tag
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003304.htm
+
+Resource: Elimination Problems or Constipation in Infants and Children
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/elimination-problems-or-constipation-in-infants-and-children/
+
+Resource: Epstein pearls
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001603.htm
+
+Resource: Erythema toxicum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001458.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Excessive crying in infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003023.htm
+
+Resource: Exchange transfusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002923.htm
+
+Resource: Exchange transfusion - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100018_1.htm
+
+Resource: Feeding Problems in Infants and Children
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/feeding-problems-in-infants-and-children/
+
+Resource: Fever (High Temperature) In Kids
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fever.html
+
+Resource: Fever in Infants and Children
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/fever-in-infants-and-children/
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Flat Head Syndrome (Positional Plagiocephaly)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/positional-plagiocephaly.html
+
+Resource: Fussy or irritable child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003214.htm
+
+Resource: Getting the Most From a Doctor's Visit
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/talk-doctor.html
+
+Resource: Heat Rash or Prickly Heat (Miliaria Rubra)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/miliaria-rubra/infant/?Imiw9cApl=1
+
+Resource: Hormonal effects in newborns
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001911.htm
+
+Resource: How to Give Your Child Medicine
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/how-to-give-your-child-medicine/
+
+Resource: How to Treat Diaper Rash
+Category: Treatments and Therapies
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/everyday-care/itchy-skin/rash/treat-diaper-rash?NoAds
+
+Resource: Jaundice and Breastfeeding
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html
+
+Resource: Jaundice in Newborns
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jaundice.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Milia
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/milia/infant/?Imiw9cApl=1
+
+Resource: Milia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001367.htm
+
+Resource: Mouth Problems in Infants and Children
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/mouth-problems-in-infants-and-children/
+
+Resource: Nausea and Vomiting in Infants and Children
+Category: Health Check Tools
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/nausea-and-vomiting-in-infants-and-children/
+
+Resource: Newborn jaundice - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000296.htm
+
+Resource: Oral Thrush
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/thrush.html
+
+Resource: Plagiocephaly
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/plagiocephaly/
+
+Resource: Common Infant and Newborn Problems
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Infant%2C+Newborn%2C+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rash - child under 2 years
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003259.htm
+
+Resource: Should You Give Kids Medicine for Coughs and Colds?
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds
+
+Resource: Sick Baby? When to Seek Medical Attention
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20047793?p=1
+
+Resource: Skin findings in newborns
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002301.htm
+
+Resource: Surgery for Tear Duct Blockage
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tear-duct-obstruct-surgery.html
+
+Resource: Teething
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002045.htm
+
+Resource: Treating Vomiting: What to Do When Your Child is Throwing Up
+Category: Treatments and Therapies
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/pages/Treating-Vomiting.aspx
+
+Resource: Use Caution When Giving Cough and Cold Products to Kids
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/safe-use-over-counter-otc-medicines-children/use-caution-when-giving-cough-and-cold-products-kids
+
+Resource: Vomiting (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vomit.html
+
+Resource: What Are Some of the Basics of Infant Health?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/infantcare/conditioninfo/basics
+
+Resource: What's a Tear Duct Probe (Treating Tear-Duct Blockage)? (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tear_duct_probe_animation.html
+
+Resource: What's Tear Duct Massage (Treating Tear-Duct Blockage)? (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tear_duct_massage_animation.html
+
+Resource: When your baby or infant has a fever
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000319.htm
+
+Resource: Your baby and the flu
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007444.htm
+
+Resource: Your Child's Vision
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vision.html

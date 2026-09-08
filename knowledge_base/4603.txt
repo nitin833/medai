@@ -1,0 +1,62 @@
+Title: Tornados
+
+Summary:
+Los tornados son las tormentas más violentas de la naturaleza. Son nubes rotatorias con forma de embudo que se extienden desde una tormenta eléctrica hacia la superficie. Sus vientos en forma de espiral pueden alcanzar las 300 millas por hora. Pueden generarse rápidamente, con poco o ningún aviso, devastar un vecindario en segundos y dejar una estela de daños de una milla de diámetro y 50 millas de largo. Los tornados también pueden acompañarse de tormentas tropicales y
+huracanes
+cuando éstos cruzan a tierra firme.
+Aunque no hay garantías de seguridad durante un tornado, usted puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Usted puede necesitar
+ayuda para superarlo
+.
+Agencia Federal para el Manejo de Emergencias
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Cómo mantenerse seguro después de un tornado
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/tornadoes/after.html
+
+Resource: Cómo mantenerse seguro durante un tornado
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/nceh/especiales/tornado/index.html
+
+Resource: Listo niños
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/kids
+
+Resource: Manejando el estrés traumático después de los tornados
+Category: Más información, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/disasters-response/tornados?partner=nlm
+
+Resource: Tornados
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/tornadoes/index.html
+
+Resource: Tornados
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/tornados
+
+Resource: Tornados
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/kids/disaster-facts/tornadoes
+
+Resource: Tornados
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/tornados
+
+Resource: ¿Necesita ayuda después de un desastre?
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.disasterassistance.gov/es

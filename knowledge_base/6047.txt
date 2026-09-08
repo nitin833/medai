@@ -1,0 +1,60 @@
+Title: Infecciones por campylobacter
+
+Also Called:
+- Campilobacteriosis
+
+Summary:
+La infección por Campylobacter es una
+enfermedad transmitida por los alimentos
+común. Usted la contrae cuando consume alimentos contaminados, en especial aves que no están bien cocidas o crudas. También puede tenerla al tomar agua contaminada o leche cruda, o manipular excrementos de animales.
+Algunas personas infectadas no tienen ningún síntoma. Si usted presenta síntomas, en general aparece entre dos a cinco días después de la infección. Usualmente duran una semana y los síntomas incluyen:
+Diarrea, que puede ser con sangre
+Calambres
+Dolor abdominal
+Fiebre
+Fatiga
+Náusea y vómitos
+Los proveedores de atención médica usan pruebas de heces para hacer un diagnóstico. La mayoría de las personas mejora sin tratamiento. Usted debería beber mucho líquido mientras dure la diarrea. Las personas que tienen una infección grave o un sistema inmunitario debilitado pueden necesitar
+antibióticos
+. En casos raros, la infección puede causar
+artritis reactiva
+o
+síndrome de Guillain-Barré
+.
+Para prevenir la campilobacteriosis, cocine la carne de pollo y de aves por completo. Use tablas y utensilios de cocina diferentes para cortar las carnes. Asegúrese de lavarlos bien con detergente y agua caliente luego de usarlos.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Análisis de heces: Cultivo bacteriano
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-bac-culture.html
+
+Resource: Campylobacter
+Category: Más información, Spanish/Español
+Organization: Departamento de Agricultura de Estados Unidos
+URL: https://www.fsis.usda.gov/food-safety/foodborne-illness-and-disease/illnesses-and-pathogens/campylobacter/campylobacter-en
+
+Resource: Infecciones por Campylobacter
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/campylobacter.html
+
+Resource: Infección por campylobacter
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000224.htm
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Prueba serológica para Campylobacter
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003530.htm

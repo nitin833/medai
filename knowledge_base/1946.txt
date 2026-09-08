@@ -1,0 +1,147 @@
+Title: Enfermedades causadas por el calor
+
+Also Called:
+- Hipertermia
+
+Summary:
+En general, su cuerpo se enfría mediante la sudoración. En los climas calurosos, especialmente con altos niveles de humedad, la sudoración no es suficiente para enfriar su cuerpo. La temperatura corporal puede elevarse hasta niveles peligrosos y es posible desarrollar enfermedades causadas por el calor.
+La mayoría de las enfermedades causadas por el calor ocurren cuando permanece expuesto al calor demasiado tiempo. Hacer ejercicio o trabajar al aire libre también puede causar enfermedades por calor. Los adultos mayores, los niños pequeños y las personas enfermas o con sobrepeso tienen un riesgo mayor. Tomar algunas medicinas o consumir alcohol también puede aumentar su riesgo.
+Las enfermedades relacionadas con el calor incluyen:
+Golpe de calor: Una enfermedad peligrosa para la vida en la cual la temperatura corporal puede subir por encima de los 106 °F en minutos (41 ºC). Los síntomas incluyen piel seca, pulso rápido y fuerte, mareos, nausea y confusión. Si ve alguno de estos signos, busque ayuda médica de inmediato
+Agotamiento por calor: Una enfermedad que puede ocurrir después de varios días expuesto a altas temperaturas y sin suficientes líquidos. Los síntomas incluyen sudoración profusa, respiración rápida y pulso rápido y débil. Si no recibe tratamiento, puede preceder al golpe de calor
+Calambres por calor: Dolores o espasmos musculares que ocurren durante el ejercicio intenso. En general, puede sufrirlos en el abdomen, los brazos o las piernas
+Erupciones cutáneas por calor: Irritación de la piel por exceso de sudoración. Es más común en niños pequeños
+Puede reducir el riesgo de enfermedades causadas por el calor bebiendo líquidos para evitar la
+deshidratación
+, reemplazar la sal y minerales perdidos y limitar el tiempo de exposición al calor.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: Calor extremo
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/extremeheat/
+
+Resource: Calor extremo
+Category: Comience aquí, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/calor-extremo
+
+Resource: Calor y los adultos mayores
+Category: Personas mayores, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/extremeheat/older-adults-heat.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Combatir el calor: Protegerse en el verano
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/combatir-el-calor
+
+Resource: Consejos de seguridad para personas mayores cuando hacen ejercicio al aire libre
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/ejercicio/consejos-seguridad-personas-mayores-cuando-hacen-ejercicio-al-aire-libre
+
+Resource: Cruz Roja Americana
+Category: Spanish/Español, Especialistas
+Organization: Cruz Roja Americana
+URL: https://www.redcross.org/cruz-roja.html
+
+Resource: Cuando calienta el sol: Tomar medidas necesarias en caso de calor excesivo
+Category: Personas mayores, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P100012N.PDF
+
+Resource: Cómo cuidarte cuando estás al sol
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/summer-safety.html
+
+Resource: Cómo evitar el sobrecalentamiento al hacer ejercicio
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000865.htm
+
+Resource: Datos breves de NIOSH: Protéjase del estrés por calor
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-114sp.html
+
+Resource: Deshidratación en niños y adolescentes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/dehydration.html
+
+Resource: Emergencias por el calor
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000056.htm
+
+Resource: Golpe de calor y vehículos calientes
+Category: Spanish/Español, Niños/as
+Organization: Colegio Americano de Médicos de Emergencia
+URL: https://www.emergencyphysicians.org/article/en-espanol/golpe-de-calor-y-vehiculos-calientes
+
+Resource: Hipertermia
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/hipertermia/hipertermia
+
+Resource: Información acerca del calor extremo
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/extremeheat/heat_guide.html
+
+Resource: Instituto Nacional Sobre el Envejecimiento
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol
+
+Resource: Intolerancia al calor
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003094.htm
+
+Resource: Los días más calurosos ponen en riesgo la salud humana
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/los-dias-mas-calurosos-ponen-en-riesgo-la-salud-humana
+
+Resource: Mantener a los niños seguros ante los peligros de los autos calientes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hot-car-dangers.html
+
+Resource: Manténgase fresco cuando hace mucho calor
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/nceh/especiales/calorextremo/index.html
+
+Resource: Preguntas frecuentes sobre el calor extremo
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/extremeheat/faq.html
+
+Resource: Signos y síntomas de advertencia de enfermedades relacionadas con el calor
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/extremeheat/warning.html
+
+Resource: Trabajando en el Calor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Investigación y Capacitación en Construcción
+URL: https://www.cpwr.com/wp-content/uploads/publications/spanish/Hot-Weather-Hazard-Alert-SP.pdf
+
+Resource: Trastornos causados por el calor
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/heat.html

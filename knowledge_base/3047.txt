@@ -1,0 +1,64 @@
+Title: Diabetes insípida
+
+Also Called:
+- Diabetes del agua
+
+Summary:
+La diabetes insípida causa deseos de orinar muy seguido. Las personas con diabetes insípida tienen mucha sed. Entonces toman muchos líquidos. Esto es lo que causa que estas personas sientan deseos de ir al baño tan seguido. El ciclo puede impedirles dormir o inclusive hasta orinarse en la cama. El cuerpo produce una gran cantidad de orina que es casi pura agua.
+La diabetes insípida es distinta de la
+diabetes
+mellitus (DM), que implica problemas con la insulina y altos niveles de azúcar en la sangre. Los síntomas pueden ser similares. Sin embargo, la diabetes insípida se relaciona con la forma en la cual los riñones manejan los líquidos. Es mucho menos común que la mellitus. Los exámenes de orina y de sangre pueden revelar cuál es su caso.
+Por lo general, la diabetes insípida es causada por un problema con la glándula pituitaria o los riñones. El tratamiento varía dependiendo de la causa del problema. Las medicinas suelen ser de ayuda.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+- Sistema endocrino
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Diabetes insípida
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000377.htm
+
+Resource: Diabetes insípida central
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000460.htm
+
+Resource: Diabetes insípida nefrógena
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000511.htm
+
+Resource: Examen de hormona antidiurética en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003702.htm
+
+Resource: Examen de la concentración de la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003608.htm
+
+Resource: Prueba de sodio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sodio-en-la-sangre/
+
+Resource: Pruebas de osmolalidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-osmolalidad/
+
+Resource: Sed excesiva
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003085.htm
+
+Resource: Volumen urinario en 24 horas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003425.htm

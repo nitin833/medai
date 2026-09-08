@@ -1,0 +1,235 @@
+Title: Childhood Vaccines
+
+Also Called:
+- Shots
+
+Summary:
+What are vaccines?
+Vaccines
+are injections (shots), liquids, pills, or nasal sprays that you take to teach the
+immune system
+to recognize and defend against harmful germs. The germs could be
+viruses
+or
+bacteria
+.
+Some types of vaccines contain germs that cause disease. But the germs have been killed or weakened enough that they won't make your child sick. Some vaccines only contain a part of a germ. Other types of vaccines include instructions for your cells to make a protein of the germ.
+These different vaccine types all spark an immune response, which helps the body fight off the germs. Your child's immune system will also remember the germ and attack it if that germ ever invades again. This protection against a certain disease is called immunity.
+Why do I need to vaccinate my child?
+Babies are born with immune systems that can fight most germs, but there are some serious diseases they can't handle. That's why they need vaccines to strengthen their immune system.
+These diseases once killed or harmed many infants, children, and adults. But now with vaccines, your child can get immunity from these diseases without having to get sick. And for a few vaccines, getting vaccinated can actually give you a better immune response than getting the disease would.
+Vaccinating your child also protects others. Normally, germs can travel quickly through a community and make a lot of people sick. If enough people get sick, it can lead to an outbreak. But when enough people are vaccinated against a certain disease, it's harder for that disease to spread to others. The entire community is less likely to get the disease. This is called "community immunity."
+Community immunity is especially important for the people who can't get certain vaccines. For example, they may not be able to get a vaccine because they have weakened immune systems. Others may be allergic to certain vaccine ingredients. And newborn babies are too young to get some vaccines. Community immunity can help to protect them all.
+Are vaccines safe for children?
+Vaccines are
+safe
+. They must go through extensive safety testing and evaluation before they are approved in the United States.
+Some people worry that childhood vaccines could cause
+autism spectrum disorder
+(ASD). But many scientific studies have looked at this and have found no link between vaccines and autism.
+Can vaccines overload my child's immune system?
+No, vaccines do not overload the immune system. Every day, a healthy child's immune system successfully fights off thousands of germs. When your child gets vaccines, they are getting weakened or dead germs. So even if they get several vaccines in one day, they are being exposed to a tiny amount of germs compared to what they encounter every day in their environment.
+When do I need to vaccinate my child?
+Your child will get vaccines during
+well-child visits
+. They will be given according to the vaccine schedule. This schedule lists which vaccines are recommended for children. It includes who should get the vaccines, how many doses they need, and at what age they should get them. In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.
+Following the vaccine schedule allows your child to get protection from the diseases at exactly the right time. It gives their body the chance to build up immunity before being exposed to these very serious diseases.
+
+Groups:
+- Children and Teenagers
+- Infections
+- Immune System
+
+MeSH Headings:
+- Immunization
+
+Related Resources:
+
+Resource: (Vaccine-Preventable Disease) Photo Library
+Category: Images
+Organization: Immunization Action Coalition
+URL: https://www.vaccineinformation.org/photos/
+
+Resource: Booster Shots
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/booster-shots.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Childhood Vaccines: Tough Questions, Straight Answers
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/vaccines/art-20048334?p=1
+
+Resource: Childhood Vaccines: What They Are and Why Your Child Needs Them
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/childhood-vaccines-what-they-are-and-why-your-child-needs-them/
+
+Resource: ClinicalTrials.gov: Childhood Immunization
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=immunization&aggFilters=ages:child,status:not%20rec
+
+Resource: Common Questions about Vaccines
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fact-myth-immunizations.html
+
+Resource: Current Vaccine Shortages and Delays
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/vaccines-us/shortages-delays.html
+
+Resource: Do Kids Need Vaccines Before Traveling?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/travel-vaccinations.html
+
+Resource: Explaining How Vaccines Work
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html
+
+Resource: FastStats: Immunization
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/immunize.htm
+
+Resource: Immunizations for Preterm Babies
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/immunizations/pages/Immunizations-For-Preterm-Babies.aspx
+
+Resource: Is There a Connection Between Vaccines and Autism?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/autism-studies.html
+
+Resource: Keeping Track of Records
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-children/records/
+
+Resource: Kid's Guide to Shots
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/guide-shots.html
+
+Resource: National Vaccine Program
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office of Infectious Disease and HIV/AIDS Policy
+URL: https://www.hhs.gov/vaccines/index.html
+
+Resource: Overview of the Immune System
+Category: Reference Desk
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-overview
+
+Resource: Childhood Vaccines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Immunization%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Thimerosal and Vaccines
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/about/thimerosal.html
+
+Resource: Travel Vaccine Recommendations for Infants and Children
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/family-travel/travel-vaccine-recommendations-for-infants-and-children.html
+
+Resource: Vaccination Is the Best Protection against Measles
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/vaccination-best-protection-against-measles
+
+Resource: Vaccinations for Preteens and Teens
+Category: Teenagers
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4020.pdf
+
+Resource: Vaccine Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/index.html
+
+Resource: Vaccine Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/
+
+Resource: Vaccine Basics
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/basics/index.html
+
+Resource: Vaccine Safety: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/vaccinesafety.html
+
+Resource: Vaccine Schedule
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immunization-chart.html
+
+Resource: Vaccines - immunizations
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002024.htm
+
+Resource: Vaccines by Age
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/by-age/
+
+Resource: Vaccines for 'Tweens,' Teens and Young Adults
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/safety-prevention/immunizations/pages/immunizations-for-teenagers-and-young-adults.aspx
+
+Resource: Vaccines Protect Children from Harmful Infectious Diseases
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/vaccines-protect-children-harmful-infectious-diseases
+
+Resource: Vaccines Protect Your Community
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/basics/work/protection/index.html
+
+Resource: VaxView Vaccination Coverage
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/data-reporting/
+
+Resource: What Can I Do to Ease My Child's Fear of Shots? (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/scared-shots.html
+
+Resource: What Is Herd Immunity?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/herd-immunity.html
+
+Resource: Your child needs vaccines as they grow!
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/imz-schedules/child-easyread.html
+
+Resource: Your Child's First Vaccines: What You Need to Know
+Category: Patient Handouts, Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/multi.pdf
+
+Resource: Your Child's Vaccines
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vaccine.html

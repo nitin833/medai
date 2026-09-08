@@ -1,0 +1,58 @@
+Title: Osteogénesis imperfecta
+
+Summary:
+La osteogénesis imperfecta es un trastorno genético en el cual los huesos se fracturan (se rompen) con facilidad. Algunas veces, los huesos se fracturan sin un motivo aparente. También puede causar músculos débiles, dientes quebradizos, una columna desviada y pérdida del sentido del oído. La osteogénesis imperfecta es causada por uno o varios genes que no funcionan bien. Esto afecta la manera en que el cuerpo produce colágeno, una proteína que ayuda a  fortalecer los huesos.
+La osteogénesis imperfecta puede variar desde leve hasta severa y los síntomas varían de una persona a otra. Un individuo puede tener apenas algunas fracturas o alcanzar varios cientos de fracturas en toda la vida.
+No hay una prueba específica para la osteogénesis imperfecta. El profesional de la salud puede usar su historia clínica y familiar, un examen físico y test de imágenes para diagnosticarla. También podría hacer un examen de colágeno (de la piel) o genético (de sangre). No existe una cura, pero los síntomas pueden controlarse. Los tratamientos incluyen ejercicio, analgésicos, fisioterapia, sillas de ruedas, aparatos dentales y cirugía.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Cuidado de lactantes y niños con osteogénesis imperfecta
+Category: Spanish/Español, Niños/as
+Organization: Fundación para la Osteogénesis Imperfecta
+URL: https://oif.org/wp-content/uploads/2019/08/Caring_for_Infants-_Spanish.pdf
+
+Resource: Fractura ósea
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/b-bone.html
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Osteogénesis imperfecta
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001573.htm
+
+Resource: Salud de los huesos y la osteoporosis
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/salud-de-los-huesos-osteoporosis
+
+Resource: ¿Cuáles son los síntomas de la osteogénesis imperfecta (OI)?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/osteogenesisimp/informacion/sintomas
+
+Resource: ¿Cuáles son los tratamientos para la osteogénesis imperfecta (OI)?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/osteogenesisimp/informacion/tratamientos
+
+Resource: ¿Cómo diagnostican los proveedores de cuidado de la salud la osteogénesis imperfecta (OI)?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/osteogenesisimp/informacion/diagnostica
+
+Resource: ¿Qué es la osteogénesis imperfecta?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/osteogenesis-imperfecta

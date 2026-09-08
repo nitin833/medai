@@ -1,0 +1,40 @@
+Title: Oil Spills
+
+Summary:
+Oil spills often happen because of accidents, when people make mistakes or equipment breaks down. Other causes include natural disasters or deliberate acts.  Oil spills have major environmental and economic effects.
+Oil spills can also
+affect human health
+. These effects can depend on what kind of oil was spilled and where (on land, in a river, or in the ocean). Other factors include what kind of exposure and how much exposure there was. People who clean up the spill are more at risk. Problems could include skin and eye irritation, neurologic and breathing problems, and stress. Not much is known about the long-term effects of oil spills.
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+- Disasters
+
+MeSH Headings:
+- Petroleum Pollution
+
+Related Resources:
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: GuLFSTUDY (Gulf Long-term Follow-up Study)
+Category: Learn More
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/research/atniehs/labs/epi/resources/data-sharing/gulfstudy
+
+Resource: Oil Spills
+Category: Learn More
+Organization: National Oceanic and Atmospheric Administration
+URL: https://response.restoration.noaa.gov/oil-and-chemical-spills/oil-spills
+
+Resource: Oil Spills
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Petroleum+Pollution%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Total Petroleum Hydrocarbons (TPH): ToxFAQs
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=423&toxid=75

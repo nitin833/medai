@@ -1,0 +1,121 @@
+Title: Várices
+
+Summary:
+Las venas varicosas son venas hinchadas y retorcidas que  pueden verse justo debajo de la piel. Por lo general ocurren en las piernas, pero también se pueden formar en otras partes del cuerpo. Las
+hemorroides
+son un tipo de vena varicosa.
+Sus venas tienen válvulas que ayudan a mantener la sangre fluyendo en una sola dirección hacia su corazón. Si las válvulas están débiles o dañadas, la sangre puede detenerse y acumularse en las venas. Esto hace que las venas se hinchen, lo que puede conducir a venas varicosas.
+Las várices son muy comunes. Usted está en mayor riesgo si es mayor, mujer, tiene obesidad, no hace ejercicio o tiene antecedentes familiares de venas varicosas. También pueden ser más comunes durante el embarazo.
+Los médicos a menudo diagnostican las várices con un examen físico. A veces es posible que necesite pruebas adicionales.
+Hacer ejercicio, perder peso, elevar las piernas al descansar y no cruzarlas al sentarse puede ayudar a evitar que las várices empeoren. El uso de ropa suelta y evitar largos períodos de pie también puede ayudar. Si las várices son dolorosas o no le gusta su apariencia, su médico puede recomendar procedimientos para extirparlas.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Cuidados personales para várices y otros problemas de las venas
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000615.htm
+
+Resource: Embolización de varicocele
+Category: Hombres, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/varicocele
+
+Resource: Escleroterapia de las várices y venas de araña
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/sclerotherapy
+
+Resource: Extirpación de venas varicosas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002952.htm
+
+Resource: Flebectomía de las várices
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/Phlebectomy
+
+Resource: Insuficiencia venosa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000203.htm
+
+Resource: Telangiectasia
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003284.htm
+
+Resource: Tratamiento de las várices (ablación endovenosa de las várices)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/varicoseabl
+
+Resource: Tratamiento no invasivo de venas varicosas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007395.htm
+
+Resource: Ultrasonido venoso (extremidades)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/venousus
+
+Resource: Varicocele
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/varicocele.html
+
+Resource: Varicocele
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001284.htm
+
+Resource: Venas abultadas: ¿Qué hacer con las várices?
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/venas-abultadas
+
+Resource: Venas varicosas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001109.htm
+
+Resource: Venas varicosas y arañas vasculares
+Category: Comience aquí, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/varicose-veins-and-spider-veins
+
+Resource: Venas varicosas: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/varicose-veins/diagnosis-treatment/drc-20350649?p=1
+
+Resource: Venas varicosas: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000256.htm
+
+Resource: Venografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/Venography
+
+Resource: ¿Por qué a algunas mujeres embarazadas les salen varices?
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/veins.html
+
+Resource: ¿Qué son las varices?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/varicose-veins.html
+
+Resource: ¿Qué son las várices?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/varices

@@ -1,0 +1,186 @@
+Title: HIV and Infections
+
+Also Called:
+- AIDS-related opportunistic infections
+- OIs
+
+Summary:
+Having HIV/AIDS weakens your body's immune system. It destroys the white blood cells that fight infection. This puts you at risk for opportunistic infections (OIs). OIs are serious infections that take advantage of your weak immune system. These infections are less common and less severe in healthy people.
+There are many types of OIs:
+Bacterial infections, including
+tuberculosis
+and a serious related disease,
+Mycobacterium avium complex
+(MAC)
+Viral infections, such as
+cytomegalovirus
+(CMV) and
+hepatitis C
+Fungal infections, like
+yeast infections
+, cryptococcal meningitis,
+pneumocystis carinii pneumonia
+(PCP) and
+histoplasmosis
+Parasitic infections, such as crypto (
+cryptosporidiosis
+) and toxo (
+toxoplasmosis
+)
+Having HIV/AIDS can make infections harder to treat. People with HIV/AIDS are also more likely to have complications from common illnesses such as the flu.
+You can help prevent infections by taking your
+HIV/AIDS medicines
+. Other things that can help include practicing safe sex, washing your hands well and often, and cooking your food thoroughly.
+
+Groups:
+- Infections
+- Immune System
+
+MeSH Headings:
+- AIDS-Related Opportunistic Infections
+
+Related Resources:
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clinicalinfo: Information on HIV/AIDS Treatment, Prevention, and Research
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en
+
+Resource: ClinicalTrials.gov: AIDS-Related Opportunistic Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=opportunistic+infections+AIDS&aggFilters=status:not%20rec
+
+Resource: Cryptococcosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001328.htm
+
+Resource: Flu and People Living with HIV
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/hiv.html
+
+Resource: Food Safety for Older Adults and People with Cancer, Diabetes, HIV/AIDS, Organ Transplants, and Autoimmune Diseases
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-older-adults-and-people-cancer-diabetes-hivaids-organ-transplants-and-autoimmune
+
+Resource: Fungal Diseases and HIV/AIDs
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fungal/risk-factors/hiv-aids.html
+
+Resource: HIV and COVID-19
+Category: Specifics
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-covid-19
+
+Resource: HIV and Rheumatic Disease
+Category: Specifics
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/hiv-and-rheumatic-disease
+
+Resource: HIV and Vaccination
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-vaccination
+
+Resource: HIV Medicines: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hivmedicines.html
+
+Resource: HIV.gov
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/
+
+Resource: HIV/AIDS & Oral Health
+Category: Related Issues
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/hiv-aids
+
+Resource: HIV/AIDS Glossary
+Category: Reference Desk
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en/glossary
+
+Resource: HIV/AIDS Treatment Guidelines
+Category: Reference Desk
+Organization: HIV.gov
+URL: https://clinicalinfo.hiv.gov/en/guidelines
+
+Resource: HIVinfo
+Category: Find an Expert
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/
+
+Resource: How to Stay Healthy with HIV
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_StayHealthy_508c.pdf
+
+Resource: Molluscum contagiosum
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000826.htm
+
+Resource: Monkeypox and HIV
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/monkeypox/about/mpox-and-hiv.html
+
+Resource: Neurological Complications of HIV
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neurological-complications-hiv
+
+Resource: Pneumocystis Infections: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pneumocystisinfections.html
+
+Resource: Pneumocystis jiroveci pneumonia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000671.htm
+
+Resource: Progressive multifocal leukoencephalopathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000674.htm
+
+Resource: Progressive Multifocal Leukoencephalopathy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/progressive-multifocal-leukoencephalopathy
+
+Resource: HIV and Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22AIDS-Related+Opportunistic+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stages of HIV Infection
+Category: Start Here
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/stages-hiv-infection
+
+Resource: TB Risk and People with HIV
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tb/risk-factors/hiv.html
+
+Resource: Toxoplasmosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000637.htm
+
+Resource: Valley Fever
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/valley-fever/symptoms-causes/syc-20378761?p=1

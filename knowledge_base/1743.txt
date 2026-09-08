@@ -1,0 +1,433 @@
+Title: Anemia
+
+Summary:
+Si tiene anemia, es debido a que su sangre no está transportando suficiente oxígeno al resto de su cuerpo. La causa más común de anemia es no tener suficiente
+hierro
+. El cuerpo necesita este mineral para producir hemoglobina. La hemoglobina es una proteína rica en hierro que da a la sangre su color rojo y transporta oxígeno desde los pulmones al resto del cuerpo.
+Las tres causas principales de anemia son: pérdida de sangre, no producir glóbulos rojos y destrucción de estos a gran velocidad.
+Los problemas médicos que pueden causar anemia pueden ser:
+Períodos menstruales muy abundantes
+Embarazo
+Ulceras
+Pólipos en el colon o cáncer del colon
+Trastornos hereditarios
+Una dieta que no contiene suficiente hierro,
+ácido fólico
+o
+vitamina B 12
+Algunos trastornos, tales como
+anemia falciforme
+,
+talasemia
+o cáncer
+Anemia aplásica
+, una afección que puede ser hereditaria o adquirida
+Deficiencia de glucosa -6- fosfato-deshidrogenasa
+La anemia puede hacerlo sentirse débil, tener frío, estar mareado e irritable. También puede sentir dificultad para respirar o dolores de cabeza.
+El doctor diagnosticará la enfermedad a través de un examen físico y de sangre. El tratamiento depende del tipo de anemia que usted tenga.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Aglutinas frías y febriles (calientes)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003549.htm
+
+Resource: Anemia
+Category: Mujeres, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/anemia.aspx
+
+Resource: Anemia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000560.htm
+
+Resource: Anemia (niveles bajos de glóbulos rojos)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/recuentos-sanguineos-bajos/anemia.html
+
+Resource: Anemia causada por bajo nivel de hierro en bebés y niños pequeños
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007618.htm
+
+Resource: Anemia causada por bajo nivel de hierro en los niños
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007134.htm
+
+Resource: Anemia de Diamond-Blackfan
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diamond-blackfan-anemia.html
+
+Resource: Anemia de Diamond-Blackfan
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12933/anemia-de-diamond-blackfan/
+
+Resource: Anemia debida a un sangrado excesivo
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/anemia/anemia-debida-a-un-sangrado-excesivo
+
+Resource: Anemia en el recién nacido
+Category: Spanish/Español, Niños/as
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/problemas-sangu%C3%ADneos-en-el-reci%C3%A9n-nacido/anemia-en-el-reci%C3%A9n-nacido
+
+Resource: Anemia en la enfermedad renal crónica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/anemia
+
+Resource: Anemia en niños y adolescentes: Preguntas frecuentes de los padres
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/chronic/Paginas/anemia-and-your-child.aspx
+
+Resource: Anemia esferocítica congénita
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000530.htm
+
+Resource: Anemia ferropénica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000584.htm
+
+Resource: Anemia ferropénica (por falta de hierro)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ida.html
+
+Resource: Anemia hemolítica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000571.htm
+
+Resource: Anemia hemolítica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/anemia-hemolitica
+
+Resource: Anemia hemolítica causada por químicos y toxinas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000590.htm
+
+Resource: Anemia hemolítica inmunitaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000576.htm
+
+Resource: Anemia hemolítica inmunitaria inducida por medicamentos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000578.htm
+
+Resource: Anemia perniciosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000569.htm
+
+Resource: Anemia por deficiencia de folato
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000551.htm
+
+Resource: Anemia por deficiencia de hierro
+Category: Mujeres, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/iron-deficiency-anemia
+
+Resource: Anemia por deficiencia de hierro
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/anemia-ferropenica
+
+Resource: Anemia por deficiencia de vitamina B12
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/anemia-por-deficiencia-de-vitamina-b12
+
+Resource: Anemia por deficiencia de vitamina B12
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000574.htm
+
+Resource: Anemia por deficiencia de vitaminas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: Anemia por enfermedad crónica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000565.htm
+
+Resource: Anemia por inflamación o enfermedad crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-sangre/anemia-pori-inflamacion-enfermedad-cronica
+
+Resource: Anemia: tratamiento y control
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/tratamiento
+
+Resource: Análisis de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/analisis-de-sangre
+
+Resource: Biopsia de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Capacidad total de fijación del hierro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003489.htm
+
+Resource: Conteo de reticulocitos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-de-reticulocitos/
+
+Resource: Conteo sanguíneo completo (CSC)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-sanguineo-completo/
+
+Resource: Criohemoglobinuria paroxística (CHP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000557.htm
+
+Resource: Crisis hemolítica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003270.htm
+
+Resource: Deficiencia de piruvato quinasa (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pyruvate-kinase-deficiency.html
+
+Resource: Deficiencia de piruvatocinasa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001197.htm
+
+Resource: Degeneración combinada subaguda
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000723.htm
+
+Resource: Desear intensamente y masticar hielo: ¿un signo de anemia?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/iron-deficiency-anemia/expert-answers/chewing-ice/faq-20057982?p=1
+
+Resource: Electroforesis de hemoglobina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electroforesis-de-hemoglobina/
+
+Resource: Electroforesis de hemoglobina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003639.htm
+
+Resource: Enfermedad de la hemoglobina C
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000572.htm
+
+Resource: Enfermedades de la hemoglobina C, S-C y E
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/anemia/enfermedades-de-la-hemoglobina-c-s-c-y-e
+
+Resource: Esferocitosis hereditaria
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hereditary-spherocytosis.html
+
+Resource: Examen de anticuerpos anticélulas parietales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003351.htm
+
+Resource: Examen de deshidrogenasa láctica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003471.htm
+
+Resource: Examen de Donath-Landsteiner
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003668.htm
+
+Resource: Examen de eritropoyetina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003683.htm
+
+Resource: Examen de ferritina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003490.htm
+
+Resource: Examen de guayacol en heces
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003393.htm
+
+Resource: Examen de haptoglobina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003634.htm
+
+Resource: Examen de hemoglobina libre en el suero
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003677.htm
+
+Resource: Examen de hemólisis en sacarosa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003673.htm
+
+Resource: Examen de hierro sérico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003488.htm
+
+Resource: Examen de isoenzimas de la lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-isoenzimas-de-la-lactato-deshidrogenasa-ldh/
+
+Resource: Examen de piruvatocinasa en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003357.htm
+
+Resource: Examen de Schilling
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003572.htm
+
+Resource: Frotis de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/frotis-de-sangre/
+
+Resource: Hemoglobinuria paroxística nocturna
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000534.htm
+
+Resource: Hierro
+Category: Viviendo con..., Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Iron-DatosEnEspanol/
+
+Resource: Isoenzimas de la DHL prueba de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003499.htm
+
+Resource: Nivel de vitamina B12
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003705.htm
+
+Resource: Prueba de haptoglobina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-haptoglobina/
+
+Resource: Prueba de la médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-la-medula-osea/
+
+Resource: Prueba de lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato-deshidrogenasa-ldh/
+
+Resource: Prueba de sangre de ferritina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-ferritina/
+
+Resource: Prueba de vitamina B
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-vitamina-b/
+
+Resource: Pruebas de hierro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-hierro/
+
+Resource: Síndrome de Aase
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001662.htm
+
+Resource: Síndrome de Plummer-Vinson (membrana esofágica)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001158.htm
+
+Resource: Síntomas de la anemia
+Category: Comience aquí, Spanish/Español, Síntomas
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/sintomas
+
+Resource: Trasplante de células madre sanguíneas y de médula ósea
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/wwxaxksbp7/booklet_ES_BloodMarrow_ps40s.pdf
+
+Resource: Tratamientos para trastornos sanguíneos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sangre-y-medula-osea-tratamientos
+
+Resource: Vitamina B12
+Category: Viviendo con..., Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminB12-DatosEnEspanol/
+
+Resource: ¿Cómo sabrá su médico que usted tiene anemia?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/diagnostico
+
+Resource: ¿Qué causa la anemia?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/causas
+
+Resource: ¿Qué es la anemia?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia
+
+Resource: Índices de glóbulos rojos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/indices-de-globulos-rojos/

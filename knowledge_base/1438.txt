@@ -1,0 +1,353 @@
+Title: Childhood Leukemia
+
+Summary:
+What is leukemia?
+Leukemia
+is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets
+help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What are the types of leukemia in children?
+There are different types of leukemia. Some types are acute (fast growing). They usually get worse quickly if they are not treated. Most childhood leukemias are acute:
+Acute lymphocytic leukemia (ALL)
+, which is the most common type of leukemia in children and the most common
+cancer in children
+. In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell.
+Acute myeloid leukemia (AML)
+, which happens when bone marrow makes abnormal myeloblasts (a type of white blood cell), red blood cells, or platelets.
+Other types of leukemia are chronic (slow growing). They usually get worse over a longer period of time. They are rare in children:
+Chronic lymphocytic leukemia
+(CLL), in which the bone marrow makes abnormal lymphocytes (a type of white blood cell). It is more common in teens than children.
+Chronic myeloid leukemia
+(CML), in which the bone marrow makes abnormal granulocytes (a type of white blood cell). It is very rare in children.
+There are some other rare types of leukemia in children, including juvenile myelomonocytic leukemia (JMML).
+What causes leukemia in children?
+Leukemia happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise the risk of childhood leukemia.
+Who is at risk for leukemia in children?
+The factors that raise the risk of childhood leukemia include:
+Having a brother or sister, especially a twin, with leukemia
+Past treatment with
+chemotherapy
+Exposure to radiation
+, including
+radiation therapy
+Having certain
+genetic conditions
+, such as
+Ataxia telangiectasia
+Down syndrome
+Fanconi anemia
+Li-Fraumeni syndrome
+Neurofibromatosis type 1
+There are other factors that may raise the risk of getting one or more of the specific types of childhood leukemia.
+What are the symptoms of leukemia in children?
+Some of the symptoms of leukemia may include:
+Feeling tired
+Fever
+or night sweats
+Easy
+bruising
+or
+bleeding
+Weight loss or loss of appetite
+Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
+Other leukemia symptoms can be different from type to type. Chronic leukemia may not cause symptoms at first.
+How is leukemia in children diagnosed?
+Your health care provider may use many tools to diagnose leukemia:
+A physical exam
+A medical history
+Blood tests, such as a
+complete blood count (CBC)
+Bone marrow tests.
+There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+Genetic tests
+to look for gene and chromosome changes
+Once there is a diagnosis of leukemia, other tests may be done to see whether the cancer has spread. These include
+imaging tests
+and a lumbar puncture, which is a procedure to collect and test cerebrospinal fluid (CSF).
+What are the treatments for leukemia in children?
+The treatments for leukemia depend on which type it is, how severe the leukemia is, the child's age, and other factors. Possible treatments might include:
+chemotherapy
+radiation therapy
+Chemotherapy with
+stem cell transplant
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+Treatment for childhood leukemia is often successful. But the treatments can cause complications right away or later in life. Children who survived leukemia will need follow-up care the rest of their lives to watch for and treat any complications they may have.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Children and Teenagers
+- Blood, Heart and Circulation
+- Immune System
+
+MeSH Headings:
+- Leukemia
+
+Related Resources:
+
+Resource: Acute Lymphoblastic Leukemia (ALL)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/all.html
+
+Resource: Acute lymphocytic leukemia (ALL)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000541.htm
+
+Resource: Acute myelogenous leukemia (AML) -- children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007656.htm
+
+Resource: Advances in Leukemia Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/research
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: B and T cell screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003329.htm
+
+Resource: BCR ABL Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bcr-abl-genetic-test/
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood Transfusion
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Cancer in Children and Adolescents
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/child-adolescent-cancers-fact-sheet
+
+Resource: Causes, Risk Factors, and Prevention of Childhood Leukemia
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/causes-risks-prevention.html
+
+Resource: Childhood Leukemia
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children.html
+
+Resource: Children with Cancer: A Guide for Parents
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/guide-for-parents
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chronic myelogenous leukemia (CML)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000570.htm
+
+Resource: Chronic Myelogenous Leukemia (CML) (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cml.html
+
+Resource: ClinicalTrials.gov: Childhood Leukemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=leukemia&aggFilters=ages:child,status:not%20rec
+
+Resource: Coping with a Child's Blood Cancer Diagnosis
+Category: Living With
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/children-teens/coping-childhood-blood-cancer-diagnosis
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Early Detection, Diagnosis, and Prognosis of Childhood Leukemia
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/detection-diagnosis-staging.html
+
+Resource: Eating extra calories when sick - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000034.htm
+
+Resource: Electromagnetic Fields and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: General Information about Childhood Acute Lymphoblastic Leukemia
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-all-treatment-pdq
+
+Resource: General Information about Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-aml-treatment-pdq#_1
+
+Resource: Going to School during and after Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/childhood-cancer/going-to-school-during-and-after-cancer-treatment.html
+
+Resource: Immunotherapy to Treat Cancer (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immunotherapy.html
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Key Statistics for Childhood Leukemia
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/key-statistics.html
+
+Resource: Late Effects of Treatment for Childhood Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/late-effects-pdq
+
+Resource: Leukemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001299.htm
+
+Resource: Leukemia
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cancer-leukemia.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Pharmacogenetic Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pharmacogenetic-tests/
+
+Resource: Prognostic Factors and Survival Rates for Childhood Leukemia
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/detection-diagnosis-staging/survival-rates.html
+
+Resource: Childhood Leukemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Leukemia%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Groups for Childhood Acute Lymphoblastic Leukemia
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-all-treatment-pdq#_26
+
+Resource: Signs and Symptoms of Childhood Leukemia
+Category: Symptoms
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/detection-diagnosis-staging/signs-and-symptoms.html
+
+Resource: Stages of Childhood Acute Myeloid Leukemia and Other Myeloid Malignancies
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-aml-treatment-pdq#_30
+
+Resource: Support for Families when a Child Has Cancer
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/caregiver-support/parents
+
+Resource: T-cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003516.htm
+
+Resource: Tests for Childhood Leukemia
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/leukemia-in-children/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment Option Overview (Childhood Acute Lymphoblastic Leukemia)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-all-treatment-pdq#_32
+
+Resource: Treatment Option Overview (Childhood Acute Myeloid Leukemia/Other Myeloid Malignancies)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/child-aml-treatment-pdq#_36

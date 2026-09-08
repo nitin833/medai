@@ -1,0 +1,88 @@
+Title: Emergency Medical Services
+
+Summary:
+If you get very sick or badly hurt and need help right away, you should use emergency medical services. These services use specially trained people and specially equipped facilities.
+You may need care in the hospital emergency room (ER).  Doctors and nurses there treat emergencies, such as heart attacks and injuries. For some emergencies, you need help where you are. Emergency medical technicians, or EMTs, do specific rescue jobs. They answer emergency calls and give basic medical care. Some EMTs are paramedics - they have training to do medical procedures on site. They usually take you to the ER for more care.
+If you or someone you know needs emergency care, go to your hospital's emergency room. If you think the problem is life-threatening, call 911.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Emergency Medical Services
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Emergency Medical Services
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Emergency+Medical+Services%22&aggFilters=status:not%20rec
+
+Resource: Emergency Information Form for Children With Special Needs
+Category: Learn More
+Organization: American College of Emergency Physicians, American Academy of Pediatrics
+URL: https://www.acep.org/siteassets/uploads/uploaded-files/acep/clinical-and-practice-management/resources/pediatrics/medical-forms/blank-interactive-emergency-information-form.doc
+
+Resource: Emergency Room Tips for Caregivers: Your Comprehensive Guide
+Category: Learn More
+Organization: Caregiver Action Network
+URL: https://www.caregiveraction.org/10-tips-for-an-effective-emergency-room-visit/
+
+Resource: Going to the Emergency Room (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/emergency-room.html
+
+Resource: How to Handle a Medical Emergency (For Kids)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/emergency.html
+
+Resource: Medical Bill Rights
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/medical-bill-rights
+
+Resource: Mental Health Emergency Care
+Category: Learn More
+Organization: Children's Hospitals and Clinics of Minnesota
+URL: https://www.childrensmn.org/services/care-specialties-departments/mental-health-program/emergency-care/
+
+Resource: Emergency Medical Services
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Emergency+Medical+Services%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recognizing medical emergencies
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001927.htm
+
+Resource: Teaching Your Child How to Use 911
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/911.html
+
+Resource: These Emergency Rooms Adapt to the Needs of Older Adults
+Category: Learn More
+Organization: American Heart Association
+URL: https://www.heart.org/en/news/2025/05/06/these-emergency-rooms-adapt-to-the-needs-of-older-adults
+
+Resource: What You Need to Know in an Emergency (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/healthin.html
+
+Resource: When to use the emergency room - adult
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000593.htm
+
+Resource: When to use the emergency room - child
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000594.htm
+
+Resource: When Your Child Needs Emergency Medical Services
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/When-Your-Child-Needs-Emergency-Medical-Services.aspx

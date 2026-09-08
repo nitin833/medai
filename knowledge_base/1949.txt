@@ -1,0 +1,238 @@
+Title: Hepatitis
+
+Summary:
+¿Qué es la hepatitis?
+La hepatitis es la inflamación del
+hígado
+. Inflamación es la hinchazón de órganos que ocurren cuando se lesionan o infectan, y puede dañar su hígado. La hinchazón y daño puede afectar el buen funcionamiento de este órgano.
+La hepatitis puede ser una infección aguda (a corto plazo) o una infección crónica (a largo plazo). Algunos tipos de hepatitis solo causan infecciones agudas. Otros pueden causar infecciones tanto agudas como crónicas.
+¿Qué causa la hepatitis?
+Existen diferentes tipos de hepatitis, con diferentes causas:
+La hepatitis viral es el tipo más común. Es causada por uno de varios tipos, los virus de la hepatitis
+A
+,
+B
+,
+C
+, D y E. En los Estados Unidos, A, B y C son los más comunes
+La hepatitis alcohólica es causada por el
+consumo excesivo de alcohol
+La hepatitis tóxica puede ser causada por ciertos venenos, productos químicos, medicamentos o suplementos
+La hepatitis autoinmune es un tipo crónico en el que su sistema inmunitario ataca su hígado. Se desconoce la causa, pero la genética y el entorno pueden influir
+¿Cómo se transmite la hepatitis viral?
+En general, la hepatitis A y la hepatitis E se transmiten a través del contacto con
+alimentos
+o agua contaminados con las heces de una persona infectada. También puede contraer hepatitis E al comer carne de cerdo, ciervo o mariscos poco cocidos.
+La hepatitis B, C y D se transmiten a través del contacto con la sangre de una persona con la enfermedad. La hepatitis B y D también se pueden propagar a través del contacto con otros fluidos corporales. Esto puede suceder de muchas maneras, como compartir agujas de drogas o tener relaciones sexuales sin protección.
+¿Quién está en riesgo de contraer hepatitis?
+Los riesgos son diferentes para los distintos tipos de hepatitis. Por ejemplo, con la mayoría de los tipos virales, su riesgo es mayor si tiene relaciones sexuales sin protección. Las personas que beben mucho durante períodos prolongados corren el riesgo de contraer hepatitis alcohólica.
+¿Cuáles son los síntomas de la hepatitis?
+Algunas personas con hepatitis no presentan síntomas y no saben que están infectadas. Si se presentan síntomas, pueden incluir:
+Fiebre
+Fatiga
+Pérdida de apetito
+Náusea y/o vómitos
+Dolor abdominal
+Orina oscura
+Heces de color arcilla
+Dolor en las articulaciones
+Ictericia
+(coloración amarillenta de la piel y los ojos)
+Si tiene una infección aguda, sus síntomas pueden comenzar entre 2 semanas y 6 meses después de haberse infectado. Si tiene una infección crónica, es posible que no tenga síntomas hasta muchos años después.
+¿Qué otros problemas puede causar la hepatitis?
+La hepatitis crónica puede provocar complicaciones como
+cirrosis
+(cicatrización del hígado), insuficiencia hepática y
+cáncer de hígado
+. El diagnóstico y el tratamiento temprano de la hepatitis crónica pueden prevenir estas complicaciones.
+¿Cómo se diagnostica la hepatitis?
+Para diagnosticar la hepatitis, su profesional de la salud puede:
+Preguntar sobre sus síntomas y su historia clínica
+Hacer un examen físico
+Es probable que le hagan análisis de sangre, incluyendo
+pruebas de hepatitis viral
+Puede realizar pruebas de
+diagnóstico por imágenes
+, como una
+ecografía
+, una
+tomografía computarizada
+o una
+resonancia magnética
+Es posible que sea necesario realizar una
+biopsia
+de hígado para obtener un diagnóstico claro y verificar si hay daño hepático
+¿Cuáles son los tratamientos para la hepatitis?
+El tratamiento para la hepatitis depende del tipo que tenga y si es aguda o crónica. La hepatitis viral aguda a menudo desaparece por sí sola. Para sentirse mejor, es posible que solo necesite descansar y tomar suficientes líquidos. Pero en algunos casos puede ser más serio. Incluso podría necesitar tratamiento en un hospital.
+Hay diferentes medicamentos para tratar los distintos tipos crónicos de hepatitis. Otros posibles tratamientos pueden incluir cirugía y otros procedimientos médicos. Las personas con hepatitis alcohólica deben dejar el alcohol. Si su hepatitis crónica provoca insuficiencia hepática o cáncer de hígado, es posible que necesite un
+trasplante de hígado
+.
+¿Se puede prevenir la hepatitis?
+Hay diferentes formas de prevenir o reducir el riesgo de hepatitis, según el tipo de afección. Por ejemplo, no beber demasiado alcohol puede prevenir la hepatitis alcohólica. Existen vacunas para prevenir la hepatitis A y B. La hepatitis autoinmune no se puede prevenir.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+- Infecciones
+
+Related Resources:
+
+Resource: 5'-Nucleotidasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003575.htm
+
+Resource: Agente delta (hepatitis D)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000216.htm
+
+Resource: Alfa fetoproteína
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003573.htm
+
+Resource: Anticuerpos antiperoxidasa tiroidea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003556.htm
+
+Resource: Anticuerpos contra el músculo liso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003531.htm
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003895.htm
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/biopsia-higado
+
+Resource: Biopsia hepática
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/biopsie-du-foie/?lang=es
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Daño hépatico inducido por medicamentos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000226.htm
+
+Resource: Degeneración hepatocerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001393.htm
+
+Resource: Hepatitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001154.htm
+
+Resource: Hepatitis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hepatitis.html
+
+Resource: Hepatitis
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/abdominal/paginas/hepatitis.aspx
+
+Resource: Hepatitis (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/hepatitis.html
+
+Resource: Hepatitis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hepatitis.html
+
+Resource: Hepatitis alcohólica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?p=1
+
+Resource: Hepatitis autoinmunitaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/hepatitis-autoinmunitaria
+
+Resource: Hepatitis autoinmunitaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000245.htm
+
+Resource: Hepatitis D
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/hepatitis-viral/hepatitis-d
+
+Resource: Hepatitis E
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/hepatitis-e
+
+Resource: Hepatitis E
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/hepatitis-viral/hepatitis-e
+
+Resource: Hepatitis tóxica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/toxic-hepatitis/symptoms-causes/syc-20352202?p=1
+
+Resource: Hepatitis viral
+Category: Comience aquí, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/viral-hepatitis
+
+Resource: Hepatitis viral
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/hepatitis-viral
+
+Resource: Leucina aminopeptidasa en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003617.htm
+
+Resource: Patógenos de transmisión hemática
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000453.htm
+
+Resource: Prueba de anticuerpos contra el músculo liso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-contra-el-musculo-liso/
+
+Resource: Prueba de hepatitis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-hepatitis/
+
+Resource: Pruebas de serología de anticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-serologia-de-anticuerpos/
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Pruebas médicas en el hogar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-medicas-en-el-hogar/

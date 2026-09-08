@@ -1,0 +1,236 @@
+Title: Parathyroid Disorders
+
+Summary:
+Most people have four pea-sized glands, called parathyroid glands, on the thyroid gland in the neck. Though their names are similar, the thyroid and parathyroid glands are completely different. The parathyroid glands make parathyroid hormone (PTH), which helps your body keep the right balance of calcium and phosphorous.
+If your parathyroid glands make too much or too little hormone, it disrupts this balance. If they secrete extra PTH, you have hyperparathyroidism, and your blood calcium rises. In many cases, a benign tumor on a parathyroid gland makes it overactive. Or, the extra hormones can come from enlarged parathyroid glands. Very rarely, the cause is cancer.
+If you do not have enough PTH, you have hypoparathyroidism. Your blood will have too little calcium and too much phosphorous. Causes include injury to the glands,
+endocrine disorders
+, or genetic conditions. Treatment is aimed at restoring the balance of calcium and phosphorous.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+
+MeSH Headings:
+- Parathyroid Diseases
+
+Related Resources:
+
+Resource: About Hypoparathyroidism
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/hypopara/conditioninfo
+
+Resource: Calcium - ionized
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003486.htm
+
+Resource: Calcium - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003603.htm
+
+Resource: Calcium blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003477.htm
+
+Resource: Calcium Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcium-blood-test/
+
+Resource: Calcium in Urine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcium-in-urine-test/
+
+Resource: ClinicalTrials.gov: Hyperparathyroidism
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperparathyroidism%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypoparathyroidism
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypoparathyroidism%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Multiple Endocrine Neoplasia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Multiple+Endocrine+Neoplasia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Parathyroid Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Parathyroid+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Endocrine System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Familial isolated hyperparathyroidism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-isolated-hyperparathyroidism
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: General Information about Parathyroid Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq#_1
+
+Resource: How Do Health Care Providers Diagnose Hypoparathyroidism?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/hypopara/conditioninfo/diagnosed
+
+Resource: How Is Hypoparathyroidism Treated?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/hypopara/conditioninfo/treatment
+
+Resource: Hypercalcemia
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hypercalcemia/symptoms-causes/syc-20355523?p=1
+
+Resource: Hypercalcemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000365.htm
+
+Resource: Hypercalcemia - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000044.htm
+
+Resource: Hyperparathyroidism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001215.htm
+
+Resource: Hyperparathyroidism-jaw tumor syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperparathyroidism-jaw-tumor-syndrome
+
+Resource: Hypoparathyroidism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000385.htm
+
+Resource: Learning about Velocardiofacial Syndrome
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Velocardiofacial-Syndrome
+
+Resource: Mineral and Bone Disorder in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder
+
+Resource: Multiple Endocrine Neoplasia Type I
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/multiple-endocrine-neoplasia-type-1
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Osteitis fibrosa
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001252.htm
+
+Resource: Parathyroid adenoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001188.htm
+
+Resource: Parathyroid cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007264.htm
+
+Resource: Parathyroid cancer: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/parathyroid-cancer
+
+Resource: Parathyroid gland removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002931.htm
+
+Resource: Parathyroid hormone (PTH) blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003690.htm
+
+Resource: Parathyroid Hormone (PTH) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/parathyroid-hormone-pth-test/
+
+Resource: Parathyroid hormone-related protein blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003691.htm
+
+Resource: Parathyroid hyperplasia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001189.htm
+
+Resource: Parathyroidectomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100093_1.htm
+
+Resource: Phosphate in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/phosphate-in-blood/
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Primary Hyperparathyroidism
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/primary-hyperparathyroidism
+
+Resource: Primary Hyperparathyroidism
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/primary-hyperparathyroidism
+
+Resource: Parathyroid Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Parathyroid+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Stages of Parathyroid Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq#_21
+
+Resource: Treatment Option Overview (Parathyroid Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/parathyroid/patient/parathyroid-treatment-pdq#_27
+
+Resource: Vitamin D Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vitamin-d-test/

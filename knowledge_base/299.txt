@@ -1,0 +1,392 @@
+Title: Flu
+
+Also Called:
+- Grippe
+- Influenza
+- Seasonal flu
+
+Summary:
+What is the flu?
+The flu, also called influenza, is a respiratory infection caused by viruses. Each year, millions of Americans get sick with the flu. Sometimes it causes mild illness. But it can also be serious or even deadly, especially for people over 65, newborn babies, and people with certain chronic illnesses.
+What causes the flu?
+The flu is caused by flu viruses that spread from person to person. When someone with the flu coughs, sneezes, or talks, they spray tiny droplets. These droplets can land in the mouths or noses of people who are nearby. Less often, a person may get flu by touching a surface or object that has flu virus on it and then touching their own mouth, nose, or possibly their eyes.
+What are the symptoms of the flu?
+Symptoms of the flu come on suddenly and may include:
+Fever
+or feeling feverish/chills
+Cough
+Sore throat
+Runny or stuffy nose
+Muscle or body aches
+Headaches
+Fatigue
+(tiredness)
+Some people may also have
+vomiting
+and
+diarrhea
+. This is more common in children.
+Sometimes people have trouble figuring out whether they have a
+cold
+or the flu. There are differences between them:
+Signs and Symptoms
+Cold
+Flu
+Start of symptoms
+Slowly
+Suddenly
+Fever
+Rarely
+Usually
+Aches
+Sometimes (slight)
+Usually
+Fatigue, weakness
+Sometimes
+Usually
+Headache
+Rarely
+Common
+Stuffy nose, sneezing, or sore throat
+Common
+Sometimes
+Sometimes people say that they have a "flu" when they really have something else. For example, "stomach flu" isn't the flu; it's
+gastroenteritis
+.
+What other problems can the flu cause?
+Some people who get the flu will develop complications. Some of these complications can be serious or even life-threatening. They include:
+Bronchitis
+Ear infection
+Sinus infection
+Pneumonia
+Inflammation of the heart (myocarditis), brain (
+encephalitis
+), or muscle tissues (
+myositis
+, rhabdomyolysis)
+The flu also can make chronic health problems worse. For example, people with
+asthma
+may have asthma attacks while they have flu.
+Certain people are more likely to have complications from the flu, including:
+Adults 65 and older
+Pregnant women
+Children younger than 5
+People with certain chronic health conditions, such as asthma, diabetes, and heart disease
+How is the flu diagnosed?
+To diagnose the flu, health care providers will first do a medical history and ask about your symptoms. There are several
+tests for the flu
+. For the tests, your provider will swipe the inside of your nose or the back of your throat with a swab. Then the swab will be tested for the flu virus.
+Some tests are quick and give results in 15-20 minutes. But these tests are not as accurate as other flu tests. These other tests can give you the results in one hour or several hours.
+What are the treatments for the flu?
+Most people with the flu recover on their own without medical care. People with mild cases of the flu should stay home and avoid contact with others, except to get medical care.
+But if you have symptoms of flu and are in a high risk group or are very sick or worried about your illness, contact your health care provider. You might need antiviral medicines to treat your flu. Antiviral medicines can make the illness milder and shorten the time you are sick. They also can prevent serious flu complications. They usually work best when you start taking them within 2 days of getting sick.
+Can the flu be prevented?
+The best way to prevent the flu is to get a
+flu vaccine
+every year. But it's also important to have
+good health habits
+like covering your cough and washing your hands often. This can help stop the spread of germs and prevent the flu.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Lungs and Breathing
+
+MeSH Headings:
+- Influenza, Human
+
+Related Resources:
+
+Resource: 2023-2024 Flu Season
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/season/2023-2024.html
+
+Resource: 5 Tips: Natural Products for the Flu and Colds: What Does the Science Say?
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/tips-natural-products-for-the-flu-and-colds-what-does-the-science-say
+
+Resource: About Cancer and Flu
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer-flu/about/
+
+Resource: About Influenza
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/about/
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Caregivers of Infants and Young Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/takingcare/infantcare.html
+
+Resource: Caring for Someone Sick (Flu)
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/takingcare/caring-for-someone.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Influenza, Human
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Influenza,+Human%22&aggFilters=status:not%20rec
+
+Resource: Colds and the Flu
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/colds-and-the-flu/
+
+Resource: Colds and the flu - what to ask your doctor - adult
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000249.htm
+
+Resource: Colds and the flu - what to ask your doctor - child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000250.htm
+
+Resource: Colds, Flu, and Complementary Health Approaches
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/colds-flu-and-complementary-health-approaches
+
+Resource: College students and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007446.htm
+
+Resource: Decongestants: OTC Relief for Congestion
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/decongestants-otc-relief-for-congestion/
+
+Resource: Diagnosis for Flu
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/testing/
+
+Resource: Echinacea
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/echinacea
+
+Resource: Elderberry
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/elderberry
+
+Resource: Flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000080.htm
+
+Resource: Flu (Influenza) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/flu-influenza-test/
+
+Resource: Flu and Children with Neurologic Conditions
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/neurologic-pediatric.html
+
+Resource: Flu and People 65 Years and Older
+Category: Older Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/65over.htm
+
+Resource: Flu and People Living with HIV
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/hiv.html
+
+Resource: Flu and People with Asthma
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/asthma.html
+
+Resource: Flu and People with Diabetes
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/diabetes.html
+
+Resource: Flu and People with Heart Disease or History of Stroke
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/heartdisease.html
+
+Resource: Flu and Pregnancy
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/pregnant.htm
+
+Resource: Flu Prevention: Information for Travelers
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/travelersfacts/
+
+Resource: Flu: A Guide for Parents of Children or Adolescents with Chronic Health Conditions
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/chronic/Pages/Flu-A-Guide-for-Parents-of-Children-or-Adolescents-With-Chronic-Health-Conditions.aspx
+
+Resource: Flu: What to Do If You Get Sick
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/takingcare/
+
+Resource: FluView
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu-resources/php/resources/fluview.html
+
+Resource: Healthy Habits to Help Protect against Flu
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/prevention/actions-prevent-flu.html
+
+Resource: Influenza
+Category: Start Here
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/influenza
+
+Resource: Influenza (Flu)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719?p=1
+
+Resource: Influenza Photos
+Category: Images
+Organization: Immunization Action Coalition
+URL: https://www.vaccineinformation.org/photos/influenza/
+
+Resource: Is It a Cold, the Flu, an RSV Infection, or COVID-19?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/flu-vs-cold.html
+
+Resource: Is It Flu, COVID-19, Allergies, or a Cold?
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/01/it-flu-covid-19-allergies-or-cold
+
+Resource: It's a Good Time to Get Your Flu Vaccine
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/its-good-time-get-your-flu-vaccine
+
+Resource: Nasal Swab
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/nasal-swab/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: People at Higher Risk of Flu Complications
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/
+
+Resource: Pregnancy and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007443.htm
+
+Resource: Preventing Seasonal Flu
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/prevention/
+
+Resource: Flu
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Influenza%2C+Human%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Seasonal Flu and Staph Infection
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/signs-symptoms/flustaph.html
+
+Resource: Signs and Symptoms of Flu
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/signs-symptoms/
+
+Resource: Test Your Flu Prevention Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000080_44.htm
+
+Resource: The Flu
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/flu.html
+
+Resource: The Flu (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/flu.html
+
+Resource: The Flu: Should You Go to School?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/h1n1-school.html
+
+Resource: Treating Flu with Antiviral Drugs
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/treatment/antiviral-drugs.html
+
+Resource: Treating Influenza (Flu)
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/treatment/
+
+Resource: Treatment of Flu in Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/treatment/children-antiviral.html
+
+Resource: Weekly U.S. Influenza Surveillance Report
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fluview/
+
+Resource: What to Do About the Flu
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/flu-sheet.html
+
+Resource: What to Do if You Get the Flu
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-what-do-if-you-get-flu
+
+Resource: Who Needs a Flu Vaccine
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/vaccines/vaccinations.html
+
+Resource: Your baby and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007444.htm
+
+Resource: Your child and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007445.htm

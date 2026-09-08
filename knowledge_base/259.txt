@@ -1,0 +1,174 @@
+Title: Gallbladder Diseases
+
+Summary:
+Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine.
+Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the
+bile ducts
+. That is usually a
+gallstone
+. Gallstones form when substances in bile harden. Rarely, you can also get
+cancer
+in your gallbladder.
+Many gallbladder problems get better with removal of the gallbladder. Fortunately, you can live without a gallbladder. Bile has other ways of reaching your small intestine.
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Gallbladder Diseases
+
+Related Resources:
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Acute cholecystitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000264.htm
+
+Resource: Biliary Tract Disorders, Gallbladder Disorders, and Gallstone Pancreatitis
+Category: Start Here
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/biliary-tract-disorders-gallbladder-disorders-and-gallstone-pancreatitis/
+
+Resource: Bilirubin - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003595.htm
+
+Resource: Can You Recommend a Diet After Gallbladder Removal?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cholecystectomy/expert-answers/gallbladder-removal-diet/faq-20057813?p=1
+
+Resource: Cholecystectomy
+Category: Treatments and Therapies
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/cholecystectomy
+
+Resource: Cholecystitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867?p=1
+
+Resource: Chronic cholecystitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000217.htm
+
+Resource: Chronic Diarrhea: A Concern after Gallbladder Removal?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cholecystectomy/expert-answers/gallbladder-removal/faq-20058481?p=1
+
+Resource: ClinicalTrials.gov: Cholecystectomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cholecystectomy%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Gallbladder Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Gallbladder+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Diagnostic laparoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003918.htm
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: Gallbladder and Biliary Tract
+Category: Reference Desk
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/liver-and-gallbladder-disorders/biology-of-the-liver-and-gallbladder/gallbladder-and-biliary-tract
+
+Resource: Gallbladder Polyps: Can They Be Cancerous?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gallbladder-cancer/expert-answers/gallbladder-polyps/faq-20058450?p=1
+
+Resource: Gallbladder radionuclide scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003826.htm
+
+Resource: Gallbladder removal - laparoscopic - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000117.htm
+
+Resource: Gallbladder removal - open - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000118.htm
+
+Resource: Gallbladder removal - Series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100021_1.htm
+
+Resource: Hepatobiliary Nuclear Medicine
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/hepatobiliary
+
+Resource: Humble Gallbladder
+Category: Prevention and Risk Factors
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/the-humble-gallbladder
+
+Resource: Laparoscopic gallbladder removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007371.htm
+
+Resource: Laparoscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Open gallbladder removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002930.htm
+
+Resource: Overview of Gallbladder and Bile Duct Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/liver-and-gallbladder-disorders/gallbladder-and-bile-duct-disorders/overview-of-gallbladder-and-bile-duct-disorders
+
+Resource: Gallbladder Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Gallbladder+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recovering After Emergency Gallbladder Surgery
+Category: Treatments and Therapies
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/hai/tools/booklets/gallbladder-booklet.pdf
+
+Resource: Sphincter of Oddi Dysfunction
+Category: Related Issues
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://iffgd.org/gi-disorders/upper-gi-disorders/sphincter-of-oddi-dysfunction/

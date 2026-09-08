@@ -1,0 +1,77 @@
+Title: Lesiones por electricidad
+
+Also Called:
+- Lesiones eléctricas
+- Lesiones por rayos
+
+Summary:
+Cuando usted entra en contacto directo con la electricidad, la corriente puede pasar por su cuerpo y causar lesiones. Estas heridas pueden ser externas o internas. Usted puede sufrir uno o ambos tipos de lesiones. Las externas son
+quemaduras
+en la piel. Las internas incluyen daño a los órganos, huesos, músculos y nervios. También puede causar un
+ritmo anormal del corazón
+y
+paro cardíaco
+.
+La gravedad de sus lesiones dependen de qué tan fuerte es la corriente eléctrica, el tipo de corriente, cómo se mueve a través del cuerpo y el tiempo de exposición. Otros factores incluyen su estado de salud y cuánto demoró en recibir tratamiento.
+Las causas de las lesiones eléctricas incluyen:
+Caída de rayos
+Aparatos eléctricos defectuosos
+Exposición a la electricidad en el trabajo
+Contacto con el cableado de la casa o líneas de transmisión eléctrica
+Accidentes de niños pequeños cuando mascan o chupan cables eléctricos o introducen objetos en enchufes
+Si sufre una lesión eléctrica, usted debe consultar a un médico. Es posible que tenga daños internos y no se dé cuenta.
+
+Groups:
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Choque eléctrico: Primeros auxilios
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-electrical-shock/basics/art-20056695?p=1
+
+Resource: Incidentes eléctricos (en la construcción)
+Category: Más información, Spanish/Español
+Organization: Administración de Seguridad y Salud Ocupacional
+URL: https://www.osha.gov/etools/construction-sp/electrical-incidents
+
+Resource: Lesiones por choque eléctrico en los niños
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/paginas/electric-shock.aspx
+
+Resource: Lesiones por rayos
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/lesiones-causadas-por-electricidad-y-rayos/lesiones-por-rayos
+
+Resource: Lesión eléctrica
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000053.htm
+
+Resource: Quemaduras eléctricas: Primeros auxilios
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-electrical-burns/basics/art-20056687?p=1
+
+Resource: Qué hacer para protegerse de peligros eléctricos
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/natural-disasters/es/response/que-hacer-para-protegerse-de-peligros-electricos.html
+
+Resource: Rayos
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/lightning/index.html
+
+Resource: Seguridad Eléctrica: Salud y seguridad para los oficios eléctricos, Manual del estudiante
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2009-113sp.html
+
+Resource: Tormentas eléctricas y rayos
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/tormentas-electricas-y-rayos

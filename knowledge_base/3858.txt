@@ -1,0 +1,304 @@
+Title: Wounds and Injuries
+
+Also Called:
+- Traumatic injuries
+
+Summary:
+An injury is damage to your body. It is a general term that refers to harm caused by accidents,
+falls
+, hits, weapons, and more. In the U.S., millions of people injure themselves every year. These injuries range from minor to life-threatening. Injuries can happen at
+work
+or
+play
+, indoors or outdoors, driving a car, or walking across the street.
+Wounds are injuries that break the skin or other body tissues.   They include cuts, scrapes, scratches, and punctured skin. They often happen because of an accident, but surgery, sutures, and stitches also cause wounds. Minor wounds usually aren't serious, but it is important to clean them. Serious and infected wounds may require
+first aid
+followed by a visit to your doctor. You should also seek attention if the wound is deep, you cannot close it yourself, you cannot stop the bleeding or get the dirt out, or it does not heal.
+Other common types of injuries include:
+Animal bites
+Bruises
+Burns
+Dislocations
+Electrical injuries
+Fractures
+(broken bones)
+Sprains and strains
+
+Groups:
+- Skin, Hair and Nails
+- Injuries and Wounds
+- Safety Issues
+
+MeSH Headings:
+- Wounds and Injuries
+
+Related Resources:
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Bites and Scratches (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/bites.html
+
+Resource: Bleeding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000045.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Lacerations
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lacerations%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Wounds and Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Wounds+and+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Closed suction drain with bulb
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000039.htm
+
+Resource: Crush injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000024.htm
+
+Resource: Cuts and puncture wounds
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000043.htm
+
+Resource: Cuts and Scrapes: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-cuts/basics/art-20056711?p=1
+
+Resource: Dealing with Cuts (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/bleeding.html
+
+Resource: Diagnostic peritoneal lavage - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100159_1.htm
+
+Resource: Electrical injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000053.htm
+
+Resource: FastStats: Accidents or Unintentional Injuries
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/accidental-injury.htm
+
+Resource: Federal Emergency Management Agency
+Category: Find an Expert
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: Genital injury
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000044.htm
+
+Resource: Gunshot wounds - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000737.htm
+
+Resource: Hemovac drain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000038.htm
+
+Resource: How wounds heal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000741.htm
+
+Resource: Human bites - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000736.htm
+
+Resource: Hyperbaric Oxygen Therapy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/hyperbaric-oxygen-therapy/about/pac-20394380?p=1
+
+Resource: Hyperbaric oxygen therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: Incision Care After Surgery
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/caring-for-your-incision-after-surgery/
+
+Resource: Injury and Death during Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/injury-and-death-during-travel.html
+
+Resource: Internal Bleeding
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/first-aid/internal-bleeding
+
+Resource: Laceration - sutures or staples - at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000498.htm
+
+Resource: Lacerations - liquid bandage
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000497.htm
+
+Resource: Leading Causes of Death and Injury
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/injury/wisqars/LeadingCauses.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Wounds and Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Wounds+and+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Puncture Wounds
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/puncture-wounds
+
+Resource: Puncture Wounds: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-puncture-wounds/basics/art-20056665?p=1
+
+Resource: Q&A: Dr. Vance Fowler on Antibiotic Resistance
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/10/dr-vance-fowler-antibiotic-resistance
+
+Resource: Researchers Uncover Clues to Why Some Wounds Don't Heal
+Category: Statistics and Research
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/newsroom/spotlight-on-research/researchers-uncover-clues-why-some-wounds-dont-heal
+
+Resource: Scars and Wounds
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/hair-skin-nails/scars-and-wounds.html
+
+Resource: Severe Bleeding: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-severe-bleeding/basics/art-20056661?p=1
+
+Resource: Skin flaps and grafts - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000743.htm
+
+Resource: State Occupational Injuries, Illnesses, and Fatalities
+Category: Statistics and Research
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/iif/state-data.htm
+
+Resource: Sterile technique
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000119.htm
+
+Resource: Sternal exploration or closure
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007626.htm
+
+Resource: Surgical Site Infection Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/surgical-site-infections/about/
+
+Resource: Surgical wound care - closed
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000738.htm
+
+Resource: Surgical wound care - open
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000040.htm
+
+Resource: Surgical wound infection - treatment
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007645.htm
+
+Resource: Suture, Surgical
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/surgical-suture/?Imiw9cApl=1
+
+Resource: To Heal a Wound: Helping the Skin Fix Itself
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/10/heal-wound
+
+Resource: Web-based Injury Statistics Query and Reporting System - WISQARS
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://wisqars.cdc.gov/
+
+Resource: Wet-to-dry dressing changes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000315.htm
+
+Resource: What Do I Need in My First Aid Kit?
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/what-do-i-need-in-my-first-aid-kit/
+
+Resource: What's a Scab?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/scab.html
+
+Resource: Wound care centers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000739.htm
+
+Resource: Wound Drainage Culture (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/wound-culture.html
+
+Resource: Wound Healing and Care
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/wounds.html

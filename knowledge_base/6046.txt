@@ -1,0 +1,79 @@
+Title: Campylobacter Infections
+
+Summary:
+Campylobacter infection is a common
+foodborne illness
+. You usually get it from eating contaminated food, especially raw or undercooked poultry. You can also get it from drinking contaminated water or raw milk, or handling infected animal feces (poop).
+Some infected people don't have any symptoms.  If you do have symptoms, they start two to five days after you are infected. They usually last about one week, and can include:
+Diarrhea (which could be bloody)
+Cramping
+Abdominal pain
+Fever
+Fatigue
+Nausea and vomiting
+Health care providers use stool tests to make a diagnosis. Most people get better without treatment. You should drink extra fluids for as long as the diarrhea lasts. People who have a severe infection or a weakened immune system may need to take
+antibiotics
+. In rare cases, the infection can cause
+reactive arthritis
+or
+Guillain-Barre syndrome
+.
+To prevent Campylobacter infection, cook poultry thoroughly. Use a separate cutting board and utensils for meats. Make sure to clean them carefully with soap and hot water after you use them.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Campylobacter Infections
+
+Related Resources:
+
+Resource: About Campylobacter infection
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/campylobacter/about/
+
+Resource: Bacteria Culture Test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Campylobacter
+Category: Learn More
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/foodborne-illness-and-disease/illnesses-and-pathogens/campylobacter
+
+Resource: Campylobacter infection
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000224.htm
+
+Resource: Campylobacter Infections
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/campylobacter.html
+
+Resource: Campylobacter Infections
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Campylobacter-Infections.aspx
+
+Resource: Campylobacter serology test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003530.htm
+
+Resource: Chicken from Farm to Table
+Category: Learn More
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/chicken-farm-table
+
+Resource: ClinicalTrials.gov: Campylobacter Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Campylobacter+Infections%22&aggFilters=status:not%20rec
+
+Resource: Campylobacter Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Campylobacter+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

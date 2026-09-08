@@ -1,0 +1,102 @@
+Title: Salud de las mujeres
+
+Summary:
+Las mujeres tienen problemas de salud únicos. Y algunos de los problemas de salud que afectan a hombres y mujeres pueden afectar a estas últimas de manera diferente.
+Temas únicos incluyen el
+embarazo
+, la
+menopausia
+y las afecciones de los órganos femeninos. Las mujeres pueden tener un embarazo saludable si reciben
+cuidado prenatal
+temprano y regular. También deben hacerse las pruebas recomendadas para el cáncer de mama,
+cervical
+y de
+densidad ósea
+.
+Mujeres y hombres también tienen muchos problemas de salud similares. Sin embargo, estos problemas pueden afectar a las mujeres de manera diferente. Por ejemplo:
+Las mujeres tienen más probabilidades de morir a causa de un
+ataque al corazón
+que los hombres
+Las mujeres tienen más probabilidades de mostrar signos de
+depresión
+y
+ansiedad
+que los hombres
+Los efectos de las infecciones de transmisión sexual (ITS) pueden ser más graves en las mujeres.
+La
+osteoartritis
+afecta más a las mujeres que a los hombres
+Las mujeres tienen más probabilidades de tener
+infecciones de las vías urinarias
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Mujeres
+- Grupos especiales
+
+Related Resources:
+
+Resource: Alimentación saludable
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/healthy-eating
+
+Resource: Concientización sobre el cáncer ginecológico
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/gynecologic-cancer.html
+
+Resource: Envejecimiento saludable
+Category: Personas mayores, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/blog/category/healthy-aging
+
+Resource: Imagen corporal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/mental-health/body-image-and-mental-health/body-image
+
+Resource: Mujer: Conserve su salud a cualquier edad
+Category: Comience aquí, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/patients-consumers/prevention/lifestyle/mujer.pdf
+
+Resource: Mujer: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/women50sp.pdf
+
+Resource: Mujeres y el alcohol
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional sobre el Abuso de Alcohol y Alcoholismo
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/las-mujeres-y-el-alcohol
+
+Resource: Oficina para la Salud de la Mujer
+Category: Comience aquí, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/
+
+Resource: Salud cardíaca
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/free-publications-women/salud-cardiaca-heart-health
+
+Resource: Salud de las mujeres
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007458.htm
+
+Resource: Servicios preventivos de salud para mujeres
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/preventive-care-women/
+
+Resource: Sexo y género: Cómo el ser hombre o mujer puede afectar su salud
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sexo-y-genero
+
+Resource: Vello excesivo o indeseado en las mujeres
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007622.htm

@@ -1,0 +1,387 @@
+Title: Poisoning
+
+Summary:
+A poison is any substance that is harmful to your body. You might swallow it, inhale it, inject it, or absorb it through your skin. Any substance can be poisonous if too much is taken. Poisons can include:
+Prescription or over-the-counter medicines taken in doses that are too high
+Overdoses of illegal drugs
+Carbon monoxide
+from gas appliances
+Household products
+, such as laundry powder or furniture polish
+Pesticides
+Indoor or outdoor plants
+Metals such as
+lead
+and
+mercury
+The effects of poisoning range from short-term illness to brain damage, coma, and death. To prevent poisoning it is important to use and store products exactly as their labels say. Keep dangerous products where children can't get to them. Treatment for poisoning depends on the type of poison. If you suspect someone has been poisoned, call your local poison control center at
+1-800-222-1222
+right away.
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+- Safety Issues
+
+MeSH Headings:
+- Poisoning
+
+Related Resources:
+
+Resource: Abnormal hemoglobins testing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003371.htm
+
+Resource: Alcohol Poisoning
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/alcohol-poisoning/symptoms-causes/syc-20354386?p=1
+
+Resource: Ammonia poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002759.htm
+
+Resource: Benzene
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/benzene.html
+
+Resource: Black nightshade poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002887.htm
+
+Resource: Blue nightshade poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002888.htm
+
+Resource: Bug spray poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002763.htm
+
+Resource: Caladium plant poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002863.htm
+
+Resource: Calla lily
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002864.htm
+
+Resource: Castor oil overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002768.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chemical Emergency Preparedness
+Category: Specifics
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/chemical-emergency.html
+
+Resource: ClinicalTrials.gov: Poisoning
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Poisoning%22&aggFilters=status:not%20rec
+
+Resource: Copper poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002496.htm
+
+Resource: Cyanide
+Category: Specifics
+Organization: Johns Hopkins Bloomberg School of Public Health
+URL: https://centerforhealthsecurity.org/sites/default/files/2023-02/cyanide.pdf
+
+Resource: Detergent poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002777.htm
+
+Resource: Dieffenbachia poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002866.htm
+
+Resource: Dirt - swallowing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002840.htm
+
+Resource: Drain cleaner poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002779.htm
+
+Resource: Drain opener poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002780.htm
+
+Resource: Elephant ear poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002867.htm
+
+Resource: Ethanol poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002644.htm
+
+Resource: Ethylene glycol blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003564.htm
+
+Resource: Ethylene glycol poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000774.htm
+
+Resource: Find a Poison Center
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://poisonhelp.hrsa.gov/poison-centers/find-poison-center
+
+Resource: Foxglove poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002878.htm
+
+Resource: Gasoline poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002806.htm
+
+Resource: Gastric suction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003882.htm
+
+Resource: Household Safety: Preventing Poisoning (For Parents)
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/safety-poisoning.html
+
+Resource: Hydrocarbon pneumonia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001083.htm
+
+Resource: In Case of Pesticide Emergency
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/rodenticides/case-pesticide-emergency
+
+Resource: Iodine poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002658.htm
+
+Resource: Jack-in-the-pulpit poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002870.htm
+
+Resource: Jerusalem cherry poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002871.htm
+
+Resource: Jimsonweed poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002881.htm
+
+Resource: Kerosene poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002807.htm
+
+Resource: Lighter fluid poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002833.htm
+
+Resource: Lily of the valley poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002882.htm
+
+Resource: Malathion poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002834.htm
+
+Resource: Methanol test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003563.htm
+
+Resource: Mistletoe poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002883.htm
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: National Poison Data System (NPDS) Annual Reports
+Category: Statistics and Research
+Organization: America's Poison Centers
+URL: https://www.poisoncenters.org/annual-reports
+
+Resource: Nicotine poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002510.htm
+
+Resource: Oleander poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002884.htm
+
+Resource: Oven cleaner poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002800.htm
+
+Resource: Overview of Poisoning
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/poisoning/overview-of-poisoning
+
+Resource: Paradichlorobenzene poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002902.htm
+
+Resource: Paraquat poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007834.htm
+
+Resource: Philodendron poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002872.htm
+
+Resource: Poinsettia plant exposure
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002885.htm
+
+Resource: Poison Prevention
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/all-around/Pages/Poison-Prevention.aspx
+
+Resource: Poison-Proof Your Home One Room at a Time: Pesticide Poison Prevention Checklist
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sites/default/files/2015-10/documents/roombyroom-checklist.pdf
+
+Resource: Poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000718.htm
+
+Resource: Poisoning
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/poisoning/
+
+Resource: Poisoning first aid
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007579.htm
+
+Resource: Poisoning: First Aid
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-poisoning/basics/art-20056657?p=1
+
+Resource: Poisoning: What You Can Do
+Category: Treatments and Therapies
+Organization: Health Resources and Services Administration
+URL: https://poisonhelp.hrsa.gov/what-you-can-do
+
+Resource: Poisonings Among Children Ages 0-14 in 2018
+Category: Statistics and Research
+Organization: Safe Kids Worldwide
+URL: https://www.safekids.org/sites/default/files/documents/2020_fast_facts_poisonings_v1.pdf
+
+Resource: Pokeweed poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002874.htm
+
+Resource: Potato plant poisoning - green tubers and sprouts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002875.htm
+
+Resource: Prevention Tips -- Poison Help
+Category: Prevention and Risk Factors
+Organization: Health Resources and Services Administration
+URL: https://poisonhelp.hrsa.gov/what-you-can-do/prevention-tips
+
+Resource: Poisoning
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Poisoning%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Read the Label First! Protect Your Household
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sites/default/files/2016-02/documents/household.pdf
+
+Resource: Read the Label First! Protect Your Pets
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sites/default/files/2016-02/documents/pets.pdf
+
+Resource: Rhubarb leaves poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002876.htm
+
+Resource: Strychnine
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/strychnine.html
+
+Resource: Tetrahydrozoline poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002590.htm
+
+Resource: Toilet bowl cleaners and deodorizers poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002743.htm
+
+Resource: Toxicology screen
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003578.htm
+
+Resource: Yew poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002877.htm
+
+Resource: Zinc poisoning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002570.htm

@@ -1,0 +1,328 @@
+Title: Acute Lymphocytic Leukemia
+
+Also Called:
+- ALL
+- Acute lymphoblastic leukemia
+
+Summary:
+What is leukemia?
+Leukemia
+is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets
+help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What is acute lymphocytic leukemia (ALL)?
+Acute lymphocytic leukemia is a type of acute leukemia. It's also called ALL and acute lymphoblastic leukemia. "Acute" means that it usually gets worse quickly if it's not treated. ALL is the most common type of cancer in
+children
+. It can also affect adults.
+In ALL, the bone marrow makes too many lymphocytes, a type of white blood cell. These cells normally help your body fight infection. But in ALL, they are abnormal and cannot fight infection very well. They also crowd out the healthy cells, which can lead to infection,
+anemia
+, and easy bleeding. These abnormal cells can also spread to other parts of the body, including the brain and spinal cord.
+What causes acute lymphocytic leukemia (ALL)?
+ALL happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown. However, there are certain factors that raise your risk of ALL.
+Who is at risk for acute lymphocytic leukemia (ALL)?
+The factors that raise your risk of ALL include:
+Being male
+Being white
+Being over age 70
+Having had
+chemotherapy
+or
+radiation therapy
+Having been exposed to high levels of
+radiation
+Having certain
+genetic disorders
+, such as
+Down syndrome
+What are the symptoms of acute lymphocytic leukemia (ALL)?
+The signs and symptoms of ALL include:
+Weakness or
+feeling tired
+Fever
+or night sweats
+Easy
+bruising
+or
+bleeding
+Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
+Shortness of breath
+Weight loss or loss of appetite
+Pain in the bones or stomach
+Pain or feeling of fullness below the ribs
+Swollen lymph nodes - you may notice them as painless lumps in the neck, underarm, stomach, or groin
+Having had many infections
+How is acute lymphocytic leukemia (ALL) diagnosed?
+Your health care provider may use many tools to diagnose ALL and figure out which subtype you have:
+A physical exam
+A medical history
+Blood tests, such as
+Complete blood count (CBC) with differential
+Blood chemistry tests such as a
+basic metabolic panel (BMP)
+,
+comprehensive metabolic panel (CMP)
+,
+kidney function tests
+,
+liver function tests
+, and
+electrolyte panel
+Blood smear
+Bone marrow tests
+. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+Genetic tests
+to look for gene and chromosome changes
+If you are diagnosed with ALL, you may have additional tests to see whether the cancer has spread. These include
+imaging tests
+and a
+lumbar puncture
+, which is a procedure to collect and test cerebrospinal fluid (CSF).
+What are the treatments for acute lymphocytic leukemia (ALL)?
+Treatments for ALL include:
+Chemotherapy
+Radiation therapy
+Chemotherapy with
+stem cell transplant
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+Treatment is usually done in two phases:
+The goal of the first phase is to kill the leukemia cells in the blood and bone marrow. This treatment puts the leukemia into remission. Remission means that the signs and symptoms of cancer are reduced or have disappeared.
+The second phase is known as post-remission therapy. Its goal is to prevent a relapse (return) of the cancer. It involves killing any remaining leukemia cells that may not be active but could begin to regrow.
+Treatment during both phases also usually includes central nervous system (CNS) prophylaxis therapy. This therapy helps prevent the spread of leukemia cells to the brain and spinal cord. It may be high dose chemotherapy or chemotherapy injected into the spinal cord. It also sometimes includes radiation therapy.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Blood, Heart and Circulation
+- Immune System
+
+MeSH Headings:
+- Leukemia, Lymphoid
+
+Related Resources:
+
+Resource: Acute Lymphoblastic Leukemia (ALL)
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant/diseases-treated-by-transplant/acute-lymphoblastic-leukemia
+
+Resource: Acute Lymphocytic Leukemia
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acute-lymphocytic-leukemia/symptoms-causes/syc-20369077?p=1
+
+Resource: Acute lymphocytic leukemia (ALL)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000541.htm
+
+Resource: Acute Lymphocytic Leukemia (ALL) Subtypes and Prognostic Factors
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/detection-diagnosis-staging/how-classified.html
+
+Resource: Advances in Leukemia Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/research
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: B and T cell screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003329.htm
+
+Resource: BCR ABL Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bcr-abl-genetic-test/
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood Transfusion
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Can Acute Lymphocytic Leukemia (ALL) Be Found Early?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/detection-diagnosis-staging/detection.html
+
+Resource: Cancer Statistics: Acute Lymphocytic Leukemia (ALL)
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/alyl.html
+
+Resource: Childhood Leukemia: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodleukemia.html
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Clinical Trial Support Center (CTSC)
+Category: Clinical Trials
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/resources/patients/clinical-trial-support-center-ctsc
+
+Resource: ClinicalTrials.gov: Leukemia, Lymphoid
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia,+Lymphoid%22&aggFilters=status:not%20rec
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Electromagnetic Fields and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: General Information about Adult Acute Lymphoblastic Leukemia
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_1
+
+Resource: Immunotherapy
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Key Statistics for Acute Lymphocytic Leukemia (ALL)
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/about/key-statistics.html
+
+Resource: Lab and Imaging Tests
+Category: Diagnosis and Tests
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/lab-imaging-tests
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Acute Lymphocytic Leukemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Leukemia%2C+Lymphoid%22%5Bmajr%5D+AND+adult+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Risk Factors for Acute Lymphocytic Leukemia
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/causes-risks-prevention/risk-factors.html
+
+Resource: Stages of Adult Acute Lymphoblastic Leukemia
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_123
+
+Resource: T-cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003516.htm
+
+Resource: Targeted Therapy for Acute Lymphocytic Leukemia (ALL)
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/treating/targeted-therapy.html
+
+Resource: Tests for Acute Lymphocytic Leukemia (ALL)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment of Adult Acute Lymphoblastic Leukemia in Remission
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_217
+
+Resource: Treatment of Recurrent Adult Acute Lymphoblastic Leukemia
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_221
+
+Resource: Treatment of Untreated Adult Acute Lymphoblastic Leukemia
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_213
+
+Resource: Treatment Option Overview (Adult Acute Lymphoblastic Leukemia)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/adult-all-treatment-pdq#_34
+
+Resource: What Is Acute Lymphocytic Leukemia (ALL)?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/about/what-is-all.html
+
+Resource: What's New in Adult Acute Lymphocytic Leukemia (ALL) Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/acute-lymphocytic-leukemia/about/new-research.html

@@ -1,0 +1,109 @@
+Title: Fetal Health and Development
+
+Summary:
+A normal
+pregnancy
+lasts nine months. Each three-month period of pregnancy is called a trimester. During each trimester, the fetus grows and develops. Regular
+medical checkups
+and
+prenatal tests
+are very important. They can:
+Help keep you and your baby healthy
+Spot
+problems with your baby
+(if there are any). In some cases, health care professionals can treat the problem before your baby is born.  But even when they cannot, it can still be helpful to know about the problem early on. That gives you time to learn about your baby's condition and prepare for any challenges you may face after the baby is born.
+Prevent
+problems during delivery
+. For example, if your baby is breech (bottom first or feet first, instead of head first), you may need to have a
+Cesarean section
+to avoid complications.
+Besides getting medical care, there are other things you can do to keep your baby as healthy as possible. It's important
+not to drink or smoke
+.  Try to eat a
+healthy diet
+and make sure to take care of any
+health problems you have during pregnancy
+.
+
+Groups:
+- Pregnancy and Reproduction
+
+MeSH Headings:
+- Fetal Diseases
+- Fetal Development
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Fetal Development
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fetal+Development%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Fetal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fetal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Fetal development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002398.htm
+
+Resource: Fetal echocardiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007340.htm
+
+Resource: Fetal Growth Restriction
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/fetal-growth-restriction/
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Hydrops fetalis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007308.htm
+
+Resource: Hydrops Fetalis/Erythroblastosis Fetalis
+Category: Specifics
+Organization: Children's Hospital and Health System, Inc.
+URL: https://childrenswi.org/find-care/fetal-concerns/hydrops-erythroblastosis-fetalis
+
+Resource: Intrauterine growth restriction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001500.htm
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Prenatal Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/prenataltesting.html
+
+Resource: Fetal Health and Development
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Fetal+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Fetal+Development%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stages of Pregnancy
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/pregnancy/youre-pregnant-now-what/stages-pregnancy
+
+Resource: What Are the Risks of Preeclampsia and Eclampsia to the Fetus?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/preeclampsia/conditioninfo/risk-fetus

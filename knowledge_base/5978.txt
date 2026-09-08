@@ -1,0 +1,127 @@
+Title: Trastornos de los bronquios
+
+Also Called:
+- Problemas bronquiales
+
+Summary:
+Los bronquios son dos tubos que se ramifican desde la tráquea y llevan aire a los pulmones.
+El trastorno bronquial más común es la bronquitis, una inflamación de los tubos. La bronquitis puede ser
+aguda
+o
+crónica
+. Otros problemas incluyen:
+Bronquiectasia, una afección en la cual el daño a las vías respiratorias hace que se ensanchen, se vuelvan flácidas y con cicatrices
+Broncoespasmo inducido por ejercicio, ocurre cuando las vías respiratorias se contraen mientras usted está haciendo ejercicio
+Bronquiolitis, una inflamación de las vías aéreas pequeñas que se ramifican desde los bronquios
+Displasia broncopulmonar, una afección que afecta a los bebés
+El tratamiento de los trastornos bronquiales depende de la causa.
+
+Groups:
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Afecciones respiratorias del recién nacido
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/displasia-broncopulmonar
+
+Resource: Alta tras bronquiolitis
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000007.htm
+
+Resource: Broncoscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003857.htm
+
+Resource: Broncoscopia con lavado broncoalveolar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/broncoscopia-con-lavado-broncoalveolar/
+
+Resource: Bronquiectasia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000144.htm
+
+Resource: Bronquiolitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000975.htm
+
+Resource: Bronquiolitis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bronchiolitis.html
+
+Resource: Bronquiolitis obliterante
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12222/bronquiolitis-obliterante/
+
+Resource: Cómo funcionan los pulmones
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: Displasia broncopulmonar
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bpd.html
+
+Resource: Displasia broncopulmonar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001088.htm
+
+Resource: Drenaje postural
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000051.htm
+
+Resource: Pruebas de función pulmonar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-funcion-pulmonar/
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Pulmones y aparato respiratorio
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/lungs.html
+
+Resource: Radiografía torácica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Rayos X del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Resonancia magnética del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003794.htm
+
+Resource: Ruptura traqueal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001092.htm
+
+Resource: ¿Qué es la bronquiectasia?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/bronquiectasias
+
+Resource: ​Bronquiolitis en bebés: lo que los padres deben saber
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/chest-lungs/Paginas/bronchiolitis.aspx

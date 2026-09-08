@@ -1,0 +1,261 @@
+Title: Medicines
+
+Also Called:
+- Drugs
+- Medications
+
+Summary:
+Medicines can treat diseases and improve your health. If you are like most people, you need to take medicine at some point in your life. You may need to take medicine every day, or you may only need to take medicine once in a while.  Either way, you want to make sure that your medicines are safe, and that they will help you get better. In the United States, the Food and Drug Administration is in charge of ensuring that your prescription and
+over-the-counter
+medicines are safe and effective.
+There are always risks to taking medicines. It is important to think about these risks before you take a medicine. Even safe medicines can cause unwanted
+side effects or interactions
+with food, alcohol, or other medicines you may be taking. Some medicines may not be safe during
+pregnancy
+. To reduce the risk of reactions and make sure that you get better, it is important for you to
+take your medicines correctly
+. You should also be careful when giving medicines to
+children
+, since they can be more vulnerable to the effects of medicines.
+
+Groups:
+- Drug Therapy
+
+MeSH Headings:
+- Pharmaceutical Preparations
+
+Related Resources:
+
+Resource: 5 Medication Safety Tips for Older Adults
+Category: Older Adults
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/5-medication-safety-tips-older-adults
+
+Resource: Adherence
+Category: Related Issues
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/adherence
+
+Resource: As You Age: You and Your Medicines
+Category: Older Adults
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/information-consumers-and-patients-drugs/you-age-you-and-your-medicines
+
+Resource: Biosimilar and Interchangeable Biologics: More Treatment Choices
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/biosimilar-and-interchangeable-biologics-more-treatment-choices
+
+Resource: Choose How You Get Drug Coverage
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/health-drug-plans/part-d/basics/choose-coverage
+
+Resource: Cost of Medications
+Category: Related Issues
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/faq/471590/cost-medications
+
+Resource: Disposal of Unused Medicines: What You Should Know
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/safe-disposal-medicines/disposal-unused-medicines-what-you-should-know
+
+Resource: Drawing medicine out of a vial
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000530.htm
+
+Resource: Drugs@FDA: FDA-Approved Drugs
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.accessdata.fda.gov/scripts/cder/daf/
+
+Resource: FastStats: Therapeutic Drug Use
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/drug-use-therapeutic.htm
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Generic Drugs: Questions and Answers
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/generic-drugs/generic-drugs-questions-answers
+
+Resource: Giving an IM (intramuscular) injection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000935.htm
+
+Resource: Herbal Supplements and Heart Medicines May Not Mix
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488?p=1
+
+Resource: How and when to get rid of unused medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000943.htm
+
+Resource: How Do Medicines Work?
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://biobeat.nigms.nih.gov/2023/10/how-do-medicines-work/
+
+Resource: How to save money on medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000863.htm
+
+Resource: How to Take Your Medication
+Category: Start Here
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/how-to-take-medication
+
+Resource: Information for Consumers and Patients (Drugs)
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/resources-drugs/information-consumers-and-patients-drugs
+
+Resource: IV treatment at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000496.htm
+
+Resource: LiverTox: Clinical and Research Information on Drug-Induced Liver Injury
+Category: Statistics and Research
+Organization: National Library of Medicine, National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.ncbi.nlm.nih.gov/books/NBK547852/
+
+Resource: Managing Your Medicines
+Category: Start Here
+Organization: American Diabetes Association
+URL: https://professional.diabetes.org/sites/default/files/media/Managing_Your_Medicines.pdf
+
+Resource: Medications That Older Adults Should Avoid or Use With Caution
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/medications-older-adults/medications-older-adults-should-avoid
+
+Resource: Medicines and Children: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medicinesandchildren.html
+
+Resource: MedlinePlus: Drugs, Herbs, and Supplements
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/druginformation.html
+
+Resource: Mental Health Side Effects
+Category: Related Issues
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/side-effects
+
+Resource: Mixing Medications and Dietary Supplements Can Endanger Your Health
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/mixing-medications-and-dietary-supplements-can-endanger-your-health
+
+Resource: Pharmacogenetic testing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007795.htm
+
+Resource: Pharmacogenetic Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pharmacogenetic-tests/
+
+Resource: Pharmacogenetics
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007794.htm
+
+Resource: Pharmacogenetics: How Genetic Testing Can Guide Medicine Decisions
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pharmacogenomics.html
+
+Resource: Medicines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pharmaceutical+Preparations%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Some Medicines and Driving Don't Mix
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/some-medicines-and-driving-dont-mix
+
+Resource: Storing your medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000534.htm
+
+Resource: Suicide Warnings on Medications
+Category: Related Issues
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/faq/471018/suicide-warnings-medications
+
+Resource: Taking medicines - what to ask your provider
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000535.htm
+
+Resource: Technology to Help You Remember to Take Medications: Automatic Pill Dispensers
+Category: Related Issues
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/pill-dispensers
+
+Resource: Therapeutic drug levels
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003430.htm
+
+Resource: Therapeutic Drug Monitoring
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/therapeutic-drug-monitoring/
+
+Resource: Think It Through: Managing the Benefits and Risks of Medicines
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/information-consumers-and-patients-drugs/think-it-through-managing-benefits-and-risks-medicines
+
+Resource: Understanding Medicines and What They Do
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/meds.html
+
+Resource: Understanding Unapproved Use of Approved Drugs "Off Label"
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/patients/learn-about-expanded-access-and-other-treatment-options/understanding-unapproved-use-approved-drugs-label
+
+Resource: Use Medicines Wisely
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health/use-medicines-wisely
+
+Resource: What Happens to Medicine in Your Body?
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://biobeat.nigms.nih.gov/2023/09/what-happens-to-medicine-in-your-body/
+
+Resource: What is Pharmacology?
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2023/08/what-is-pharmacology
+
+Resource: When you feel like changing your medicine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000616.htm
+
+Resource: Where and How to Dispose of Unused Medicines
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/where-and-how-dispose-unused-medicines

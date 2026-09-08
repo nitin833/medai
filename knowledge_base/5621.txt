@@ -1,0 +1,246 @@
+Title: Leucemia
+
+Summary:
+¿Qué es la leucemia?
+Se conoce como
+leucemia
+al cáncer de las células sanguíneas. La leucemia comienza en los tejidos que forman la sangre, como la médula ósea. Su médula ósea produce células que se convertirán en glóbulos blancos, glóbulos rojos y plaquetas. Cada tipo de célula tiene un trabajo diferente:
+Los glóbulos blancos ayudan a su cuerpo a combatir las infecciones
+Los glóbulos rojos transportan oxígeno desde sus pulmones a sus tejidos y órganos
+Las
+plaquetas
+ayudan a formar coágulos para detener el sangrado
+Cuando tiene leucemia, su médula ósea produce una gran cantidad de células anormales. Este problema afecta con mayor frecuencia a los glóbulos blancos. Estas células anormales se acumulan en la médula ósea y la sangre, desplazando a las células sanguíneas sanas y dificultando que las células y la sangre hagan su trabajo.
+¿Cuáles son los tipos de leucemia?
+Existen diferentes tipos de leucemia. El tipo de leucemia que tenga depende del tipo de glóbulo que se convierte en cáncer y de si crece rápida o lentamente.
+El tipo de glóbulo puede ser:
+Linfocitos
+: Un tipo de glóbulo blanco
+Células mieloides
+: Células inmaduras que se convierten en glóbulos blancos, glóbulos rojos o plaquetas
+Los diferentes tipos pueden crecer de forma rápida o lenta:
+La
+leucemia aguda
+crece rápidamente. Por lo general, empeora rápidamente si no se trata
+La
+leucemia crónica
+es de crecimiento lento. Por lo general, empeora durante un período de tiempo más prolongado
+Los principales tipos de leucemia son:
+Leucemia linfocítica aguda
+: Es el tipo de cáncer más común en niños. También puede afectar a los adultos
+Leucemia mielógena aguda
+: Es más común en los adultos mayores, pero también puede afectar a los niños
+Leucemia linfocítica crónica
+: Es uno de los tipos más comunes de leucemia en adultos. A menudo ocurre durante o después de la mediana edad
+Leucemia mielógena crónica
+: En general, se presenta en adultos durante o después de la mediana edad
+¿Qué causa la leucemia?
+La leucemia ocurre cuando hay cambios en el material genético (ADN) de las células de la médula ósea. No se conoce la causa de estos cambios genéticos.
+¿Quiénes presentan mayor riesgo de tener leucemia?
+Para los tipos específicos, existen diferentes factores que pueden aumentar su riesgo de presentar ese tipo. En general, su riesgo de leucemia aumenta con la edad. Es más común después de los 60 años.
+¿Cuáles son los síntomas de la leucemia?
+Algunos de los síntomas de la leucemia pueden incluir:
+Sensación de cansancio
+Fiebre
+o sudores nocturnos
+Fácil aparición de
+moretones
+o sangrado
+Pérdida de peso o del apetito
+Petequias (pequeños puntos rojos debajo de la piel. Son causadas por sangrado)
+Otros síntomas de leucemia pueden variar de un tipo a otro. Es posible que la leucemia crómica no cause síntomas al principio.
+¿Cómo se diagnostica la leucemia?
+Su profesional de la salud puede usar muchas herramientas para diagnosticar la leucemia:
+Un examen físico
+Su historia clínica
+Análisis de sangre, como un
+conteo sanguíneo completo
+Pruebas de médula ósea
+: Hay dos tipos principales, aspiración de médula ósea y biopsia de médula ósea. Ambas pruebas implican la extracción de una muestra de médula ósea y hueso. Las muestras se envían a un laboratorio para su análisis
+Pruebas genéticas
+para buscar cambios genéticos y cromosómicos
+Una vez que el profesional de la salud hace un diagnóstico, es posible que se realicen pruebas adicionales para ver si el cáncer se ha diseminado. Estos incluyen pruebas por imágenes y una punción lumbar, que es un procedimiento para recolectar y analizar el líquido cefalorraquídeo.
+¿Cuáles son los tratamientos para la leucemia?
+Los tratamientos para la leucemia dependen del tipo que tenga, la gravedad de la leucemia, su edad, su salud en general y otros factores. Algunos tratamientos pueden incluir:
+Quimioterapia
+Radioterapia
+Quimioterapia con
+trasplante de células madre
+Terapia dirigida: Utiliza medicamentos u otras sustancias que atacan células cancerosas específicas con menos daño a las células normales
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Aspectos generales de las opciones de tratamiento (Leucemia de células pilosas)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-celulas-pilosas-pdq#_85
+
+Resource: Biopsia de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Blood Cancer United
+Category: Spanish/Español, Especialistas
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/es/homepage
+
+Resource: Campos electromagnéticos y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-campos-electromagneticos
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Conteo de células T
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003516.htm
+
+Resource: Crioglobulinas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003555.htm
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Fibrinopéptido A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003373.htm
+
+Resource: Información general sobre la leucemia de células pilosas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-celulas-pilosas-pdq
+
+Resource: Inmunoterapia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/imdajfa5qw/booklet-es-immunotherapy-fs9s.pdf?t_download=true
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Leucemia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001299.htm
+
+Resource: Leucemia
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/leukemia/symptoms-causes/syc-20374373?p=1
+
+Resource: Leucemia de células pilosas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000592.htm
+
+Resource: Leucemia en niños: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/childhoodleukemia.html
+
+Resource: Leucemia eosinofílica crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-cronicas-pdq#_164
+
+Resource: Leucemia mielomonocítica crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_23
+
+Resource: Manejo del dolor
+Category: Viviendo con..., Spanish/Español
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/aya0sbmkfg/booklet_ES_PainManagementFacts_fs19s.pdf
+
+Resource: Marcadores tumorales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/marcadores-tumorales/
+
+Resource: Medicina integrativa y terapias complementarias
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/ifxptdn9ay/booklet_ES_IntegrativeMedicineComplementaryTherapries_fs8s.pdf
+
+Resource: Prueba de detección de células B y T
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003329.htm
+
+Resource: Prueba de la médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-la-medula-osea/
+
+Resource: Prueba de marcador tumoral de microglobulina Beta-2 (B2M)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-marcador-tumoral-de-microglobulina-beta-2-b2m/
+
+Resource: Prueba genética TP 53 (proteína tumoral 53)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-genetica-tp-53-proteina-tumoral-53/
+
+Resource: Pruebas analíticas para leucemia/linfoma de linfocitos B
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003518.htm
+
+Resource: Pruebas de laboratorio y de imagenología
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/txsskgkn4v/booklet_ES_UnderstandingLabs_ps41s.pdf
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003009.htm
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100112_1.htm
+
+Resource: Trasplante de médula ósea: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bonemarrowtransplantation.html

@@ -1,0 +1,226 @@
+Title: Neck Injuries and Disorders
+
+Summary:
+Any part of your neck - muscles, bones, joints, tendons, ligaments, or nerves - can cause neck problems. Neck pain is very common. Pain may also come from your shoulder, jaw, head, or upper arms.
+Muscle strain or tension often causes neck pain. The problem is usually overuse, such as from sitting at a computer for too long.  Sometimes you can strain your neck muscles from sleeping in an awkward position or overdoing it during exercise. Falls or accidents, including car accidents, are another common cause of neck pain.  Whiplash, a soft tissue injury to the neck, is also called neck sprain or strain.
+Treatment depends on the cause, but may include applying ice, taking pain relievers, getting physical therapy or wearing a cervical collar. You rarely need surgery.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Neck Pain
+- Neck Injuries
+- Cervical Vertebrae
+
+Related Resources:
+
+Resource: Branchial cleft cyst
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001396.htm
+
+Resource: Burners
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/burners/
+
+Resource: Cervical Dystonia (Spasmodic Torticollis)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cervical-dystonia/symptoms-causes/syc-20354123?p=1
+
+Resource: Cervical Exercise: The Backbone of Spine Treatment
+Category: Living With
+Organization: North American Spine Society
+URL: https://www.spine.org/Portals/0/assets/downloads/KnowYourBack/CervicalExercise.pdf
+
+Resource: Cervical Laminoplasty
+Category: Treatments and Therapies
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Surgical-Options/Cervical-Laminoplasty
+
+Resource: Cervical MRI scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007354.htm
+
+Resource: Cervical Radiculopathy (Pinched Nerve)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/cervical-radiculopathy-pinched-nerve/
+
+Resource: Cervical spine CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007351.htm
+
+Resource: Cervical Spondylosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cervical-spondylosis/symptoms-causes/syc-20370787?p=1
+
+Resource: Cervical spondylosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000436.htm
+
+Resource: Cervical Spondylosis (Arthritis of the Neck)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/cervical-spondylosis-arthritis-of-the-neck/
+
+Resource: Cervical Spondylotic Myelopathy (CSM)
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/cervical-spondylotic-myelopathy-csm/
+
+Resource: Cervical Stenosis, Myelopathy and Radiculopathy
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Degenerative-Conditions/Cervical-Stenosis-Myelopathy-and-Radiculopathy
+
+Resource: Chiropractic: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/chiropractic.html
+
+Resource: ClinicalTrials.gov: Cervical Vertebrae Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cervical+Vertebrae%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neck Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neck+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neck Pain
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neck+Pain%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Whiplash Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Whiplash+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Halo-Gravity Traction (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/halo-gravity-traction.html
+
+Resource: Head Tilt (Torticollis)
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/Cleft-Craniofacial/Pages/Head-Tilt.aspx
+
+Resource: Herniated Cervical Disc
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Degenerative-Conditions/Herniated-Cervical-Disc
+
+Resource: Hump on upper back (dorsocervical fat pad)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003112.htm
+
+Resource: Klippel-Feil syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/klippel-feil-syndrome
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neck lump
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003098.htm
+
+Resource: Neck pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003025.htm
+
+Resource: Neck Pain
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/neck-pain/symptoms-causes/syc-20375581?p=1
+
+Resource: Neck Pain
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/neck-pain
+
+Resource: Neck Pain
+Category: Diagnosis and Tests, Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/neck-pain/
+
+Resource: Neck pain or spasms - self care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000802.htm
+
+Resource: Neck Swelling (Symptom Checker)
+Category: Start Here, Symptoms
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/neck-swelling/
+
+Resource: Neck x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003805.htm
+
+Resource: Neck Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cervical+Vertebrae%22%5Bmajr%3Anoexp%5D+OR+%22Neck+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Neck+Pain%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiofrequency Neurotomy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/radiofrequency-neurotomy/about/pac-20394931?p=1
+
+Resource: Spinal fusion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002968.htm
+
+Resource: Spinal fusion - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100121_1.htm
+
+Resource: Spinal surgery - cervical - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100133_1.htm
+
+Resource: Stiff Neck
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stiff-neck-sheet.html
+
+Resource: Torticollis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000749.htm
+
+Resource: Whiplash
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/whiplash/symptoms-causes/syc-20378921?p=1
+
+Resource: Whiplash and Whiplash Associated Disorder (WAS)
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Injuries/Whiplash-and-Whiplash-Associated-Disorder
+
+Resource: X-Ray Exam: Neck (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-neck.html

@@ -1,0 +1,197 @@
+Title: Optic Nerve Disorders
+
+Summary:
+The optic nerve is a bundle of more than 1 million nerve fibers that carry visual messages. You have one connecting the back of each eye (your
+retina
+) to your brain. Damage to an optic nerve can cause
+vision loss
+. The type of vision loss and how severe it is depends on where the damage occurs. It may affect one or both eyes.
+There are many different types of optic nerve disorders, including:
+Glaucoma
+is a group of diseases that are the leading cause of blindness in the United States. Glaucoma usually happens when the fluid pressure inside the eyes slowly rises and damages the optic nerve.
+Optic neuritis is an inflammation of the optic nerve. Causes include infections and immune-related illnesses such as
+multiple sclerosis
+. Sometimes the cause is unknown.
+Optic nerve atrophy is damage to the optic nerve. Causes include poor blood flow to the eye, disease, trauma, or exposure to toxic substances.
+Optic nerve head drusen are pockets of protein and calcium salts that build up in the optic nerve over time
+Contact your health care provider if you are having vision problems. Tests for optic nerve disorders may include eye exams, ophthalmoscopy (an examination of the back of your eye), and
+imaging tests
+. Treatment depends on which disorder that you have. With some optic nerve disorders, you may get your vision back. With others, there is no treatment, or treatment may only prevent further vision loss.
+
+Groups:
+- Eyes and Vision
+
+MeSH Headings:
+- Optic Nerve Diseases
+- Optic Nerve Injuries
+
+Related Resources:
+
+Resource: Autosomal dominant optic atrophy and cataract: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-optic-atrophy-and-cataract/
+
+Resource: ClinicalTrials.gov: Optic Nerve Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Optic+Nerve+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Optic Nerve Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Optic+Nerve+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Compressive Optic Neuropathy
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/eye-disorders/optic-nerve-disorders/compressive-optic-neuropathy
+
+Resource: Costeff syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/costeff-syndrome/
+
+Resource: Deafness-dystonia-optic neuronopathy syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/deafness-dystonia-optic-neuronopathy-syndrome/
+
+Resource: Early-onset glaucoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/early-onset-glaucoma/
+
+Resource: Eye Health Data and Statistics
+Category: Statistics and Research
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/about/education-and-outreach/eye-health-data-and-statistics
+
+Resource: Get a Dilated Eye Exam
+Category: Diagnosis and Tests
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/finding-eye-doctor/get-dilated-eye-exam
+
+Resource: How the Build Up of Aqueous Humor Can Damage the Optic Nerve
+Category: Related Issues
+Organization: BrightFocus Foundation
+URL: https://www.brightfocus.org/resource/how-the-build-up-of-aqueous-humor-can-damage-the-optic-nerve/
+
+Resource: Idiopathic Intracranial Hypertension
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/idiopathic-intracranial-hypertension
+
+Resource: Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/idiopathic-intracranial-hypertension-pseudotumor-cerebri
+
+Resource: Infantile Neuroaxonal Dystrophy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/infantile-neuroaxonal-dystrophy
+
+Resource: Leber hereditary optic neuropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/
+
+Resource: Neuromyelitis Optica Spectrum Disorder
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neuromyelitis-optica-spectrum-disorder
+
+Resource: Neuromyelitis optica: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neuromyelitis-optica/
+
+Resource: Nutritional and Toxic Optic Neuropathies
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/eye-disorders/optic-nerve-disorders/nutritional-and-toxic-optic-neuropathies
+
+Resource: Optic atrophy type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/optic-atrophy-type-1/
+
+Resource: Optic glioma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001024.htm
+
+Resource: Optic Nerve Atrophy
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/optic-nerve-atrophy
+
+Resource: Optic nerve atrophy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001622.htm
+
+Resource: Optic Nerve Cupping
+Category: Specifics
+Organization: Glaucoma Research Foundation
+URL: https://glaucoma.org/articles/optic-nerve-cupping
+
+Resource: Optic Nerve Drusen
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/optic-nerve-drusen
+
+Resource: Optic Nerve Hypoplasia
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/optic-nerve-hypoplasia
+
+Resource: Optic Nerve Imaging
+Category: Diagnosis and Tests
+Organization: Glaucoma Research Foundation
+URL: https://glaucoma.org/articles/optic-nerve-imaging
+
+Resource: Optic Nerve Pit
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/optic-nerve-pit
+
+Resource: Optic Nerve Regeneration
+Category: Statistics and Research
+Organization: BrightFocus Foundation
+URL: https://www.brightfocus.org/resource/optic-nerve-regeneration/
+
+Resource: Optic Neuritis
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/optic-neuritis
+
+Resource: Optic neuritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000741.htm
+
+Resource: Overview of Optic Nerve Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/eye-disorders/optic-nerve-disorders/overview-of-optic-nerve-disorders
+
+Resource: Optic Nerve Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Optic+Nerve+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Optic+Nerve+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renal coloboma syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/renal-coloboma-syndrome/
+
+Resource: Septo-optic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/septo-optic-dysplasia/
+
+Resource: Visual System
+Category: Videos and Tutorials
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/visual-system

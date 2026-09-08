@@ -1,0 +1,137 @@
+Title: Nutrición artificial
+
+Also Called:
+- Alimentación asistida
+
+Summary:
+La nutrición artificial es para las personas que no reciben suficientes nutrientes a través de las comidas o las bebidas. Es posible que lo necesite si:
+No puede tragar
+Tiene problemas de apetito
+Tiene una desnutrición severa
+No puede absorber los nutrientes a través del sistema digestivo
+Usted puede nutrirse artificialmente a través de una aguja o un catéter colocado en una vena o con un tubo de alimentación, que va hasta el estómago.
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Administración en bolos y sonda de gastrostomía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000165.htm
+
+Resource: Alimentación parenteral total en bebés
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007239.htm
+
+Resource: Alimentación por sonda (Nutrición enteral por sonda)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-nutricionales/apoyo-nutricional/alimentaci%C3%B3n-por-sonda
+
+Resource: Alta tras inserción de sonda de GEP
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000900.htm
+
+Resource: Apoyo nutricional para personas moribundas o con demencia grave
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-nutricionales/apoyo-nutricional/apoyo-nutricional-para-personas-moribundas-o-con-demencia-grave
+
+Resource: Bomba y el tubo de gastrostomía para alimentación de niños
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000333.htm
+
+Resource: Cambio de apósito para catéter venoso central
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000156.htm
+
+Resource: Cambio del apósito para el catéter central colocado por vía periférica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000462.htm
+
+Resource: Catéteres centrales de inserción periférica (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/picc-lines.html
+
+Resource: Colocación de un tubo de gastrostomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100125_1.htm
+
+Resource: Cómo comprender la gastrostomía endoscópica percutánea
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-gastrostom%C3%ADa-endosc%C3%B3pica-percut%C3%A1nea
+
+Resource: Inserción de catéter colocado por vía periférica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000461.htm
+
+Resource: Inserción de una sonda de gastrostomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002937.htm
+
+Resource: Lavado del catéter central colocado por vía periférica
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000159.htm
+
+Resource: Lavado del catéter venoso central
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000157.htm
+
+Resource: Manejo de problemas de alimentación por sonda nasogástrica en niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000164.htm
+
+Resource: Nutrición parenteral total
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000177.htm
+
+Resource: Opciones para el final de la vida: Los tubos de alimentación y los respiradores
+Category: Spanish/Español, Asuntos relacionados
+Organization: Alianza Familiar de Personas que Cuidan Enfermos
+URL: https://www.caregiver.org/es/resource/opciones-para-el-final-de-la-vida-los-tubos-de-alimentacioacuten-y-los-respiradores-feeding/
+
+Resource: Puertos implantados (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/implanted-ports.html
+
+Resource: Puertos para catéteres venosos centrales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000491.htm
+
+Resource: Sonda de alimentación en bebés
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007235.htm
+
+Resource: Sonda de alimentación nasogástrica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000182.htm
+
+Resource: Sonda de yeyunostomía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000181.htm
+
+Resource: Vías centrales (catéteres venosos centrales)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/central-lines.html

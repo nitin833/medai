@@ -1,0 +1,52 @@
+Title: Síndrome de Guillain-Barré
+
+Summary:
+El síndrome de Guillain-Barré es un trastorno poco común que hace que el sistema inmunitario ataque el sistema nervioso periférico. Los nervios del sistema nervioso periférico conectan el cerebro y la médula espinal con el resto del cuerpo. La lesión de estos nervios dificulta la transmisión de las señales. Como resultado, los músculos tienen problemas para responder a las señales del cerebro. Nadie conoce la causa de este síndrome. Algunas veces, es desencadenado por una infección, una cirugía o una vacuna.
+El primer síntoma suele ser debilidad o una sensación de hormigueo en las piernas. La sensación puede extenderse a la parte superior del cuerpo. En casos severos, el paciente queda casi paralizado. Esto puede poner en riesgo la vida de la persona. Puede ser necesario usar un ventilador mecánico para ayudar con la respiración. Generalmente, los síntomas empeoran en un período de semanas y luego se estabilizan.
+El síndrome puede ser difícil de diagnosticar. Dentro de los exámenes médicos posibles se incluyen exámenes neurológicos y una punción lumbar. La mayoría de las personas se recupera. La recuperación puede tomar algunas semanas o algunos años. El tratamiento ayuda con los síntomas y puede incluir medicamentos o un procedimiento llamado intercambio de plasma.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003929.htm
+
+Resource: Polineuropatía desmielizante inflamatoria crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000777.htm
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Síndrome de Guillain-Barré
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000684.htm
+
+Resource: Síndrome de Guillain-Barré
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/guillain-barre-syndrome/symptoms-causes/syc-20362793?p=1
+
+Resource: Síndrome de Guillain-Barré, Polineuropatía desmielinizante inflamatoria aguda (PDIA) y sus variantes
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Internacional del Síndrome de Guillain-Barré
+URL: https://www.gbs-cidp.org/wp-content/uploads/2012/01/OverviewSPA.pdf
+
+Resource: Velocidad de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003927.htm

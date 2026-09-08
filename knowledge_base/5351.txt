@@ -1,0 +1,90 @@
+Title: Trastornos del uréter
+
+Summary:
+Sus riñones forman la orina filtrando desechos y exceso de agua de su sangre. Su sangre lleva los desechos a los riñones. De los riñones, la orina pasa por dos tubos delgados llamados uréteres hacia la vejiga.
+Los uréteres miden entre 8 y 10 pulgadas (20 y 26 cm). Los músculos en las paredes de los uréteres se contraen y relajan para obligar a la orina a bajar y a alejarse de los riñones. Pequeñas cantidades de orina fluyen de los uréteres a la vejiga cada 10 a 15 segundos.
+Los problemas con los uréteres pueden surgir por obstrucción o lesión. Además, si la orina queda estancada o vuelve, usted puede contraer una
+infección urinaria
+.
+Los doctores diagnostican los problemas de los uréteres usando ciertos exámenes. Estos exámenes incluyen análisis de orina, rayos X y un examen con una sonda especial con una pequeña cámara en su extremo llamado cistoscopia. El tratamiento difiere dependiendo de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+
+Related Resources:
+
+Resource: Biopsia ureteral retrógrada por cepillado
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003906.htm
+
+Resource: Cirugía de reimplantación ureteral en niños
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007704.htm
+
+Resource: Cistoscopia y ureteroscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/cistoscopia-ureteroscopia
+
+Resource: Diagnóstico por la imagen (imagenología) de las vías urinarias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/imagen-vias-urinarias
+
+Resource: Fibrosis retroperitoneal
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12387/fibrosis-retroperitoneal/
+
+Resource: Fibrosis retroperitoneal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000463.htm
+
+Resource: Hidronefrosis en recién nacidos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/hidronefrosis-recien-nacidos
+
+Resource: Información general sobre el cáncer de células de transición de pelvis renal y de uréter
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/rinon/paciente/tratamiento-celulas-de-transicion-pdq
+
+Resource: Lesión del riñón y uréter
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001065.htm
+
+Resource: Obstrucción de la unión ureteropélvica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001267.htm
+
+Resource: Pielografía intravenosa (PIV)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pielografia-intravenosa-pm/
+
+Resource: Pielograma intravenoso (PIV)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ivp
+
+Resource: Reflujo vesicoureteral
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vesicoureteral-reflux.html
+
+Resource: Ureterocele
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000462.htm
+
+Resource: Vías urinarias y cómo funcionan
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/aparato-urinario-funciona

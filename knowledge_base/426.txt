@@ -1,0 +1,178 @@
+Title: Surgery
+
+Also Called:
+- Operation
+
+Summary:
+There are many reasons to have surgery. Some operations can relieve or prevent pain. Others can reduce a symptom of a problem or improve some body function. Some surgeries are done to find a problem. For example, a surgeon may do a
+biopsy
+, which involves removing a piece of tissue to examine under a microscope. Some surgeries, like
+heart surgery
+, can save your life.
+Some operations that once needed large incisions (cuts in the body) can now be done using much smaller cuts. This is called laparoscopic surgery. Surgeons insert a thin tube with a camera to see, and use small tools to do the surgery.
+After surgery
+there can be a risk of complications, including infection, too much bleeding, reaction to
+anesthesia
+, or accidental injury. There is almost always some pain with surgery.
+Agency for Healthcare Research and Quality
+
+Groups:
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Surgical Procedures, Operative
+
+Related Resources:
+
+Resource: Blood donation before surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000367.htm
+
+Resource: ClinicalTrials.gov: General Surgery
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22General+Surgery%22&aggFilters=status:not%20rec
+
+Resource: Computer-Assisted Surgical Systems
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/surgery-devices/computer-assisted-surgical-systems
+
+Resource: Doctor Finder (Database of Interventional Radiologists)
+Category: Find an Expert
+Organization: Society of Interventional Radiology
+URL: https://www.sirweb.org/doctor-finder/
+
+Resource: Find a Surgeon
+Category: Find an Expert
+Organization: American College of Surgeons
+URL: https://www.facs.org/find-a-surgeon/?page=1
+
+Resource: Getting an Accurate Read on Pulse Oximeters
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/getting-an-accurate-read-on-pulse-oximeters
+
+Resource: Getting yourself healthy before surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000433.htm
+
+Resource: Helping Kids Get Ready for Surgery
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anesthesia-prepare.html
+
+Resource: How to choose the best hospital for surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007497.htm
+
+Resource: Laparoscopic surgery - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100166_1.htm
+
+Resource: Laparoscopic Surgery -- What Is It?
+Category: Specifics
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Laparoscopic-Surgery---What-is-it-.aspx
+
+Resource: Laser surgery for the skin
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002958.htm
+
+Resource: Preparing for Surgery
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/preparing-for-surgery
+
+Resource: Preparing for surgery when you have diabetes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000702.htm
+
+Resource: Preparing for Surgery: Checklist
+Category: Adults
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/prep/preparing-for-surgery-checklist/
+
+Resource: Preparing for Surgery: Kids' Checklist
+Category: Children
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/prep/preparing-for-surgery-kids-checklist/
+
+Resource: Preventing Infections when Your Child Has Surgery
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/preventing-infections-surgery.html
+
+Resource: Surgery
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Surgical+Procedures%2C+Operative%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse Oximetry
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+
+Resource: QuestionBuilder App
+Category: Health Check Tools
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/question-builder/index.html
+
+Resource: Robotic surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007339.htm
+
+Resource: Science Education
+Category: Statistics and Research
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/science-education
+
+Resource: Smoking and surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000437.htm
+
+Resource: Speak Up For Safe Surgery
+Category: Specifics
+Organization: Joint Commission
+URL: https://digitalassets.jointcommission.org/api/public/content/b21146e40a8a4328a5d1cff64d8c62cd?v=3b057418
+
+Resource: Surgery
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/special-subjects/surgery/surgery
+
+Resource: Surgical Procedures
+Category: Specifics
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/procedures/
+
+Resource: Tests and visits before surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000479.htm
+
+Resource: The day of surgery for your child
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000579.htm
+
+Resource: The day of your surgery - adult
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000578.htm
+
+Resource: What Are the Surgical Specialties?
+Category: Start Here
+Organization: American College of Surgeons
+URL: https://www.facs.org/for-medical-professionals/education/online-guide-to-choosing-a-surgical-residency/guide-to-choosing-a-surgical-residency-for-medical-students/faqs/specialties/
+
+Resource: What Is a Ventilator?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/ventilator

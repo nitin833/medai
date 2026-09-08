@@ -1,0 +1,83 @@
+Title: Talasemia
+
+Also Called:
+- Anemia de Cooley
+- Anemia mediterránea
+
+Summary:
+La talasemia es un trastorno hereditario de la sangre. Si usted tiene una, su cuerpo produce menos glóbulos rojos sanos y menos hemoglobina. La hemoglobina es una proteína que transporta el oxígeno al cuerpo. Esto conduce a la
+anemia
+. Las talasemias son más frecuentes entre las personas de ascendencia italiana, griega, del Medio Oriente, del sur de Asia y africana.
+Las talasemias pueden ser leves o graves. Algunas personas no tienen síntomas o presentan anemia leve. El tipo grave más común en Estados Unidos se denomina anemia de Cooley. Por lo general, aparece durante los primeros dos años de vida. Las personas que la desarrollan pueden tener anemia severa, crecimiento lento y pubertad tardía, y problemas en el bazo, el hígado, el corazón o los huesos.
+Los médicos diagnostican talasemias mediante pruebas de sangre. Los tratamientos incluyen transfusiones de sangre y procedimientos para eliminar el exceso de hierro del cuerpo. Si no tiene síntomas o son leves, puede que no necesite tratamiento. En algunos casos graves puede ser necesario un trasplante de médula ósea.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Alfa talasemia (para los padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/thalassemias.html
+
+Resource: Beta talasemia (para los padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/beta-thalassemia.html
+
+Resource: Electroforesis de hemoglobina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electroforesis-de-hemoglobina/
+
+Resource: Examen de hemoglobinuria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003363.htm
+
+Resource: Examen de la fragilidad osmótica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003641.htm
+
+Resource: Hidropesía fetal
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007308.htm
+
+Resource: Talasemia
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thalassemia/symptoms-causes/syc-20354995?p=1
+
+Resource: Talasemia
+Category: Comience aquí, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/talasemia.aspx
+
+Resource: Talasemia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000587.htm
+
+Resource: Talasemia: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thalassemia/diagnosis-treatment/drc-20355001?p=1
+
+Resource: Tratamientos para trastornos sanguíneos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sangre-y-medula-osea-tratamientos
+
+Resource: Vivir con talasemia
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/talasemias/vivir-con-talasemia
+
+Resource: ¿Qué es la talasemia?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/talasemias

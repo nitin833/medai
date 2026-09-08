@@ -1,0 +1,197 @@
+Title: Hepatitis A
+
+Also Called:
+- HAV
+
+Summary:
+What is hepatitis?
+Hepatitis
+is inflammation of the
+liver
+. Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
+What is hepatitis A?
+Hepatitis A is a type of viral hepatitis. It causes an acute, or short-term, infection. This means that people usually get better without treatment after a few weeks.
+Thanks to a vaccine, hepatitis A is not very common in the United States.
+What causes hepatitis A?
+Hepatitis A is caused by the hepatitis A virus. The virus spreads through contact with an infected person's stool. This can happen if you:
+Eat food made by someone who has the virus and did not properly wash their hands after using the bathroom
+Drink contaminated water or eat foods that were rinsed with contaminated water
+Have close personal contact with someone who has hepatitis A. This could be through certain types of sex (like oral-anal sex), taking care of someone who is ill, or using
+illegal drugs
+with others.
+Who is at risk for hepatitis A?
+Although anyone can get hepatitis A, you are at higher risk if you:
+Travel to developing countries
+Have sex with someone who has hepatitis A
+Are a man who has sex with men
+Use illegal drugs
+Are experiencing
+homelessness
+Live with or care for someone who has hepatitis A
+Live with or care for a child recently adopted from a country where hepatitis A is common
+What are the symptoms of hepatitis A?
+Not everyone with hepatitis A has symptoms. Adults are more likely to have symptoms than children. If you do have symptoms, they usually start 2 to 7 weeks after infection. They can include:
+Dark yellow urine
+Diarrhea
+Fatigue
+Fever
+Gray- or clay-colored stools
+Joint pain
+Loss of appetite
+Nausea and/or vomiting
+Abdominal pain
+Yellowish eyes and skin, called
+jaundice
+The symptoms usually last less than 2 months, although some people can be ill for as long as 6 months.
+You are at a higher risk of getting a more severe infection from hepatitis A if you also have
+HIV
+,
+hepatitis B
+, or
+hepatitis C
+.
+What other problems can hepatitis A cause?
+In rare cases, hepatitis A may lead to liver failure. This is more common in adults over age 50 and in people who have another
+liver
+.
+How is hepatitis A diagnosed?
+To diagnose hepatitis A, your health care provider may use many tools:
+A medical history, which includes asking about your symptoms
+A physical exam
+Blood tests, including
+tests for viral hepatitis
+What are the treatments for hepatitis A?
+There is no specific treatment for hepatitis A. The best way to recover is to rest, drink plenty of liquids, and eat healthy foods. Your provider may also suggest medicines to help relieve symptoms. In more severe cases, you may need care in a hospital.
+Can hepatitis A be prevented?
+The best way to prevent hepatitis A is to get the hepatitis A vaccine. It is also important to have
+good hygiene
+, especially washing your hands thoroughly after you go to the bathroom.
+National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Infections
+
+MeSH Headings:
+- Hepatitis A
+
+Related Resources:
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Hepatitis A
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hepatitis+A%22&aggFilters=status:not%20rec
+
+Resource: FastStats: Viral Hepatitis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/hepatitis.htm
+
+Resource: Hepatitis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hepatitis.html
+
+Resource: Hepatitis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/hepatitis.html
+
+Resource: Hepatitis A
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000278.htm
+
+Resource: Hepatitis A
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/vaccine-preventable-diseases/Pages/Hepatitis-A.aspx
+
+Resource: Hepatitis A
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/hepatitis-a/
+
+Resource: Hepatitis A
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hepatitis-a/symptoms-causes/syc-20367007?p=1
+
+Resource: Hepatitis A
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis/hepatitis-a
+
+Resource: Hepatitis A - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007670.htm
+
+Resource: Hepatitis A Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-a/about/
+
+Resource: Hepatitis A Vaccine
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-a/vaccination/
+
+Resource: Hepatitis A Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/hep-a.pdf
+
+Resource: Hepatitis A: Questions and Answers
+Category: Prevention and Risk Factors
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4204.pdf
+
+Resource: Hepatitis Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hepatitis-panel/
+
+Resource: Hepatitis virus panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003558.htm
+
+Resource: Infectious Diseases in Persons Who Inject Drugs
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/persons-who-inject-drugs/about/
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Protect Yourself against Hepatitis A and B: A Guide for Gay and Bisexual Men
+Category: Men
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4115.pdf
+
+Resource: Hepatitis A
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hepatitis+A%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Travelers' Health: Hepatitis A
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/hepatitis-a.html
+
+Resource: Viral Hepatitis Surveillance Report: United States, 2020
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-surveillance-2020/about/

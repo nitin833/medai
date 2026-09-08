@@ -1,0 +1,185 @@
+Title: Male Infertility
+
+Summary:
+Infertility is a term doctors use if a man hasn't been able to get a woman pregnant after at least one year of trying. Causes of male infertility include:
+Physical problems with the testicles
+Blockages in the ducts that carry sperm
+Hormone problems
+A history of high fevers or mumps
+Genetic disorders
+Lifestyle or environmental factors
+About a third of the time, infertility is because of a problem with the man. One third of the time, it is a problem with the
+woman
+. Sometimes no cause can be found.
+If you suspect you are infertile, see your doctor. There are tests that may tell if you have fertility problems. When it is possible to find the cause, treatments may include medicines, surgery, or
+assisted reproductive technology
+. Happily, many couples treated for infertility are able to have babies.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Men
+- Male Reproductive System
+
+MeSH Headings:
+- Infertility, Male
+
+Related Resources:
+
+Resource: 48,XXYY syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/48xxyy-syndrome
+
+Resource: About Klinefelter Syndrome
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Klinefelter-Syndrome
+
+Resource: Assisted Reproductive Technology: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/assistedreproductivetechnology.html
+
+Resource: ClinicalTrials.gov: Infertility, Male
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Infertility,+Male%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Oligospermia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Oligospermia%22&aggFilters=status:not%20rec
+
+Resource: Congenital bilateral absence of the vas deferens: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-bilateral-absence-of-the-vas-deferens
+
+Resource: Dry Orgasm
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/dry-orgasm/basics/definition/SYM-20050906?p=1
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Fertility Issues in Boys and Men with Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/fertility-men
+
+Resource: Finasteride and Pregnancy
+Category: Related Issues
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/finasteride/
+
+Resource: Foods That Can Affect Fertility
+Category: Living With
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/pregnancy/fertility-and-reproduction/fertility-foods
+
+Resource: Globozoospermia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/globozoospermia
+
+Resource: Healthy Sperm: Improving Your Fertility
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/getting-pregnant/in-depth/fertility/art-20047584?p=1
+
+Resource: How Common is Male Infertility, and What Are Its Causes?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/menshealth/conditioninfo/infertility
+
+Resource: Hypogonadism in Men
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism
+
+Resource: Intracytoplasmic sperm injection
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000074.htm
+
+Resource: Intrauterine Insemination (IUI)
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/intrauterine-insemination/about/pac-20384722?p=1
+
+Resource: Low Sperm Count
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/low-sperm-count/symptoms-causes/syc-20374585?p=1
+
+Resource: Macrozoospermia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/macrozoospermia
+
+Resource: Male Infertility
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/male-infertility/symptoms-causes/syc-20374773?p=1
+
+Resource: Male infertility
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Infertility%2C+Male%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retrograde ejaculation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001282.htm
+
+Resource: Semen Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/semen-analysis/
+
+Resource: Semen analysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003627.htm
+
+Resource: Sensorineural deafness and male infertility: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/deafness-infertility-syndrome
+
+Resource: Sperm Morphology (Shape): Does It Affect Fertility?
+Category: Specifics
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/news-and-publications/patient-fact-sheets-and-booklets/documents/fact-sheets-and-info-booklets/sperm-morphology-shape-does-it-affect-fertility/
+
+Resource: Sperm release pathway
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000121.htm
+
+Resource: Testicular biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003908.htm
+
+Resource: Testosterone Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/testosterone-levels-test/
+
+Resource: What Is Intracytoplasmic Sperm Injection (ICSI)?
+Category: Treatments and Therapies
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/news-and-publications/patient-fact-sheets-and-booklets/documents/fact-sheets-and-info-booklets/what-is-intracytoplasmic-sperm-injection-icsi/
+
+Resource: What Treatment Options Are Available for Male Infertility?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/menshealth/conditioninfo/treatments
+
+Resource: X-linked adrenal hypoplasia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-adrenal-hypoplasia-congenita

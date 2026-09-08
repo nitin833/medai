@@ -1,0 +1,166 @@
+Title: Ectopic Pregnancy
+
+Also Called:
+- Abdominal pregnancy
+- Tubal pregnancy
+
+Summary:
+What is an ectopic pregnancy?
+The uterus, or womb, is the place where a fetus grows during
+pregnancy
+.  In an ectopic pregnancy, the fertilized egg grows in the wrong place outside the uterus. It usually occurs in the fallopian tubes. These tubes carry eggs from the ovaries to the uterus. Sometimes, an ectopic pregnancy can occur in the ovaries, abdominal cavity, or the lower part of the uterus (cervix).
+Ectopic pregnancies can't end in a healthy pregnancy because the egg cannot grow. If the pregnancy continues, the fallopian tube can burst. This can cause internal bleeding, which can be a life-threatening emergency that needs immediate surgery.
+What increases my risk of an ectopic pregnancy?
+An ectopic pregnancy often happens because there is a problem with your fallopian tubes. But sometimes it's not clear why an ectopic pregnancy happens.
+Factors that may increase your risk for an ectopic pregnancy can include:
+Previous ectopic pregnancy
+Prior pelvic, abdominal, or fallopian tube surgery
+Certain
+sexually transmitted infections
+(STIs)
+Pelvic inflammatory disease
+Endometriosis
+Becoming pregnant while using an intrauterine device (IUD) for
+birth control
+Becoming pregnant after a
+tubal ligation
+Other factors that may increase your risk can include:
+Smoking
+Being older than age 35
+Infertility treatments
+What are the symptoms of an ectopic pregnancy?
+You may not notice any symptoms at first. Or you may have some of the usual signs of pregnancy such as a missed
+period
+, breast tenderness, or nausea.
+Early signs of an ectopic pregnancy may be light
+vaginal bleeding
+and pelvic pain. Ectopic pregnancy can be a medical emergency. Get medical care right away if you have these signs:
+Abdominal (belly) pain
+Shoulder pain
+Vaginal bleeding
+Feeling
+dizzy
+or faint
+How is an ectopic pregnancy diagnosed?
+An ectopic pregnancy can't be diagnosed without blood tests and an
+ultrasound
+. Your health care provider will do a
+pregnancy test
+to confirm that you're pregnant. They may do a
+pelvic exam
+to check for areas of pain, tenderness, or a mass.
+What is the treatment for an ectopic pregnancy?
+An ectopic pregnancy needs treatment to stop any damage to your organs. Your provider will use medicine or surgery to take out the ectopic tissue.
+Losing a pregnancy can be devastating. An ectopic pregnancy is like a
+miscarriage
+, but it must be treated to prevent problems. People cope with grief in different ways. It may be helpful to discuss your feelings with your provider or a counselor. Many women who have had ectopic pregnancies go on to have healthy pregnancies later.
+Dept. of Health and Human Services Office on Women's Health
+
+Groups:
+- Women
+- Pregnancy and Reproduction
+- Female Reproductive System
+
+MeSH Headings:
+- Pregnancy, Ectopic
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Pregnancy, Abdominal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pregnancy,+Abdominal%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pregnancy, Ectopic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pregnancy,+Ectopic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pregnancy, Tubal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pregnancy,+Tubal%22&aggFilters=status:not%20rec
+
+Resource: D and C
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002914.htm
+
+Resource: D and C - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100013_1.htm
+
+Resource: Diethylstilbestrol (DES) Exposure and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+
+Resource: Dilation and Curettage (D&C)
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/dilation-and-curettage/about/pac-20384910?p=1
+
+Resource: Ectopic pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000895.htm
+
+Resource: Ectopic Pregnancy
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ectopic-pregnancy/symptoms-causes/syc-20372088?p=1
+
+Resource: Ectopic Pregnancy
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ectopic.html
+
+Resource: Ectopic Pregnancy
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/ectopic-pregnancy
+
+Resource: Ectopic/Tubal Pregnancy and Miscarriage
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/ectopic-tubal-pregnancy/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: HCG blood test - quantitative
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003510.htm
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Obstetric Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/obstetricus
+
+Resource: Pregnancy Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pregnancy-test/
+
+Resource: Progesterone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/progesterone-test/
+
+Resource: Ectopic pregnancy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pregnancy%2C+Ectopic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

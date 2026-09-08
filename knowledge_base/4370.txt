@@ -1,0 +1,99 @@
+Title: Hiatal Hernia
+
+Summary:
+A hiatal hernia is a condition in which the upper part of your stomach bulges through an opening in your diaphragm. Your diaphragm is the thin muscle that separates your chest from your abdomen. Your diaphragm helps keep acid from coming up into your esophagus. When you have a hiatal hernia, it's easier for the acid to come up. This leaking of acid from your stomach into your esophagus is called
+GERD
+(gastroesophageal reflux disease). GERD may cause symptoms such as :
+Heartburn
+Problems swallowing
+A dry
+cough
+Bad breath
+Nausea and/or vomiting
+Breathing problems
+The wearing away of your teeth
+Often, the cause of a hiatal hernia is unknown. It may have to do with weakness in the surrounding muscles. Sometimes the cause is an injury or a birth defect. Your risk of getting a hiatal hernia goes up as you age; they are common in people over age 50. You are also at higher risk if you have obesity or smoke.
+People usually find out that they have a hiatal hernia when they are getting tests for GERD, heartburn,
+chest pain
+, or
+abdominal pain
+. The tests may be a chest x-ray, an x-ray with a barium swallow, or an upper endoscopy.
+You don't need treatment if your hiatal hernia does not cause any symptoms or problems. If you do have symptoms, some lifestyle changes may help. They include eating small meals, avoiding certain foods, not smoking or drinking alcohol, and losing weight. Your health care provider may recommend antacids or other medicines. If these don't help, you may need surgery.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Hernia, Hiatal
+
+Related Resources:
+
+Resource: Acid Reflux (GER and GERD) in Adults
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/acid-reflux-ger-gerd-adults
+
+Resource: Anti-reflux surgery
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002925.htm
+
+Resource: Anti-reflux surgery - children
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007401.htm
+
+Resource: Barium Swallow
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/barium-swallow/
+
+Resource: ClinicalTrials.gov: Hernia, Hiatal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hernia,+Hiatal%22&aggFilters=status:not%20rec
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Learn More
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Hiatal hernia
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001137.htm
+
+Resource: Hiatal Hernia (Diagnosis and Treatment)
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hiatal-hernia/diagnosis-treatment/drc-20373385?p=1
+
+Resource: Hiatal Hernia (Symptoms and Causes)
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hiatal-hernia/symptoms-causes/syc-20373379?p=1
+
+Resource: Hiatal hernia repair - series -- Normal anatomy
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100028_1.htm
+
+Resource: Hiatal Hernia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hernia%2C+Hiatal%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Upper GI -- Esophagram -- Barium Swallow
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/uppergi
+
+Resource: Upper GI Endoscopy
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Upper GI Series
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series

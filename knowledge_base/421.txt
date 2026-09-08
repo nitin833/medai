@@ -1,0 +1,272 @@
+Title: Streptococcal Infections
+
+Also Called:
+- Strep
+
+Summary:
+Strep is short for Streptococcus, a type of bacteria. There are several types. Two of them cause most of the strep infections in people: group A and group B.
+Group A strep causes:
+Strep throat - a sore, red throat. Your
+tonsils
+may be swollen and have white spots on them.
+Scarlet fever - an illness that follows strep throat. It causes a red rash on the body.
+Impetigo
+- a skin infection
+Toxic shock syndrome
+Cellulitis
+and necrotizing fasciitis (flesh-eating disease)
+Group B strep can cause blood infections, pneumonia and meningitis in newborns. A screening test during pregnancy can tell if you have it. If you do, intravenous (IV) antibiotics during labor can save your baby's life.  Adults can also get group B strep infections, especially if they are 65 or older or already have health problems. Strep B can cause urinary tract infections, blood infections, skin infections and pneumonia in adults.
+Antibiotics are used to treat strep infections.
+
+Groups:
+- Infections
+- Ear, Nose and Throat
+
+MeSH Headings:
+- Streptococcal Infections
+
+Related Resources:
+
+Resource: About Group A Strep Infection
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/index.html
+
+Resource: About Group B Strep Disease
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-b-strep/about/index.html
+
+Resource: About Necrotizing Fasciitis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/necrotizing-fasciitis.html
+
+Resource: About Scarlet Fever
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/scarlet-fever.html
+
+Resource: About Strep Throat
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/strep-throat.html
+
+Resource: Anti-DNase B blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003537.htm
+
+Resource: Antistreptolysin O titer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003522.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Rheumatic Fever
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rheumatic+Fever%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Streptococcal Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Streptococcal+Infections%22&aggFilters=status:not%20rec
+
+Resource: Ecthyma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000864.htm
+
+Resource: Erysipelas
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000618.htm
+
+Resource: Glomerulonephritis
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/glomerulonephritis/symptoms-causes/syc-20355705?p=1
+
+Resource: Glomerulonephritis (For Parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/glomerulonephritis.html
+
+Resource: Group A Strep Infections (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/group-a-strep.html
+
+Resource: Group A Streptococcal Infections
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/group-streptococcal-infections
+
+Resource: Group B Strep Surveillance and Trends
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-b-strep/php/surveillance/
+
+Resource: Group B streptococcal septicemia of the newborn
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001366.htm
+
+Resource: Group B streptococcus - pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000511.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Necrotizing soft tissue infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001443.htm
+
+Resource: PANS (Pediatric Acute-onset Neuropsychiatric Syndrome) and PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections): Questions and Answers
+Category: Children
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/pandas
+
+Resource: Perianal streptococcal cellulitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001346.htm
+
+Resource: Poststreptococcal glomerulonephritis (GN)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000503.htm
+
+Resource: Preventing Group A Strep Infection
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/prevention/index.html
+
+Resource: Preventing Group B Strep Disease in Newborns
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-b-strep/prevention/
+
+Resource: Streptococcal infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Streptococcal+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recurring Strep Throat: When Is Tonsillectomy Useful?
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/strep-throat/expert-answers/recurring-strep-throat/faq-20058360?p=1
+
+Resource: Rheumatic fever
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003940.htm
+
+Resource: Rheumatic Fever
+Category: Children
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/rheumatic-fever
+
+Resource: Scarlet Fever
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/scarlet-fever/?Imiw9cApl
+
+Resource: Scarlet fever
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000974.htm
+
+Resource: Scarlet Fever (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/scarlet-fever.html
+
+Resource: Sepsis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sepsis.html
+
+Resource: Strep A Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/strep-a-test/
+
+Resource: Strep B Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/strep-b-test/
+
+Resource: Strep Test: Rapid (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-rapid-strep.html
+
+Resource: Strep Test: Throat Culture (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest11.html
+
+Resource: Strep throat
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000639.htm
+
+Resource: Strep Throat in Kids and Teens (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/strep-throat.html
+
+Resource: Streptococcal Infections
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/infections/bacterial-infections-gram-positive-bacteria/streptococcal-infections
+
+Resource: Streptococcal Infections: Not A or B
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Streptococcal-Infections-Not-A-or-B.aspx
+
+Resource: Streptococcal screen
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003745.htm
+
+Resource: Sydenham chorea
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001358.htm
+
+Resource: Sydenham Chorea
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/sydenham-chorea
+
+Resource: Throat swab culture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003746.htm
+
+Resource: Toxic shock syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000653.htm
+
+Resource: Toxic Shock Syndrome (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toxic-shock.html
+
+Resource: Toxic Shock Syndrome (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/tss.html

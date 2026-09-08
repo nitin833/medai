@@ -1,0 +1,141 @@
+Title: MRSA
+
+Also Called:
+- Methicillin-resistant Staphylococcus aureus
+
+Summary:
+MRSA stands for methicillin-resistant Staphylococcus aureus.  It causes a
+staph infection
+(pronounced "staff infection") that is resistant to several common
+antibiotics
+. There are two types of infection. Hospital-associated MRSA happens to people in health care settings. Community-associated MRSA happens to people who have close skin-to-skin contact with others, such as athletes involved in football and wrestling.
+Infection control
+is key to stopping MRSA in hospitals. To prevent community-associated MRSA:
+Practice good hygiene
+Keep cuts and scrapes clean and covered with a bandage until healed
+Avoid contact with other people's wounds or bandages
+Avoid sharing personal items, such as towels, washcloths, razors, or clothes
+Wash soiled sheets, towels, and clothes in hot water with bleach and dry in a hot dryer
+If a wound appears to be infected, see a health care provider. Treatments may include draining the infection and antibiotics.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Methicillin-Resistant Staphylococcus aureus
+
+Related Resources:
+
+Resource: Abscess
+Category: Related Issues
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/abscess/?Imiw9cApl=1
+
+Resource: Antimicrobial Resistance Threats
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/antimicrobial-resistance-threats
+
+Resource: Athletes: MRSA Prevention and Control
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mrsa/prevention/athletes.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clinical Overview of Methicillin-Resistant Staphylococcus aureus (MRSA) in Healthcare Settings
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mrsa/hcp/clinical-overview/
+
+Resource: ClinicalTrials.gov: Methicillin-Resistant Staphylococcus aureus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Methicillin-Resistant+Staphylococcus+aureus%22&aggFilters=status:not%20rec
+
+Resource: Methicillin-resistant Staphylococcus aureus (MRSA)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007261.htm
+
+Resource: Methicillin-Resistant Staphylococcus aureus (MRSA)
+Category: Specifics
+Organization: Cystic Fibrosis Foundation
+URL: https://www.cff.org/managing-cf/methicillin-resistant-staphylococcus-aureus-mrsa
+
+Resource: Methicillin-Resistant Staphylococcus aureus (MRSA) Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mrsa/about/
+
+Resource: MRSA
+Category: Start Here
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/mrsa/?Imiw9cApl
+
+Resource: MRSA
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/mrsa.html
+
+Resource: MRSA (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/mrsa.html
+
+Resource: MRSA Infection
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mrsa/symptoms-causes/syc-20375336?p=1
+
+Resource: MRSA Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mrsa-tests/
+
+Resource: Nasal Swab
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/nasal-swab/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing Lice, Pinworms, and MRSA at the Pool
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/preventing-lice-pinworms-and-mrsa-at-the-pool.html
+
+Resource: Preventing Methicillin-resistant Staphylococcus aureus (MRSA)
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mrsa/prevention/
+
+Resource: MRSA
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Methicillin-Resistant+Staphylococcus+aureus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Schools and Daycares: MRSA Prevention and Response
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mrsa/prevention/schools-and-daycares.html
+
+Resource: Seasonal Flu and Staph Infection
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/signs-symptoms/flustaph.html
+
+Resource: Staph infections in the hospital
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000449.htm
+
+Resource: Staphylococcus aureus (Staph infection) and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/staphylococcus-aureus-pregnancy/

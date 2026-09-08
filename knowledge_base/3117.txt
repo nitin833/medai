@@ -1,0 +1,523 @@
+Title: Genetic Brain Disorders
+
+Also Called:
+- Inborn genetic brain disorders
+
+Summary:
+A genetic brain disorder is caused by a variation or a mutation in a gene.  A variation is a different form of a gene. A mutation is a change in a gene. Genetic brain disorders affect the development and function of the brain.
+Some genetic brain disorders are due to random gene mutations or mutations caused by environmental exposure, such as cigarette smoke. Other disorders are inherited, which means that a mutated gene or group of genes is passed down through a family. They can also be due to a combination of both genetic changes and other outside factors.
+Some examples of genetic brain disorders include:
+Leukodystrophies
+Phenylketonuria
+Tay-Sachs disease
+Wilson disease
+Many people with genetic brain disorders fail to produce enough of certain proteins that influence brain development and function. These brain disorders can cause serious problems that affect the nervous system. Some have treatments to control symptoms.  Some are life-threatening.
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+- Metabolic Problems
+
+MeSH Headings:
+- Brain Diseases, Metabolic, Inborn
+
+Related Resources:
+
+Resource: 2-hydroxyglutaric aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/2-hydroxyglutaric-aciduria/
+
+Resource: 3-hydroxy-3-methylglutaryl-CoA lyase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-hydroxy-3-methylglutaryl-coa-lyase-deficiency/
+
+Resource: 3-methylcrotonyl-CoA carboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylcrotonyl-coa-carboxylase-deficiency/
+
+Resource: 3-methylglutaconyl-CoA hydratase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylglutaconyl-coa-hydratase-deficiency/
+
+Resource: Adenylosuccinate lyase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adenylosuccinate-lyase-deficiency/
+
+Resource: Alpha-mannosidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-mannosidosis/
+
+Resource: Alpha-methylacyl-CoA racemase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-methylacyl-coa-racemase-deficiency/
+
+Resource: Alpha-N-acetylgalactosaminidase deficiency (Schindler disease): MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-n-acetylgalactosaminidase-deficiency/
+
+Resource: Aminoacylase 1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aminoacylase-1-deficiency/
+
+Resource: Arginase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arginase-deficiency/
+
+Resource: Arginine:glycine amidinotransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arginineglycine-amidinotransferase-deficiency/
+
+Resource: Argininosuccinic aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/argininosuccinic-aciduria/
+
+Resource: Aromatic l-amino acid decarboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aromatic-l-amino-acid-decarboxylase-deficiency/
+
+Resource: Aspartylglucosaminuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aspartylglucosaminuria/
+
+Resource: Batten Disease (Neuronal Ceroid Lipofuscinosis)
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/batten-disease-neuronal-ceroid-lipofuscinosis
+
+Resource: Beta-ketothiolase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-ketothiolase-deficiency/
+
+Resource: Beta-mannosidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-mannosidosis/
+
+Resource: Biotinidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/biotinidase-deficiency/
+
+Resource: Birth Disorders of the Brain and Spinal Cord
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/birth-disorders-brain-and-spinal-cord
+
+Resource: Childhood myocerebrohepatopathy spectrum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/childhood-myocerebrohepatopathy-spectrum/
+
+Resource: Citrullinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/citrullinemia/
+
+Resource: ClinicalTrials.gov: Brain Diseases, Metabolic, Inborn
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Diseases,+Metabolic,+Inborn%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Niemann-Pick Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Niemann-Pick+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Coats plus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/coats-plus-syndrome/
+
+Resource: Combined malonic and methylmalonic aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/combined-malonic-and-methylmalonic-aciduria/
+
+Resource: Dentatorubral-pallidoluysian atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dentatorubral-pallidoluysian-atrophy/
+
+Resource: Deoxyguanosine kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/deoxyguanosine-kinase-deficiency/
+
+Resource: Dihydrolipoamide dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dihydrolipoamide-dehydrogenase-deficiency/
+
+Resource: Dihydropyrimidine dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dihydropyrimidine-dehydrogenase-deficiency/
+
+Resource: Ethylmalonic encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ethylmalonic-encephalopathy/
+
+Resource: Fabry disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fabry-disease/
+
+Resource: Fahr's Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/fahrs-syndrome
+
+Resource: Fragile X-associated tremor/ataxia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fragile-x-associated-tremor-ataxia-syndrome/
+
+Resource: Free sialic acid storage disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/free-sialic-acid-storage-disorder/
+
+Resource: Fucosidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fucosidosis/
+
+Resource: Fumarase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fumarase-deficiency/
+
+Resource: GABA-transaminase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gaba-transaminase-deficiency/
+
+Resource: Galactosemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/galactosemia/
+
+Resource: Genetic and Rare Diseases Information Center
+Category: Find an Expert
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/
+
+Resource: GLUT1 deficiency syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glut1-deficiency-syndrome/
+
+Resource: Glutamate formiminotransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutamate-formiminotransferase-deficiency/
+
+Resource: Glutaric acidemia type I: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutaric-acidemia-type-i/
+
+Resource: Glutathione synthetase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutathione-synthetase-deficiency/
+
+Resource: GM1 gangliosidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gm1-gangliosidosis/
+
+Resource: GRIN2B-related neurodevelopmental disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/grin2b-related-neurodevelopmental-disorder/
+
+Resource: Guanidinoacetate methyltransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/guanidinoacetate-methyltransferase-deficiency/
+
+Resource: Hypermethioninemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypermethioninemia/
+
+Resource: Hyperprolinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperprolinemia/
+
+Resource: Isovaleric acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isovaleric-acidemia/
+
+Resource: L1 syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/l1-syndrome/
+
+Resource: Leigh syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leigh-syndrome/
+
+Resource: Lesch-Nyhan syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001655.htm
+
+Resource: Lesch-Nyhan Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7226/lesch-nyhan-syndrome
+
+Resource: Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leukoencephalopathy-with-brainstem-and-spinal-cord-involvement-and-lactate-elevation/
+
+Resource: Lipid Storage Diseases
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lipid-storage-diseases
+
+Resource: Malonyl-CoA decarboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/malonyl-coa-decarboxylase-deficiency/
+
+Resource: Maple syrup urine disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000373.htm
+
+Resource: Maple Syrup Urine Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/msud.html
+
+Resource: MECP2-related severe neonatal encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mecp2-related-severe-neonatal-encephalopathy/
+
+Resource: MEGDEL syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/megdel-syndrome/
+
+Resource: Menkes Disease
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/menkes-disease
+
+Resource: Menkes disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001160.htm
+
+Resource: Menkes syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/menkes-syndrome/
+
+Resource: Mitochondrial complex III deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-complex-iii-deficiency/
+
+Resource: Mitochondrial Disorders
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/mitochondrial-disorders
+
+Resource: Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes/
+
+Resource: Mitochondrial neurogastrointestinal encephalopathy disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-neurogastrointestinal-encephalopathy-disease/
+
+Resource: Molybdenum cofactor deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/molybdenum-cofactor-deficiency/
+
+Resource: Moyamoya Disease
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/moyamoya-disease
+
+Resource: Moyamoya disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/moyamoya-disease/
+
+Resource: Mucolipidosis type IV: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucolipidosis-type-iv/
+
+Resource: Mucopolysaccharidosis type I: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-i/
+
+Resource: Mucopolysaccharidosis type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-ii/
+
+Resource: Mucopolysaccharidosis type III: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucopolysaccharidosis-type-iii/
+
+Resource: Multiple sulfatase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-sulfatase-deficiency/
+
+Resource: Myoclonic epilepsy with ragged-red fibers: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-with-ragged-red-fibers/
+
+Resource: N-acetylglutamate synthase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/n-acetylglutamate-synthase-deficiency/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neurodevelopmental disorder with or without anomalies of the brain, eye, or heart: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neurodevelopmental-disorder-with-or-without-anomalies-of-the-brain-eye-or-heart/
+
+Resource: Neuronal ceroid lipofuscinoses (NCL)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001613.htm
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Niemann-Pick disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001207.htm
+
+Resource: Niemann-Pick disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/niemann-pick-disease/
+
+Resource: Nonketotic hyperglycinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nonketotic-hyperglycinemia/
+
+Resource: Ornithine transcarbamylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ornithine-transcarbamylase-deficiency/
+
+Resource: Overview of Urea Cycle Disorders
+Category: Specifics
+Organization: National Urea Cycle Disorders Foundation
+URL: https://nucdf.org/about-ucd/what-is-a-ucd/
+
+Resource: Phosphoglycerate dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-dehydrogenase-deficiency/
+
+Resource: Phosphoglycerate kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-kinase-deficiency/
+
+Resource: Phosphoribosylpyrophosphate synthetase superactivity: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoribosylpyrophosphate-synthetase-superactivity/
+
+Resource: PMM2-congenital disorder of glycosylation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pmm2-congenital-disorder-of-glycosylation/
+
+Resource: Prion disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prion-disease/
+
+Resource: Prolidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prolidase-deficiency/
+
+Resource: Genetic Brain Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Diseases%2C+Metabolic%2C+Inborn%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Pyruvate dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pyruvate-dehydrogenase-deficiency/
+
+Resource: Short/branched chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency/
+
+Resource: Succinic semialdehyde dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/succinic-semialdehyde-dehydrogenase-deficiency/
+
+Resource: What Is a Pediatric Geneticist?
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Geneticist.aspx
+
+Resource: What Is Batten Disease?
+Category: Specifics
+Organization: Batten Disease Support, Research, and Advocacy Association
+URL: https://bdsrafoundation.org/what-is-batten-disease/
+
+Resource: What Is Genetics?
+Category: Related Issues
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2024/04/what-is-genetics
+
+Resource: X-linked creatine deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-creatine-deficiency/

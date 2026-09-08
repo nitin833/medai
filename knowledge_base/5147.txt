@@ -1,0 +1,89 @@
+Title: Cold Sores
+
+Also Called:
+- Fever blister
+- Oral herpes
+
+Summary:
+Cold sores are caused by a contagious virus called
+herpes simplex virus
+(HSV). There are two types of HSV. Type 1 usually causes oral herpes, or cold sores. Type 1 herpes virus infects more than half of the U.S. population by the time they reach their 20s. Type 2 usually affects the
+genital area
+.
+Some people have no symptoms from the infection. But others develop painful and unsightly cold sores. Cold sores usually occur outside the mouth, on or around the lips. When they are inside the mouth, they are usually on the gums or the roof of the mouth. They are not the same as
+canker sores
+, which are not contagious.
+There is no cure for cold sores. They normally go away on their own in a few weeks.  Antiviral medicines can help them heal faster.  They can also help to prevent cold sores in people who often get them. Other medicines can help with the pain and discomfort of the sores. These include ointments that numb the blisters, soften the crusts of the sores, or dry them out. Protecting your lips from the sun with sunblock lip balm can also help.
+
+Groups:
+- Infections
+- Mouth and Teeth
+
+MeSH Headings:
+- Herpes Labialis
+
+Related Resources:
+
+Resource: Can You Get Genital Herpes from a Cold Sore?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hsv1-sores.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Herpes Labialis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Herpes+Labialis%22&aggFilters=status:not%20rec
+
+Resource: Cold Sore
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cold-sore/symptoms-causes/syc-20371017?p=1
+
+Resource: Cold Sores (for Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cold-sores.html
+
+Resource: Cold Sores (Orofacial Herpes)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/orofacial-herpes-simplex-virus-hsv/?Imiw9cApl=1
+
+Resource: Cold Sores in Children: About the Herpes Simplex Virus
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Herpes-Simplex-Virus-Cold-Sores.aspx
+
+Resource: Fever Blisters and Canker Sores
+Category: Start Here
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/fever-blisters-canker-sores
+
+Resource: Herpes - oral
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000606.htm
+
+Resource: Herpetic stomatitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001383.htm
+
+Resource: Mouth sores
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003059.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Cold Sores
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Herpes+Labialis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29

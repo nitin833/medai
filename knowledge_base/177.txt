@@ -1,0 +1,108 @@
+Title: Carbon Monoxide Poisoning
+
+Also Called:
+- CO poisoning
+
+Summary:
+Carbon monoxide (CO) is a gas that has no odor or color. But it is very dangerous. It can cause sudden illness and death. CO is found in combustion fumes, such as those made by cars and trucks, lanterns, stoves, gas ranges and heating systems. CO from these fumes can build up in places that don't have a good flow of fresh air.  You can be poisoned by breathing them in.  The most common symptoms of CO poisoning are:
+Headache
+Dizziness
+Weakness
+Nausea
+Vomiting
+Chest pain
+Confusion
+It is often hard to tell if someone has CO poisoning, because the symptoms may be like those of other illnesses. People who are sleeping or intoxicated can die from CO poisoning before they have symptoms. A CO detector can warn you if you have high levels of CO in your home.
+Centers for Disease Control and Prevention
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Carbon Monoxide Poisoning
+
+Related Resources:
+
+Resource: "Invisible" Killer
+Category: Start Here, Patient Handouts
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/s3fs-public/464.pdf
+
+Resource: Abnormal hemoglobins testing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003371.htm
+
+Resource: Carbon Monoxide Information Center
+Category: Start Here
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+
+Resource: Carbon Monoxide Poisoning
+Category: Prevention and Risk Factors
+Organization: American Red Cross
+URL: https://www.redcross.org/content/dam/redcross/atg/PDF_s/Preparedness___Disaster_Recovery/Disaster_Preparedness/Home_Fire/FireCOFactSheet.pdf
+
+Resource: Carbon monoxide poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002804.htm
+
+Resource: Carbon Monoxide Poisoning Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/carbon-monoxide/about/index.html
+
+Resource: Carbon Monoxide Poisoning Prevention
+Category: Start Here
+Organization: United States Fire Administration
+URL: https://www.usfa.fema.gov/prevention/life-safety-hazards/carbon-monoxide/
+
+Resource: Carbon Monoxide's Impact on Indoor Air Quality
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/carbon-monoxides-impact-indoor-air-quality
+
+Resource: ClinicalTrials.gov: Carbon Monoxide Poisoning
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carbon+Monoxide+Poisoning%22&aggFilters=status:not%20rec
+
+Resource: CPSC Warns of Carbon Monoxide Poisoning with Camping Equipment
+Category: Prevention and Risk Factors
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/s3fs-public/CampingEquipmentPortableHeaterSafetyAlert.pdf
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: How to Protect Your Family From Carbon Monoxide Poisoning
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/all-around/Pages/How-to-Prevent-Carbon-Monoxide-Poisoning.aspx
+
+Resource: Hyperbaric oxygen therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: Carbon Monoxide Poisoning
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Carbon+Monoxide+Poisoning%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: When Your Furnace Kicks On, Be Sure Poison Gas Isn't Coming Out
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/carbon-monoxide/media/pdfs/Furnace.pdf
+
+Resource: Workplace Carbon Monoxide Hazards
+Category: Prevention and Risk Factors
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/carbon-monoxide/about/

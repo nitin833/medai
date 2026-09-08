@@ -1,0 +1,89 @@
+Title: Listeria Infections
+
+Also Called:
+- Listeriosis
+
+Summary:
+Listeriosis is a
+foodborne illness
+caused by Listeria monocytogenes, bacteria found in soil and water.  It can be in a variety of raw foods as well as in processed foods and foods made from unpasteurized milk. Listeria is unlike many other germs because it can grow even in the cold temperature of the refrigerator.
+Symptoms include fever and chills, headache, upset stomach and vomiting. Treatment is with antibiotics.
+Anyone can get the illness. But it is most likely to affect pregnant women and unborn babies, older adults, and people with weak immune systems. To reduce your risk:
+Use precooked and ready-to-eat foods as soon as you can
+Avoid raw milk and raw milk products
+Heat ready-to-eat foods and leftovers until they are steaming hot
+Wash fresh fruits and vegetables
+Avoid rare meat and refrigerated smoked seafood
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Listeriosis
+
+Related Resources:
+
+Resource: About Listeria Infection
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/listeria/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Listeria Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Listeria+Infections%22&aggFilters=status:not%20rec
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Listeria (Food Safety for Moms-to-Be)
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/health-educators/listeria-food-safety-moms-be
+
+Resource: Listeria Infection (Listeriosis)
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/listeriosis-pregnancy/
+
+Resource: Listeria Infections (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/listeria.html
+
+Resource: Listeriosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001380.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing Listeria Infection
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/listeria/prevention/
+
+Resource: Listeria Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Listeriosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Symptoms of Listeria Infection
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/listeria/signs-symptoms/
+
+Resource: What You Need to Know About Preventing Listeria Infections
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-preventing-listeria-infections

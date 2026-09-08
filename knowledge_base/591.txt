@@ -1,0 +1,217 @@
+Title: Lymphatic Diseases
+
+Summary:
+The lymphatic system is a network of tissues and organs. It is made up of:
+Lymph - a fluid that contains white blood cells that defend against germs
+Lymph vessels - vessels that carry lymph throughout your body.  They are different from blood vessels.
+Lymph nodes - glands found throughout the lymph vessels. Along with your
+spleen
+, these nodes are where white blood cells fight infection.
+Your bone marrow and thymus produce the cells in lymph. They are part of the system, too.
+The lymphatic system clears away infection and keeps your body fluids in balance. If it's not working properly, fluid builds in your tissues and causes swelling, called
+lymphedema
+. Other lymphatic system problems can include infections, blockage, and
+cancer
+.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Lymphatic Diseases
+
+Related Resources:
+
+Resource: About Lymphatic Filariasis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/filarial-worms/about/lymphatic-filariasis.html?
+
+Resource: Armpit lump
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003099.htm
+
+Resource: Autoimmune Lymphoproliferative Syndrome (ALPS)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/autoimmune-lymphoproliferative-syndrome-alps
+
+Resource: Autoimmune lymphoproliferative syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autoimmune-lymphoproliferative-syndrome
+
+Resource: Cancer and lymph nodes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000824.htm
+
+Resource: Castleman Disease
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/castleman-disease/symptoms-causes/syc-20543017?p=1
+
+Resource: Chylous Ascites (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/chylous-ascites.html
+
+Resource: ClinicalTrials.gov: Lymph Nodes
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lymph+Nodes%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Lymphatic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lymphatic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Cystic hygroma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000148.htm
+
+Resource: Drugs Approved for Multicentric Castleman Disease
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/multicentric-castleman-disease
+
+Resource: Groin lump
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003100.htm
+
+Resource: Histiocytosis-lymphadenopathy plus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/histiocytosis-lymphadenopathy-plus-syndrome/
+
+Resource: Introduction to the Lymphatic System
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/
+
+Resource: Lymph node biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003933.htm
+
+Resource: Lymph nodes
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000083.htm
+
+Resource: Lymph Nodes
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/nodes.html
+
+Resource: Lymph system
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002247.htm
+
+Resource: Lymphadenitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001301.htm
+
+Resource: Lymphangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003798.htm
+
+Resource: Lymphangitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007296.htm
+
+Resource: Lymphatic Malformations (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/lymphatic-malformations.html
+
+Resource: Lymphatic System (For Parents)
+Category: Start Here, Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/spleen-lymphatic.html
+
+Resource: Lymphofollicular hyperplasia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001377.htm
+
+Resource: Lymphoscintigraphy
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/lympho
+
+Resource: Mesenteric Lymphadenitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mesenteric-lymphadenitis/symptoms-causes/syc-20353799?p=1
+
+Resource: Milroy disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/milroy-disease
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Neck dissection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007573.htm
+
+Resource: Neck lump
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003098.htm
+
+Resource: Overview of the Lymphatic System
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/lymphatic-disorders/overview-of-the-lymphatic-system
+
+Resource: Lymphatic Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lymphatic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sentinel Lymph Node Biopsy
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/staging/sentinel-node-biopsy-fact-sheet
+
+Resource: Spleen and Lymphatic System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/spleen.html
+
+Resource: Swollen Lymph Nodes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/swollen-lymph-nodes/symptoms-causes/syc-20353902?p=1
+
+Resource: Swollen lymph nodes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003097.htm
+
+Resource: T-cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003516.htm
+
+Resource: What Is LAM (Lymphangioleiomyomatosis)?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lam

@@ -1,0 +1,51 @@
+Title: Síndrome de Behcet
+
+Also Called:
+- Síndrome de Behçet
+
+Summary:
+El síndrome de Behcet es una enfermedad que se caracteriza por la
+inflamación de los vasos sanguíneos
+y que causa problemas en muchas partes del cuerpo. Los síntomas más comunes son:
+Llagas en la boca
+Llagas en los órganos sexuales
+Llagas en otras regiones de la piel
+Hinchazón de ciertas partes del ojo
+Dolor, hinchazón y rigidez de las articulaciones
+Los problemas más serios pueden incluir meningitis, coágulos sanguíneos, inflamación del sistema digestivo y ceguera.
+Los médicos no están seguros de cuál es la causa del síndrome de Behcet. Es poco frecuente en Estados Unidos, pero es común en el Medio Oriente y Asia. Afecta principalmente a las personas entre los 20 y los 30 años de edad. El diagnóstico puede tomarse mucho tiempo, ya que los síntomas pueden aparecer y desaparecer y quizá pueden pasar meses o años hasta que aparezcan todos los síntomas.
+No existe una cura. El tratamiento se enfoca en la disminución del dolor y la prevención de los problemas más graves. La mayoría de las personas pueden controlar los síntomas con el tratamiento.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Sangre, corazón y circulación
+- Ojos y visión
+- Salud oral y dental
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Enfermedad de Behcet: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/behcet-disease/diagnosis-treatment/drc-20351331?p=1
+
+Resource: Enfermedad de Behcet: Síntomas y causas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/behcet-disease/symptoms-causes/syc-20351326?p=1
+
+Resource: Enfermedad de Behçet
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13141/enfermedad-de-behcet/
+
+Resource: Uveítis
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001005.htm
+
+Resource: ¿Qué es la uveítis?
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-uveitis

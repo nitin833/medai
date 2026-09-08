@@ -1,0 +1,151 @@
+Title: Enfermedades de la glándula pituitaria
+
+Also Called:
+- Enfermedades pituitarias
+
+Summary:
+La glándula pituitaria es una glándula del tamaño de un guisante que se encuentra en la base del cerebro. La pituitaria es la "glándula de control maestro" - produce hormonas que afectan el crecimiento y las funciones de las otras glándulas del cuerpo.
+Una enfermedad de la glándula pituitaria puede causar la producción de pocas o muchas hormonas. Algunas lesiones pueden causar trastornos de la glándula pituitaria, pero la causa más común es un
+tumor
+.
+
+Groups:
+- Cerebro y nervios
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Examen de corticotropina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003695.htm
+
+Resource: Examen de cortisol en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003693.htm
+
+Resource: Examen de hormona antidiurética en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003702.htm
+
+Resource: Examen de hormona luteinizante (HL) en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003708.htm
+
+Resource: Examen de la hormona foliculoestimulante (FSH) en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003710.htm
+
+Resource: Examen de sangre de prolactina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003718.htm
+
+Resource: Examen de T4
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003517.htm
+
+Resource: Examen de TBG en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003374.htm
+
+Resource: Examen para la hormona del crecimiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003706.htm
+
+Resource: Gigantismo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001174.htm
+
+Resource: Glándula pituitaria
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000099.htm
+
+Resource: Hipopituitarismo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000343.htm
+
+Resource: Hormona adrenocorticotrópica (ACTH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hormona-adrenocorticotropica-acth/
+
+Resource: Infarto de la hipófisis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001167.htm
+
+Resource: Prueba de estimulación con corticotropina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003696.htm
+
+Resource: Prueba de estimulación de la hormona del crecimiento
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003377.htm
+
+Resource: Prueba de IGF-1 (factor de crecimiento similar a la insulina 1)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-igf-1-factor-de-crecimiento-similar-a-la-insulina-1/
+
+Resource: Prueba de inhibición de la hormona del crecimiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003376.htm
+
+Resource: Prueba de niveles de la hormona foliculoestimulante (FSH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-niveles-de-la-hormona-foliculoestimulante-fsh/
+
+Resource: Prueba de niveles de la hormona luteinizante (HL)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-niveles-de-la-hormona-luteinizante-hl/
+
+Resource: Pruebas de la hormona del crecimiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-la-hormona-del-crecimiento/
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: Sistema endocrino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/endocrine.html
+
+Resource: Sistema endocrino
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/endocrine.html
+
+Resource: Síndrome de la silla turca vacía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000349.htm
+
+Resource: Síndrome de Sheehan
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001175.htm

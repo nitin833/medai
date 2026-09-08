@@ -1,0 +1,86 @@
+Title: Pressure Sores
+
+Also Called:
+- Bed sores
+- Decubitus ulcers
+- Pressure ulcers
+
+Summary:
+Pressure sores are areas of damaged skin caused by staying in one position for too long. They commonly form where your bones are close to your skin, such as your ankles, back, elbows, heels and hips. You are at risk if you are bedridden, use a wheelchair, or are unable to change your position. Pressure sores can cause serious infections, some of which are life-threatening. They can be a problem for people in nursing homes.
+You can prevent the sores by :
+Keeping skin clean and dry
+Changing position every two hours
+Using pillows and products that relieve pressure
+Pressure sores have a variety of treatments. Advanced sores are slow to heal, so early treatment is best.
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Pressure Ulcer
+
+Related Resources:
+
+Resource: Bedsores (Pressure Ulcers)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pressure-ulcer-decubitus-ulcer/?Imiw9cApl=1
+
+Resource: Bedsores (Pressure Ulcers)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bed-sores/symptoms-causes/syc-20355893?p=1
+
+Resource: ClinicalTrials.gov: Pressure Ulcer
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pressure+Ulcer%22&aggFilters=status:not%20rec
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: How to care for pressure sores
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000740.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Pressure Sores
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/pressure-sores/
+
+Resource: Pressure Sores
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/hair-skin-nails/pressure-sores.html
+
+Resource: Pressure ulcers - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000228.htm
+
+Resource: Preventing Bedsores (Pressure Ulcers)
+Category: Videos and Tutorials
+Organization: Hill Foundation for Families Living with Disabilities
+URL: https://facingdisability.com/expert-topics/preventing-pressure-sores
+
+Resource: Preventing pressure ulcers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000147.htm
+
+Resource: Pressure Sores
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pressure+Ulcer%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Taking Care of Pressure Sores
+Category: Treatments and Therapies
+Organization: University of Washington, Department of Rehabilitation Medicine
+URL: https://sci.washington.edu/info/pamphlets/pressure_sores.asp

@@ -1,0 +1,146 @@
+Title: Medicines and Children
+
+Summary:
+Children aren't just small adults. It is especially important to remember this when giving
+medicines
+to children. Giving a child the wrong dose or a medicine that is not for children can have serious side effects.
+The drug labels for prescription medicines have a section on "Pediatric Use." It says whether the medicine has been studied for its effects on children. It also tells you which age groups were studied. Some
+over-the-counter (OTC) medicines
+, like those that treat fever and pain, have been studied for effectiveness, safety, or dosing in children.  But many other OTC medicines have not. It is important to read the labels carefully, to make sure that the medicine is right for your child.
+Here are some other tips for giving medicine safely to your child:
+Read and follow the label directions every time.
+Pay special attention to usage directions and warnings.
+Watch out for problems.
+Contact your health care provider or pharmacist right away if
+You notice any new symptoms or unexpected side effects in your child
+The medicine doesn't appear to be working when you expect it to. For example, antibiotics may take a few days to start working, but a pain reliever usually starts working soon after your child takes it.
+Know the abbreviations for the amounts of medicines:
+Tablespoon (tbsp.)
+Teaspoon (tsp.)
+Milligram (mg.)
+Milliliter (mL.)
+Ounce (oz.)
+Use the correct dosing device.
+If the label says two teaspoons and you're using a dosing cup with ounces only, don't try to guess how many teaspoons it would be. Get the proper measuring device. Don't substitute another item, such as a kitchen spoon.
+Check with your health care provider or pharmacist before giving two medicines at the same time.
+That way, you can avoid a possible overdose or an unwanted interaction.
+Follow age and weight limit recommendations.
+If the label says don't give to children under a certain age or weight, then don't do it.
+Always use the child-resistant cap
+and re-lock the cap after each use. Also, keep all medicines out of the reach of children.
+Ask your health care provider or pharmacist
+if you have any questions.
+Food and Drug Administration
+
+Groups:
+- Children and Teenagers
+- Drug Therapy
+
+MeSH Headings:
+- Drug Therapy
+
+Related Resources:
+
+Resource: Acetaminophen dosing for children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000783.htm
+
+Resource: Acetaminophen Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acetaminophen-level/
+
+Resource: Acetaminophen overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002598.htm
+
+Resource: Acetaminophen Overdose Is Serious and It Can Happen More Easily Than You Might Think
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/acetaminophen/art-20046721?p=1
+
+Resource: As They Grow: Teaching Your Children How to Use Medicines Safely
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/information-consumers-and-patients-drugs/they-grow-teaching-your-children-how-use-medicines-safely
+
+Resource: Cold medicines and children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000942.htm
+
+Resource: Danger of Antibiotic Overuse (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/antibiotic-overuse.html
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Helping Kids Take Medicine
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/take-medicine.html
+
+Resource: How to Give Your Child Medicine
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/how-to-give-your-child-medicine/
+
+Resource: How to Safely Give Acetaminophen
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/acetaminophen.html
+
+Resource: How to Safely Give Ibuprofen
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ibuprofen.html
+
+Resource: Ibuprofen dosing for children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000772.htm
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Medicine safety and children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000619.htm
+
+Resource: Medicines for ADHD
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007592.htm
+
+Resource: Medicines: Using Them Safely (for Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/medication-safety.html
+
+Resource: Medicines and Children
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Drug+Therapy%22%5Bmajr%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Should You Give Kids Medicine for Coughs and Colds?
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds
+
+Resource: Treatment of Flu in Children
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/treatment/children-antiviral.html
+
+Resource: What Medicines Are and What They Do (For Kids)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/kidmedic.html

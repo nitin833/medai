@@ -1,0 +1,271 @@
+Title: Bone Marrow Diseases
+
+Summary:
+Bone marrow is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains
+stem cells
+. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting.
+With bone marrow disease, there are problems with the stem cells or how they develop:
+In
+leukemia
+, a cancer of the blood, the bone marrow makes abnormal white blood cells
+In
+aplastic anemia
+, the bone marrow doesn't make red blood cells
+In myeloproliferative disorders, the bone marrow makes too many white blood cells
+Other diseases, such as
+lymphoma
+, can spread into the bone marrow and affect the production of blood cells
+Causes of bone marrow diseases include genetics and environmental factors. Tests for bone marrow diseases include
+blood
+and bone marrow tests. Treatments depend on the disorder and how severe it is. They might involve medicines,
+blood transfusions
+or a
+bone marrow transplant
+.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Bone Marrow Diseases
+
+Related Resources:
+
+Resource: 8p11 myeloproliferative syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/8p11-myeloproliferative-syndrome
+
+Resource: Agranulocytosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001295.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Ataxia-pancytopenia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ataxia-pancytopenia-syndrome/
+
+Resource: Atypical Chronic Myelogenous Leukemia
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_257
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Bone marrow aspiration
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003658.htm
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone marrow culture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003682.htm
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: ClinicalTrials.gov: Bone Marrow Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bone+Marrow+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Myeloproliferative Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Myeloproliferative+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Diamond-Blackfan Anemia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diamond-blackfan-anemia.html
+
+Resource: Diamond-Blackfan anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/diamond-blackfan-anemia
+
+Resource: Drugs Approved for Myeloproliferative Neoplasms or Myelodysplastic Syndromes
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/myeloproliferative-neoplasms
+
+Resource: Erythropoietin test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003683.htm
+
+Resource: Essential Thrombocythemia
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq#_245
+
+Resource: Essential thrombocythemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/essential-thrombocythemia
+
+Resource: Fanconi anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fanconi-anemia
+
+Resource: General Information about Chronic Myeloproliferative Neoplasms
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq#_1
+
+Resource: General Information about Myelodysplastic/Myeloproliferative Neoplasms
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_1
+
+Resource: Juvenile Myelomonocytic Leukemia (JMML)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jmml.html
+
+Resource: Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_307
+
+Resource: Myelofibrosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/myelofibrosis/symptoms-causes/syc-20355057?p=1
+
+Resource: Myelofibrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000531.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Paroxysmal nocturnal hemoglobinuria (PNH)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000534.htm
+
+Resource: Paroxysmal nocturnal hemoglobinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria
+
+Resource: Pearson marrow-pancreas syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pearson-marrow-pancreas-syndrome
+
+Resource: Polycythemia Vera
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850?p=1
+
+Resource: Polycythemia vera
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000589.htm
+
+Resource: Polycythemia vera: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/polycythemia-vera
+
+Resource: Primary Myelofibrosis
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq#_234
+
+Resource: Primary myelofibrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-myelofibrosis
+
+Resource: Bone Marrow Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Marrow+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Reticulocyte count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003637.htm
+
+Resource: Reticulocyte Count
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/reticulocyte-count/
+
+Resource: Shwachman-Diamond syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/shwachman-diamond-syndrome
+
+Resource: Thrombocythemia and Thrombocytosis
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thrombocythemia-thrombocytosis
+
+Resource: Treatment Option Overview (Chronic Myeloproliferative Neoplasms)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq#_28
+
+Resource: Treatment Option Overview (Myelodysplastic/Myeloproliferative Neoplasms)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_156

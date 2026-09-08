@@ -1,0 +1,87 @@
+Title: Plague
+
+Also Called:
+- Bubonic plague
+- Pneumonic plague
+
+Summary:
+Plague is an infection caused by the bacterium Yersinia pestis. The bacteria are found mainly in rats and in the fleas that feed on them. People and other animals can get plague from rat or flea bites. In the past, plague destroyed entire civilizations. Today plague is uncommon, due to better living conditions and antibiotics.
+There are three forms of plague:
+Bubonic plague causes the tonsils, adenoids, spleen, and thymus to become inflamed.  Symptoms include fever, aches, chills, and tender lymph glands.
+In septicemic plague, bacteria multiply in the blood. It causes fever, chills, shock, and bleeding under the skin or other organs.
+Pneumonic plague is the most serious form. Bacteria enter the lungs and cause pneumonia. People with the infection can spread this form to others. This type could be a
+bioterror
+agent.
+Lab tests can diagnose plague. Treatment is a strong antibiotic. There is no vaccine.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Plague
+
+Related Resources:
+
+Resource: About Plague
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Diagnosing Plague
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/diagnosis-testing/
+
+Resource: How Plague Spreads
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/causes/
+
+Resource: Maps and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/maps-statistics/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Plague
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000596.htm
+
+Resource: Plague
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/plague
+
+Resource: Plague
+Category: Prevention and Risk Factors
+Organization: Department of the Interior
+URL: https://www.nps.gov/articles/000/plague.htm
+
+Resource: Preventing Plague
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/prevention/
+
+Resource: Plague
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Plague%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Signs and Symptoms of Plague
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/plague/signs-symptoms/
+
+Resource: World Health Organization
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/en/

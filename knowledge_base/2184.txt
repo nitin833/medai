@@ -1,0 +1,96 @@
+Title: Trastornos del gusto y del olfato
+
+Also Called:
+- Problemas para degustar y oler
+
+Summary:
+Los sentidos del gusto y el olfato nos brindan gran placer. El gusto nos ayuda a disfrutar de las comidas y las bebidas. El olfato nos permite disfrutar las esencias y fragancias, como las rosas o el café. El gusto y el olfato también nos protegen, informándonos cuando una comida está en mal estado o cuando hay una fuga de gas. Nos hacen desear comer, asegurándonos que obtengamos la nutrición necesaria.
+Las personas con trastornos del gusto pueden sentir sabores que no existen, no diferenciar los sabores o no percibir ningún sabor. Las personas con trastornos del olfato pueden perder el sentido del olfato o sentir olores distintos en algunas cosas. Un olor que antes resultaba agradable puede convertirse en desagradable.
+Muchas enfermedades y lesiones pueden provocar trastornos del gusto y del olfato, inclusive los resfríos y los traumatismos en la cabeza. Algunos medicamentos también pueden afectar el gusto y el olfato. La mayoría de las personas pierde parte de su capacidad de oler y saborear a medida que envejece. El tratamiento varía, dependiendo del problema y su causa.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Personas mayores
+- Oído, nariz y garganta
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Cambios en los sentidos con la edad
+Category: Personas mayores, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/004013.htm
+
+Resource: Cómo cambian los sentidos del olfato y del sabor a medida que envejece
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/boca/como-cambian-sentidos-olfato-sabor-medida-envejece
+
+Resource: Cómo funciona el sentido del gusto…y ¿por qué se altera?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-funciona-el-sentido-del-gusto-y-por-que-se-altera
+
+Resource: Deterioro del sentido del gusto
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003050.htm
+
+Resource: Deterioro del sentido del olfato
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003052.htm
+
+Resource: Fantosmia: ¿Qué provoca las alucinaciones olfativas?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/temporal-lobe-seizure/expert-answers/phantosmia/faq-20058131?p=1
+
+Resource: Gusto
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000148.htm
+
+Resource: Introducción al olfato y al gusto
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/s%C3%ADntomas-de-las-enfermedades-de-la-nariz-y-la-garganta/introducci%C3%B3n-al-olfato-y-al-gusto
+
+Resource: Lo que su nariz sabe: El sentido del olfato y su salud
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/lo-que-su-nariz-sabe
+
+Resource: Olfato
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000145.htm
+
+Resource: Resonancia magnética de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007356.htm
+
+Resource: Trastornos del gusto
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/trastornos-del-gusto
+
+Resource: Trastornos del gusto
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/trastornos-del-gusto
+
+Resource: Trastornos del olfato
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/trastornos-del-olfato
+
+Resource: Tu nariz
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/nose.html
+
+Resource: ¿Qué son las papilas gustativas?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/taste-buds.html

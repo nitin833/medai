@@ -1,0 +1,124 @@
+Title: Twins, Triplets, Multiple Births
+
+Summary:
+If you are pregnant with more than one baby, you are far from alone. Multiple births are up in the United States.  More women are having babies after age 30 and more are taking fertility drugs. Both boost the chance of carrying more than one baby. A family history of twins also makes multiples more likely.
+Years ago, most twins came as a surprise. Now, most women know about a multiple pregnancy early. Women with multiple pregnancies should see their health care providers more often than women who are expecting one baby. Multiple pregnancy babies have a much higher risk of being born
+prematurely
+and having a
+low birth weight
+.  There is also more of a risk of disabilities. Some women have to go on bed rest to delay labor. Finally, they may deliver by
+C-section
+, especially if there are three babies or more.
+Parenting multiples can be a challenge. Volunteer help and support groups for parents of multiples can help.
+Dept. of Health and Human Services Office on Women's Health
+
+Groups:
+- Children and Teenagers
+- Pregnancy and Reproduction
+
+MeSH Headings:
+- Pregnancy, Triplet
+- Pregnancy, Twin
+- Pregnancy, Quadruplet
+- Pregnancy, Quintuplet
+
+Related Resources:
+
+Resource: Being Pregnant with Twins, Triplets, and Other Multiples
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/being-pregnant-twins-triplets-and-other-multiples
+
+Resource: Challenges of Parenting Multiples
+Category: Start Here
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/news-and-publications/fact-sheets-and-infographics/challenges-of-parenting-multiples/
+
+Resource: ClinicalTrials.gov: Pregnancy, Multiple
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pregnancy,+Multiple%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Twins
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Twins%22&aggFilters=status:not%20rec
+
+Resource: Difference Between Identical and Fraternal Twins
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/The-Difference-Between-Identical-and-Fraternal-Twins.aspx
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Fertility Drugs and the Risk of Multiple Births
+Category: Related Issues
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/news-and-publications/fact-sheets-and-infographics/fertility-drugs-and-the-risk-of-multiple-births/
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Having Twins? How to Stay Healthy
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/prenatal/pages/having-twins-how-to-stay-healthy.aspx
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Multiple Pregnancy
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/multiple-pregnancy
+
+Resource: Multiple Pregnancy and Multiple Births: Understanding the Risks for Mothers and Babies
+Category: Specifics
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/browse-resources/videos/sart-fyi-multiple-pregnancy-multiple-birth/
+
+Resource: Obstetric Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/obstetricus
+
+Resource: Prenatal Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/prenataltesting.html
+
+Resource: Preparing for Multiple Births
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/multiple-births.html
+
+Resource: Twins, Triplets, Multiple Births
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pregnancy%2C+Twin%22%5Bmajr%3Anoexp%5D+OR+%22Pregnancy%2C+Triplet%22%5Bmajr%3Anoexp%5D+OR+%22Pregnancy%2C+Quadruplet%22%5Bmajr%3Anoexp%5D+OR+%22Pregnancy%2C+Quintuplet%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Twin-to-twin transfusion syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001595.htm
+
+Resource: Twin-to-twin transfusion syndrome
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000132.htm
+
+Resource: Twins: Two Distinct Individuals
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/family-dynamics/Pages/Twins-Two-Distinct-Individuals.aspx

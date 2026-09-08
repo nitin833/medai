@@ -1,0 +1,193 @@
+Title: Voice Disorders
+
+Also Called:
+- Vocal disorders
+
+Summary:
+Voice is the sound made by air passing from your lungs through your larynx, or voice box. In your larynx are your vocal cords, two bands of muscle that vibrate to make sound. For most of us, our voices play a big part in who we are, what we do, and how we communicate. Like fingerprints, each person's voice is unique.
+Many things we do can injure our vocal cords. Talking too much, screaming, constantly clearing your throat, or smoking can make you hoarse. They can also lead to problems such as nodules, polyps, and sores on the vocal cords. Other causes of voice disorders include infections, upward movement of stomach acids into the throat, growths due to a virus, cancer, and diseases that paralyze the vocal cords.
+Signs that your voice isn't healthy include:
+Your voice has become hoarse or raspy
+You've lost the ability to hit some high notes when singing
+Your voice suddenly sounds deeper
+Your throat often feels raw, achy, or strained
+It's become an effort to talk
+Treatment for voice disorders varies depending on the cause. Most voice problems can be successfully treated when diagnosed early.
+NIH: National Institute on Deafness and Other Communication Disorders
+
+Groups:
+- Mouth and Teeth
+
+MeSH Headings:
+- Voice Disorders
+
+Related Resources:
+
+Resource: American Academy of Otolaryngology--Head and Neck Surgery
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.entnet.org/
+
+Resource: Botulinum toxin injection - larynx
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007637.htm
+
+Resource: ClinicalTrials.gov: Laryngeal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Laryngeal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Laryngitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Laryngitis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vocal Cord Dysfunction
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vocal+Cord+Dysfunction%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Voice Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Voice+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Directory of Organizations
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/directory
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Hoarseness
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003054.htm
+
+Resource: Hoarseness
+Category: Specifics
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/hoarseness
+
+Resource: Keep Your Voice Sound: How to Prevent and Avoid Voice Problems
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/04/keep-your-voice-sound
+
+Resource: Laryngeal nerve damage
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001643.htm
+
+Resource: Laryngitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001385.htm
+
+Resource: Laryngitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/laryngitis/symptoms-causes/syc-20374262?p=1
+
+Resource: Laryngoscopy
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/laryngoscopy.html
+
+Resource: Laryngoscopy - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100167_1.htm
+
+Resource: Laryngoscopy and nasolaryngoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007507.htm
+
+Resource: Laryngospasm: What Causes It?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gerd/expert-answers/laryngospasm/faq-20058269?p=1
+
+Resource: Learn More about Your Voice
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/be_ent_smart/learn-more-about-your-voice/
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Voice disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Voice+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quick Statistics about Voice, Speech, Language
+Category: Statistics and Research
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/statistics/quick-statistics-voice-speech-language
+
+Resource: Recurrent Respiratory Papillomatosis or Laryngeal Papillomatosis
+Category: Specifics
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/recurrent-respiratory-papillomatosis
+
+Resource: Spasmodic Dysphonia
+Category: Specifics
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/spasmodic-dysphonia
+
+Resource: Spasmodic dysphonia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000753.htm
+
+Resource: Taking Care of Your Voice
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/taking-care-your-voice
+
+Resource: Tips for Maintaining a Healthy Voice
+Category: Prevention and Risk Factors
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/be_ent_smart/tips-for-maintaining-a-healthy-voice/
+
+Resource: Vocal Cord Dysfunction (VCD)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vocal-cord-dysfunction.html
+
+Resource: Vocal Cord Dysfunction: Is it a Type of Asthma?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/expert-answers/vocal-cord-dysfunction/faq-20058019?p=1
+
+Resource: Vocal Cord Paralysis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vocal-cord-paralysis/symptoms-causes/syc-20378873?p=1
+
+Resource: Vocal Fold Paralysis
+Category: Specifics
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/vocal-fold-paralysis
+
+Resource: Voice, Speech, and Language
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/voice-speech-and-language
+
+Resource: What are Vocal Cord Dysfunction (VCD) and Inspiratory Laryngeal Obstruction (ILO)?
+Category: Specifics
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/vocal-cord-dysfunction.pdf
+
+Resource: What's an Adam's Apple? (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/adams-apple.html

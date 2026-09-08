@@ -1,0 +1,250 @@
+Title: Enfermedad de las arterias coronarias
+
+Also Called:
+- Arterioesclerosis coronaria
+
+Summary:
+La enfermedad de las arterias coronarias (EAC) es el tipo más común de enfermedad cardiaca. Es la principal causa de muerte entre los hombres y las mujeres en los Estados Unidos.
+La EAC ocurre cuando las arterias que suministran la sangre al músculo cardíaco se endurecen y se estrechan. Esto se debe a la acumulación de
+colesterol
+y otros materiales llamados placa en la capa interna de las paredes de la arteria. Esta acumulación se llama
+arterioesclerosis
+.  A medida que esta avanza,  fluye menos sangre a través de las arterias. Como consecuencia, el músculo cardíaco no puede recibir la sangre o el oxígeno que necesita. Eso puede conducir a dolor en el pecho (
+angina
+) o a un
+infarto
+. La mayoría de los infartos ocurren cuando un
+coágulo
+súbitamente interrumpe el suministro de sangre al corazón, causando un daño cardíaco permanente.
+Con el tiempo, la EAC también puede debilitar el músculo cardíaco y contribuir a la presencia de
+insuficiencia cardiaca
+y
+arritmias
+. Insuficiencia cardiaca significa que el corazón no puede bombear la sangre adecuadamente al resto del cuerpo. Las arritmias son cambios en el ritmo normal del corazón.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Personas mayores
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Alta tras angioplastia y colocación de stent en el corazón
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000091.htm
+
+Resource: Anatomía del corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Angiografía coronaria
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003876.htm
+
+Resource: Angiografía por resonancia magnética
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007269.htm
+
+Resource: Angioplastia y colocación de stent en el corazón
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007473.htm
+
+Resource: Angioplastía: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/angioplasty.html
+
+Resource: Arterias coronarias
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/las-arterias-coronarias/
+
+Resource: Bypass de la arteria coronaria: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/coronaryarterybypasssurgery.html
+
+Resource: Cardiopatía coronaria
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007115.htm
+
+Resource: Cardiopatía hipertensiva
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000163.htm
+
+Resource: Cateterismo cardíaco
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003419.htm
+
+Resource: Cateterismo izquierdo del corazón
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003871.htm
+
+Resource: Cuestionario sobre la enfermedad arterial coronaria
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/007115_117.htm
+
+Resource: Cómo funciona el corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon
+
+Resource: Cómo prevenir las enfermedades del corazón: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/howtopreventheartdisease.html
+
+Resource: Ecocardiografía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003869.htm
+
+Resource: Ecocardiografía de esfuerzo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007150.htm
+
+Resource: Enfermedad arterial coronaria
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/enfermedad-arterial-coronaria/
+
+Resource: Enfermedad de la arteria coronaria
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000037.htm
+
+Resource: Enfermedad de las arterias coronarias: ¿angioplastia o cirugía de baipás?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronary-artery-disease/expert-answers/coronary-artery-disease/faq-20058302?p=1
+
+Resource: Enfermedades del corazón en la mujer: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/heartdiseaseinwomen.html
+
+Resource: Espasmo de las arterias coronarias
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000159.htm
+
+Resource: Estents liberadores de fármacos: ¿aumentan el riesgo de ataque cardíaco?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronary-artery-disease/in-depth/drug-eluting-stents/art-20044911?p=1
+
+Resource: Examen de VLDL
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003494.htm
+
+Resource: Glosario de terminología cardiovascular
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/glosario-de-terminologia-cardiovascular/
+
+Resource: Isquemia miocárdica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/myocardial-ischemia/symptoms-causes/syc-20375417?p=1
+
+Resource: Isquemia silenciosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/isquemia-silenciosa/
+
+Resource: Obtención de un ECG (electrocardiograma)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-ekg.html
+
+Resource: Placa vulnerable
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/placa-vulnerable/
+
+Resource: Prueba de esfuerzo nuclear
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007201.htm
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Rehabilitación cardíaca: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cardiacrehabilitation.html
+
+Resource: Resonancia magnética del corazón
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003795.htm
+
+Resource: Stent
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002303.htm
+
+Resource: Síndrome coronario agudo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007639.htm
+
+Resource: TC cardíaca para la cuantificación del calcio coronario
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ct_calscoring
+
+Resource: Tomografía por emisión de positrones (TEP) del corazón
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007343.htm
+
+Resource: Ultrasonido intravascular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/ultrasonido-intravascular/
+
+Resource: Ultrasonido intravascular cardíaco
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007266.htm
+
+Resource: Ventriculografía nuclear
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003822.htm
+
+Resource: Vivir con cardiopatía y angina
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000576.htm
+
+Resource: ¿Qué es la aterosclerosis?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/aterosclerosis
+
+Resource: ¿Qué es la cardiopatía coronaria?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/cardiopatia-coronaria
+
+Resource: ¿Qué son las endoprótesis (stents)?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/endoprotesis

@@ -1,0 +1,244 @@
+Title: Chest Injuries and Disorders
+
+Summary:
+What is the chest?
+The chest is the part of your body between your neck and your abdomen (belly). The medical term for your chest is thorax.
+Your chest holds many important structures for breathing, digestion, blood circulation, and other important body functions. These structures include your:
+Ribs and breastbone
+Esophagus, the tube between your mouth and stomach
+Trachea, your windpipe
+Bronchi, the tubes that carry air from your windpipe to your lungs
+Lungs
+Pleura, a thin layer of tissue that covers the lungs and lines the inside wall of the chest space
+Heart and large blood vessels
+Thymus, a gland that's part of your immune system
+Nerves
+What are chest injuries and disorders?
+Chest injuries and disorders are problems that affect any of the organs or structures located in your chest.
+There are many types of chest injuries and disorders, for example:
+Broken ribs
+Esophagus disorders
+Swallowing disorders
+, also called dysphagia
+Tracheal disorders
+Bronchial disorders
+Lung diseases
+and
+collapsed lung
+Pleural disorders
+Heart diseases
+Mediastinal diseases, which are tumors, inflammation, and other problems with the structures in the mediastinum, which is the space between your lungs, breastbone, and spine
+Thoracic
+aortic aneurysm
+Thoracic outlet syndrome
+Chest injuries may happen from the force of car accidents,
+falls
+, or
+sports injuries
+. Or the chest may be pierced by a bullet or sharp object. Because your chest holds so many important structures, certain chest injuries may be life-threatening.
+How are chest injuries and disorders diagnosed?
+Diagnosis of chest injuries or disorders depends on the type of symptoms you're having and whether you've had a chest injury. Injuries are usually obvious, but in most cases, you'll need tests to know how serious an injury is.
+There are many types of tests for diagnosing different types of chest injuries and disorders, for example:
+Diagnostic imaging tests
+Heart tests
+Lung function tests
+Bronchoscopy
+Pleural fluid analysis
+Dysphagia tests
+Biopsy
+Treatments will depend on the type of chest injury or disorder you have.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Rib Fractures
+- Thoracic Injuries
+- Thoracic Diseases
+
+Related Resources:
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Chest CT
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003788.htm
+
+Resource: Chest CT Scan
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/chestct
+
+Resource: Chest MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003794.htm
+
+Resource: Chest tube insertion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002947.htm
+
+Resource: Chest tube insertion - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100008_1.htm
+
+Resource: Chest Tube Thoracostomy
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/chest-tube-thoracostomy.pdf
+
+Resource: Chest Wall Disorder: Pectus Carinatum
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pectus-carinatum.html
+
+Resource: Chest Wall Disorder: Pectus Excavatum
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pectus-excavatum.html
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: Chest X-Ray (Radiography)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/chestrad
+
+Resource: ClinicalTrials.gov: Mediastinal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mediastinal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Rib Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rib+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thoracic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thoracic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thoracic Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thoracic+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Costochondritis
+Category: Patient Handouts, Specifics, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000164.htm
+
+Resource: Costochondritis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/costochondritis.html
+
+Resource: Introduction to Chest Injuries
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/chest-injuries/introduction-to-chest-injuries
+
+Resource: Mediastinal Masses
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/lung-and-airway-disorders/pleural-and-mediastinal-disorders/mediastinal-masses
+
+Resource: Mediastinal tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001086.htm
+
+Resource: Mediastinitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000081.htm
+
+Resource: Mediastinitis
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/lung-and-airway-disorders/pleural-and-mediastinal-disorders/mediastinitis
+
+Resource: Mediastinoscopy with biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003864.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pectus carinatum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003321.htm
+
+Resource: Pectus excavatum
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003320.htm
+
+Resource: Pectus excavatum - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000298.htm
+
+Resource: Pectus excavatum repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002949.htm
+
+Resource: Pectus excavatum repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100035_1.htm
+
+Resource: Pneumomediastinum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000084.htm
+
+Resource: Chest Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Rib+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Thoracic+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Thoracic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Rib fracture - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000539.htm
+
+Resource: Rib Fractures
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/chest-injuries/rib-fractures
+
+Resource: Ribcage pain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003109.htm
+
+Resource: Slipping rib syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007765.htm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests

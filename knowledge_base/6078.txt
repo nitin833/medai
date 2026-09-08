@@ -1,0 +1,97 @@
+Title: Helicobacter pylori Infections
+
+Also Called:
+- H. pylori infections
+
+Summary:
+Helicobacter pylori (H. pylori) is a type of bacteria that causes infection in the stomach. It is the main cause of
+peptic ulcers
+, and it can also cause gastritis and
+stomach cancer
+.
+About 30 to 40% of people in the United States get an H. pylori infection. Most people get it as a child. H. pylori usually does not cause symptoms. But it can break down the inner protective coating in some people's stomachs and cause inflammation. This can lead to gastritis or a peptic ulcer.
+Researchers aren't sure how H. pylori spreads. They think that it may spread by unclean food and water, or through contact with an infected person's saliva and other body fluids.
+A peptic ulcer causes a dull or burning pain in your stomach, especially when you have an empty stomach. It lasts for minutes to hours, and it may come and go for several days or weeks.  It may also cause other symptoms, such as bloating, nausea, and weight loss. If you have the symptoms of a peptic ulcer, your health care provider will check to see whether you have H. pylori.  There are blood, breath, and stool tests to check for H. pylori. In some cases, you may need an upper
+endoscopy
+, often with a
+biopsy
+.
+If you do have a peptic ulcer, the treatment is with a combination of antibiotics and acid-reducing medicines. You will need to be tested again after treatment to make sure the infection is gone.
+There is no vaccine for H. pylori. Since H. pylori might spread through unclean food and water, you might be able to prevent it if you:
+Wash your hands after using the bathroom and before eating
+Eat properly prepared food
+Drink water from a clean, safe source
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Infections
+
+MeSH Headings:
+- Helicobacter Infections
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Helicobacter pylori Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Helicobacter%22%20OR%20%22H.%20pylori%22&aggFilters=status:not%20rec
+
+Resource: Definition & Facts for Peptic Ulcers (Stomach or Duodenal Ulcers)
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/definition-facts
+
+Resource: Gastritis and Gastropathy
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastritis-gastropathy
+
+Resource: Helicobacter pylori (H. pylori) and Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet
+
+Resource: Helicobacter pylori (H. pylori) Infection: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/h-pylori/diagnosis-treatment/drc-20356177?p=1
+
+Resource: Helicobacter pylori (H. pylori) Infections
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/pages/Helicobacter-Pylori-Infections.aspx
+
+Resource: Helicobacter pylori (H. pylori) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/helicobacter-pylori-h-pylori-tests/
+
+Resource: Helicobacter pylori infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007715.htm
+
+Resource: Helicobacter pylori Infections
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/h-pylori.html
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Helicobacter pylori Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Helicobacter+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stool Test: H. pylori Antigen
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-pylori-antigen.html
+
+Resource: Tests for H pylori
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007501.htm

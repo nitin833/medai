@@ -1,0 +1,104 @@
+Title: Pruebas para el COVID-19
+
+Summary:
+La
+enfermedad del coronavirus 2019
+(COVID-19) es una enfermedad causada por un virus conocido como SARS-CoV-2. Hay dos tipos de pruebas para este virus:
+Una
+prueba viral
+indica si usted tiene una infección actual. Las pruebas virales pueden ser pruebas rápidas o de laboratorio:
+Las
+pruebas rápidas
+se pueden hacer en minutos. A menudo son pruebas de antígenos, que buscan proteínas específicas del virus. Algunas pruebas rápidas son tests que puede realizar usted mismo en casa
+Las pruebas de laboratorio pueden tardar días en completarse e incluyen
+pruebas de PCR
+Una
+prueba de anticuerpos (serológica)
+podría indicar si tuvo una infección en el pasado
+Si necesita una prueba de COVID-19, usted puede:
+Comprar una prueba casera en línea o en una tienda. Asegúrese de que la prueba esté autorizada por la Administración de Medicamentos y Alimentos de los Estados Unidos (FDA). Visite el sitio web del departamento de salud de su estado o ciudad para obtener información sobre las pruebas en su área
+Consultar con su profesional de la salud
+Incluso si su prueba viral de COVID-19 es negativa (la prueba no detectó el virus), aún debe tomar medidas para
+protegerse a sí mismo y a los demás
+.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Autoprueba para COVID-19
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000986.htm
+
+Resource: Conceptos básicos de las pruebas para el COVID-19
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/conceptos-basicos-de-las-pruebas-para-el-covid-19
+
+Resource: Coronavirus (COVID-19): Hacerse la prueba (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coronavirus-tests.html
+
+Resource: Examen del virus de COVID-19
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007769.htm
+
+Resource: Hisopado nasal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hisopado-nasal/
+
+Resource: Prueba de anticuerpos para COVID-19
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007773.htm
+
+Resource: Pruebas de anticuerpos para COVID-19
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/covid-19-antibody-testing/about/pac-20489696?p=1
+
+Resource: Pruebas de COVID-19 sin receta médica o de venta libre para diagnóstico en el hogar
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pruebas-de-covid-19-sin-receta-medica-o-de-venta-libre-para-diagnostico-en-el-hogar
+
+Resource: Pruebas de PCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-pcr/
+
+Resource: Pruebas de serología de anticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-serologia-de-anticuerpos/
+
+Resource: Pruebas médicas en el hogar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-medicas-en-el-hogar/
+
+Resource: Pruebas para detectar el COVID-19 para uso en el hogar: Preguntas frecuentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/pruebas-para-detectar-el-covid-19-para-uso-en-el-hogar-preguntas-frecuentes#updated-expiration
+
+Resource: Pruebas rápidas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-rapidas/
+
+Resource: Pulsioximetría
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria/
+
+Resource: ¿En qué difieren los análisis de anticuerpos y las pruebas diagnósticas para COVID-19?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/expert-answers/covid-antibody-tests/faq-20484429?p=1

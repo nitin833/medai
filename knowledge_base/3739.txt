@@ -1,0 +1,65 @@
+Title: Salud global
+
+Also Called:
+- Salud en el mundo
+- Salud internacional
+
+Summary:
+La propagación de una enfermedad no se detiene en las fronteras de un país. Con más personas viviendo en ciudades sobrepobladas y
+viajando
+a otros países, es más fácil que los gérmenes se propaguen. Las
+enfermedades infecciosas
+que comienzan en una parte del mundo pueden llegar rápidamente a otra zona del globo. Algunas de las principales enfermedades que afectan actualmente a países de todo el mundo incluyen
+VIH
+,
+malaria
+,
+COVID-19
+y
+tuberculosis
+.
+Además de la propagación de enfermedades, existen otros desafíos de salud global. La resistencia a medicamentos como los
+antibióticos
+va en aumento. Esto hace que sea más difícil tratar ciertas enfermedades. Los desastres naturales y provocados por el hombre crean poblaciones de refugiados con problemas de salud inmediatos y a largo plazo. El
+cambio climático
+y el insuficiente acceso a alimentos y agua potable también son problemas globales que pueden afectar la salud de las personas. Muchos países y organizaciones de salud están trabajando juntos y compartiendo información sobre estos y otros problemas sanitarios.
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: 10 principales causas de defunción
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+Resource: Cambio climático y salud
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/climate-change-and-health
+
+Resource: Cobertura de la inmunización
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/immunization-coverage
+
+Resource: Geohelmintiasis
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/soil-transmitted-helminth-infections
+
+Resource: Mortalidad materna
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/maternal-mortality
+
+Resource: Oncocercosis
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/onchocerciasis
+
+Resource: Poliomielitis
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/poliomyelitis

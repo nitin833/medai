@@ -1,0 +1,259 @@
+Title: Pain Relievers
+
+Also Called:
+- Analgesics
+- Pain medicines
+- Painkillers
+
+Summary:
+What are pain relievers?
+Pain relievers are medicines that reduce or relieve
+headaches
+, sore muscles,
+arthritis
+, or other aches and
+pains
+.  There are many different pain medicines, and each has advantages and risks. Some types of pain respond better to certain medicines than others. Each person may also have a slightly different response to a pain reliever.
+What are the types of over-the-counter pain relievers?
+Over-the-counter (OTC) medicines
+are good for many types of pain. Two types of OTC pain medicines are usually recommended for mild to moderate pain.
+Acetaminophen (Tylenol)
+is used in many OTC and prescription medicines. It's often considered safer than other pain relievers. Unfortunately, it's common for people to
+take too much accidentally
+. Be careful not to take too much each day or use more than one medicine with acetaminophen. Check with your health care provider before taking medicines containing acetaminophen for more than ten days or five days for your child.
+Nonsteroidal anti-inflammatory drugs (NSAIDs)
+include aspirin, naproxen (Aleve), and ibuprofen (Advil, Motrin). These pain relievers are often most effective if you have pain and inflammation (swelling), such as for arthritis or
+menstrual cramps
+. If you take more than the recommended amount, NSAIDs may cause
+nausea
+, stomach pain, or ulcers.
+What are prescription pain relievers?
+If OTC pain relievers don't relieve your pain, your provider may prescribe something stronger. Many NSAIDs are also available at higher prescription doses.
+The most powerful pain relievers are opioids, sometimes called narcotics. They include strong prescription pain relievers such as oxycodone, hydrocodone, or morphine. Opioids are sometimes used to treat moderate to severe pain. Your provider may give you a prescription to reduce pain after you have had a major injury or surgery.
+Opioids are very effective, but they can sometimes have serious side effects. There is also a risk of
+addiction
+. Because of the risks, you must use them only under your provider's supervision.
+What are some non-drug treatments for pain?
+Pain relievers are just one part of a pain treatment plan. Environmental factors,
+stress
+, and beliefs about pain may affect the way you feel about pain and respond to treatment.
+There are many things you can do to help ease pain. Treatment depends on the cause and type of pain. It's important to check with your provider before trying any of them. A few
+non-drug treatments
+for pain include:
+Acupuncture
+Hot or cold packs
+Massage therapy
+Physical therapy
+Relaxation techniques
+
+Groups:
+- Drug Therapy
+
+MeSH Headings:
+- Analgesics, Non-Narcotic
+
+Related Resources:
+
+Resource: Accidental Exposures to Fentanyl Patches Continue to Be Deadly to Children
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/accidental-exposures-fentanyl-patches-continue-be-deadly-children
+
+Resource: Acetaminophen dosing for children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000783.htm
+
+Resource: Acetaminophen Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acetaminophen-level/
+
+Resource: Acetaminophen overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002598.htm
+
+Resource: Acetaminophen Overdose Is Serious and It Can Happen More Easily Than You Might Think
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/acetaminophen/art-20046721?p=1
+
+Resource: Analgesic nephropathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000482.htm
+
+Resource: Aspirin overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002542.htm
+
+Resource: Chronic Pain Medicines
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/chronic-pain-medicines/
+
+Resource: Chronic Pain: Medication Decisions
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/chronic-pain-medication-decisions/art-20360371?p=1
+
+Resource: ClinicalTrials.gov: Analgesics
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Analgesics%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Narcotics
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=narcotics&aggFilters=status:not%20rec
+
+Resource: Cortisone Shots
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cortisone-shots/about/pac-20384794?p=1
+
+Resource: Diclofenac sodium overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002630.htm
+
+Resource: Don't Overuse Acetaminophen
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/dont-overuse-acetaminophen
+
+Resource: Fenoprofen calcium overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002649.htm
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Ibuprofen dosing for children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000772.htm
+
+Resource: Ibuprofen overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002655.htm
+
+Resource: Indomethacin overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002657.htm
+
+Resource: Keeping Kidneys Safe: Smart Choices about Medicines
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/keeping-kidneys-safe
+
+Resource: Ketoprofen overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002661.htm
+
+Resource: Meclofenamate overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002671.htm
+
+Resource: Naproxen sodium overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002507.htm
+
+Resource: Nerve Blocks
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/nerveblock
+
+Resource: NSAIDs (Nonsteroidal Anti-Inflammatory Drugs)
+Category: Specifics
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/nsaids-nonsteroidal-anti-inflammatory-drugs
+
+Resource: Over-the-counter pain relievers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002123.htm
+
+Resource: Pain Management After Surgery
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/pain-management-after-surgery/
+
+Resource: Pain medications - narcotics
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007489.htm
+
+Resource: Pain Relievers: Understanding Your OTC Options
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/pain-relievers-understanding-your-otc-options/
+
+Resource: Pentazocine overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002519.htm
+
+Resource: Piroxicam overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002534.htm
+
+Resource: Prescription Nonsteroidal Anti-Inflammatory Medicines
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/prescription-nonsteroidal-anti-inflammatory-medicines/
+
+Resource: Narcotic pain relievers
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Analgesics%2C+Non-Narcotic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Salicylates Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/salicylates-level/
+
+Resource: Should You Take Pills or Use Patches for Pain Relief?
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/pain/should-you-take-pills-or-use-patches-for-pain-relief
+
+Resource: Sulindac overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002551.htm
+
+Resource: Support for People with Cancer: Cancer Pain Control
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/paincontrol.pdf
+
+Resource: Taking narcotics for back pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000413.htm
+
+Resource: Tolmetin overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002558.htm
+
+Resource: Treatment of Pain
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/pain/treatment-of-pain
+
+Resource: Women and Pain Medicines
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/women-and-pain-medicines

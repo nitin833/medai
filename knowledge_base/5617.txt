@@ -1,0 +1,149 @@
+Title: Cardiac Rehabilitation
+
+Summary:
+Cardiac rehabilitation (rehab) is a medically supervised program to help people who have:
+A
+heart attack
+Angioplasty
+or
+coronary artery bypass grafting
+for coronary heart disease
+A
+heart valve
+repair or replacement
+A
+heart transplant
+or a
+lung transplant
+Angina
+Heart failure
+The goal is to help you return to an active life, and to reduce the risk of further heart problems.  A team of specialists will create a plan for you that includes exercise training, education on heart healthy living, and counseling to reduce stress.  You will learn how to reduce your risk factors, such as high blood pressure, high blood cholesterol, depression, and diabetes. Being overweight, having obesity, smoking, and not exercising are other risk factors.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Cardiac Rehabilitation
+
+Related Resources:
+
+Resource: All about Heart Rate
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Cardiac Rehabilitation
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cardiac-rehabilitation/about/pac-20385192?p=1
+
+Resource: Cardiac rehabilitation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000791.htm
+
+Resource: ClinicalTrials.gov: Cardiac Rehabilitation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cardiac+Rehabilitation%22&aggFilters=status:not%20rec
+
+Resource: Common Problems and Solutions for Being Physically Active
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/getting-physically-active/common-problems-and-solutions-for-being-physically-active
+
+Resource: Eating Well and Losing Weight
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself/eating-well-and-losing-weight
+
+Resource: Electrocardiogram
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003868.htm
+
+Resource: Heart Anatomy
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/
+
+Resource: Heart Attack or Surgery Recovery Steps
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/heart-disease-and-stroke/heart-disease/heart-attack-or-surgery-recovery-steps
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Heart Treatments
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-treatments-procedures
+
+Resource: High Blood Pressure: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/highbloodpressure.html
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: How to take your pulse
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientimages/000309.htm
+
+Resource: Managing Your Medications
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/managing-your-medicines
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Post Surgery Milestones: Managing Your Mood, Expectations and Goals
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-valve-problems-and-disease/recovery-and-healthy-living-goals-for-heart-valve-patients/post-surgery-milestones-managing-your-mood-expectations-and-goals
+
+Resource: Cardiac Rehabilitation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cardiac+Rehabilitation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003399.htm
+
+Resource: Taking Care of Yourself
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/taking-care-of-yourself
+
+Resource: Weight Control: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/weightcontrol.html
+
+Resource: What Is Cardiac Rehabilitation?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cardiac-rehab/what-is-cardiac-rehabilitation
+
+Resource: Women Face Barriers to Cardiac Rehab Despite Proven Benefits
+Category: Statistics and Research
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/womens-health/women-face-barriers-to-cardiac-rehab-despite-proven-benefits

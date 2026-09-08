@@ -1,0 +1,69 @@
+Title: Antioxidantes
+
+Summary:
+Los antioxidantes son sustancias naturales o fabricadas por el hombre que pueden prevenir o retrasar algunos tipos de daños a las células. Los antioxidantes se encuentran en muchos alimentos, incluyendo frutas y verduras. También se encuentran disponibles como suplementos dietéticos. Ejemplos de antioxidantes incluyen:
+Beta carotenos
+Luteína
+Licopeno
+Selenio
+Vitamina A
+Vitamina C
+Vitamina E
+Las verduras y frutas son ricas fuentes de antioxidantes. Existe amplia evidencia que el consumo de una dieta con muchas verduras y frutas es saludable y reduce riesgos de sufrir ciertas enfermedades. Pero no está claro si esto es debido a los antioxidantes, a algo más presente en los alimentos u otros factores.
+Suplementos con altas dosis de antioxidantes en algunos casos pueden estar relacionados con riesgos para la salud. Por ejemplo, altas dosis de beta-caroteno pueden aumentar el riesgo de cáncer de pulmón en fumadores. Dosis elevadas de vitamina E podrían aumentar el riesgo de cáncer de próstata y un tipo de ataque cerebral. Los suplementos antioxidantes también podrían interactuar con algunas medicinas. Para reducir el riesgo, cuéntele a su proveedor de atención médica sobre cualquier antioxidante que toma.
+Centro Nacional para la Medicina Complementaria y Alternativa
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Antioxidantes y prevención del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-antioxidantes
+
+Resource: Coenzima Q10
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/mca/paciente/coenzima-q10-pdq
+
+Resource: Declaraciones de salud sobre el chocolate: ¿Dulce verdad o amarga realidad?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/declaraciones-de-salud-sobre-el-chocolate
+
+Resource: Selenio
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Selenium-DatosEnEspanol/
+
+Resource: Selenio en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002414.htm
+
+Resource: Vino tinto y el resveratrol: ¿Son buenos para tu corazón?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-disease/in-depth/red-wine/art-20048281?p=1
+
+Resource: Vitamina A y los carotenoides
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminA-DatosEnEspanol/
+
+Resource: Vitamina C
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminC-DatosEnEspanol/
+
+Resource: Vitamina E
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminE-DatosEnEspanol/
+
+Resource: Zinc
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Zinc-DatosEnEspanol/

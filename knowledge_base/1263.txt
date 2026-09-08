@@ -1,0 +1,164 @@
+Title: Mammography
+
+Summary:
+What is a mammogram?
+A mammogram is an x-ray picture of the breast. Health care providers use mammograms to look for early signs of
+breast cancer
+that can't be felt during a breast exam. There are two types of mammograms: screening mammograms and diagnostic mammograms.
+What is a screening mammogram?
+A screening mammogram is a mammogram usually done for women who have no signs or symptoms of breast cancer. Regular screening mammograms can help reduce the number of deaths from breast cancer among women ages 40 to 74. This is because they can find breast cancer early and treatment can start earlier, maybe before it has spread.
+But screening mammograms can also have risks. They can sometimes find something that looks abnormal but isn't cancer. This leads to further testing and can cause you anxiety. Sometimes mammograms can miss cancer when it is there. It also
+exposes you to radiation
+. You should talk to your provider about the benefits and drawbacks of mammograms. Together, you can decide when to start and how often to have a mammogram.
+What is a diagnostic mammogram?
+A diagnostic mammogram takes a little longer to do than a screening mammogram. It's done for people who have a lump or other signs or symptoms of breast cancer. The signs can include breast pain, thickening of the skin of the breast, nipple discharge, or a change in breast size or shape. But these signs can also be caused by a
+breast condition
+that is benign (not cancer). A diagnostic mammogram may also be used if you have breast implants or if there are other reasons it's difficult to view your breast tissue.
+How is a mammogram done?
+When you have a mammogram, you stand in front of an x-ray machine. The person who takes the x-rays places your breast between two plastic plates. The plates press your breast and make it flat. This may be uncomfortable, but it helps get a clear picture.
+You will get both breasts x-rayed from the front and from the side. Afterwards, a radiologist (a doctor with special training) will read the mammogram. The doctor will look at the x-ray for early signs of breast cancer or other problems. You will usually get the results within a few weeks, although it depends on the clinic or medical office that you went to. If your results are not normal, you should hear back earlier. Ask your provider when and how you will receive your results.
+What happens if my mammogram is not normal?
+An abnormal (not normal) mammogram does not always mean that there is cancer. You will need to have additional mammograms, tests, or exams before your provider can tell for sure. You may also be referred to a breast specialist or a surgeon. But it does not necessarily mean you have cancer or need surgery. You would see one of these doctors because they are experts in diagnosing breast problems.
+
+Groups:
+- Women
+- Diagnostic Tests
+- Female Reproductive System
+
+MeSH Headings:
+- Mammography
+
+Related Resources:
+
+Resource: About Mammograms
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breast-cancer/about/mammograms.html
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Breast Cancer Screening: Thermogram No Substitute for Mammogram
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/breast-cancer-screening-thermogram-no-substitute-mammogram
+
+Resource: Breast cancer screenings
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000837.htm
+
+Resource: Breast Tomosynthesis
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/tomosynthesis
+
+Resource: ClinicalTrials.gov: Mammography
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=mammography&aggFilters=status:not%20rec
+
+Resource: Dense Breasts
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/dense-breasts
+
+Resource: Dense Breasts: Answers to Commonly Asked Questions
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/screening/dense-breasts
+
+Resource: FastStats: Mammography
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/mammography.htm
+
+Resource: Find a Screening Program Near You
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breast-cervical-cancer-screening/about/screenings.html
+
+Resource: Frequently Asked Questions about Digital Mammography
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/mammography-information-patients/frequently-asked-questions-about-digital-mammography
+
+Resource: Galactography (Ductography)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/galactogram
+
+Resource: Mammogram
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003380.htm
+
+Resource: Mammogram - calcifications
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002113.htm
+
+Resource: Mammogram Accuracy
+Category: Related Issues
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/breast-cancer/screening/mammography/accuracy/
+
+Resource: Mammograms
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/mammograms
+
+Resource: Mammograms
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/screening/mammograms
+
+Resource: Mammograms for Women with Breast Implants
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/screening-tests-and-early-detection/mammograms/mammograms-for-women-with-breast-implants.html
+
+Resource: Mammography
+Category: Start Here
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mammo
+
+Resource: Mammography Facilities
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMQSA/mqsa.cfm
+
+Resource: Mammography: What You Need to Know
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/mammography-what-you-need-know
+
+Resource: My Mammogram Was "Abnormal" What Do I do Next?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/my-mammogram-was-abnormalwhat-do-i-do-next
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Newer and Experimental Breast Imaging Tests
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/screening-tests-and-early-detection/experimental-breast-imaging.html
+
+Resource: Mammography
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mammography%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Does the Doctor Look for on a Mammogram?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/screening-tests-and-early-detection/mammograms/what-does-the-doctor-look-for-on-a-mammogram.html
+
+Resource: Women with Disabilities and Breast Cancer Screening
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/disability-and-health/conditions/breast-cancer-screening.html

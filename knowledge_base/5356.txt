@@ -1,0 +1,197 @@
+Title: Finger Injuries and Disorders
+
+Summary:
+You use your fingers and thumbs to do everything from grasping objects to playing musical instruments to typing. When there is something wrong with them, it can make life difficult. Common problems include:
+Injuries that result in
+fractures
+(broken bones), ruptured ligaments and
+dislocations
+Osteoarthritis
+- wear-and-tear arthritis. It can also cause deformity.
+Tendinitis
+- irritation of the tendons
+Dupuytren's contracture - a hereditary thickening of the tough tissue that lies just below the skin of your palm. It causes the fingers to stiffen and bend.
+Trigger finger - an irritation of the sheath that surrounds the flexor tendons. It can cause the tendon to catch and release like a trigger.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Finger Injuries
+
+Related Resources:
+
+Resource: Arachnodactyly
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003288.htm
+
+Resource: Arthritis of the Thumb
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/arthritis-of-the-thumb/
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Claw hand
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003169.htm
+
+Resource: ClinicalTrials.gov: Dupuytren Contracture
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dupuytren+Contracture%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thumb
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thumb%22&aggFilters=status:not%20rec
+
+Resource: Clubbing of the fingers or toes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003282.htm
+
+Resource: Dupuytren contracture: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dupuytren-contracture
+
+Resource: Finger pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003248.htm
+
+Resource: Fingers that change color
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003249.htm
+
+Resource: Fingertip Injuries and Amputations
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/diseases--conditions/fingertip-injuries-and-amputations/
+
+Resource: Flexor Tendon Injuries
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/flexor-tendon-injuries/
+
+Resource: Hand/Wrist/Arm Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/hand-wrist-arm-problems/
+
+Resource: Herpetic Whitlow
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/herpetic-whitlow/?Imiw9cApl=1
+
+Resource: Mallet finger - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000538.htm
+
+Resource: Myxoid Cyst
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/myxoid-cyst/?Imiw9cApl=1
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nerve Injuries in the Hand and Fingers
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/diseases--conditions/nerve-injuries/
+
+Resource: Poland syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/poland-syndrome
+
+Resource: Polydactyly
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003176.htm
+
+Resource: Finger Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Finger+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Repair of webbed fingers - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100096_1.htm
+
+Resource: Repair of webbed fingers or toes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002969.htm
+
+Resource: Replantation
+Category: Treatments and Therapies
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/treatment/replantation/
+
+Resource: Replantation of digits
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002967.htm
+
+Resource: Replantation of digits - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100097_1.htm
+
+Resource: Skier's thumb - aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000572.htm
+
+Resource: Smashed fingers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000018.htm
+
+Resource: Sprained Thumb
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/sprained-thumb
+
+Resource: Thumb Arthritis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thumb-arthritis/symptoms-causes/syc-20378339?p=1
+
+Resource: Trigger finger
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000565.htm
+
+Resource: Trigger Finger
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/trigger-finger/
+
+Resource: Webbing of the fingers or toes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003289.htm
+
+Resource: What Is a Hand Surgeon?
+Category: Related Issues
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/treatment/what-is-a-hand-surgeon/
+
+Resource: X-Ray Exam: Finger (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-finger.html

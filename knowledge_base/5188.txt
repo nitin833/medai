@@ -1,0 +1,103 @@
+Title: H1N1 Flu (Swine Flu)
+
+Also Called:
+- Swine flu
+
+Summary:
+Swine flu is an infection caused by a virus. It's named for a virus that pigs can get. People do not normally get swine flu, but human infections can and do happen.  In 2009 a strain of swine flu called H1N1 infected many people around the world.
+The virus is contagious and can spread from human to human.   Symptoms of swine flu in people are similar to the symptoms of regular human
+flu
+and include fever, cough, sore throat, body aches, headache, chills and fatigue.
+There are antiviral medicines you can take to prevent or treat swine flu. There is a
+vaccine
+available to protect against swine flu. You can help prevent the spread of germs that cause respiratory illnesses like influenza by:
+Covering your nose and mouth with a tissue when you cough or sneeze. Throw the tissue in the trash after you use it.
+Washing your hands often with soap and water, especially after you cough or sneeze. You can also use alcohol-based hand cleaners.
+Avoiding touching your eyes, nose or mouth. Germs spread this way.
+Trying to avoid close contact with sick people.
+Staying home from work or school if you are sick.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Lungs and Breathing
+
+MeSH Headings:
+- Influenza A Virus, H1N1 Subtype
+- Influenza, Human
+
+Related Resources:
+
+Resource: About Influenza in Swine (Pigs)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/swine-flu/about/influenza-in-swine.html
+
+Resource: About Swine/Variant Flu
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/swine-flu/about/
+
+Resource: CDC Risk Assessment and Reporting of Variant Influenza Viruses
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/swine-flu/variant-flu-in-humans/risk-and-reporting.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Influenza, Human
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Influenza,+Human%22&aggFilters=status:not%20rec
+
+Resource: College students and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007446.htm
+
+Resource: H1N1 influenza (Swine flu)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007421.htm
+
+Resource: Influenza (Flu) Vaccine (Inactivated or Recombinant): What You Need to Know
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/flu.pdf
+
+Resource: Pregnancy and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007443.htm
+
+Resource: H1N1 Flu (Swine Flu)
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Influenza%2C+Human%22%5Bmajr%3Anoexp%5D+AND+%22Influenza+A+Virus%2C+H1N1+Subtype%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Vaccinations and Flu Shots for People with Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/infections/vaccination-during-cancer-treatment.html
+
+Resource: Weekly U.S. Influenza Surveillance Report
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fluview/
+
+Resource: World Health Organization
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/en/
+
+Resource: Your baby and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007444.htm
+
+Resource: Your child and the flu
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007445.htm

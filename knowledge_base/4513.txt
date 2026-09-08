@@ -1,0 +1,208 @@
+Title: Endoscopy
+
+Summary:
+Endoscopy is a procedure that lets your doctor look inside your body. It uses an instrument called an endoscope, or scope for short.  Scopes have a tiny camera attached to a long, thin tube. The doctor moves it through a body passageway or opening to see inside an organ. Sometimes scopes are used for surgery, such as for removing
+polyps
+from the colon.
+There are many different kinds of endoscopy. Here are the names of some of them and where they look.:
+Arthroscopy: joints
+Bronchoscopy: lungs
+Colonoscopy
+and sigmoidoscopy: large intestine
+Cystoscopy and ureteroscopy: urinary system
+Laparoscopy
+: abdomen or pelvis
+Upper gastrointestinal endoscopy: esophagus and stomach
+
+Groups:
+- Diagnostic Tests
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Endoscopy
+
+Related Resources:
+
+Resource: Adrenal Gland Removal (Adrenalectomy)
+Category: Specifics
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/adrenal-gland-removal-adrenalectomy-patient-information-from-sages/
+
+Resource: Ankle arthroscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007584.htm
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Bronchoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Capsule endoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007642.htm
+
+Resource: ClinicalTrials.gov: Endoscopy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=endoscopy&aggFilters=status:not%20rec
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Colposcopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/colposcopy/
+
+Resource: Cystoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003903.htm
+
+Resource: Cystoscopy and Ureteroscopy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy
+
+Resource: Diagnostic Laparoscopy
+Category: Specifics
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/patient-information-for-diagnostic-laparoscopy-from-sages/
+
+Resource: Diagnostic laparoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003918.htm
+
+Resource: EGD - esophagogastroduodenoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003888.htm
+
+Resource: EGD discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000898.htm
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: Endoscopic ultrasound
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007646.htm
+
+Resource: Endoscopy
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests/endoscopy.html
+
+Resource: Endoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003338.htm
+
+Resource: Endoscopy (Upper) (For Children)
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/tests-procedures/endoscopy-upper/
+
+Resource: ERCP
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007479.htm
+
+Resource: Hysteroscopy
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hysteroscopy/
+
+Resource: Hysteroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007571.htm
+
+Resource: Laparoscopic surgery - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100166_1.htm
+
+Resource: Laparoscopic Surgery -- What Is It?
+Category: Specifics
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Laparoscopic-Surgery---What-is-it-.aspx
+
+Resource: Laparoscopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: Laryngoscopy
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/laryngoscopy.html
+
+Resource: Laryngoscopy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100167_1.htm
+
+Resource: Nasal endoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007627.htm
+
+Resource: Pelvic laparoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002916.htm
+
+Resource: Pelvic laparoscopy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100131_1.htm
+
+Resource: Endoscopy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Endoscopy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sedation for GI Procedures
+Category: Related Issues
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/sedation/
+
+Resource: Upper GI Endoscopy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Ureteroscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007593.htm
+
+Resource: Ventral Hernia Repair Surgery
+Category: Specifics
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/patient-information-for-laparoscopic-ventral-hernia-repair-from-sages/
+
+Resource: Wrist arthroscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007585.htm

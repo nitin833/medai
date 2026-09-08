@@ -1,0 +1,62 @@
+Title: Neuralgia del trigémino
+
+Also Called:
+- Tic doloroso
+
+Summary:
+La neuralgia del trigémino es un tipo de
+dolor
+crónico que afecta a la cara. Causa dolor, ardor repentino o sensación de shock extremo. Por lo general, afecta a un lado de la cara. Cualquier vibración en su rostro, incluso por hablar, puede provocarla. La afección puede aparecer y desaparecer por días o incluso meses. Pero cuanto más tiempo dure, menores son las posibilidades de que desaparezca.
+La neuralgia del trigémino generalmente afecta a personas mayores de 50 años, especialmente a mujeres. La causa probable es un vaso sanguíneo que presiona el nervio trigémino, uno de los nervios más grandes en la cabeza. Los tumores y esclerosis múltiple también pueden provocarla, pero en algunos casos se desconoce la causa.
+No existe una prueba específica para diagnosticarla. Puede ser difícil de diagnosticar, ya que muchas otras afecciones pueden causar dolor facial. Las opciones de tratamiento incluyen medicamentos, cirugía y terapias complementarias.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta tras radiocirugía estereotáctica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Neuralgia del nervio trigémino (tic doloroso)
+Category: Más información, Spanish/Español
+Organization: Fundación Nacional de la Cefalea
+URL: https://headaches.org/blog/neuralgia-del-nervio-trigemino-tic-doloroso/
+
+Resource: Neuralgia del trigémino
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000742.htm
+
+Resource: Neuralgia del trigémino
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/neuralgia-del-trigemino
+
+Resource: Neuralgia del trigémino
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/la-neuralgia-del-trigemino
+
+Resource: Neuralgia del trigémino: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/trigeminal-neuralgia/diagnosis-treatment/drc-20353347?p=1
+
+Resource: Resonancia magnética de la cabeza
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RMN del cerebro
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain

@@ -1,0 +1,408 @@
+Title: Retinal Disorders
+
+Summary:
+What are retinal disorders?
+Retinal disorders are conditions that affect the retina, the thin light-sensitive tissue at the back of your eye. The retina senses light and sends signals to your brain so you can see.
+Retinal disorders can cause blurred or distorted vision. Some can lead to
+vision loss or blindness
+.
+What causes retinal disorders?
+The causes of retinal disorders vary. Aging is a common factor, but other things can raise your risk, such as if you:
+Smoke
+Have
+obesity
+Have health conditions like
+diabetes
+or
+high blood pressure
+Have had an
+eye injury
+or trauma
+Have a family history of retinal disorders
+What are common retinal disorders?
+Some common retinal disorders include:
+Macular degeneration.
+Occurs when the macula (the center of the retina that helps you see fine details) breaks down. There are two types: wet and dry macular degeneration.
+Diabetic retinopathy.
+Occurs when diabetes damages small blood vessels in the retina, causing them to swell or leak.
+Retinal detachment.
+Occurs when the retina pulls away from the back of the eye. This is a medical emergency.
+Retinal tears.
+A hole or break in the retina caused when the gel-like substance inside your eye (the vitreous) pulls away.
+Retinoblastoma.
+A rare cancer of the retina that most often affects young children.
+Macular pucker.
+Scar tissue that forms on the macula and distorts vision.
+Macular hole.
+A small opening in the macula, often related to aging or injury. It can blur or distort central vision.
+Eye floaters.
+Small specks, cobwebs, or threads that drift across your vision. These are more common with aging.
+Retina pigmentosa.
+A group of inherited disorders (passed down through families) that slowly damage the retina and cause loss of night and side (peripheral) vision.
+What are the symptoms of retinal disorders?
+Symptoms can vary, but most retinal disorders affect your vision. Common symptoms include:
+Blurred or distorted vision
+Loss of central or side (peripheral) vision
+Flashes of light
+Seeing floating specks or cobwebs
+Trouble seeing at night
+Sudden vision loss (in severe cases)
+Seek medical care right away if you notice flashes of light, sudden vision changes, or a sudden increase in eye floaters. These can be signs of a serious retinal problem.
+How are retinal disorders diagnosed?
+Eye care providers check for retinal disorders with a dilated eye exam. Eye drops are used to widen your pupils so your provider can look at the retina for signs of damage.
+They may also do other tests, such as:
+Optical coherence tomography (OCT)
+to take detailed pictures of the inside of your eye.
+Fluorescein angiography
+to check the blood vessels in your retina.
+Visual field tests
+to measure your side (peripheral) vision.
+How are retinal disorders treated?
+Some retinal disorders can be treated to slow or stop vision loss, and sometimes to restore vision. Treatment depends on the cause and severity. It may include:
+Laser therapy
+Medicine or eye injections
+Surgery
+Lifestyle management to control health conditions such as
+diabetes
+or
+high blood pressure
+Can retinal disorders be prevented?
+Not all retinal disorders can be prevented. Some are related to aging or genetics. But you can
+protect your eyes
+by:
+Wearing
+safety goggles or sunglasses
+Getting
+regular eye exams
+Making healthy lifestyle changes, such as:
+Quitting smoking
+(or not starting)
+Managing diabetes and blood pressure
+NIH: National Eye Institute
+
+Groups:
+- Eyes and Vision
+
+MeSH Headings:
+- Retinal Diseases
+
+Related Resources:
+
+Resource: Amaurosis fugax
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000784.htm
+
+Resource: Autosomal Recessive Inheritance
+Category: Genetics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/biettis-crystalline-dystrophy/autosomal-recessive-inheritance
+
+Resource: Bardet-Biedl Syndrome
+Category: Specifics
+Organization: Foundation Fighting Blindness
+URL: https://www.fightingblindness.org/diseases/bardet-biedl-syndrome-bbs
+
+Resource: Bardet-Biedl syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bardet-biedl-syndrome/
+
+Resource: Bietti crystalline dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bietti-crystalline-dystrophy
+
+Resource: Bietti's Crystalline Dystrophy
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/biettis-crystalline-dystrophy
+
+Resource: Cancers Affecting the Retina
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/eye-disorders/retinal-disorders/cancers-affecting-the-retina
+
+Resource: Central serous choroidopathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001612.htm
+
+Resource: Choroideremia
+Category: Specifics
+Organization: Foundation Fighting Blindness
+URL: https://www.fightingblindness.org/diseases/choroideremia
+
+Resource: Choroideremia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/choroideremia
+
+Resource: ClinicalTrials.gov: Retinal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Retinal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Coats Disease
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/coats-disease
+
+Resource: Coats plus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/coats-plus-syndrome/
+
+Resource: Cone-rod dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cone-rod-dystrophy
+
+Resource: Diabetic Retinopathy
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/diabetic-retinopathy
+
+Resource: Dilating Eye Drops
+Category: Diagnosis and Tests
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/dilating-eye-drops
+
+Resource: Electroretinography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003388.htm
+
+Resource: Eye Health Data and Statistics
+Category: Statistics and Research
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/about/education-and-outreach/eye-health-data-and-statistics
+
+Resource: Eye Symptoms
+Category: Symptoms
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/symptoms-list
+
+Resource: Find an Ophthalmologist
+Category: Find an Expert
+Organization: American Academy of Ophthalmology
+URL: https://secure.aao.org/aao/find-ophthalmologist
+
+Resource: Finding an Eye Doctor
+Category: Find an Expert
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/finding-eye-doctor
+
+Resource: Flashes and Floaters
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/flashes-and-floaters/?Imiw9cApl=1
+
+Resource: Floaters
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/floaters
+
+Resource: Fluorescein angiography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003846.htm
+
+Resource: Fundus albipunctatus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fundus-albipunctatus
+
+Resource: High blood pressure and eye disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000999.htm
+
+Resource: Home vision tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003446.htm
+
+Resource: How the Eyes Work
+Category: Reference Desk
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work
+
+Resource: Injections to Treat Eye Conditions
+Category: Treatments and Therapies
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/diabetic-retinopathy/injections-treat-eye-conditions
+
+Resource: Intravitreal injection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007629.htm
+
+Resource: Knobloch syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/knobloch-syndrome
+
+Resource: Laser Surgery and Freeze Treatment for Retinal Tears
+Category: Treatments and Therapies
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment/laser-surgery-and-freeze-treatment-retinal-tears
+
+Resource: Leber Congenital Amaurosis
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/leber-congenital-amaurosis
+
+Resource: Leber congenital amaurosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leber-congenital-amaurosis
+
+Resource: Macular Hole
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/macular-hole
+
+Resource: Macular Pucker
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/macular-pucker
+
+Resource: Mainzer-Saldino syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mainzer-saldino-syndrome/
+
+Resource: NEI-Funded Study Shows Low Blood Sugar Contributes to Eye Damage and Vision Loss in Diabetic Retinopathy
+Category: Statistics and Research
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/research-and-training/research-news/nei-funded-study-shows-low-blood-sugar-contributes-eye-damage-and-vision-loss-diabetic-retinopathy
+
+Resource: Neuropathy, ataxia, and retinitis pigmentosa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neuropathy-ataxia-and-retinitis-pigmentosa/
+
+Resource: Ophthalmoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003881.htm
+
+Resource: Retinal Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Retinal+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Refsum disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/refsum-disease
+
+Resource: Retina
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000106.htm
+
+Resource: Retinal arterial macroaneurysm with supravalvular pulmonic stenosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/retinal-arterial-macroaneurysm-with-supravalvular-pulmonic-stenosis
+
+Resource: Retinal artery occlusion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001028.htm
+
+Resource: Retinal detachment repair - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100132_1.htm
+
+Resource: Retinal vein occlusion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007330.htm
+
+Resource: Retinitis Pigmentosa
+Category: Specifics
+Organization: Foundation Fighting Blindness
+URL: https://www.fightingblindness.org/diseases/retinitis-pigmentosa
+
+Resource: Retinitis pigmentosa
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001029.htm
+
+Resource: Retinitis pigmentosa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/retinitis-pigmentosa
+
+Resource: Retinopathy of prematurity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001618.htm
+
+Resource: Retinopathy of Prematurity
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinopathy-prematurity
+
+Resource: Senior-Løken syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/senior-loken-syndrome/
+
+Resource: Slit-lamp exam
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003880.htm
+
+Resource: Standard eye exam
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003434.htm
+
+Resource: Stargardt macular degeneration: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stargardt-macular-degeneration
+
+Resource: TRNT1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/trnt1-deficiency
+
+Resource: Vitelliform macular dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/vitelliform-macular-dystrophy
+
+Resource: Vitreous Detachment
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/vitreous-detachment
+
+Resource: Wagner syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wagner-syndrome
+
+Resource: What Is a Torn Retina?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-torn-retina
+
+Resource: What Is Central Serous Chorioretinopathy?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-central-serous-retinopathy
+
+Resource: What Is Macular Edema?
+Category: Related Issues
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-macular-edema
+
+Resource: X-linked juvenile retinoschisis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-juvenile-retinoschisis

@@ -1,0 +1,221 @@
+Title: Pregnancy and Nutrition
+
+Summary:
+What is nutrition, and why is it important during pregnancy?
+Nutrition is about eating a healthy and balanced diet so your body gets the nutrients that it needs. Nutrients are substances in foods that our bodies need so they can function and grow. They include
+carbohydrates
+,
+fats
+,
+proteins
+,
+vitamins
+,
+minerals
+, and water.
+When you're
+pregnant
+, nutrition is more important than ever. You need more of many important nutrients than you did before pregnancy. Making healthy food choices every day will help you give your baby what they
+need to develop
+. It will also help make sure that you and your baby gain a healthy amount of weight.
+Do I have any special nutritional needs now that I am pregnant?
+You need more folic acid, iron, calcium, and vitamin D than you did before pregnancy:
+Folic acid
+is a B vitamin that may help prevent
+neural tube defects
+.
+Before pregnancy, you need 400 mcg (micrograms) per day.
+During pregnancy and when breastfeeding, you need 600 mcg per day from foods and/or vitamins. It is hard to get this amount from foods alone, so you will most likely need to take a supplement that contains folic acid.
+Iron
+is important for your baby's growth and brain development. During pregnancy, the amount of blood in your body increases, so you need more iron for yourself and your growing baby. You should get 27 mg (milligrams) of iron a day.
+Calcium
+during pregnancy can reduce your risk of
+preeclampsia
+. It's a serious medical condition that causes a sudden increase in your blood pressure. Calcium also builds up your baby's bones and teeth.
+Pregnant adults should get 1,000 mg (milligrams) of calcium a day
+Pregnant teenagers (ages 14-18) need 1,300 mg of calcium a day
+Vitamin D
+helps the calcium to build your baby's bones and teeth. All women, pregnant or not, should be getting 600 IU (international units) of vitamin D per day.
+Keep in mind that taking too much of a supplement can be harmful. For example, very high levels of vitamin A can cause
+birth defects
+. Only take vitamins and mineral supplements that your health care provider recommends.
+You also need more protein when you are pregnant. Healthy sources of protein include beans, peas, eggs, lean meats, seafood, and unsalted nuts and seeds.
+Getting enough fluids is another special nutritional concern during pregnancy. When you are pregnant, your body needs even more water to
+stay hydrated
+and support the life inside you. So it's important to drink enough fluids every day.
+How much weight should I gain during my pregnancy?
+How much weight you should gain depends on your health and how much you weighed before pregnancy:
+If you were at a normal weight before pregnancy, you should gain about 25 to 35 pounds
+If you were underweight before pregnancy, you should gain more
+If you were overweight or had obesity before you became pregnant, you should gain less
+Check with your provider to find out how much weight gain during pregnancy is healthy for you. You should gain the weight gradually during your pregnancy, with most of the weight gained in the last trimester.
+Do I need to eat more calories when I am pregnant?
+How many calories you need depends on your weight gain goals. Your provider can tell you what your goal should be, based on things like your weight before pregnancy, your age, and how fast you gain weight. The general recommendations are:
+In the first trimester of pregnancy, you probably do not need extra calories
+In the second trimester, you usually need about 340 extra calories
+In the last trimester, you may need around 450 extra calories per day
+During the final weeks of pregnancy, you may not need extra calories
+Keep in mind that not all calories are equal. You should eat healthy foods that are packed with nutrients - not "empty calories" such as those found in soft drinks, candies, and desserts.
+What foods should I avoid during pregnancy?
+During pregnancy, you should avoid:
+Alcohol.
+There is no known amount of alcohol that is safe for a woman to
+drink during pregnancy
+.
+Fish that may have high levels of mercury.
+Limit white (albacore) tuna to 6 ounces per week. Do not eat tilefish, shark, swordfish, marlin, orange roughy, or king mackerel.
+Foods that are more likely to contain germs that could cause
+foodborne illness
+, including
+Refrigerated smoked seafood like whitefish, salmon, and mackerel
+Undercooked meat, poultry, eggs, and seafood
+Refrigerated meat spreads
+Store-made salads, such as chicken, egg, or tuna salad
+Unpasteurized or raw milk
+Unpasteurized juices or cider
+Unpasteurized soft cheeses, such as unpasteurized feta, Brie, queso blanco, queso fresco, and blue cheeses
+Raw sprouts of any kind (including alfalfa, clover, radish, and mung bean)
+Raw cookie dough
+Unwashed fruits and vegetables
+Too much
+caffeine
+.
+Drinking high amounts of caffeine may be harmful for your baby. For most people, it's best to limit caffeine to less than 200 mg per day during pregnancy. But first check with your provider about whether you should have caffeine at all.
+
+Groups:
+- Pregnancy and Reproduction
+- Food and Nutrition
+
+MeSH Headings:
+- Maternal Nutritional Physiological Phenomena
+
+Related Resources:
+
+Resource: Academy of Nutrition and Dietetics
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org
+
+Resource: Caffeine in Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/caffeine-pregnancy/
+
+Resource: Center for Nutrition Policy and Promotion
+Category: Find an Expert
+Organization: Center for Nutrition Policy and Promotion
+URL: https://www.fna.usda.gov/cnpp
+
+Resource: ClinicalTrials.gov: Maternal Nutritional Physiological Phenomena
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Maternal+Nutritional+Physiological+Phenomena%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Nutritional Counseling for Pregnancy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=Pregnancy&intr=Nutritional+Counseling&aggFilters=status:not%20rec
+
+Resource: Eating during Pregnancy
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/eating-pregnancy.html
+
+Resource: Eating right during pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000584.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Fish and Pregnancy: What is Safe to Eat?
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/prenatal/pages/fish-pregnancy-what-is-safe-to-eat.aspx
+
+Resource: Folic Acid and Pregnancy
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/preg-folic-acid.html
+
+Resource: Folic Acid: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/folicacid.html
+
+Resource: Food Safety during Pregnancy
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/foods-pregnancy.html
+
+Resource: Food Safety for Moms to Be
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/food-safety-moms-be
+
+Resource: Health Tips for Pregnant Women
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/healthy-eating-physical-activity-for-life/health-tips-for-pregnant-women
+
+Resource: Managing your weight gain during pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000603.htm
+
+Resource: Meeting Dietary Requirements as a Pregnant Vegetarian
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/baby-blog/meeting-dietary-requirements-as-a-pregnant-vegetarian/
+
+Resource: Nutrition during Pregnancy
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/wellness-and-prevention/nutrition-during-pregnancy
+
+Resource: People at Risk: Pregnant Women
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/people-at-risk/pregnant-women
+
+Resource: Pregnancy and Nutrition
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Maternal+Nutritional+Physiological+Phenomena%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Tips for Pregnant Moms
+Category: Patient Handouts
+Organization: Food and Nutrition Information Center
+URL: https://wicworks.fns.usda.gov/sites/default/files/media/document/Tips_for_Pregnant_Women_English.pdf
+
+Resource: Using Artificial Sweeteners during Pregnancy
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sweeteners-pregnancy.html
+
+Resource: Vitamins and Other Nutrients during Pregnancy
+Category: Specifics
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/vitamins-and-other-nutrients-during-pregnancy
+
+Resource: Weight Gain during Pregnancy
+Category: Related Issues
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/weight-gain-during-pregnancy
+
+Resource: Weight Gain During Pregnancy
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/maternal-infant-health/pregnancy-weight/index.html
+
+Resource: When you need to gain more weight during pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000617.htm

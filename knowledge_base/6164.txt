@@ -1,0 +1,71 @@
+Title: Chiari Malformation
+
+Also Called:
+- Arnold-Chiari Malformation
+
+Summary:
+Chiari malformations (CMs) are structural defects in the cerebellum. The cerebellum is the part of the brain that controls balance.  With CM, brain tissue extends into the spinal canal.  It can happen when part of the skull is too small, which pushes the brain tissue down. There are several types of CM. One type often happens in children who have
+neural tube defects
+. Some types cause no symptoms and don't need treatment. If you have symptoms, they may include:
+Neck pain
+Balance problems
+Numbness or other abnormal feelings in the arms or legs
+Dizziness
+Vision problems
+Difficulty swallowing
+Poor hand coordination
+Doctors diagnose CM using imaging tests. Medicines may ease some symptoms, such as pain. Surgery is the only treatment available to correct or stop the progression of nerve damage.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Arnold-Chiari Malformation
+
+Related Resources:
+
+Resource: Chiari I Malformation
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/chiari.html
+
+Resource: Chiari Malformation
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/chiari-malformation
+
+Resource: ClinicalTrials.gov: Arnold-Chiari Malformation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Arnold-Chiari+Malformation%22&aggFilters=status:not%20rec
+
+Resource: Conquering Chiari: Diagnosis
+Category: Learn More
+Organization: C&S Patient Education Foundation
+URL: https://www.conquerchiari.org/documents/presentations/DIAGNOSIS%20Presentation.pdf
+
+Resource: Conquering Chiari: Symptoms
+Category: Learn More
+Organization: C&S Patient Education Foundation
+URL: https://www.conquerchiari.org/documents/presentations/SYMPTOMS%20Presentation.pdf
+
+Resource: Conquering Chiari: Treatment
+Category: Learn More
+Organization: C&S Patient Education Foundation
+URL: https://www.conquerchiari.org/documents/presentations/TREATMENT%20Presentation%20.pdf
+
+Resource: Pediatric Chiari
+Category: Learn More
+Organization: C&S Patient Education Foundation
+URL: https://www.conquerchiari.org/pediatric/pediatric-home.asp
+
+Resource: Chiari Malformation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Arnold-Chiari+Malformation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Taking Chiari to School: A Guide for Parents
+Category: Learn More
+Organization: C&S Patient Education Foundation
+URL: https://www.conquerchiari.org/pediatric/documents/Taking%20Chiari%20to%20School%20-%20Parent%20Guide.pdf

@@ -1,0 +1,125 @@
+Title: Feocromocitoma
+
+Summary:
+Un feocromocitoma es un tumor raro que suele comenzar en las células de una de las glándulas suprarrenales. Aunque por lo general son
+benignos
+(no cancerosos), con frecuencia, los feocromocitomas causan que la glándula suprarrenal produzca demasiadas hormonas. Esto puede conducir a un aumento de la presión arterial y causar síntomas, tales como:
+Dolor de cabeza
+Sudoración
+Palpitaciones cardiacas
+Temblor
+Palidez extrema
+Algunas veces, los feocromocitomas son parte de otro cuadro denominado síndrome de neoplasia endocrina múltiple. Con frecuencia, las personas con este síndrome tienen otros cánceres y otros problemas relacionados con las hormonas.
+Para el diagnóstico, los doctores usan diversas pruebas y tests con imágenes. El tratamiento más común es la cirugía.  Otras opciones incluyen radioterapia, quimioterapia y terapia dirigida. La terapia dirigida usa medicamentos u otras sustancias para combatir células cancerosas específicas, causando menos daños a las células normales.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Aspectos generales de las opciones de tratamiento (feocromocitoma y paraganglioma)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/feocromocitoma/paciente/tratamiento-feocromocitoma-pdq#_61
+
+Resource: Catecolaminas en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003613.htm
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Estadios del feocromocitoma y el paraganglioma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/feocromocitoma/paciente/tratamiento-feocromocitoma-pdq#_35
+
+Resource: Examen de catecolaminas en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003561.htm
+
+Resource: Extirpación de las glándulas suprarrenales
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007437.htm
+
+Resource: Feocromocitoma
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pheochromocytoma/symptoms-causes/syc-20355367?p=1
+
+Resource: Feocromocitoma
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000340.htm
+
+Resource: Feocromocitoma y paraganglioma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion
+
+Resource: Feocromocitoma y paraganglioma: Otras preguntas frecuentes
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/preguntas
+
+Resource: Feocromocitoma: ¿Tiene cura?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/cura
+
+Resource: Gammagrafía con MIBG
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003830.htm
+
+Resource: Información general sobre el feocromocitoma y el paraganglioma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/feocromocitoma/paciente/tratamiento-feocromocitoma-pdq#_1
+
+Resource: Pruebas de catecolaminas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-catecolaminas/
+
+Resource: Tratamiento del feocromocitoma y el paraganglioma
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/feocromocitoma/paciente/tratamiento-feocromocitoma-pdq#_106
+
+Resource: Tratamiento del feocromocitoma y paraganglioma infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/feocromocitoma/paciente/tratamiento-feocromocitoma-infantil-pdq
+
+Resource: ¿A qué edad suelen diagnosticarse los feocromocitomas?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/edad
+
+Resource: ¿Cuáles son las causas del feocromocitoma?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/causas
+
+Resource: ¿Cuáles son los síntomas comunes del feocromocitoma?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/sintomas
+
+Resource: ¿Cuáles son los tratamientos para el feocromocitoma?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/tratamientos
+
+Resource: ¿Cómo diagnostican los médicos el feocromocitoma?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pheochrom/informacion/diagnostica

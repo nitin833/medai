@@ -1,0 +1,228 @@
+Title: Anesthesia
+
+Summary:
+What is anesthesia?
+Anesthesia is the use of medicines, called anesthetics, to prevent pain during
+surgery
+and other medical procedures. Medicine may be given by injection, inhalation, topical lotion, spray, eye drops, or a skin patch.
+Anesthesia can cause a loss of feeling, awareness, or both.
+Sedation
+may be used with anesthesia. Unlike full anesthesia, sedation doesn't make you completely unconscious, and recovery is faster. It helps reduce pain, keep you calm, and make you less aware during procedures such as minor surgeries,
+endoscopies
+,
+imaging
+, or dental work.
+Levels of sedation include:
+Minimal sedation.
+You are awake but more relaxed.
+Moderate sedation (conscious sedation).
+You may feel sleepy and not remember much, but you can still respond when spoken to or touched.
+Deep sedation.
+You are very drowsy and may respond only to repeated or stronger stimulation.
+What is anesthesia used for?
+Anesthesia may be used for:
+Minor procedures, such as filling a tooth.
+Childbirth
+or procedures such as
+colonoscopies
+.
+Minor and major surgeries.
+In some cases, a dentist, nurse, or doctor may give you an anesthetic. In other cases, you may need an anesthesiologist. This is a doctor who specializes in giving anesthesia.
+What are the types of anesthesia?
+There are several different types of anesthesia:
+Local anesthesia
+numbs a small area like a tooth or a cut that needs stitches.  You are awake during local anesthesia.
+Regional anesthesia
+numbs a larger area, like an arm, a leg, or everything below the waist. You may be awake during the procedure, or you may be given sedation. It may be used during childbirth, a
+Cesarean delivery
+(C-section), or minor surgeries.
+General anesthesia
+affects your whole body. It feels like a deep sleep, but you do not feel anything. It is used during major surgeries, such as
+heart surgery
+, brain surgery, back surgery, and
+organ transplants
+.
+Monitored sedation
+makes you relaxed or sleepy. You may be able to talk, depending on the level of sedation, and you probably won't remember the procedure. It may be used for a colonoscopy or dental work.
+Your overall health, medical history, the procedure you're having, and other factors will help determine the type of anesthesia you receive.
+What are the risks of anesthesia?
+Anesthesia is generally safe. But there can be risks, especially with general anesthesia, including:
+Heart rhythm
+problem (arrhythmia).
+Breathing
+problems.
+An
+allergic reaction
+to the anesthesia.
+Temporary confusion (
+delirium
+), which can last several days in some people over the age of 60, or briefly in children after waking up from anesthesia.
+Awareness when someone is under general anesthesia. This usually means that the person hears sounds. But sometimes they can feel pain. This is rare.
+Talk to your health care provider about the benefits and risks of anesthesia.
+
+Groups:
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Anesthesia
+
+Related Resources:
+
+Resource: Anesthesia
+Category: Start Here
+Organization: National Institute of General Medical Sciences
+URL: https://www.nigms.nih.gov/education/fact-sheets/Pages/anesthesia
+
+Resource: Anesthesia (for parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anesthesia-basics.html
+
+Resource: Anesthesia - what to ask your doctor - adult
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000183.htm
+
+Resource: Anesthesia - what to ask your doctor - child
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000184.htm
+
+Resource: Anesthesia Awareness (Waking Up) during Surgery
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/risks/waking-up-during-surgery/
+
+Resource: Anesthesia Recovery
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/recovery/
+
+Resource: ClinicalTrials.gov: Anesthesia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=Anesthesia&aggFilters=status:not%20rec
+
+Resource: Conscious sedation for surgical procedures
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007409.htm
+
+Resource: CSF leak
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001068.htm
+
+Resource: Effects of Anesthesia
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/anesthesia-101/effects-of-anesthesia/
+
+Resource: Epidural block - pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000484.htm
+
+Resource: Epidural Injections
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/epidural
+
+Resource: General anesthesia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007410.htm
+
+Resource: General Anesthesia
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/anesthesia/about/pac-20384568?p=1
+
+Resource: Helping Kids Get Ready for Surgery
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anesthesia-prepare.html
+
+Resource: Herbal and Dietary Supplements and Anesthesia
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/wp-content/uploads/2020/10/ASA_Supplements-Anesthesia_Updated-1.pdf
+
+Resource: Labor Pain
+Category: Women
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/pain-management/types-of-pain/labor/
+
+Resource: Malignant hyperthermia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001315.htm
+
+Resource: Obesity and Anesthesia
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/risks/obesity/
+
+Resource: Outpatient Surgery
+Category: Specifics
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/procedures/outpatient-surgery/
+
+Resource: Pediatric Sedation
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-pediatric-sedation
+
+Resource: Preparing for Surgery: Checklist
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/prep/preparing-for-surgery-checklist/
+
+Resource: Anesthesia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anesthesia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sedation (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sedation.html
+
+Resource: Seniors and Anesthesia -- Side Effects
+Category: Older Adults
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/preparing-for-surgery/risks/age/
+
+Resource: Speak Up: Anesthesia and Sedation
+Category: Related Issues
+Organization: Joint Commission
+URL: https://digitalassets.jointcommission.org/api/public/content/27d22c3596384d10b09610bd28943e1d?v=d714bc6a
+
+Resource: Spinal and epidural anesthesia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007413.htm
+
+Resource: Spinal Headaches
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spinal-headaches/symptoms-causes/syc-20377913?p=1
+
+Resource: Surgery and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/surgery-down-syndrome
+
+Resource: What Does an Anesthesiologist Do?
+Category: Related Issues
+Organization: American Society of Anesthesiologists
+URL: https://madeforthismoment.asahq.org/anesthesia-101/role-of-physician-anesthesiologist/
+
+Resource: What Is a Pediatric Anesthesiologist?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Anesthesiologist.aspx
+
+Resource: What to Expect before, during, and after Anesthesia (for parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anesthesia.html

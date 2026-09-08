@@ -1,0 +1,248 @@
+Title: Peripheral Arterial Disease
+
+Also Called:
+- PAD
+
+Summary:
+Peripheral arterial disease (PAD) happens when there is a narrowing of the blood vessels outside of your heart. The cause of PAD is
+atherosclerosis
+. This happens when plaque builds up on the walls of the arteries that supply blood to the arms and legs. Plaque is a substance made up of fat and cholesterol. It causes the arteries to narrow or become blocked. This can reduce or stop blood flow, usually to the legs. If severe enough, blocked blood flow can cause tissue death and can sometimes lead to amputation of the foot or leg.
+The main risk factor for PAD is smoking. Other risk factors include older age and diseases like diabetes, high blood cholesterol, high blood pressure, heart disease, and stroke.
+Many people who have PAD don't have any symptoms. If you have symptoms, they may include:
+Pain, numbness, achiness, or heaviness in the leg muscles. This happens when walking or climbing stairs.
+Weak or absent pulses in the legs or feet
+Sores or wounds on the toes, feet, or legs that heal slowly, poorly, or not at all
+A pale or bluish color to the skin
+A lower temperature in one leg than the other leg
+Poor nail growth on the toes and decreased hair growth on the legs
+Erectile dysfunction, especially among men who have diabetes
+PAD can increase your risk of
+heart attack
+,
+stroke
+, and
+transient ischemic attack
+.
+Doctors diagnose PAD with a physical exam and heart and imaging tests. Treatments include lifestyle changes, medicines, and sometimes surgery. Lifestyle changes include dietary changes, exercise, and efforts to lower high
+cholesterol
+levels and
+high blood pressure
+.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Peripheral Arterial Disease
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Angioplasty and stent placement - peripheral arteries
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007393.htm
+
+Resource: Angioplasty and stent placement - peripheral arteries - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000234.htm
+
+Resource: Angioplasty and Vascular Stenting
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angioplasty
+
+Resource: Angioplasty: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/angioplasty.html
+
+Resource: Ankle-Brachial Index
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/ankle-brachial-index/about/pac-20392934?p=1
+
+Resource: Arterial bypass leg - series -- Normal anatomy
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100155_1.htm
+
+Resource: Arteriogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003327.htm
+
+Resource: Atheroembolic renal disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000480.htm
+
+Resource: Buerger's Disease
+Category: Related Issues
+Organization: Johns Hopkins Vasculitis Center
+URL: https://www.hopkinsvasculitis.org/types-vasculitis/buergers-disease/
+
+Resource: Claudication
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952?p=1
+
+Resource: ClinicalTrials.gov: Intermittent Claudication
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intermittent+Claudication%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peripheral Arterial Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peripheral+Arterial+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peripheral Vascular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peripheral+Vascular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: CT Angiography (CTA)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angioct
+
+Resource: Doppler Ultrasound
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/doppler-ultrasound/
+
+Resource: Doppler ultrasound exam of an arm or leg
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003775.htm
+
+Resource: Duplex ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003433.htm
+
+Resource: Extremity angiography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003772.htm
+
+Resource: Ischemic ulcers - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000742.htm
+
+Resource: Limb plethysmography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007288.htm
+
+Resource: Magnetic resonance angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007269.htm
+
+Resource: MR Angiography (MRA)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiomr
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Overview of Peripheral Artery Disorders
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/peripheral-artery-disorders/overview-of-peripheral-artery-disorders?query=Overview%20of%20Functional%20Peripheral%20Arterial%20Disease
+
+Resource: Peripheral Angiography
+Category: Diagnosis and Tests
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/peripheral-artery-disease/diagnosing-pad/peripheral-angiogram
+
+Resource: Peripheral artery bypass - leg
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007394.htm
+
+Resource: Peripheral artery bypass - leg - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000239.htm
+
+Resource: Peripheral Artery Disease
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/peripheral-artery-disorders/peripheral-artery-disease
+
+Resource: Peripheral Artery Disease (PAD)
+Category: Start Here
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pad
+
+Resource: Peripheral Artery Disease - Diagnosis
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/peripheral-artery-disease/diagnosis
+
+Resource: Peripheral artery disease - legs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000170.htm
+
+Resource: Peripheral Artery Disease and Diabetes
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/diabetes/diabetes-complications-and-risks/peripheral-artery-disease--diabetes
+
+Resource: Peripheral artery disease of the legs - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000577.htm
+
+Resource: Peripheral Arterial Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Peripheral+Arterial+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renovascular hypertension
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000204.htm
+
+Resource: Screening for Peripheral Artery Disease
+Category: Diagnosis and Tests
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.111.069211
+
+Resource: Thromboangiitis obliterans
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000172.htm
+
+Resource: Ultrasound -- Vascular
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/vascularus
+
+Resource: Understand Your Risk for PAD
+Category: Prevention and Risk Factors
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/peripheral-artery-disease/understand-your-risk-for-pad
+
+Resource: What is Peripheral Artery Disease?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/peripheral-artery-disease/about-peripheral-artery-disease-pad
+
+Resource: What Is Peripheral Artery Disease?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/peripheral-artery-disease

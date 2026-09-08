@@ -1,0 +1,84 @@
+Title: Water Pollution
+
+Summary:
+We all need clean water. People need it to grow crops and to operate factories, and for
+drinking
+and recreation.  Fish and wildlife depend on it to survive.
+Many different pollutants can harm our rivers, streams, lakes, and oceans.  The three most common are soil, nutrients, and bacteria. Rain washes soil into streams and rivers. The soil can kill tiny animals and fish eggs. It can clog the gills of fish and block light, causing plants to die. Nutrients, often from fertilizers, cause problems in lakes, ponds, and reservoirs. Nitrogen and phosphorus make algae grow and can turn water green. Bacteria, often from sewage spills, can pollute fresh or salt water.
+You can help protect your water supply:
+Don't pour household products such as cleansers, beauty products, medicines, auto fluids, paint, and lawn care products down the drain. Take them to a hazardous waste collection site.
+Throw away excess household grease (meat fats, lard, cooking oil, shortening, butter, margarine, etc.) diapers, condoms, and personal hygiene products in the garbage can.
+Clean up after your pets. Pet waste contains nutrients and germs.
+Environmental Protection Agency
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Water Pollution
+
+Related Resources:
+
+Resource: Acid Rain
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/acidrain
+
+Resource: Agricultural Water and Your Safety
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/agricultural-water/about/
+
+Resource: Algal Blooms
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/algal-blooms
+
+Resource: Basic Information and Answers to Frequent Questions about Healthy Watersheds Protection
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/hwp/basic-information-and-answers-frequent-questions
+
+Resource: ClinicalTrials.gov: Protozoan Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Protozoan+Infections%22&aggFilters=status:not%20rec
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: Harmful Algal Blooms and Your Health
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/harmful-algal-blooms/about/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Water pollution
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Water+Pollution%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Assessment
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/risk
+
+Resource: River and Stream Pollution
+Category: Children
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/kids/topics/pollution/water/river-stream
+
+Resource: Safe Water and Your Health
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/water-poll
+
+Resource: What Affects Human Health at the Beach
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/beaches/what-affects-human-health-beach

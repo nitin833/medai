@@ -1,0 +1,319 @@
+Title: Leucemia en niños
+
+Summary:
+¿Qué es la leucemia?
+Se conoce como
+leucemia
+al cáncer de las células sanguíneas. La leucemia comienza en los tejidos que forman la sangre, como la médula ósea. Su médula ósea produce células que se convertirán en glóbulos blancos, glóbulos rojos y plaquetas. Cada tipo de célula tiene un trabajo diferente:
+Los glóbulos blancos ayudan a su cuerpo a combatir las infecciones
+Los glóbulos rojos transportan oxígeno desde sus pulmones a sus tejidos y órganos
+Las
+plaquetas
+ayudan a formar coágulos para detener el sangrado
+Cuando tiene leucemia, su médula ósea produce una gran cantidad de células anormales. Este problema afecta con mayor frecuencia a los glóbulos blancos. Estas células anormales se acumulan en la médula ósea y la sangre, desplazando a las células sanguíneas sanas y dificultando que las células y la sangre hagan su trabajo.
+¿Cuáles son los tipos de leucemia en los niños?
+Existen diferentes tipos de leucemia. Algunos son agudos (de crecimiento rápido). Por lo general, empeoran rápidamente si no se tratan. La mayoría de las leucemias infantiles son agudas:
+Leucemia linfocítica aguda (LLA)
+: Es el tipo de leucemia más común en los niños y el
+cáncer en los niños
+más común. En la leucemia linfocítica aguda, la médula ósea produce demasiados linfocitos, un tipo de glóbulo blanco
+Leucemia mieloide aguda (LMA)
+: Ocurre cuando la médula ósea produce mieloblastos anormales (un tipo de glóbulo blanco), glóbulos rojos o plaquetas
+Otros tipos de leucemia son crónicos (de crecimiento lento). Por lo general, empeoran durante un período de tiempo más prolongado. Son raros en niños:
+Leucemia linfocítica crónica (LLC)
+: La médula ósea produce linfocitos anormales (un tipo de glóbulo blanco). Es más común en adolescentes que en niños
+Leucemia mieloide crónica (LMC)
+: La médula ósea produce granulocitos anormales (un tipo de glóbulo blanco). Es muy raro en los niños
+Hay algunos otros tipos raros de leucemia en los niños, incluyendo leucemia mielomonocítica juvenil (LMMJ).
+¿Qué causa la leucemia en los niños?
+La leucemia ocurre cuando hay cambios en el material genético (ADN) de las células de la médula ósea. No se conoce la causa de estos cambios genéticos. Sin embargo, existen ciertos factores que aumentan el riesgo de leucemia infantil.
+¿Quién está en mayor riesgo de padecer leucemia en niños?
+Los factores que aumentan el riesgo de leucemia infantil incluyen:
+Tener un hermano o hermana con leucemia, especialmente un gemelo
+Tratamiento anterior con
+quimioterapia
+Exposición a la radiación
+, incluyendo
+radioterapia
+Tener ciertas
+afecciones genéticas
+, como:
+Ataxia telangiectasia
+Síndrome de Down
+Anemia de Fanconi
+Síndrome de Li-Fraumeni
+Neurofibromatosis
+tipo 1
+Existen otros factores que pueden aumentar el riesgo de tener uno o más de los tipos específicos de leucemia infantil.
+¿Cuáles son los síntomas de la leucemia en los niños?
+Algunos de los síntomas de la leucemia pueden incluir:
+Sensación de cansancio
+Fiebre
+o sudores nocturnos
+Fácil aparición de
+moretones
+o
+sangrado
+Pérdida de peso o del apetito
+Petequias (pequeños puntos rojos debajo de la piel. Son causadas por sangrado)
+Otros síntomas de leucemia pueden variar de un tipo a otro. Es posible que la leucemia crónica no cause síntomas al principio.
+¿Cómo se diagnostica la leucemia en niños?
+Su profesional de la salud puede usar muchas herramientas para diagnosticar la leucemia:
+Un examen físico
+Historia clínica
+Análisis de sangre, como un
+conteo sanguíneo completo
+Pruebas de médula ósea
+: Hay dos tipos principales, aspiración de médula ósea y biopsia de médula ósea. Ambas pruebas implican la extracción de una muestra de médula ósea y hueso. Las muestras se envían a un laboratorio para su análisis
+Pruebas genéticas
+para buscar cambios genéticos y cromosómicos
+Una vez que se obtiene un diagnóstico de leucemia, se pueden realizar otras pruebas para ver si el cáncer se ha diseminado. Estos incluyen
+pruebas por imágenes
+y una punción lumbar, que es un procedimiento para recolectar y analizar el líquido cefalorraquídeo.
+¿Cuáles son los tratamientos para la leucemia en niños?
+Los tratamientos para la leucemia dependen del tipo de leucemia, la gravedad de la leucemia, la edad del niño y otros factores. Los posibles tratamientos pueden incluir:
+quimioterapia
+radioterapia
+Quimioterapia con
+trasplante de células madre
+Terapia dirigida: Utiliza medicamentos u otras sustancias que atacan células cancerosas específicas con menos daño a las células normales
+A menudo, el tratamiento de la leucemia infantil tiene éxito. Sin embargo, los tratamientos pueden causar complicaciones en ese momento o más adelante en la vida. Los niños que sobreviven a la leucemia necesitarán seguimiento por el resto de sus vidas para vigilar y tratar cualquier complicación que puedan tener.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Niños y adolescentes
+- Sangre, corazón y circulación
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Aspectos generales de las opciones de tratamiento (leucemia linfoblástica aguda infantil)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lla-infantil-pdq#_63
+
+Resource: Aspectos generales de las opciones de tratamiento (leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lma-infantil-pdq#_36
+
+Resource: Biopsia de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Blood Cancer United
+Category: Spanish/Español, Especialistas
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/es/homepage
+
+Resource: Campos electromagnéticos y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-campos-electromagneticos
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Consumo de calorías adicionales cuando los niños estén enfermos
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000034.htm
+
+Resource: Conteo de células T
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003516.htm
+
+Resource: Crioglobulinas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003555.htm
+
+Resource: Cáncer en niños y adolescentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/hoja-informativa-ninos-adolescentes
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Efectos tardíos del tratamiento anticanceroso en la niñez
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/infantil/efectos-tardios-pdq
+
+Resource: Estadios de la leucemia mieloide aguda y otras neoplasias mieloides malignas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lma-infantil-pdq#_30
+
+Resource: Estadísticas importantes sobre la leucemia en niños
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/acerca/estadisticas-clave.html
+
+Resource: Factores de pronóstico en la leucemia en niños (ALL o AML)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/deteccion-diagnostico-clasificacion-por-etapas/factores-pronosticos.html
+
+Resource: Factores de riesgo para la leucemia en niños
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Fibrinopéptido A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003373.htm
+
+Resource: Grupos de riesgo de la leucemia linfoblástica aguda infantil
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lla-infantil-pdq#_50
+
+Resource: Información general sobre la leucemia linfoblástica aguda infantil
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lla-infantil-pdq
+
+Resource: Información general sobre la leucemia mieloide aguda y otras neoplasias mieloides malignas infantiles
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lma-infantil-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Ir a la escuela durante el tratamiento del cáncer y después de él
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cancer-infantil/ir-a-la-escuela-durante-el-tratamiento-del-cancer-y-despues.html
+
+Resource: Leucemia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001299.htm
+
+Resource: Leucemia (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cancer-leukemia.html
+
+Resource: Leucemia linfoblástica aguda (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/all.html
+
+Resource: Leucemia linfocítica aguda (LLA)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000541.htm
+
+Resource: Leucemia mieloide aguda (LMA) en niños
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007656.htm
+
+Resource: Leucemia mielógena crónica (LMC)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000570.htm
+
+Resource: Leucemia mielógena crónica (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cml.html
+
+Resource: Medicina integrativa y terapias complementarias
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/ifxptdn9ay/booklet_ES_IntegrativeMedicineComplementaryTherapries_fs8s.pdf
+
+Resource: Papás que tienen a un niño con cáncer
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/apoyo-a-quien-cuida/padres
+
+Resource: Preguntas que deben formularse acerca de la leucemia en niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/deteccion-diagnostico-clasificacion-por-etapas/la-comunicacion-con-su-medico.html
+
+Resource: Prueba de detección de células B y T
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003329.htm
+
+Resource: Prueba genética BCR-ABL
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-genetica-bcr-abl/
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas/
+
+Resource: Pruebas para la leucemia en niños
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Signos y síntomas de leucemia en niños
+Category: Spanish/Español, Síntomas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/deteccion-diagnostico-clasificacion-por-etapas/senales-y-sintomas.html
+
+Resource: Subtipos de la leucemia en niños
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/deteccion-diagnostico-clasificacion-por-etapas/como-se-clasifica.html
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003009.htm
+
+Resource: Trasplante de médula ósea: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bonemarrowtransplantation.html
+
+Resource: Tratamiento de la leucemia en niños
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/tratamiento.html
+
+Resource: ¿Qué avances hay en las investigaciones sobre la leucemia en niños?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/acerca/nuevas-investigaciones.html
+
+Resource: ¿Qué es la leucemia en niños?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/leucemia-en-ninos/acerca/que-es-leucemia-en-ninos.html

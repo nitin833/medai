@@ -1,0 +1,704 @@
+Title: Bone Diseases
+
+Summary:
+Your bones help you move, give you shape and support your body. They are living tissues that rebuild constantly throughout your life. During childhood and your teens, your body adds new bone faster than it removes old bone. After about age 20, you can lose bone faster than you make bone. To have strong bones when you are young, and to prevent bone loss when you are older, you need to get enough
+calcium
+,
+vitamin D
+, and exercise. You should also avoid smoking and drinking too much alcohol.
+Bone diseases can make bones easy to break. Different kinds of bone problems include:
+Low bone density
+and
+osteoporosis
+, which make your bones weak and more likely to break
+Osteogenesis imperfecta
+makes your bones brittle
+Paget's disease of bone
+makes them weak
+Bones can also develop
+cancer
+and
+infections
+Other bone diseases, which are caused by poor nutrition, genetics, or problems with the rate of bone growth or rebuilding
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Bone Diseases
+
+Related Resources:
+
+Resource: 3 Ways to Build Strong Bones
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/strong-bones.html
+
+Resource: Acromicric dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/acromicric-dysplasia
+
+Resource: Adams-Oliver syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adams-oliver-syndrome
+
+Resource: Aging changes in the bones - muscles - joints
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004015.htm
+
+Resource: Alkaline Phosphatase
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alkaline-phosphatase/
+
+Resource: ALP - blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003470.htm
+
+Resource: ALP isoenzyme test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003497.htm
+
+Resource: Appendicular Skeleton
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/skeletal/divisions/appendicular.html
+
+Resource: Asphyxiating thoracic dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/asphyxiating-thoracic-dystrophy
+
+Resource: Atelosteogenesis type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/atelosteogenesis-type-1
+
+Resource: Atelosteogenesis type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/atelosteogenesis-type-2
+
+Resource: Atelosteogenesis type 3: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/atelosteogenesis-type-3
+
+Resource: Axial Skeleton
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/skeletal/divisions/axial.html
+
+Resource: Blount Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/blount-disease.html
+
+Resource: Blount disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001584.htm
+
+Resource: Bone and Joint Problems Associated with Diabetes
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes/art-20049314?p=1
+
+Resource: Bone Biopsy
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonebiopsy
+
+Resource: Bone Density Disorders in Children
+Category: Children
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/bone-disorders-in-children/bone-density-disorders-in-children
+
+Resource: Bone Density Scan
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-density-scan/
+
+Resource: Bone Healing
+Category: Living With
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/bone-healing
+
+Resource: Bone lesion biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003923.htm
+
+Resource: Bone pain or tenderness
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003180.htm
+
+Resource: Bone scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003833.htm
+
+Resource: Bone Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bone-scan/about/pac-20393136?p=1
+
+Resource: Bone Spurs
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bone-spurs/symptoms-causes/syc-20370212?p=1
+
+Resource: Bone tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001230.htm
+
+Resource: Bone Tumor
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/bone-tumor/
+
+Resource: Bone x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003808.htm
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Boomerang dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/boomerang-dysplasia
+
+Resource: Bowlegs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001585.htm
+
+Resource: Buschke-Ollendorff syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/buschke-ollendorff-syndrome
+
+Resource: Caffey disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/caffey-disease
+
+Resource: Calcium blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003477.htm
+
+Resource: Calcium Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcium-blood-test/
+
+Resource: Campomelic Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/campomelic-dysplasia.html
+
+Resource: Campomelic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/campomelic-dysplasia
+
+Resource: Camptomelic dysplasia
+Category: Children
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10027/camptomelic-dysplasia
+
+Resource: Camurati-Engelmann disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/camurati-engelmann-disease
+
+Resource: Cantú syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cantu-syndrome
+
+Resource: Cartilage Hair Hypoplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cartilage-hair-hypoplasia.html
+
+Resource: Chondroblastoma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/chondroblastoma
+
+Resource: Chondromyxoid Fibroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/chondromyxoid-fibroma
+
+Resource: CHST3-related skeletal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chst3-related-skeletal-dysplasia
+
+Resource: ClinicalTrials.gov: Bone Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bone+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Cracking Down on a Rare Bone Disorder
+Category: Videos and Tutorials
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.youtube.com/watch?v=r8cy7AKtpg4
+
+Resource: Cranioectodermal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cranioectodermal-dysplasia
+
+Resource: Craniometaphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/craniometaphyseal-dysplasia
+
+Resource: Craniotabes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001591.htm
+
+Resource: Diastrophic Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diastrophic-dysplasia.html
+
+Resource: Diastrophic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/diastrophic-dysplasia
+
+Resource: Ellis-Van Creveld Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ellis-dysplasia.html
+
+Resource: Enchondroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/enchondroma
+
+Resource: Exercise and Bone Health
+Category: Related Issues
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/staying-healthy/exercise-and-bone-health
+
+Resource: Extra-Abdominal Desmoid Tumors (Aggressive Fibromatoses)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/extra-abdominal-desmoid-tumors
+
+Resource: Fibrochondrogenesis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fibrochondrogenesis
+
+Resource: Fibrodysplasia ossificans progressiva: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fibrodysplasia-ossificans-progressiva
+
+Resource: Fibrous dysplasia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001234.htm
+
+Resource: Fibrous Dysplasia
+Category: Specifics
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/fibrous-dysplasia
+
+Resource: Fibrous Dysplasia/McCune-Albright Syndrome
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/fibrous-dysplasia-mccune-albright-syndrome
+
+Resource: Ghosal hematodiaphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ghosal-hematodiaphyseal-dysplasia
+
+Resource: Gnathodiaphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gnathodiaphyseal-dysplasia
+
+Resource: Greenberg dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/greenberg-dysplasia
+
+Resource: Health Lesson: Learning About Bones
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/educational-resources/health-lesson-learning-about-bones
+
+Resource: Healthy Bones at Every Age
+Category: Prevention and Risk Factors
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/staying-healthy/healthy-bones-at-every-age/
+
+Resource: Hereditary multiple osteochondromas: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-multiple-osteochondromas
+
+Resource: Hyperbaric oxygen therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: Hyperparathyroidism
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/hyperparathyroidism/
+
+Resource: Hypophosphatasia
+Category: Specifics
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/10/hypophosphatasia-2.pdf
+
+Resource: Hypophosphatasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypophosphatasia
+
+Resource: Intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/image-syndrome
+
+Resource: Joint x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003810.htm
+
+Resource: Juvenile Paget disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-paget-disease
+
+Resource: Kids and Their Bones
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/kids-and-their-bones
+
+Resource: Klippel-Feil syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/klippel-feil-syndrome
+
+Resource: Kniest Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/kniest-dysplasia.html
+
+Resource: Langer mesomelic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/langer-mesomelic-dysplasia
+
+Resource: Larsen syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/larsen-syndrome
+
+Resource: Léri-Weill dyschondrosteosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leri-weill-dyschondrosteosis
+
+Resource: Maffucci syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/maffucci-syndrome
+
+Resource: Majeed syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/majeed-syndrome
+
+Resource: Mandibuloacral dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mandibuloacral-dysplasia
+
+Resource: McCune-Albright syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001217.htm
+
+Resource: McCune-Albright syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mccune-albright-syndrome
+
+Resource: Melnick-Needles syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/melnick-needles-syndrome
+
+Resource: Miller syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/miller-syndrome
+
+Resource: More Than Two Decades of NIH Research Gives Answers on a Rare Disease Affecting Bones, Skin, and the Endocrine System
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/more-than-two-decades-of-nih-research-gives-answers-on-a-rare-disease-affecting-bones-skin-and-the-endocrine-system
+
+Resource: Multicentric osteolysis, nodulosis, and arthropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multicentric-osteolysis-nodulosis-and-arthropathy
+
+Resource: Multiple Epiphyseal Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/multiple-epiphyseal-dysplasia.html
+
+Resource: Multiple epiphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-epiphyseal-dysplasia
+
+Resource: Nager syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nager-syndrome
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Ollier disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ollier-disease
+
+Resource: Orthopedic services
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007455.htm
+
+Resource: Osteitis fibrosa
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001252.htm
+
+Resource: Osteochondritis Dissecans
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/osteochondritis-dissecans/
+
+Resource: Osteochondritis Dissecans (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/osteochondritis-dissecans.html
+
+Resource: Osteochondroma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/osteochondroma/
+
+Resource: Osteoid Osteoma
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/osteoid-osteoma
+
+Resource: Osteomalacia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000376.htm
+
+Resource: Osteopenia - premature infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007231.htm
+
+Resource: Osteopetrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/osteopetrosis
+
+Resource: Otopalatodigital syndrome type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/otopalatodigital-syndrome-type-1
+
+Resource: Otopalatodigital syndrome type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/otopalatodigital-syndrome-type-2
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Platyspondylic lethal skeletal dysplasia, Torrance type: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/platyspondylic-dysplasia-torrance-type
+
+Resource: Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/polycystic-lipomembranous-osteodysplasia-with-sclerosing-leukoencephalopathy
+
+Resource: Potocki-Shaffer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/potocki-shaffer-syndrome
+
+Resource: Progressive osseous heteroplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/progressive-osseous-heteroplasia
+
+Resource: Proteus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/proteus-syndrome
+
+Resource: Pseudoachondroplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pseudoachondroplasia.html
+
+Resource: Pseudohypoparathyroidism
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000364.htm
+
+Resource: Bone Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pyle disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pyle-disease
+
+Resource: Rhizomelic chondrodysplasia punctata: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rhizomelic-chondrodysplasia-punctata
+
+Resource: Rothmund-Thomson syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rothmund-thomson-syndrome
+
+Resource: Schwartz-Jampel syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/schwartz-jampel-syndrome
+
+Resource: Skeletal limb abnormalities
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003170.htm
+
+Resource: SOST-related sclerosing bone dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sost-related-sclerosing-bone-dysplasia
+
+Resource: Spondylocarpotarsal synostosis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondylocarpotarsal-synostosis-syndrome
+
+Resource: Spondyloenchondrodysplasia with immune dysregulation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloenchondrodysplasia-with-immune-dysregulation
+
+Resource: Spondyloepiphyseal Dysplasia Congenita (SEDc) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sedc-dysplasia.html
+
+Resource: Spondyloepiphyseal dysplasia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloepiphyseal-dysplasia-congenita
+
+Resource: Stüve-Wiedemann syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stuve-wiedemann-syndrome
+
+Resource: Tarsal-carpal coalition syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tarsal-carpal-coalition-syndrome
+
+Resource: Tetra-amelia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tetra-amelia-syndrome
+
+Resource: Thoracic spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: Trichorhinophalangeal syndrome type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/trichorhinophalangeal-syndrome-type-ii
+
+Resource: Weyers acrofacial dysostosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/weyers-acrofacial-dysostosis
+
+Resource: Winchester syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/winchester-syndrome
+
+Resource: X-linked chondrodysplasia punctata 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-chondrodysplasia-punctata-1
+
+Resource: X-linked chondrodysplasia punctata 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-chondrodysplasia-punctata-2
+
+Resource: X-linked spondyloepiphyseal dysplasia tarda: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-spondyloepiphyseal-dysplasia-tarda
+
+Resource: X-ray - skeleton
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003381.htm
+
+Resource: Your Bones
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/bones.html

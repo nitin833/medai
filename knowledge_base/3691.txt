@@ -1,0 +1,91 @@
+Title: Síndrome X frágil
+
+Also Called:
+- Síndrome de Martin-Bell
+
+Summary:
+El síndrome X frágil es la forma más común de
+discapacidad intelectual
+hereditaria. La enfermedad es causada por un gen específico. Normalmente, el gen produce una proteína necesaria para el desarrollo cerebral. Pero un defecto en este gen hace que una persona produzca poco o nada de dicha proteína. Esto resulta en el síntoma de X frágil.
+Las personas que tienen solamente un pequeño cambio en el gen no tienen síntomas de X frágil. Las personas con cambios mayores pueden tener síntomas severos. Los mismos pueden incluir:
+Problemas de inteligencia, que van desde algunos problemas de aprendizaje hasta el discapacidad intelectual grave
+Problemas emocionales y sociales, como la agresión en los niños o la timidez en las niñas
+Problemas con el habla y el lenguaje, especialmente entre los adolescentes masculinos
+El X frágil no tiene cura. Es posible tratar algunos síntomas con terapia educativa, de la conducta o física y medicinas. Obtener tratamiento con anticipación para el X frágil puede ser útil.
+Una prueba genética puede diagnosticar el síndrome. El X frágil no tiene cura. Es posible tratar algunos síntomas con terapia educativa, de la conducta o física y medicinas. Obtener tratamiento temprano puede ser útil.
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Acerca del síndrome del cromosoma X frágil
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/fragile-x-syndrome/es/about/acerca-del-sindrome-del-cromosoma-x-fragil.html
+
+Resource: Amniocentesis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/amniocentesis.aspx
+
+Resource: Falla ovárica prematura asociada al X frágil (FXPOI): Información sobre la enfermedad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fxpoi/informacion
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Glosario hablado de términos genéticos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Muestra de la vellosidad coriónica o placentaria (CVS)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/muestra-de-la-vellosidad-corionica.aspx
+
+Resource: Preocupaciones relacionadas con el síndrome del cromosoma X frágil
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/fragile-x-syndrome/es/related-concerns/preocupaciones-relacionadas-con-el-sindrome-del-cromosoma-x-fragil.html
+
+Resource: Síndrome de temblor/ataxia asociado al X frágil (FXTAS)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fxtas
+
+Resource: Síndrome del cromosoma X frágil
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001668.htm
+
+Resource: Síndrome del X frágil: Otras preguntas frecuentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fragilex/informacion/preguntas
+
+Resource: Síndrome X frágil
+Category: Comience aquí, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11879/sindrome-x-fragil/
+
+Resource: ¿Cuáles son los síntomas del síndrome del X frágil?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fragilex/informacion/sintomas
+
+Resource: ¿Cuáles son los tratamientos para el síndrome del X frágil?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fragilex/informacion/tratamientos
+
+Resource: ¿Cómo diagnostican los médicos el síndrome del X frágil?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fragilex/informacion/diagnostica

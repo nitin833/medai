@@ -1,0 +1,211 @@
+Title: Iron
+
+Summary:
+What is iron?
+Iron is a
+mineral
+that our bodies need for growth and development. Your body uses iron to make hemoglobin, a protein in red blood cells. Hemoglobin carries oxygen from the lungs to all parts of the body. Iron is also important for healthy muscles, bone marrow, and organ function. Your body also needs iron to make some
+hormones
+.
+How do you get iron?
+Iron is found naturally in many foods and is added to some fortified food products. Foods that are high in iron include:
+Lean meat, seafood, and poultry
+Iron-fortified breakfast cereals and breads
+White beans, lentils, spinach, kidney beans, and peas
+Nuts and some dried fruits, such as raisins
+Iron is available in supplements, either on its own or as part of many multivitamin/mineral supplements.
+What causes low iron?
+Most people in the United States get enough iron. The amount that you need each day depends on your age, your sex, and whether you consume a mostly plant-based diet.
+Sometimes people can have trouble getting enough iron. There can be many causes, including blood loss, a poor diet, or a problem absorbing enough iron from foods. Those who are more likely to have low iron include people who:
+Have heavy
+periods
+Are
+pregnant
+or
+breastfeeding
+Are infants (especially if they were born
+premature
+or
+low birth weight
+)
+Are frequent
+blood donors
+Have
+cancer
+, certain
+digestive diseases
+, or
+heart failure
+Are on
+kidney dialysis
+Have trouble absorbing iron because they:
+Have a digestive condition such as
+celiac disease
+,
+ulcerative colitis
+,
+Crohn's disease
+, or
+Helicobacter pylori infection
+Had
+weight loss surgery
+What happens if you don't get enough iron?
+If you have too little iron, you may develop iron-deficiency
+anemia
+. It may not cause symptoms at first, but over time, it can cause
+fatigue
+,
+shortness of breath
+, and trouble with
+memory
+and concentration. Treatment for low iron and iron-deficiency anemia is usually with iron supplements.
+What happens if you get too much iron?
+Too much iron can damage your body. For example, if you are healthy and take too many iron supplements, you may have symptoms such as
+constipation
+,
+nausea and vomiting
+,
+abdominal (belly) pain
+, and
+diarrhea
+. Higher iron levels can cause
+ulcers
+. Extremely high levels can lead to organ damage,
+coma
+, and death.
+A disease called
+hemochromatosis
+can cause too much iron to build up in the body. Hemochromatosis is inherited (passed down through families). It is usually treated by removing blood (and iron) from your body on a regular basis.
+National Institutes of Health, Office of Dietary Supplements
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Iron
+
+Related Resources:
+
+Resource: African iron overload: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/african-iron-overload
+
+Resource: Anemia
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/anemia/
+
+Resource: Anemia caused by low iron - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007134.htm
+
+Resource: Anemia caused by low iron - infants and toddlers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007618.htm
+
+Resource: ClinicalTrials.gov: Ferritins
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ferritins%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Iron
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Iron%22&aggFilters=status:not%20rec
+
+Resource: FastStats: Anemia or Iron Deficiency
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/anemia.htm
+
+Resource: Ferritin blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003490.htm
+
+Resource: Ferritin Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ferritin-blood-test/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Hyperferritinemia-cataract syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperferritinemia-cataract-syndrome/
+
+Resource: Iron
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Iron-Consumer/
+
+Resource: Iron
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/iron.html
+
+Resource: Iron deficiency anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000584.htm
+
+Resource: Iron in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002422.htm
+
+Resource: Iron overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002659.htm
+
+Resource: Iron Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/iron-tests/
+
+Resource: Iron-Deficiency Anemia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ida.html
+
+Resource: Iron-Deficiency Anemia
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Iron
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Iron%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Serum iron test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003488.htm
+
+Resource: Taking iron supplements
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007478.htm
+
+Resource: Total iron binding capacity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003489.htm

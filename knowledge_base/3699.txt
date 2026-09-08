@@ -1,0 +1,47 @@
+Title: Salud rural
+
+Summary:
+Cerca del 15% de la población en los Estados Unidos viven en zonas rurales. Hay muchas razones diferentes por las que puede elegir vivir en una comunidad rural. Es posible que desee un menor costo de vida y un ritmo de vida más lento. Puede disfrutar el tener acceso a grandes espacios abiertos para la recreación. Las zonas rurales están menos pobladas y pueden ofrecer más privacidad. También puede preferir un área rural para vivir cerca de su familia y amigos.
+Pero vivir en un área rural también presenta desafíos, incluyendo lo relacionado a cuidar su salud. En comparación con las áreas urbanas, las comunidades rurales tienden a tener:
+Tasas más altas de pobreza
+Un mayor porcentaje de adultos mayores, quienes tienen más probabilidades de tener problemas de salud crónicos
+Más residentes sin seguro médico
+Menos acceso a la atención médica, ya que las clínicas y los hospitales pueden estar muy lejos
+Tasas más altas de consumo de ciertas sustancias, como
+fumar cigarrillos
+y uso indebido de
+opioides
+y
+metanfetaminas
+Tasas más altas de problemas de salud crónicos, como
+hipertensión
+y
+obesidad
+Mayor exposición a peligros ambientales, como los productos químicos utilizados para la agricultura
+Sin embargo, existen soluciones para lidiar con estos problemas. Algunos ejemplos incluyen:
+Clínicas que ofrecen
+telesalud
+para brindar atención a personas que viven lejos de especialistas o que no pueden llegar fácilmente a las oficinas de sus profesionales de la salud
+Agencias locales de salud pública que trabajan con sus comunidades para promover una vida saludable, por ejemplo, dando clases de bienestar y ejercicio, o establecer un mercado de agricultores
+Carriles para bicicletas y senderos proporcionados por Gobiernos locales para alentar a las personas a andar en bicicleta y caminar
+Las escuelas rurales pueden ofrecer servicios de consejería y salud mental para sus estudiantes
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Mejoras al control de cáncer en comunidades rurales
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/noticias/temas-y-relatos-blog/2016/control-cancer-zonas-rurales
+
+Resource: Salud en las zonas rurales de los EE. UU.
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/la-salud-en-las-zonas-rurales-de-los-ee-uu
+
+Resource: Telesalud: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/telehealth.html

@@ -1,0 +1,129 @@
+Title: Low Blood Pressure
+
+Also Called:
+- Hypotension
+- LBP
+
+Summary:
+You've probably heard that high blood pressure is a problem. Sometimes blood pressure that is too low can also cause problems.
+Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps out blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is the diastolic pressure. Your blood pressure reading uses these two numbers. Usually they're written one above or before the other, such as 120/80. If your blood pressure reading is 90/60 or lower, you have low blood pressure.
+Some people have low blood pressure all the time. They have no symptoms and their low readings are normal for them. In other people, blood pressure drops below normal because of a medical condition or certain medicines. Some people may have symptoms of low blood pressure when standing up too quickly.  Low blood pressure is a problem only if it causes
+dizziness
+,
+fainting
+or in extreme cases,
+shock
+.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Hypotension
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Arterial Catheterization
+Category: Diagnosis and Tests
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/arterial-catheterization.pdf
+
+Resource: Blood pressure
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000013.htm
+
+Resource: ClinicalTrials.gov: Hypotension
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypotension%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypotension, Orthostatic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypotension,+Orthostatic%22&aggFilters=status:not%20rec
+
+Resource: Fainting (Syncope)
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/fainting-syncope
+
+Resource: Hepatic ischemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000214.htm
+
+Resource: Low blood pressure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007278.htm
+
+Resource: Low Blood Pressure (Hypotension)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/low-blood-pressure/symptoms-causes/syc-20355465?p=1
+
+Resource: Low Blood Pressure (Hypotension)
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/low-blood-pressure
+
+Resource: Measuring Blood Pressure
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/measuring-blood-pressure/
+
+Resource: Multiple System Atrophy (MSA)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/multiple-system-atrophy/symptoms-causes/syc-20356153?p=1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Orthostatic Hypotension (Postural Hypotension)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/symptoms-causes/syc-20352548?p=1
+
+Resource: Orthostatic hypotension: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/orthostatic-hypotension
+
+Resource: Postprandial Hypotension
+Category: Older Adults
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/symptoms-of-heart-and-blood-vessel-disorders/postprandial-hypotension
+
+Resource: Low Blood Pressure
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hypotension%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Related Conditions (Parkinson's Disease)
+Category: Related Issues
+Organization: Parkinson's Foundation
+URL: https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/related-conditions
+
+Resource: Syncope (Fainting)
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/symptoms-diagnosis--monitoring-of-arrhythmia/syncope-fainting
+
+Resource: Tilt Table Test
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/tilt-table-test/about/pac-20395124?p=1

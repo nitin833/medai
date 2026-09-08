@@ -1,0 +1,73 @@
+Title: Fenilcetonuria
+
+Summary:
+La fenilcetonuria (FCU) es un tipo de
+trastorno del metabolismo de los aminoácidos
+. Si lo tiene, su organismo no puede procesar fenilalanina. La fenilalanina es un aminoácido, un compuesto fundamental de las proteínas. Esta se encuentra en casi todos los alimentos. Cuando los niveles de fenilalanina suben demasiado, esta proteína puede dañar el cerebro y causar una discapacidad intelectual grave. En la actualidad, todos los bebés que nacen en hospitales de los Estados Unidos deben someterse a una
+evaluación
+para detectar la fenilcetonuria. Esto facilita el diagnóstico y el tratamiento temprano.
+El mejor tratamiento para la FCU es una dieta con alimentos con baja cantidad de proteínas. Existen leches con fórmulas especiales para los recién nacidos. En el caso de los niños mayores y los adultos la dieta incluye muchas frutas y vegetales. También incluye algunos panes, pastas y cereales con bajo nivel de proteínas. Unos preparados especiales que se usan como complemento nutricional suministran las vitaminas y los minerales que no pueden obtenerse por medio de la comida.
+Los bebés que reciben esta dieta especial poco tiempo después de su nacimiento se desarrollan normalmente. Muchos no tienen síntomas de FCU. Es importante que continúen con esta dieta por el resto de sus vidas.
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Fenilcetonuria
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pku/informacion
+
+Resource: Fenilcetonuria
+Category: Comience aquí, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/fenilcetonuria.aspx
+
+Resource: Fenilcetonuria
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001166.htm
+
+Resource: Fenilcetonuria
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/phenylketonuria/symptoms-causes/syc-20376302?p=1
+
+Resource: Fenilcetonuria (PKU) y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/la-fenilketonuria-materna/
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Prueba de detección de fenilalanina sérica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003362.htm
+
+Resource: Prueba de detección de fenilcetonuria (FCU)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-deteccion-de-fenilcetonuria-fcu/
+
+Resource: ¿Cuáles son los síntomas comunes la fenilcetonuria?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pku/informacion/sintomas
+
+Resource: ¿Cuáles son los tratamientos comunes para la fenilcetonuria?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pku/informacion/tratamientos
+
+Resource: ¿Cómo diagnostican los proveedores de servicios médicos la fenilcetonuria?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pku/informacion/diagnostica

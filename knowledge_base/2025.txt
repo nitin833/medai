@@ -1,0 +1,127 @@
+Title: Sarampión
+
+Summary:
+El sarampión es una enfermedad infecciosa causada por un virus. Se disemina fácilmente de persona a persona y causa una erupción en la piel de color roja con manchas. Esta erupción suele comenzar en la cabeza y descender al resto del cuerpo. Otros síntomas pueden incluir:
+Fiebre
+Tos
+Moqueo nasal
+Conjuntivitis
+Sensación de dolor y malestar
+Pequeñas manchas blancas dentro de la boca
+Algunas veces, el sarampión puede conducir a problemas serios. No existe un tratamiento, pero la vacuna contra sarampión-paperas-rubéola (MMR) puede prevenirlo.
+Es posible que haya oído hablar sobre la
+rubéola
+, que es otra enfermedad que causa erupción y picazón pero que no está relacionada con el sarampión.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Niños y adolescentes
+- Infecciones
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Acerca del sarampión
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/measles/es/about/acerca-del-sarampion.html
+
+Resource: Calendario de vacunación recomendado por la AAP: todo lo que debe saber
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/immunizations/Paginas/recommended-immunization-schedules.aspx
+
+Resource: Casos y brotes de sarampión
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/measles/es/data-research/index.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cómo proteger a sus niños durante un brote de sarampión
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/immunizations/paginas/how-to-protect-your-children-during-a-measles-outbreak.aspx
+
+Resource: Mejor protección contra el sarampión es la vacunación
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/la-mejor-proteccion-contra-el-sarampion-es-la-vacunacion
+
+Resource: Panencefalitis esclerosante subaguda
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001419.htm
+
+Resource: Preguntas acerca del sarampión
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/measles/es/about/preguntas-acerca-del-sarampion.html
+
+Resource: Pruebas de sarampión y paperas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-sarampion-y-paperas/
+
+Resource: Pruebas de serología de anticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-serologia-de-anticuerpos/
+
+Resource: Sarampión
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001569.htm
+
+Resource: Sarampión
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/measles
+
+Resource: Sarampión
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/measles.html
+
+Resource: Sarampión, paperas y rubéola, la vacuna MMR y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/sarampion-paperas-rubeola-la-vacuna-mmr/
+
+Resource: Sarampión: Lo que necesita saber
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/measles-keeping-family-safe.html
+
+Resource: Sarampión: todo lo que los padres deben saber
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/vaccine-preventable-diseases/paginas/measles.aspx
+
+Resource: Síntomas y complicaciones del sarampión
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/measles/es/signs-symptoms/sintomas-y-complicaciones-del-sarampion.html
+
+Resource: Vacuna (sarampión, paperas y rubéola) MMR
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_mmr.pdf
+
+Resource: Vacuna contra el sarampión: ¿puedo contraer sarampión si ya estoy vacunado?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/measles/expert-answers/getting-measles-after-vaccination/faq-20125397?p=1
+
+Resource: Vacuna contra MMRV: Lo que usted necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_mmrv.pdf
+
+Resource: Vacunación contra el sarampión
+Category: Spanish/Español, Niños/as
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/measles/es/vaccines/vacunacion-contra-el-sarampion.html

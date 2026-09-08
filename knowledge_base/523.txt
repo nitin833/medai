@@ -1,0 +1,107 @@
+Title: Rabies
+
+Also Called:
+- Hydrophobia
+
+Summary:
+Rabies is a deadly animal disease caused by a virus. It can happen in wild animals, including raccoons, skunks, bats and foxes, or in dogs, cats or farm animals. People get it from the
+bite
+of an infected animal.
+In people, symptoms of rabies include fever, headache and fatigue, then confusion, hallucinations and paralysis. Once the symptoms begin, the disease is usually fatal. A series of shots can prevent rabies in people exposed to the virus. You need to get them right away. If an animal bites you, wash the wound well; then get medical care.
+To help prevent rabies:
+Vaccinate your pet. Rabies vaccines are available for dogs, cats and farm animals
+Don't let pets roam
+Don't approach stray animals. Animals with rabies might be aggressive and vicious, or tired and weak
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Rabies
+
+Related Resources:
+
+Resource: About Rabies
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/about/
+
+Resource: Animal Bites: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-animal-bites/basics/art-20056591?p=1
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing Rabies from Bats
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/prevention/bats.html
+
+Resource: Rabies
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Rabies%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rabies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001334.htm
+
+Resource: Rabies
+Category: Start Here
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/rabies
+
+Resource: Rabies in the United States: Protecting Public Health
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/php/protecting-public-health/
+
+Resource: Rabies Infection: How to Protect Your Child
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/from-insects-animals/Pages/Rabies.aspx
+
+Resource: Rabies Post-Exposure Prophylaxis Guidance
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html
+
+Resource: Rabies Prevention and Control
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/prevention/
+
+Resource: Rabies Status by Country
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/country-data/index.html
+
+Resource: Rabies Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/rabies.pdf
+
+Resource: Rabies: A Forgotten Killer
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vitalsigns/rabies/
+
+Resource: Rabies: Questions and Answers
+Category: Start Here
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4216.pdf
+
+Resource: Travelers' Health: Rabies
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/rabies.html

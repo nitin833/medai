@@ -1,0 +1,255 @@
+Title: Genes and Gene Therapy
+
+Summary:
+What are genes?
+Genes
+are sections of
+DNA
+in your cells that are passed down (inherited) from your parents. You inherit two copies of each gene, one from each parent. Genes carry information that controls what you look like and how your body works.
+There are about 20,000 genes that provide instructions for making proteins, which your body needs to work correctly.
+Some genes don't make proteins themselves but instead help control how other genes work. They act like switches, turning other genes on or off. This means they help decide when, where, and how much of a protein is made in your body.
+What happens when genes change?
+Changes in your genes are also called gene variants or mutations. These changes can be inherited, occur as you age, or result from environmental factors such as chemicals or radiation. Often, these changes have no effect, but sometimes, even a small change in the DNA can alter the instructions for making proteins. If genes don't make the right proteins, or don't make them correctly, this can cause a
+genetic disorder
+.
+What is gene therapy?
+Gene therapy uses genes to treat or prevent disease by correcting genetic problems. It works by changing your genetic material, rather than relying on traditional treatments like medicine or surgery.
+New genetic material can be delivered into cells in two main ways:
+ex-vivo
+treatment
+. Cells are removed from your body, modified by adding genetic material, and then placed back into your body.
+in-vivo
+treatment
+. Genetic material is delivered directly into your body, often through an injection.
+A common form of gene therapy involves inserting a normal gene to replace an abnormal gene. Other approaches include:
+Repairing an abnormal gene
+Altering the degree to which a gene is turned on or off
+Newer techniques offer different ways to correct genetic problems:
+Genome editing
+(also called gene editing). Instead of adding new genetic material into cells, this approach changes the DNA that's already in your cells. A well-known example is CRISPR-Cas9. This promising technique is still being studied and may soon be used to treat genetic disorders.
+Cell-based gene therapy
+combines gene therapy and cell therapy. An example of this would be CAR T cell therapy. Cells, which are often immune system cells, are genetically altered to help treat a disease and then introduced into the body.
+Gene therapies are currently only approved to treat a small number of diseases, such as:
+Leber congenital amaurosis
+, an inherited eye disorder.
+Spinal muscular atrophy
+, a genetic muscle disorder.
+What are the risks and challenges of gene therapy?
+While gene therapy holds great promise, it comes with risks and challenges. Studies are still ongoing to ensure these treatments are safe and effective. Some challenges include:
+Immune system reactions.
+Your body may see the new material as a threat and react to it.
+Unintended effects.
+Changes to DNA could affect other genes in harmful ways.
+High costs.
+Gene therapies are often expensive and are not widely accessible.
+
+Groups:
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Genetic Therapy
+- Genes
+
+Related Resources:
+
+Resource: Biological Pathways
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Biological-Pathways-Fact-Sheet
+
+Resource: Brief Guide to Genomics
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics
+
+Resource: Chromosomes
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet
+
+Resource: ClinicalTrials.gov: Gene Therapy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22gene+therapy%22&aggFilters=status:not%20rec
+
+Resource: Conditions Treated with Cell & Gene Therapy
+Category: Specifics
+Organization: American Society of Gene & Cell Therapy
+URL: https://patienteducation.asgct.org/understanding-cell-gene-therapy/conditions-treated
+
+Resource: DNA Microarray Technology
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/DNA-Microarray-Technology
+
+Resource: Epigenomics
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Epigenomics-Fact-Sheet
+
+Resource: Gene Changes (Mutations)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gene-mutations.html
+
+Resource: Gene Circuits Enable More Precise Control of Gene Therapy
+Category: Statistics and Research
+Organization: Massachusetts Institute of Technology
+URL: https://news.mit.edu/2025/gene-circuits-enable-more-precise-control-gene-therapy-0428
+
+Resource: Gene Therapies are a Promising Path to Treating Rare Diseases
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/gene-therapies-are-a-promising-path-to-treating-rare-diseases
+
+Resource: Gene Therapy
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/gene-therapy/about/pac-20384619?p=1
+
+Resource: Gene Therapy Centers
+Category: Find an Expert
+Organization: American Society of Gene & Cell Therapy
+URL: https://patienteducation.asgct.org/newly-diagnosed/gene-therapy-centers
+
+Resource: Genes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002371.htm
+
+Resource: Genes and Genetics
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/genes-genetic-disorders.html
+
+Resource: Genetic Testing Registry
+Category: Reference Desk
+Organization: National Center for Biotechnology Information
+URL: https://www.ncbi.nlm.nih.gov/gtr/
+
+Resource: Genetics
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002048.htm
+
+Resource: Genetics (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/about-genetics.html
+
+Resource: Genetics, Disease Prevention and Treatment FAQ
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/FAQ/Genetics-Disease-Prevention-and-Treatment
+
+Resource: Genetics: MedlinePlus Genetics
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/
+
+Resource: How does gene therapy work?: MedlinePlus Genetics
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/therapy/procedures/
+
+Resource: How Gene Therapy Can Cure or Treat Diseases
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/how-gene-therapy-can-cure-or-treat-diseases
+
+Resource: Human Genome Project (HGP)
+Category: Statistics and Research
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/human-genome-project
+
+Resource: Infant with Rare, Incurable Disease Is First to Successfully Receive Personalized Gene Therapy Treatment
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://www.nih.gov/news-events/news-releases/infant-rare-incurable-disease-first-successfully-receive-personalized-gene-therapy-treatment
+
+Resource: National Human Genome Research Institute
+Category: Find an Expert
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/
+
+Resource: Pharmacogenomics
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/educational-resources/fact-sheets/pharmacogenomics
+
+Resource: Gene therapy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Genetic+Therapy%22%5Bmajr%3Anoexp%5D+OR+%22Genes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Talking Glossary of Genomic and Genetic Terms
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/genetics-glossary
+
+Resource: Tesha Samuels Advocates for Others After Living with Sickle Cell Disease
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/tesha-samuels-advocates-for-others-after-living-with-sickle-cell-disease
+
+Resource: Transcriptome
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Transcriptome-Fact-Sheet
+
+Resource: Types of Cell & Gene Therapy
+Category: Start Here
+Organization: American Society of Gene & Cell Therapy
+URL: https://patienteducation.asgct.org/understanding-cell-gene-therapy/types-of-cell-gene-therapy
+
+Resource: What are CAR T cell therapy, RNA therapy, and other genetic therapies?: MedlinePlus Genetics
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/therapy/othergenetictherapy/
+
+Resource: What Are Genetic Therapies?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/genetic-therapies
+
+Resource: What are genome editing and CRISPR-Cas9?: MedlinePlus Genetics
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/genomicresearch/genomeediting/
+
+Resource: What are whole exome sequencing and whole genome sequencing?: MedlinePlus Genetics
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/testing/sequencing
+
+Resource: What Is a Gene?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/what-is-gene.html
+
+Resource: What is a gene?: MedlinePlus Genetics
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/basics/gene/
+
+Resource: What is epigenetics?: MedlinePlus Genetics
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/howgeneswork/epigenome
+
+Resource: What is gene therapy?: MedlinePlus Genetics
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/therapy/genetherapy/
+
+Resource: What is genetic ancestry testing?: MedlinePlus Genetics
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/dtcgenetictesting/ancestrytesting/
+
+Resource: What Is Genetics?
+Category: Related Issues
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2024/04/what-is-genetics
+
+Resource: What is Pharmacology?
+Category: Related Issues
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2023/08/what-is-pharmacology

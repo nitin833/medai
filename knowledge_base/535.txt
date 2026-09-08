@@ -1,0 +1,113 @@
+Title: Child Safety
+
+Summary:
+As parents, we want to keep our children safe from harm. Take steps to keep your children safe:
+Install the right child safety seat in your
+car
+Teach children how to cross the street safely
+Make sure they wear the right gear and equipment for
+sports
+Install and test smoke alarms
+Store medicines, cleaners and other
+dangerous substances
+in locked cabinets
+Babyproof your home
+Don't leave small children unattended
+
+Groups:
+- Children and Teenagers
+- Safety Issues
+
+MeSH Headings:
+- Safety
+
+Related Resources:
+
+Resource: Anchor It: Secure Furniture and TVs: Protect Children
+Category: Specifics
+Organization: Consumer Product Safety Commission
+URL: https://www.anchorit.gov/
+
+Resource: Backpack Safety
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/backpack.html
+
+Resource: Bathroom safety - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000154.htm
+
+Resource: Child safety seats
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000670.htm
+
+Resource: Childproofing Your Home: 12 Safety Devices To Protect Your Children
+Category: Specifics
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/safety-education/safety-guides/kids-and-babies/Childproofing-Your-Home
+
+Resource: Childproofing Your House
+Category: Specifics
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/health--safety-tips/Childproofing-Your-house
+
+Resource: Cribs and crib safety
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000542.htm
+
+Resource: Do You Know How to Be Street Smart?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/street-smart.html
+
+Resource: Fireworks
+Category: Specifics
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks
+
+Resource: First Aid and Safety
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/firstaid-safe/
+
+Resource: Halloween Safety Tips: Costumes, Candy, and Colored Contact Lenses
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/halloween-safety-tips-costumes-candy-and-colored-contact-lenses
+
+Resource: Novelty Makeup
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/cosmetics/cosmetic-products/novelty-makeup
+
+Resource: Playground Safety (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/playground.html
+
+Resource: Playing Outside in Winter: Tips to Keep Kids Warm and Safe
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Winter-Safety.aspx
+
+Resource: Preventing head injuries in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000130.htm
+
+Resource: Child Safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Safety%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Red Cross Mobile Apps
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html
+
+Resource: Traffic-Related Pedestrian Injuries among Children in 2023
+Category: Statistics and Research
+Organization: Safe Kids Worldwide
+URL: https://www.safekids.org/sites/default/files/documents/fast_facts_-_2025-_pedestrian_injuries_updated.pdf

@@ -1,0 +1,145 @@
+Title: Exercise for Children
+
+Summary:
+Like adults, kids need exercise. Most children
+need at least an hour of physical activity
+every day. Regular exercise has many
+benefits
+for children. It can help them:
+Feel less stressed
+Feel better about themselves
+Feel more ready to learn in school
+Keep a healthy weight
+Build and keep healthy bones, muscles and joints
+Sleep better at night
+As kids spend more time watching TV, they spend less time running and playing. Parents should limit TV, video game and computer time.  Parents can set a good example by being active themselves.  Exercising together can be fun for everyone.  Competitive sports can help kids stay fit. Walking or biking to school, dancing, bowling and yoga are some other ways for kids to get exercise.
+
+Groups:
+- Children and Teenagers
+- Wellness and Lifestyle
+- Fitness and Exercise
+
+MeSH Headings:
+- Youth Sports
+- Exercise
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Exercise for Children
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=exercise&aggFilters=ages:child,status:not%20rec
+
+Resource: ClinicalTrials.gov: Youth Sports
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Youth+Sports%22&aggFilters=status:not%20rec
+
+Resource: Compulsive Exercise
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/compulsive-exercise.html
+
+Resource: Compulsive Exercise
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/compulsive-exercise.html
+
+Resource: Definitions of Health Terms: Fitness
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/definitions/fitnessdefinitions.html
+
+Resource: Easy Exercises for Teens
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/easy-exercises.html
+
+Resource: Fitness and Your 13- to 18-year-old
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fitness-13-18.html
+
+Resource: Fitness and Your 3-to 5-Year Old
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fitness-4-5.html
+
+Resource: Fitness and Your 6- to 12-Year-Old
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fitness-6-12.html
+
+Resource: Fitness for Kids Who Don't Like Sports
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hate-sports.html
+
+Resource: Heart-Healthy Living - For Children
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/children
+
+Resource: Helping Your Child: Tips for Parents and Other Caregivers
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/healthy-eating-physical-activity-for-life/helping-your-child-tips-for-parents
+
+Resource: How Can I Help My Child Be More Physically Active?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/exercise-and-physical-activity/fitness-basics/aha-recs-for-physical-activity-in-children
+
+Resource: Kids and Exercise
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/exercise.html
+
+Resource: Motivating Kids to Be Active
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/active-kids.html
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Physical Activity for Children: An Overview
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/physical-activity-basics/guidelines/children.html
+
+Resource: Physical Activity Guidelines for Americans: 2nd edition
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf
+
+Resource: President's Council on Sports, Fitness & Nutrition
+Category: Find an Expert
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/pcsfn
+
+Resource: Exercise for Children
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Youth+Sports%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+OR+%22Exercise%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sports and Exercise Safety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sport-safety.html
+
+Resource: Take Charge of Your Health: A Guide for Teenagers
+Category: Teenagers
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers
+
+Resource: Why Exercise Is Cool
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/work-it-out.html
+
+Resource: Why Exercise Is Wise
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/exercise-wise.html

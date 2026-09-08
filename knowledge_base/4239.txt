@@ -1,0 +1,150 @@
+Title: Thalassemia
+
+Also Called:
+- Cooley's anemia
+- Mediterranean anemia
+
+Summary:
+Thalassemias are inherited blood disorders. If you have one, your body makes fewer healthy red blood cells and less hemoglobin. Hemoglobin is a protein that carries oxygen to the body. That leads to
+anemia
+. Thalassemias occur most often among people of Italian, Greek, Middle Eastern, Southern Asian, and African descent.
+Thalassemias can be mild or severe. Some people have no symptoms or mild anemia. The most common severe type in the United States is called Cooley's anemia. It usually appears during the first two years of life. People with it may have severe anemia, slowed growth and delayed puberty, and problems with the spleen, liver, heart, or bones.
+Doctors diagnose thalassemias using blood tests. Treatments include blood transfusions and treatment to remove excess iron from the body. If you have mild symptoms or no symptoms, you may not need treatment. In some severe cases, you may need a bone marrow transplant.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Thalassemia
+
+Related Resources:
+
+Resource: About Thalassemia
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/about/
+
+Resource: About Thalassemia
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Thalassemia
+
+Resource: Alpha Thalassemia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/thalassemias.html
+
+Resource: Alpha thalassemia X-linked intellectual disability syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-thalassemia-x-linked-intellectual-disability-syndrome/
+
+Resource: Alpha thalassemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-thalassemia/
+
+Resource: Beta Thalassemia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/beta-thalassemia.html
+
+Resource: Beta thalassemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-thalassemia/
+
+Resource: ClinicalTrials.gov: beta-Thalassemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22beta-Thalassemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thalassemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thalassemia%22&aggFilters=status:not%20rec
+
+Resource: Glossary of Thalassemia Medical Terms
+Category: Reference Desk
+Organization: Cooley's Anemia Foundation
+URL: https://thalassemia.org/Glossary-of-Medical-Terms
+
+Resource: Hemoglobin Electrophoresis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hemoglobin-electrophoresis/
+
+Resource: Hemoglobinuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003363.htm
+
+Resource: Iron Chelation
+Category: Treatments and Therapies
+Organization: Aplastic Anemia and MDS International Foundation
+URL: https://www.aamds.org/treatment/iron-chelation
+
+Resource: Living with Thalassemia
+Category: Videos and Tutorials
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/communication-resources/video-series-on-living-with-thalassemia.html
+
+Resource: Living with Thalassemia
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/living-with/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Osmotic fragility test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003641.htm
+
+Resource: Thalassemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Thalassemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Real Stories from People Living with Thalassemia
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/stories/
+
+Resource: Thalassemia
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thalassemia/symptoms-causes/syc-20354995?p=1
+
+Resource: Thalassemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000587.htm
+
+Resource: Thalassemia Treatment Centers
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/treatment/treatment-centers.html
+
+Resource: Treatment of Thalassemia
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/thalassemia/treatment/
+
+Resource: Treatments for Blood Disorders
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: What is Thalassemia
+Category: Specifics
+Organization: Cooley's Anemia Foundation
+URL: https://thalassemia.org/What-is-Thalassemia
+
+Resource: What Is Thalassemia?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thalassemia

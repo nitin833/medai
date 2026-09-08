@@ -1,0 +1,129 @@
+Title: Lymphedema
+
+Also Called:
+- Lymphatic obstruction
+
+Summary:
+Lymphedema is the name of a type of
+swelling
+. It happens when lymph builds up in your body's soft tissues.  Lymph is a fluid that contains white blood cells that defend against germs. It can build up when the
+lymph system
+is damaged or blocked. It usually happens in the arms or legs.
+Causes of lymphedema include:
+Infection
+Cancer
+Scar tissue from radiation therapy or surgical removal of lymph nodes
+Inherited conditions in which lymph nodes or vessels are absent or abnormal
+Treatment can help control symptoms.  It includes exercise, compression devices, skin care, and massage.
+NIH: National Cancer Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Immune System
+
+MeSH Headings:
+- Lymphedema
+
+Related Resources:
+
+Resource: About Lymphatic Filariasis
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/filarial-worms/about/lymphatic-filariasis.html?
+
+Resource: ClinicalTrials.gov: Lymphedema
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lymphedema%22&aggFilters=status:not%20rec
+
+Resource: Compression stockings
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000597.htm
+
+Resource: Guide to Understanding Lymphedema
+Category: Start Here
+Organization: Living Beyond Breast Cancer
+URL: https://www.lbbc.org/wp-content/uploads/2022/07/Guide-to-Understanding-Lymphedema_Web_2019.pdf
+
+Resource: Hennekam syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hennekam-syndrome
+
+Resource: How Is Lymphedema Treated?
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema#how-is-lymphedema-treated
+
+Resource: Kathy Bates is Figuring Out How to Live with Lymphedema
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/kathy-bates-is-figuring-out-how-to-live-with-lymphedema
+
+Resource: Lymphatic Education & Research Network
+Category: Find an Expert
+Organization: Lymphatic Education & Research Network
+URL: https://lymphaticnetwork.org
+
+Resource: Lymphatic obstruction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001117.htm
+
+Resource: Lymphedema
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/lymphedema
+
+Resource: Lymphedema
+Category: Start Here
+Organization: Lymphatic Education & Research Network
+URL: https://lymphaticnetwork.org/living-with-lymphedema/lymphedema/
+
+Resource: Lymphedema
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/swelling/lymphedema.html
+
+Resource: Lymphedema
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lymphedema/symptoms-causes/syc-20374682?p=1
+
+Resource: Lymphedema - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000045.htm
+
+Resource: Lymphedema-distichiasis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lymphedema-distichiasis-syndrome
+
+Resource: Lymphedema: Living with Swelling and Stiffness
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/lymphedema-living-with-swelling-and-stiffness
+
+Resource: Lymphoscintigraphy
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/lympho
+
+Resource: Meige disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/meige-disease
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Lymphedema Network
+Category: Find an Expert
+Organization: National Lymphedema Network
+URL: https://lymphnet.org/
+
+Resource: Lymphedema
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lymphedema%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

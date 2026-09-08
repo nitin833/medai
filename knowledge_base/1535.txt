@@ -1,0 +1,205 @@
+Title: Child Dental Health
+
+Summary:
+Healthy teeth are important to your child's overall health. From the time your child is born, there are things you can do to promote healthy teeth and prevent
+cavities
+. For babies, you should clean teeth with a soft, clean cloth or baby's toothbrush.  Avoid putting the baby to bed with a bottle and check teeth regularly for spots or stains.
+For all children, you should:
+Start using a pea-sized amount of fluoride toothpaste when they are two years old. You might start sooner, if a dentist or doctor suggests it.
+Provide healthy foods and limit sweet snacks and drinks
+Schedule regular dental check-ups
+Forming good habits at a young age can help your child have healthy teeth for life.
+NIH: National Institute of Dental and Craniofacial Research
+
+Groups:
+- Children and Teenagers
+- Mouth and Teeth
+
+MeSH Headings:
+- Dental Care for Children
+
+Related Resources:
+
+Resource: About Dental Fluorosis
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/oral-health/about/about-dental-fluorosis.html
+
+Resource: About Kids' Teeth
+Category: Start Here
+Organization: Partnership for Healthy Mouths, Healthy Lives
+URL: https://www.2min2x.org/about-kids-teeth/
+
+Resource: Brushing Your Child's Teeth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000769.htm
+
+Resource: ClinicalTrials.gov: Child Dental Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=dental&aggFilters=ages:child,status:not%20rec
+
+Resource: ClinicalTrials.gov: Pit and Fissure Sealants
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Pit+and+Fissure+Sealants%22&aggFilters=status:not%20rec
+
+Resource: Dental care - child
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002213.htm
+
+Resource: Dental Exam
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dental-exam/
+
+Resource: Dental Health and Orthodontic Problems
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/healthy-living/oral-health/Pages/Dental-Health-and-Orthodontic-Problems.aspx
+
+Resource: FastStats: Oral and Dental Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/dental.htm
+
+Resource: Find a Pediatric Dentist
+Category: Find an Expert
+Organization: American Academy of Pediatric Dentistry
+URL: https://www.aapd.org/publications/find-a-pd/
+
+Resource: Find an Oral and Maxillofacial Surgeon
+Category: Find an Expert
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/find-a-surgeon/
+
+Resource: Fluoride in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002420.htm
+
+Resource: Healthy Mouth for Kids: Start Early to Protect Tooth Health
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/02/healthy-mouth-kids
+
+Resource: Healthy Mouth for Your Baby
+Category: Start Here, Patient Handouts
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2024-10/healthy-mouth-for-baby-en.pdf
+
+Resource: Healthy Smile for Your Young Child: Tips to Keep Your Child Healthy
+Category: Patient Handouts
+Organization: National Maternal and Child Oral Health Resource Center
+URL: https://www.mchoralhealth.org/PDFs/childbrochure.pdf
+
+Resource: How to Prevent Tooth Decay in Your Baby
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/baby/teething-tooth-care/pages/how-to-prevent-tooth-decay-in-your-baby.aspx
+
+Resource: How to Take Care of Your Teeth
+Category: Start Here, Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/teeth-care.html
+
+Resource: Keeping Your Child's Teeth Healthy
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/healthy.html
+
+Resource: Let the Brushing Games Begin
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/healthy-living/oral-health/Pages/Let-the-Brushing-Games-Begin.aspx
+
+Resource: Mouth and Teeth (For Parents)
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/mouth-teeth.html
+
+Resource: Natal teeth
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003268.htm
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Oral Health Tips for Children
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/oral-health/prevention/oral-health-tips-for-children.html
+
+Resource: Panoramic Dental X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Child Dental Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dental+Care+for+Children%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safely Soothing Teething Pain in Infants and Children
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/safely-soothing-teething-pain-infants-and-children
+
+Resource: Seal Out Tooth Decay
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2024-10/seal-out-tooth-decay-en.pdf
+
+Resource: Take Care of Your Child's Teeth
+Category: Start Here
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/doctor-visits/regular-checkups/take-care-your-childs-teeth
+
+Resource: Taking Care of Your Teeth
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/teeth.html
+
+Resource: Teething
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002045.htm
+
+Resource: Teething & Dental Hygiene for Young Children
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/healthy-living/oral-health/Pages/Teething-and-Dental-Hygiene.aspx
+
+Resource: Tooth Decay
+Category: Prevention and Risk Factors
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/tooth-decay
+
+Resource: Tooth decay -- early childhood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000721.htm
+
+Resource: Toothache: First Aid
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-toothache/basics/art-20056628?p=1
+
+Resource: What's Spit?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/spit.html
+
+Resource: Where Can I Find Low-Cost Dental Care?
+Category: Finance and Policy
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/answers/health-insurance-reform/where-can-i-find-low-cost-dental-care/index.html
+
+Resource: Your Teeth
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/teeth.html

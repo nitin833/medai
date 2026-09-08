@@ -1,0 +1,52 @@
+Title: Managed Care
+
+Summary:
+Managed care plans are a type of
+health insurance
+. They have contracts with health care providers and medical facilities to provide care for members at reduced costs. These providers make up the plan's network. How much of your care the plan will pay for depends on the network's rules.
+Plans that restrict your choices usually cost you less. If you want a flexible plan, it will probably cost more. There are three types of managed care plans:
+Health Maintenance Organizations (HMO) usually only pay for care within the network. You choose a primary care doctor who coordinates most of your care.
+Preferred Provider Organizations (PPO) usually pay more if you get care within the network. They still pay part of the cost if you go outside the network.
+Point of Service (POS) plans let you choose between an HMO or a PPO each time you need care.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Managed Care Programs
+
+Related Resources:
+
+Resource: Centers for Medicare & Medicaid Services
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/
+
+Resource: Health Maintenance Organizations (HMOs)
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO
+
+Resource: Preferred Provider Organizations (PPOs)
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/PPO
+
+Resource: Managed Care
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Managed+Care+Programs%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Special Needs Plans (SNP)
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/SNP
+
+Resource: Women's Preventive Services Guidelines
+Category: Learn More
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/womens-guidelines
+
+Resource: Your Health Plan Options (Medicare Advantage Plans)
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/health-drug-plans/health-plans/your-health-plan-options

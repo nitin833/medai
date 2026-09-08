@@ -1,0 +1,113 @@
+Title: Rosacea
+
+Also Called:
+- Acne rosacea
+
+Summary:
+Rosacea is a long-term disease that affects your skin and sometimes your eyes. It causes redness and pimples. Rosacea is most common in women and people with fair skin. It most often affects middle-aged and older adults.
+In most cases, rosacea only affects the face. Symptoms can include:
+Frequent redness of the face, or flushing
+Small, red lines under the skin
+Acne
+A swollen nose
+Thick skin, usually on the forehead, chin, and cheeks
+Red, dry, itchy eyes and sometimes vision problems
+No one knows what causes rosacea. You may be more likely to have it if you blush a lot or if rosacea runs in your family. Rosacea is not dangerous. There is no cure, but treatments can help. They include medicines and sometimes surgery.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Rosacea
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Rosacea
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rosacea%22&aggFilters=status:not%20rec
+
+Resource: Coping with Rosacea: Identifying Your Individual Rosacea Triggers
+Category: Living With
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/patients/materials/coping-with-rosacea/identifying-rosacea-triggers
+
+Resource: Coping with Rosacea: Managing Psychosocial Aspects of Rosacea
+Category: Living With
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/patients/materials/coping-with-rosacea/managing-psychological-and-social-aspects-of-rosacea
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Managing Rosacea
+Category: Living With
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/patients/materials/managing-rosacea-brochure
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Ocular Rosacea
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ocular-rosacea/symptoms-causes/syc-20375798?p=1
+
+Resource: Other Skin Conditions Often Present in Rosacea Patients
+Category: Statistics and Research
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/rosacea-review/2013/winter/survey-other-skin-conditions-often-present-in-rosacea-patients
+
+Resource: Rosacea
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Rosacea%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Relieving Rosacea: Treating Face Redness
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/07/relieving-rosacea
+
+Resource: Rhinophyma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001037.htm
+
+Resource: Rhinophyma Treated with Options Today
+Category: Treatments and Therapies
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/rosacea-review/2012/spring/rhinophyma-treated-with-options-today
+
+Resource: Rosacea
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000879.htm
+
+Resource: Rosacea
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/rosacea
+
+Resource: Rosacea
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/rosacea/?Imiw9cApl=1
+
+Resource: Rosacea: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rosacea
+
+Resource: Seborrheic Dermatitis and Rosacea
+Category: Related Issues
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/patients/seborrheic-dermatitis
+
+Resource: Women May Need Added Therapy for Rosacea
+Category: Women
+Organization: National Rosacea Society
+URL: https://www.rosacea.org/rosacea-review/2008/winter/women-may-need-added-therapy

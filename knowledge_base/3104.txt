@@ -1,0 +1,162 @@
+Title: Dengue
+
+Also Called:
+- Break-bone fever
+- Dengue fever
+
+Summary:
+What is dengue?
+Dengue is a
+viral infection
+. It can be caused by four related viruses. You can get it if an infected
+mosquito
+bites you. It is common in warm, wet areas of the world. Although rare, it can be found in some parts of the United States. Outbreaks are more common during rainy seasons.
+How does dengue spread?
+Dengue spreads to people through the bite of an infected mosquito. It does not spread directly from person to person. However, the infection can be passed to the baby during pregnancy. In rare cases, it can spread through a
+blood transfusion
+,
+organ transplant
+, or needle stick injury (an accidental injury from a used needle)..
+What are the symptoms of dengue and severe dengue?
+About one in four people infected with dengue will get sick. For those who do get sick, the infection can be mild or severe. The symptoms of dengue include:
+A high
+fever
+Nausea and vomiting
+Rash
+Aches and pains (eye pain, usually behind the eyes, and pain in the muscles, joints, or bones)
+The symptoms usually last two to seven days.
+Severe dengue is a serious form of the illness. About 1 in 20 people who get sick with dengue will develop severe dengue. It can cause
+shock
+, internal bleeding, and even death. People are more likely to develop severe dengue if they have had dengue before, are pregnant, or are infants.
+Watch for signs and symptoms of severe dengue. Warning signs usually begin about 24 - 48 hours after your fever has gone away. If you or your family member have these signs, get immediate medical care:
+Severe
+abdominal (belly) pain
+and tenderness
+Vomiting at least 3 times in 24 hours
+Bleeding from the nose or gums
+Vomiting blood, or blood in the stool (poop)
+Feeling tired, restless, or irritable
+How is dengue diagnosed?
+There is a
+blood test
+which can show if you have been infected with dengue.
+What are the treatments for dengue?
+There is no specific medicine to treat dengue. Most people will get better after about a week. But if you think you might have dengue:
+See a health care provider and mention any recent travel.
+Rest as much as possible.
+Take acetaminophen to control fever and relieve pain. But do
+not
+take aspirin or ibuprofen.
+Drink plenty of fluids to prevent
+dehydration
+.
+Severe dengue often requires care at a hospital.
+Can dengue be prevented?
+In the United States, a dengue vaccine is approved for children who are ages 9 - 16. They must also have previously had dengue and live in areas where dengue is common.
+You can also help prevent dengue by avoiding mosquito bites:
+Wear insect repellent with DEET or another U.S. Environmental Protection Agency (EPA)-registered insect repellent. Make sure to follow the instructions for using the repellant.
+Wear clothes that cover your arms, legs and feet.
+Close unscreened doors and windows.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Dengue
+
+Related Resources:
+
+Resource: About a Dengue Vaccine
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/vaccine/
+
+Resource: Areas with Risk of Dengue
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/areas-with-risk/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Dengue
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dengue%22&aggFilters=status:not%20rec
+
+Resource: Data and Statistics on Dengue in the United States
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/data-research/facts-stats/
+
+Resource: Dengue
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/
+
+Resource: Dengue and Severe Dengue
+Category: Start Here
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/dengue-and-severe-dengue
+
+Resource: Dengue Fever
+Category: Start Here
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/dengue-fever
+
+Resource: Dengue Fever
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dengue.html
+
+Resource: Dengue fever
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001374.htm
+
+Resource: Dengue Fever Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dengue-fever-test/
+
+Resource: Dengue: Prevention
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/prevention/
+
+Resource: Find the Repellent that is Right for You
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/insect-repellents/find-repellent-right-you
+
+Resource: Manage Dengue in Infants
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/treatment/dengue-infants.html
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Protect against Mosquito Bites when Traveling
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mosquitoes/pdfs/MosquitoBitePreventionTravelers_508.pdf
+
+Resource: Dengue
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dengue%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Symptoms of Dengue and Testing
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/dengue/signs-symptoms/
+
+Resource: World Health Organization
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/en/

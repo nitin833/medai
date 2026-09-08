@@ -1,0 +1,168 @@
+Title: Thyroid Tests
+
+Summary:
+Your thyroid is a small, butterfly-shaped gland in the front of your neck. It makes
+hormones
+that control the way the body uses energy. These hormones affect nearly every organ in your body and control many of your body's most important functions. For example, they affect your breathing, heart rate, weight, digestion, and moods.
+Thyroid tests check how well your thyroid is working. They are also used to diagnose and help find the cause of
+thyroid diseases
+such as
+hyperthyroidism
+and
+hypothyroidism
+. Thyroid tests include blood tests and imaging tests.
+Blood tests for your thyroid include:
+TSH
+.
+It measures thyroid-stimulating hormone. This is usually the first test your healthcare provider will order.
+T3
+and
+T4
+.
+They measure the level of the different thyroid hormones in your blood.
+Thyroid antibodies test
+.
+It measures certain thyroid antibodies (markers in the blood). This test may help diagnose autoimmune thyroid disorders.
+Imaging tests include:
+CT scans
+Ultrasound
+Nuclear medicine tests
+,
+including:
+Thyroid scan.
+It uses small amounts of radioactive material to create a picture of the thyroid, showing its size, shape, and position. It can help find the cause of hyperthyroidism and check for thyroid nodules (lumps in the thyroid).
+Radioactive iodine uptake test,
+or thyroid uptake test. It checks how well your thyroid is working and can help find the cause of hyperthyroidism.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+- Diagnostic Tests
+
+MeSH Headings:
+- Thyroid Function Tests
+
+Related Resources:
+
+Resource: Antithyroglobulin antibody test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003557.htm
+
+Resource: Calcitonin Test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcitonin-test/
+
+Resource: ClinicalTrials.gov: Thyroid Tests
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Thyroid+Tests%22&aggFilters=status:not%20rec
+
+Resource: Fine needle aspiration of the thyroid
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003899.htm
+
+Resource: Free T4 test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003517.htm
+
+Resource: Thyroid Tests
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Thyroid+Function+Tests%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radioactive iodine uptake
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003689.htm
+
+Resource: T3 test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003687.htm
+
+Resource: T3RU test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003688.htm
+
+Resource: TBG blood test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003374.htm
+
+Resource: Thyroid Antibodies
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/thyroid-antibodies/
+
+Resource: Thyroid Function Tests
+Category: Learn More
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/thyroid-function-tests/
+
+Resource: Thyroid peroxidase antibody
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003556.htm
+
+Resource: Thyroid scan
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003829.htm
+
+Resource: Thyroid Scan and Uptake
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/thyroiduptake
+
+Resource: Thyroid Tests
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/thyroid
+
+Resource: Thyroid Tests (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/thyroid-tests.html
+
+Resource: Thyroid ultrasound
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003776.htm
+
+Resource: Thyroxine (T4) Test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/thyroxine-t4-test/
+
+Resource: Triiodothyronine (T3) Tests
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/triiodothyronine-t3-tests/
+
+Resource: TSH (Thyroid-stimulating hormone) test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tsh-thyroid-stimulating-hormone-test/
+
+Resource: TSH test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003684.htm
+
+Resource: TSI test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003685.htm
+
+Resource: Ultrasound - Thyroid
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-thyroid
+
+Resource: Why the Internet Can't Diagnose Your Thyroid Problem
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/why-the-internet-cant-diagnose-your-thyroid-problem

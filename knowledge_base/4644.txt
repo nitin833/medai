@@ -1,0 +1,149 @@
+Title: Cálculos biliares
+
+Summary:
+La vesícula biliar es un órgano con forma de pera ubicada bajo el hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado.
+Es más probable que la vesícula cause problemas si algo obstruye el flujo de bilis por los
+conductos biliares
+. La causa suele ser por cálculos biliares. Los cálculos se forman cuando hay sustancias en la bilis que se endurecen. Las crisis por cálculos suelen presentarse después de las comidas. Los signos de una crisis por cálculos incluyen nauseas, vómitos o dolor en el abdomen, la espalda o debajo del brazo derecho.
+Los cálculos biliares son más comunes entre los adultos mayores, las mujeres, las personas con sobrepeso, los indígenas estadounidenses y los mexicano-estadounidenses. El tratamiento más común es la extracción de la vesícula biliar. Afortunadamente, la vesícula biliar no es un órgano imprescindible para la vida. La bilis tiene otras vías para llegar al intestino delgado.
+NIH:  Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta tras cálculos biliares
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000196.htm
+
+Resource: Alta tras extirpación abierta de la vesícula biliar
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000118.htm
+
+Resource: Alta tras extirpación laparoscópica de la vesícula biliar
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000117.htm
+
+Resource: Colangiopancreatografía endoscópica retrógrada
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100180_1.htm
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Colecistectomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio estadounidense de cirujanos
+URL: https://www.facs.org/media/y3qcstbv/colecistectomia.pdf
+
+Resource: Colecistectomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100021_1.htm
+
+Resource: Colecistitis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867?p=1
+
+Resource: Coledocolitiasis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000274.htm
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Cálculos biliares
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000273.htm
+
+Resource: Cálculos biliares
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/calculos-bilares
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Diarrea crónica: ¿Debería preocuparme después de la extracción de la vesícula?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cholecystectomy/expert-answers/gallbladder-removal/faq-20058481?p=1
+
+Resource: Dieta para los cálculos biliares
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/calculos-bilares/dieta
+
+Resource: Ecografía abdominal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Exploración abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002928.htm
+
+Resource: Exploración hepatobiliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/hida-scan/about/pac-20384701?p=1
+
+Resource: Exploración quirúrgica del abdomen
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100049_1.htm
+
+Resource: Extirpación abierta de la vesícula biliar
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002930.htm
+
+Resource: Extirpación laparoscópica de la vesícula biliar
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007371.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Limpieza de la vesícula: ¿Un remedio "natural" para los cálculos biliares?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gallstones/expert-answers/gallbladder-cleanse/faq-20058134?p=1
+
+Resource: Resonancia magnética del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Trastornos del tracto biliar, trastornos de la vesícula biliar y pancreatitis por cálculos biliares
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Gastroenterología
+URL: https://gi.org/patients/recursos-en-espanol/trastornos-del-tracto-biliar-trastornos-de-la-vesicula-biliar-y-pancreatitis-por-calculos-biliares/
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus

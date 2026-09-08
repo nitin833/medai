@@ -1,0 +1,179 @@
+Title: Elbow Injuries and Disorders
+
+Summary:
+Your elbow joint is made up of bone, cartilage, ligaments and fluid. Muscles and tendons help the elbow joint move. When any of these structures is hurt or diseased, you have elbow problems.
+Many things can make your elbow hurt. A common cause is
+tendinitis
+, an inflammation or injury to the tendons that attach muscle to bone. Tendinitis of the elbow is a
+sports injury
+, often from playing tennis or golf. You may also get tendinitis from overuse of the elbow.
+Other causes of elbow pain include
+sprains and strains
+,
+fractures
+(broken bones),
+dislocations
+,
+bursitis
+, and
+arthritis
+. Treatment depends on the cause.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Elbow Injuries
+- Tennis Elbow
+
+Related Resources:
+
+Resource: Arm MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007358.htm
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: ClinicalTrials.gov: Cubital Tunnel Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cubital+Tunnel+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Elbow Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Elbow+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tennis Elbow
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tennis+Elbow%22&aggFilters=status:not%20rec
+
+Resource: Direct Arthrography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/arthrog
+
+Resource: Elbow (Olecranon) Bursitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/elbow-olecranon-bursitis/
+
+Resource: Elbow (Olecranon) Fractures
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/elbow-olecranon-fractures
+
+Resource: Elbow Fractures in Children
+Category: Children
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/elbow-fractures-in-children
+
+Resource: Elbow Pain
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/elbow-pain/basics/definition/SYM-20050874?p=1
+
+Resource: Elbow pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003172.htm
+
+Resource: Elbow replacement
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007258.htm
+
+Resource: Elbow replacement - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000195.htm
+
+Resource: Elbow sprain -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000679.htm
+
+Resource: Elbow X-Ray Exam (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-exam-elbow.html
+
+Resource: Golfer's Elbow
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/golfers-elbow/symptoms-causes/syc-20372868?p=1
+
+Resource: Hand/Wrist/Arm Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/hand-wrist-arm-problems/
+
+Resource: Little League Elbow
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/little-league-elbow.html?ref=search
+
+Resource: Medial epicondylitis - golfer's elbow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007638.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nursemaid's elbow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000983.htm
+
+Resource: Osteochondritis Dissecans
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/osteochondritis-dissecans/
+
+Resource: Osteochondritis Dissecans (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/osteochondritis-dissecans.html
+
+Resource: Elbow Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Elbow+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Tennis+Elbow%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Tennis Elbow
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tennis-elbow/symptoms-causes/syc-20351987?p=1
+
+Resource: Tennis elbow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000449.htm
+
+Resource: Tennis Elbow (Lateral Epicondylitis)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/tennis-elbow-lateral-epicondylitis/
+
+Resource: Tennis elbow surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007590.htm
+
+Resource: Tennis elbow surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000657.htm
+
+Resource: Ulnar Nerve Entrapment at the Elbow (Cubital Tunnel Syndrome)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow/

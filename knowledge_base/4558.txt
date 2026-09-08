@@ -1,0 +1,65 @@
+Title: Corticoides
+
+Summary:
+Es posible que haya oído acerca de los esteroides anabólicos, que se sabe pueden tener efectos nocivos. Pero existe otro tipo de esteroides, también llamados corticoides, que trata una variedad de problemas. Estos corticoides son similares a las hormonas que producen las glándulas suprarrenales para combatir el estrés relacionado con enfermedades y traumatismos. Reducen la inflamación y a la vez afectan el sistema inmunitario. Es posible que deba tomar corticoides para tratar:
+Artritis
+Asma
+Enfermedades autoinmunes como el lupus y la esclerosis múltiple
+Afecciones de la piel, tales como eccema y erupciones cutáneas
+Algunos tipos de cáncer
+Los corticoides son medicinas potentes que tienen efectos secundarios, incluso puede debilitar los huesos y causar cataratas. Por este motivo, se suelen indicar por períodos lo más cortos posibles.
+
+Groups:
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Corticosteroides inhalados (ICS, por sus siglas en inglés) y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/los-corticosteroides-inhalados-icss/pdf/
+
+Resource: Esteroides orales
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/esteroides-orales
+
+Resource: Esteroides para tratar el cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/steroid-treatment.html
+
+Resource: Inyecciones de cortisona
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cortisone-shots/about/pac-20384794?p=1
+
+Resource: Inyección de esteroides: Tendón, bolsa, articulación
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007678.htm
+
+Resource: Osteoporosis inducida por glucocorticoides
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/osteoporosis-inducida-por-glucocorticoides
+
+Resource: Prednisona y otros corticoides
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cortisone-shots/in-depth/steroids/art-20045692?p=1
+
+Resource: Sobredosis de corticoesteroides
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002582.htm
+
+Resource: ¿Qué son las tabletas de esteroides?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/medicamentos/tabletas-de-esteroides
+
+Resource: ¿Qué son los corticoesteroides y para qué se usan?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/allergies-asthma/paginas/corticosteroids.aspx

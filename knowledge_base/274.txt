@@ -1,0 +1,99 @@
+Title: Health Insurance
+
+Summary:
+Health insurance helps protect you from high medical care costs. It is a contract between you and your insurance company. You buy a plan or policy, and the company agrees to pay part of your expenses when you need medical care.
+Many people in the United States get a health insurance policy through their employers. In most cases, the employer helps pay for that insurance. Insurance through employers is often with a
+managed care
+plan. These plans contract with health care providers and medical facilities to provide care for members at reduced costs. You can also purchase health insurance on your own.
+People who meet certain requirements can qualify for government health insurance, such as
+Medicare
+and
+Medicaid
+. The Affordable Care Act expands health insurance coverage for many people in the U.S.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Insurance, Health
+
+Related Resources:
+
+Resource: Centers for Medicare & Medicaid Services
+Category: Find an Expert
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/
+
+Resource: Health Insurance Basics
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/insurance.html
+
+Resource: Health Insurance Data
+Category: Statistics and Research
+Organization: Bureau of the Census
+URL: https://www.census.gov/topics/health/health-insurance/data.html
+
+Resource: HealthCare.gov
+Category: Find an Expert
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.healthcare.gov/
+
+Resource: How to choose a health plan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000861.htm
+
+Resource: How to Get Help with Medical Expenses
+Category: Related Issues
+Organization: General Services Administration
+URL: https://www.usa.gov/help-with-medical-bills
+
+Resource: How to Shop for Health Insurance
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/buy-health-insurance.html
+
+Resource: Key Facts about the Uninsured Population
+Category: Statistics and Research
+Organization: KFF
+URL: https://www.kff.org/uninsured/key-facts-about-the-uninsured-population/
+
+Resource: Medical Bill Rights
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/medical-bill-rights
+
+Resource: Need Health Insurance?
+Category: Start Here
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.healthcare.gov/get-coverage/
+
+Resource: Health Insurance
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Insurance%2C+Health%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Savings account for health care costs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000864.htm
+
+Resource: Tips About the Health Insurance Marketplace
+Category: Start Here
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.healthcare.gov/quick-guide/
+
+Resource: Understanding health insurance plans
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000879.htm
+
+Resource: Understanding your health care costs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000878.htm
+
+Resource: Understanding your hospital bill
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000881.htm

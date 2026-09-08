@@ -1,0 +1,199 @@
+Title: Infectious Diseases
+
+Also Called:
+- Communicable diseases
+
+Summary:
+What are infectious diseases?
+Germs, or microbes, are found everywhere - in the air, soil, and water.  There are also germs on your skin and in your body.  Many of them are harmless, and some can even be helpful. But some of them can make you sick. Infectious diseases are diseases that are caused by germs.
+What are the different types of germs that cause infectious diseases?
+There are four main types of germs:
+Bacteria
+are one-celled germs that multiply quickly. They may give off toxins, which are harmful chemicals that can make you sick.
+Strep throat
+and
+urinary tract infections
+are common bacterial infections.
+Viruses
+are tiny capsules that contain genetic material. They invade your cells so that they can multiply. This can kill, damage, or change the cells and make you sick. Viral infections include
+HIV
+and the
+common cold
+.
+Fungi
+are primitive plant-like organisms such as mushrooms, mold, mildew, and yeasts.
+Athlete's foot
+and
+yeast infections
+are common fungal infections.
+Parasites
+are animals or plants that survive by living on or in other living things.
+Malaria
+and
+head lice
+are infections that are caused by parasites.
+How can you get infectious diseases?
+There are many different ways that you can get an infectious disease, depending on the type of germ. They can include:
+Through direct contact with a person who is sick. This includes kissing, touching, sneezing, coughing, and sexual contact. If you are
+pregnant
+, you can pass some germs to your fetus.
+Through indirect contact, when you touch something that has germs on it. For example, you could get germs if someone who is sick touched a door handle, and then you touch it.
+Through
+insect
+or
+animal
+bites.
+Through
+contaminated food
+, water, soil, or plants.
+What are the symptoms of infectious diseases?
+Infectious diseases can cause many different symptoms. Some are so mild that you may not even notice any symptoms, while others can be life-threatening.
+What are the treatments for infectious diseases?
+There are treatments for some infectious diseases, such as
+antibiotic
+, antiviral, antifungal and anti-parasitic medicines. But for other infections, such as some caused by viruses, you can only treat your symptoms while you wait for your
+immune system
+to fight off the germ.
+Can infectious diseases be prevented?
+You can take steps to help prevent many infectious diseases:
+Get
+vaccinated
+.
+Wash your hands often
+.
+Pay attention to
+food safety
+.
+Avoid contact with wild animals.
+Use a latex condom every time you have sex. If your or your partner is
+allergic to latex
+, you can use polyurethane condoms.
+Don't share items such as toothbrushes, combs, and straws.
+
+Groups:
+- Infections
+- Immune System
+
+MeSH Headings:
+- Communicable Diseases
+
+Related Resources:
+
+Resource: About Port Health
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/port-health/about/
+
+Resource: Antibiotic Resistance: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antibioticresistance.html
+
+Resource: Bacterial vs. Viral Infections: How Do They Differ?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098?p=1
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Childhood Contagious Diseases
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/childhood-contagious-diseases/?Imiw9cApl
+
+Resource: ClinicalTrials.gov: Communicable Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Communicable+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Coping with Stress during Infectious Disease Outbreaks
+Category: Living With
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://library.samhsa.gov/sites/default/files/sma14-4885.pdf
+
+Resource: CSF cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003625.htm
+
+Resource: FastStats: Infectious Disease
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/infectious-disease.htm
+
+Resource: Germs and Hygiene: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/germsandhygiene.html
+
+Resource: Germs: Understand and Protect against Bacteria, Viruses, and Infections
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289?p=1
+
+Resource: Infectious Diseases
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/symptoms-causes/syc-20351173?p=1
+
+Resource: Latex agglutination test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003334.htm
+
+Resource: National Foundation for Infectious Diseases
+Category: Find an Expert
+Organization: National Foundation for Infectious Diseases
+URL: https://www.nfid.org/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Overview of Infectious Diseases
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Overview-of-Infectious-Diseases.aspx
+
+Resource: PCR Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pcr-tests
+
+Resource: Infectious Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Communicable+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rapid Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rapid-tests/
+
+Resource: Recurrent Infections May Signal Immunodeficiencies
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/immuno-deficiency/recurrent-infections-immunodeficiencies
+
+Resource: Repeated Infections in Children
+Category: Children
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/repeated-infections-in-children/
+
+Resource: Taking Care of Your Behavioral Health: Tips for Social Distancing, Quarantine, and Isolation during an Infectious Disease Outbreak
+Category: Living With
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://library.samhsa.gov/sites/default/files/PEP20-01-01-007_2.pdf
+
+Resource: Types of Neglected Tropical Diseases
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/neglected-tropical-diseases-types
+
+Resource: What's the Difference Between Infectious and Contagious?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/contagious.html

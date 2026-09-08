@@ -1,0 +1,53 @@
+Title: Infecciones por micobacterias
+
+Also Called:
+- Infecciones micobacterianas
+
+Summary:
+Las micobacterias son un tipo de gérmen. Hay varios tipos. El más común causa la
+tuberculosis
+Otro causa la lepra. Y otros causan infecciones llamadas infecciones por micobacterias atípicas. No son "típicas" porque no causan tuberculosis, pero pueden provocar daño, sobre todo a personas con problemas inmunitarios, como el sida.
+A veces, usted puede tener estas infecciones pero no tener síntomas. En otras ocasiones, puede tener síntomas en los pulmones similares a los de la tuberculosis:
+Tos
+Pérdida de peso
+Tos con sangre o mucosidad
+Cansancio y fatiga
+Fiebre y escalofríos
+Transpiración de noche
+Falta de apetito
+Estas infecciones se pueden tratar con medicamentos, pero varias veces se necesita más de uno.
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Cultivo micobacteriano
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003740.htm
+
+Resource: Lepra
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001347.htm
+
+Resource: Lepra (enfermedad de Hansen)
+Category: Más información, Spanish/Español
+Organization: Departamento de Salud del Estado de Nueva York
+URL: https://www.health.ny.gov/es/diseases/communicable/leprosy/fact_sheet.htm
+
+Resource: Pruebas de bacilos acidorresistentes (BAAR)
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-bacilos-acidorresistentes-baar/
+
+Resource: Tinción del esputo para micobacterias
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003724.htm
+
+Resource: Úlcera de Buruli
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/buruli-ulcer-(mycobacterium-ulcerans-infection)

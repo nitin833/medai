@@ -1,0 +1,145 @@
+Title: Pesticidas
+
+Also Called:
+- Plaguicida
+
+Summary:
+Las plagas viven donde no son bienvenidas o causan daños a los cultivos, las personas o los animales. Los pesticidas pueden ayudar a librarse de ellas. Los pesticidas no solo sirven para matar insectos, también incluyen sustancias químicas para el control de hierbas, roedores, moho, gérmenes y otros. Muchos productos domésticos contienen pesticidas.
+Los pesticidas pueden proteger su salud al matar los gérmenes, los animales o las plantas que pueden causarle daño. Sin embargo, estos también pueden ser dañinos para las personas o las mascotas. Es posible que prefiera intentar primero métodos no químicos. Si necesita un pesticida, utilícelo correctamente. Tenga especial cuidado alrededor de niños y mascotas. También es importante desechar los pesticidas correctamente, puede ayudar a proteger el medio ambiente.
+Los pesticidas con base biológica están haciéndose más populares. Frecuentemente, son más seguros que los tradicionales.
+Agencia de Protección Ambiental
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Colinesterasa en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003358.htm
+
+Resource: Dónde empezar cuando hay incidentes con pesticidas
+Category: Spanish/Español, Especialistas
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/incidents.es.html
+
+Resource: Encuentre el repelente de insectos adecuado
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/control-de-plagas/encuentre-el-repelente-de-insectos-adecuado
+
+Resource: Información básica sobre pesticidas
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/informacion-basica-sobre-pesticidas
+
+Resource: Información de emergencias con pesticidas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/seguridad-pesticidas/informacion-de-emergencias-con-pesticidas
+
+Resource: Información sobre salud y seguridad de pesticidas
+Category: Comience aquí, Spanish/Español
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/health/index.es.html
+
+Resource: Ingredientes en pesticidas
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/ingred/index.es.html
+
+Resource: Intoxicación con diazinón
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002837.htm
+
+Resource: Intoxicación con herbicidas y matamalezas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002838.htm
+
+Resource: Intoxicación con insecticida
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002832.htm
+
+Resource: Intoxicación con malatión
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002834.htm
+
+Resource: Intoxicación con paradiclorobenceno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002902.htm
+
+Resource: Intoxicación con repelentes de insectos en aerosol
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002763.htm
+
+Resource: Intoxicación por paraquat
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007834.htm
+
+Resource: Lista para la prevención del envenenamiento por pesticidas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/sites/default/files/2015-10/documents/roombyroom-spanish.pdf
+
+Resource: Pesticidas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002430.htm
+
+Resource: Pesticidas y el medio ambiente
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/envir/index.es.html
+
+Resource: Pesticidas: Minimizando la exposición
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/factsheets/MinimizingExposure.es.html
+
+Resource: Pesticidas: ¿Cuál es mi riesgo?
+Category: Comience aquí, Spanish/Español
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/factsheets/WhatsMyRisk.es.html
+
+Resource: Plaguicidas en el agua subterránea
+Category: Spanish/Español, Niños/as
+Organization: Servicio Geológico de los Estados Unidos
+URL: https://water.usgs.gov/gotita/pesticidesgw.html
+
+Resource: Productos pesticidas ilegales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/productos-pesticidas-ilegales
+
+Resource: Usar insecticidas y repelentes de insectos durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/repellants.html
+
+Resource: Uso seguro de los pesticidas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/uso-seguro-de-los-pesticidas
+
+Resource: Vigilancia de enfermedades y lesiones causadas por los pesticidas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/surveillance/es/pesticide/vigilancia-de-enfermedades-y-lesiones-causadas-por-los-pesticidas.html
+
+Resource: ¿Cómo reducir los residuos de pesticidas en frutas y verduras? Lo que debe saber sobre el lavado de frutas y verduras
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/capro/fruitwash.es.html
+
+Resource: ¿Es tóxico si lo como o lo toco? ¿La ruta de exposición es importante?
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro Nacional de Información de Pesticidas
+URL: http://npic.orst.edu/capro/exposure.es.html

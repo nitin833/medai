@@ -1,0 +1,64 @@
+Title: Comprendiendo la investigación médica
+
+Summary:
+Casi todos los días se publican nuevos hallazgos de investigaciones médicas en revistas científicas. Estos artículos suelen convertirse en fuentes de noticias. Estos descubrimientos pueden ser herramientas importantes para ayudarle a manejar su salud. Pero no siempre es fácil comprenderlos y saber qué significan para su vida. Por ejemplo:
+Lo que se conoce acerca de un estudio puede no explicar cómo encaja en el panorama general
+En ocasiones, los resultados de un estudio parecen estar en desacuerdo con los resultados de otra investigación. Esto podría deberse a que los estudios podrían tener diseños diferentes y plantear preguntas diferentes. Las noticias no siempre lo explican
+A veces, los estudios son muy pequeños y los investigadores necesitan realizar más ensayos para confirmar los resultados. Pero las noticias sobre estos pequeños estudios pueden no mencionarlo
+Por ello, es importante pensar detenidamente al leer o escuchar informes de nuevos hallazgos médicos. Estas son algunas preguntas que pueden ayudarle a
+evaluar esa información
+:
+¿El estudio se realizó en animales o en seres humanos? Obtener ciertos resultados en animales puede no significar que obtenga los mismos resultados en seres humanos
+¿Las personas que participaron en el estudio eran similares a usted en aspectos que pueden ser importantes, como la edad, la raza o el sexo?
+¿Qué tan grande es el estudio? Los estudios más grandes pueden obtener resultados más confiables que los más pequeños
+¿Cuánto tiempo duró el estudio? Por ejemplo, los estudios que prueban medicamentos deben ser lo suficientemente largos como para mostrar beneficios o riesgos a largo plazo
+¿Qué tipo de estudio fue? Los
+ensayos clínicos
+, especialmente los ensayos controlados aleatorizados, brindan la información más clara sobre si un tratamiento es efectivo y seguro en humanos. En los ensayos controlados aleatorizados, las personas que participan en la investigación se dividen al azar en grupos separados que reciben diferentes tratamientos. Esto ayuda a prevenir el sesgo en los resultados
+¿Dónde se realizó la investigación?
+Si se estaba probando un nuevo tratamiento, ¿cuáles fueron los efectos secundarios? ¿Qué tan comunes fueron?
+¿Cómo se comparan los resultados del estudio con estudios anteriores? Si el nuevo estudio tiene resultados diferentes, se pueden necesitar más estudios para confirmar estos resultados
+¿Quién pagó por la investigación? A veces, las personas que pagan por la investigación podrían obtener ganancias económicas si el estudio obtiene ciertos resultados
+¿Quién informa los resultados? ¿Tienen algún sesgo?
+Puede ser útil mantenerse informado sobre los nuevos hallazgos médicos, pero se recomienda tener cierto escepticismo. Tenga estas preguntas en mente la próxima vez que escuche sobre un gran avance médico.
+
+Groups:
+- Asuntos sociales y familiares
+- Asuntos personales de salud
+
+Related Resources:
+
+Resource: Conozca la ciencia: Cómo comprender un artículo de una revista científica
+Category: Comience aquí, Spanish/Español
+Organization: Centro Nacional de Salud Complementaria e Integral
+URL: https://www.nccih.nih.gov/health/espanol/conozca-la-ciencia/entender-la-investigacion-clinica/introduccion
+
+Resource: Descubrimientos en ciencia básica: Un proceso perfectamente imperfecto
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/descubrimientos-en-ciencia-basica
+
+Resource: Estudios de investigación clínica y usted
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/investigacion-clinica/los-fundamentos
+
+Resource: Investigación clínica
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/investigacion-clinica
+
+Resource: Investigación clínica: Glosario de términos comunes
+Category: Información de referencia, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/investigacion-clinica/glosario-de-terminos-comunes
+
+Resource: Lo que usted debe saber antes de dar sus tejidos para investigación médica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer, Departamento de Salud y Servicios Humanos, Institutos Nacionales de la Salud
+URL: https://www.cancer.gov/espanol/cancer/dar-sus-tejidos.pdf
+
+Resource: Sea un científico ciudadano: Ayude a los investigadores a resolver problemas desconcertantes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sea-un-cientifico-ciudadano

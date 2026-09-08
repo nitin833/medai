@@ -1,0 +1,134 @@
+Title: Moles
+
+Also Called:
+- Nevus
+
+Summary:
+Moles are growths on the skin. They happen when pigment cells in the skin, called melanocytes, grow in clusters. Moles are very common. Most people have between 10 and 40 moles. A person may develop new moles from time to time, usually until about age 40. In older people, they tend to fade away.
+Moles are usually pink, tan or brown. They can be flat or raised. They are usually round or oval and no larger than a pencil eraser.
+About one out of every ten people has at least one unusual (or atypical) mole that looks different from an ordinary mole. They are called dysplastic nevi. They may be more likely than ordinary moles to develop into
+melanoma
+, a type of skin cancer. You should have a health care professional check your moles if they look unusual, grow larger, change in color or outline, or in any other way.
+NIH: National Cancer Institute
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Nevus
+
+Related Resources:
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: Atypical Moles
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/AtypicalMoles?
+
+Resource: Birthmarks (for parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/birthmarks.html
+
+Resource: Birthmarks - pigmented
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000828.htm
+
+Resource: ClinicalTrials.gov: Nevus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nevus%22&aggFilters=status:not%20rec
+
+Resource: Common Moles, Dysplastic Nevi, and Risk of Melanoma
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/moles-fact-sheet
+
+Resource: Congenital Melanocytic Nevus (Birthmark)
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/congenital-melanocytic-nevus/?Imiw9cApl=1
+
+Resource: Find a Dermatologic Surgeon
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/find-a-dermatologic-surgeon/advanced/true
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Giant congenital nevus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001453.htm
+
+Resource: Mole (Nevus)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/common-acquired-nevus-mole/?Imiw9cApl=1
+
+Resource: Mole, Atypical (Atypical Nevus)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/atypical-nevus/?Imiw9cApl=1
+
+Resource: Moles
+Category: Start Here
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Moles?
+
+Resource: Moles: Overview
+Category: Start Here
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/moles-overview?NoAds
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nevus Removal
+Category: Treatments and Therapies
+Organization: Nevus Outreach, Inc.
+URL: https://www.nevus.org/nevus-removal
+
+Resource: Psychological Challenges Associated with CMN
+Category: Living With
+Organization: Nevus Outreach, Inc.
+URL: https://www.nevus.org/psychological-challenges
+
+Resource: Moles
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Nevus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Skin self-exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000711.htm
+
+Resource: Treatment Options for Congenital Melanocytic Nevus
+Category: Treatments and Therapies
+Organization: Nevus Outreach, Inc.
+URL: https://www.nevus.org/treatment-options
+
+Resource: What Does a Mole Look Like?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/mole-photos
+
+Resource: What does LCMN (Large Congenital Melanocytic Nevus) Mean?
+Category: Specifics
+Organization: Nevus Outreach, Inc.
+URL: https://www.nevus.org/what-is-cmn

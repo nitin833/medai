@@ -1,0 +1,330 @@
+Title: Fluid and Electrolyte Balance
+
+Summary:
+What are electrolytes?
+Electrolytes are
+minerals
+that have an electric charge when they are dissolved in water or body fluids, including blood. The electric charge can be positive or negative. You have electrolytes in your blood, urine (pee), tissues, and other body fluids.
+Electrolytes are important because they help:
+Balance the amount of water in your body
+Balance your body's acid/base (pH) level
+Move nutrients into your cells
+Move wastes out of your cells
+Support your muscle and nerve function
+Keep your heart rate and rhythm steady
+Keep your blood pressure stable
+Keep your bones and teeth healthy
+What are the different types of electrolytes in your body?
+The main electrolytes in your body include:
+Bicarbonate, which helps maintain the body's acid and base balance (pH). It also plays an important role in moving carbon dioxide through the bloodstream.
+Calcium
+, which helps make and keep bones and teeth strong.
+Chloride, which also helps control the amount of fluid in the body. In addition, it helps maintain healthy blood volume and blood pressure.
+Magnesium, which helps your muscles, nerves, and heart work properly. It also helps control blood pressure and
+blood glucose
+(blood sugar).
+Phosphate, which works together with calcium to build strong bones and teeth.
+Potassium
+, which helps your cells, heart, and muscles work properly.
+Sodium
+, which helps control the amount of fluid in the body. It also helps your nerves and muscles work properly.
+You get these electrolytes from the foods you eat and the fluids you drink.
+What is an electrolyte imbalance?
+An electrolyte imbalance means that the level of one or more electrolytes in your body is too low or too high. It can happen when the amount of water in your body changes. The amount of water that you take in should equal the amount you lose. If something upsets this balance, you may have too little water (
+dehydration
+) or too much water (overhydration). Some of the more common reasons why you might have an imbalance of the water in your body include:
+Certain medicines
+Severe
+vomiting
+and/or
+diarrhea
+Heavy
+sweating
+Heart
+,
+liver
+or
+kidney
+problems
+Not drinking enough fluids, especially when doing intense exercise or when the weather is very hot
+Drinking too much water
+What are the different types of electrolyte imbalances?
+The names of the different types of electrolyte imbalances are:
+Electrolyte
+Too low
+Too high
+Bicarbonate
+Acidosis
+Alkalosis
+Calcium
+Hypocalcemia
+Hypercalcemia
+Chloride
+Hypochloremia
+Hyperchloremia
+Magnesium
+Hypomagnesemia
+Hypermagnesemia
+Phosphate
+Hypophosphatemia
+Hyperphosphatemia
+Potassium
+Hypokalemia
+Hyperkalemia
+Sodium
+Hyponatremia
+Hypernatremia
+How are electrolyte imbalances diagnosed?
+A test called an
+electrolyte panel
+can check the levels of your body's main electrolytes. A related test, the
+anion gap blood test
+, checks whether your electrolytes are out of balance or if your blood is too acidic or not acidic enough.
+What are the treatments for electrolyte imbalances?
+The treatment for an electrolyte imbalance depends on which electrolytes are out of balance, if there is too little or too many, and what is causing the imbalance. In minor cases, you may just need to make some changes to your diet. In other cases, you may need other treatments. For example:
+If you don't have enough of an electrolyte, you may get electrolyte replacement therapy. This involves giving you more of that electrolyte. It could be a medicine or supplement that you swallow or drink, or it may be given intravenously (by IV).
+If you have too much of an electrolyte, your provider may give you medicines or fluids (by mouth or by IV) to help remove that electrolyte from your body. In severe cases, you may need
+dialysis
+to filter out the electrolyte.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Water-Electrolyte Balance
+- Water-Electrolyte Imbalance
+
+Related Resources:
+
+Resource: About Body Water
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/kidney-disorders/water-balance/about-body-water
+
+Resource: Aldosterone blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003704.htm
+
+Resource: Anion Gap Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/anion-gap-blood-test/
+
+Resource: Antidiuretic hormone blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003702.htm
+
+Resource: Autosomal dominant hypocalcemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-hypocalcemia
+
+Resource: Basic Blood Chemistry Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest5.html
+
+Resource: Basic metabolic panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003462.htm
+
+Resource: Basic Metabolic Panel (BMP)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/basic-metabolic-panel-bmp/
+
+Resource: Capillary nail refill test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003394.htm
+
+Resource: Carbon Dioxide (CO2) in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/carbon-dioxide-co2-in-blood/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chloride - urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003601.htm
+
+Resource: Chloride Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chloride-blood-test/
+
+Resource: Chloride test - blood
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003485.htm
+
+Resource: ClinicalTrials.gov: Water-Electrolyte Imbalance
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Water-Electrolyte+Imbalance%22&aggFilters=status:not%20rec
+
+Resource: CO2 blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003469.htm
+
+Resource: Comprehensive Metabolic Panel (CMP)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/
+
+Resource: Electrolyte Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electrolyte-panel/
+
+Resource: Electrolytes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002350.htm
+
+Resource: Fluid imbalance
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001187.htm
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: H20 for Healthy Aging
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/h20-for-healthy-aging
+
+Resource: Hydrating for Health: Why Drinking Water Is So Important
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/05/hydrating-health
+
+Resource: Hypomagnesemia with secondary hypocalcemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypomagnesemia-with-secondary-hypocalcemia
+
+Resource: Hypophosphatemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000307.htm
+
+Resource: Isolated hyperchlorhidrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-hyperchlorhidrosis
+
+Resource: Low blood sodium
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000394.htm
+
+Resource: Magnesium blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003487.htm
+
+Resource: Magnesium Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/magnesium-blood-test/
+
+Resource: Magnesium deficiency
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000315.htm
+
+Resource: Milk-alkali syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000332.htm
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Osmolality blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003463.htm
+
+Resource: Osmolality Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/osmolality-tests/
+
+Resource: Osmolality urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003609.htm
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Pseudohypoaldosteronism type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pseudohypoaldosteronism-type-1
+
+Resource: Fluid and Electrolyte Balance
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Water-Electrolyte+Balance%22%5Bmajr%3Anoexp%5D+OR+%22Water-Electrolyte+Imbalance%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Skin turgor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003281.htm
+
+Resource: Sodium Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sodium-blood-test/
+
+Resource: Sodium urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003599.htm
+
+Resource: Thirst - absent
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003086.htm
+
+Resource: Urine concentration test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003608.htm
+
+Resource: Urine output - decreased
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003147.htm
+
+Resource: Urine specific gravity test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003587.htm
+
+Resource: Water in diet
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002471.htm
+
+Resource: Water: How Much Should You Drink Every Day?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?p=1

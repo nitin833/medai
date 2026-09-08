@@ -1,0 +1,131 @@
+Title: Sudden Infant Death Syndrome
+
+Also Called:
+- Crib death
+- SIDS
+
+Summary:
+Sudden infant death syndrome (SIDS) is the sudden, unexplained death of an infant younger than one year old. Some people call SIDS "crib death" because many babies who die of SIDS are found in their cribs.
+SIDS is the leading cause of death in children between one month and one year old.  Most SIDS deaths occur when babies are between one month and four months old. Premature babies, boys, African Americans, and American Indian/Alaska Native infants have a higher risk of SIDS.
+Although the cause of SIDS is unknown, there are steps you can take to reduce the risk. These include:
+Placing your baby on his or her back to sleep, even for short naps. "Tummy time" is for when babies are awake and someone is watching
+Having your baby sleep in your room for at least the first six months. Your baby should sleep close to you, but on a separate surface designed for infants, such as a crib or bassinet.
+Using a firm sleep surface, such as a crib mattress covered with a fitted sheet
+Keeping soft objects and loose bedding away from your baby's sleep area
+Breastfeeding
+your baby
+Making sure that your baby doesn't get too hot. Keep the room at a comfortable temperature for an adult.
+Not smoking during pregnancy or allowing anyone to smoke near your baby
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Sudden Infant Death
+
+Related Resources:
+
+Resource: About Safe Sleep for Babies: Definitions & Terms
+Category: Reference Desk
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/about/terms
+
+Resource: Back to Sleep, Tummy to Play
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/baby/sleep/pages/Back-to-Sleep-Tummy-to-Play.aspx
+
+Resource: ClinicalTrials.gov: Sudden Infant Death
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22sudden+infant+death%22&aggFilters=status:not%20rec
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Frequently Asked Questions About SIDS and Safe Infant Sleep
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/reduce-risk/FAQ
+
+Resource: Helping Babies Sleep Safely
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/reproductive-health/features/babies-sleep.html
+
+Resource: How to Keep Your Sleeping Baby Safe
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/baby/sleep/pages/a-parents-guide-to-safe-sleep.aspx
+
+Resource: Infant Mortality
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/maternal-infant-health/infant-mortality/
+
+Resource: Providing Care for Babies to Sleep Safely
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sudden-infant-death/sleep-safely/
+
+Resource: Sudden Infant Death Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sudden+Infant+Death%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safe Sleep Environment for Baby
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/reduce-risk/safe-sleep-environment
+
+Resource: Safe Sleep for Baby: Reducing the Risk of SIDS
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/12/safe-sleep-baby
+
+Resource: Safe Sleep for Your Baby: Reduce the Risk of SIDS and Other Sleep-Related Causes of Infant Death
+Category: Prevention and Risk Factors
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/sites/default/files/publications/pubs/Documents/NICHD_Safe_to_Sleep_brochure.pdf
+
+Resource: Sudden infant death syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001566.htm
+
+Resource: Sudden Infant Death Syndrome (SIDS)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sudden-infant-death-syndrome/symptoms-causes/syc-20352800?p=1
+
+Resource: Sudden Infant Death Syndrome (SIDS) and Vaccines
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/about/sids.html
+
+Resource: Sudden infant death with dysgenesis of the testes syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sudden-infant-death-with-dysgenesis-of-the-testes-syndrome
+
+Resource: Tummy Time for a Healthy Baby
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/reduce-risk/tummy-time
+
+Resource: Ways to Reduce Baby's Risk
+Category: Prevention and Risk Factors
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/reduce-risk/reduce
+
+Resource: What Causes SIDS?
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/about/causes
+
+Resource: What Is SIDS?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://safetosleep.nichd.nih.gov/about/sids-definition

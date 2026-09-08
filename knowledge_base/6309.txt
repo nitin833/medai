@@ -1,0 +1,46 @@
+Title: Prueba de hemoglobina glicosilada (HbA1c)
+
+Also Called:
+- Prueba de A1c
+- Prueba de hemoglobina glucosilada
+
+Summary:
+La prueba de hemoglobina glicosilada (HbA1c) es un examen de sangre para la
+diabetes tipo 2
+y
+prediabetes
+. Mide el nivel promedio de
+glucosa o azúcar en la sangre
+durante los últimos tres meses. Los médicos pueden usar la prueba HbA1c sola o en combinación con otras pruebas de diabetes para hacer un diagnóstico. También utilizan la HbA1c para ver lo bien que está manejando su diabetes. Esta prueba es diferente a los controles de azúcar en la sangre que las personas con diabetes se hacen todos los días.
+El resultado de su prueba HbA1c se entrega en porcentajes. Mientras más alto sea el porcentaje, mayor es su nivel de azúcar en la sangre:
+Un nivel de HbA1c normal es menor al 5,7%
+La prediabetes se ubica entre 5,7 a 6,4%. Tener prediabetes es un factor de riesgo para desarrollar diabetes tipo 2. Las personas con prediabetes pueden necesitar repetir las pruebas cada año
+La diabetes tipo 2 se ubica por encima del 6,5%
+Si usted tiene diabetes, debe someterse a la prueba HbA1c por lo menos dos veces al año. Para muchas personas con diabetes, la meta de HbA1c es  un porcentaje inferior a siete. Puede ser diferente para usted. Consulte cuál debería ser su meta. Si el resultado de HbA1c es demasiado alto, es posible que tenga que cambiar su plan de cuidado de la diabetes.
+NIH: Instituto Nacional de la Diabetes y Enfermedades Digestivas y Renales
+
+Groups:
+- Pruebas de diagnóstico
+- Diabetes mellitus
+
+Related Resources:
+
+Resource: Análisis de sangre: Hemoglobina A1c
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/blood-test-hba1c.html
+
+Resource: Examen de A1C
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003640.htm
+
+Resource: Prueba de A1C y la diabetes
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/prueba-a1c-diabetes
+
+Resource: Prueba de hemoglobina A1c
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-hemoglobina-a1c/

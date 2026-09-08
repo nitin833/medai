@@ -1,0 +1,204 @@
+Title: Aortic Aneurysm
+
+Summary:
+An
+aneurysm
+is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death.
+Most aneurysms are in the aorta, the main artery that runs from the heart through the chest and abdomen.
+There are two types of aortic aneurysm:
+Thoracic aortic aneurysms (TAA) - these occur in the part of the aorta running through the chest
+Abdominal aortic aneurysms (AAA) - these occur in the part of the aorta running through the abdomen
+Most aneurysms are found during tests done for other reasons. Some people are at high risk for aneurysms. It is important for them to get screening, because aneurysms can develop and become large before causing any symptoms. Screening is recommended for people between the ages of 65 and 75 if they have a family history, or if they are men who have smoked. Doctors use imaging tests to find aneurysms. Medicines and surgery are the two main treatments.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Aortic Aneurysm
+
+Related Resources:
+
+Resource: Abdominal aortic aneurysm
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000162.htm
+
+Resource: Abdominal Aortic Aneurysm (AAA)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdoaneurysm
+
+Resource: Abdominal aortic aneurysm repair - open
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007392.htm
+
+Resource: Abdominal aortic aneurysm repair - open - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000240.htm
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: About Aortic Aneurysm
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease/about/aortic-aneurysm.html
+
+Resource: Aneurysm Repair
+Category: Treatments and Therapies
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/aneurysm-repair/
+
+Resource: Aortic Aneurysm
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/aortic-aneurysm.html
+
+Resource: Aortic aneurysm repair - endovascular
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007391.htm
+
+Resource: Aortic aneurysm repair - endovascular- discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000236.htm
+
+Resource: Aortic dissection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000181.htm
+
+Resource: Aortic Dissection
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/aortic-dissection/symptoms-causes/syc-20369496?p=1
+
+Resource: Causes and Risk Factors
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm/causes
+
+Resource: Chest MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003794.htm
+
+Resource: ClinicalTrials.gov: Aneurysm, Dissecting
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aneurysm,+Dissecting%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Aortic Aneurysm
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aortic+Aneurysm%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Aortic Aneurysm, Abdominal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aortic+Aneurysm,+Abdominal%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Aortic Aneurysm, Thoracic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aortic+Aneurysm,+Thoracic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Aortic Dissection
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aortic+Dissection%22&aggFilters=status:not%20rec
+
+Resource: Diagnosis
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm/diagnosis
+
+Resource: Familial thoracic aortic aneurysm and dissection: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-thoracic-aortic-aneurysm-and-dissection/
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Living With
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm/living-with
+
+Resource: Loeys-Dietz syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/loeys-dietz-syndrome/
+
+Resource: Magnetic resonance angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007269.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pseudoaneurysm: What Causes It?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cardiac-catheterization/expert-answers/pseudoaneurysm/faq-20058420?p=1
+
+Resource: Abdominal aortic aneurysm
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Aortic+Aneurysm%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Screening for Abdominal Aortic Aneurysm
+Category: Diagnosis and Tests
+Organization: Department of Veterans Affairs
+URL: https://www.prevention.va.gov/PREVENTION/Preventing_Diseases/Screening_for_Abdominal_Aortic_Aneurysm.asp
+
+Resource: Symptoms
+Category: Symptoms
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm/symptoms
+
+Resource: Talk with Your Doctor About Abdominal Aortic Aneurysm
+Category: Specifics
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/health-conditions/heart-health/talk-your-doctor-about-abdominal-aortic-aneurysm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Thoracic aortic aneurysm
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001119.htm
+
+Resource: Treatment
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm/treatment
+
+Resource: What Is Aortic Aneurysm?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/aortic-aneurysm

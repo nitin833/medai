@@ -1,0 +1,110 @@
+Title: Pólipos del colon
+
+Summary:
+Un pólipo es una parte de tejido adicional que crece dentro de su cuerpo. Los pólipos de colon crecen en el intestino grueso o colon. La mayoría de los pólipos no son peligrosos. Sin embargo, ciertos pólipos pueden convertirse en cancerosos o ya ser cáncer. Como medida de seguridad, los médicos extirpan los pólipos y los examinan. Los pólipos pueden ser extirpados cuando un médico examina el interior del intestino grueso durante una
+colonoscopía
+.
+Cualquier persona puede tener pólipos, pero algunas tienen más probabilidades que otras. Usted tiene mayor probabilidad de tener pólipos si:
+Tiene más de 50 años de edad
+Ha tenido pólipos anteriormente
+Tiene un familiar con pólipos
+Tiene antecedentes de
+cáncer de colon
+La mayoría de los pólipos de colon no causan síntomas. Si tiene síntomas, éstos pueden incluir la presencia de sangre en la ropa interior o el papel higiénico después de evacuar, sangre en las heces o estreñimiento o diarrea que perdura más de una semana.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Cánceres
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta tras resección del intestino grueso
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000151.htm
+
+Resource: Biopsia de pólipos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003415.htm
+
+Resource: Colonoscopia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003886.htm
+
+Resource: Colonoscopía: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/colonoscopy.html
+
+Resource: Cómo comprender los pólipos del colon y su tratamiento
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-los-p%C3%B3lipos-del-colon-y-su-tratamiento-peb08s
+
+Resource: Enema opaco
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003817.htm
+
+Resource: Exámenes para detectar el cáncer colorrectal y los pólipos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/colorrectal/hoja-informativa-deteccion
+
+Resource: Proctocolectomía total con ileostomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007381.htm
+
+Resource: Proctocolectomía total y bolsa íleoanal
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007380.htm
+
+Resource: Pólipos colorrectales
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000266.htm
+
+Resource: Pólipos en el colon
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/polipos-colon
+
+Resource: Pólipos gastrointestinales
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/polipos-gastrointestinales/?lang=es
+
+Resource: Resección del intestino grueso
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002941.htm
+
+Resource: Resección del intestino grueso
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100089_1.htm
+
+Resource: Síndrome de Peutz-Jeghers
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000244.htm
+
+Resource: Tratamiento para los pólipos de colon
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/polipos-colon/tratamiento
+
+Resource: Tránsito gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior
+
+Resource: ¿Se pueden encontrar los pólipos y el cáncer colorrectal en sus etapas iniciales?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-colon-o-recto/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html

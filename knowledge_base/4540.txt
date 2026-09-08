@@ -1,0 +1,80 @@
+Title: Infecciones por estafilococo resistente a la meticilina
+
+Also Called:
+- SARM
+
+Summary:
+SARM (MRSA en inglés) son las siglas en español para las infecciones por
+estafilococo aureus
+resistente a la meticiclina. Esta bacteria provoca infecciones que son resistentes a varios
+antibióticos
+comunes. Existen dos tipos de esta infección: la SARM hospitalaria, que es la que ocurre en las personas que se encuentran  en hospitales o centros de cuidado de la salud y la SARM adquirida en la comunidad que es la que se presenta en personas que tienen contacto directo y cercano con otras personas, tales como los atletas que practican fútbol americano o lucha.
+Para detener la SARM en los hospitales es importante un eficiente
+control de la infección
+. Para prevenir la SARM adquirida en la comunidad:
+Ponga en práctica las buenas costumbres de higiene
+Mantenga las cortaduras o los arañazos limpios y cubiertos con un vendaje hasta su curación
+Evite el contacto con las heridas o las vendas de otras personas
+Evite compartir artículos personales, como toallas, toallitas faciales, rasuradoras o ropa
+Lave las sábanas, las toallas y la ropa contaminada en agua caliente con cloro y séquelas en una secadora de calor
+Si una herida parece estar infectada, consulte a un profesional de la salud.  El tratamiento puede incluir drenar la infección y tomar antibióticos.
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cómo prevenir los piojos, los oxiuros y el SARM (staphylococcus aureus resistente a la meticilina) en la piscina
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/healthy-swimming/es/prevention/como-prevenir-los-piojos-los-oxiuros-y-el-sarm-staphylococcus-aureus-resistente-a-la-meticilina.html
+
+Resource: Estafilococo aureus (infección de estafilococo) y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/estafilococo-aureus/pdf/
+
+Resource: Hisopado nasal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hisopado-nasal/
+
+Resource: Infecciones por estafilococos en el hospital
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000449.htm
+
+Resource: Infecciones por SARM
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/mrsa.html
+
+Resource: Infección por SARM
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mrsa/symptoms-causes/syc-20375336?p=1
+
+Resource: Pruebas de SARM
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-sarm/
+
+Resource: SARM
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/mrsa.html
+
+Resource: SARM y el sitio de trabajo
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/niosh/docs/2013-112_sp/
+
+Resource: Staphylococcus aureus resistente a meticilina (SARM)
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007261.htm

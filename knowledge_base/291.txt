@@ -1,0 +1,113 @@
+Title: Hypothermia
+
+Also Called:
+- Cold-related illness
+
+Summary:
+Cold weather can affect your body in different ways. You can get
+frostbite
+, which is an injury to the body that is caused by freezing. Your body can also lose heat faster than you can produce it. That can cause hypothermia, or abnormally low body temperature. It can make you sleepy, confused, and clumsy. Because it happens gradually and affects your thinking, you may not realize you need help. That makes it especially dangerous. A body temperature below 95 °F (35 °C) is a medical emergency and can lead to death if not treated promptly.
+Anyone who spends much time outdoors in cold weather can get hypothermia. You can also get it from being cold and wet, or under cold water for too long. Babies and old people are especially at risk. Babies can get it from sleeping in a cold room.
+Centers for Disease Control and Prevention
+
+Groups:
+- Injuries and Wounds
+- Symptoms
+
+MeSH Headings:
+- Hypothermia
+
+Related Resources:
+
+Resource: Avoid Frostbite and Hypothermia
+Category: Prevention and Risk Factors
+Organization: National Safety Council
+URL: https://www.nsc.org/community-safety/safety-topics/seasonal-safety/winter-safety/frostbite
+
+Resource: ClinicalTrials.gov: Hypothermia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypothermia%22&aggFilters=status:not%20rec
+
+Resource: Cold intolerance
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003095.htm
+
+Resource: Cold Stress Can Be Prevented
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/winter-weather/cold-stress
+
+Resource: Cold Weather Safety for Older Adults
+Category: Start Here
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/safety/cold-weather-safety-older-adults
+
+Resource: Exercising Outdoors: Safety Tips for Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/exercise-and-physical-activity/safety-tips-exercising-outdoors-older-adults
+
+Resource: How to prevent frostbite and hypothermia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000866.htm
+
+Resource: Hypothermia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000038.htm
+
+Resource: Hypothermia and Frostbite: Easier to Develop Than You Might Think
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/hypothermia-and-frostbite-easier-to-develop-than-you-might-think
+
+Resource: Hypothermia: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-hypothermia/basics/art-20056624?p=1
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: National Institute on Aging
+Category: Find an Expert
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/
+
+Resource: Occupational Safety and Health Administration
+Category: Find an Expert
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/
+
+Resource: Playing Outside in Winter: Tips to Keep Kids Warm and Safe
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Winter-Safety.aspx
+
+Resource: Preventing Hypothermia
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/winter-weather/prevention/
+
+Resource: Hypothermia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hypothermia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: The Hazards of Hypothermia: Stay Warm in Cold Weather
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/12/hazards-hypothermia
+
+Resource: Working in the Cold
+Category: Related Issues
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/cold-stress/about/

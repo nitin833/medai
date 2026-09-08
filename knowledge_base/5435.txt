@@ -1,0 +1,105 @@
+Title: Baby Health Checkup
+
+Summary:
+There are many new responsibilities when you have a baby. One of them is to make sure that your baby gets regular checkups, which are also called well-baby exams. These exams are important in making sure that your baby is growing and developing properly. If there are any problems, they can be caught early, when they may be easier to treat. Your baby's health care provider will let you know how often your baby should get a checkup.
+During these checkups, the provider will give your baby a complete physical exam, which includes:
+Checking your baby's height and weight
+Looking at their head, ears, nose, and mouth
+Listening to their heart and lungs
+Testing their hearing and vision (for some visits)
+Checking their reflexes
+The provider will ask you about your
+baby's development
+.  For example, they may ask when the baby started smiling and rolling over. During certain visits, the provider will do
+developmental and behavioral screening tests
+.
+The provider will use all of this information from the visit to check if your baby is meeting important developmental milestones.
+Your baby will also get any needed
+vaccines
+and
+screenings
+during the exam. And you can ask the provider any questions you might have about how to
+care for your baby
+.
+You can prepare for your baby's checkups by:
+Making a list of issues and questions you want to discuss with the provider
+Being prepared to answer questions about your baby's behavior and eating and sleeping habits
+Being ready to take notes at the visit
+In addition to these checkups, you can contact the provider any time if your baby seems sick or if you are worried about their development.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Physical Examination
+
+Related Resources:
+
+Resource: AAP (American Academy of Pediatrics) Schedule of Well-Child Care Visits
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pages/Well-Child-Care-A-Check-Up-for-Success.aspx
+
+Resource: Choosing a Pediatrician for Your New Baby
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/find-ped.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Getting the Most From a Doctor's Visit
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/talk-doctor.html
+
+Resource: Getting to Know Your Newborn
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/newborn-variations.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Baby Health Checkup
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Physical+Examination%22%5Bmajr%3Anoexp%5D+AND+infant+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Visiting The Pediatrician: The First Year
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/family-life/health-management/pages/Visiting-The-Pediatrician-The-First-Year.aspx
+
+Resource: Well-child visits
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001928.htm
+
+Resource: What Can Parents Expect During Their Infant's Well-Child Visits?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/infantcare/conditioninfo/well-child-visit
+
+Resource: Your Child's Checkups
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/checkups.html
+
+Resource: Your Child's First Vaccines: What You Need to Know
+Category: Patient Handouts, Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/multi.pdf

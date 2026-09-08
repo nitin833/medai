@@ -1,0 +1,117 @@
+Title: College Health
+
+Summary:
+College life involves excitement, along with new challenges, risks, and responsibilities. You are meeting new people, learning new things, and making your own decisions. It can sometimes be stressful.  You have to deal with pressures related to food, drink, appearance, drugs, and sexual activity.
+There are steps you can take to stay healthy and safe while you're in college:
+Eat a balanced diet
+Get enough sleep
+Get regular physical activity
+Maintain your health with checkups and vaccinations
+If you decide to have sex, practice safe sex
+Make smart choices about alcohol and drugs
+Get help if you are stressed or depressed
+Centers for Disease Control and Prevention
+
+Groups:
+- Children and Teenagers
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Universities
+- Students
+
+Related Resources:
+
+Resource: (Vaccines for) Adults Ages 19 through 26
+Category: Prevention and Risk Factors
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/who-and-when/adults/adults-19-26/index.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: College Student Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22college+students%22&aggFilters=status:not%20rec
+
+Resource: College Eating and Fitness 101
+Category: Specifics
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/eating-and-fitness-in-college/
+
+Resource: College Health: General Information (for Young Women)
+Category: Specifics
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/college-health/
+
+Resource: College Health: Health Services and Common Health Problems
+Category: Related Issues
+Organization: Boston Children's Hospital
+URL: https://youngmenshealthsite.org/guides/college-health-common-problems/
+
+Resource: College students and the flu
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007446.htm
+
+Resource: College Students with ADHD
+Category: Related Issues
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/College-Students-with-ADHD-111.aspx
+
+Resource: College Women's Health
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/owh-resources-stakeholders/college-womens-health
+
+Resource: College-Age and Young Adults
+Category: Specifics
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/research-topics/college-age-young-adults
+
+Resource: Common Health Problems at College
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/young-adult/Pages/Health-Care-for-College-Students.aspx
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Fall Semester -- A Time for Parents To Discuss the Risks of College Drinking
+Category: Specifics
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/time-for-parents-discuss-risks-college-drinking
+
+Resource: Harmful and Underage College Drinking
+Category: Statistics and Research
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/college-drinking
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Meningococcal Disease in Preteens, Teens & Young Adults
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/teen/Pages/Meningococcal-Disease-Information-for-Teens-and-College-Students-.aspx
+
+Resource: Preparing for College
+Category: Specifics
+Organization: Food Allergy Research & Education
+URL: https://www.foodallergy.org/resources/preparing-college
+
+Resource: College Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Students%22%5Bmajr%5D+AND+%22Universities%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: Underage Drinking: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/underagedrinking.html

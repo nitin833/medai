@@ -1,0 +1,215 @@
+Title: Tonsillitis
+
+Also Called:
+- Tonsil Inflammation
+
+Summary:
+What are tonsils?
+Tonsils are lumps of tissue at the back of the throat. There are two of them, one on each side. Along with the
+adenoids
+, tonsils are part of the lymphatic system. The lymphatic system clears away infection and keeps body fluids in balance.  Tonsils and adenoids work by trapping the germs coming in through the mouth and nose.
+What is tonsillitis?
+Tonsillitis is an inflammation (swelling) of the tonsils. Sometimes along with tonsillitis, the adenoids are also swollen.
+What causes tonsillitis?
+The cause of tonsillitis is usually a viral infection. Bacterial infections such as
+strep throat
+can also cause tonsillitis.
+Who is at risk for tonsillitis?
+Tonsillitis is most common in children over age two. Almost every child in the United States gets it at least once. Tonsillitis caused by bacteria is more common in kids ages 5-15. Tonsillitis caused by a virus is more common in younger children.
+Adults can get tonsillitis, but it is not very common.
+Is tonsillitis contagious?
+Although tonsillitis is not contagious, the viruses and bacteria that cause it are contagious.
+Frequent handwashing
+can help prevent spreading or catching the infections.
+What are the symptoms of tonsillitis?
+The symptoms of tonsillitis include:
+A
+sore throat
+, which may be severe
+Red, swollen tonsils
+Trouble swallowing
+A white or yellow coating on the tonsils
+Swollen glands in the neck
+Fever
+Bad breath
+When does my child need to see a health care provider for tonsillitis?
+You should call your health care provider if your child:
+Has a sore throat for more than two days
+Has trouble or pain when swallowing
+Feels very sick or very weak
+You should get emergency care right away if your child:
+Has trouble breathing
+Starts drooling
+Has a lot of trouble swallowing
+How is tonsillitis diagnosed?
+To diagnose tonsillitis, your child's health care provider will first ask you about your child's symptoms and medical history. The provider will look at your child's throat and neck, checking for things such as redness or white spots on the tonsils and swollen lymph nodes.
+Your child will probably also have one or more tests to check for strep throat, since it can cause tonsillitis and it requires treatment. It could be a rapid strep test, a throat culture, or both. For both tests, the provider uses a cotton swab to collect a sample of fluids from your child's tonsils and the back of the throat. With the rapid strep test, testing is done in the office, and you get the results within minutes. The throat culture is done in a lab, and it usually takes a few days to get the results. The throat culture is a more reliable test. So sometimes if the rapid strep test is negative (meaning that it does not show any strep bacteria), the provider will also do a throat culture just to make sure that your child does not have strep.
+What are the treatments for tonsillitis?
+Treatment for tonsillitis depends on the cause. If the cause is a virus, there is no medicine to treat it. If the cause is a bacterial infection, such as strep throat, your child will need to take
+antibiotics
+. It is important for your child to finish the antibiotics even if he or she feels better. If treatment stops too soon, some bacteria may survive and re-infect your child.
+No matter what is causing the tonsillitis, there are some things you can do to help your child feel better. Make sure that your child:
+Gets a lot of rest
+Drinks plenty of fluids
+Tries eating soft foods if it hurts to swallow
+Tries eating warm liquids or cold foods like popsicles to soothe the throat
+Isn't around cigarette smoke or anything else that could irritate the throat
+Sleeps in a room with a humidifier
+Gargles with saltwater
+Sucks on a lozenge (but do not give them to children under four; they can choke on them)
+Takes an over-the-counter
+pain reliever
+such as acetaminophen. Children and teenagers should not take aspirin.
+In some cases, your child may need a tonsillectomy.
+What is a tonsillectomy and why might my child need one?
+A tonsillectomy is surgery to remove the tonsils. Your child might need it if he or she:
+Keeps getting tonsillitis
+Has bacterial tonsillitis that does not get better with antibiotics
+Has tonsils that are too big and are causing trouble breathing or swallowing
+Your child usually gets the surgery and goes home later that day. Very young children and people who have complications may need to stay in the hospital overnight. It can take a week or two before your child completely recovers from the surgery.
+
+Groups:
+- Children and Teenagers
+- Ear, Nose and Throat
+- Mouth and Teeth
+- Immune System
+
+MeSH Headings:
+- Tonsillectomy
+- Tonsillitis
+
+Related Resources:
+
+Resource: American Academy of Otolaryngology--Head and Neck Surgery
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.entnet.org/
+
+Resource: ClinicalTrials.gov: Tonsil Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tonsil%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tonsillectomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=tonsillectomy&aggFilters=status:not%20rec
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Peritonsillar abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000986.htm
+
+Resource: Peritonsillar Abscess (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/peritonsillar-abscess.html
+
+Resource: Tonsillitis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tonsillectomy%22%5Bmajr%3Anoexp%5D+OR+%22Tonsillitis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recurring Strep Throat: When Is Tonsillectomy Useful?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/strep-throat/expert-answers/recurring-strep-throat/faq-20058360?p=1
+
+Resource: Strep Throat, Sore Throat or Tonsillitis: What's the Difference?
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/The-Difference-Between-a-Sore-Throat-Strep-and-Tonsillitis.aspx
+
+Resource: Think Tonsillitis Is Just for Kids? Think Again
+Category: Treatments and Therapies
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/diseases-and-conditions/think-tonsillitis-is-just-for-kids-think-again
+
+Resource: Tonsil and adenoid removal - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000155.htm
+
+Resource: Tonsil removal - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000229.htm
+
+Resource: Tonsillar Cellulitis and Tonsillar Abscess
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/ear-nose-and-throat-disorders/mouth-and-throat-disorders/tonsillar-cellulitis-and-tonsillar-abscess
+
+Resource: Tonsillectomies and children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001998.htm
+
+Resource: Tonsillectomy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/tonsillectomy/about/pac-20395141?p=1
+
+Resource: Tonsillectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003013.htm
+
+Resource: Tonsillectomy (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tonsil.html
+
+Resource: Tonsillectomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100122_1.htm
+
+Resource: Tonsillitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001043.htm
+
+Resource: Tonsillitis
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/tonsillitis/
+
+Resource: Tonsillitis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tonsillitis/symptoms-causes/syc-20378479?p=1
+
+Resource: Tonsillitis (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/tonsillitis.html
+
+Resource: Tonsillitis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tonsillitis.html
+
+Resource: Tonsillitis (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/tonsillitis.html
+
+Resource: Tonsillitis: Symptoms and Treatment
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/Tonsillitis.aspx
+
+Resource: Tonsils
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/tonsils.html
+
+Resource: Tonsils and Adenoids
+Category: Specifics
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/tonsils-and-adenoids/

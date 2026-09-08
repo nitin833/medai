@@ -1,0 +1,622 @@
+Title: Immune System and Disorders
+
+Summary:
+What is the immune system?
+Your immune system is a complex network of cells, tissues, and organs. Together they help the body fight infections and other diseases.
+When germs such as
+bacteria
+or
+viruses
+invade your body, they attack and multiply. This is called an infection. The infection causes the disease that makes you sick. Your immune system protects you from the disease by fighting off the germs.
+What are the parts of the immune system?
+The immune system has many different parts, including:
+Your skin, which can help prevent germs from getting into the body
+Mucous membranes, which are the moist, inner linings of some organs and body cavities. They make mucus and other substances which can trap and fight germs.
+White blood cells, which fight germs
+Organs and tissues of the
+lymph system
+, such as the thymus,
+spleen
+, tonsils, lymph nodes, lymph vessels, and
+bone marrow
+.  They produce, store, and carry white blood cells.
+How does the immune system work?
+Your immune system defends your body against substances it sees as harmful or foreign. These substances are called antigens. They may be germs such as bacteria and viruses. They might be chemicals or toxins. They could also be cells that are damaged from things like
+cancer
+or
+sunburn
+.
+When your immune system recognizes an antigen, it attacks it. This is called an immune response. Part of this response is to make antibodies. Antibodies are proteins that work to attack, weaken, and destroy antigens. Your body also makes other cells to fight the antigen.
+Afterwards, your immune system remembers the antigen. If it sees the antigen again, it can recognize it. It will quickly send out the right antibodies, so in most cases, you don't get sick. This protection against a certain disease is called immunity.
+What are the types of immunity?
+There are three different types of immunity:
+Innate immunity
+is the protection that you are born with. It is your body's first line of defense. It includes barriers such as the skin and mucous membranes. They keep harmful substances from entering the body. It also includes some cells and chemicals which can attack foreign substances.
+Active immunity
+, also called adaptive immunity, develops when you are infected with or
+vaccinated
+against a foreign substance. Active immunity is usually long-lasting. For many diseases, it can last your entire life.
+Passive immunity
+happens when you receive antibodies to a disease instead of making them through your own immune system. For example, newborn babies have antibodies from their mothers. People can also get passive immunity through blood products that contain antibodies. This kind of immunity gives you protection right away. But it only lasts a few weeks or months.
+What can go wrong with the immune system?
+Sometimes a person may have an immune response even though there is no real threat. This can lead to problems such as
+allergies
+,
+asthma
+, and
+autoimmune diseases
+. If you have an autoimmune disease, your immune system attacks healthy cells in your body by mistake.
+Other immune system problems happen when your immune system does not work correctly. These problems include immunodeficiency diseases. If you have an immunodeficiency disease, you get sick more often. Your infections may last longer and can be more serious and harder to treat. They are often
+genetic disorders
+.
+There are other diseases that can affect your immune system. For example,
+HIV
+is a virus that harms your immune system by destroying your white blood cells. If HIV is not treated, it can lead to AIDS (acquired immunodeficiency syndrome). People with AIDS have badly damaged immune systems. They get an increasing number of severe illnesses.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Immune System Diseases
+- Immune System
+
+Related Resources:
+
+Resource: 10 Warning Signs of Primary Immunodeficiency
+Category: Symptoms
+Organization: Jeffrey Modell Foundation
+URL: https://res.cloudinary.com/info4pi/image/upload/v1662306262/JMF_10_Signs_Adult_Poster_082421_v2_172804c98d.pdf
+
+Resource: 22q11.2 Deletion Syndrome (DiGeorge Syndrome) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/22q11-deletion.html
+
+Resource: 22q11.2 deletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/22q112-deletion-syndrome
+
+Resource: Activated PI3K-delta syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/activated-pi3k-delta-syndrome
+
+Resource: Adenosine deaminase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adenosine-deaminase-deficiency
+
+Resource: Agammaglobulinemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001307.htm
+
+Resource: Aging changes in immunity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004008.htm
+
+Resource: American Academy of Allergy, Asthma, and Immunology
+Category: Find an Expert
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/
+
+Resource: Anhidrotic ectodermal dysplasia with immune deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/anhidrotic-ectodermal-dysplasia-with-immune-deficiency
+
+Resource: Antibody titer blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003333.htm
+
+Resource: Autosomal dominant hyper-IgE syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-hyper-ige-syndrome
+
+Resource: Bare lymphocyte syndrome type I: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bare-lymphocyte-syndrome-type-i
+
+Resource: Bare lymphocyte syndrome type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bare-lymphocyte-syndrome-type-ii
+
+Resource: Chediak-Higashi syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001312.htm
+
+Resource: Chediak-Higashi syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chediak-higashi-syndrome
+
+Resource: Chronic granulomatous disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001239.htm
+
+Resource: Chronic Granulomatous Disease (CGD)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/chronic-granulomatous-disease-cgd
+
+Resource: Chronic granulomatous disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chronic-granulomatous-disease
+
+Resource: ClinicalTrials.gov: Granulomatous Disease, Chronic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Granulomatous+Disease,+Chronic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Immune System Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Immune+System+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Primary Immunodeficiency Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Primary+Immunodeficiency+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Severe Combined Immunodeficiency
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Severe+Combined+Immunodeficiency%22&aggFilters=status:not%20rec
+
+Resource: Common variable immune deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/common-variable-immune-deficiency
+
+Resource: Common Variable Immunodeficiency (CVID)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/common-variable-immunodeficiency-cvid
+
+Resource: Complement component 2 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/complement-component-2-deficiency
+
+Resource: Complement component 8 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/complement-component-8-deficiency
+
+Resource: Complement factor I deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/complement-factor-i-deficiency
+
+Resource: Congenital Neutropenia Syndromes
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/congenital-neutropenia-syndromes
+
+Resource: Covid-19 Vaccines for Moderately to Severely Immunocompromised People
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/vaccines/immunocompromised-people.html
+
+Resource: DiGeorge Syndrome (DGS)
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/primary-immunodeficiency-disease/digeorge-syndrome
+
+Resource: DOCK8 Deficiency
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/dock8-deficiency
+
+Resource: DOCK8 immunodeficiency syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dock8-immunodeficiency-syndrome
+
+Resource: Erdheim-Chester disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/erdheim-chester-disease
+
+Resource: Exercise and immunity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007165.htm
+
+Resource: Familial candidiasis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-candidiasis
+
+Resource: Familial hemophagocytic lymphohistiocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hemophagocytic-lymphohistiocytosis
+
+Resource: Find an Expert Immunologist
+Category: Find an Expert
+Organization: Jeffrey Modell Foundation
+URL: https://www.info4pi.org/information-booth/?findAnExpert=true&searchBy=place&searchTerm=
+
+Resource: Fitness Facts & Fiction Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/007165_45.htm
+
+Resource: Flu Vaccine Guidance for Patients with Immune Deficiency
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/immuno-deficiency/flu-vaccine-guidance
+
+Resource: GATA2 Deficiency
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/sites/default/files/GATA2-Factsheet.pdf
+
+Resource: General Information about Langerhans Cell Histiocytosis (LCH)
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/langerhans/patient/langerhans-treatment-pdq
+
+Resource: Glycosylation Disorders with Immunodeficiency
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/glycosylation-disorders-immunodeficiency
+
+Resource: Graft-versus-host disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001309.htm
+
+Resource: Griscelli syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/griscelli-syndrome/
+
+Resource: Hepatic veno-occlusive disease with immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hepatic-veno-occlusive-disease-with-immunodeficiency
+
+Resource: Histiocytosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000068.htm
+
+Resource: Hyper-Immunoglobulin E Syndromes (HIES)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/hyper-immunoglobulin-e-syndromes-hies
+
+Resource: Hyperimmunoglobulin E syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001311.htm
+
+Resource: Immune Deficiency Foundation
+Category: Find an Expert
+Organization: Immune Deficiency Foundation
+URL: https://primaryimmune.org/
+
+Resource: Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/immune-dysregulation-polyendocrinopathy-enteropathy-x-linked-syndrome
+
+Resource: Immune response
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000821.htm
+
+Resource: Immune response
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000073.htm
+
+Resource: Immune System Quiz
+Category: Test Your Knowledge
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/isquiz.html
+
+Resource: Immune System Research
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-research
+
+Resource: Immunodeficiency diseases
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000818.htm
+
+Resource: Immunoelectrophoresis - blood
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003541.htm
+
+Resource: Immunofixation blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003543.htm
+
+Resource: Intravenous Immunoglobulin (IVIG)
+Category: Treatments and Therapies
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/intravenous-immunoglobulin-ivig
+
+Resource: IRAK-4 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/irak-4-deficiency
+
+Resource: JAK3-deficient severe combined immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/jak3-deficient-severe-combined-immunodeficiency
+
+Resource: Laboratory Tests
+Category: Diagnosis and Tests
+Organization: Immune Deficiency Foundation
+URL: https://primaryimmune.org/understanding-primary-immunodeficiency/diagnosis/laboratory-tests
+
+Resource: Langerhans cell histiocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/langerhans-cell-histiocytosis
+
+Resource: Latex agglutination test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003334.htm
+
+Resource: Leukocyte adhesion deficiency type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leukocyte-adhesion-deficiency-type-1
+
+Resource: Mannose-binding lectin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mannose-binding-lectin-deficiency
+
+Resource: Mastocytosis
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/mastocytosis/
+
+Resource: MDA5 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mda5-deficiency
+
+Resource: Monoclonal Gammopathies
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/monoclonal-gammopathies
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Nitroblue tetrazolium blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003355.htm
+
+Resource: Omenn syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/omenn-syndrome
+
+Resource: Overview of Immunodeficiency Disorders
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/immune-disorders/immunodeficiency-disorders/overview-of-immunodeficiency-disorders
+
+Resource: Overview of the Immune System
+Category: Start Here
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-overview
+
+Resource: People at Risk: Those with Weakened Immune Systems
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/people-at-risk/people-with-weakened-immune-systems
+
+Resource: PGM3-congenital disorder of glycosylation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pgm3-congenital-disorder-of-glycosylation
+
+Resource: Phagocytosis
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000098.htm
+
+Resource: PLCG2-Associatiated Antibody Deficiency Immune Dysregulation (PLAID)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/plcg2-associated-antibody-deficiency-and-immune-dysregulation-plaid
+
+Resource: Poikiloderma with neutropenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/poikiloderma-with-neutropenia
+
+Resource: Primary Immune Deficiency Disease Genetics and Inheritance
+Category: Genetics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/pidds-genetics-inheritance
+
+Resource: Primary Immune Deficiency Diseases (PIDDs)
+Category: Start Here
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/primary-immune-deficiency-diseases-pidds
+
+Resource: Immune system
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Immune+System%22%5Bmajr%3Anoexp%5D+OR+%22Immune+System+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Purine nucleoside phosphorylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/purine-nucleoside-phosphorylase-deficiency
+
+Resource: Quantitative nephelometry test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003545.htm
+
+Resource: Recurrent Infections May Signal Immunodeficiencies
+Category: Symptoms
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/immuno-deficiency/recurrent-infections-immunodeficiencies
+
+Resource: Repeated Infections in Children
+Category: Children
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/repeated-infections-in-children/
+
+Resource: Selective deficiency of IgA
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001476.htm
+
+Resource: Selective IgA Deficiency
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/primary-immunodeficiency-disease/selective-iga-deficiency
+
+Resource: Serum sickness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000820.htm
+
+Resource: Severe Combined Immunodeficiency (SCID)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/severe-immunodeficiency.html
+
+Resource: Severe Combined Immunodeficiency (SCID)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/severe-combined-immunodeficiency-scid
+
+Resource: Spondyloenchondrodysplasia with immune dysregulation: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloenchondrodysplasia-with-immune-dysregulation
+
+Resource: Systemic mastocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/systemic-mastocytosis
+
+Resource: T-cell immunodeficiency, congenital alopecia, and nail dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/t-cell-immunodeficiency-congenital-alopecia-and-nail-dystrophy
+
+Resource: Talking to Your Doctor about Primary Immune Deficiency Diseases
+Category: Related Issues
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/pidds-talking-your-doctor
+
+Resource: The Immune System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/immune.html
+
+Resource: Travelers' Health: Immunocompromised Travelers
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/immunocompromised-travelers.html
+
+Resource: TRNT1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/trnt1-deficiency
+
+Resource: Types of Primary Immune Deficiency Diseases
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/types-pidds
+
+Resource: Vici syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/vici-syndrome/
+
+Resource: Warts, Hypogammaglobulinemia, Infections, and Myelokathexis (WHIM) Syndrome
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/warts-hypogammaglobulinemia-infections-myelokathexis-syndrome-whims
+
+Resource: Weakened Immune Systems
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/immunizations/pages/Weakened-Immune-Systems.aspx
+
+Resource: What Is a Pediatric Allergist / Immunologist?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Allergist-Immunologist.aspx
+
+Resource: Wiskott-Aldrich Syndrome (WAS)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/sites/default/files/Wiskott-Aldrich-Syndrome-Factsheet.pdf
+
+Resource: Wiskott-Aldrich syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wiskott-aldrich-syndrome
+
+Resource: X-Linked Agammaglobulinemia (XLA)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/x-linked-agammaglobulinemia
+
+Resource: X-linked agammaglobulinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-agammaglobulinemia
+
+Resource: X-linked hyper IgM syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-hyper-igm-syndrome
+
+Resource: X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection, and neoplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-immunodeficiency-with-magnesium-defect-epstein-barr-virus-infection-and-neoplasia
+
+Resource: X-linked lymphoproliferative disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-lymphoproliferative-disease
+
+Resource: X-linked severe combined immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-severe-combined-immunodeficiency
+
+Resource: Yao syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/yao-syndrome/
+
+Resource: ZAP70-related severe combined immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/zap70-related-severe-combined-immunodeficiency

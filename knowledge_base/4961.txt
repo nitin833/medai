@@ -1,0 +1,165 @@
+Title: Cold and Cough Medicines
+
+Summary:
+What are cold and cough medicines?
+Cold and cough medicines can help relieve symptoms of a
+common cold
+. The symptoms of a cold can include a sore throat, stuffy or runny nose, sneezing, and
+coughing
+.
+You don't usually need to treat a cold or the cough that it causes. You can't cure a cold, and antibiotics won't help you get better. But sometimes the symptoms can keep you awake or cause a lot of discomfort. In that case, cold and cough medicines can sometimes be helpful.
+What are the different types of cold and cough medicines?
+There are lots of different cold and cough medicines, and they do different things:
+Nasal decongestants - unclog a stuffy nose
+Cough suppressants - quiet a cough
+Expectorants - loosen mucus in your lungs so you can cough it up
+Antihistamines - stop runny noses and sneezing
+Pain relievers
+- ease fever, headaches, and minor aches and pains
+What do I need to know about taking cold and cough medicines?
+Before taking these medicines, read the labels and follow the instructions carefully. Many cold and cough medicines contain the same active ingredients. For example, some of them include pain relievers. If you are taking these medicines and are also taking a separate pain reliever, you could be getting a dangerous amount of the pain reliever.
+Do not give cold or cough medicines to children under two, and don't give aspirin to children.
+What else can I do to feel better for a cold or cough?
+If you decide that you don't want to take cold and cough medicines, there are other ways to feel better:
+Drink lots of fluids
+Get plenty of rest
+Use a cool mist humidifier
+Use saline nose drops or sprays
+Use nasal suctioning with a bulb syringe, which can be very helpful in children under a year old
+Centers for Disease Control and Prevention
+
+Groups:
+- Drug Therapy
+
+MeSH Headings:
+- Expectorants
+- Multi-Ingredient Cold, Flu, and Allergy Medications
+- Nasal Decongestants
+- Antitussive Agents
+- Histamine Antagonists
+
+Related Resources:
+
+Resource: 5 Tips: Natural Products for the Flu and Colds: What Does the Science Say?
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/tips-natural-products-for-the-flu-and-colds-what-does-the-science-say
+
+Resource: Acetaminophen Level
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acetaminophen-level/
+
+Resource: Brompheniramine overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002601.htm
+
+Resource: ClinicalTrials.gov: Cold Medicines and Supplements
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Common+Cold%22&intr=Drug+OR+%22Dietary+Supplement%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Cough Medicines and Supplements
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=Cough&intr=%22Antitussive+Agents%22+OR+Expectorants+OR+%22Dietary+Supplement%22&aggFilters=status:not%20rec
+
+Resource: Cold medicines and children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000942.htm
+
+Resource: Cold Remedies: What Works, What Doesn't, What Can't Hurt
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/cold-remedies/art-20046403?p=1
+
+Resource: Contac overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002616.htm
+
+Resource: Cough and Cold Medicine Abuse (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cough-cold-medicine-abuse.html
+
+Resource: Cough Medicine: Understanding Your OTC Options
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/cough-medicine-understanding-your-otc-options/
+
+Resource: Coughs and Colds: Medicines or Home Remedies?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Coughs-and-Colds-Medicines-or-Home-Remedies.aspx
+
+Resource: Decongestants: OTC Relief for Congestion
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/decongestants-otc-relief-for-congestion/
+
+Resource: Dextromethorphan overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002628.htm
+
+Resource: Dimenhydrinate overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002634.htm
+
+Resource: Diphenhydramine overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002636.htm
+
+Resource: Don't Overuse Acetaminophen
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/dont-overuse-acetaminophen
+
+Resource: Echinacea
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/echinacea
+
+Resource: Echinacea: What Should I Know about It?
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/echinacea-what-should-i-know-about-it/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: High Blood Pressure and Cold Remedies: Which Are Safe?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/high-blood-pressure/faq-20058281?p=1
+
+Resource: Hydroxyzine overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002654.htm
+
+Resource: Pheniramine overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002529.htm
+
+Resource: Cold and Cough Medicines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Expectorants%22%5Bmajr%3Anoexp%5D+OR+%22Multi-Ingredient+Cold%2C+Flu%2C+and+Allergy+Medications%22%5Bmajr%3Anoexp%5D+OR+%22Nasal+Decongestants%22%5Bmajr%3Anoexp%5D+OR+%22Antitussive+Agents%22%5Bmajr%3Anoexp%5D+OR+%22Histamine+Antagonists%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Should You Give Kids Medicine for Coughs and Colds?
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/should-you-give-kids-medicine-coughs-and-colds
+
+Resource: Zinc for Colds: The Final Word?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-cold/expert-answers/zinc-for-colds/faq-20057769?p=1

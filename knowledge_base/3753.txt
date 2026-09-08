@@ -1,0 +1,95 @@
+Title: Mastectomía
+
+Summary:
+¿Qué es una mastectomía?
+Una mastectomía es una cirugía para extirpar parte o la totalidad del seno. En general, se realiza para tratar el
+cáncer de seno
+removiéndolo. La mastectomía puede ser la primera opción de tratamiento para algunos tipos de cáncer de seno, o se puede hacer después de la
+quimioterapia
+para otros tipos. Si tiene un riesgo muy alto de cáncer de seno, a veces se puede hacer una mastectomía para bajar el riesgo.
+¿Cuáles son los diferentes tipos de mastectomía?
+Hay diferentes tipos de mastectomía. Cada una difiere en la cantidad de tejido mamario y ganglios linfáticos que se extirpan. Algunos tipos de cirugía de seno remueven la piel de la mama y el pezón. Otros también pueden extirpar los ganglios linfáticos cercanos, que forman parte del
+sistema inmunitario
+y ayudan a proteger el cuerpo de infecciones y enfermedades.
+El tipo de cirugía que se haga dependerá del estadio del cáncer, el tamaño del tumor, el tamaño de la mama y si los ganglios linfáticos están afectados.
+Los tipos de cirugía de seno incluyen:
+Mastectomía total (simple):
+Extirpa todo el tejido mamario y el pezón de la mama que tiene cáncer. Es posible que le extirpen algunos ganglios linfáticos axilares para analizarlos en busca de cáncer
+Mastectomía radical modificada:
+Consiste en la extirpación del seno con cáncer, incluyendo el pezón, la areola (piel oscura que rodea el pezón), la piel que recubre la mama, la mayoría de los ganglios linfáticos axilares y, con frecuencia, el revestimiento de los músculos pectorales
+Tumorectomía
+(también conocido como lumpectomía): Cirugía que preserva la mama. Se extirpa el tumor y parte del tejido mamario normal circundante, pero no la mama en sí. Es posible que le extirpen algunos ganglios linfáticos axilares para analizarlos en busca de cáncer. También se puede extirpar parte del revestimiento de la pared torácica si hay cáncer cerca
+Independientemente de la cirugía de mama que elija, es posible que necesite otros tratamientos. Estos pueden incluir
+radioterapia
+, quimioterapia, terapia hormonal o terapia dirigida.
+Puede optar por una
+reconstrucción del seno
+para rehacer su mama al mismo tiempo que la mastectomía, o puede hacerse más tarde. Su profesional de la salud podría sugerirle esperar si la radioterapia es parte de su plan de tratamiento.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Mujeres
+- Cirugía y rehabilitación
+- Sistema reproductor femenino
+
+Related Resources:
+
+Resource: Alta tras mastectomía
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000244.htm
+
+Resource: Cirugía contra el cáncer de seno
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/tratamiento/cirugia-del-cancer-de-seno.html
+
+Resource: Cirugía para reducir el riesgo de cáncer de seno
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/seno/prevencion-mama/mastectomia-preventiva
+
+Resource: Extirpación de un tumor mamario
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002918.htm
+
+Resource: Extirpación del tumor de seno
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100003_1.htm
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Mastectomía
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002919.htm
+
+Resource: Mastectomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100031_1.htm
+
+Resource: Mastectomía
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/mastectomy/about/pac-20394670?p=1
+
+Resource: Mastectomía y reconstrucción de la mama: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000253.htm
+
+Resource: Opciones de cirugía para las mujeres con carcinoma ductal in situ o con cáncer de mama
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/seno/tratamiento-mama/opciones-de-cirugia
+
+Resource: Tratamiento del cáncer de seno según su etapa
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/tratamiento/tratamiento-del-cancer-del-seno-segun-su-etapa.html

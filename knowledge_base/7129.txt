@@ -1,0 +1,140 @@
+Title: Opioid Use Disorder (OUD) Treatment
+
+Also Called:
+- Medications for opioid use disorder (MOUD)
+- Opioid abuse and addiction treatment
+
+Summary:
+What are opioids?
+Opioids, sometimes called narcotics, are a type of drug. They include strong prescription
+pain relievers
+, such as oxycodone, hydrocodone, fentanyl, and tramadol. The illegal drug heroin is also an opioid.
+A health care provider may give you a prescription opioid to reduce pain after you have had a major injury or surgery. You may get them if you have severe pain from health conditions like cancer. Some health care providers prescribe them for
+chronic pain
+.
+Prescription opioids used for pain relief are generally safe when taken for a short time and as prescribed by your provider. However,
+opioid use disorder (OUD)
+is still a possible risk.
+What is opioid use disorder (OUD)?
+Opioid use disorder (OUD) means that you have a problematic pattern of using opioids. The pattern causes a lot of distress and impairment (meaning that it causes problems in and interferes with your daily life). Instead of OUD, sometimes people use the terms "opioid dependence" and "opioid addiction." Dependence means feeling withdrawal symptoms when not taking the drug. Addiction is a chronic brain disease that causes a person to compulsively seek out drugs, even though they cause harm.
+What are the treatments for opioid use disorder (OUD)?
+Treatments for OUD include:
+Medicines; this kind of treatment is known as medications for opioid use disorder (MOUD)
+Counseling and behavioral therapies
+Residential and hospital-based treatment
+Which medicines treat opioid opioid use disorder (OUD)?
+The medicines used in MOUD are methadone, buprenorphine, and naltrexone:
+Methadone, buprenorphine, and lofexidine,
+which can decrease withdrawal symptoms and cravings. They work by acting on one or another of the targets in the brain that opioids act on. But these medicines are different because they do not make you feel high. Some people worry that if they take methadone or buprenorphine, it means that they are substituting one addiction for another. But it is not; these medicines are a treatment. They restore balance to the parts of the brain affected by addiction. This allows your brain to heal while you work toward recovery.
+You may safely take these medicines for months, years, or even a lifetime. If you want to stop taking them, do not do it on your own. You should contact your provider first, and together you can work out a plan for stopping.
+Naltrexone
+works differently than methadone and buprenorphine. It does not help you with withdrawal symptoms or cravings. Instead, it takes away the high that you would normally get when you take opioids. Because of this, you would take naltrexone to prevent a relapse, not to try to get off opioids. You have to be off opioids for at least 7-10 days before you can take naltrexone. Otherwise you could have bad withdrawal symptoms.
+A
+combination drug
+that includes buprenorphine and naloxone. Naloxone is a drug to treat an opioid overdose. If you take it along with buprenorphine, you will be less likely to misuse the buprenorphine.
+How does counseling help treat opioid use disorder (OUD)?
+Counseling for OUD can help you:
+Change your attitudes and behaviors related to drug use
+Build healthy life skills
+Stick with other forms of treatment, such as medicines
+There are different types of counseling for OUD, including:
+Individual counseling
+, which may include setting goals, talking about setbacks, and celebrating progress. You may also talk about legal concerns and family problems. Counseling often includes specific behavioral therapies, such as
+Cognitive-behavioral therapy
+(CBT), which helps you recognize and stop negative patterns of thinking and behavior. It teaches you coping skills, including how to manage stress and change the thoughts that cause you to want to misuse opioids.
+Motivational enhancement therapy
+, which helps you build up motivation to stick with your treatment plan.
+Contingency management
+, which focuses on giving you incentives for positive behaviors such as staying off the opioids.
+Group counseling
+, which can help you feel that you are not alone with your issues. You get a chance to hear about the difficulties and successes of others who have the same challenges. This can help you learn new strategies for dealing with the situations you may come across.
+Family counseling
+, which includes partners or spouses and other family members who are close to you. It can help to repair and improve your family relationships.
+Counselors can also refer you to other resources that you might need, such as:
+Peer support groups, including 12-step programs like Narcotics Anonymous
+Spiritual and faith-based groups
+HIV testing
+and
+hepatitis screening
+Case or care management
+Employment or educational supports
+Organizations that help you find housing or transportation
+What are residential and hospital-based treatments for opioid use disorder (OUD)?
+Residential programs combine housing and treatment services. You are living with your peers, and you can support each other to stay in recovery. Inpatient hospital-based programs combine health care and OUD treatment services for people with medical problems. Hospitals may also offer intensive outpatient treatment. All these types of treatments are very structured, and usually include several different kinds of counseling and behavioral therapies. They usually also include MOUD.
+
+Groups:
+- Substance Use and Disorders
+
+MeSH Headings:
+- Opioid-Related Disorders
+- Opioid-Related Disorders
+
+Related Resources:
+
+Resource: 'I Choose to Climb Instead of Fall': One Woman's Story of Opioid Use Disorder and Joining an NIH Clinical Trial
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/i-choose-to-climb-instead-of-fall
+
+Resource: Buprenorphine
+Category: Specifics
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/substance-use/treatment/options/buprenorphine
+
+Resource: ClinicalTrials.gov: Medications for Opioid Use Disorder (MOUD)
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22medications+for+opioid+use+disorder%22&aggFilters=status:not%20rec
+
+Resource: Commonly Used Terms for Opioids and Drug Overdose
+Category: Reference Desk
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/overdose-prevention/glossary/
+
+Resource: How Naloxone Saves Lives in Opioid Overdose
+Category: Videos and Tutorials
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medlineplus-videos/how-naloxone-saves-lives-in-opioid-overdose/
+
+Resource: Information about Medications for Opioid Use Disorder (MOUD)
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/food-and-drug-administration-overdose-prevention-framework/information-about-medications-opioid-use-disorder-moud
+
+Resource: Managing Pain: Moving beyond Opioids
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/10/managing-pain
+
+Resource: Medications for Opioid Overdose, Withdrawal, and Addiction
+Category: Start Here
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/research-topics/opioids/medications-opioid-overdose-withdrawal-addiction-infographic
+
+Resource: Medications for Opioid Use Disorder
+Category: Start Here
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/research-topics/medications-opioid-use-disorder
+
+Resource: Opioid addiction: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/opioid-addiction
+
+Resource: Opioid Overdose Reversal Medications (OORM)
+Category: Specifics
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/substance-use/treatment/overdose-prevention/opioid-overdose-reversal
+
+Resource: Opioid Treatment Program Directory
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/find-help/locators/opioid-treatment-program-directory
+
+Resource: Opioid Use Disorder (OUD) Treatment
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Opioid-Related+Disorders%2Fdrug+therapy%22%5Bmajr%3Anoexp%5D+OR+%22Opioid-Related+Disorders%2Frehabilitation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Is Methadone?
+Category: Specifics
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/substance-use/treatment/options/methadone

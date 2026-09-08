@@ -1,0 +1,120 @@
+Title: Tinnitus
+
+Summary:
+Tinnitus is often described as a ringing in the ears. It also can sound like roaring, clicking, hissing, or buzzing. It may be soft or loud, high pitched or low pitched. You might hear it in either one or both ears.
+Millions of Americans have tinnitus. People with severe tinnitus may have trouble hearing, working or even sleeping.
+Causes of tinnitus include:
+Hearing loss in older people
+Exposure to loud
+noises
+Ear and sinus infections
+Heart or blood vessel problems
+Meniere's disease
+Brain tumors
+Hormonal changes in women
+Thyroid problems
+Certain medicines
+Treatment depends on the cause.  Treatments may include hearing aids, sound-masking devices, medicines, and ways to learn how to cope with the noise.
+NIH: National Institute on Deafness and Other Communication Disorders
+
+Groups:
+- Ear, Nose and Throat
+
+MeSH Headings:
+- Tinnitus
+
+Related Resources:
+
+Resource: American Tinnitus Association
+Category: Find an Expert
+Organization: American Tinnitus Association
+URL: https://www.ata.org/
+
+Resource: Can Loud Music Hurt My Ears?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/rock-music.html
+
+Resource: ClinicalTrials.gov: Tinnitus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tinnitus%22&aggFilters=status:not%20rec
+
+Resource: Find an Audiologist
+Category: Find an Expert
+Organization: American Academy of Audiology
+URL: https://members.audiology.org/cvweb/cgi-bin/memberdll.dll/info?wrp=find-an-audiologist.htm
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Ginkgo
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/ginkgo
+
+Resource: Measuring Tinnitus
+Category: Treatments and Therapies
+Organization: American Tinnitus Association
+URL: https://www.ata.org/about-tinnitus/why-are-my-ears-ringing/measuring-tinnitus/
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Noise Complaints: Taking On Tinnitus
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/05/noise-complaints
+
+Resource: Tinnitus
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tinnitus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Support Group Directory
+Category: Find an Expert
+Organization: Vestibular Disorders Association
+URL: https://vestibular.org/support-groups/
+
+Resource: Therapy and Treatment Options
+Category: Treatments and Therapies
+Organization: American Tinnitus Association
+URL: https://www.ata.org/about-tinnitus/therapy-and-treatment-options/
+
+Resource: Tinnitus
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/tinnitus/
+
+Resource: Tinnitus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003043.htm
+
+Resource: Tinnitus
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/tinnitus
+
+Resource: Tinnitus Patient Navigator
+Category: Living With
+Organization: American Tinnitus Association
+URL: https://ata.org/wp-content/uploads/2019/09/Spring-2018-25.pdf
+
+Resource: Videonystagmography (VNG)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/videonystagmography-vng/
+
+Resource: What Treatments Can Help Tinnitus?
+Category: Treatments and Therapies
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/tinnitus#5
+
+Resource: Why Are My Ears Ringing?
+Category: Start Here
+Organization: American Tinnitus Association
+URL: https://www.ata.org/about-tinnitus/why-are-my-ears-ringing/

@@ -1,0 +1,136 @@
+Title: Dental Health
+
+Also Called:
+- Oral health
+
+Summary:
+It's important to take care of your mouth and teeth starting in
+childhood
+. If you don't, you could have problems with your
+teeth
+and
+gums
+- like
+cavities
+or even tooth loss.
+Here's how to keep your mouth and teeth healthy:
+Brush your teeth twice a day with a fluoride toothpaste
+Clean between your teeth every day with floss or another type of between-the-teeth cleaner
+Snack smart - limit sugary snacks
+Don't smoke or chew tobacco
+See your dentist or oral health professional regularly
+NIH: National Institute of Dental and Craniofacial Research
+
+Groups:
+- Mouth and Teeth
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Oral Hygiene
+- Dental Care
+- Oral Health
+
+Related Resources:
+
+Resource: Blood Thinners and Dental Care
+Category: Specifics
+Organization: American Academy of Oral Medicine
+URL: https://www.aaom.com/index.php?option=com_content&amp;view=article&amp;id=126:blood-thinners-and-dental-care&amp;catid=22:patient-condition-information&amp;Itemid=120
+
+Resource: ClinicalTrials.gov: Dental Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Dental+Care%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Oral Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Oral+Health%22&aggFilters=status:not%20rec
+
+Resource: Dental care - adult
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001957.htm
+
+Resource: Dental Exam
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dental-exam/
+
+Resource: Dental plaque identification at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003426.htm
+
+Resource: Dental x-rays
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003801.htm
+
+Resource: FastStats: Oral and Dental Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/dental.htm
+
+Resource: Find a Dentist
+Category: Find an Expert
+Organization: Academy of General Dentistry
+URL: https://www.agd.org/practice/tools/patient-resources/find-an-agd-dentist
+
+Resource: Find a Health Center
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://findahealthcenter.hrsa.gov/
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Older Adults and Oral Health
+Category: Older Adults
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2023-12/older-adults-and-oral-health.pdf
+
+Resource: Oral Health
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/oral-health
+
+Resource: Oral Hygiene
+Category: Start Here
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/oral-hygiene
+
+Resource: Panoramic Dental X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Prevention of Infective Endocarditis Wallet Card
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/-/media/Files/Health-Topics/Infective-Endocarditis/Infective-Endocarditis-Wallet-Card.pdf
+
+Resource: Dental Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Oral+Health%22%5Bmajr%3Anoexp%5D+OR+%22Oral+Hygiene%22%5Bmajr%3Anoexp%5D+OR+%22Dental+Care%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Taking Care of Your Teeth and Mouth
+Category: Start Here, Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/teeth-and-mouth/taking-care-your-teeth-and-mouth
+
+Resource: Taking on Teeth Grinding and Clenching: Halt Dental Damage and Jaw Pain
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/12/taking-teeth-grinding-clenching
+
+Resource: Where Can I Find Low-Cost Dental Care?
+Category: Finance and Policy
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/answers/health-insurance-reform/where-can-i-find-low-cost-dental-care/index.html
+
+Resource: Your Smile (and Mouth) Can Tell You More Than You Might Think
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/your-smile-and-mouth-can-tell-you-more-than-you-might-think

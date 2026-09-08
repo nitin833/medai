@@ -1,0 +1,204 @@
+Title: Childhood Brain Tumors
+
+Summary:
+Brain tumors
+are abnormal growths inside the skull. They are among the most common types of
+childhood cancers
+. Some are benign tumors, which aren't cancer. They can still be serious. Malignant tumors are cancerous.
+Childhood brain and spinal cord tumors can cause headaches and other symptoms. However, other conditions can also cause the same symptoms. Check with a doctor if your child has any of the following problems:
+Morning headache or headache that goes away after vomiting
+Frequent nausea and vomiting
+Vision, hearing, and speech problems
+Loss of balance or trouble walking
+Unusual sleepiness
+Personality changes
+Seizures
+Increased head size in infants
+The symptoms are not the same in every child.
+Doctors use physical and neurological exams, lab tests, and imaging to diagnose brain tumors. Most childhood brain tumors are diagnosed and removed in surgery.
+Treatment for children is sometimes different than for an adult. Long-term side effects are an important issue. The options also depend on the type of tumor and where it is. Removal of the tumor is often possible. If not, radiation, chemotherapy, or both may be used.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Children and Teenagers
+- Brain and Nerves
+
+MeSH Headings:
+- Brain Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Astrocytomas
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/astrocytoma.html
+
+Resource: Brain surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003018.htm
+
+Resource: Brain surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000124.htm
+
+Resource: Brain tumor - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000768.htm
+
+Resource: Cancer in Children and Adolescents
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/child-adolescent-cancers-fact-sheet
+
+Resource: Causes, Risk Factors, and Prevention of Brain Tumors in Children
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children/causes-risks-prevention.html
+
+Resource: Childhood Atypical Teratoid/Rhabdoid Tumor Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cns-atrt-treatment-pdq
+
+Resource: Childhood Central Nervous System Germ Cell Tumors Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cns-germ-cell-treatment-pdq
+
+Resource: Children with Cancer: A Guide for Parents
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/guide-for-parents
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Childhood Brain Tumors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22brain+neoplasms%22&aggFilters=ages:child,status:not%20rec
+
+Resource: Craniopharyngioma
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/craniopharyngioma.html?ref=search
+
+Resource: Craniotomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100048_1.htm
+
+Resource: Eating extra calories when sick - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000034.htm
+
+Resource: Ependymomas
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ependymoma.html
+
+Resource: Examining the Psychological Impact of Childhood Cancer
+Category: Living With
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/children/cancer-psychological-impact
+
+Resource: General Information about Childhood Medulloblastoma and Other Central Nervous System Embryonal Tumors
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cns-embryonal-treatment-pdq#_1
+
+Resource: Gliomas
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gliomas.html
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Pediatric Brain Tumor Facts
+Category: Start Here
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/caregiving/pediatric-caregiver-resources-center/
+
+Resource: Childhood Brain Tumors
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rhabdoid tumor predisposition syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rhabdoid-tumor-predisposition-syndrome
+
+Resource: Stereotactic radiosurgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000131.htm
+
+Resource: Support for Families when a Child Has Cancer
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/caregiver-support/parents
+
+Resource: Tests for Brain and Spinal Cord Tumors in Children
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-children/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment of Childhood Medulloblastoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cns-embryonal-treatment-pdq#_492
+
+Resource: Types of Treatment for Childhood Craniopharyngioma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/child-cranio-treatment-pdq#_49
+
+Resource: Types of Treatment for Childhood Ependymoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/childhood-ependymoma#_96
+
+Resource: Types of Treatment for Childhood Glioma (Including Astrocytoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/childhood-glioma-astrocytoma#_117
+
+Resource: Ultrasound: Head (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ultrasound-head.html

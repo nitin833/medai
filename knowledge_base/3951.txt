@@ -1,0 +1,318 @@
+Title: CT Scans
+
+Also Called:
+- CAT scan
+
+Summary:
+What is a CT scan?
+Computed tomography (CT) is a type of medical
+imaging
+test that uses special
+x-ray
+equipment to make detailed pictures of the inside of your body.
+A CT scan produces cross-sectional pictures, which are like slices of the body. These images show the size and structure of organs, bones, and other tissues. CT images can also be combined to create 3-dimensional (3D) views.
+Health care providers use CT scans to diagnose, treat, and monitor many health conditions.
+Who needs a CT scan?
+Your provider may suggest a CT scan for many reasons, including:
+Fractures
+(broken bones)
+Cancer
+Tumors or masses
+Blood clots
+Signs of
+heart disease
+Spinal conditions
+Lung disease
+CT scans may also be used to find the best place to perform a
+biopsy
+or help guide certain treatments. They may also be used to check for internal bleeding or injury after trauma or to evaluate the brain for certain conditions.
+How do you prepare for a CT scan?
+You may be asked not to eat or drink for a few hours before the scan. Ask your provider if there are any special instructions to follow.
+For some CT scans, you may receive a contrast material. Contrast helps certain parts of the body show up more clearly on the images. Depending on what area is being examined, contrast material might be given as:
+A liquid to swallow
+A shot (injection)
+An enema (placed into the rectum)
+CT scans use ionizing
+radiation
+at levels higher than a standard x-ray, but the amount is kept as low as possible. Always tell your provider if you are pregnant or think you may be pregnant.
+How is a CT scan done?
+You may be asked to change clothes and remove jewelry or other items that could interfere with the scan.
+During the scan, you lie still on a table. The table slowly passes through the center of a large donut-shaped machine. The x-ray tube rotates around your body to create images.
+You may hear whirring sounds during the scan. You may be asked to hold your breath for short periods. The test is painless.
+The scan usually takes a few minutes, but some may last up to 30 minutes, depending on the area being scanned.
+What should you expect after a CT scan?
+Most people can return to normal activities right away. If you were given a contrast material, drinking fluids can help your body clear it.
+A specialist called a radiologist reviews the images and shares the results with your provider.
+NIH: National Cancer Institute
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- Tomography, X-Ray Computed
+
+Related Resources:
+
+Resource: Abdominal and Pelvic CT
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominct
+
+Resource: Abdominal CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: All About Your Radiology Report: What to Know
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/all-about-your-radiology-report
+
+Resource: Arm CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007347.htm
+
+Resource: Benefits/Risks
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/computed-tomography-ct#3
+
+Resource: Body CT
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bodyct
+
+Resource: Brain CT Scan
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/brain-ct-scan/about/pac-20587837?p=1
+
+Resource: Cervical spine CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007351.htm
+
+Resource: Chest CT
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003788.htm
+
+Resource: ClinicalTrials.gov: Tomography, X-Ray Computed
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Tomography,+X-Ray+Computed%22&aggFilters=status:not%20rec
+
+Resource: Computed Tomography (CT)
+Category: Start Here
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/science-education/science-topics/computed-tomography-ct
+
+Resource: Computed Tomography (CT) Enterography
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/CTenterography
+
+Resource: Computed Tomography (CT) Scans and Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/ct-scans-fact-sheet
+
+Resource: Coronary CTA (Computed Tomography Angiography)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocoroct
+
+Resource: CT Angiography (CTA)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angioct
+
+Resource: CT angiography - abdomen and pelvis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007674.htm
+
+Resource: CT angiography - arms and legs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007675.htm
+
+Resource: CT angiography - chest
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007676.htm
+
+Resource: CT angiography - head and neck
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007677.htm
+
+Resource: CT of the Sinuses
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/sinusct
+
+Resource: CT Perfusion Imaging of the Head
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/perfusionheadct
+
+Resource: CT Scan
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/ct-scan/about/pac-20393675?p=1
+
+Resource: CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003330.htm
+
+Resource: CT Scan of the Spine
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinect
+
+Resource: Electronic Medical Devices, X-Ray Imaging and Radiation Therapy: What to Know and How to Prevent Damage
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/radiation-safety/electronic-medical-devices-x-ray-imaging-and-radiation-therapy-what-know-and-how-prevent-damage
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Full-Body CT Scans: What You Need to Know
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/full-body-ct-scans-what-you-need-know
+
+Resource: Getting a CAT Scan (For Kids)
+Category: Videos and Tutorials
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/video-ctscan.html
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: Head CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: Heart CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007344.htm
+
+Resource: Heart Tests
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-tests
+
+Resource: Knee CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007345.htm
+
+Resource: Leg CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007348.htm
+
+Resource: Lumbar Spine CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007350.htm
+
+Resource: Lumbosacral spine CT
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003787.htm
+
+Resource: Myelography
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/myelography/
+
+Resource: Orbit CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003785.htm
+
+Resource: Patient Safety -- Contrast Material
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-contrast
+
+Resource: Pediatric CT
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pedia-ct
+
+Resource: Pelvic CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: PET/CT -- Positron Emission Tomography/Computed Tomography
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pet
+
+Resource: CT Scans
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tomography%2C+X-Ray+Computed%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation Exposure and Pregnancy
+Category: Women
+Organization: Health Physics Society
+URL: https://hps.org/wp-content/uploads/2024/12/pregnancy_fact_sheet.pdf
+
+Resource: RadiologyInfo
+Category: Find an Expert
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/
+
+Resource: RadiologyInfo: Glossary of Terms
+Category: Reference Desk
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/glossary-index
+
+Resource: Renal scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003790.htm
+
+Resource: Shoulder CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007346.htm
+
+Resource: Sinus CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007349.htm
+
+Resource: SPECT Scan (Single-Photon Emission Computerized Tomography)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spect-scan/about/pac-20384925?p=1
+
+Resource: Thoracic spine CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007442.htm
+
+Resource: Urography
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/urography
+
+Resource: Virtual Colonoscopy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/virtual-colonoscopy

@@ -1,0 +1,65 @@
+Title: Hemocromatosis
+
+Also Called:
+- Sobrecarga de hierro
+
+Summary:
+La hemocromatosis es una enfermedad en la que exceso de
+hierro
+se acumula en su cuerpo. Su cuerpo necesita hierro, pero demasiado resulta tóxico. Si usted tiene hemocromatosis, absorbe más hierro de lo que necesita. Su cuerpo no tiene cómo deshacerse del hierro adicional en forma natural. Éste se almacena en los tejidos del cuerpo, especialmente el hígado, corazón y páncreas. El hierro adicional puede dañar sus órganos. Sin tratamiento, puede causar que sus órganos fallen.
+Hay dos tipos de hemocromatosis. La hemocromatosis primaria es una enfermedad hereditaria. Hemocromatosis secundaria es generalmente el resultado de algo más, como la anemia, la talasemia, enfermedad hepática o transfusiones de sangre.
+Muchos de los síntomas de la hemocromatosis se parecen a los de otras enfermedades. No todos muestran síntomas. Si lo hace, usted puede presentar dolor en las articulaciones, fatiga, debilidad general, pérdida de peso y dolor de estómago.
+Su médico diagnosticará la hemocromatosis tomando en cuenta sus antecedentes médicos y familiares, un examen físico y los resultados de pruebas y procedimientos. Los tratamientos incluyen la eliminación de la sangre (y el hierro) de su cuerpo, medicamentos y cambios en su dieta.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sistema digestivo
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Biopsia sinovial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003922.htm
+
+Resource: Examen de ferritina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003490.htm
+
+Resource: Examen de hierro sérico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003488.htm
+
+Resource: Hemocromatosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000327.htm
+
+Resource: Hemocromatosis hereditaria (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hh.html
+
+Resource: Hemocromatosis: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hemochromatosis/diagnosis-treatment/drc-20351448?p=1
+
+Resource: Prueba de sangre de ferritina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-ferritina/
+
+Resource: Pruebas de hierro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-hierro/
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/

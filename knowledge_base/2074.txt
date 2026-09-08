@@ -1,0 +1,297 @@
+Title: Cáncer de páncreas
+
+Also Called:
+- Carcinoma pancreático
+- Cáncer pancreático
+
+Summary:
+El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de
+azúcar en la sangre
+. El cáncer de páncreas es la cuarta causa principal de muerte por cáncer en los Estados Unidos. Algunos factores de riesgo para el desarrollo de cáncer de páncreas incluyen:
+Fumar
+Sufrir de diabetes por mucho tiempo
+Pancreatitis crónica
+Algunos trastornos hereditarios
+El cáncer de páncreas es difícil de detectar con anticipación. No causa síntomas de inmediato. Cuando los síntomas aparecen, suelen ser vagos o imperceptibles. Incluyen una coloración amarillenta de la piel y los ojos, dolor en el abdomen y la espalda, pérdida de peso y fatiga. Además, como el páncreas está oculto detrás de otros órganos, los profesionales de la salud no pueden ver ni palpar los tumores en los exámenes de rutina. Para el diagnóstico, los doctores hacen un examen físico, pruebas de sangre, exámenes de imágenes y una biopsia.
+Dado que frecuentemente se detecta tarde y se disemina rápidamente, el cáncer de páncreas puede ser difícil de tratar. Los posibles tratamientos incluyen cirugía, radiación y quimioterapia y terapia dirigida. La terapia dirigida usa medicamentos u otras sustancias para combatir células cancerosas específicas, causando menos daños a las células normales.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema digestivo
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Alta tras cirugía de cáncer pancreático
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000820.htm
+
+Resource: Amilasa en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003607.htm
+
+Resource: Análisis de sangre de glucagón
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-de-sangre-de-glucagon/
+
+Resource: Biopsia del tracto biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003894.htm
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cirugía para el cáncer de páncreas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007649.htm
+
+Resource: Cirugía para el cáncer pancreático
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/tratamiento/cirugia.html
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Cáncer de páncreas: lo que debe saber
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/cancer-de-pancreas-lo-que-debe-saber
+
+Resource: Cáncer pancreático
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000236.htm
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios de los tumores neuroendocrinos de páncreas (tumores de células de los islotes)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-tne-pdq#section/_22
+
+Resource: Estadísticas clave sobre el cáncer de páncreas o cáncer pancreático
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/acerca/estadisticas-clave.html
+
+Resource: Examen de estimulación de secretina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003892.htm
+
+Resource: Examen de lipasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003465.htm
+
+Resource: Examen de péptido intestinal vasoactivo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003508.htm
+
+Resource: Examen de tripsinógeno
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003560.htm
+
+Resource: Exploración abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002928.htm
+
+Resource: Exploración quirúrgica del abdomen
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100049_1.htm
+
+Resource: Exámen de sangre para gastrina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003697.htm
+
+Resource: Factores de riesgo para el cáncer de páncreas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Glucagonoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000326.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el cáncer de páncreas
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq#_1
+
+Resource: Información general sobre los tumores neuroendocrinos de páncreas (tumores de células de los islotes)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-tne-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Insulinoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000387.htm
+
+Resource: Marcadores tumorales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/marcadores-tumorales/
+
+Resource: Nuevas investigaciones sobre el cáncer pancreático pueden mejorar la detección y el tratamiento
+Category: NIH Revista MedlinePlus Salud, Spanish/Español
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/nuevas-investigaciones-sobre-el-cancer-pancreatico-pueden-mejorar-la-deteccion-y-el-tratamiento
+
+Resource: Preguntas que puede hacer sobre el cáncer de páncreas o cáncer pancreático
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/deteccion-diagnostico-clasificacion-por-etapas/la-comunicacion-con-su-medico.html
+
+Resource: Prueba de amilasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-amilasa/
+
+Resource: Prueba de CA-19-9 en sangre (cáncer de páncreas)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-ca-19-9-en-sangre-cancer-de-pancreas/
+
+Resource: Prueba de una vacuna de ARNm para tratar el cáncer de páncreas
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/prueba-de-una-vacuna-de-arnm-para-tratar-el-cancer-de
+
+Resource: Pruebas para el cáncer de páncreas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Síndrome de Zollinger-Ellison
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000325.htm
+
+Resource: Tomografía computarizada del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003789.htm
+
+Resource: Tratamiento de los tumores neuroendocrinos de páncreas (tumores de células de los islotes)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-tne-pdq#section/_84
+
+Resource: Tratamiento del cáncer de páncreas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/tratamiento.html
+
+Resource: Tratamiento del cáncer de páncreas (PDQ)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-pancreas-pdq#section/_37
+
+Resource: Tratamiento del cáncer de páncreas infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/pancreas/paciente/tratamiento-pancreas-infantil-pdq
+
+Resource: Tratamientos específicos contra el cáncer de páncreas son prometedores
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-tratamientos-especificos-contra-el-cancer-de-pancreas-son-prometedores
+
+Resource: Tumores neuroendocrinos pancreáticos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000393.htm
+
+Resource: Vida como sobreviviente de cáncer de páncreas o cáncer pancreático
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: Vipoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000228.htm
+
+Resource: ¿Qué es el cáncer de páncreas o cáncer pancreático?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/acerca/que-es-el-cancer-de-pancreas.html
+
+Resource: ¿Qué novedades hay en las investigaciones sobre el cáncer de páncreas o cáncer pancreático?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/acerca/nuevas-investigaciones.html
+
+Resource: ¿Se puede detectar el cáncer de páncreas en sus comienzos?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-pancreas/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html

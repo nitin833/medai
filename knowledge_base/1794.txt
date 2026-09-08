@@ -1,0 +1,671 @@
+Title: Cáncer
+
+Summary:
+¿Qué es el cáncer?
+El cáncer no es solo una enfermedad, sino muchas enfermedades. El cáncer comienza en las células, los componentes básicos del cuerpo. En general, el cuerpo forma células nuevas según sea necesario, reemplazando las células viejas que mueren. A veces, este proceso falla. Las células nuevas se multiplican incluso cuando no son necesarias y las células viejas no mueren cuando deberían. Estas células adicionales pueden formar una masa llamada tumor.
+Los tumores pueden ser benignos o malignos. Los
+tumores benignos
+no son cáncer, mientras que los malignos sí lo son. Las células de los tumores malignos pueden invadir los tejidos cercanos. También pueden desprenderse del tumor y propagarse a otras partes del cuerpo. La propagación del cáncer de una parte del cuerpo a otra se conoce como metástasis. Los síntomas y el tratamiento dependen del tipo de cáncer y de lo avanzado que esté.
+¿Cuáles son los tipos de cáncer?
+Hay más de 100 tipos diferentes de cáncer. El cáncer puede comenzar casi en cualquier parte del cuerpo. La mayoría de los tipos de cáncer recibe su nombre según el lugar donde comienza. Por ejemplo, el cáncer de pulmón comienza en el pulmón y el cáncer de mama comienza en la mama.
+El cáncer también se puede describir por el tipo de célula que lo formó, como sarcoma si el cáncer comienza en el hueso y el tejido blando. El carcinoma es el tipo más común de cáncer. Está formado por células epiteliales, las células que cubren las superficies internas y externas del cuerpo.
+¿Cómo se desarrolla el cáncer?
+El cáncer es una enfermedad
+genética
+. Esto significa que los cambios en los genes lo causan. Los cambios en los genes también se conocen como variantes genéticas o mutaciones. Los genes son partes del ADN de las células que heredamos de nuestros padres. Sin embargo, solo algunos tipos de cáncer son causados por genes traspasados de sus padres.
+Los cambios genéticos pueden ocurrir en los genes a lo largo de la vida que afectan el funcionamiento de las células. En general, el cuerpo se deshace de las células dañadas antes de que se vuelvan cancerosas, pero esta capacidad disminuye a medida que envejecemos. Otros factores que pueden afectar el riesgo de desarrollar cáncer pueden incluir:
+Exposición a los
+rayos ultravioleta (UV) del sol
+Fumar
+Su
+dieta
+Inactividad física
+¿Cuáles son los síntomas del cáncer?
+Los síntomas del cáncer dependen del tipo de cáncer. Por ejemplo, algunos de ellos pueden incluir:
+Un bulto en el seno
+Sangre en la orina (pis) o en las heces (caca)
+Sangrado
+o
+moretones
+sin causa aparente
+Una llaga que no cicatriza
+Problemas para tragar
+Un lunar nuevo o un cambio en un lunar que ya tiene
+El cáncer puede causar varios síntomas, pero a menudo no causa dolor. No espere hasta tener dolor para consultar a su profesional de la salud. Consulte a su proveedor si tiene síntomas que no mejoran en unas pocas semanas.
+¿Cómo se diagnostica el cáncer?
+No existe una prueba única capaz de diagnosticar el cáncer. En general, las pruebas que se solicitan se basan en sus síntomas. Su profesional de la salud puede:
+Preguntarle sobre su
+historia clínica
+Preguntarle sobre sus
+antecedentes médicos familiares
+, incluyendo parientes que hayan tenido cáncer
+Realizar un
+examen físico
+Hacerle una
+prueba de detección
+, como una
+mamografía
+, una
+colonoscopia
+o una prueba de Papanicolaou
+Solicitar análisis de sangre o
+pruebas de
+diagnóstico por imágenes
+Para averiguar si tiene cáncer, su proveedor de atención médica puede solicitar una
+biopsia
+, procedimiento que consiste en extraer y examinar tejido, células o líquidos del cuerpo.
+¿Cuáles son los tratamientos para el cáncer?
+El tratamiento depende del tipo de cáncer y de lo avanzado que esté. La mayoría de los planes de tratamiento pueden incluir cirugía,
+radiación
+y/o
+quimioterapia
+. Algunos pueden incluir terapia hormonal,
+inmunoterapia
+u otros tipos de terapia biológica, o
+trasplante de células madre
+.
+¿Se puede prevenir el cáncer?
+Normalmente no es posible saber exactamente por qué se desarrolla el cáncer en algunas personas, pero no en otras. Hay algunos factores que no se pueden controlar y que pueden aumentar o disminuir el riesgo de desarrollar cáncer, como heredar ciertos genes o la edad. Pero algunos hábitos de vida pueden aumentar el riesgo de tener ciertos tipos de cáncer. Evite o reduzca hábitos de vida como:
+Fumar y usar tabaco
+Exponerse demasiado al sol
+Beber demasiado
+alcohol
+No realizar suficiente actividad física
+Tener
+obesidad
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+
+Related Resources:
+
+Resource: Acerca de la investigación clínica del cáncer
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/aceerca-de-la-investigacion-clinica-del-cancer
+
+Resource: Acrilamida y el riesgo de cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-acrilamida
+
+Resource: Actividad física y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad/actividad-fisica-hoja-informativa
+
+Resource: Adaptación al cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/adaptacion-al-cancer
+
+Resource: Agua fluorada
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/mitos/hoja-informativa-agua-fluorada
+
+Resource: Alcohol y el riesgo de cáncer
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alcohol/hoja-informativa-alcohol
+
+Resource: Antioxidantes y prevención del cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-antioxidantes
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003369.htm
+
+Resource: Análisis del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003624.htm
+
+Resource: Aspectos generales de la prevención del cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/aspectos-generales-prevencion-paciente-pdq
+
+Resource: Aspectos generales de las opciones de tratamiento (carcinoma de sitio primario desconocido)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/primario-desconocido/paciente/tratamiento-primario-desconocido-pdq#_48
+
+Resource: Aspectos generales de las opciones de tratamiento (tumores extragonadales de células germinativas)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/extragonadal-celulas-germinativas/paciente/tratamiento-extragonadal-pdq#_51
+
+Resource: Aspirina para reducir el riesgo de cáncer
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/investigacion/aspirina
+
+Resource: Biopsia de ganglio linfático centinela
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/estadificacion/hoja-informativa-ganglio-centinela
+
+Resource: Biopsia de las vías respiratorias altas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003856.htm
+
+Resource: Brotes de cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/hoja-informativa-brotes
+
+Resource: Causas del cáncer: Mitos populares sobre las causas del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/cancer-causes/art-20044714?p=1
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cigarrillos "light" y el riesgo de cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/tabaco/hoja-informativa-cigarillos-light
+
+Resource: Cirugía contra el cáncer: Extirpación física del cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/cancer-surgery/art-20044171?p=1
+
+Resource: Conteo de células en LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003625.htm
+
+Resource: Cuando el cáncer se disemina: Mejorando los tratamientos de la metástasis
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/cuando-el-cancer-se-disemina
+
+Resource: Cuando su tratamiento para el cáncer deja de funcionar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000851.htm
+
+Resource: Cuidadores informales de pacientes con cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/familia-y-amigos/familiares-a-cargo-pdq
+
+Resource: Cáncer
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001289.htm
+
+Resource: Cáncer en niños: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cancerinchildren.html
+
+Resource: Cáncer metastático
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-metastatico
+
+Resource: Cáncer recurrente: Cáncer que regresa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-que-regresa
+
+Resource: Cáncer y las mujeres
+Category: Spanish/Español, Mujeres
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/cancer-and-women.html
+
+Resource: Cáncer y los ganglios linfáticos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000824.htm
+
+Resource: Cáncer y los hombres
+Category: Hombres, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/cancer-and-men.html
+
+Resource: Cáncer: Aspectos fundamentales
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/cancer.html
+
+Resource: Cáncer: Viviendo con cáncer: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cancerlivingwithcancer.html
+
+Resource: Cómo decirle a su hijo que tiene cáncer
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000934.htm
+
+Resource: Cómo hablar con un niño sobre la enfermedad terminal de uno de sus padres
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000848.htm
+
+Resource: Cómo investigar sobre el cáncer
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000927.htm
+
+Resource: Cómo reducir el riesgo de sufrir cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-reducir-el-riesgo-de-sufrir-cancer
+
+Resource: Cómo se diagnostica el cáncer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Datos y estadísticas sobre el cáncer entre los hispanos/latinos
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/investigacion/datos-y-estadisticas-del-cancer/datos-y-estadisticas-sobre-el-cancer-entre-los-hispanos.html
+
+Resource: Diagnóstico de cáncer: ¿Necesito una segunda opinión?
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000930.htm
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Edulcorantes artificiales y cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-edulcorantes-artificiales
+
+Resource: Electroforesis de proteínas en suero
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Entender las pruebas genéticas de riesgo de cáncer
+Category: Spanish/Español, Genética
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/prevencion-del-riesgo/genetica/pruebas-geneticas-para-evaluar-el-riesgo-de-cancer/comprension-de-las-pruebas-geneticas-para-el-cancer.html
+
+Resource: Entendiendo el pronóstico de su cáncer
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000926.htm
+
+Resource: Estadificación del cáncer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/estadificacion
+
+Resource: Estadios de los tumores extragonadales de células germinativas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/extragonadal-celulas-germinativas/paciente/tratamiento-extragonadal-pdq#_27
+
+Resource: Estadísticas del cáncer
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/naturaleza/estadisticas
+
+Resource: Estrés y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos/hoja-informativa-estres
+
+Resource: Estudios clínicos de cáncer en el Centro Clínico de los Institutos Nacionales de la Salud
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/centro-clinico
+
+Resource: Examen de deshidrogenasa láctica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003471.htm
+
+Resource: Examen de sangre para ACE
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003574.htm
+
+Resource: Exámenes y pruebas para el cáncer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/pruebas.html
+
+Resource: Genética del cáncer
+Category: Spanish/Español, Genética
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/genetica
+
+Resource: Grado del tumor
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/grado-del-tumor
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Guía de ensayos clínicos para el cáncer
+Category: Spanish/Español, Estudios clínicos, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000823.htm
+
+Resource: Hipertermia para el tratamiento del cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000904.htm
+
+Resource: Información sobre estudios clínicos para pacientes y cuidadores
+Category: Spanish/Español, Estudios clínicos
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/participe/estudios-clinicos
+
+Resource: Informes anatomopatológicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-informes-de-patologia
+
+Resource: Inhibidores de la angiogénesis
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/inmunoterapia/hoja-informativa-inhibidores-angiogenesis
+
+Resource: Inmunizaciones y vacunas contra la gripe para personas con cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/infections/vaccination-during-cancer-treatment.html
+
+Resource: Inmunoterapia para el cáncer: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cancerimmunotherapy.html
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Linfangiograma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003798.htm
+
+Resource: Marcadores tumorales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/marcadores-tumorales/
+
+Resource: Marcadores tumorales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico/hoja-informativa-marcadores-de-tumores
+
+Resource: Mitos comunes e ideas falsas acerca del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/mitos
+
+Resource: Más allá de los análisis básicos de sangre
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mas-alla-de-los-analisis-basicos-de-sangre
+
+Resource: Obesidad y cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad/hoja-informativa-obesidad
+
+Resource: Obesidad y el cáncer
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/risk-factors/obesity.html
+
+Resource: Plantas crucíferas y la prevención del cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-plantas-cruciferas
+
+Resource: Prevención del cáncer: Hágase cargo de su estilo de vida
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000825.htm
+
+Resource: Productos que afirman "curar" el cáncer son un engaño cruel
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-productos-que-afirman-curar-el-cancer-son-un-engano-cruel
+
+Resource: Programas e iniciativas de estudios clínicos del NCI (Instituto Nacional del Cáncer)
+Category: Spanish/Español, Estudios clínicos
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/estudios-clinicos
+
+Resource: Pronóstico del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/pronostico
+
+Resource: Prueba de cariotipo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cariotipo/
+
+Resource: Prueba de lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato-deshidrogenasa-ldh/
+
+Resource: Pruebas de biomarcadores para el tratamiento de cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/pruebas-de-biomarcadores-tratamiento-cancer
+
+Resource: Pruebas genéticas y su riesgo de cáncer
+Category: Spanish/Español, Genética
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000842.htm
+
+Resource: Quimioterapia para el cáncer: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cancerchemotherapy.html
+
+Resource: Qué es la estadificación del cáncer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000850.htm
+
+Resource: Radioterapia: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/radiationtherapy.html
+
+Resource: Sentimientos y el cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/sobrellevar/sentimientos
+
+Resource: Signos y síntomas del cáncer
+Category: Spanish/Español, Síntomas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/senales-y-sintomas-del-cancer.html
+
+Resource: Su equipo de atención del cáncer
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000929.htm
+
+Resource: Sustancias químicas en la carne cocinada a altas temperaturas y el riesgo de cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-carne-cocinada
+
+Resource: Síndrome de Peutz-Jeghers
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000244.htm
+
+Resource: Terapia alternativa para el cáncer: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/canceralternativetherapies.html
+
+Resource: Terapia coadyuvante: Tratamiento para evitar que el cáncer regrese
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/adjuvant-therapy/art-20046687?p=1
+
+Resource: Terapia con láser para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/cirugia/terapia-laser
+
+Resource: Terapia de hipertermia para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/terapia-de-hipertermia
+
+Resource: Terapia dirigida para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/terapia-dirigida
+
+Resource: Terapia dirigida: Qué preguntarle al médico
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000829.htm
+
+Resource: Terapia fotodinámica para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000906.htm
+
+Resource: Terapia fotodinámica para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/terapia-fotodinamica
+
+Resource: Terapia hormonal para la menopausia y el cáncer
+Category: Mujeres, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/hormonas/hoja-informativa-hormonas-menopausia
+
+Resource: Terapia láser para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000905.htm
+
+Resource: Terapias dirigidas para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000902.htm
+
+Resource: Teratoma maligno del mediastino
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001316.htm
+
+Resource: Tintes, otros productos para el cabello y el riesgo de cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/hoja-informativa-tintes-para-cabello
+
+Resource: Tipos de cáncer
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos
+
+Resource: Todo sobre cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer.html
+
+Resource: Tomografía computarizada para el cáncer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/hoja-informativa-tomografia-computarizada
+
+Resource: Tratamiento de los tumores de corazón (cardíacos) infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cardiaco/paciente-tratamiento-cardiaco-infantil-pdq
+
+Resource: Tratamiento del carcinoma de línea media con cambios en el gen NUT
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linea-media/paciente-tratamiento-carcinoma-linea-media-infantil-pdq
+
+Resource: Tratamiento del carcinoma de sitio primario desconocido infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/primario-desconocido/paciente/tratamiento-primario-desconocido-infantil-pdq
+
+Resource: Tratamiento para el cáncer: Cómo prevenir infecciones
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000913.htm
+
+Resource: Tratamiento para el cáncer: Menopausia temprana
+Category: Mujeres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000912.htm
+
+Resource: Tratamientos para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000901.htm
+
+Resource: Tumor
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001310.htm
+
+Resource: VIH y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/prevencion-del-riesgo/infecciones/infeccion-con-vih-sida.html
+
+Resource: Vitamina D y el cáncer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/alimentacion/hoja-informativa-vitamina-d
+
+Resource: ¿Cómo se mide el riesgo de cáncer?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/deteccion/aspectos-generales-deteccion-paciente-pdq#_8
+
+Resource: ¿Qué es el cáncer?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/naturaleza/que-es
+
+Resource: ¿Qué es un examen de detección del cáncer?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/deteccion/aspectos-generales-deteccion-paciente-pdq#_1
+
+Resource: ¿Qué sucede si el cáncer regresa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000833.htm

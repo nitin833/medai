@@ -1,0 +1,118 @@
+Title: Lactose Intolerance
+
+Also Called:
+- Dairy product intolerance
+- Lactase deficiency
+- Milk intolerance
+
+Summary:
+Lactose intolerance means that you cannot digest foods with lactose in them. Lactose is the sugar found in milk and foods made with milk. After eating foods with lactose in them, you may feel sick to your stomach. You may also have:
+Gas
+Diarrhea
+Swelling in your stomach
+Your doctor may do a blood, breath or stool test to find out if your problems are due to lactose intolerance.
+Lactose intolerance is not serious.  Eating less food with lactose, or using pills or drops to help you digest lactose usually helps. You may need to take a calcium supplement if you don't get enough of it from your diet, since milk and foods made with milk are the most common source of calcium for most people.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Metabolic Problems
+
+MeSH Headings:
+- Lactose Intolerance
+
+Related Resources:
+
+Resource: Allergic to Milk? Some Dark Chocolate Labeled as Dairy-Free May Still Contain Milk
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/allergic-milk-some-dark-chocolate-labeled-dairy-free-may-still-contain-milk
+
+Resource: ClinicalTrials.gov: Lactose Intolerance
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lactose+Intolerance%22&aggFilters=status:not%20rec
+
+Resource: Dairy-Free Diet (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dairy-free-diet.html
+
+Resource: Food Allergy Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/food-allergy-testing/
+
+Resource: Food Intolerance vs. Food Allergy: What's the Difference?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/food-allergy/expert-answers/food-allergy/faq-20058538?p=1
+
+Resource: Lactose Intolerance
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/lactose-intolerance/
+
+Resource: Lactose Intolerance
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/lactose-intolerance
+
+Resource: Lactose Intolerance
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lactose-intolerance/symptoms-causes/syc-20374232?p=1
+
+Resource: Lactose intolerance
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000276.htm
+
+Resource: Lactose Intolerance
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-eating/food-allergies-and-sensitivities/lactose-intolerance
+
+Resource: Lactose Intolerance (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/lactose.html
+
+Resource: Lactose Intolerance (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/lactose.html
+
+Resource: Lactose Intolerance (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/lactose-intolerance.html
+
+Resource: Lactose intolerance: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lactose-intolerance/
+
+Resource: Lactose tolerance tests
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003500.htm
+
+Resource: Lactose Tolerance Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactose-tolerance-tests
+
+Resource: Milk Allergy
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/milk-allergy/symptoms-causes/syc-20375101?p=1
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Lactose Intolerance
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lactose+Intolerance%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

@@ -1,0 +1,265 @@
+Title: Coronary Artery Disease
+
+Also Called:
+- CAD
+- Coronary arteriosclerosis
+- Coronary atherosclerosis
+- Coronary heart disease
+
+Summary:
+Coronary artery disease (CAD) is the most common type of heart disease. It is the leading cause of death in the United States in both men and women.
+CAD happens when the arteries that supply blood to heart muscle become hardened and narrowed. This is due to the buildup of
+cholesterol
+and other material, called plaque, on their inner walls. This buildup is called
+atherosclerosis
+. As it grows, less blood can flow through the arteries. As a result, the heart muscle can't get the blood or oxygen it needs. This can lead to chest pain (
+angina
+) or a
+heart attack
+.  Most heart attacks happen when a
+blood clot
+suddenly cuts off the hearts' blood supply, causing permanent heart damage.
+Over time, CAD can also weaken the heart muscle and contribute to
+heart failure
+and
+arrhythmias
+. Heart failure means the heart can't pump blood well to the rest of the body. Arrhythmias are changes in the normal beating rhythm of the heart.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Older Adults
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Coronary Artery Disease
+
+Related Resources:
+
+Resource: Acute Coronary Syndrome
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/about-heart-attacks/acute-coronary-syndrome
+
+Resource: Acute coronary syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007639.htm
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Angioplasty and stent - heart - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000091.htm
+
+Resource: Angioplasty and stent placement - heart
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007473.htm
+
+Resource: Angioplasty: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/angioplasty.html
+
+Resource: Atherosclerosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000171.htm
+
+Resource: Cardiac Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cardiacrehabilitation.html
+
+Resource: ClinicalTrials.gov: Coronary Artery Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Coronary+Artery+Disease%22&aggFilters=status:not%20rec
+
+Resource: Coronary angiography
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003876.htm
+
+Resource: Coronary Arteries
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/the-coronary-arteries/
+
+Resource: Coronary Artery Bypass Surgery: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/coronaryarterybypasssurgery.html
+
+Resource: Coronary artery disease
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000037.htm
+
+Resource: Coronary Artery Disease (Heart Attack)
+Category: Older Adults
+Organization: American Geriatrics Society
+URL: https://www.healthinaging.org/a-z-topic/coronary-artery-disease-heart-attack
+
+Resource: Coronary Artery Disease - Coronary Heart Disease
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/coronary-artery-disease
+
+Resource: Coronary Artery Disease Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/007115_34.htm
+
+Resource: Coronary Artery Disease: Angioplasty or Bypass Surgery?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/expert-answers/coronary-artery-disease/faq-20058302?p=1
+
+Resource: Coronary artery spasm
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000159.htm
+
+Resource: Coronary CTA (Computed Tomography Angiography)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocoroct
+
+Resource: Coronary heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007115.htm
+
+Resource: Drug-Eluting Stents: Do They Increase Heart Attack Risk?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronary-artery-disease/in-depth/drug-eluting-stents/art-20044911?p=1
+
+Resource: Heart Disease in Women: MedlinePlus Health Topic
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/heartdiseaseinwomen.html
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Heart PET scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007343.htm
+
+Resource: Heart Procedures and Surgeries
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/treatment-of-a-heart-attack/cardiac-procedures-and-surgeries
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: How to Prevent Heart Disease: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/howtopreventheartdisease.html
+
+Resource: Hypertensive heart disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000163.htm
+
+Resource: Intravascular Ultrasound
+Category: Diagnosis and Tests
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/intravascular-ultrasound/
+
+Resource: Left heart catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003871.htm
+
+Resource: Linking Air Pollution and Heart Disease
+Category: Statistics and Research
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sciencematters/linking-air-pollution-and-heart-disease
+
+Resource: Lipoprotein (a) Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lipoprotein-a-blood-test/
+
+Resource: Living with heart disease and angina
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000576.htm
+
+Resource: Magnetic resonance angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007269.htm
+
+Resource: Myocardial Ischemia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/myocardial-ischemia/symptoms-causes/syc-20375417?p=1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Nuclear stress test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007201.htm
+
+Resource: Coronary artery disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Coronary+Artery+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stent
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002303.htm
+
+Resource: VLDL test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003494.htm
+
+Resource: Vulnerable Plaque
+Category: Related Issues
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/vulnerable-plaque/
+
+Resource: Werner syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/werner-syndrome
+
+Resource: What Are Stents?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/stents
+
+Resource: What Is Atherosclerosis?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/atherosclerosis
+
+Resource: What Is Coronary Heart Disease?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/coronary-heart-disease

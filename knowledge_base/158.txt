@@ -1,0 +1,468 @@
+Title: Bacterial Infections
+
+Summary:
+What are bacteria?
+Bacteria are tiny organisms (living things) that have only one cell. Under a microscope, they look like balls, rods, or spirals. They can be found almost everywhere on Earth. There are lots of bacteria in and on your body. In fact, your body has about 10 times more bacteria cells than human cells.
+There are many different types of bacteria. Most types don't make you sick. Some types are helpful. For example, "good" bacteria in your digestive system can help your body digest food and absorb
+vitamins
+and
+minerals
+. They can help protect you from getting sick. Bacteria are also used in making foods like yogurt and cheese.
+But some types of bacteria can cause an infection and make you sick. They are called infectious bacteria. These bacteria can reproduce quickly in your body. Many of them give off toxins (poisons) that can damage your cells and make you sick. Other types can move into and damage your tissues. A few examples of bacteria that cause infections include
+Streptococcus
+,
+Staphylococcus
+, and
+E. coli
+.
+How do bacterial infections spread?
+There are different ways that bacterial infections may spread:
+Through droplets and particles that are breathed out by someone who has the infection. You might breathe in the droplets or particles, or they could land on your mouth, nose, or eyes.
+By touching surfaces or objects that have the bacteria on them and then touching your mouth, nose, or eyes.
+Through cuts, scrapes, and skin-to-skin contact with someone who has the infection.
+From the pregnant parent to the baby
+during pregnancy
+.
+Through
+contaminated food or water
+.
+By being bitten by an infected
+insect
+or
+animal
+.
+Through
+sexual contact
+(usually vaginal, anal and oral sex) with someone who has the infection.
+What are the treatments for bacterial infections?
+Sometimes your immune system may be able to fight off a bacterial infection. But when you do need treatment, it will be with
+antibiotics
+.
+When you take antibiotics, follow the directions carefully. Each time you take them, there is a risk that the bacteria will become resistant to the effects of the antibiotics. This is called
+antibiotic resistance
+. When this happens, the bacteria are not killed, and they continue to grow. They can cause resistant infections, which can be difficult, and sometimes impossible, to treat.
+Can bacterial infections be prevented?
+You can help prevent some bacterial infections by:
+Getting
+vaccines
+that protect against bacterial infections.
+Having
+good hygiene habits
+. These include washing your hands often and covering your mouth and nose when coughing or sneezing.
+Paying attention to
+food safety
+.
+Cleaning and disinfecting surfaces
+that your frequently touch.
+Preventing insect bites by using a U.S. Environmental Protection Agency (EPA)-registered insect repellent. when you go outdoors. If you travel to an area that has a high risk of diseases from insect bites, also wear long pants, shirts, and socks.
+Practicing safe sex. This means using a latex condom every time you have anal, vaginal, or oral sex. If your or your partner is
+allergic to latex
+, you can use polyurethane condoms.
+Avoiding close contact with people who are sick.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Bacterial Infections
+
+Related Resources:
+
+Resource: About Brucellosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/brucellosis/about/
+
+Resource: About Elizabethkingia
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/elizabethkingia/about/
+
+Resource: About Leptospirosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/leptospirosis/about/
+
+Resource: About Melioidosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/melioidosis/about/
+
+Resource: About Necrotizing Fasciitis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/necrotizing-fasciitis.html
+
+Resource: About Pseudomonas aeruginosa
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pseudomonas-aeruginosa/about/
+
+Resource: About Q Fever
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/q-fever/about/
+
+Resource: About Vibrio Infection
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vibrio/about/
+
+Resource: Acid-Fast Bacillus (AFB) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acid-fast-bacillus-afb-tests/
+
+Resource: Actinomycosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000599.htm
+
+Resource: Anaerobic Infections
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Anaerobic-Infections.aspx
+
+Resource: Antibiotic Resistance: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antibioticresistance.html
+
+Resource: Antibiotics: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antibiotics.html
+
+Resource: Arcanobacterium Haemolyticum Infections
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Arcanobacterium-Haemolyticum-Infections.aspx
+
+Resource: Arterial stick
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003422.htm
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Bacterial vaginosis - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000687.htm
+
+Resource: Bacterial vs. Viral Infections: How Do They Differ?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098?p=1
+
+Resource: Blood culture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003744.htm
+
+Resource: Blood Culture (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest3.html
+
+Resource: Brucellosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000597.htm
+
+Resource: Calprotectin Stool Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calprotectin-stool-test/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Bacterial Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bacterial+Infections%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Fasciitis, Necrotizing
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fasciitis,+Necrotizing%22&aggFilters=status:not%20rec
+
+Resource: Complement fixation test to C. burnetii
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003520.htm
+
+Resource: Culture - duodenal tissue
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003730.htm
+
+Resource: Erysipeloid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000632.htm
+
+Resource: Germs and Hygiene: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/germsandhygiene.html
+
+Resource: Germs: Understand and Protect against Bacteria, Viruses, and Infections
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289?p=1
+
+Resource: Gram stain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007621.htm
+
+Resource: Gram Stain
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/gram-stain/
+
+Resource: Gram stain of skin lesion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003760.htm
+
+Resource: Gram stain of tissue biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003453.htm
+
+Resource: Hot tub folliculitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001460.htm
+
+Resource: Hot Tub Rash (Pseudomonas Folliculitis)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pseudomonas-folliculitis-hot-tub-folliculitis/?Imiw9cApl=1
+
+Resource: Immunoglobulins Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/immunoglobulins-blood-test/
+
+Resource: Infection Control Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/infection-control/about/
+
+Resource: Infection Control: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/infectioncontrol.html
+
+Resource: Lepromin skin test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003383.htm
+
+Resource: Leptospirosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001376.htm
+
+Resource: Lymph node culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003737.htm
+
+Resource: Lymphangitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007296.htm
+
+Resource: Meningococcal Disease Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/meningococcal-disease-tests/
+
+Resource: Moraxella Catarrhalis: A Common Cause of Childhood Illnesses
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Moraxella-Catarrhalis-A-Common-Cause-of-Childhood-Illnesses.aspx
+
+Resource: National Foundation for Infectious Diseases
+Category: Find an Expert
+Organization: National Foundation for Infectious Diseases
+URL: https://www.nfid.org/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Necrotizing Skin Infections
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/infections/bacterial-skin-infections/necrotizing-skin-infections?query=necrotizing-skin-infections%20wingfield
+
+Resource: Necrotizing soft tissue infection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001443.htm
+
+Resource: Nocardia infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000679.htm
+
+Resource: Noma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001342.htm
+
+Resource: PCR Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pcr-tests
+
+Resource: Pleural fluid Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003722.htm
+
+Resource: Probiotics: Usefulness and Safety
+Category: Related Issues
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety
+
+Resource: Procalcitonin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/procalcitonin-test/
+
+Resource: Protein Electrophoresis by Immunofixation Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/immunofixation-ife-blood-test/
+
+Resource: Psittacosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000088.htm
+
+Resource: Bacterial Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bacterial+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary actinomycosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000074.htm
+
+Resource: Pulmonary nocardiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000083.htm
+
+Resource: Q fever
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000611.htm
+
+Resource: Rapid Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rapid-tests/
+
+Resource: Rat-bite fever
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001348.htm
+
+Resource: Respiratory Pathogens Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/respiratory-pathogens-panel/
+
+Resource: Rickettsialpox
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001351.htm
+
+Resource: Serology for brucellosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003536.htm
+
+Resource: Shigella Infections (Shigellosis)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/shigella.html
+
+Resource: Shigellosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000295.htm
+
+Resource: Sputum Culture
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sputum-culture/
+
+Resource: Stool Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003757.htm
+
+Resource: Swimming pool granuloma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001357.htm
+
+Resource: Tularemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000856.htm
+
+Resource: Tularemia blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003523.htm
+
+Resource: Typhus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001363.htm
+
+Resource: Vibrio
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/vibrio-pregnancy/
+
+Resource: What Are Germs?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/germs.html
+
+Resource: What Is Sepsis?
+Category: Related Issues
+Organization: National Institute of General Medical Sciences
+URL: https://www.nigms.nih.gov/education/fact-sheets/Pages/sepsis
+
+Resource: White Blood Cell (WBC) in Stool
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/white-blood-cell-wbc-in-stool/
+
+Resource: Yaws
+Category: Specifics
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/yaws
+
+Resource: Yaws
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001341.htm

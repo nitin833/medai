@@ -1,0 +1,98 @@
+Title: Haemophilus Infections
+
+Summary:
+Haemophilus is the name of a group of bacteria. There are several types of Haemophilus. They can cause different types of illnesses involving breathing, bones and joints, and the nervous system.
+One common type, Hib (Haemophilus influenzae type b), causes serious disease. It usually strikes children under 5 years old. Your child can get Hib disease by being around other children or adults who may have the bacteria and not know it. The germs spread from person to person. If the germs stay in the child's nose and throat, the child probably will not get sick. But sometimes the germs spread into the lungs or the bloodstream, and then Hib can cause serious problems such as
+meningitis
+and
+pneumonia
+.
+Treatment is with antibiotics. There is a vaccine to prevent Hib disease. All children younger than 5 years of age should be vaccinated with the Hib vaccine.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Haemophilus Infections
+
+Related Resources:
+
+Resource: About Haemophilus influenzae Disease
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hi-disease/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Haemophilus Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Haemophilus+Infections%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Haemophilus influenzae type b
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Haemophilus+influenzae+type+b%22&aggFilters=status:not%20rec
+
+Resource: Epiglottitis
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/epiglottitis/symptoms-causes/syc-20372227?p=1
+
+Resource: Epiglottitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000605.htm
+
+Resource: H influenzae meningitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000612.htm
+
+Resource: Haemophilus influenzae Disease Symptoms and Complications
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hi-disease/symptoms/
+
+Resource: Haemophilus Influenzae Type b
+Category: Diagnosis and Tests
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/vaccine-preventable-diseases/Pages/Haemophilus-Influenzae-type-b.aspx
+
+Resource: Haemophilus Influenzae Type b (Hib) Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/hib.pdf
+
+Resource: Haemophilus Influenzae Type B (Hib): Questions and Answers
+Category: Start Here
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4206.pdf
+
+Resource: Hib (Haemophilus influenzae type B) Photos
+Category: Images
+Organization: Immunization Action Coalition
+URL: https://www.vaccineinformation.org/photos/hib/
+
+Resource: Hib Vaccination
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hi-disease/vaccines/
+
+Resource: Haemophilus Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Haemophilus+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Factors for Haemophilus influenzae Disease
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hi-disease/risk-factors/
+
+Resource: Your Child's Vaccines: Hib Vaccine
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hib-vaccine.html

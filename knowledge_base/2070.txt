@@ -1,0 +1,52 @@
+Title: Ozono
+
+Summary:
+El ozono es un gas incoloro que se encuentra en el aire que respiramos. Puede ser bueno o malo, dependiendo de donde se encuentre. El ozono "bueno" se encuentra en la naturaleza a aproximadamente 10 a 30 millas sobre la superficie terrestre. Nos protege de los rayos ultravioleta del sol. Parte de la capa de ozono bueno desapareció por sustancias químicas fabricadas por el hombre. Sin suficiente ozono bueno, las personas pueden exponerse a demasiada radiación ultravioleta. Eso puede aumentar el riesgo de cáncer en la piel, cataratas y problemas en el sistema inmunitario.
+El ozono "malo" se encuentra al nivel del suelo. Se forma cuando los contaminantes de los automóviles, las fábricas y otras fuentes reaccionan químicamente con la luz del sol. Es el componente principal del
+smog
+. Suele ser peor en verano. Respirar el ozono malo puede ser dañino. Provoca tos, irritación en la garganta, empeoramiento de afecciones como
+asma
+,
+bronquitis y enfisema
+y hasta daños pulmonares permanentes, si la exposición a éste es habitual.
+Agencia de Protección Ambiental
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Contaminación atmosférica y asma (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/ozone-asthma.html
+
+Resource: Contaminación atmosférica y el asma (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ozone-asthma.html
+
+Resource: Guía de la calidad del aire sobre el ozono
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://www.airnow.gov/sites/default/files/2018-05/air-quality-guide_ozone_SPA.pdf
+
+Resource: Purificadores de aire con generador de ozono: ¿Pueden mejorar los síntomas del asma?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/asthma/expert-answers/asthma/faq-20058187?p=1
+
+Resource: Smog: ¿A quién perjudica?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=00002RWJ.txt
+
+Resource: ¡Consiga sus gases de invernadero gomosos!
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Administración Nacional de Aeronáutica y del Espacio
+URL: https://spaceplace.nasa.gov/gumdrops/sp/
+
+Resource: ¿Vivir en un invernadero? ¡Sería terrible!
+Category: Adolescentes, Spanish/Español
+Organization: Administración Nacional de Aeronáutica y del Espacio
+URL: https://spaceplace.nasa.gov/greenhouse/sp/

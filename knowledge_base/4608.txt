@@ -1,0 +1,103 @@
+Title: Winter Weather Emergencies
+
+Summary:
+What kinds of problems can severe winter weather cause?
+Winter storms can bring extreme cold, freezing rain, snow, ice, and high winds. Staying safe and warm can be a challenge. You may have to cope with problems such as:
+Cold-related health problems, including
+frostbite
+and
+hypothermia
+Household fires and carbon monoxide poisoning from space heaters and fireplaces
+Unsafe driving conditions on icy roads
+Power failures and loss of communication
+Floods
+after the snow and ice melt
+How can I prepare for a winter weather emergency?
+If there is a winter storm coming, there are things you can do to try to keep yourself and your loved ones safe:
+Have a
+disaster plan
+that includes
+Making sure that you have important phone numbers, including numbers for your health care providers, pharmacy, and veterinarian
+Having a communication plan for your family
+Knowing how to get reliable information during the storm
+Prepare your home to keep out the cold with insulation, caulking, and weather stripping. Learn how to keep pipes from freezing.
+Gather supplies in case you need to stay home for several days without power
+If you plan to use your fireplace or wood stove for emergency heating, have your chimney or flue inspected each year
+Install a smoke detector and a battery-operated carbon monoxide detector
+If you have to travel, be sure you have an emergency car kit with some basic supplies like
+An ice scraper
+A shovel
+Cat litter or sand for better tire traction
+Water and snacks
+Extra warm clothing
+Jumper cables
+First aid kit with any necessary medicines and a pocketknife
+A battery-powered radio, a flashlight, and extra batteries
+Emergency flares or distress flags
+Waterproof matches and a can to melt snow for water
+If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Centers for Disease Control and Prevention
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Emergencies
+- Cold Climate
+
+Related Resources:
+
+Resource: DisasterAssistance.gov
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: How Do I Keep My Children Safe and Warm during Winter Power Outages?
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/warm-when-the-power-goes-out.aspx
+
+Resource: Hypothermia and Frostbite: Easier to Develop Than You Might Think
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/hypothermia-and-frostbite-easier-to-develop-than-you-might-think
+
+Resource: National Weather Service: Watch, Warning, Advisory Display
+Category: Learn More
+Organization: National Oceanic and Atmospheric Administration
+URL: https://www.spc.noaa.gov/products/wwa/
+
+Resource: Preparing for a Winter Storm
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/winter-weather/safety/
+
+Resource: Winter Weather Emergencies
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Emergencies%22%5Bmajr%3Anoexp%5D+AND+%22Cold+Climate%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety Guidelines: During & After a Winter Storm
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html
+
+Resource: Snowstorms and Extreme Cold
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/winter-weather
+
+Resource: Winter Storm Safety
+Category: Learn More
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/winter-storm.html
+
+Resource: Winter Weather
+Category: Learn More
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/winter-weather

@@ -1,0 +1,218 @@
+Title: Fungal Infections
+
+Also Called:
+- Mycoses
+
+Summary:
+If you have ever had
+athlete's foot
+or a
+yeast infection
+, you can blame a fungus. A fungus is a primitive organism. Mushrooms,
+mold
+and mildew are examples. Fungi live in air, in soil, on plants and in water. Some live in the human body. Only about half of all types of fungi are harmful.
+Some fungi reproduce through tiny spores in the air. You can inhale the spores or they can land on you. As a result, fungal infections often start in the lungs or on the skin. You are more likely to get a fungal infection if you have a weakened immune system or take antibiotics.
+Fungi can be difficult to kill. For skin and nail infections, you can apply medicine directly to the infected area. Oral antifungal medicines are also available for serious infections.
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Mycoses
+
+Related Resources:
+
+Resource: About Cryptococcosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cryptococcosis/about/
+
+Resource: About Fungal Meningitis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/meningitis/about/fungal-meningitis.html
+
+Resource: Blastomycosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000102.htm
+
+Resource: Blastomycosis Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/blastomycosis/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Histoplasmosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Histoplasmosis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Mycoses
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mycoses%22&aggFilters=status:not%20rec
+
+Resource: Cryptococcosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001328.htm
+
+Resource: Fungal arthritis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000444.htm
+
+Resource: Fungal Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fungal-culture-test/
+
+Resource: Fungal Diseases
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fungal/
+
+Resource: Fungal nail infection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001330.htm
+
+Resource: Fungal Nail Infection (Onychomycosis)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/onychomycosis/?Imiw9cApl=1
+
+Resource: Fungal Sinusitis
+Category: Specifics
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/fungal-sinusitis/
+
+Resource: Fungus Infections: Preventing Recurrence
+Category: Prevention and Risk Factors
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/FungusInfectionsP?
+
+Resource: Guidance for Investigating Fungal Disease Outbreaks
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fungal/php/guidance-investigating-outbreaks/
+
+Resource: Hypersensitivity pneumonitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000109.htm
+
+Resource: Lymph node culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003737.htm
+
+Resource: Mucormycosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000649.htm
+
+Resource: Mucormycosis Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mucormycosis/about/
+
+Resource: Nail Fungus
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/nail-fungus/symptoms-causes/syc-20353294?p=1
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing the Spread of C. auris
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/candida-auris/prevention/
+
+Resource: Fungal infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mycoses%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rash Evaluation
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rash-evaluation/
+
+Resource: Ringworm and Fungal Nail Infections Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ringworm/about/
+
+Resource: Risk Factors for Fungal Diseases
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fungal/risk-factors/
+
+Resource: Skin lesion of blastomycosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000865.htm
+
+Resource: Skin Rashes and Other Skin Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/skin-rashes-other-skin-problems-2/
+
+Resource: Sporotrichosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001338.htm
+
+Resource: Sporotrichosis Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sporotrichosis/about/
+
+Resource: Sputum Culture
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sputum-culture/
+
+Resource: Sputum fungal smear
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003736.htm
+
+Resource: Synovial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003922.htm
+
+Resource: Tinea versicolor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001465.htm
+
+Resource: Tinea Versicolor
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-versicolor/?Imiw9cApl=1
+
+Resource: Tinea versicolor: Overview
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/tinea-versicolor-overview?NoAds
+
+Resource: Treating Fungal Diseases with Antifungals
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fungal/treatment/index.html
+
+Resource: What Is Fungal Keratitis?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-fungal-keratitis

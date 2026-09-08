@@ -1,0 +1,255 @@
+Title: Sports Injuries
+
+Summary:
+Exercising is good for you, but sometimes you can injure yourself when you play sports or exercise. Accidents, poor training practices, or improper gear can cause them. Some people get hurt because they are not in shape. Not warming up or stretching enough can also lead to injuries.
+The most common sports injuries are:
+Sprains and strains
+Knee injuries
+Swollen muscles
+Achilles tendon injuries
+Pain along the shin bone
+Rotator cuff injuries
+Fractures
+(broken bones)
+Dislocations
+If you get hurt, stop playing. Continuing to play or exercise can cause more harm.  Treatment often begins with the RICE (Rest, Ice, Compression, and Elevation) method to relieve pain, reduce swelling, and speed healing. Other possible treatments include pain relievers, keeping the injured area from moving, rehabilitation, and sometimes surgery.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Injuries and Wounds
+- Wellness and Lifestyle
+- Fitness and Exercise
+
+MeSH Headings:
+- Athletic Injuries
+
+Related Resources:
+
+Resource: Achilles tendon repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007643.htm
+
+Resource: ACL reconstruction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007208.htm
+
+Resource: Acute mountain sickness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000133.htm
+
+Resource: Ankle Sprains
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ankle-sprains.html
+
+Resource: Back pain and sports
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000519.htm
+
+Resource: Burners
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/burners/
+
+Resource: Chronic Exertional Compartment Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-exertional-compartment-syndrome/symptoms-causes/syc-20350830?p=1
+
+Resource: Chronic Traumatic Encephalopathy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921?p=1
+
+Resource: ClinicalTrials.gov: Athletic Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Athletic+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Concussion
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000034.htm
+
+Resource: Data on Sports and Recreation Activities
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/data/index.html
+
+Resource: Dealing with Sports Injuries
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sports-injuries.html
+
+Resource: Ear Injuries (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ear-injuries.html
+
+Resource: Exercise-Induced Urticaria
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/exercise-induced-urticaria/
+
+Resource: Foot Health Facts for Athletes
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/article/foot-health-facts-for-athletes
+
+Resource: Golf Injury Prevention
+Category: Prevention and Risk Factors
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/staying-healthy/golf-injury-prevention/
+
+Resource: Golfer's Elbow
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/golfers-elbow/symptoms-causes/syc-20372868?p=1
+
+Resource: Hamstring Injury
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hamstring-injury/symptoms-causes/syc-20372985?p=1
+
+Resource: Head Injuries
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/head-injuries/
+
+Resource: How to avoid exercise injuries
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000859.htm
+
+Resource: Jumper's Knee (Patellar Tendonitis) (For Parents)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jumpers-knee.html
+
+Resource: Lactic acidosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000391.htm
+
+Resource: Medial epicondylitis - golfer's elbow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007638.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: New Concussion Model for College Athletes May Help Predict Longer Recovery Times
+Category: Statistics and Research
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/news-events/newsroom/new-concussion-model-college-athletes-may-help-predict-longer-recovery-times
+
+Resource: Osgood-Schlatter disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001258.htm
+
+Resource: Sports Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Athletic+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quadriceps Contusion
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/quad-contusions.html
+
+Resource: Responding to a Sports-related Concussion
+Category: Teenagers
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/response/index.html
+
+Resource: Returning to sports after a back injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000518.htm
+
+Resource: Rotator cuff problems
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000438.htm
+
+Resource: Sever's Disease
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/severs-disease.html
+
+Resource: Shin Splints
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/shin-splints/symptoms-causes/syc-20354105?p=1
+
+Resource: Shin splints - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000654.htm
+
+Resource: Shoulder Impingement/Rotator Cuff Tendinitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/shoulder-impingementrotator-cuff-tendinitis
+
+Resource: Sports Hernia (Athletic Pubalgia)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/sports-hernia-athletic-pubalgia/
+
+Resource: Sports Injuries
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/sports-injuries
+
+Resource: Sports Safety: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/sportssafety.html
+
+Resource: Sprains
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sprains/symptoms-causes/syc-20377938?p=1
+
+Resource: Stress Fractures
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/stress-fractures/symptoms-causes/syc-20354057?p=1
+
+Resource: Tennis Elbow
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tennis-elbow/symptoms-causes/syc-20351987?p=1
+
+Resource: Tennis elbow
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000449.htm
+
+Resource: Tennis Elbow (Lateral Epicondylitis)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/tennis-elbow-lateral-epicondylitis/
+
+Resource: Testicular Injuries
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/testicular-injuries.html
+
+Resource: Venous Thromboembolism and Marathon Athletes
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.113.004586
+
+Resource: When Can Teens Go Back to Sports After a Concussion?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/concussions-sports.html

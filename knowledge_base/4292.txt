@@ -1,0 +1,88 @@
+Title: Gas
+
+Summary:
+Todas las personas tienen gases. La mayoría de las personas expulsa gases entre 13 y 21 veces al día. Los gases eliminados por la boca se llaman eructos. La eliminación a través del recto se llama flatulencia. La mayoría de las veces el gas no tiene olor. El olor proviene de las bacterias en el intestino grueso que liberan pequeñas cantidades de gases que contienen sulfuro.
+El gas en las vías intestinales tiene dos orígenes: El aire que se traga y la descomposición de la comida no digerida por las bacterias en el intestino grueso. Ciertos alimentos pueden causar gases. Las comidas que producen gases en una persona pueden no causarlos en otra.
+Para disminuir la cantidad de gases que se expulsa al día, usted puede:
+Tomar mucha agua y bebidas sin gas
+Comer más despacio, así no traga tanto aire al comer
+Evitar productos lácteos si usted tiene
+intolerancia a la lactosa
+Algunos medicamentos pueden ayudar a reducir la cantidad de gas o de dolor e hinchazón que causa el gas. Si los síntomas todavía son molestos, consulte con su proveedor de cuidados de salud.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+- Síntomas
+
+Related Resources:
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Dieta blanda
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000068.htm
+
+Resource: Distensión abdominal
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003123.htm
+
+Resource: Eructar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003080.htm
+
+Resource: Eructos, distensión abdominal y flatulencia
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Gastroenterología
+URL: https://gi.org/patients/recursos-en-espanol/eructos-distension-abdominal-y-flatulencia/
+
+Resource: Eructos, gases intestinales y distensión abdominal: Consejos para reducirlos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gas-and-gas-pains/in-depth/gas-and-gas-pains/art-20044739?p=1
+
+Resource: Gas en el tubo digestivo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/gas-tubo-digestivo?dkrd=/health-information/informacion-de-la-salud/enfermedades-digestivas/gas-tracto-digestivo
+
+Resource: Gases o flatulencia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003124.htm
+
+Resource: Gases y dolores por gases
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gas-and-gas-pains/symptoms-causes/syc-20372709?p=1
+
+Resource: Gases y dolores por gases: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gas-and-gas-pains/diagnosis-treatment/drc-20372714?p=1
+
+Resource: Hacer eructar a su bebé
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/burping.html
+
+Resource: ¿Por qué eructo?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/burp.html
+
+Resource: ¿Qué es un pedo?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/fart.html

@@ -1,0 +1,63 @@
+Title: Granulomatosis con poliangeítis
+
+Also Called:
+- Granulomatosis de Wegener
+
+Summary:
+La granulomatosis con poliangeítis, conocida anteriormente como granulomatosis de Wegener, es una enfermedad rara. Es un tipo de
+vasculitis
+o inflamación de los vasos sanguíneos. La inflamación limita el flujo de sangre hacia órganos importantes y provoca daños. Puede afectar cualquier órgano, pero afecta principalmente los senos paranasales, la nariz, la tráquea, los pulmones y los riñones.
+Se desconoce la causa de la granulomatosis con poliangeítis. Puede afectar a personas de cualquier edad. Hombres y mujeres la sufren por igual. Es más común en caucásicos. Los síntomas pueden incluir dolor de las articulaciones, debilidad, cansancio y síntomas gripales como secreción nasal que no mejora. Los médicos utilizan análisis de sangre, radiografías de tórax y biopsias para diagnosticar la enfermedad y descartar otras causas según los síntomas.
+El tratamiento temprano es importante. La mayoría de las personas mejora con medicinas reducen o detienen la inflamación.
+
+Groups:
+- Sangre, corazón y circulación
+- Riñones y sistema urinario
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Granulomatosis con poliangitis
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/granulomatosis-with-polyangiitis/symptoms-causes/syc-20351088?p=1
+
+Resource: Granulomatosis con poliangitis (granulomatosis de Wegener)
+Category: Más información, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/granulomatosis-con-poliangitis-granulomatosis-de-wegener
+
+Resource: Granulomatosis con poliangitis: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/granulomatosis-with-polyangiitis/diagnosis-treatment/drc-20351093?p=1
+
+Resource: Poliangitis granulomatosa
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000135.htm
+
+Resource: Prueba de anticuerpos frente al citoplasma de los neutrófilos
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-frente-al-citoplasma-de-los-neutrofilos/
+
+Resource: Radiografía torácica
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Rayos X del tórax
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Tasa de sedimentación eritrocítica
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/tasa-de-sedimentacion-eritrocitica/
+
+Resource: Tomografía computarizada del tórax
+Category: Más información, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestct

@@ -1,0 +1,132 @@
+Title: Pruebas de laboratorio
+
+Also Called:
+- Tests de laboratorio
+
+Summary:
+Las pruebas de laboratorio examinan muestras de sangre, orina o tejidos corporales. Un técnico o el médico analizan las muestras para determinar si los resultados están dentro de los límites normales. Los análisis usan un rango de valores porque lo que se considera normal varía de una persona a otra. Muchos factores afectan los resultados de los análisis. Entre ellos:
+Sexo, edad y raza
+Lo que come y lo que bebe
+Las medicinas que toma
+El seguimiento de las instrucciones antes del análisis
+El médico también puede comparar los resultados con análisis anteriores. Las pruebas de laboratorio son a menudo parte de un examen de rutina para detectar cambios en su salud. También ayudan a los médicos a diagnosticar cuadros clínicos, planificar o evaluar tratamientos y controlar enfermedades.
+
+Groups:
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Análisis de heces
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: Análisis de orina: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/urinalysis.html
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Ayunar para una prueba de sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/ayunar-para-una-prueba-de-sangre/
+
+Resource: Biobancos (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/biobanks.html
+
+Resource: Biopsia: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/biopsy.html
+
+Resource: Biosensores y su salud
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/biosensores-y-su-salud
+
+Resource: Cultivo de sangre (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest3.html
+
+Resource: Cómo afrontar la ansiedad causada por los exámenes médicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-afrontar-la-ansiedad-causada-por-los-examenes-medicos/
+
+Resource: Cómo entender el resultado de sus pruebas de laboratorio
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-entender-el-resultado-de-sus-pruebas-de-laboratorio/
+
+Resource: Cómo preparar a su hijo para una prueba de laboratorio
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-preparar-a-su-hijo-para-una-prueba-de-laboratorio/
+
+Resource: Cómo prepararse para una prueba de laboratorio
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-prepararse-para-una-prueba-de-laboratorio/
+
+Resource: Cómo se diagnostica el cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/diagnostico
+
+Resource: Diagnóstico diferencial
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/diagnostico-diferencial/
+
+Resource: Hacer un análisis de sangre
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/blood-tests.html
+
+Resource: Información sobre pruebas médicas
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/
+
+Resource: Lo que usted debe saber sobre los análisis de sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/lo-que-usted-debe-saber-sobre-los-analisis-de-sangre/
+
+Resource: Muestreo venoso
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/venous-sampling
+
+Resource: Prueba de hemoglobina glicosilada (HbA1c): Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/a1c.html
+
+Resource: Pruebas de química sanguínea básica (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest5.html
+
+Resource: Pruebas funcionales hepáticas
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Pruebas médicas en el hogar
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-medicas-en-el-hogar/
+
+Resource: Recolección de una muestra de heces para analizar
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stool-tests-done.html

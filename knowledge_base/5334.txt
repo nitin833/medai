@@ -1,0 +1,159 @@
+Title: Oxygen Therapy
+
+Summary:
+What is oxygen?
+Oxygen is a gas that your body needs to work properly. Your cells need oxygen to make energy. Your lungs absorb oxygen from the air you breathe. The oxygen enters your blood from your lungs and travels to your organs and body tissues.
+Certain medical conditions can cause your blood oxygen levels to be too low. Low blood oxygen may make you feel
+short of breath
+, tired, and confused. It can also damage your body. Oxygen therapy can help you get more oxygen.
+What is oxygen therapy?
+Oxygen therapy is a treatment that provides you with extra oxygen to breathe in. It is also called supplemental oxygen. It is only available through a prescription from your health care provider. You may get it in the hospital, another medical setting, or at home. Some people only need it for a short period of time. Others will need long-term oxygen therapy.
+There are different types of devices that can give you oxygen. Some use tanks of liquid or gas oxygen. Others use an oxygen concentrator, which pulls oxygen out of the air. You will get the oxygen through a nose tube (cannula), a mask, or a tent. The extra oxygen is breathed in along with normal air.
+There are portable versions of the tanks and oxygen concentrators. They can make it easier for you to move around while using your therapy.
+Who needs oxygen therapy?
+You may need oxygen therapy if you have a condition that causes low blood oxygen, such as:
+COPD
+(chronic obstructive pulmonary disease)
+Pneumonia
+COVID-19
+A severe
+asthma
+attack
+Late-stage
+heart failure
+Cystic fibrosis
+Sleep apnea
+What are the risks of using oxygen therapy?
+Oxygen therapy is generally safe, but it can cause side effects. They include a dry or bloody nose, tiredness, and morning headaches.
+Oxygen poses a fire risk, so you should never smoke or use flammable materials when using oxygen. If you use oxygen tanks, make sure your tank is secured and stays upright. If it falls and cracks or the top breaks off, the tank can fly like a missile.
+What is hyperbaric oxygen therapy?
+Hyperbaric oxygen therapy (HBOT) is a different type of oxygen therapy. It involves breathing oxygen in a pressurized chamber or tube. That allows your lungs to gather up to three times more oxygen than you would get by breathing oxygen at normal air pressure. The extra oxygen moves through your blood and to your organs and body tissues.
+HBOT is used to treat certain serious
+wounds
+,
+burns
+, injuries, and infections. It also treats air or gas embolisms (bubbles of air in your bloodstream), decompression sickness suffered by divers, and
+carbon monoxide poisoning
+.
+But some treatment centers claim that HBOT can treat almost anything, including
+Alzheimer's disease
+,
+autism
+,
+cancer
+, and
+Lyme disease
+. The U.S. Food and Drug Administration (FDA) has not cleared or approved the use of HBOT for these conditions. There are risks to using HBOT, so always check with your provider before you try it.
+
+Groups:
+- Lungs and Breathing
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Oxygen Inhalation Therapy
+
+Related Resources:
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: ClinicalTrials.gov: Hyperbaric Oxygenation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperbaric+Oxygenation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Oxygen Inhalation Therapy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Oxygen+Inhalation+Therapy%22&aggFilters=status:not%20rec
+
+Resource: Five Steps for Successful Flying with Oxygen
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/blog/flying-with-oxygen
+
+Resource: Hyperbaric Oxygen Therapy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/hyperbaric-oxygen-therapy/about/pac-20394380?p=1
+
+Resource: Hyperbaric oxygen therapy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: Lung Disease Treatments
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-treatments
+
+Resource: Mechanical Ventilation
+Category: Related Issues
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/mechanical-ventilation.pdf
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: On the Go with a Portable Oxygen Concentrator (POC)
+Category: Related Issues
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/on-the-go-with-oxygen/on-the-go-with-a-portable-oxygen-concentrator-poc
+
+Resource: Oxygen safety
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000049.htm
+
+Resource: Oxygen Therapy
+Category: Start Here
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/oxygen-therapy.pdf
+
+Resource: Oxygen Therapy
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy
+
+Resource: Oxygen therapy in infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007242.htm
+
+Resource: Oxygen Therapy: Traveling with Oxygen
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy/traveling-with-oxygen
+
+Resource: Oxygen Therapy: Using Oxygen Safely
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy/using-oxygen-safely
+
+Resource: Oxygen Therapy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Oxygen+Inhalation+Therapy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse Oximeters and Oxygen Concentrators: What to Know About At-Home Oxygen Therapy
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics
+
+Resource: Traveling with breathing problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000066.htm
+
+Resource: Using oxygen at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000048.htm
+
+Resource: Using oxygen at home - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000251.htm

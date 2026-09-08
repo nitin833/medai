@@ -1,0 +1,82 @@
+Title: Paperas
+
+Also Called:
+- Parotiditis
+
+Summary:
+Las paperas son causadas por el virus de las paperas. La enfermedad comienza con estos síntomas:
+Fiebre
+Dolor de cabeza
+Dolores musculares
+Cansancio
+Pérdida del apetito
+Luego de la aparición de estos síntomas, las glándulas salivales bajo las orejas o mandíbula se inflaman. Esta inflamación puede ser en uno o en los dos lados de la cara. Los síntomas duran entre siete a 10 días. Las complicaciones serias son muy raras.
+Se puede adquirir paperas por estar con otra persona que tenga la enfermedad. No existe un tratamiento para las paperas, pero la vacuna contra las paperas, el sarampión y la rubéola (triple viral o MMR, por sus siglas en inglés) pueden prevenirla.
+Antes de los programas de vacunación en los Estados Unidos, las paperas era una enfermedad muy común entre recién nacidos, bebés y jóvenes. En la actualidad, esta enfermedad es muy poco frecuente.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Niños y adolescentes
+- Infecciones
+
+Related Resources:
+
+Resource: Acerca de las paperas
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/mumps/es/about/acerca-de-las-paperas.html
+
+Resource: Orquitis
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001280.htm
+
+Resource: Paperas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001557.htm
+
+Resource: Paperas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mumps/symptoms-causes/syc-20375361?p=1
+
+Resource: Parotiditis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/infecciones-v%C3%ADricas-frecuentes-en-lactantes-y-ni%C3%B1os/parotiditis
+
+Resource: Pruebas de sarampión y paperas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-sarampion-y-paperas/
+
+Resource: Pruebas de serología de anticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-serologia-de-anticuerpos/
+
+Resource: Sarampión, paperas y rubéola, la vacuna MMR y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/sarampion-paperas-rubeola-la-vacuna-mmr/
+
+Resource: Síntomas y complicaciones de las paperas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/mumps/es/signs-symptoms/sintomas-y-complicaciones-de-las-paperas.html
+
+Resource: Vacuna (sarampión, paperas y rubéola) MMR
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_mmr.pdf
+
+Resource: Vacuna contra MMRV: Lo que usted necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_mmrv.pdf
+
+Resource: Vacunación contra las paperas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/mumps/es/vaccines/vacunacion-contra-las-paperas.html

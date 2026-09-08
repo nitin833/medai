@@ -1,0 +1,56 @@
+Title: Síndrome de Usher
+
+Summary:
+El síndrome de Usher es una enfermedad hereditaria que causa una pérdida grave de la audición y retinitis pigmentosa, un trastorno ocular que causa un deterioro de la visión con el tiempo. Es la afección más común que afecta tanto la audición como la visión.
+Existen tres tipos de síndrome de Usher:
+Las personas con tipo I son sordas de nacimiento y tienen problemas de equilibrio grave desde una edad temprana. Los problemas de visión por lo general comienzan a los 10 años y conducen a la ceguera
+Las personas con tipo II tienen sordera moderada a severa y equilibrio normal. Los problemas de visión empiezan a principios de la adolescencia y empeoran más lentamente que en el tipo I
+Las personas con tipo III nacen con audición normal y equilibrio casi normal, pero desarrollan problemas a la vista y luego pérdida de la audición
+No hay cura. Dispositivos tales como
+audífonos
+o
+implantes cocleares
+pueden ayudar a algunas personas. Capacitación en lenguaje Braille, servicios de baja visión o entrenamiento auditivo también puede ayudar.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Ojos y visión
+- Oído, nariz y garganta
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Enfermedades de la retina: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/retinaldisorders.html
+
+Resource: Problemas de audición en niños: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearingproblemsinchildren.html
+
+Resource: Problemas de la audición y sordera: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearingdisordersanddeafness.html
+
+Resource: Retinitis pigmentaria
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001029.htm
+
+Resource: Síndrome de Usher
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/sindrome-de-usher
+
+Resource: Síndrome de Usher
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13248/sindrome-de-usher/
+
+Resource: ¿Qué es el síndrome de Usher?
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/el-sindrome-de-usher

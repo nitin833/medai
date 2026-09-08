@@ -1,0 +1,151 @@
+Title: Food Labeling
+
+Also Called:
+- Nutrition labeling
+
+Summary:
+All packaged foods and beverages in the United States have food labels. These "Nutrition Facts" labels can help you make smarter food choices and eat a healthy diet.
+Before you read the food label, you should know a few things:
+Serving size
+is based on how much people usually eat and drink at one time
+Number of servings
+tells you how many servings are in the container. Some labels will give you information about calories and nutrients for both the whole package and each serving size. But many labels just tell you that information for each serving size. You need to think about the serving size when you decide how much to eat or drink. For example, if a bottle of juice has two servings and you drink the whole bottle, then you are getting twice the amount of sugar that is listed on the label.
+Percent daily value (%DV)
+is a number that helps you understand how much of a nutrient is in one serving. Experts recommend that you get a certain amount of different nutrients daily. %DV tells you what percentage of the daily recommendation you get from one serving of a food. With this, you can figure out if a food is high or low in a nutrient: 5% or less is low, 20% or more is high.
+The information on a food label can help you see how a certain food or drink fits into your overall diet. The label lists, per serving,:
+The number of calories
+Fats
+, including total fat, saturated fat, and trans fat
+Cholesterol
+Sodium
+Carbohydrates
+, including
+fiber
+, total sugar, and added sugar
+Protein
+Vitamins
+and
+minerals
+Food and Drug Administration
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Food Labeling
+
+Related Resources:
+
+Resource: Additives In Meat and Poultry Products
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/additives-meat-and-poultry
+
+Resource: ClinicalTrials.gov: Food Labeling
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Food+Labeling%22&aggFilters=status:not%20rec
+
+Resource: Figuring Out Food Labels
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/food-labels.html
+
+Resource: Figuring Out Food Labels (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/labels.html
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Food labeling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002459.htm
+
+Resource: Food Product Dating
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-product-dating
+
+Resource: Fresh Take on What "Healthy" Means on Food Packages
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/fresh-take-what-healthy-means-food-packages
+
+Resource: From the Label to the Table!
+Category: Children
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/kids/topics/healthy-living/food/food-labels
+
+Resource: Gluten-Free Labeling of Foods
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/gluten-free-labeling-foods
+
+Resource: Have Food Allergies? Read the Label
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/have-food-allergies-read-label
+
+Resource: How to Read Food and Beverage Labels
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/healthy-eating-nutrition-and-diet/how-read-food-and-beverage-labels
+
+Resource: How to read food labels
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000107.htm
+
+Resource: Meat and Poultry Labeling Terms
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/meat-and-poultry-labeling-terms
+
+Resource: Milk and Plant-Based Milk Alternatives: Know the Nutrient Difference
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/milk-and-plant-based-milk-alternatives-know-nutrient-difference
+
+Resource: Natural Flavorings on Meat and Poultry Labels
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/natural-flavors-meat-and-poultry
+
+Resource: Nutrition Facts -- Read the Label: Tips for Parents
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/128913/download
+
+Resource: Nutrition Facts for Cooked Seafood
+Category: Patient Handouts, Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/files/food/published/Nutrition-Information-for-Cooked-Seafood-(purchased-raw)---Medium-PDF-Poster.pdf
+
+Resource: Nutrition Facts for Raw Fruits
+Category: Patient Handouts, Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/files/food/published/Nutrition-Information-for-Raw-Fruits---small-PDF-Poster.pdf
+
+Resource: Nutrition Facts for Raw Vegetables
+Category: Related Issues, Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/70792/download
+
+Resource: Food Labeling
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Food+Labeling%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Using the Nutrition Facts Label: For Older Adults
+Category: Older Adults
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/nutrition-facts-label/using-nutrition-facts-label-older-adults

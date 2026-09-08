@@ -1,0 +1,192 @@
+Title: Environmental Health
+
+Summary:
+Our environment affects our health. If parts of the environment, like the
+air
+,
+water
+, 
+or soil become polluted, it can lead to health problems. For example, asthma pollutants and chemicals in the air or in the
+home
+can trigger asthma attacks.
+Some environmental risks are a part of the natural world, like
+radon
+in the soil. Others are the result of human activities, like
+lead poisoning
+from paint, or exposure to
+asbestos
+or
+mercury
+from mining or industrial use.
+NIH: National Institute of Environmental Health Sciences
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Environmental Health
+
+Related Resources:
+
+Resource: Algal Blooms
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/algal-blooms
+
+Resource: Aloe Vera
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/aloe
+
+Resource: America's Children and the Environment
+Category: Children
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/americaschildrenenvironment
+
+Resource: Bisphenol A (BPA)
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/sya-bpa
+
+Resource: Cell Phone Radio Frequency Radiation
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/cellphones
+
+Resource: ClinicalTrials.gov: Environmental Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22environmental+health%22+OR+%22environmental+exposure%22&aggFilters=status:not%20rec
+
+Resource: Dioxins
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/dioxins
+
+Resource: Endocrine Disruptors
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/endocrine
+
+Resource: Environmental Health Topics
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: Essential Oils
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/essential-oils
+
+Resource: Exposure Science
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/science/exposure
+
+Resource: Flame Retardants
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/flame_retardants
+
+Resource: Hazardous Material/Waste
+Category: Related Issues
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/haz-waste
+
+Resource: Hazardous materials
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000457.htm
+
+Resource: Healthy Environments for Kids (Activity Book)
+Category: Children
+Organization: Pan American Health Organization
+URL: https://www.paho.org/en/documents/activity-book-monicas-gang-healthy-environments-kids
+
+Resource: Healthy School Environments
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/schools
+
+Resource: Hexavalent Chromium
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/hex-chromium
+
+Resource: Hydraulic Fracturing (Fracking) and Health
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/fracking
+
+Resource: Kids Environment Kids Health
+Category: Children
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/kids/
+
+Resource: Learn the Basics of Hazardous Waste
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/hw/learn-basics-hazardous-waste
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Occupational Health: Why the Environment Matters
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/sites/default/files/health/materials/occupational_health_why_the_environment_matters_508.pdf
+
+Resource: Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS)
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/pfc
+
+Resource: Persistence of Plastics: Can Tiny Plastic Pieces Affect Our Health?
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/03/persistence-plastics
+
+Resource: Environmental Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Environmental+Health%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RadTown
+Category: Teenagers
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radtown
+
+Resource: Risk Assessment
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/risk
+
+Resource: Too Loud and Too Bright! Noise and Light Pollution's Effects on Your Health
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/too-loud-and-too-bright
+
+Resource: ToxGuides: Quick Reference Guides for Toxicological Profiles
+Category: Reference Desk
+Organization: Agency for Toxic Substances and Disease Registry
+URL: https://wwwn.cdc.gov/TSP/ToxGuides/ToxGuidesLanding.aspx
+
+Resource: Transportation, Air Pollution, and Climate Change
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/transportation-air-pollution-and-climate-change
+
+Resource: What You Can Do to Protect Children from Environmental Risks
+Category: Children
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/children/what-you-can-do-protect-children-environmental-risks

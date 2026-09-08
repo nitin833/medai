@@ -1,0 +1,109 @@
+Title: Salivary Gland Disorders
+
+Summary:
+Your salivary glands are in your mouth. You have three pairs of major salivary glands and hundreds of small (minor) glands. They make saliva (spit) and empty it into your mouth through openings called ducts. Saliva makes your food moist, which helps you chew and swallow. It helps you digest your food. It also cleans your mouth and contains antibodies that can kill germs.
+Problems with salivary glands can cause them to become irritated and swollen. You may have symptoms such as:
+A bad taste in your mouth
+Difficulty opening your mouth
+Dry mouth
+Pain in your face or mouth
+Swelling of your face or neck
+Causes of salivary gland problems include infections, obstruction, or
+cancer
+. Problems can also be due to other disorders, such as
+mumps
+or
+Sjogren's syndrome
+.
+
+Groups:
+- Mouth and Teeth
+
+MeSH Headings:
+- Salivary Gland Diseases
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Parotid Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Parotid+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Salivary Gland Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Salivary+Gland+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Drooling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003048.htm
+
+Resource: Dry Mouth and Older Adults
+Category: Older Adults
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2023-12/dry-mouth-and-older-adults.pdf
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Lacrimo-auriculo-dento-digital syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lacrimo-auriculo-dento-digital-syndrome
+
+Resource: Mouth Dryness or Thick Saliva
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/eating-problems/dry-mouth.html
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Salivary Gland Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Salivary+Gland+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Saliva and Salivary Gland Disorders
+Category: Start Here
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/saliva-salivary-gland-disorders
+
+Resource: Salivary duct stones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001039.htm
+
+Resource: Salivary gland biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003847.htm
+
+Resource: Salivary gland infections
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001041.htm
+
+Resource: Salivary gland tumors
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001040.htm
+
+Resource: Sialogram
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003812.htm
+
+Resource: Spit Happens: The Surprising Importance of Saliva
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/01/spit-happens
+
+Resource: What's Spit?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/spit.html

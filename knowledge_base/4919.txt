@@ -1,0 +1,140 @@
+Title: Postpartum Care
+
+Also Called:
+- Post-pregnancy health
+
+Summary:
+Taking home a new baby is one of the happiest times in a woman's life.  But it also presents both physical and emotional challenges.  :
+Get as much rest as possible. You may find that all you can do is eat, sleep, and care for your baby. And that is perfectly okay. You will have spotting or bleeding, like a menstrual period, off and on for up to six weeks.
+You might also have swelling in your legs and feet, feel constipated, have menstrual-like cramping. Even if you are not breastfeeding, you can have milk leaking from your nipples, and your breasts might feel full, tender, or uncomfortable.
+Follow your doctor's instructions on how much activity, like climbing stairs or walking, you can do for the next few weeks.
+Doctors usually recommend that you abstain from sexual intercourse for four to six weeks after birth.
+In addition to physical changes, you may feel sad or have the "baby blues."  If you are extremely sad or are unable to care for yourself or your baby, you might have a serious condition called
+postpartum depression
+.
+Dept. of Health and Human Services Office on Women's Health
+
+Groups:
+- Women
+- Pregnancy and Reproduction
+
+MeSH Headings:
+- Puerperal Disorders
+- Postnatal Care
+- Postpartum Period
+
+Related Resources:
+
+Resource: After vaginal delivery - in the hospital
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000629.htm
+
+Resource: ClinicalTrials.gov: Postnatal Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Postnatal+Care%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Postpartum Period
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Postpartum+Period%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Puerperal Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Puerperal+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Episiotomy - aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000483.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Exercise after Pregnancy
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/exercise-after-pregnancy
+
+Resource: Infections After Childbirth
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/women-s-health-issues/postpartum-care/infections-after-childbirth
+
+Resource: Losing weight after pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000586.htm
+
+Resource: Mastitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mastitis/symptoms-causes/syc-20374829?p=1
+
+Resource: Postpartum Birth Control
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/postpartum-birth-control
+
+Resource: Pregnant and Postpartum Women
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hearher/pregnant-postpartum/
+
+Resource: Providing Support for Pregnant or Postpartum Women
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hearher/caring/
+
+Resource: Postpartum Care
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Postnatal+Care%22%5Bmajr%3Anoexp%5D+OR+%22Puerperal+Disorders%22%5Bmajr%3Anoexp%5D+OR+%22Postpartum+Period%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to ask your doctor about going home with your baby
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000949.htm
+
+Resource: Questions to ask your doctor about post pregnancy care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000961.htm
+
+Resource: Recovering from Birth
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/pregnancy/childbirth-and-beyond/recovering-birth
+
+Resource: Recovering from Delivery
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/recovering-delivery.html
+
+Resource: Signs and Symptoms of Urgent Maternal Warnings Signs
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hearher/maternal-warning-signs/
+
+Resource: Vaginal delivery - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000628.htm
+
+Resource: Warning Signs to Look for After Having a Baby
+Category: Symptoms
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/blog/warning-signs-to-look-after-having-baby-0
+
+Resource: Your Body after Baby: The First 6 Weeks
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/postpartum/your-body-after-baby-first-6-weeks
+
+Resource: Your Postpartum Checkups
+Category: Related Issues
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/postpartum/your-postpartum-checkups

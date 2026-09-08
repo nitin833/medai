@@ -1,0 +1,141 @@
+Title: Evaluación del recién nacido
+
+Also Called:
+- Exámenes para recién nacidos
+- Pruebas de diagnóstico para recién nacidos
+
+Summary:
+Las pruebas de evaluación del recién nacido se realizan antes de que el bebé abandone el hospital. Los bebés se examinan para identificar cuadros serios o que ponen la vida en riesgo antes del comienzo de los síntomas. Estas enfermedades suelen ser raras. Sin embargo, pueden afectar el desarrollo físico y mental normal de un bebé.
+La mayoría de las pruebas necesita sólo algunas gotas de sangre del talón del niño. Una prueba de capacidad del oído consiste en la colocación de un audífono diminuto dentro del oído del bebé para medir su respuesta a los sonidos.
+Si una de las pruebas sugiere un problema, el pediatra hará el seguimiento con otros estudios. Si los mismos confirman el problema, el médico puede referirlo a un especialista para su tratamiento. El cumplimiento del plan de tratamiento indicado por el médico puede salvaguardar al bebé contra los problemas de salud y desarrollo durante toda la vida.
+
+Groups:
+- Niños y adolescentes
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Aminoaciduria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003366.htm
+
+Resource: Aminoácidos plasmáticos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003361.htm
+
+Resource: Cribado neonatal
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/newborn-screening-tests.html
+
+Resource: Cuando su hijo tiene un defecto de nacimiento
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/baby-has-birth-defect.html
+
+Resource: Deficiencia de glucosa -6- fosfato deshidrogenasa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000528.htm
+
+Resource: Examen de ácido metilmalónico en la sangre
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003565.htm
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Instituto Nacional de Salud Infantil y Desarrollo Humano Eunice Kennedy Shriver
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/
+
+Resource: Perfil TORCH
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003350.htm
+
+Resource: Procedimientos seguidos después de un parto vaginal normal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/prenatal/delivery-beyond/Paginas/delivery-room-procedures-following-a-normal-vaginal-birth.aspx
+
+Resource: Prueba de Apgar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003402.htm
+
+Resource: Prueba de Apgar del recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/prenatal/delivery-beyond/Paginas/apgar-scores.aspx
+
+Resource: Prueba de audición a su bebé y los siguientes pasos
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/prueba-audicion-bebe-y-siguientes-pasos
+
+Resource: Prueba de detección de fenilalanina sérica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003362.htm
+
+Resource: Prueba de detección de fenilcetonuria (FCU)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-deteccion-de-fenilcetonuria-fcu/
+
+Resource: Prueba de detección para fibrosis quística neonatal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003409.htm
+
+Resource: Prueba de galactosemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-galactosemia/
+
+Resource: Pruebas de audición para niños
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-audicion-para-ninos/
+
+Resource: Pruebas de detección para los recién nacidos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/bebe/pruebas-de-deteccion-para-recien-nacidos.aspx
+
+Resource: Pruebas de detección para recién nacidos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/newborn/informacion
+
+Resource: Pruebas de detección para recién nacidos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007257.htm
+
+Resource: ¿A cuántos recién nacidos se les realizan las pruebas de detección en los Estados Unidos?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/newborn/informacion/evaluand
+
+Resource: ¿Cómo se realizan las pruebas de evaluación del recién nacido?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/newborn/informacion/realiza
+
+Resource: ¿Cómo se utilizan los resultados de la evaluación del recién nacido?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/newborn/informacion/utilizan
+
+Resource: ¿Para qué trastornos se hacen las pruebas de detección para recién nacidos en los Estados Unidos?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/newborn/informacion/trastornos

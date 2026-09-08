@@ -1,0 +1,167 @@
+Title: Enfermedades transmitidas por alimentos
+
+Also Called:
+- Contaminación de los alimentos
+- Enfermedades de transmisión alimentaria
+- Enfermedades transmitidas por alimentos
+- Enfermedades transmitidas por alimentos contaminados
+- Eta
+- Intoxicación alimentaria
+
+Summary:
+Cada año, unas 48 millones de personas en los Estados Unidos se enferman por consumir alimentos contaminados. Las causas comunes incluyen bacterias y virus. Con menos frecuencia, la causa puede ser un parásito o un químico dañino, como una gran cantidad de pesticidas. Los síntomas de enfermedades transmitidas por los alimentos dependen de la causa. Pueden ser leves o severas. Por lo general incluyen:
+Malestar estomacal
+Cólicos abdominales
+Náusea y vómitos
+Diarrea
+Fiebre
+Deshidratación
+La mayoría de las enfermedades transmitidas por los alimentos son agudas. Esto significa que ocurren de repente y duran poco tiempo.
+Se requieren varios pasos para llevar la comida de la granja o pesquería a su mesa. La contaminación puede ocurrir durante cualquiera de estos pasos. Por ejemplo, puede sucederle a:
+Carne cruda mientras matan al animal
+Frutas y verduras mientras crecen o se procesan
+Alimentos refrigerados cuando se dejan en un muelle de carga cuando hace calor
+Pero también puede ocurrir en la cocina, si deja los alimentos a temperatura ambiente más de dos horas.
+Manipular los alimentos con cuidado
+puede prevenir estas enfermedades.
+La mayoría de las personas con enfermedades transmitidas por los alimentos mejoran por sí mismas. Es importante reemplazar los líquidos y electrolitos perdidos para prevenir la deshidratación. Si su proveedor de atención médica puede diagnosticar la causa específica, los medicamentos como
+antibióticos
+pueden tratarla. Para una enfermedad más grave, es posible que necesite tratamiento en un hospital.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+- Alimentos y nutrición
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Acerca de los norovirus
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/norovirus/es/about/acerca-de-los-norovirus.html
+
+Resource: Amebiasis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000298.htm
+
+Resource: Análisis de heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: Análisis de heces: Cultivo bacteriano
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-bac-culture.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Coprocultivo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003758.htm
+
+Resource: Gastritis
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001150.htm
+
+Resource: Infecciones por shigella
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/shigella.html
+
+Resource: Intoxicación alimentaria
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001652.htm
+
+Resource: Intoxicación alimentaria: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/food-poisoning/diagnosis-treatment/drc-20356236?p=1
+
+Resource: Intoxicación con pescados y mariscos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002851.htm
+
+Resource: Intoxicación por alimentos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/intoxicacion-alimentos
+
+Resource: Intoxicación por alimentos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/food-poisoning.html
+
+Resource: Personas en riesgo: Personas con sistemas inmunitarios debilitados
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Departamento de Agricultura, Servicio de Inocuidad e Inspección de los Alimentos, Departamento de Salud y Servicios Humanos
+URL: https://espanol.foodsafety.gov/personas-en-riesgo-mgac/personas-con-el-sistema-inmunitario-debilitado
+
+Resource: Pollo y las intoxicaciones alimentarias
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/food-safety/es/foods/el-pollo-y-la-intoxicacion-alimentaria.html
+
+Resource: Prevención de la intoxicación alimentaria
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001981.htm
+
+Resource: Prevención de las intoxicaciones alimentarias
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/prevencion-de-las-intoxicaciones-alimentarias
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Prueba de huevos y parásitos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-huevos-y-parasitos/
+
+Resource: Recolección de una muestra de heces para analizar
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stool-tests-done.html
+
+Resource: Seguridad con los alimentos: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/foodsafety.html
+
+Resource: Seguridad con los huevos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/seguridad-con-los-huevos
+
+Resource: Shigelosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000295.htm
+
+Resource: Tinción de Gram en heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003757.htm
+
+Resource: Triquinosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000631.htm
+
+Resource: Yersiniosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Departamento de Salud del Estado de Nueva York
+URL: https://www.health.ny.gov/es/diseases/communicable/yersiniosis/fact_sheet.htm

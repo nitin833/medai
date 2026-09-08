@@ -1,0 +1,213 @@
+Title: Urinalysis
+
+Also Called:
+- UA
+- Urine Analysis
+- Urine Test
+
+Summary:
+A urinalysis is a test of your
+urine
+. It is often done to check for a
+urinary tract infection
+,
+kidney problems
+, or
+diabetes
+. You may also have one during a checkup, if you are admitted to the hospital, before you have surgery, or if you are pregnant.  It can also monitor some medical conditions and treatments.
+A urinalysis involves checking the urine for:
+Its color
+Its appearance (whether it is clear or cloudy)
+Any odor
+The pH level (acidity)
+Whether there are substances that are not normally in urine, such as blood, too much protein, glucose, ketones, and bilirubin
+Whether there are cells, crystals, and casts (tube-shaped proteins)
+Whether it contains bacteria or other germs
+
+Groups:
+- Kidneys and Urinary System
+- Diagnostic Tests
+
+MeSH Headings:
+- Urinalysis
+
+Related Resources:
+
+Resource: Bacteria Culture Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Bilirubin - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003595.htm
+
+Resource: Bilirubin in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bilirubin-in-urine/
+
+Resource: Blood in the Urine (Hematuria)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hematuria.html
+
+Resource: Blood in the Urine (Hematuria) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hematuria.html
+
+Resource: Blood in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-in-urine/
+
+Resource: Clean catch urine sample
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007487.htm
+
+Resource: ClinicalTrials.gov: Urinalysis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urinalysis%22&aggFilters=status:not%20rec
+
+Resource: Crystals in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/crystals-in-urine/
+
+Resource: Epithelial Cells in Urine
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/epithelial-cells-in-urine/
+
+Resource: Foamy Urine: What Does It Mean?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/foamy-urine/faq-20057871?p=1
+
+Resource: Getting a Urine Test (For Kids)
+Category: Videos and Tutorials
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/video-urtest.html
+
+Resource: Glucose urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003581.htm
+
+Resource: Ketones urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003585.htm
+
+Resource: Leucine aminopeptidase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003617.htm
+
+Resource: Leukocyte esterase urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003584.htm
+
+Resource: Mucus in Urine
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mucus-in-urine/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Nitrites in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/nitrites-in-urine/
+
+Resource: Protein in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/protein-in-urine/
+
+Resource: Urinalysis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Urinalysis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RBC urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003582.htm
+
+Resource: Urinalysis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/urinalysis/about/pac-20384907?p=1
+
+Resource: Urinalysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003579.htm
+
+Resource: Urinary casts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003586.htm
+
+Resource: Urine - abnormal color
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003139.htm
+
+Resource: Urine - bloody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003138.htm
+
+Resource: Urine Color
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/urine-color/symptoms-causes/syc-20367333?p=1
+
+Resource: Urine Odor
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/urine-odor/basics/definition/SYM-20050704?p=1
+
+Resource: Urine odor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007298.htm
+
+Resource: Urine pH test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003583.htm
+
+Resource: Urine protein dipstick test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003580.htm
+
+Resource: Urine specific gravity test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003587.htm
+
+Resource: Urine Test: Dipstick (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dipstick.html
+
+Resource: Urine Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest7.html
+
+Resource: Urobilinogen in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/urobilinogen-in-urine/

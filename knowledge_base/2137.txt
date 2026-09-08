@@ -1,0 +1,70 @@
+Title: Ciática
+
+Summary:
+La ciática es un síntoma de algún problema del nervio ciático, el nervio más largo del cuerpo. Este nervio controla los músculos de la parte posterior de la rodilla y de la parte inferior de la pierna y brinda las sensaciones en la parte posterior del muslo, parte de la pierna y la planta del pie. Cuando se tiene ciática, se siente dolor, debilidad, entumecimiento u hormigueo. Puede empezar en la
+parte baja de la espalda
+y extenderse hacia las piernas, las pantorrillas, los pies e inclusive los dedos de los pies. Suele afectar un sólo lado del cuerpo.
+La ciática puede deberse a:
+Ruptura de discos intervertebrales
+Estrechamiento del canal medular que ejerce presión sobre el nervio, llamado
+estenosis medular
+Lesión como una fractura pélvica
+En muchos casos, no se encuentra una causa.
+Algunas veces, la ciática desaparece espontáneamente. Cuando es necesario, el tratamiento dependerá de la causa del problema. Puede incluir ejercicios, medicinas y cirugía.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Cerebro y nervios
+- Síntomas
+
+Related Resources:
+
+Resource: Ciática
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sciatica/symptoms-causes/syc-20377435?p=1
+
+Resource: Ciática
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000686.htm
+
+Resource: Ciática: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sciatica/diagnosis-treatment/drc-20377441?p=1
+
+Resource: Inyecciones epidurales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/epidural
+
+Resource: Inyecciones vertebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Estadounidense de la Columna Vertebral
+URL: https://www.spine.org/Portals/0/assets/downloads/KnowYourBack/InjectionsSpanish.pdf
+
+Resource: Quiste de Tarlov
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12006/quiste-de-tarlov/
+
+Resource: Resonancia magnética y el lumbago
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007493.htm
+
+Resource: RMN de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Síndrome piriforme
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000776.htm
+
+Resource: TC de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinect

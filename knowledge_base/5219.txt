@@ -1,0 +1,209 @@
+Title: Problemas plaquetarios
+
+Also Called:
+- Problemas con las plaquetas
+
+Summary:
+Las plaquetas, también conocidas como trombocitos, son células sanguíneas. Se forman en la médula ósea, un tejido similar a una esponja en sus huesos. Las plaquetas juegan un papel importante en la coagulación de la sangre. Normalmente, cuando uno de sus vasos sanguíneos se rompe, comienza a sangrar. Las plaquetas se coagularán (se agruparán) para tapar la lesión en el vaso sanguíneo y detener el sangrado. Puede tener diferentes problemas con sus plaquetas:
+Si su sangre tiene un
+bajo número de plaquetas
+, se llama trombocitopenia. Esto puede ponerlo en riesgo de
+hemorragia
+leve a grave. El sangrado puede ser externo o interno. Puede tener varias causas. Si el problema es leve, es posible que no necesite tratamiento. Para casos más graves, es posible que necesite medicamentos o
+transfusiones de sangre
+o plaquetas
+Si su sangre tiene
+demasiadas plaquetas
+, puede tener un mayor riesgo de
+coágulos de sangre
+Cuando no se conoce la causa, esto se llama trombocitemia. Es poco común. Es posible que no necesite tratamiento si no hay signos o síntomas. En otros casos, puede necesitar tratamiento con medicamentos o procedimientos médicos
+Si otra enfermedad o afección está causando el alto número de plaquetas, se llama trombocitosis. El tratamiento y su pronóstico dependen de la causa de la trombocitosis
+Otro posible problema es que las plaquetas
+no trabajan como deberían
+. Por ejemplo, en la enfermedad de von Willebrand, sus plaquetas no pueden pegarse o no pueden adherirse a las paredes de los vasos sanguíneos. Esto puede causar sangrado excesivo. Hay diferentes tipos de la enfermedad de von Willebrand. El tratamiento depende del tipo que tenga
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Análisis de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/analisis-de-sangre
+
+Resource: Análisis de sangre: Actividad del factor VIII
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-factor8.html
+
+Resource: Análisis de sangre: Actividad del factor von Willebrand (vWF) - cofactor ristocetina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-vwf.html
+
+Resource: Análisis de sangre: Tiempo de tromboplastina parcial (TTP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-ptt.html
+
+Resource: Análisis del factor VIII
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003678.htm
+
+Resource: Conteo de plaquetas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003647.htm
+
+Resource: Defecto adquirido de la función plaquetaria
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000546.htm
+
+Resource: Defectos congénitos de la función plaquetaria
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000582.htm
+
+Resource: Enfermedad de von Willebrand
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000544.htm
+
+Resource: Enfermedad de von Willebrand (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vwd.html
+
+Resource: Esplenectomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/splenectomy/about/pac-20395066?p=1
+
+Resource: Examen de agregación plaquetaria
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003669.htm
+
+Resource: Examen de sangre de anticuerpos asociados a las plaquetas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003552.htm
+
+Resource: Petequias
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/petechiae/basics/definition/sym-20050724?p=1
+
+Resource: Proceso de coagulación de la sangre
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000011.htm
+
+Resource: Prueba de sangre de VPM
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-vpm/
+
+Resource: Pruebas de plaquetas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-plaquetas/
+
+Resource: Púrpura
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003232.htm
+
+Resource: Púrpura trombocitopénica inmune (PTI)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000535.htm
+
+Resource: Púrpura trombocitopénica trombótica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000552.htm
+
+Resource: Púrpura trombótica trombocitopénica (TTP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/purpura-trombotica-trombocitopenica
+
+Resource: Tiempo de sangría
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003656.htm
+
+Resource: Tiempo parcial de tromboplastina (TPT)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003653.htm
+
+Resource: Trastornos plaquetarios hereditarios
+Category: Asuntos específicos, Spanish/Español
+Organization: Federación Mundial de Hemofilia
+URL: https://elearning.wfh.org/es/centros-de-aprendizaje/trastornos-plaquetarios-hereditarios/
+
+Resource: Tratamientos para trastornos sanguíneos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sangre-y-medula-osea-tratamientos
+
+Resource: Trombastenia de Glanzmann
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001305.htm
+
+Resource: Trombocitemia esencial
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000543.htm
+
+Resource: Trombocitemia y trombocitosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trombocitopenia-trombocitosis
+
+Resource: Trombocitopenia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000586.htm
+
+Resource: Trombocitopenia inducida por fármacos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000556.htm
+
+Resource: Trombocitopenia inmunitaria (ITP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trombocitopenia-inmunitaria
+
+Resource: Trombocitopenia inmunitaria (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/immune-thrombocytopenia.html
+
+Resource: Trombocitosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thrombocytosis/symptoms-causes/syc-20378315?p=1
+
+Resource: ¿Qué es una costra?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/scab.html
+
+Resource: ¿Qué son los trastornos hemorrágicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-hemorragicos
+
+Resource: ¿Qué son los trastornos plaquetarios?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-plaquetarios

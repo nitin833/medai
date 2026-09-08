@@ -1,0 +1,241 @@
+Title: Prenatal Testing
+
+Summary:
+What is prenatal testing?
+Prenatal testing provides information about the
+health of your fetus
+before the
+baby is born
+. Some routine tests during
+pregnancy
+also check
+your health
+. The prenatal test may use a sample of your blood, urine or fluid from your vagina, cervix, or rectum.
+Since some health conditions can be treated before your baby is born, it's important to find them early. But even if they cannot be treated, it can still be helpful to know about the problem early on. This gives you time to
+learn about the condition
+and prepare for any challenges you may face after the baby is born.
+What is prenatal testing used to diagnose?
+At your first
+prenatal visit
+, your health care provider will test for various conditions, including problems with your blood, signs of
+infections
+, and whether you are immune to
+rubella
+(German measles) and
+chickenpox
+.
+Throughout your pregnancy, your provider may recommend additional tests as well. Some tests are suggested for all women, such as screenings for
+gestational diabetes
+,
+Down syndrome
+, and
+HIV
+.
+Your provider might offer other tests based on your:
+Age
+Personal or family medical history
+Ethnic background
+Results of routine tests
+What are the two types of prenatal tests?
+There are two types of tests:
+Screening tests
+check if you or your fetus may have certain health issues. They look at risk but do not diagnose problems. If your screening test result is abnormal, it does not mean that there is a problem. It means that more information is needed. Your provider can explain what the test results mean and possible next steps. You may need diagnostic testing.
+Diagnostic tests
+help determine whether you or your fetus have a certain health problem.
+It is your choice whether to get prenatal tests. You and your provider can talk about the risks and benefits of the tests, as well as the type of information they can give you. Then you can decide which ones are right for you.
+National Women's Health Information Center
+
+Groups:
+- Pregnancy and Reproduction
+- Genetics/Birth Defects
+- Diagnostic Tests
+- Female Reproductive System
+
+MeSH Headings:
+- Prenatal Diagnosis
+
+Related Resources:
+
+Resource: Alpha fetoprotein
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Alpha-Fetoprotein (AFP) Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-test/
+
+Resource: Amniocentesis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003921.htm
+
+Resource: Amniocentesis (amniotic fluid test)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/amniocentesis-amniotic-fluid-test/
+
+Resource: Amniocentesis - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100192_1.htm
+
+Resource: Blood Glucose Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+
+Resource: Chorionic villus sampling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003406.htm
+
+Resource: Chorionic Villus Sampling (CVS)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chorionic-villus-sampling-cvs/
+
+Resource: Chorionic villus sampling - series -- Normal anatomy
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100194_1.htm
+
+Resource: ClinicalTrials.gov: Amniocentesis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=amniocentesis&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Chorionic Villi Sampling
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=chorionic+villi+sampling&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Prenatal Ultrasound
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=ultrasound&term=prenatal&aggFilters=status:not%20rec
+
+Resource: Cystic Fibrosis: Prenatal Screening and Diagnosis
+Category: Specifics
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/cystic-fibrosis-prenatal-screening-and-diagnosis
+
+Resource: Down Syndrome Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/down-syndrome-tests/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Fetal echocardiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007340.htm
+
+Resource: Fetal-maternal erythrocyte distribution blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003407.htm
+
+Resource: Glucose in Urine Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/glucose-in-urine-test/
+
+Resource: Karyotype Genetic Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/karyotype-genetic-test/
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Monitoring your baby before labor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000485.htm
+
+Resource: Nonstress Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/nonstress-test/
+
+Resource: Nuchal translucency test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007561.htm
+
+Resource: Obstetric Ultrasound
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/obstetricus
+
+Resource: Percutaneous umbilical cord blood sampling - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100196_1.htm
+
+Resource: Prenatal Cell-Free DNA Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prenatal-cell-free-dna-screening/
+
+Resource: Prenatal Genetic Screening Tests
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests
+
+Resource: Prenatal Panel
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prenatal-panel/
+
+Resource: Prenatal Tests: FAQs
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/prenatal-tests.html
+
+Resource: Prenatal ultrasound - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100197_1.htm
+
+Resource: Prenatal Testing
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Prenatal+Diagnosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quadruple screen test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007311.htm
+
+Resource: Red Blood Cell Antibody Screen
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/red-blood-cell-antibody-screen/
+
+Resource: Rh Factor Blood Test
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/rh-factor/about/pac-20394960?p=1
+
+Resource: Strep B Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/strep-b-test/
+
+Resource: Ultrasound pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003778.htm
+
+Resource: What Tests Might I Need during Pregnancy?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/preconceptioncare/conditioninfo/tests-needed

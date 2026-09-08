@@ -1,0 +1,158 @@
+Title: Pelvic Pain
+
+Summary:
+Pelvic pain occurs mostly in the lower
+abdomen
+area. The pain might be steady, or it might come and go. It can be a sharp and stabbing pain in a specific spot, or a dull pain that is spread out. If the pain is severe, it might get in the way of your daily activities.
+If you're a woman, you might feel pain during your
+period
+. It could also happen when you have sex. Pelvic pain can be a sign that there is a problem with one of the organs in your pelvic area, such as the uterus, ovaries, fallopian tubes, cervix, or vagina. If you're a man, the cause could be a problem with the
+prostate
+. In men and women, it could be a symptom of infection, or a problem with the urinary tract, lower intestines, rectum, muscle, or bone. Some women have more than one cause of pelvic pain at the same time.
+You might have to have lab, imaging, or other medical tests to find the cause of the pain. The treatment will depend on the cause, how bad the pain is, and how often it occurs.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Women
+- Symptoms
+- Sexual Health Issues
+- Female Reproductive System
+
+MeSH Headings:
+- Pelvic Pain
+
+Related Resources:
+
+Resource: Chronic Pelvic Pain
+Category: Specifics
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/chronic-pelvic-pain
+
+Resource: ClinicalTrials.gov: Pelvic Pain
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pelvic+Pain%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pudendal Neuralgia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pudendal+Neuralgia%22&aggFilters=status:not%20rec
+
+Resource: Diagnostic laparoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003918.htm
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: How Is Pelvic Pain Diagnosed?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pelvicpain/conditioninfo/diagnosed
+
+Resource: How Is Pelvic Pain Treated?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pelvicpain/conditioninfo/treatments
+
+Resource: Laparoscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: Mittelschmerz
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001503.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Other Pelvic Pain FAQs
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pelvicpain/more_information/other-faqs
+
+Resource: Pelvic CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: Pelvic Exam
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/pelvic-exam/about/pac-20385135?p=1
+
+Resource: Pelvic Fractures
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/fractures/pelvic-fractures
+
+Resource: Pelvic laparoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002916.htm
+
+Resource: Pelvic laparoscopy - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100131_1.htm
+
+Resource: Pelvic Pain
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pelvicpain
+
+Resource: Pelvic Pain in Women
+Category: Women
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/women-s-health-issues/symptoms-of-gynecologic-disorders/pelvic-pain-in-women
+
+Resource: Pelvic ultrasound - abdominal
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007667.htm
+
+Resource: Pelvic Venous Disorders
+Category: Treatments and Therapies
+Organization: Society of Interventional Radiology
+URL: https://www.sirweb.org/for-patients/conditions-and-treatments/pelvic-venous-disorders/
+
+Resource: Pelvis Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pelvus
+
+Resource: Prostatitis
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/prostatitis/symptoms-causes/syc-20355766?p=1
+
+Resource: Pelvic Pain
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pelvic+Pain%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pudendal Neuralgia
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10713/pudendal-neuralgia/
+
+Resource: Transvaginal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003779.htm
+
+Resource: Ultrasound: Pelvis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ultrasound-pelvis.html
+
+Resource: What Are the Symptoms of Pelvic Pain?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pelvicpain/conditioninfo/symptoms

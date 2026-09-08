@@ -1,0 +1,158 @@
+Title: Triglycerides
+
+Summary:
+What are triglycerides?
+Triglycerides are a type of fat. They are the most common type of fat in your body. They come from foods, especially butter, oils, and other fats you eat. Triglycerides also come from extra calories. These are the calories that you eat, but your body does not need right away.
+Your body changes these extra calories into triglycerides and stores them in fat cells. When your body needs energy, it releases the triglycerides. Your
+VLDL cholesterol
+particles carry the triglycerides to your tissues.
+Having a high level of triglycerides can raise your risk of
+heart diseases
+, such as
+coronary artery disease
+.
+What causes high triglycerides?
+Factors that can raise your triglyceride level include:
+Regularly eating more calories than you burn off, especially if you eat a lot of sugar
+Being overweight or having
+obesity
+Cigarette smoking
+Excessive alcohol use
+Certain medicines
+Some genetic disorders
+Thyroid diseases
+Poorly controlled
+type 2 diabetes
+Liver
+or
+kidney
+diseases
+How are high triglycerides diagnosed?
+There is a blood test that measures your triglycerides, along with your cholesterol. Triglyceride levels are measured in milligrams per deciliter (mg/dL). The guidelines for triglyceride levels are
+Category
+Triglyceride Level
+Normal
+Less than 150mg/dL
+Borderline high
+150 to 199 mg/dL
+High
+200 to 499 mg/dL
+Very high
+500 mg/dL and above
+Levels above 150mg/dl may raise your risk for heart disease. A triglyceride level of 150 mg/dL or higher is also a risk factor for
+metabolic syndrome
+.
+What are the treatments for high triglycerides?
+You may be able to lower your triglyceride levels with lifestyle changes:
+Controlling your weight
+Regular physical activity
+Not smoking
+Limiting sugar and refined foods
+Limiting alcohol
+Switching from saturated fats to healthier fats
+Some people will also need to take
+cholesterol medicines
+to lower their triglycerides.
+
+Groups:
+- Blood, Heart and Circulation
+- Food and Nutrition
+
+MeSH Headings:
+- Hypertriglyceridemia
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: ClinicalTrials.gov: Hyperlipidemia, Familial Combined
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperlipidemia,+Familial+Combined%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hyperlipidemias
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperlipidemias%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hyperlipoproteinemia Type IV
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperlipoproteinemia+Type+IV%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypertriglyceridemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypertriglyceridemia%22&aggFilters=status:not%20rec
+
+Resource: Familial hypertriglyceridemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000397.htm
+
+Resource: Fibrates
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000789.htm
+
+Resource: HDL (Good), LDL (Bad) Cholesterol and Triglycerides
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cholesterol/hdl-good-ldl-bad-cholesterol-and-triglycerides
+
+Resource: Hepatic lipase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hepatic-lipase-deficiency/
+
+Resource: High Blood Triglycerides
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/high-blood-triglycerides
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Prevention and Treatment of High Cholesterol (Hyperlipidemia)
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/cholesterol/prevention-and-treatment-of-high-cholesterol-hyperlipidemia
+
+Resource: Triglycerides
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hypertriglyceridemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Science Snippet: Lipids in the Limelight
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://biobeat.nigms.nih.gov/2022/07/science-snippet-lipids-in-the-limelight/
+
+Resource: Taming High Triglycerides
+Category: Treatments and Therapies
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/heart-health/taming-high-triglycerides
+
+Resource: Triglyceride level
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003493.htm
+
+Resource: Triglycerides Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/triglycerides-test/
+
+Resource: Triglycerides: Why Do They Matter?
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/triglycerides/art-20048186?p=1
+
+Resource: VLDL test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003494.htm

@@ -1,0 +1,209 @@
+Title: Germs and Hygiene
+
+Summary:
+What are germs?
+Germs are microorganisms. This means that they can be seen only through a microscope. They can be found everywhere - in the air, soil, and water. There are also germs on your skin and in your body. Many germs live in and on our bodies without causing harm. Some even help us to stay healthy. But some germs can make you sick.
+Infectious diseases
+are diseases that are caused by germs.
+The main types of germs are
+bacteria
+,
+viruses
+,
+fungi
+, and
+parasites
+.
+How do germs spread?
+There are different ways that germs can spread, including:
+Through touching a person who has the germs or making other close contact with them, such as kissing, hugging, or sharing cups or eating utensils
+Through breathing air after a person with the germs coughs or sneezes
+Through touching the feces (poop) of someone who has the germs, such as changing diapers, then touching your eyes, nose, or mouth
+Through touching objects and surfaces that have germs on them, then touching your eyes, nose, or mouth
+From mother to baby during pregnancy and/or childbirth
+From
+insect
+or
+animal
+bites
+From contaminated
+food
+,
+water
+, soil, or plants
+How can I protect myself and others from germs?
+You can help protect yourself and others from germs:
+When you have to cough or sneeze, cover your mouth and nose with a tissue or use the inside of your elbow
+Wash your hands well and often. You should scrub them for at least 20 seconds. It is important to do this when you are most likely to get and spread germs:
+Before, during, and after preparing food
+Before eating food
+Before and after caring for someone at home who is sick with
+vomiting
+or
+diarrhea
+Before and after treating a cut or
+wound
+After using the toilet
+After changing diapers or cleaning up a child who has used the toilet
+After blowing your nose, coughing, or sneezing
+After touching an animal, animal feed, or animal waste
+After handling pet food or pet treats
+After touching garbage
+If soap and water are not available, you can use an alcohol-based hand sanitizer that contains at least 60% alcohol
+Stay home if you are sick
+Avoid close contact with people who are sick
+Practice
+food safety
+when handling, cooking, and storing food
+Regularly
+clean and disinfect
+frequently touched surfaces and objects
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Hand Sanitizers
+- Disinfection
+- Hand Hygiene
+
+Related Resources:
+
+Resource: About Handwashing
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/clean-hands/about/
+
+Resource: Body Odor (For Young Women)
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/body-odor/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Disinfection
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Disinfection%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hand Hygiene
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hand+Hygiene%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Handwashing
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=handwashing&aggFilters=status:not%20rec
+
+Resource: Cold-Weather Wellness: Tips for Staying Healthy This Season
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/cold-weather-wellness-tips-for-staying-healthy-this-season
+
+Resource: Eight Ways to Guard against Germs in Everyday Life
+Category: Prevention and Risk Factors
+Organization: Cystic Fibrosis Foundation
+URL: https://www.cff.org/managing-cf/8-ways-guard-against-germs-everyday-life
+
+Resource: Germs: Understand and Protect against Bacteria, Viruses, and Infections
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289?p=1
+
+Resource: Hand Hygiene Frequently Asked Questions
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/clean-hands/faq/index.html
+
+Resource: Hand Sanitizer Facts
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/clean-hands/data-research/facts-stats/hand-sanitizer-facts.html
+
+Resource: Hand Washing: Do's and Dont's
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/hand-washing/art-20046253?p=1
+
+Resource: Hand Washing: Why It's So Important (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hand-washing.html
+
+Resource: Healthy Habits to Help Protect against Flu
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/prevention/actions-prevent-flu.html
+
+Resource: Healthy Habits: Coughing and Sneezing
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hygiene/about/coughing-and-sneezing.html
+
+Resource: How Often Do Children Need to Take a Bath?
+Category: Children
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/everyday-care/skin-care-basics/care/child-bathing?NoAds
+
+Resource: How to Make Water Safe in an Emergency
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/water-emergency/about/index.html
+
+Resource: Hygiene Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hygiene/about/
+
+Resource: If Soap and Water Are Not Available, Hand Sanitizers May Be a Good Alternative
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/if-soap-and-water-are-not-available-hand-sanitizers-may-be-good-alternative
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing Swimming-Related Illnesses
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-swimming/prevention/
+
+Resource: Germs and Hygiene
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hand+Sanitizers%22%5Bmajr%3Anoexp%5D+OR+%22Disinfection%22%5Bmajr%3Anoexp%5D+OR+%22Hand+Hygiene%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safely Using Hand Sanitizer
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/safely-using-hand-sanitizer
+
+Resource: Skip the Antibacterial Soap; Use Plain Soap and Water
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water
+
+Resource: Staying Safe in the Water: Guard Against Germs While Swimming
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/06/staying-safe-water
+
+Resource: What Are Germs?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/germs.html
+
+Resource: Why Do I Need to Wash My Hands?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/wash-hands.html
+
+Resource: Your Body's Bugs: Nurturing Healthy Microbes
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/08/your-body-s-bugs

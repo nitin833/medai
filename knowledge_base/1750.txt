@@ -1,0 +1,173 @@
+Title: Antibióticos
+
+Also Called:
+- Antibacteriano
+
+Summary:
+¿Qué son los antibióticos?
+Los antibióticos son medicamentos que combaten las
+infecciones bacterianas
+en personas y animales. Funcionan matando las bacterias o dificultando su crecimiento y multiplicación.
+Los antibióticos se pueden tomar de diferentes maneras:
+Por vía oral (por la boca): Pueden ser pastillas, cápsulas o líquidos
+Tópicamente: Puede aplicarse en crema, aerosol o ungüento que se ponga en la piel. También podría ser un ungüento para los ojos, gotas para los ojos o gotas para los oídos
+A través de una inyección o por vía intravenosa: Esto suele utilizarse para infecciones más graves
+¿Qué tratan los antibióticos?
+Los antibióticos solo tratan ciertas infecciones bacterianas, como amigdalitis estreptocócica,
+infecciones de las vías urinarias
+y
+E. coli
+.
+Es posible que no necesite tomar antibióticos para algunas infecciones bacterianas. Por ejemplo, es posible que no los necesite para muchas infecciones sinusales o algunas
+infecciones del oído
+. Tomar antibióticos cuando no es necesario no lo ayudará, y pueden tener efectos secundarios. Su profesional de la salud puede determinar el mejor tratamiento para usted cuando esté enfermo. No le pida a su profesional de la salud que le de antibióticos.
+¿Tratan las infecciones virales los antibióticos?
+Los antibióticos no funcionan para las infecciones virales. Por ejemplo, no debe tomar antibióticos para:
+Resfriados
+y secreción nasal, incluso si la mucosidad es espesa, amarilla o verde
+La mayoría de los
+dolores de garganta
+(excepto la amigdalitis estreptocócica)
+Gripe
+La mayoría de los casos de
+bronquitis
+¿Cuáles son los efectos secundarios de los antibióticos?
+Los efectos secundarios de los antibióticos varían de leves a muy severos. Algunos de los efectos secundarios comunes incluyen:
+Sarpullido
+Náuseas
+Diarrea
+Infecciones por cándida
+Los efectos secundarios más graves pueden incluir:
+Infecciones por Clostridium difficile
+, las que causan diarrea que puede provocar daños graves en el colon y, a veces, incluso la muerte
+Reacciones alérgicas
+graves y potencialmente mortales
+Infecciones resistentes a los antibióticos
+Consulte con su profesional de la salud si presenta algún efecto secundario mientras toma antibióticos.
+¿Por qué es importante tomar antibióticos solo cuando es necesario?
+Solo debe tomar antibióticos cuando sea necesario porque pueden causar efectos secundarios y pueden contribuir a la
+resistencia a los antibióticos
+. Esta ocurre cuando la bacteria cambia y puede resistir los efectos de un antibiótico, es decir, las bacterias continúan creciendo.
+¿Cómo usar los antibióticos correctamente?
+Cuando tome antibióticos, es importante que sea de manera responsable:
+Siempre siga las instrucciones cuidadosamente: Termine su tratamiento incluso si se siente mejor. Si deja de tomarlos demasiado pronto, algunas bacterias pueden sobrevivir y volver a infectarle
+No guarde sus antibióticos para después
+No comparta antibióticos con otras personas
+No tome antibióticos recetados para otra persona: Esto puede retrasar el mejor tratamiento para usted, enfermarlo aún más o causar efectos secundarios
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Alergia a la penicilina
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/penicillin-allergy/symptoms-causes/syc-20376222?p=1
+
+Resource: Alergia a la penicilina (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/penicillin-allergy.html
+
+Resource: Antibióticos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/antibiotics.html
+
+Resource: Antibióticos no son siempre la solución
+Category: Folletos para el paciente, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/es/Take-Antibiotics-Correctly-Fact-Sheet-ES-508.pdf
+
+Resource: Antibióticos versus bacterias: Combatiendo la resistencia
+Category: Interactivos y videos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/videos-de-medlineplus/antibioticos-versus-bacterias-combatiendo-la-resistencia/
+
+Resource: Análisis de sensibilidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003741.htm
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Colitis seudomembranosa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000259.htm
+
+Resource: Diarrea relacionada con antibióticos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/antibiotic-associated-diarrhea/symptoms-causes/syc-20352231?p=1
+
+Resource: El peligro de abusar de los antibióticos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/antibiotic-overuse.html
+
+Resource: Hábitos Saludables: Qué Hacer y Qué No Hacer Con los Antibióticos
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/antibiotic-use/es/about/index.html
+
+Resource: Monitorización de fármacos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/monitorizacion-de-farmacos/
+
+Resource: Prescripción y uso de antibióticos
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/antibiotic-use/es/index.html
+
+Resource: Puertos para catéteres venosos centrales
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000491.htm
+
+Resource: Recetas médicas de antibióticos para niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-home/medication-safety/paginas/antibiotic-prescriptions-for-children.aspx
+
+Resource: Resistencia a los antibióticos: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/antibioticresistance.html
+
+Resource: Sepa cuándo y cómo usar antibióticos, y cuándo dejar de usarlos
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/sepa-cuando-y-como-usar-antibioticos-y-cuando-dejar-de-usarlos
+
+Resource: Sobredosis de bacitracina
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002563.htm
+
+Resource: Sobredosis de bacitracina zinc
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002569.htm
+
+Resource: Uso de antibióticos se está estabilizando
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/news/paginas/antibiotic-use-in-children-leveling-off.aspx
+
+Resource: Vacunas y antibióticos: ¿Una combinación segura?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vaccines-and-antibiotics.html
+
+Resource: ¿Es perjudicial consumir bebidas alcohólicas mientras tomo antibióticos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/consumer-health/expert-answers/antibiotics-and-alcohol/faq-20057946?p=1

@@ -1,0 +1,116 @@
+Title: Errores en la administración de medicamentos
+
+Also Called:
+- Cómo tomar los medicamentos
+- Dar mal un medicamento
+- Errores con dosis de medicamentos
+- Errores con remedios
+- Errores de medicación
+- Tomando medicamentos de manera segura
+
+Summary:
+Los
+medicamentos
+tratan enfermedades infecciosas, previenen problemas para que éstos no se conviertan en enfermedades crónicas y alivian el dolor. Pero las medicinas también pueden causar
+reacciones no deseadas
+si no se usan correctamente. Los errores pueden suceder en el hospital, en la oficina del proveedor de salud, en la farmacia o en casa. Usted puede prevenir estos errores al:
+Conocer sus medicinas
+: Cuando obtenga una receta, pregunte el nombre del medicamento y verifique que la farmacia le haya entregado el medicamento correcto. Asegúrese de entender la frecuencia con la que debe tomar el medicamento y por cuánto tiempo debe tomarlo
+Tener una lista de sus medicinas
+Escriba todas las medicinas que toma. Incluya sus nombres, dosis y cuándo debe tomarlas. También incluya los medicamentos
+sin receta médica
+,
+vitaminas
+,
+hierbas
+y
+suplementos
+Haga una lista de las medicinas a las que usted es alérgico y las que le han causado problemas en el pasado
+Lleve esta lista a todas sus visitas con el médico
+Leer y seguir las instrucciones de las etiquetas de los medicamentos
+: No confíe solo en su memoria. Lea las etiquetas de las medicinas cada vez. Sea especialmente cuidadoso al dar medicinas a los
+niños
+Hacer preguntas
+: Si no conoce las respuestas a estas preguntas, pregunte a su proveedor de salud:
+¿Por qué tengo que tomar este remedio?
+¿Cuáles son sus efectos secundarios comunes?
+¿Qué debo hacer si tengo efectos secundarios?
+¿Cuándo debo dejar de tomar el medicamento?
+¿Puedo tomar este remedio o suplemento junto con las otras medicinas en mi lista?
+¿Necesito evitar ciertos alimentos o el alcohol al tomar esta medicina?
+Administración de Alimentos y Medicamentos
+
+Groups:
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Administración de medicamentos líquidos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002209.htm
+
+Resource: Adultos mayores y el uso seguro de los medicamentos
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/medicinas/adultos-mayores-uso-seguro-medicamentos
+
+Resource: Almacenamiento de sus medicamentos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000534.htm
+
+Resource: Ayudar a prevenir los errores hospitalarios
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000618.htm
+
+Resource: Crear una rutina para tomar los medicamentos en casa
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000613.htm
+
+Resource: Cómo y cuándo deshacerse de medicamentos no utilizados
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000943.htm
+
+Resource: Mantener sus medicamentos organizados
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000600.htm
+
+Resource: Medicamentos: Utilizarlos en forma segura
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/medication-safety.html
+
+Resource: Seguridad con los medicamentos durante su hospitalización
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000501.htm
+
+Resource: Seguridad con los medicamentos: Despachar su receta
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000766.htm
+
+Resource: Sepa cómo tomar sus medicamentos
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/free-publications-women/sepa-como-tomar-sus-medicamentos-use-medicines-wisely
+
+Resource: Sistemas de administración de fármacos: Administración localizada de fármacos de manera controlada
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Imágenes Biomédicas y Bioingeniería
+URL: https://www.nibib.nih.gov/espanol/temas-cientificos/sistemas-de-administraci%C3%B3n-de-f%C3%A1rmacos-administraci%C3%B3n-localizada-de
+
+Resource: Tomar los medicamentos: Qué se le pregunta al proveedor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000535.htm
+
+Resource: Tome los medicamentos de forma segura
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Prevención de Enfermedades y Promoción de la Salud
+URL: https://odphp.health.gov/espanol/myhealthfinder/viviendo-sanamente/precauciones-seguridad/tome-medicamentos-forma-segura

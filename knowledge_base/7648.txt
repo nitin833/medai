@@ -1,0 +1,119 @@
+Title: Vacunas contra el COVID-19
+
+Summary:
+La enfermedad del coronavirus 2019 (
+COVID-19
+) es una afección causada por un virus. Este virus es un coronavirus llamado SARS-COV-2. La mayoría de las personas con COVID-19 tienen síntomas leves, pero algunas se enferman de gravedad. Usted puede protegerse vacunándose contra el COVID-19. Las vacunas podrían ayudar a prevenir que se enferme de COVID-19. Y si se enferma, estas pueden reducir su riesgo de:
+Necesitar ir a urgencias o a la sala de emergencias
+Desarrollar una enfermedad grave
+Ser hospitalizado
+Morir
+resentar
+COVID prolongado
+Es importante mantenerse al día con las vacunas contra el COVID-19. Comuníquese con su profesional de la salud si no sabe cuándo necesita otra vacuna o si tiene otras preguntas sobre las vacunas.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Coronavirus (COVID-19): Preguntas y respuestas sobre las vacunas (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/covid-vaccines.html
+
+Resource: Hoja Informativa para receptores y cuidadores sobre la vacuna contra el COVID-19 de Moderna
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/media/183297/download
+
+Resource: Hoja informativa para receptores y cuidadores sobre la vacuna contra el COVID-19 de Pfizer-Biontech
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/media/182710/download
+
+Resource: Hoja informativa para receptores y cuidadores, autorización de uso de emergencia (EUA) de la vacuna contra el COVID-19 de Novavax con adyuvante
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/media/183298/download
+
+Resource: Qué hay en una vacuna: Ingredientes y seguridad de la vacuna
+Category: Interactivos y videos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://www.nlm.nih.gov/oet/ed/ceal/what-is-in-a-vaccine-spanish.html
+
+Resource: Refuerzos bivalentes bloquean el COVID-19 grave
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/los-refuerzos-bivalentes-bloquean-el-covid-19-grave
+
+Resource: Reporte un evento adverso
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://vaers.hhs.gov/reporteventspan.html
+
+Resource: Todo en la espiga: Investigación anterior sobre el virus da una ventaja a la vacuna contra el COVID-19
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/todo-en-la-espiga-investigacion-anterior-sobre-el-virus-da-una-ventaja-a-la-vacuna-contra-el-covid-19
+
+Resource: Vacuna contra el COVID-19
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/center/vaccine.html
+
+Resource: Vacuna contra la COVID-19 (coronavirus): Obtén la información verdadera
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/in-depth/coronavirus-vaccine/art-20484859?p=1
+
+Resource: Vacuna contra la COVID-19 (Moderna)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Estadounidense de Farmacéuticos del Sistema de Salud
+URL: https://medlineplus.gov/spanish/druginfo/meds/a621002-es.html
+
+Resource: Vacuna contra la COVID-19 (Pfizer-BioNTech)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Estadounidense de Farmacéuticos del Sistema de Salud
+URL: https://medlineplus.gov/spanish/druginfo/meds/a621003-es.html
+
+Resource: Vacunas contra el COVID-19
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/about-fda/fda-en-espanol/vacunas-contra-el-covid-19
+
+Resource: Vacunas contra el COVID-19 no están vinculadas a problemas de fertilidad
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-vacunas-contra-el-covid-19-no-estan-vinculadas-a
+
+Resource: Vacunas contra la COVID-19
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007775.htm
+
+Resource: Vacunas y antibióticos: ¿Una combinación segura?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vaccines-and-antibiotics.html
+
+Resource: ¿Cuándo pueden los bebés y niños vacunarse contra el COVID-19 o recibir la dosis de refuerzo?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/COVID-19/Paginas/when-can-kids-get-the-COVID-vaccine-or-booster.aspx
+
+Resource: ¿Pueden los niños recibir la vacuna contra el COVID-19 junto con la vacuna contra la gripe?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/covid-flu-vaccines.html
+
+Resource: ¿Qué son las vacunas ARNm y cómo funcionan?
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetica/entender/terapia/vacunasarnm/
+
+Resource: ¿Son seguras para nosotros las vacunas contra el COVID?
+Category: Interactivos y videos, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos, Oficina de Salud de las Minorías
+URL: https://www.youtube.com/watch?v=11i51hWmlhc

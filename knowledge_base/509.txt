@@ -1,0 +1,310 @@
+Title: Leg Injuries and Disorders
+
+Summary:
+Your legs are made up of bones, blood vessels, muscles, and other connective tissue. They are important for motion and standing. Playing sports, running, falling, or having an accident can damage your legs. Common leg injuries include
+sprains and strains
+,
+joint dislocations
+, and
+fractures
+(broken bones).
+These injuries can affect the entire leg, or just the
+foot
+,
+ankle
+,
+knee
+, or
+hip
+. Certain diseases also lead to leg problems. For example, knee osteoarthritis, common in older people, can cause pain and limited motion. Problems in your veins in your legs can lead to
+varicose veins
+or
+deep vein thrombosis
+.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Leg Injuries
+- Femoral Fractures
+- Leg Length Inequality
+- Tibial Fractures
+- Leg Ulcer
+
+Related Resources:
+
+Resource: Achilles Tendon Rupture
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/achilles-tendon-rupture/symptoms-causes/syc-20353234?p=1
+
+Resource: Ankle-Brachial Index
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/ankle-brachial-index/about/pac-20392934?p=1
+
+Resource: Blount disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001584.htm
+
+Resource: Blount Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/blount-disease.html
+
+Resource: Bowlegs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001585.htm
+
+Resource: Bowlegs and Knock-Knees
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/orthopedic/Pages/Bowlegs-and-Knock-Knees.aspx
+
+Resource: Broken Leg
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/broken-leg/symptoms-causes/syc-20370412?p=1
+
+Resource: Buerger Disease
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/buergers-disease/symptoms-causes/syc-20350658?p=1
+
+Resource: Charley horse
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002066.htm
+
+Resource: Claudication
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/claudication/symptoms-causes/syc-20370952?p=1
+
+Resource: ClinicalTrials.gov: Intermittent Claudication
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intermittent+Claudication%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Leg Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leg+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Leg Length Inequality
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leg+Length+Inequality%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Leg Ulcer
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leg+Ulcer%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Muscle Cramp
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Muscle+Cramp%22&aggFilters=status:not%20rec
+
+Resource: Common peroneal nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000791.htm
+
+Resource: Femoral nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000687.htm
+
+Resource: Femur fracture repair - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000166.htm
+
+Resource: Femur Shaft Fractures (Broken Thighbone)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/femur-shaft-fractures-broken-thighbone/
+
+Resource: Femur X-Ray Exam (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-femur.html
+
+Resource: Foot, leg, and ankle swelling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003104.htm
+
+Resource: Growing Pains (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/growing-pains.html
+
+Resource: Growth Plate Injuries
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/growth-plate-injuries
+
+Resource: Hereditary Spastic Paraplegia
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hereditary-spastic-paraplegia
+
+Resource: How Does a Leg Length X-Ray Work? (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-leg-length.html
+
+Resource: Iliotibial band syndrome -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000683.htm
+
+Resource: Ischemic ulcers - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000742.htm
+
+Resource: Knock knees
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001263.htm
+
+Resource: Knock Knees (Genu Valgum) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/knock-knees.html
+
+Resource: Leg CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007348.htm
+
+Resource: Leg lengthening - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100127_1.htm
+
+Resource: Leg lengthening and shortening
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002965.htm
+
+Resource: Leg MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007357.htm
+
+Resource: Leg or foot amputation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007365.htm
+
+Resource: Leg pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003182.htm
+
+Resource: Leg Problems
+Category: Diagnosis and Tests, Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/leg-problems/
+
+Resource: Leg Swelling
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/leg-swelling/basics/definition/SYM-20050910?p=1
+
+Resource: Lymphedema
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lymphedema/symptoms-causes/syc-20374682?p=1
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Night Leg Cramps
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/night-leg-cramps/basics/definition/SYM-20050813?p=1
+
+Resource: Peripheral Neuropathy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy
+
+Resource: Progressive Collapsing Foot Deformity (Flatfoot)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/posterior-tibial-tendon-dysfunction/
+
+Resource: Leg injuries and disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tibial+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Femoral+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Leg+Length+Inequality%22%5Bmajr%3Anoexp%5D+OR+%22Leg+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Leg+Ulcer%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shin Splints
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/shin-splints/symptoms-causes/syc-20354105?p=1
+
+Resource: Shin splints - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000654.htm
+
+Resource: Skeletal limb abnormalities
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003170.htm
+
+Resource: Sports Injuries
+Category: Related Issues
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/sports-injuries
+
+Resource: Stasis Ulcer (Venous Ulcer)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/stasis-ulcer-venous-ulcer/?Imiw9cApl=1
+
+Resource: Tarsal tunnel syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000792.htm
+
+Resource: Thrombophlebitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thrombophlebitis/symptoms-causes/syc-20354607?p=1
+
+Resource: Tibia (Shinbone) Shaft Fractures
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/tibia-shinbone-shaft-fractures/
+
+Resource: Venous insufficiency
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000203.htm
+
+Resource: Venous ulcers -- self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000744.htm
+
+Resource: X-Ray Exam: Lower Leg (Tibia and Fibula) (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-lower-leg.html

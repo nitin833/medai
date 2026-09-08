@@ -1,0 +1,119 @@
+Title: Bruises
+
+Also Called:
+- Contusion
+- Ecchymoses
+
+Summary:
+A bruise is a mark on your skin caused by blood trapped under the surface. It happens when an injury crushes small blood vessels but does not break the skin. Those vessels break open and leak blood under the skin.
+Bruises are often painful and swollen. You can get skin, muscle and bone bruises. Bone bruises are the most serious.
+It can take months for a bruise to fade, but most last about two weeks. They start off a reddish color, and then turn bluish-purple and greenish-yellow before returning to normal. To reduce bruising, ice the injured area and elevate it above your heart. See your health care provider if you seem to bruise for no reason, or if the bruise appears to be infected.
+
+Groups:
+- Skin, Hair and Nails
+- Injuries and Wounds
+- Symptoms
+
+MeSH Headings:
+- Contusions
+
+Related Resources:
+
+Resource: Black Eye: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-black-eye/basics/art-20056675?p=1
+
+Resource: Black Eyes (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/black-eyes.html
+
+Resource: Bleeding into the skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003235.htm
+
+Resource: Bruise
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007213.htm
+
+Resource: Bruise healing - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100207_1.htm
+
+Resource: Bruises
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/bruises.html
+
+Resource: Bruises, First Aid
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/first-aid-bruises/?Imiw9cApl=1
+
+Resource: Bruising Hands and Arms
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/BruisingHandsAndArms?
+
+Resource: Bruising Questions: The What, Why, and How of Bruises
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/01/bruising-questions
+
+Resource: ClinicalTrials.gov: Contusions
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Contusions%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hematoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hematoma%22&aggFilters=status:not%20rec
+
+Resource: Easy Bruising: Why Does It Happen?
+Category: Older Adults
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/easy-bruising/art-20045762?p=1
+
+Resource: Immune Thrombocytopenia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immune-thrombocytopenia.html
+
+Resource: Immune Thrombocytopenia (ITP)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/immune-thrombocytopenia
+
+Resource: Muscle Contusion (Bruise)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/muscle-contusion-bruise/
+
+Resource: Bruises
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Contusions%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quadriceps Contusion
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/quad-contusions.html
+
+Resource: Subconjunctival Hemorrhage (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/subconjunctival-hemorrhage.html
+
+Resource: What Is a Black Eye?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/black-eye
+
+Resource: What's a Bruise?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/bruise.html

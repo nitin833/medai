@@ -1,0 +1,140 @@
+Title: Convulsiones
+
+Summary:
+Las convulsiones son síntomas de un problema cerebral. Ocurren por la aparición súbita de una actividad eléctrica anormal en el cerebro. Cuando las personas piensan en convulsiones, suelen imaginarse el cuerpo de una persona que se sacude rápida y sin control. No todas las convulsiones provocan estas sacudidas. Existen muchos tipos de convulsiones y algunos tienen síntomas leves. Las convulsiones se dividen en dos grupos principales. Las convulsiones focales, también llamadas convulsiones parciales, ocurren en una parte del cerebro. Las convulsiones generalizadas son el resultado de actividades anormales en ambos lados del cerebro.
+La mayoría de las convulsiones duran de 30 segundos a dos minutos y no causan daños duraderos. Sin embargo, es una emergencia médica si las convulsiones duran más de cinco minutos o si una persona tiene muchas convulsiones y no se despierta entre éstas. Las convulsiones pueden tener muchas causas, entre las que se incluyen medicinas, fiebre alta, lesiones en la cabeza y ciertas enfermedades. Las personas que tienen convulsiones recurrentes debido a un trastorno cerebral tienen
+epilepsia
+.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta tras epilepsia o convulsiones
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000128.htm
+
+Resource: Ausencias típicas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000696.htm
+
+Resource: Convulsiones
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003200.htm
+
+Resource: Convulsiones del lóbulo frontal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/frontal-lobe-seizures/symptoms-causes/syc-20353958?p=1
+
+Resource: Convulsiones febriles
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000980.htm
+
+Resource: Convulsiones febriles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/convulsiones-febriles
+
+Resource: Convulsiones febriles: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000223.htm
+
+Resource: Convulsión del lóbulo temporal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214?p=1
+
+Resource: Convulsión tonicoclónica generalizada
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000695.htm
+
+Resource: Crisis convulsivas (convulsiones)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/seizure.html
+
+Resource: Crisis de ausencia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/petit-mal-seizure/symptoms-causes/syc-20359683?p=1
+
+Resource: Crisis epiléptica parcial (focal)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000697.htm
+
+Resource: Cómo ayudar a alguien que está teniendo una convulsión
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-ayudar-a-alguien-que-esta-teniendo-una-convulsion
+
+Resource: Electroencefalograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003931.htm
+
+Resource: Epilepsia mayor
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/grand-mal-seizure/symptoms-causes/syc-20363458?p=1
+
+Resource: Epilepsia y convulsiones
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/epilepsia-y-convulsiones
+
+Resource: Estimulación del nervio vago
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007854.htm
+
+Resource: Estimulación del nervio vago
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/vagus-nerve-stimulation/about/pac-20384565?p=1
+
+Resource: Examen de isoenzimas de la creatina-fosfocinasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003504.htm
+
+Resource: Primeros auxilios en caso de convulsiones
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100212_1.htm
+
+Resource: Primeros auxilios: Convulsiones
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/seizures-sheet.html
+
+Resource: Recorrido de una familia para encontrar respuestas a la epilepsia
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/recorrido-de-una-familia-para-encontrar-respuestas-a-la-epilepsia
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: Trastornos convulsivos
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-convulsivos/trastornos-convulsivos
+
+Resource: ¿Cómo son los diferentes tipos de convulsiones?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-son-los-diferentes-tipos-de-convulsiones

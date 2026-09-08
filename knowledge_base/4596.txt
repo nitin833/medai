@@ -1,0 +1,56 @@
+Title: Floods
+
+Summary:
+Floods are common in the United States.  Weather such as heavy rain, thunderstorms,
+hurricanes
+, or
+tsunamis
+can cause flooding.  Flooding can also happen when a river or stream overflows its bank, when a levee is breached, or when a dam breaks. Flash floods, which can develop quickly, often have a dangerous wall of roaring water.  The wall carries rocks, mud, and rubble and can sweep away most things in its path.
+Be aware of flood hazards no matter where you live, but especially if you live in a low-lying area, near water or downstream from a dam.  Although there are no guarantees of safety during a flood, you can take actions to protect yourself.  You should have a
+disaster plan
+. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Floods
+
+Related Resources:
+
+Resource: Cleanup Hazards (After Flood)
+Category: Learn More
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/OSHA3276.pdf
+
+Resource: DisasterAssistance.gov
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: Flooding
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/natural-disasters/flooding
+
+Resource: Floods and Your Safety
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/floods/about/
+
+Resource: National Weather Service: Watch, Warning, Advisory Display
+Category: Learn More
+Organization: National Oceanic and Atmospheric Administration
+URL: https://www.spc.noaa.gov/products/wwa/
+
+Resource: Floods
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Floods%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

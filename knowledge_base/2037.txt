@@ -1,0 +1,90 @@
+Title: Moho
+
+Summary:
+El moho está formado por hongos que pueden encontrarse en exteriores o interiores. Crecen mejor en condiciones cálidas, mojadas y húmedas. Si tiene lugares mojados o húmedos en su casa, probablemente tendrá hongos.
+El moho puede causarle problemas de salud. Inhalar o tocar moho o esporas de moho puede causar
+reacciones alérgicas
+o crisis de asma en personas sensibles. También puede causar
+infecciones micóticas
+. Además, la exposición al moho puede irritarle los ojos, la piel, la nariz, la garganta y los pulmones.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Acerca del moho
+Category: Asuntos específicos, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/cai/acerca-del-moho
+
+Resource: Aflatoxinas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002429.htm
+
+Resource: Agencia de Protección Ambiental de EE. UU.
+Category: Spanish/Español, Especialistas
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/
+
+Resource: Alergia al moho
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/alergias/alergia-al-moho
+
+Resource: Alergias al moho
+Category: Spanish/Español, Asuntos relacionados
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/alergias-al-moho
+
+Resource: Alergias, asma y mohos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000488.htm
+
+Resource: Breve guía para el moho, la humedad y su hogar
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/sites/default/files/2015-08/documents/moldguide_sp_1.pdf
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Eliminación de toxinas en el hogar
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/peligros-ocultos
+
+Resource: Hongos en los alimentos: ¿Son peligrosos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Agricultura, Servicio de Inocuidad e Inspección de los Alimentos
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/hongos-en-los-alimentos-son
+
+Resource: Moho (hongos) después de un desastre
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/mold/index.html
+
+Resource: Moho y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/el-moho/
+
+Resource: Moho y la salud
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/cai/el-moho-y-la-salud
+
+Resource: Neumonitis por hipersensibilidad
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000109.htm
+
+Resource: Si el queso tiene moho, ¿debería tirarlo?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/food-and-nutrition/faq-20058492?p=1

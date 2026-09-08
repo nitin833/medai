@@ -1,0 +1,224 @@
+Title: Concussion
+
+Also Called:
+- Brain concussion
+
+Summary:
+A concussion is a type of
+brain injury
+.  It involves a short loss of normal brain function. It happens when a hit to the
+head
+or body causes your head and brain to move rapidly back and forth. This sudden movement can cause the brain to bounce around or twist in the skull, creating chemical changes in your brain. Sometimes it can also stretch and damage your brain cells.
+Sometimes people call a concussion a "mild" brain injury. It is important to understand that while concussions may not be life-threatening, they can still be serious.
+Concussions are a common type of
+sports injury
+. Other causes of concussions include blows to the head, bumping your head when you fall, being violently shaken, and car accidents.
+Symptoms of a concussion may not start right away; they may start days or weeks after the injury. Symptoms may include a headache or neck pain. You may also have nausea, ringing in your ears, dizziness, or tiredness. You may feel dazed or not your normal self for several days or weeks after the injury. Consult your health care professional if any of your symptoms get worse, or if you have more serious symptoms such as:
+Convulsions or seizures
+Drowsiness or inability to wake up
+A headache that gets worse and does not go away
+Weakness, numbness, or decreased coordination
+Repeated vomiting or nausea
+Confusion
+Slurred speech
+Loss of consciousness
+To diagnose a concussion, your health care provider will do a physical exam and will ask about your injury. You will most likely have a neurological exam, which checks your vision, balance, coordination, and reflexes. Your health care provider may also evaluate your memory and thinking. In some cases, you may also have a scan of the brain, such as a
+CT scan
+or an
+MRI
+. A scan can check for bleeding or inflammation in the brain, as well as a skull
+fracture
+(break in the skull).
+Most people recover fully after a concussion, but it can take some time. Rest is very important after a concussion because it helps the brain to heal. In the very beginning, you may need to limit physical activities or activities that involve a lot of concentration, such as studying, working on the computer, or playing video games. Doing these may cause concussion symptoms (such as headache or tiredness) to come back or get worse. Then when your health care provider says that it is ok, you can start to return to your normal activities slowly.
+Centers for Disease Control and Prevention
+
+Groups:
+- Brain and Nerves
+- Injuries and Wounds
+
+MeSH Headings:
+- Brain Concussion
+
+Related Resources:
+
+Resource: 5 Things Parents Should Know about Concussions
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/5-things-parents-should-know-about-concussions
+
+Resource: Caring for Concussions: More Than a Bump on the Head
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/05/caring-concussions
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chronic Traumatic Encephalopathy
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921?p=1
+
+Resource: ClinicalTrials.gov: Brain Concussion
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Concussion%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Brain Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Craniocerebral Trauma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Craniocerebral+Trauma%22&aggFilters=status:not%20rec
+
+Resource: Concussion
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/concussion/symptoms-causes/syc-20355594?p=1
+
+Resource: Concussion
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000034.htm
+
+Resource: Concussion - adults - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000126.htm
+
+Resource: Concussion - child - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000125.htm
+
+Resource: Concussion Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/about/
+
+Resource: Concussion in adults - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000212.htm
+
+Resource: Concussion in children - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000213.htm
+
+Resource: Concussion in Children: What Are the Symptoms?
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/concussion/expert-answers/concussion-in-children/faq-20058282?p=1
+
+Resource: Concussion Information Sheet
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/media/pdfs/youthsports/parent_athlete_info_sheet-a.pdf
+
+Resource: Concussion Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/concussion-tests/
+
+Resource: Concussions (For Parents)
+Category: Symptoms
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/concussions.html
+
+Resource: Concussions (Topic Center)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/center/concussions-ctr.html
+
+Resource: Data on Sports and Recreation Activities
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/data/index.html
+
+Resource: Going Back to School After a Concussion
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/school-concussions.html
+
+Resource: Head CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: Head Injuries
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/head-injuries/
+
+Resource: Head Start on Concussion Recovery
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/a-head-start-on-concussion-recovery
+
+Resource: HEADS UP to Youth Sports Coaches: Online Concussion Training
+Category: Videos and Tutorials
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/training/youth-sports.html
+
+Resource: Heads Up: A Fact Sheet for Athletes Ages 11-13
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/media/pdfs/youthsports/factsheet_athletes_ages11-13-a.pdf
+
+Resource: New Concussion Model for College Athletes May Help Predict Longer Recovery Times
+Category: Statistics and Research
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/news-events/newsroom/new-concussion-model-college-athletes-may-help-predict-longer-recovery-times
+
+Resource: Persistent Post-Concussive Symptoms (Post-Concussion Syndrome)
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/post-concussion-syndrome/symptoms-causes/syc-20353352?p=1
+
+Resource: Preventing Concussion
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/prevention/
+
+Resource: Preventing head injuries in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000130.htm
+
+Resource: Concussion
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Concussion%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Signs and Symptoms of Concussion
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/signs-symptoms/
+
+Resource: Skull x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Symptoms of Mild TBI and Concussion
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/signs-symptoms/
+
+Resource: Traumatic brain injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000799.htm
+
+Resource: What to Do after a Mild TBI or Concussion
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/response/
+
+Resource: When Can Teens Go Back to Sports After a Concussion?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/concussions-sports.html

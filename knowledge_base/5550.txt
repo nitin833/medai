@@ -1,0 +1,207 @@
+Title: Myelodysplastic Syndromes
+
+Also Called:
+- MDS
+
+Summary:
+Your
+bone marrow
+is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains immature cells, called stem cells. The stem cells can develop into the red blood cells that carry oxygen through your body, the white blood cells that fight infections, and the platelets that help with blood clotting. If you have a myelodysplastic syndrome, the stem cells do not mature into healthy blood cells. Many of them die in the bone marrow.  This means that you do not have enough healthy cells, which can lead to infection,
+anemia
+, or easy bleeding.
+Myelodysplastic syndromes often do not cause early symptoms and are sometimes found during a routine blood test.  If you have symptoms, they may include:
+Shortness of breath
+Weakness or feeling tired
+Skin that is paler than usual
+Easy bruising or bleeding
+Pinpoint spots under the skin caused by bleeding
+Fever or frequent infections
+Myelodysplastic syndromes are rare. People at higher risk are over 60, have had chemotherapy or radiation therapy, or have been exposed to certain chemicals.  Treatment options include transfusions, drug therapy, chemotherapy, and blood or bone marrow stem cell transplants.
+NIH: National Cancer Institute
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Myelodysplastic Syndromes
+
+Related Resources:
+
+Resource: 5q minus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/5q-minus-syndrome
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Aplastic Anemia and Myelodysplastic Syndromes
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/blood-diseases/aplastic-anemia-myelodysplastic-syndromes/all-content
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Can Myelodysplastic Syndromes Be Prevented?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/causes-risks-prevention/prevention.html
+
+Resource: ClinicalTrials.gov: Myelodysplastic Syndromes
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Myelodysplastic+Syndromes%22&aggFilters=status:not%20rec
+
+Resource: General Approach to Treating Chronic Myelomonocytic Leukemia (CMML)
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/treating/general-approach.html
+
+Resource: General Information about Myelodysplastic Syndromes
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/myelodysplastic-treatment-pdq#_1
+
+Resource: General Information about Myelodysplastic/Myeloproliferative Neoplasms
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_1
+
+Resource: Juvenile Myelomonocytic Leukemia (JMML)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jmml.html
+
+Resource: Key Statistics for Myelodysplastic Syndromes (MDS)
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/about/key-statistics.html
+
+Resource: Myelodysplastic syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007716.htm
+
+Resource: Myelodysplastic Syndrome (MDS) Prognostic Scores (Risk Groups)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/detection-diagnosis-staging/staging.html
+
+Resource: Myelodysplastic Syndromes
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/myelodysplastic-syndrome/symptoms-causes/syc-20366977?p=1
+
+Resource: Myelodysplastic Syndromes (MDS)
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant/diseases-treated-by-transplant/myelodysplastic-syndromes
+
+Resource: Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_307
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Myelodysplastic Syndromes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Myelodysplastic+Syndromes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Factors for Myelodysplastic Syndromes (MDS)
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/causes-risks-prevention/risk-factors.html
+
+Resource: Tests for Chronic Myelomonocytic Leukemia (CMML)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Tests for Myelodysplastic Syndromes (MDS)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment of Myelodysplastic Syndromes
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/myelodysplastic-treatment-pdq#_92
+
+Resource: Treatment Option Overview (Myelodysplastic Syndromes)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/myelodysplastic-treatment-pdq#_49
+
+Resource: Treatment Option Overview (Myelodysplastic/Myeloproliferative Neoplasms)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/mds-mpd-treatment-pdq#_156
+
+Resource: Types of Myelodysplastic Syndromes (MDS)
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/about/mds-types.html
+
+Resource: What Are Myelodysplastic Syndromes?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/about/what-is-mds.html
+
+Resource: What Causes Chronic Myelomonocytic Leukemia (CMML)?
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/causes-risks-prevention/what-causes.html
+
+Resource: What Causes Myelodysplastic Syndromes?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/causes-risks-prevention/what-causes.html
+
+Resource: What Is Chronic Myelomonocytic Leukemia (CMML)?
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/about/what-is-chronic-myelomonocytic.html
+
+Resource: What's New in Myelodysplastic Syndrome (MDS) Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/myelodysplastic-syndrome/about/new-research.html

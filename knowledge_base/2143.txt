@@ -1,0 +1,110 @@
+Title: Salud sexual
+
+Summary:
+La sexualidad es una parte importante del ser humano. El amor, el afecto y la intimidad sexual representan un papel importante en las relaciones saludables. También contribuyen con su sentido del bienestar. Pero algunos trastornos pueden afectar la capacidad de los
+hombres
+y de las
+mujeres
+de tener relaciones sexuales o disfrutarlas.
+Los factores que puede afectar la salud sexual incluyen:
+Temor a un embarazo no deseado
+Preocupaciones sobre la
+infertilidad
+Infecciones de transmisión sexual (ITS)
+Enfermedades crónicas como cáncer o enfermedades del corazón
+Medicamentos que afectan el deseo sexual o el rendimiento
+
+Groups:
+- Mujeres
+- Hombres
+- Bienestar y estilo de vida
+- Asuntos de salud sexual
+- Sistema reproductor femenino
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Aparato reproductor femenino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/female-reproductive-system.html
+
+Resource: Cardiopatía y la intimidad
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000540.htm
+
+Resource: Conducta sexual compulsiva
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/compulsive-sexual-behavior/symptoms-causes/syc-20360434?p=1
+
+Resource: Cómo hablar de sexo con su hijo pequeño
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/preschool/paginas/talking-to-your-young-child-about-sex.aspx
+
+Resource: Cómo responder a preguntas sobre el sexo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sex.html
+
+Resource: Disfunción eréctil: Tema de salud de MedlinePlus
+Category: Hombres, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/erectiledysfunction.html
+
+Resource: Dolores de cabeza durante la actividad sexual
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sex-headaches/symptoms-causes/syc-20377477?p=1
+
+Resource: Enseñar a los niños sobre su cuerpo (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/teach-about-bodies.html
+
+Resource: Infidelidad: Componer el matrimonio después de un amorío
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/adult-health/in-depth/infidelity/art-20048424?p=1
+
+Resource: Preguntas sobre orientación sexual y homosexualismo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/lgbtq/orientacion?partner=nlm
+
+Resource: Problemas sexuales en las mujeres: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/sexualproblemsinwomen.html
+
+Resource: Problemas sexuales en los hombres: Tema de salud de MedlinePlus
+Category: Hombres, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/sexualproblemsinmen.html
+
+Resource: Prueba de estrógeno
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estrogeno/
+
+Resource: Prueba de niveles de testosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-niveles-de-testosterona/
+
+Resource: Salud sexual
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/sexual-health/basics/sexual-health-basics/hlv-20049432?p=1
+
+Resource: Salud sexual del adolescente: Tema de salud de MedlinePlus
+Category: Adolescentes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/teensexualhealth.html
+
+Resource: Sexualidad en la edad avanzada
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/sexualidad/sexualidad-edad-avanzada

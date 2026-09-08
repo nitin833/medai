@@ -1,0 +1,87 @@
+Title: Cancer Immunotherapy
+
+Summary:
+What is immunotherapy?
+Immunotherapy is a
+cancer
+treatment that helps your
+immune system
+fight cancer. It is a type of biological therapy. Biological therapy uses substances made from living organisms or versions of these substances made in a lab. Immunotherapy isn't used for all cancers, and the response to treatment varies. If you're getting immunotherapy, your health care provider will monitor your treatment closely.
+When is immunotherapy used for cancer treatment?
+Immunotherapy isn't used as often as other cancer treatments, such as surgery,
+chemotherapy
+, and
+radiation therapy
+. But immunotherapy is used for some types of cancer, and researchers are doing clinical trials to see whether it also works for other types.
+How does immunotherapy work against cancer?
+Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes, this process goes wrong. When you have cancer, some of your cells begin to multiply without stopping, and old cells don't die when they should. They spread into the surrounding tissues.
+One reason cancer cells can keep growing and spreading is that they can hide from your immune system. Some immunotherapies can "mark" your cancer cells. This makes it easier for your immune system to find and destroy the cells. It is a type of targeted therapy that uses medicines or other substances that attack specific cancer cells with less harm to normal cells. Other types of immunotherapies work by boosting your immune system to work better against cancer.
+How is immunotherapy given?
+There are different forms of immunotherapy, so how they are given varies. You could get immunotherapy intravenously (by IV), in pills or capsules, or cream for your skin. For bladder cancer, they might place it directly into your bladder.
+How often and how long you get immunotherapy also varies. It depends on your type of cancer, how advanced it is, the type of immunotherapy you get, and how well it is working. You may have treatment every day, week, or month. Some immunotherapies are given in cycles, so your body has time to rest and recover.
+What are the side effects of immunotherapy?
+You may have side effects. The most common side effects are skin reactions at the needle site if you get it by IV. Other side effects may include flu-like symptoms or, rarely, severe reactions.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+
+MeSH Headings:
+- Neoplasms
+- Immunotherapy
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Cancer Immunotherapy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=cancer&intr=immunotherapy&aggFilters=status:not%20rec
+
+Resource: Immunotherapy
+Category: Learn More
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/immunotherapy.html
+
+Resource: Immunotherapy
+Category: Learn More
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Immunotherapy for cancer
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000903.htm
+
+Resource: Immunotherapy to Treat Cancer
+Category: Learn More
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/immunotherapy
+
+Resource: Immunotherapy: questions to ask your doctor
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000828.htm
+
+Resource: Monoclonal Antibodies
+Category: Learn More
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/monoclonal-antibodies
+
+Resource: Off-Label Drug Use in Cancer Treatment
+Category: Learn More
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/off-label
+
+Resource: PDL1 (Immunotherapy) Tests
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pdl1-immunotherapy-tests/
+
+Resource: Cancer Immunotherapy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neoplasms%2Ftherapy%22%5Bmajr%3Anoexp%5D+AND+%22Immunotherapy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radioimmunotherapy (RIT)
+Category: Learn More
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/radio-immuno

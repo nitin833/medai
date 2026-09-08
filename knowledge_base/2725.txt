@@ -1,0 +1,210 @@
+Title: Radioterapia
+
+Also Called:
+- Terapia de radiación
+
+Summary:
+¿Qué es la radioterapia?
+La radioterapia es un tratamiento para el
+cáncer
+. Utiliza altas dosis de radiación para eliminar células cancerosas y evitar que se propaguen. También se puede usar para aliviar los síntomas del cáncer. La radioterapia puede dañar las células sanas, las que suelen repararse a sí mismas más fácilmente que las células cancerosas.
+Es posible que necesite días o semanas de tratamiento antes de que la radiación comience a eliminar las células cancerosas, pero las estas células deberían seguir muriendo durante semanas o meses después de finalizar el tratamiento.
+¿Cuándo se usa la radioterapia para el tratamiento del cáncer?
+La radioterapia trata muchos tipos de cáncer. Se puede utilizar en diferentes momentos o por diferentes motivos durante el tratamiento. En ocasiones, la radiación se usa con otros tratamientos, como cirugía,
+quimioterapia
+o
+inmunoterapia
+.
+¿Cómo se administra la radioterapia?
+Usted puede recibir radioterapia una vez al día o en dosis más pequeñas dos veces al día durante algunas semanas. La radiación puede ser externa, a través de máquinas especiales, o interna, mediante sustancias radiactivas que se colocan dentro de su cuerpo.
+El tipo de radioterapia que reciba depende de muchos factores, incluyendo:
+El tipo de cáncer
+El tamaño del cáncer
+La ubicación del cáncer en su cuerpo
+La cercanía del cáncer a tejidos normales sensibles a la radiación
+La distancia que la radiación debe recorrer dentro de su cuerpo
+Su salud general e historia clínica
+Si recibirá otros tipos de tratamiento contra el cáncer
+Otros factores, como su edad y otras afecciones médicas
+¿Cuáles son los efectos secundarios de la radioterapia?
+Su tratamiento debe planificarse cuidadosamente para reducir los efectos secundarios. La radioterapia puede dañar las células normales y las células cancerosas. En general, las células sanas se reparan a sí mismas, pero dañarlas puede causar efectos secundarios.
+Los efectos secundarios pueden variar de una persona a otra. Efectos secundarios comunes incluyen cambios en la piel y
+fatiga
+. Otros efectos secundarios dependen de la parte de su cuerpo que se esté tratando. La mayoría de los efectos secundarios desaparecen unos meses después de finalizar el tratamiento.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Cirugía y rehabilitación
+
+Related Resources:
+
+Resource: Alta tras radiación abdominal
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000054.htm
+
+Resource: Alta tras radiación al cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000055.htm
+
+Resource: Alta tras radiación de haz externo en las mamas
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000056.htm
+
+Resource: Alta tras radiación en boca y cuello
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000058.htm
+
+Resource: Alta tras radiación en el tórax
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000057.htm
+
+Resource: Alta tras radiocirugía estereotáctica
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Braquiterapia
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/brachy
+
+Resource: Braquiterapia para tratar el cáncer
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/braquiterapia
+
+Resource: Caída del pelo (alopecia) y el tratamiento del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/caida-pelo
+
+Resource: Complicaciones orales del tratamiento del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/boca-garganta/complicaciones-orales-pdq#section/all
+
+Resource: Cuestiones de fecundidad en los hombres con cáncer: Niños y adultos
+Category: Hombres, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/fecundidad-hombres
+
+Resource: Cómo se usa la radioterapia para tratar el cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/radioterapia/conceptos-basicos.html
+
+Resource: Diarrea relacionada con el tratamiento del cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/diarrea
+
+Resource: Efectos secundarios de la radioterapia
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/radioterapia/como-sobrellevar.html
+
+Resource: Enteritis por radiación
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000300.htm
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Mucositis oral: Cuidados personales
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000047.htm
+
+Resource: Problemas urinarios y de vejiga
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/problemas-urinarios
+
+Resource: Radiación pélvica: Alta
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000059.htm
+
+Resource: Radiocirugía estereotáctica con bisturí de rayos gamma (Gamma Knife)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007577.htm
+
+Resource: Radiocirugía estereotáctica: CyberKnife
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007274.htm
+
+Resource: Radioinmunoterapia (RIT)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/radio-immuno
+
+Resource: RadiologyInfo
+Category: Spanish/Español, Especialistas
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es
+
+Resource: Radioterapia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/radiation.html
+
+Resource: Radioterapia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001918.htm
+
+Resource: Radioterapia
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/radioterapia.html
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Radioterapia para tratar el cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia
+
+Resource: Radioterapia y cuidado de la piel
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000735.htm
+
+Resource: Radioterapia y usted: Apoyo para las personas con cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted
+
+Resource: Radioterapia: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000187.htm
+
+Resource: Recuentos bajos de glóbulos rojos: Efecto secundario del tratamiento contra el cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/cancer-treatment/art-20046192?p=1
+
+Resource: Terapia de protones
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007281.htm

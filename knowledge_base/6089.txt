@@ -1,0 +1,55 @@
+Title: Brachial Plexus Injuries
+
+Summary:
+The brachial plexus is a network of nerves that sends signals from the spine to the shoulder, arm, and hand. Damage to the brachial plexus can cause symptoms such as:
+A limp or paralyzed arm
+Lack of muscle control in the arm, hand, or wrist
+Lack of feeling or sensation in the arm or hand
+Brachial plexus injuries can happen because of shoulder trauma, tumors, or inflammation. Sometimes they happen
+during childbirth
+when a baby's shoulders become stuck during delivery and the nerves stretch or tear.
+Some brachial plexus injuries may heal without treatment. Many children who are injured during birth improve or recover by 3 to 4 months of age. Treatment includes physical therapy and, in some cases, surgery.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Injuries and Wounds
+
+MeSH Headings:
+- Brachial Plexus Neuropathies
+
+Related Resources:
+
+Resource: Brachial plexopathy
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001418.htm
+
+Resource: Brachial Plexus Injury
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brachial-plexus-injury
+
+Resource: Brachial plexus injury in newborns
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001395.htm
+
+Resource: Burner (Stinger)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/burners.html
+
+Resource: Burners
+Category: Learn More
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/burners/
+
+Resource: ClinicalTrials.gov: Brachial Plexus Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brachial+Plexus+Neuropathies%22+OR+%22Brachial+Plexus+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Brachial Plexus Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brachial+Plexus+Neuropathies%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

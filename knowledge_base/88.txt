@@ -1,0 +1,550 @@
+Title: Colorectal Cancer
+
+Also Called:
+- Colon cancer
+- Rectal cancer
+
+Summary:
+What is colorectal cancer?
+Colorectal cancer is cancer that develops in the tissues of the colon or rectum. Your colon and rectum are part of your digestive system:
+Your colon is the first and longest part of your large intestine. It absorbs water and some nutrients from foods. It also changes the leftover waste products into stool (poop).
+Your rectum is the lower part of your large intestine. It's where your body stores stool.
+Cancer that begins in the colon is called colon cancer, and cancer that begins in the rectum is called rectal cancer. Cancer that affects either of these parts may also be called colorectal cancer.
+What causes colorectal cancer?
+Colorectal cancer happens when there are
+changes in your genetic material (DNA)
+. These changes are also called mutations or variants. Often, the genetic changes that lead to colorectal cancer happen during your lifetime and the exact cause is unknown. But certain genetic changes that raise your risk for colorectal cancer are inherited, meaning that you are born with them.
+Besides genetics, other factors, including your lifestyle and the environment, can affect your risk of colorectal cancer.
+Who is more likely to develop colorectal cancer?
+Anyone can get colorectal cancer, but certain factors make you more likely to develop it:
+Being older; your risk of getting colorectal cancer increases as you age.
+Having a personal or family history of colorectal cancer.
+Having a history of adenomas. Adenomas are colorectal
+polyps
+(growths) that look abnormal under a microscope or are 1 centimeter or larger. Adenomas are not cancer, but they can sometimes turn into cancer over time.
+Having a genetic syndrome such as
+familial adenomatous polyposis (FAP)
+or
+Lynch syndrome
+(hereditary non-polyposis colorectal cancer).
+Having chronic
+ulcerative colitis
+or
+Crohn disease
+for 8 years or more.
+Having three or more
+alcoholic drinks
+per day.
+Smoking cigarettes
+.
+Being Black; Black people have an increased risk of colorectal cancer and death from colorectal cancer compared to other races.
+Having
+obesity
+.
+What are the symptoms of colorectal cancer?
+Colorectal cancer may not always cause symptoms, especially at first. If you do have symptoms, they could include:
+A change in bowel habits that lasts more than a few days, such as:
+Diarrhea
+Constipation
+Feeling that the bowel does not empty completely
+Your stool is narrower or has a different shape than usual
+Blood (either bright red or very dark) in the stool
+Frequent
+gas
+pains, bloating, fullness, or cramps
+Weight loss for no known reason
+Fatigue
+What is screening for colorectal cancer and who needs it?
+Because colorectal cancer may not cause symptoms at first, it's important to have
+screening tests for colorectal cancer
+. Screening tests look for signs of a disease before you have any symptoms. They can help find cancer early, when it may be easier to treat.
+Most experts recommend that start screenings at 45 and continue until at least age 75. People over 75 and those who are at high risk should talk to their providers about how often you need screening and what type of test they should get.
+The types of tests include different stool tests and procedures such as
+colonoscopies
+and flexible sigmoidoscopy. Talk with your provider about how often you need screening and what type of test you should get.
+How is colorectal cancer diagnosed?
+If you have symptoms that could be caused by colorectal cancer or if your screening test results are abnormal, you may need to have more tests to find out if you have cancer. Possible tests include:
+A physical exam.
+A digital rectal exam. For this exam, your provider inserts a lubricated, gloved finger into your rectum to feel for lumps or anything unusual.
+The tests that are also used for screening (colonoscopy, stool tests, etc.) and
+biopsy
+, if you have not already had them.
+Other blood and tissue tests.
+What are the treatments for colorectal cancer?
+Your treatment options usually depend on your age, your general health, how serious the cancer is, and which type of cancer you have.
+For
+colon cancer
+, your treatment may include one or more of these options:
+Surgery.
+Radiofrequency ablation, a procedure that uses radio waves to heat and destroy abnormal cells. The radio waves travel through electrodes (small devices that carry electricity).
+Cryosurgery, a procedure in which an extremely cold liquid or an instrument called a cryoprobe is used to freeze and destroy abnormal tissue.
+Chemotherapy
+.
+Radiation therapy
+.
+Targeted therapy, which uses drugs or other substances that mainly attack specific cancer cells and cause less harm to normal cells.
+Immunotherapy
+.
+For
+rectal cancer
+, your treatment may include one or more of these options:
+Surgery.
+Radiation therapy.
+Chemotherapy.
+Active surveillance, which means having regular tests to see if your rectal cancer has changed. If the tests show the cancer is starting to grow, then you will have treatment to try to cure the cancer.
+Targeted therapy, which uses drugs or other substances that mainly attack specific cancer cells and cause less harm to normal cells.
+Immunotherapy.
+Can colorectal cancer be prevented?
+Avoiding the risk factors that you have control over may help prevent some cancers. That includes:
+Not smoking
+Limiting alcohol to under three drinks per day
+Managing your weight
+There are also other steps you can take to try to prevent colorectal cancer. They include:
+Getting regular colorectal cancer screenings
+Having polyps removed before they can become cancerous
+Getting regular exercise
+
+Groups:
+- Cancers
+- Digestive System
+
+MeSH Headings:
+- Colorectal Neoplasms
+
+Related Resources:
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal exploration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002928.htm
+
+Resource: Abdominal exploration - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100049_1.htm
+
+Resource: Abdominal radiation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000054.htm
+
+Resource: About Lynch Syndrome
+Category: Genetics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/colorectal-cancer-hereditary/about/lynch-syndrome.html
+
+Resource: Advances in Colorectal Cancer Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/research
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: American Society of Colon and Rectal Surgeons
+Category: Find an Expert
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/
+
+Resource: Anoscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/anoscopy/
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: At-Home Medical Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/at-home-medical-tests/
+
+Resource: Barium enema
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003817.htm
+
+Resource: Black or tarry stools
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003130.htm
+
+Resource: Calling out Colorectal Cancer
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/calling-out-colorectal-cancer
+
+Resource: Cancer Stat Facts: Colorectal Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/colorect.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: CEA Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cea-test/
+
+Resource: Childhood Colorectal Cancer Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/child-colorectal-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Colonic Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Colonic+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Colorectal Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Colorectal+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Rectal Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rectal+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Cologuard
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007747.htm
+
+Resource: Colon cancer - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100157_1.htm
+
+Resource: Colon cancer screening
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002071.htm
+
+Resource: Colon Cleansing: Health or Hype?
+Category: Prevention and Risk Factors
+Organization: University of Texas M.D. Anderson Cancer Center
+URL: https://www.mdanderson.org/cancerwise/colon-cleanse--health-or-hype.h00-159778812.html
+
+Resource: Colon Resection Surgery
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/patient-information-for-laparoscopic-colon-resection-from-sages/
+
+Resource: Colonoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003886.htm
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Colorectal cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000262.htm
+
+Resource: Colorectal Cancer Prevention
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colorectal-prevention-pdq#_14
+
+Resource: Colorectal Cancer Risk Assessment Tool
+Category: Health Check Tools
+Organization: National Cancer Institute
+URL: https://ccrisktool.cancer.gov/
+
+Resource: Colorectal Cancer Risk Factors
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Colorectal Cancer Risk Factors
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/colorectal-cancer/risk-factors/
+
+Resource: Colorectal Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colorectal-screening-pdq
+
+Resource: Colorectal Cancer Screening Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/colorectal-cancer-screening-tests/
+
+Resource: Colorectal Cancer Signs and Symptoms
+Category: Symptoms
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/signs-and-symptoms.html
+
+Resource: Colorectal Cancer Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/colorectal-cancer/statistics/
+
+Resource: Colorectal Cancer Videos
+Category: Videos and Tutorials
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/colon-cancer-videos.html
+
+Resource: Colostomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100011_1.htm
+
+Resource: Constitutional mismatch repair deficiency syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/constitutional-mismatch-repair-deficiency-syndrome
+
+Resource: David L. Nash Advocates for Early Detection After Living with Colon Cancer
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/david-l-nash-advocates-for-early-detection-after-living-with-colon-cancer
+
+Resource: Dr. Ibram X. Kendi Advocates Vigilance After Experiencing Colorectal Cancer
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/dr-ibram-x-kendi-advocates-vigilance-after-overcoming-colorectal-cancer
+
+Resource: Drugs Approved for Colon and Rectal Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/colorectal
+
+Resource: Fecal immunochemical test (FIT)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000704.htm
+
+Resource: Fecal Occult Blood Test (FOBT)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/
+
+Resource: Flushable reagent stool blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007007.htm
+
+Resource: General Information about Colon Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colon-treatment-pdq#_93
+
+Resource: General Information about Rectal Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/rectal-treatment-pdq#_92
+
+Resource: Get Screened for Colorectal Cancer
+Category: Diagnosis and Tests
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/doctor-visits/screening-tests/get-screened-colorectal-cancer
+
+Resource: Large bowel resection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002941.htm
+
+Resource: Large bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000151.htm
+
+Resource: Large bowel resection - Series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100089_1.htm
+
+Resource: Learning about Colon Cancer
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Colon-Cancer
+
+Resource: Living as a Colorectal Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/after-treatment/living.html
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Lynch Syndrome
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lynch-syndrome/symptoms-causes/syc-20374714?p=1
+
+Resource: Lynch syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lynch-syndrome
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Ostomy Surgery of the Bowel
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Pelvic CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: Pelvic radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000059.htm
+
+Resource: Pelvis MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007355.htm
+
+Resource: Colorectal Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Colorectal+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to Ask About Colorectal Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/detection-diagnosis-staging/talking-with-doctor.html
+
+Resource: Radiation enteritis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000300.htm
+
+Resource: Risks of Colorectal Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colorectal-screening-pdq#_48
+
+Resource: Screening Tests to Detect Colorectal Cancer and Polyps
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/screening-fact-sheet
+
+Resource: Second Cancers After Colorectal Cancer
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/after-treatment/second-cancers.html
+
+Resource: Stages of Colon Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colon-treatment-pdq#_112
+
+Resource: Stages of Rectal Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/rectal-treatment-pdq#_111
+
+Resource: Stool DNA Test
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/stool-dna-test/about/pac-20385153?p=1
+
+Resource: Stool guaiac test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003393.htm
+
+Resource: Take the Quiz: Colorectal Cancer
+Category: Test Your Knowledge
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/colorectal-cancer-quiz.html
+
+Resource: Talking with Your Doctor about Colorectal Cancer
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/colorectal-cancer/talking-to-doctor/
+
+Resource: Total abdominal colectomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007379.htm
+
+Resource: Total colectomy or proctocolectomy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000153.htm
+
+Resource: Total proctocolectomy with ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007381.htm
+
+Resource: Treating Colorectal Cancer
+Category: Living With
+Organization: Colorectal Cancer Coalition
+URL: https://www.cancer.org/content/dam/CRC/PDF/Public/8607.00.pdf
+
+Resource: Treatment Option Overview (Colon Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/colon-treatment-pdq#_135
+
+Resource: Treatment Option Overview (Rectal Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/colorectal/patient/rectal-treatment-pdq#_135
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Understanding your colorectal cancer risk
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000832.htm
+
+Resource: Virtual colonoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007253.htm
+
+Resource: What Is Colorectal Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/about/what-is-colorectal-cancer.html
+
+Resource: What's New in Colorectal Cancer Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/colon-rectal-cancer/about/new-research.html

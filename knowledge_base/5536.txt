@@ -1,0 +1,154 @@
+Title: Jaw Injuries and Disorders
+
+Summary:
+Your jaw is a set of bones that holds your teeth. It includes:
+The
+maxilla,
+which is the upper part of your jaw. It holds your top teeth in place and doesn't move. It also supports the muscles involved in chewing and facial expressions.
+The
+mandible,
+which is the lower part of your jaw. You move it when you talk or chew. It also holds your lower teeth in place.
+The
+temporomandibular joints
+(TMJs), which are two joints (one on each side) that connect your mandible to your skull.
+Jaw problems can include:
+Fractures
+(broken bones).
+Dislocations
+, which are joint injuries that force the ends of your bones out of position.
+Temporomandibular disorders
+(TMDs), which are conditions that affect your TMJs.
+Osteonecrosis
+, which happens when the blood flow to part of your bone is disrupted. It can cause the bone to break down.
+Jaw tumors, which can be benign (not cancer) or cancer.
+Jaw defects, which are
+birth defects
+in which your jaw could be missing or deformed.
+Diagnostic imaging tests
+are often used to diagnose jaw injuries and disorders. Your treatment will depend on which jaw problem you have.
+
+Groups:
+- Bones, Joints and Muscles
+- Mouth and Teeth
+- Injuries and Wounds
+
+MeSH Headings:
+- Jaw
+- Jaw Fractures
+- Jaw Diseases
+
+Related Resources:
+
+Resource: Auriculo-condylar syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/auriculo-condylar-syndrome
+
+Resource: Bisphosphonate Therapy (and Osteonecrosis of the Jaw)
+Category: Related Issues
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://www.aaom.com/index.php?option=com_content&view=article&id=78:bisphosphonate-therapy&catid=22:patient-condition-information&Itemid=120
+
+Resource: Broken or dislocated jaw
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000019.htm
+
+Resource: Chin augmentation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002986.htm
+
+Resource: Chin augmentation - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100009_1.htm
+
+Resource: ClinicalTrials.gov: Jaw Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Jaw+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Jaw Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Jaw+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Mandibular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mandibular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Maxillary Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Maxillary+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Corrective Jaw Surgery
+Category: Treatments and Therapies
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/what-we-do/corrective-jaw-surgery/
+
+Resource: Find an Oral and Maxillofacial Surgeon
+Category: Find an Expert
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/find-a-surgeon/
+
+Resource: Fractures of the Jaw and Midface
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/facial-injuries/fractures-of-the-jaw-and-midface
+
+Resource: Hyperparathyroidism-jaw tumor syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperparathyroidism-jaw-tumor-syndrome
+
+Resource: Jaw Dislocation
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/mouth-and-dental-disorders/urgent-dental-problems/jaw-dislocation
+
+Resource: Malocclusion (Misaligned Teeth)
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/mouth-and-dental-disorders/symptoms-of-oral-and-dental-disorders/malocclusion
+
+Resource: Malocclusion of teeth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001058.htm
+
+Resource: Micrognathia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003306.htm
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Osteonecrosis of the Jaw (ONJ)
+Category: Specifics
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/osteonecrosis-of-the-jaw-onj
+
+Resource: Panoramic Dental X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Prognathism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003026.htm
+
+Resource: Jaw Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Jaw+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Jaw+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Jaw%2Finjuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treatment of Facial Injury
+Category: Treatments and Therapies
+Organization: American Association of Oral and Maxillofacial Surgeons
+URL: https://myoms.org/wp-content/uploads/2019/09/Ebook_facial_Injury_R.pdf

@@ -1,0 +1,329 @@
+Title: Leukemia
+
+Summary:
+What is leukemia?
+Leukemia
+is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets
+help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What are the types of leukemia?
+There are different types of leukemia. Which type of leukemia you have depends on the type of blood cell that becomes cancer and whether it grows quickly or slowly.
+The type of blood cell could be:
+Lymphocytes,
+a type of white blood cell
+Myeloid cells,
+immature cells that become white blood cells, red blood cells, or platelets
+The different types can grow quickly or slowly:
+Acute leukemia
+is fast growing. It usually gets worse quickly if it's not treated.
+Chronic leukemia
+is slow growing. It usually gets worse over a longer period of time.
+The main types of leukemia are:
+Acute lymphocytic leukemia (ALL)
+,
+which is the most common type of cancer in children. It can also affect adults.
+Acute myeloid leukemia (AML)
+,
+which is more common in older adults but can also affect children
+Chronic lymphocytic leukemia (CLL)
+,
+which is one of the most common types of leukemia in adults. It often occurs during or after middle age.
+Chronic myeloid leukemia (CML)
+,
+which usually occurs in adults during or after middle age
+What causes leukemia?
+Leukemia happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown.
+Who is at risk for leukemia?
+For the specific types, there are different factors which can raise your risk of getting that type. Overall, your risk of leukemia goes up as you age. It is most common over age 60.
+What are the symptoms of leukemia?
+Some of the symptoms of leukemia may include:
+Feeling tired
+Fever
+or night sweats
+Easy
+bruising
+or
+bleeding
+Weight loss or loss of appetite
+Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
+Other leukemia symptoms can be different from type to type. Chromic leukemia may not cause symptoms at first.
+How is leukemia diagnosed?
+Your health care provider may use many tools to diagnose leukemia:
+A physical exam
+A medical history
+Blood tests, such as a
+complete blood count (CBC)
+Bone marrow tests
+. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+Genetic tests
+to look for gene and chromosome changes
+Once the provider makes a diagnosis, there may be additional tests to see whether the cancer has spread. These include imaging tests and a lumbar puncture, which is a procedure to collect and test cerebrospinal fluid (CSF).
+What are the treatments for leukemia?
+The treatments for leukemia depend on which type you have, how severe the leukemia is, your age, your overall health, and other factors. Some possible treatments might include:
+Chemotherapy
+Radiation therapy
+Chemotherapy with
+stem cell transplant
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Leukemia
+
+Related Resources:
+
+Resource: Adult T-Cell Leukemia/Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/atll/
+
+Resource: Advances in Leukemia Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/research
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: B and T cell screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003329.htm
+
+Resource: B-cell leukemia/lymphoma panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003518.htm
+
+Resource: Beta 2 Microglobulin (B2M) Tumor Marker Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/beta-2-microglobulin-b2m-tumor-marker-test/
+
+Resource: Blood Cancer Facts and Statistics
+Category: Statistics and Research
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer/blood-cancer-facts-and-statistics
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood Transfusion
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Cancer Statistics: Leukemia
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/leuks.html
+
+Resource: Childhood Leukemia: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodleukemia.html
+
+Resource: Choosing a Blood Cancer Specialist or a Treatment Center
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/choosing-blood-cancer-specialist-or-treatment-center
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chronic Myeloproliferative Neoplasms Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloproliferative/patient/chronic-treatment-pdq
+
+Resource: Clinical Trial Support Center (CTSC)
+Category: Clinical Trials
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/resources/patients/clinical-trial-support-center-ctsc
+
+Resource: ClinicalTrials.gov: Leukemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Leukemia, Hairy Cell
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia,+Hairy+Cell%22&aggFilters=status:not%20rec
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Drugs Approved for Leukemia
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/leukemia
+
+Resource: Electromagnetic Fields and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: General Approach to Treating Chronic Myelomonocytic Leukemia (CMML)
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/treating/general-approach.html
+
+Resource: General Information About Hairy Cell Leukemia
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq#_1
+
+Resource: Hairy cell leukemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000592.htm
+
+Resource: Immunotherapy
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Lab and Imaging Tests
+Category: Diagnosis and Tests
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/lab-imaging-tests
+
+Resource: Leukemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001299.htm
+
+Resource: Leukemia
+Category: Start Here
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer/leukemia
+
+Resource: Leukemia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cancer-leukemia.html
+
+Resource: Leukemia
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/leukemia/symptoms-causes/syc-20374373?p=1
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Leukemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Leukemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: T-cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003516.htm
+
+Resource: Tests for Chronic Myelomonocytic Leukemia (CMML)
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: TP53 Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tp53-genetic-test/
+
+Resource: Treatment Option Overview (Hairy Cell Leukemia)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/hairy-cell-treatment-pdq#_34
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: What Causes Chronic Myelomonocytic Leukemia (CMML)?
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/causes-risks-prevention/what-causes.html
+
+Resource: What Is Chronic Myelomonocytic Leukemia (CMML)?
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-myelomonocytic-leukemia/about/what-is-chronic-myelomonocytic.html

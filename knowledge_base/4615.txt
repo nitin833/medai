@@ -1,0 +1,94 @@
+Title: Huracanes
+
+Summary:
+Un huracán es una forma severa de tormenta tropical. Los huracanes producen vientos fuertes, lluvias abundantes y tormentas eléctricas.   Los huracanes pueden causar daños tremendos. Los vientos pueden superar las 155 millas por hora. Los huracanes y las tormentas tropicales también pueden generar
+tornados
+y causar
+inundaciones
+. Los vientos fuertes y las lluvias copiosas pueden destruir edificios, carreteras y puentes y derribar líneas eléctricas y árboles. En las áreas costeras, las mareas muy altas llamadas marejadas ciclónicas pueden causar extensos daños.
+Aunque no hay garantías de seguridad durante un huracán, usted puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si experimenta un desastre, es normal sentirse estresado. Usted puede necesitar
+ayuda para superar la situación
+.
+Agencia Federal para el Manejo de Emergencias
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Agencia Federal para el Manejo de Emergencias
+Category: Spanish/Español, Especialistas
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.fema.gov/es
+
+Resource: Cómo prepararse para un huracán u otra tormenta tropical
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/hurricanes/before.html
+
+Resource: Huracanes
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/huracanes
+
+Resource: Huracanes
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/huracanes
+
+Resource: Huracanes e inundaciones
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/huracanes-e-inundaciones
+
+Resource: Huracanes y otras tormentas tropicales
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/hurricanes/index.html
+
+Resource: Listo niños
+Category: Spanish/Español, Niños/as
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/kids
+
+Resource: Manejando el estrés traumático: Huracanes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/disasters-response/huracan?partner=nlm
+
+Resource: Manténgase seguro después de un huracán u otra tormenta tropical
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/hurricanes/be-safe-after.html
+
+Resource: Preparación para huracanes o tormentas tropicales
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/nceh/especiales/huracanes/index.html
+
+Resource: Refugio
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/refugio
+
+Resource: Seguridad alimentaria y del agua en caso de apagones eléctricos e inundaciones
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/seguridad-de-los-alimentos-y-el-agua-durante-cortes-de-energia-e-inundaciones
+
+Resource: Temporada de huracanes: Prepárese
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/temporada-de-huracanes-preparese
+
+Resource: ¿Cómo se forman los huracanes?
+Category: Spanish/Español, Niños/as
+Organization: Administración Nacional de Aeronáutica y del Espacio
+URL: https://spaceplace.nasa.gov/hurricanes/sp/
+
+Resource: ¿Necesita ayuda después de un desastre?
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.disasterassistance.gov/es

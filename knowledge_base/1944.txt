@@ -1,0 +1,83 @@
+Title: Trasplante de corazón
+
+Also Called:
+- Trasplante cardíaco
+
+Summary:
+Durante el trasplante de corazón se extrae un corazón lesionado o enfermo y se reemplaza con uno sano. El corazón sano proviene de un donante que falleció. Es el último recurso de las personas con
+insuficiencia cardíaca
+cuando todos los otros tratamientos han fracasado. La insuficiencia cardíaca pudo haber sido causada por la enfermedad coronaria, válvulas o músculos cardíacos dañados, defectos congénitos (de nacimiento) o infecciones virales del corazón.
+Aunque la cirugía de trasplante es un procedimiento que puede salvar vidas, tiene muchos riesgos. La observación, tratamiento y cuidado médico regular pueden prevenir o manejar estos riesgos.
+Luego de la cirugía, la mayoría de pacientes trasplantados pueden volver a sus actividades normales. Sin embargo, por diversas razones, menos del 30% de ellos vuelve a trabajar.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+- Transplantes y donaciones
+
+Related Resources:
+
+Resource: Anatomía del corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Biopsia miocárdica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003873.htm
+
+Resource: Cómo funciona el corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon
+
+Resource: Dispositivo de asistencia ventricular
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007268.htm
+
+Resource: Dispositivo de asistencia ventricular (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vad.html
+
+Resource: Dispositivos de asistencia ventricular
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/dispositivos-de-asistencia-ventricular/
+
+Resource: Rehabilitación cardíaca: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cardiacrehabilitation.html
+
+Resource: Trasplante cardíaco
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/trasplante-cardiaco/
+
+Resource: Trasplante de corazón
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003003.htm
+
+Resource: Trasplante de corazón
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100086_1.htm
+
+Resource: Trasplante de corazón y pulmón
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100147_1.htm
+
+Resource: Tratamientos cardíacos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/tratamientos-cardiacos-procedimientos
+
+Resource: ¿Qué es un corazón artificial total?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon-artificial-total

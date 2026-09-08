@@ -1,0 +1,255 @@
+Title: Pregnancy and Medicines
+
+Summary:
+Is it safe to take medicine during pregnancy?
+Some medicines are safe to take during
+pregnancy
+, but many are not. If you're pregnant, check with your health care provider before taking any medicine. Some medicines can harm your
+developing fetus
+. This includes:
+Prescription drugs
+Over-the-counter medicines
+Herbs and supplements
+Should I stop taking my medicine during pregnancy?
+Always talk to your provider before you stop or start any medicine. You may take medicine to treat a health problem you had before pregnancy. Not using the medicine that you need may be more harmful to you and your fetus than using the medicine. For example, many pregnant women take prescription medicines for health problems like
+diabetes
+, asthma, seizures, and heartburn. The decision about whether to take a certain medicine should depend on the risks and benefits that go with it. You and your provider should make this choice together.
+Can I take vitamins during pregnancy?
+If you're pregnant, you shouldn't take regular
+vitamins
+. They may have too much or too little of the vitamins you need. For example, everyone needs
+folic acid
+, a type of B vitamin. But if you're trying to get pregnant, it's really important. Getting enough folic acid before and during pregnancy can prevent
+birth defects
+of the brain or spine. During your
+prenatal care
+visits, your provider will talk about prenatal vitamins. These are a special kind of vitamin to take during pregnancy.
+Food and Drug Administration
+
+Groups:
+- Pregnancy and Reproduction
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Abnormalities, Drug-Induced
+
+Related Resources:
+
+Resource: Allergy Medications and Pregnancy: What's Safe?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/allergy-medications/faq-20058122?p=1
+
+Resource: Alternatives for Pregnant Women (Malaria)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/malaria/hcp/clinical-guidance/pregnant-women.html
+
+Resource: Antidepressants: Safe during Pregnancy?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/antidepressants/art-20046420?p=1
+
+Resource: Bupropion (Wellbutrin) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/bupropion-wellbutrin-pregnancy/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Citalopram | Escitalopram (Celexa | Lexapro) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/citalopramescitalopram-celexalexapro-pregnancy/
+
+Resource: Diethylstilbestrol (DES) Exposure and Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+
+Resource: Echinacea and Pregnancy
+Category: Treatments and Therapies
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/echinacea-preparations-pregnancy/
+
+Resource: Etanercept (Enbrel) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/etanercept-enbrel-pregnancy/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Finasteride and Pregnancy
+Category: Men
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/finasteride/
+
+Resource: Fluconazole (Diflucan) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/fluconazole-pregnancy/
+
+Resource: Ibuprofen and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/ibuprofen-pregnancy/
+
+Resource: Inhaled Corticosteroids (ICSs) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/inhaled-corticosteroids-icss-pregnancy/
+
+Resource: Is it Safe to Take Antibiotics During Pregnancy?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/antibiotics-and-pregnancy/faq-20058542?p=1
+
+Resource: Isotretinoin (Accutane) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/es/hojas-informativas/la-isotretinoina-accutane/
+
+Resource: Isotretinoin and Other Retinoids during Pregnancy
+Category: Specifics
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/isotretinoin-and-other-retinoids-during-pregnancy
+
+Resource: Lithium and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/lithium-pregnancy/
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Medicine and Pregnancy
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/medicine-and-pregnancy
+
+Resource: Medicine and Pregnancy: An Overview
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/medicine-and-pregnancy/about/
+
+Resource: Metformin and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/metformin-pregnancy/
+
+Resource: Montelukast (Singulair) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/montelukast-singulair-pregnancy/
+
+Resource: Paroxetine (Paxil) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/paroxetine-paxil-pregnancy/pdf/
+
+Resource: Paternal Exposures and Pregnancy
+Category: Men
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/paternal-exposures-pregnancy/
+
+Resource: Phentermine and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/phentermine-pregnancy/
+
+Resource: Prednisone/Prednisolone and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/prednisoneprednisolone-pregnancy/
+
+Resource: Pregnancy and Medicines
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/pregnancy-and-medicines
+
+Resource: Pregnancy and Opioids: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pregnancyandopioids.html
+
+Resource: Pregnancy Constipation: Are Stool Softeners Safe?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/pregnancy-constipation/faq-20058550?p=1
+
+Resource: Pregnancy Exposure Registries
+Category: Statistics and Research
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/pregnancy-exposure-registries
+
+Resource: Prescription Opioids during Pregnancy
+Category: Related Issues
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/prescription-opioids-during-pregnancy
+
+Resource: Pseudoephedrine and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/pseudoephedrine/
+
+Resource: Pregnancy and Medicines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Abnormalities%2C+Drug-Induced%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Research on Medicines and Pregnancy
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/medicine-and-pregnancy/research/
+
+Resource: Sertraline (Zoloft) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/sertraline-zoloft-pregnancy/
+
+Resource: Sulfamethoxazole/Trimethoprim (Bactrim or Septra) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/sulfamethoxazoletrimethoprim-bactrim-septra-pregnancy/
+
+Resource: Tetracycline and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/tetracycline-pregnancy/
+
+Resource: Thalidomide and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/thalidomide-pregnancy/
+
+Resource: Topical Acne Treatments and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/topical-acne-treatments-pregnancy/
+
+Resource: Trazodone and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/trazodone/
+
+Resource: Valproic Acid and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/valproic-acid-pregnancy/
+
+Resource: Venlafaxine (Effexor) and Pregnancy
+Category: Specifics
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/venlafaxine-effexor-pregnancy/
+
+Resource: Yeast Infection during Pregnancy: Over-the-Counter Treatment OK?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vaginitis/expert-answers/yeast-infection-during-pregnancy/faq-20058355?p=1

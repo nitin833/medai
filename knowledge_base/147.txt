@@ -1,0 +1,547 @@
+Title: Arrhythmia
+
+Also Called:
+- Irregular heartbeat
+
+Summary:
+What is an arrhythmia?
+An arrhythmia is a problem with the rate or rhythm of your heartbeat. Your heart beats too quickly, too slowly, or with an irregular pattern. Changes in the electrical signals that control your heartbeat cause arrhythmias.
+When your heart beats faster than normal, it's called
+tachycardia
+.
+When your heart beats too slowly, it's called
+bradycardia
+.
+When the signal to beat comes too early, it's called a
+premature or extra heartbeat
+. It may feel like your heart skipped a beat.
+There are many types of arrhythmias. Arrhythmias may affect the upper or lower chamber of your heart. The most common type of arrhythmia is
+atrial fibrillation
+, which causes an irregular and fast heartbeat.
+Some arrhythmias are harmless, such as when your heart rate speeds up during exercise and slows down when you sleep. But if you have a frequent irregular rhythm, it may mean your heart isn't pumping enough blood into your body. Getting treatment and following a
+heart-healthy lifestyle
+can help control arrhythmias. It may also help prevent heart damage that can trigger some heart arrhythmias.
+What causes an arrhythmia?
+Many factors can affect your heart's rhythm, such as having had a
+heart attack
+,
+smoking
+,
+congenital heart defects
+, and stress. Other factors that could increase your risk for some types of arrhythmias could include if you:
+Have a family history of arrhythmias.
+Have certain health conditions, which can include
+heart and blood vessel diseases
+,
+lung diseases
+,
+kidney diseases
+,
+obesity
+, and
+sleep apnea
+.
+Are an older adult.
+Have had recent surgery for your heart, lungs, or throat.
+Take certain medicines for other health conditions.
+Use
+illegal drugs
+.
+If you have risk factors, some situations that make your heart work harder, raise your blood pressure, or cause strong emotional stress may trigger an arrhythmia.
+What are the symptoms of an arrhythmia?
+You may not have any noticeable symptoms of an arrhythmia. Your provider may find an arrhythmia during your
+routine checkup
+. Symptoms of an arrhythmia can include:
+Fast or slow heartbeat
+Skipping, fluttering, or pounding heartbeats
+Chest pain
+or discomfort
+Dizziness
+or fainting
+Shortness of breath
+Sweating
+Tiredness or weakness
+Seek emergency medical care if you have chest pain, shortness of breath, or think you are having a heart attack.
+How is an arrhythmia diagnosed?
+To find out if you have an arrhythmia, your health care provider may order an
+electrocardiogram (EKG).
+This test records your heart's electrical activity and is the most common for finding an arrhythmia. Your provider may also:
+Ask about your medical history, including your symptoms and lifestyle habits.
+Do a physical exam, which includes checking your heartbeat and pulse.
+Order blood tests and other
+heart tests
+.
+Check your legs or feet for swelling.
+Look for signs of other health conditions that could cause an arrythmia, such as
+thyroid disease
+.
+What are the treatments for an arrhythmia?
+Treatment may include medicines, an implantable cardioverter-defibrillator
+(ICD) or pacemaker
+, or sometimes surgery. Your provider may also recommend avoiding activities that may trigger your arrhythmia.
+The goal of treatment is to restore a normal heart rhythm. If not treated, arrhythmias can damage your heart, brain, and other organs and could be life-threatening.
+Can arrhythmias be prevented?
+To help prevent an arrhythmia, your provider may suggest that you make heart-healthy lifestyle changes and treat health conditions that may cause arrhythmias.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Arrhythmias, Cardiac
+
+Related Resources:
+
+Resource: AED (Automated External Defibrillator) and PAD (Public Access Defibrillation) Programs
+Category: Related Issues
+Organization: American Heart Association
+URL: https://cpr.heart.org/en/-/media/CPR-Files/Training-Programs/AED-Implementation/2023-updates/KJ1683-AED-PAD-Program-QA.pdf?sc_lang=en
+
+Resource: All about Heart Rate
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Andersen-Tawil syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/andersen-tawil-syndrome
+
+Resource: Ankyrin-B syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ankyrin-b-syndrome
+
+Resource: Antiarrhythmics
+Category: Treatments and Therapies
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/antiarrhythmics/
+
+Resource: Arrhythmia (Abnormal Heartbeat)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/arrhythmias.html
+
+Resource: Arrhythmias
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000005.htm
+
+Resource: Arrhythmias
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001101.htm
+
+Resource: Atrial fibrillation and atrial flutter
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000184.htm
+
+Resource: Atrial Flutter (AFL) in Adults
+Category: Specifics
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/condition/atrial-flutter/
+
+Resource: Automated External Defibrillators: Do You Need an AED?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/heart-arrhythmia/in-depth/automated-external-defibrillators/art-20043909?p=1
+
+Resource: Bradycardia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bradycardia/symptoms-causes/syc-20355474?p=1
+
+Resource: Brugada Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/brugada-syndrome/symptoms-causes/syc-20370489?p=1
+
+Resource: Brugada syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/brugada-syndrome
+
+Resource: Bundle Branch Block
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bundle-branch-block/symptoms-causes/syc-20370514?p=1
+
+Resource: Cardiac ablation procedures
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007368.htm
+
+Resource: Cardiac Arrest: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cardiacarrest.html
+
+Resource: Cardiac conduction system
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000021.htm
+
+Resource: Cardiac event monitors
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007700.htm
+
+Resource: Cardioversion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007110.htm
+
+Resource: Catecholaminergic polymorphic ventricular tachycardia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/catecholaminergic-polymorphic-ventricular-tachycardia
+
+Resource: Categories of Arrhythmias
+Category: Start Here
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/categories-of-arrhythmias/
+
+Resource: ClinicalTrials.gov: Arrhythmias, Cardiac
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Arrhythmias,+Cardiac%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Bradycardia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bradycardia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tachycardia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tachycardia%22&aggFilters=status:not%20rec
+
+Resource: Common Tests for Arrhythmia
+Category: Diagnosis and Tests
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/symptoms-diagnosis--monitoring-of-arrhythmia/common-tests-for-arrhythmia
+
+Resource: Conduction Disorders
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/conduction-disorders
+
+Resource: Digitalis toxicity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000165.htm
+
+Resource: Early Warning Signs
+Category: Prevention and Risk Factors
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/resource/early-warning-signs/
+
+Resource: Ectopic heartbeat
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001100.htm
+
+Resource: Electrocardiogram
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003868.htm
+
+Resource: Electrophysiology Studies
+Category: Diagnosis and Tests
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/symptoms-diagnosis--monitoring-of-arrhythmia/electrophysiology-studies
+
+Resource: Exercise stress test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003878.htm
+
+Resource: Find a Specialist
+Category: Find an Expert
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/connect-support/find-a-specialist/
+
+Resource: Heart Anatomy
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/
+
+Resource: Heart block
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007658.htm
+
+Resource: Heart Conditions
+Category: Specifics
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/conditions/heart-conditions/
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Heart palpitations
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003081.htm
+
+Resource: Heart Palpitations (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/heart-palpitations.html
+
+Resource: Heart Palpitations Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003081_33.htm
+
+Resource: Heart Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-tests
+
+Resource: Heart Treatments
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-treatments-procedures
+
+Resource: Heartbeat
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000067.htm
+
+Resource: Holter monitor (24h)
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003877.htm
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: Intracardiac electrophysiology study (EPS)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003867.htm
+
+Resource: Jervell and Lange-Nielsen syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/jervell-and-lange-nielsen-syndrome
+
+Resource: Long QT Syndrome
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/long-qt-syndrome
+
+Resource: Medications for Arrhythmia
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/medications-for-arrhythmia
+
+Resource: Multifocal atrial tachycardia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000186.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Other Heart Rhythm Disorders
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/other-heart-rhythm-disorders
+
+Resource: Pacemakers and Implantable Defibrillators: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pacemakersandimplantabledefibrillators.html
+
+Resource: Paroxysmal supraventricular tachycardia (PSVT)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000183.htm
+
+Resource: Postural Tachycardia Syndrome (POTS)
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/postural-tachycardia-syndrome-pots
+
+Resource: Premature Contractions -- PACs and PVCs
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/premature-contractions-pacs-and-pvcs
+
+Resource: Prevention and Treatment of Arrhythmia
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia
+
+Resource: Progressive familial heart block: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/progressive-familial-heart-block
+
+Resource: Arrhythmia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Arrhythmias%2C+Cardiac%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003399.htm
+
+Resource: Recognizing POTS: Learn to Spot This Mysterious Condition
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/09/recognizing-pots
+
+Resource: Romano-Ward syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/romano-ward-syndrome
+
+Resource: Short QT syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-qt-syndrome
+
+Resource: Sick sinus syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000161.htm
+
+Resource: Sick Sinus Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sick-sinus-syndrome/symptoms-causes/syc-20377554?p=1
+
+Resource: Sick sinus syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sick-sinus-syndrome
+
+Resource: Skipped Beats
+Category: Diagnosis and Tests
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/resource/skipped-beats/
+
+Resource: Slow Heartbeat
+Category: Diagnosis and Tests
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/resource/slow-heartbeat/
+
+Resource: Substances
+Category: Related Issues
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/heart-health-resources/lifestyle/substances/
+
+Resource: Sudden Death in Young People: Heart Problems Often Blamed
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sudden-cardiac-arrest/in-depth/sudden-death/art-20047571?p=1
+
+Resource: Syncope (Fainting)
+Category: Diagnosis and Tests
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/syncope-fainting
+
+Resource: Tachycardia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tachycardia/symptoms-causes/syc-20355127?p=1
+
+Resource: Tachycardia: Fast Heart Rate
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia/tachycardia--fast-heart-rate
+
+Resource: Tilt Table Test
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/tilt-table-test/about/pac-20395124?p=1
+
+Resource: Timothy syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/timothy-syndrome
+
+Resource: Treating Arrhythmias in Children
+Category: Children
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/treating-arrhythmias-in-children
+
+Resource: Understand Your Risk for Arrhythmia
+Category: Prevention and Risk Factors
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/understand-your-risk-for-arrhythmia
+
+Resource: UpBeat.org
+Category: Find an Expert
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/
+
+Resource: Ventricular fibrillation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007200.htm
+
+Resource: Ventricular Fibrillation
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523?p=1
+
+Resource: Ventricular tachycardia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000187.htm
+
+Resource: What Are Defibrillators?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/defibrillators
+
+Resource: What Is an Arrhythmia?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/arrhythmias
+
+Resource: What Is an Arrhythmia?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/about-arrhythmia
+
+Resource: What Is Cardiac Arrest?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/cardiac-arrest
+
+Resource: Wolff-Parkinson-White Syndrome
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/wolff-parkinson-white-syndrome
+
+Resource: Wolff-Parkinson-White syndrome (WPW)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000151.htm
+
+Resource: Wolff-Parkinson-White syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wolff-parkinson-white-syndrome

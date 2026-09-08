@@ -1,0 +1,390 @@
+Title: Adrenal Gland Disorders
+
+Summary:
+What are adrenal glands?
+Your adrenal glands are two small organs that sit on top of each kidney. The adrenal glands make different types of
+hormones
+you need to stay alive and healthy. Hormones are chemicals that travel in your bloodstream and control how different parts of your body work.
+The adrenal glands make the hormones cortisol, aldosterone, adrenaline, and noradrenaline. They also make hormones that your body uses to make sex hormones (estrogen and testosterone). All of these hormones do many important jobs, including:
+Turning food into energy and managing
+blood sugar
+levels
+Balancing salt and water
+Keeping blood pressure normal
+Responding to illness and stress (your "fight or flight" response)
+Timing when and how fast a child develops sexually
+Supporting pregnancy
+What are adrenal gland disorders?
+When you have an adrenal gland disorder, your body makes too much or too little of one or more hormones. The symptoms depend on the type of problem you have and how much it affects the hormone levels in your body.
+There are many types of adrenal gland disorders, including:
+Addison's Disease
+- a condition in which the adrenal glands don't make enough cortisol
+Cushing's Syndrome
+- a condition caused by too much cortisol in the body, often from taking
+steroid medicines
+for a long time
+Aldosterone-producing adenoma
+- a
+benign tumor
+(not cancer) that makes too much aldosterone and may cause serious
+high blood pressure
+Hereditary paraganglioma-pheochromocytoma
+- an inherited condition causing different types of tumors that make adrenaline and other hormones. Some tumors may become cancerous.
+Adrenal gland cancer
+- cancerous tumors, including adrenocortical carcinoma and
+neuroblastoma
+Congenital Adrenal Hyperplasia (CAH)
+- a group of inherited disorders in which the adrenal glands don't make enough cortisol. The most common type is
+21-hydroxylase deficiency (also called CAH1)
+. In the United States, newborn babies get a
+blood test
+to see if they have CAH. People born with CAH may not have symptoms until childhood or later in life.
+What causes adrenal gland disorders?
+The cause of adrenal gland disorders depends on the type of disorder you have. Causes can include:
+Medicines such as steroids
+A problem in another gland, such as the
+pituitary gland
+. The pituitary gland releases hormones that affect how the adrenal glands work.
+Changes in genes (mutations). These changes can cause the adrenal glands to make too much or too little of one or more hormones.
+Infections
+In many cases the cause of the problem isn't clear.
+How are adrenal gland disorders diagnosed?
+Health care providers use different tests to check for adrenal disorders depending on your symptoms and health history.  For example, you may have tests of your blood, urine (pee), or saliva (spit).  These tests check your hormone levels. Your provider may order
+x-rays
+,
+CT scans
+, or
+MRI scans
+to look for tumors.
+What are the treatments for adrenal gland disorders?
+Different types of adrenal gland disorders have different treatments. They include medicines and surgery.
+Radiation therapy
+is sometimes a treatment for tumors. There are treatments to cure certain adrenal gland disorders. For other disorders, treatments can manage your symptoms.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Endocrine System
+
+MeSH Headings:
+- Adrenal Gland Diseases
+
+Related Resources:
+
+Resource: 17 alpha-hydroxylase/17,20-lyase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/17-alpha-hydroxylase-17-20-lyase-deficiency
+
+Resource: 17-Hydroxyprogesterone
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/17-hydroxyprogesterone/
+
+Resource: 17-OH progesterone
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003713.htm
+
+Resource: 21-hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/21-hydroxylase-deficiency
+
+Resource: 24-hour urinary aldosterone excretion rate
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003621.htm
+
+Resource: 3-beta-hydroxysteroid dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-beta-hydroxysteroid-dehydrogenase-deficiency
+
+Resource: About Adrenal Gland Disorders
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo
+
+Resource: ACTH blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003695.htm
+
+Resource: ACTH stimulation test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003696.htm
+
+Resource: Acute adrenal crisis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000357.htm
+
+Resource: Adrenal Fatigue
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/adrenal-fatigue
+
+Resource: Adrenal Fatigue: What Causes It?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/addisons-disease/expert-answers/adrenal-fatigue/faq-20057906?p=1
+
+Resource: Adrenal Gland Cancer: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/adrenalglandcancer.html
+
+Resource: Adrenal gland removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007437.htm
+
+Resource: Adrenal Gland Removal (Adrenalectomy)
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/adrenal-gland-removal-adrenalectomy-patient-information-from-sages/
+
+Resource: Adrenal glands
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002219.htm
+
+Resource: Adrenal Incidentaloma
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/adrenal-incidentaloma
+
+Resource: Adrenal Insufficiency
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/adrenal-insufficiency
+
+Resource: Adrenal Insufficiency (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/adrenal-insufficiency.html
+
+Resource: Adrenal Insufficiency and Addison's Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/adrenal-insufficiency-addisons-disease
+
+Resource: Adrenal Virilization
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/hormonal-and-metabolic-disorders/adrenal-gland-disorders/adrenal-virilization
+
+Resource: Aldosterone blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003704.htm
+
+Resource: Aldosterone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/aldosterone-test/
+
+Resource: Aldosterone-producing adenoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aldosterone-producing-adenoma/
+
+Resource: Blood Test: 17-Hydroxyprogesterone (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-hydroxyprogesterone.html
+
+Resource: Chloride - urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003601.htm
+
+Resource: ClinicalTrials.gov: Adrenal Gland Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adrenal+Gland+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Adrenal Hyperplasia, Congenital
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adrenal+Hyperplasia,+Congenital%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Adrenal Insufficiency
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adrenal+Insufficiency%22&aggFilters=status:not%20rec
+
+Resource: Congenital adrenal hyperplasia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000411.htm
+
+Resource: Congenital Adrenal Hyperplasia (CAH)
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cah
+
+Resource: Congenital Adrenal Hyperplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/congenital-adrenal-hyperplasia.html
+
+Resource: Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-adrenal-hyperplasia-due-to-11-beta-hydroxylase-deficiency
+
+Resource: Corticosterone methyloxidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/corticosterone-methyloxidase-deficiency
+
+Resource: Cortisol blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003693.htm
+
+Resource: Cortisol Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cortisol-test/
+
+Resource: Cortisol urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003703.htm
+
+Resource: DHEA Sulfate Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dhea-sulfate-test/
+
+Resource: DHEA-sulfate test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003717.htm
+
+Resource: Endocrine Related Hypertension
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/endocrine-related-hypertension
+
+Resource: Endocrine Society
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/
+
+Resource: Endocrine System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Endocrine System (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/endocrine.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Familial hyperaldosteronism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hyperaldosteronism
+
+Resource: Health Alert: Adrenal Crisis Causes Death in Some People Who Were Treated with hGH
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/national-hormone-pituitary-program/health-alert-adrenal-crisis-causes-death-people-treated-hgh
+
+Resource: How Do Health Care Providers Diagnose Adrenal Gland Disorders?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo/diagnosed
+
+Resource: How Do I Find an Experienced Adrenal Surgeon?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/more_information/other-faqs
+
+Resource: Intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/image-syndrome
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Ovarian overproduction of androgens
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001165.htm
+
+Resource: Potassium urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003600.htm
+
+Resource: Primary and secondary hyperaldosteronism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000330.htm
+
+Resource: Primary macronodular adrenal hyperplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-macronodular-adrenal-hyperplasia
+
+Resource: Adrenal Gland Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Adrenal+Gland+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/renin-test
+
+Resource: Waterhouse-Friderichsen syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000609.htm
+
+Resource: What Are Some Types of Adrenal Gland Disorders?
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo/types
+
+Resource: What Are the Symptoms of Adrenal Gland Disorders?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo/symptoms
+
+Resource: What Are the Treatments for Adrenal Gland Disorders?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/adrenalgland/conditioninfo/treatment
+
+Resource: What Are the Treatments for Congenital Adrenal Hyperplasia (CAH)?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/cah/conditioninfo/treatments
+
+Resource: X-linked adrenal hypoplasia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-adrenal-hypoplasia-congenita
+
+Resource: X-linked adrenoleukodystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-adrenoleukodystrophy
+
+Resource: X-Ray Exam: Bone Age Study (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-bone-age.html

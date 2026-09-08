@@ -1,0 +1,125 @@
+Title: Sore Throat
+
+Also Called:
+- Pharyngitis
+
+Summary:
+Your throat is a tube that carries food to your esophagus and air to your windpipe and larynx (also called the voice box). The technical name for the throat is pharynx.
+You can have a sore throat for many reasons.  Often,
+colds
+and
+flu
+cause sore throats.  Other causes can include:
+Allergies
+Mononucleosis
+Smoking
+Strep throat
+Tonsillitis
+Treatment depends on the cause.  Sucking on lozenges, drinking lots of liquids, and gargling may ease the pain.  Over-the-counter pain relievers can also help, but children should not take aspirin.
+
+Groups:
+- Ear, Nose and Throat
+
+MeSH Headings:
+- Pharyngitis
+
+Related Resources:
+
+Resource: American Academy of Otolaryngology--Head and Neck Surgery
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.entnet.org/
+
+Resource: ClinicalTrials.gov: Pharyngitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pharyngitis%22&aggFilters=status:not%20rec
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Pharyngitis - sore throat
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000655.htm
+
+Resource: Pharyngitis - viral
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001392.htm
+
+Resource: Sore Throat
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pharyngitis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sore throat (Pharyngitis)
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/sore-throat-pharyngitis/
+
+Resource: Sore Throat Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sore-throat/about/
+
+Resource: Sore Throat: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sore-throat/diagnosis-treatment/drc-20351640?p=1
+
+Resource: Sore Throat: Symptoms and Causes
+Category: Symptoms
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sore-throat/symptoms-causes/syc-20351635?p=1
+
+Resource: Sore Throat: When to See a Doctor
+Category: Start Here
+Organization: American Osteopathic Association
+URL: https://osteopathic.org/what-is-osteopathic-medicine/sore-throat/
+
+Resource: Sore Throats
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/sore-throats/
+
+Resource: Sore, Scratchy Throat? Soothing Pain from Illness or Allergy
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/11/sore-scratchy-throat
+
+Resource: Strep A Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/strep-a-test/
+
+Resource: Strep Throat, Sore Throat or Tonsillitis: What's the Difference?
+Category: Diagnosis and Tests
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/Pages/The-Difference-Between-a-Sore-Throat-Strep-and-Tonsillitis.aspx
+
+Resource: Throat Problems (Symptom Checker)
+Category: Symptoms
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/throat-problems/
+
+Resource: Throat swab culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003746.htm
+
+Resource: What to Do About a Sore Throat (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sore-throat-sheet.html
+
+Resource: When Is a Sore Throat a More Serious Infection?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/ear-nose-throat/pages/When-a-Sore-Thoat-is-a-More-Serious-Infection.aspx

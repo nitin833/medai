@@ -1,0 +1,290 @@
+Title: Chronic Kidney Disease
+
+Also Called:
+- CKD
+
+Summary:
+You have two kidneys, each about the size of your fist.  Their main job is to filter your blood. They remove wastes and extra water, which become urine. They also keep the body's chemicals balanced, help control blood pressure, and make hormones.
+Chronic kidney disease (CKD) means that your kidneys are damaged and can't filter blood as they should. This damage can cause wastes to build up in your body. It can also cause other problems that can harm your health. Diabetes and high blood pressure are the most common causes of CKD.
+The kidney damage occurs slowly over many years. Many people don't have any symptoms until their kidney disease is very advanced.
+Blood and urine tests
+are the only way to know if you have kidney disease.
+Treatments cannot cure kidney disease, but they may slow kidney disease. They include
+medicines to lower blood pressure
+, control
+blood sugar
+, and lower
+cholesterol
+. CKD may still get worse over time. Sometimes it can lead to
+kidney failure
+. If your kidneys fail, you will need
+dialysis
+or a
+kidney transplantation
+.
+You can take steps to keep your kidneys healthier longer:
+Choose foods with less
+salt
+(sodium)
+Control your blood pressure
+; your health care provider can tell you what your blood pressure should be
+Keep your blood sugar in the target range, if you have
+diabetes
+Limit the amount of alcohol you drink
+Choose foods that are healthy for your heart: fruits, vegetables, whole grains, and low-fat dairy foods
+Lose weight if you are overweight
+Be physically active
+Don't smoke
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Renal Insufficiency, Chronic
+
+Related Resources:
+
+Resource: ACE inhibitors
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000087.htm
+
+Resource: Anemia in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/anemia
+
+Resource: Causes of Chronic Kidney Disease in Adults
+Category: Prevention and Risk Factors
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/causes
+
+Resource: Chronic kidney disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000471.htm
+
+Resource: Chronic Kidney Disease (CKD)
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/chronic-kidney-disease-ckd/
+
+Resource: Chronic Kidney Disease (CKD)
+Category: Start Here
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/chronic-kidney-disease-ckd
+
+Resource: Chronic Kidney Disease (CKD) and Pregnancy
+Category: Women
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/living-kidney-disease/chronic-kidney-disease-ckd-and-pregnancy
+
+Resource: Chronic Kidney Disease (CKD) Symptoms, Treatment and Prevention
+Category: Start Here
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/all-about-kidneys/chronic-kidney-disease-ckd-symptoms-treatment-and-prevention
+
+Resource: Chronic Kidney Disease, Diabetes, and Heart Disease
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/kidney-disease/risk-factors/link-between-diabetes-and-heart-disease.html
+
+Resource: Chronic Kidney Disease: Caring for Your Child
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/chronic-kidney-care.html
+
+Resource: ClinicalTrials.gov: Renal Insufficiency, Chronic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Renal+Insufficiency,+Chronic%22&aggFilters=status:not%20rec
+
+Resource: Creatinine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/creatinine-test/
+
+Resource: Diet - chronic kidney disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002442.htm
+
+Resource: Dining Out with Confidence - On Dialysis
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/dining-out-confidence-dialysis
+
+Resource: Emergency and Natural Disaster Preparedness Tips for Kidney Patients
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/news-stories/emergency-and-natural-disaster-preparedness-tips-kidney-patients
+
+Resource: Exercise and Chronic Kidney Disease
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/exercise-and-chronic-kidney-disease
+
+Resource: FastStats: Kidney Disease
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/kidney-disease.htm
+
+Resource: Fibronectin glomerulopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fibronectin-glomerulopathy/
+
+Resource: Growth Failure in Children with Chronic Kidney Disease
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/helping-child-adapt-life-chronic-kidney-disease/growth-failure-chronic-kidney-disease
+
+Resource: Healthy Eating for Adults with Chronic Kidney Disease
+Category: Living With
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/healthy-eating-adults-chronic-kidney-disease
+
+Resource: Herbal Supplements and Kidney Disease
+Category: Treatments and Therapies
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease
+
+Resource: High-Protein Diets: Are They Safe?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/high-protein-diets/faq-20058207?p=1
+
+Resource: If You Have Kidney Disease, You Need to Get a Flu Shot This Fall
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/news-stories/if-you-have-kidney-disease-you-need-to-get-flu-shot-fall
+
+Resource: Kidney Disease Statistics for the United States
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease
+
+Resource: Kidney Health Innovations
+Category: Statistics and Research
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/kidney-health-innovations
+
+Resource: Kidney Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kidneytests.html
+
+Resource: Managing Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/managing
+
+Resource: Mineral and Bone Disorder in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/mineral-bone-disorder
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Kidney Disease Education Program
+Category: Find an Expert
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/community-health-outreach/information-clearinghouses/nkdep
+
+Resource: National Kidney Foundation
+Category: Find an Expert
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/
+
+Resource: NKF Patient Journey: Chronic Kidney Disease
+Category: Health Check Tools
+Organization: National Kidney Foundation
+URL: https://kidney.instilled.com/player/medium/2801865450776958574?embed=true&layout=fullscreen&overlay=false&version=health
+
+Resource: Nutrition for Children with Chronic Kidney Disease
+Category: Children, Living With
+Organization: National Kidney and Urologic Diseases Information Clearinghouse
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/helping-child-adapt-life-chronic-kidney-disease/nutrition-chronic-kidney-disease
+
+Resource: Phosphorus and Your CKD Diet
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/phosphorus-and-your-ckd-diet
+
+Resource: Potassium in Your CKD Diet
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/potassium-your-ckd-diet
+
+Resource: Preventing Chronic Kidney Disease
+Category: Prevention and Risk Factors
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/prevention
+
+Resource: Chronic Kidney Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Renal+Insufficiency%2C+Chronic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renal Diet for Vegetarians: What about Protein?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/expert-answers/renal-diet/faq-20058205?p=1
+
+Resource: Renal perfusion scintiscan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003831.htm
+
+Resource: Renovascular hypertension
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000204.htm
+
+Resource: Safe Medicine Use with Chronic Kidney Disease
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/safe-medicine-use-chronic-kidney-disease
+
+Resource: Sexual Health and Kidney Disease
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/sexual-health-and-kidney-disease
+
+Resource: Slowing Kidney Disease
+Category: Living With
+Organization: Life Options Rehabilitation Program
+URL: https://lifeoptions.org/learn-about-kidney-disease/slowing-kidney-disease/
+
+Resource: Understanding Health Insurance
+Category: Related Issues
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/living-kidney-disease/understanding-health-insurance
+
+Resource: Vaccines and Kidney Disease
+Category: Related Issues
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/resource/vaccines-and-kidney-disease
+
+Resource: Vitamins in Chronic Kidney Disease
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/vitamins-chronic-kidney-disease
+
+Resource: What Is Chronic Kidney Disease in Adults?
+Category: Start Here
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease
+
+Resource: Working with Kidney Disease: Rehabilitation and Employment
+Category: Living With
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/working-kidney-disease-rehabilitation-and-employment
+
+Resource: Your Kidneys and How They Work
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work

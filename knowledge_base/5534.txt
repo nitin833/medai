@@ -1,0 +1,138 @@
+Title: Tumors and Pregnancy
+
+Summary:
+Tumors during
+pregnancy
+are rare, but they can happen. Tumors can be either benign (not cancer) or malignant (cancer). The most common cancers in pregnancy include
+breast cancer
+,
+thyroid cancer
+,
+cervical cancer
+,
+lymphoma
+, and
+melanoma
+.  Cancer itself rarely harms the fetus, and some cancer treatments are safe during pregnancy.  You and your health care provider will work together to find the best treatment.  Your choices will depend on how far along the pregnancy is, as well as the type, size, and stage of your cancer.
+Another type of tumor that women can get is called a gestational trophoblastic disease (GTD). It happens when a fertilized egg doesn't become a fetus.  GTD is not always easy to find. It is usually benign, but some types can be malignant. The most common type of GTD is a molar pregnancy. In its early stages, it may look like a normal pregnancy. You should see your provider if you have vaginal bleeding (not menstrual bleeding).
+Treatment depends on the type of tumor, whether it has spread to other places, and your overall health.
+
+Groups:
+- Cancers
+- Pregnancy and Reproduction
+
+MeSH Headings:
+- Pregnancy Complications, Neoplastic
+- Pregnancy Complications
+- Neoplasms
+- Pregnancy
+
+Related Resources:
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Cancer during Pregnancy
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/making-treatment-decisions/cancer-during-pregnancy.html
+
+Resource: Cervical Cancer Treatment during Pregnancy
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/treatment/cancer-treatment-during-pregnancy
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Choriocarcinoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001496.htm
+
+Resource: ClinicalTrials.gov: Cancer and Pregnancy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=cancer+AND+pregnancy&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Gestational Trophoblastic Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Gestational+Trophoblastic+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hydatidiform Mole
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hydatidiform+Mole%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pregnancy Complications, Neoplastic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pregnancy+Complications,+Neoplastic%22&aggFilters=status:not%20rec
+
+Resource: Diagnosed When Pregnant: A Young Mom's Breast Cancer Story
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/diagnosed-when-pregnant-a-young-moms-breast-cancer-story
+
+Resource: Diethylstilbestrol (DES) Exposure and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+
+Resource: Drugs Approved for Gestational Trophoblastic Disease
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/gestationaldisease
+
+Resource: Gestational trophoblastic disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007333.htm
+
+Resource: Gestational Trophoblastic Disease Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/gestational-trophoblastic/patient/gtd-treatment-pdq
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Hydatidiform mole
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000909.htm
+
+Resource: Molar Pregnancy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/molar-pregnancy/symptoms-causes/syc-20375175?p=1
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Pheochromocytoma during Pregnancy
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pheochromocytoma/patient/pheochromocytoma-treatment-pdq#_275
+
+Resource: Tumors and Pregnancy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pregnancy+Complications%2C+Neoplastic%22%5Bmajr%3Anoexp%5D+OR+%28+%22Neoplasms%22%5Bmajr%3Anoexp%5D+AND+%22Pregnancy+Complications%22%5Bmajr%3Anoexp%5D+%29+OR+%28+%22Neoplasms%22%5Bmajr%3Anoexp%5D+AND+%22Pregnancy%22%5Bmajr%3Anoexp%5D+%29+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treating Breast Cancer during Pregnancy
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/treatment/treating-breast-cancer-during-pregnancy.html
+
+Resource: Treatment of Hodgkin Lymphoma during Pregnancy
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/adult-hodgkin-treatment-pdq#_218

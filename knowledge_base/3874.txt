@@ -1,0 +1,51 @@
+Title: Servicios de emergencias médicas
+
+Summary:
+Si está muy enfermo o gravemente herido y necesita ayuda inmediata, debe utilizar los servicios médicos de urgencia. Estos servicios emplean a personas especialmente capacitadas y centros especialmente equipados.
+Tal vez se requiera atenderlo en la sala de urgencias del hospital. Los médicos y las enfermeras que se encuentran ahí tratan las urgencias médicas, como los infartos y lesiones. En algunas urgencias, la ayuda es necesaria en el lugar donde se encuentra el paciente. Los técnicos médicos de urgencias, o EMT, por sus siglas en inglés, realizan trabajos de rescate específicos. Responden a llamadas de emergencia, conducen ambulancias y brindan atención médica básica. Algunos EMT son paramédicos - están capacitados para realizar procedimientos médicos en el lugar de los hechos. Por lo general, llevan a los pacientes hasta la sala de urgencias para que reciban más atención.
+Si usted o alguien que conoce necesitan atención de urgencia, diríjase a la sala de urgencias de su hospital. Si cree que el problema pone en peligro la vida de la persona, llame al 911.
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Cuándo utilizar el servicio de urgencias para los adultos
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000593.htm
+
+Resource: Cuándo utilizar el servicio de urgencias para un niño
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000594.htm
+
+Resource: Enseñar a su hijo a utilizar el teléfono de emergencias (911)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/911.html
+
+Resource: Ir al servicio de urgencias (emergencias)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emergency-room.html
+
+Resource: Ley Sin Sorpresas le protege contra facturas médicas inesperadas
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cms.gov/derechos-facturas-medicas
+
+Resource: Lo que necesita saber en una urgencia médica
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/healthin.html
+
+Resource: Qué hacer ante una emergencia (para niños)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/emergency.html
+
+Resource: Reconocimiento de emergencias médicas
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001927.htm

@@ -1,0 +1,251 @@
+Title: Tumores cerebrales
+
+Also Called:
+- Cáncer cerebral
+- Cáncer de cerebro
+- Tumor cerebral
+
+Summary:
+Un tumor cerebral es un crecimiento de células anormales en el tejido del cerebro. Los tumores pueden ser benignos (no cancerosos) o malignos (con células cancerígenas que crecen muy rápido). Algunos son primarios, o sea, que comienzan en el cerebro. Otros son metastásicos, o sea, que comenzaron en alguna otra parte del cuerpo y llegan al cerebro.
+Los tumores en el cerebro pueden mostrar varios síntomas. Estos son algunos de los más comunes:
+Dolores de cabeza, generalmente por la mañana
+Náusea y vómitos
+Cambios en la capacidad para hablar, escuchar o ver
+Problemas de equilibrio o al caminar
+Problemas con el pensamiento o la memoria
+Debilidad o sentir muchas ganas de dormir
+Cambios en el estado de ánimo o conducta
+Convulsiones
+Los doctores diagnostican estos tumores por medio de un examen neurológico y otras pruebas como imágenes por resonancia magnética, tomografía computarizada o una biopsia. El tratamiento incluye la espera cautelosa (vigilancia sin administrar ningún tratamiento hasta que los síntomas se presenten o cambien), cirugía, radiación, quimioterapia y terapia dirigida. La terapia dirigida usa medicamentos u otras sustancias para combatir células cancerosas específicas y que causan menos daños a las células normales. La mayoría de las personas, recibe una combinación de estos.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Alta tras radiación al cerebro
+Category: Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000055.htm
+
+Resource: Alta tras radiocirugía estereotáctica
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Aspectos generales de las opciones de tratamiento (tumores cerebrales en adultos)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-cerebro-adultos-pdq#_55
+
+Resource: Campos electromagnéticos y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-campos-electromagneticos
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Componentes del cerebro
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000016.htm
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Detectar tumores cerebrales: ¿Conoce los síntomas?
+Category: Síntomas, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/detectar-tumores-cerebrales
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios de los tumores del sistema nervioso central en adultos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-cerebro-adultos-pdq#_29
+
+Resource: Factores de riesgo para tumores de encéfalo y tumores de médula espinal
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/tumores-de-encefalo-o-de-medula-espinal/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Hernia cerebral
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001421.htm
+
+Resource: Información general sobre el linfoma primario del sistema nervioso central
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/linfoma/paciente/tratamiento-linfoma-primario-snc-pdq
+
+Resource: Información general sobre los tumores del sistema nervioso central en adultos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-cerebro-adultos-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Linfoma cerebral primario
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000734.htm
+
+Resource: Meningioma
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/meningioma/symptoms-causes/syc-20355643?p=1
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radiocirugía estereotáctica con bisturí de rayos gamma (Gamma Knife)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007577.htm
+
+Resource: Radiografía de cráneo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003802.htm
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: Teléfonos celulares y el cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007151.htm
+
+Resource: Teléfonos celulares y el riesgo de cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/radiacion/hoja-informativa-telefonos-celulares
+
+Resource: Tomografía computada: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ct-head.html
+
+Resource: Tomografía por emisión de positrones (TEP) del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007341.htm
+
+Resource: Tratamiento de los tumores cerebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/thera-brain
+
+Resource: Tratamiento de los tumores de encéfalo y de médula espinal en adultos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/tumores-de-encefalo-o-de-medula-espinal/tratamiento.html
+
+Resource: Tratamiento de los tumores primarios de encéfalo en adultos según el tipo de tumor
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cerebro/paciente/tratamiento-cerebro-adultos-pdq#_103
+
+Resource: Tumor cerebral metastásico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000769.htm
+
+Resource: Tumor cerebral primario en adultos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007222.htm
+
+Resource: Tumor de la fosa posterior
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001404.htm
+
+Resource: Tumor hipotalámico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001211.htm
+
+Resource: Tumores cerebrales en niños: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/childhoodbraintumors.html
+
+Resource: Tumores del cerebro y la médula espinal
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/tumores-del-cerebro-y-la-medula-espinal
+
+Resource: ¿Se pueden encontrar en sus comienzos los tumores de encéfalo y los tumores de médula espinal en adultos?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/tumores-de-encefalo-o-de-medula-espinal/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html

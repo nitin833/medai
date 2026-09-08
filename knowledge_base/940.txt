@@ -1,0 +1,131 @@
+Title: Osteogenesis Imperfecta
+
+Also Called:
+- Brittle bone disease
+- OI
+
+Summary:
+Osteogenesis imperfecta (OI) is a genetic disorder in which bones
+fracture
+(break) easily. Sometimes the fractures happen for no known reason. OI can also cause weak muscles, brittle teeth, a curved spine, and hearing loss. OI is caused by one of several genes that aren't working properly.  When these genes don't work, it affects how you make collagen, a protein that helps make bones strong.
+OI can range from mild to severe, and symptoms vary from person to person. A person may have just a few or as many as several hundred fractures in a lifetime.
+There is no specific test for OI. Your doctor uses your medical and family history, physical exam, and imaging and lab tests to diagnose it. Your doctor may also test your collagen (from skin) or genes (from blood). There is no cure, but you can manage symptoms. Treatments include exercise, pain medicine, physical therapy, wheelchairs, braces, and surgery.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Osteogenesis Imperfecta
+
+Related Resources:
+
+Resource: Broken Bones (Fractures) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/b-bone.html
+
+Resource: ClinicalTrials.gov: Osteogenesis Imperfecta
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Osteogenesis+Imperfecta%22&aggFilters=status:not%20rec
+
+Resource: Fast Facts on Osteogenesis Imperfecta
+Category: Start Here
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Fast_Facts_About_OI.pdf
+
+Resource: How Do Health Care Providers Diagnose Osteogenesis Imperfecta (OI)?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/osteogenesisimp/conditioninfo/diagnose
+
+Resource: Hypophosphatasia
+Category: Related Issues
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/10/hypophosphatasia-2.pdf
+
+Resource: Learning about Osteogenesis Imperfecta
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Osteogenesis-Imperfecta
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nutrition and OI
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Nutrition.pdf
+
+Resource: OI Issues: Dental Care for Persons with OI
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Dental_Care.pdf
+
+Resource: OI Types and Genetics
+Category: Specifics
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/oi-types-and-genetics/
+
+Resource: Osteogenesis Imperfecta
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/osteogenesis-imperfecta
+
+Resource: Osteogenesis imperfecta
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001573.htm
+
+Resource: Osteogenesis imperfecta: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/osteogenesis-imperfecta
+
+Resource: Preventing Vertebral Compression Fractures
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Spine__Vertebral_Fracture_Prevention.pdf
+
+Resource: Osteogenesis Imperfecta
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Osteogenesis+Imperfecta%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Respiratory Issues in OI
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Respiratory_Issues.pdf
+
+Resource: Rodding Surgery
+Category: Treatments and Therapies
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Surgery__Rodding_Surgery.pdf
+
+Resource: Social and Emotional Issues of Living with OI
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Social_and_Emotional_Issues_of_Living_with_OI.pdf
+
+Resource: Surgery Considerations for Adults and Children
+Category: Treatments and Therapies
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Surgery__Surgery_Considerations_for_Adults_and_Children.pdf
+
+Resource: Treating Vertebral Compression Fractures
+Category: Living With
+Organization: Osteogenesis Imperfecta Foundation
+URL: https://oif.org/wp-content/uploads/2019/08/Spine__Vertebral_Fracture_Information.pdf
+
+Resource: What Are the Symptoms of Osteogenesis Imperfecta (OI)?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/osteogenesisimp/conditioninfo/symptoms
+
+Resource: What Are the Treatments for Osteogenesis Imperfecta (OI)?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/osteogenesisimp/conditioninfo/treatments

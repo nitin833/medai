@@ -1,0 +1,278 @@
+Title: Blood Glucose
+
+Also Called:
+- Blood sugar
+
+Summary:
+What is blood glucose?
+Blood glucose, or blood sugar, is the main sugar found in your blood. It is your body's primary source of energy. It comes from the food you eat. Your body breaks down most of that food into glucose and releases it into your bloodstream. When your blood glucose goes up, it signals your pancreas to release insulin. Insulin is a hormone that helps the glucose get into your cells to be used for energy.
+What is diabetes?
+Diabetes
+is a disease in which your blood glucose levels are too high. When you have diabetes, your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells. Over time, having too much glucose in your blood can cause serious
+health problems
+(diabetes complications). So if you have diabetes, it's important to keep your blood glucose levels within your target range.
+What are blood glucose targets?
+If you have diabetes, your blood glucose target is the range you try to reach as much as possible. The typical targets are:
+Before a meal: 80 to 130 mg/dL
+Two hours after the start of a meal: Less than 180 mg/dL
+Your blood glucose targets may be different, depending on your age, any additional health problems you have, and other factors. Talk with your health care team  about the best target range for you.
+When and how should I check my blood glucose?
+If you have diabetes, you'll likely need to check your blood glucose every day to make sure that your blood glucose numbers are in your target range. Some people may need to check their blood glucose several times a day. Ask your health care team how often you need to check it.
+The most common way to check your blood glucose level at home is with a blood glucose meter. A blood glucose meter measures the amount of glucose in a small sample of blood, usually from your fingertip.
+Continuous glucose monitoring (CGM) is another way to check your glucose levels. Most CGM systems use a tiny sensor that is inserted under your skin. The sensor measures your glucose level every few minutes. It can show changes in your glucose level throughout the day and night. A CGM system is especially useful for people who take insulin and have problems with low blood glucose.
+Your provider will also check your blood glucose with a blood test called an
+A1C
+.  It checks your average blood glucose level over the past three months. People with diabetes usually have an A1C test at least twice a year. But you may need the test more often if you aren't meeting your diabetes treatment goals.
+What happens if my blood glucose level becomes too high?
+High blood glucose is called
+hyperglycemia
+. Symptoms that your blood glucose levels may be too high include:
+Feeling thirsty
+Feeling tired or weak
+Headaches
+Urinating (peeing) often
+Blurred vision
+If you often have high blood glucose levels or symptoms of high blood glucose, talk with your health care team. You may need a change in your
+diabetes meal plan
+, physical activity plan, or
+diabetes medicines
+.
+High blood glucose may also be caused by other conditions that can affect insulin or glucose levels in your blood. These conditions include problems with your
+pancreas
+or
+adrenal glands
+.
+What happens if my blood glucose level becomes low for me?
+Hypoglycemia
+, also called low blood glucose, happens when your blood glucose level drops below what is healthy for you. For many people with diabetes, this means a blood glucose reading lower than 70 mg/dL. Your number might be different, so check with your health care team to find out what blood glucose level is low for you.
+Symptoms of low blood glucose tend to come on quickly. The symptoms can be different for everyone, but they may include:
+Shaking
+Sweating
+Nervousness or anxiety
+Irritability or confusion
+Dizziness
+Hunger
+Low blood glucose levels can be common in people with
+type 1 diabetes
+and people with
+type 2 diabetes
+who take certain diabetes medicines. If you think you may have low blood glucose, check your level, even if you don't have symptoms. Low blood glucose can be dangerous and should be treated as soon as possible.
+Although it's rare, you can still get low blood glucose without having diabetes. The causes can include conditions such as
+liver disease
+,
+kidney disease
+, and
+hormone
+deficiencies (lack of certain hormones). Some medicines, such as certain heart medicines and
+antibiotics
+, can also cause it. See your provider to find out the cause of your low blood glucose and how to treat it.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+- Metabolic Problems
+- Diabetes Mellitus
+
+MeSH Headings:
+- Blood Glucose
+
+Related Resources:
+
+Resource: A1C and eAG
+Category: Living With
+Organization: American Diabetes Association
+URL: https://diabetes.org/a1c-eag-conversion-calculator
+
+Resource: A1C test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003640.htm
+
+Resource: A1C: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/a1c.html
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: At-Home Medical Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/at-home-medical-tests/
+
+Resource: Blood Glucose Monitoring Devices
+Category: Living With
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/in-vitro-diagnostics/blood-glucose-monitoring-devices
+
+Resource: Blood Glucose Record (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/glucose-record.html
+
+Resource: Blood Glucose Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+
+Resource: Blood sugar test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003482.htm
+
+Resource: Blood Sugar Testing: Why, When and How
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/blood-sugar/art-20046628?p=1
+
+Resource: Blood Test: Glucose
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-glucose.html
+
+Resource: ClinicalTrials.gov: Blood Glucose
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Blood+Glucose%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Continuous Glucose Monitoring
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Continuous+Glucose+Monitor%22&cond=%28Diabetes+OR+Hyperglycemia+OR+Hypoglycemia%29&aggFilters=status:not%20rec
+
+Resource: Continuous Glucose Monitoring
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes/continuous-glucose-monitoring
+
+Resource: Diabetes and Exercise: When to Monitor Your Blood Sugar
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-and-exercise/art-20045697?p=1
+
+Resource: Diabetes Management: How Lifestyle, Daily Routine Affect Blood Sugar
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetes/in-depth/diabetes-management/art-20047963?p=1
+
+Resource: Diabetes Tests and Diagnosis
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis
+
+Resource: Donohue syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/donohue-syndrome
+
+Resource: Estimated average glucose (eAG)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000966.htm
+
+Resource: Fasting for a Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/
+
+Resource: Glucose screening tests during pregnancy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007562.htm
+
+Resource: Glucose urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003581.htm
+
+Resource: Glycemic index and diabetes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000941.htm
+
+Resource: Home blood sugar testing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000324.htm
+
+Resource: How to Manage Blood Sugars with Type 1 Diabetes
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/diabetes-control.html
+
+Resource: How to Safely Use Glucose Meters and Test Strips for Diabetes
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/how-safely-use-glucose-meters-and-test-strips-diabetes
+
+Resource: Keeping Track of Your Child's Blood Sugar
+Category: Teenagers, Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/track-blood-sugar.html
+
+Resource: Making Fingersticks and Insulin Shots Easier for Kids With Diabetes
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/injections-tests.html
+
+Resource: Manage Blood Sugar
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/treatment/
+
+Resource: Managing Type 2 Diabetes Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000086_31.htm
+
+Resource: Managing your blood sugar
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000086.htm
+
+Resource: Maturity-onset diabetes of the young: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/maturity-onset-diabetes-of-the-young
+
+Resource: Monitoring
+Category: Living With
+Organization: Association of Diabetes Care and Education Specialists
+URL: https://www.adces.org/docs/default-source/handouts/adces7/handout_pwd_adces7_monitoring.pdf
+
+Resource: Monitoring blood glucose - Series
+Category: Living With, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100220_1.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Blood Glucose
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Blood+Glucose%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Search Diabetes Educator Directory
+Category: Find an Expert
+Organization: Association of Diabetes Care and Education Specialists
+URL: https://nf01.diabeteseducator.org/eweb/DynamicPage.aspx?Site=AADE&WebCode=AADEDiaEduDirectory
+
+Resource: Type A insulin resistance syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/type-a-insulin-resistance-syndrome
+
+Resource: Understanding A1C
+Category: Living With
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/a1c
+
+Resource: Your Glucose Meter
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/your-glucose-meter

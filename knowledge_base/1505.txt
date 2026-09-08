@@ -1,0 +1,325 @@
+Title: Spine Injuries and Disorders
+
+Summary:
+Your backbone, or spine, is made up of 26 bone discs called vertebrae. The vertebrae protect your spinal cord and allow you to stand and bend.  A number of problems can change the structure of the spine or damage the vertebrae and surrounding tissue. They include:
+Infections
+Injuries
+Tumors
+Conditions, such as
+ankylosing spondylitis
+and
+scoliosis
+Bone changes that come with age, such as
+spinal stenosis
+and
+herniated disks
+Spinal diseases often cause pain when bone changes put pressure on the spinal cord or nerves. They can also limit movement. Treatments differ by disease, but sometimes they include back braces and surgery.
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Spinal Fractures
+- Spinal Injuries
+- Spinal Diseases
+
+Related Resources:
+
+Resource: About Neurointerventions
+Category: Treatments and Therapies
+Organization: Society of NeuroInterventional Surgery
+URL: https://snisonline.org/about/
+
+Resource: Artificial Disc Replacement (ADR)
+Category: Treatments and Therapies
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Surgical-Options/Artificial-Disc-Replacement
+
+Resource: Back Surgery: When Is It a Good Idea?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/back-surgery/art-20048274?p=1
+
+Resource: Chiropractic: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/chiropractic.html
+
+Resource: ClinicalTrials.gov: Fractures, Compression
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fractures,+Compression%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Kyphosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kyphosis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Spinal Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Spinal Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Spinal Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Spondylolisthesis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spondylolisthesis%22&aggFilters=status:not%20rec
+
+Resource: Compression fractures of the back
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000443.htm
+
+Resource: CT Scan of the Spine
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinect
+
+Resource: Definitions
+Category: Reference Desk
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Resources/Definitions
+
+Resource: Degenerative Changes in the Spine: Is This Arthritis?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/osteoarthritis/expert-answers/arthritis/faq-20058457?p=1
+
+Resource: Depression and Spinal Cord Injuries and Disorders (SCI/D)
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.veteranshealthlibrary.va.gov/142,41191_VA
+
+Resource: Diffuse Idiopathic Skeletal Hyperostosis (Forestier Disease)
+Category: Specifics
+Organization: Arthritis Foundation
+URL: https://www.arthritis.org/diseases/diffuse-idiopathic-skeletal-hyperostosis
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: Epidural Injections
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/epidural
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Find a Physical Therapist Near You
+Category: Find an Expert
+Organization: American Physical Therapy Association
+URL: https://www.choosept.com/find-a-pt
+
+Resource: Foraminotomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007390.htm
+
+Resource: Fractures of the Thoracic and Lumbar Spine
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/fractures-of-the-thoracic-and-lumbar-spine/
+
+Resource: Getting It Straight: Improve Your Posture for Better Health
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/08/getting-it-straight
+
+Resource: Halo brace
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000799.htm
+
+Resource: Halo Brace (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/halo-brace.html
+
+Resource: Halo-Gravity Traction (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/halo-gravity-traction.html
+
+Resource: Intervertebral disc disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/intervertebral-disc-disease
+
+Resource: Kyphosis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/kyphosis.html
+
+Resource: Kyphosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/kyphosis/symptoms-causes/syc-20374205?p=1
+
+Resource: Kyphosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001240.htm
+
+Resource: Laminectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007389.htm
+
+Resource: Laparoscopic Spine Surgery
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/wiki/laparoscopic-spine-surgery
+
+Resource: Lordosis - lumbar
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003278.htm
+
+Resource: Lumbar (Open) Microscopic Discectomy
+Category: Treatments and Therapies
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Surgical-Options/Lumbar-Microscopic-Discectomy
+
+Resource: Lumbar and Cervical Discography
+Category: Diagnosis and Tests
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Assessment-Tools/Discography
+
+Resource: Lumbar MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007352.htm
+
+Resource: Lumbar spinal surgery - series
+Category: Images
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100119_1.htm
+
+Resource: Lumbar Spine CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007350.htm
+
+Resource: Lumbosacral spine CT
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003787.htm
+
+Resource: Lumbosacral spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003807.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Prevention: Strengthening
+Category: Videos and Tutorials
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Prevention/Exercise/Strengthening
+
+Resource: Spine Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Spinal+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Spinal+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Spinal+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Spinal Cord Tumor
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spinal-cord-tumor/symptoms-causes/syc-20350103?p=1
+
+Resource: Spinal fusion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002968.htm
+
+Resource: Spinal fusion - series
+Category: Images
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100121_1.htm
+
+Resource: Spinal Infections
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Infections-Tumors/Spinal-Infections
+
+Resource: Spinal tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001403.htm
+
+Resource: Spine MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinemr
+
+Resource: Spine Rehabilitation Exercises
+Category: Living With
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/recovery/spine-conditioning-program/spine-conditioning-program-pdf/
+
+Resource: Spine surgery - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000313.htm
+
+Resource: Spondylocostal dysostosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondylocostal-dysostosis
+
+Resource: Spondylolisthesis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001260.htm
+
+Resource: Spondylolysis and Spondylolysthesis
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Degenerative-Conditions/Spondylolysis-and-Spondylolysthesis
+
+Resource: Spondylothoracic dysostosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondylothoracic-dysostosis
+
+Resource: Thoracic spine CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007442.htm
+
+Resource: Thoracic spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: Understanding Spinal Cord Disease
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.veteranshealthlibrary.va.gov/Search/3,41207
+
+Resource: Vertebroplasty - series
+Category: Images
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100204_1.htm
+
+Resource: Whiplash and Whiplash Associated Disorder (WAS)
+Category: Specifics
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Conditions/Injuries/Whiplash-and-Whiplash-Associated-Disorder

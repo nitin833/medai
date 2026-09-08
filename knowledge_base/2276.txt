@@ -1,0 +1,125 @@
+Title: Seguridad en los deportes
+
+Summary:
+Practicar deportes puede ser divertido, pero si no se tiene cuidado también puede ser peligroso. Puede ayudar a prevenir lesiones si:
+Se hace un examen físico para asegurarse de que se encuentra sano antes de empezar a practicar su deporte
+Utiliza los zapatos, la ropa y el equipo adecuados
+Bebe mucha agua
+Calienta y estira los músculos antes de empezar
+Si tiene alguna lesión previa durante la práctica de un deporte, asegúrese de recuperarse completamente antes de comenzar de nuevo. Si es posible, proteja la parte del cuerpo lesionada con un dispositivo acojinado, un aparato ortopédico o equipo especial. Cuando comience nuevamente, hágalo lentamente.
+
+Groups:
+- Asuntos de seguridad
+- Aptitud física y ejercicio
+
+Related Resources:
+
+Resource: 4 Cuartos sobre la seguridad de los casos del fútbol americano
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://www.cpsc.gov/s3fs-public/348.pdf#page=2
+
+Resource: Consejos de seguridad para mantener abrigados a los niños en el invierno
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Winter-Safety.aspx
+
+Resource: Consejos de seguridad para personas mayores cuando hacen ejercicio al aire libre
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/ejercicio/consejos-seguridad-personas-mayores-cuando-hacen-ejercicio-al-aire-libre
+
+Resource: Consejos de seguridad sobre el hockey sobre hielo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-hockey.html
+
+Resource: Consejos de seguridad sobre el voleibol
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-volleyball.html
+
+Resource: Consejos de seguridad sobre la natación
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-swimming.html
+
+Resource: Consejos de seguridad: Baloncesto
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-basketball.html
+
+Resource: Consejos de seguridad: Béisbol
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-baseball.html
+
+Resource: Consejos de seguridad: esquí
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-skiing.html
+
+Resource: Consejos de seguridad: Softball de lanzamiento rápido
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/safety-fastpitch.html
+
+Resource: Cómo evitar lesiones relacionadas con el ejercicio
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000859.htm
+
+Resource: Cómo seleccionar la bicicleta del tamaño apropiado para su niño
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-play/paginas/choosing-the-right-size-bicycle.aspx
+
+Resource: Deportes de invierno
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/winter-sports.html
+
+Resource: Deportes y la seguridad de los ojos: Recomendaciones para padres y maestros
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos/los-deportes-y-la-seguridad-de-los-ojos-recomendaciones-para-padres-y-maestros
+
+Resource: Dolor de espalda y los deportes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000519.htm
+
+Resource: Exámenes físicos deportivos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/sports-physicals.html
+
+Resource: Exámenes médicos deportivos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000673.htm
+
+Resource: Retornar a los deportes después de una lesión en la espalda
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000518.htm
+
+Resource: Seguridad en la bicicleta
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/bike-safety.html
+
+Resource: Seguridad en los deportes y el ejercicio
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sport-safety.html
+
+Resource: Trampolines: Lo que usted debe saber
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-play/paginas/trampolines-what-you-need-to-know.aspx
+
+Resource: Tratamiento de lesiones por deporte
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/sports-injuries/paginas/sports-injuries-treatment.aspx

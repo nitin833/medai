@@ -1,0 +1,337 @@
+Title: Sickle Cell Disease
+
+Also Called:
+- Hemoglobin SS disease
+- Sickle cell anemia
+
+Summary:
+What is sickle cell disease (SCD)?
+Sickle cell disease (SCD) is a group of inherited red blood cell disorders. If you have SCD, there is a problem with your hemoglobin. Hemoglobin is a protein in red blood cells that carries oxygen throughout the body. With SCD, the hemoglobin forms into stiff rods within the red blood cells. This changes the shape of the red blood cells. The cells are supposed to be disc-shaped, but instead they are crescent, or sickle, shaped.
+The sickle-shaped cells are not flexible and cannot change shape easily. Many of them burst apart as they move through your blood vessels. The sickle cells usually only last 10 to 20 days, instead of the normal 90 to 120 days. Your body may have trouble making enough new cells to replace the ones that you lost. Because of this, you may not have enough red blood cells. This is a condition called
+anemia
+, and it can make you feel tired.
+The sickle-shaped cells can also stick to vessel walls, causing a blockage that slows or stops the flow of blood. When this happens, oxygen can't reach nearby tissues. The lack of oxygen can cause attacks of sudden, severe pain, called pain crises. These attacks can occur without warning. If you get one, you might need to go to the hospital for treatment.
+What causes sickle cell disease (SCD)?
+SCD is caused by a
+variant (change) in a gene
+that has instructions for your body to make one part of the hemoglobin. This changed gene is sometimes called a sickle cell gene. People with SCD are born with two sickle cell genes, one from each parent.
+If you are born with one sickle cell gene, it's called sickle cell trait. People with sickle cell trait are generally healthy, but they can pass the defective gene on to their children.
+Who is more likely to have sickle cell disease (SCD)?
+In the United States, most of the people with SCD are African Americans:
+About 1 in 13 Black or African American babies are born with sickle cell trait
+About 1 in every 365 Black or African American babies are born with sickle cell disease
+SCD also affects some people who come from Hispanic, southern European, Middle Eastern, or Asian Indian backgrounds.
+What are the symptoms of sickle cell disease (SCD)?
+People with SCD start to have signs of the disease during the first year of life, usually around 5 or 6 months of age. Early symptoms of SCD may include:
+Painful swelling of the hands and feet
+Fatigue or fussiness from anemia
+A yellowish color of the skin (
+jaundice
+) or the whites of the eyes (icterus)
+The effects of SCD vary from person to person and can change over time. Most of the signs and symptoms of SCD are related to complications of the disease. They may include severe pain, anemia, organ damage, and infections.
+How is sickle cell disease (SCD) diagnosed?
+A blood test can show if you have SCD or sickle cell trait.
+Genetic tests
+can tell if you have one or two copies of the sickle cell gene. Genetic tests can help confirm an SCD diagnosis if the results from blood tests are not clear.
+All states now test newborns for SCD (as well as many other treatable conditions) as part of their
+screening programs
+. These programs help find the conditions early, so treatment can be started right away.
+Health care providers can also diagnose SCD before a baby is born. That test uses a sample of amniotic fluid (the liquid in the sac surrounding the baby) or tissue taken from the placenta (the organ that brings oxygen and nutrients to the baby).
+People who are thinking about having children can have the test to find out how likely it is that their children will have SCD.
+What are the treatments for sickle cell disease (SCD)?
+There are many ways to manage sickle cell disease. Your medical team will probably include a hematologist, a doctor who specializes in blood diseases. You will work with your medical team to set up a treatment plan. Possible treatment options may include:
+Treatments that can help relieve symptoms and lessen complications, including:
+Hydroxyurea, a medicine to reduce sickling of red blood cells. This can help prevent serious symptoms of sickle cell disease. This medicine can be used in adults and in children as young as 9 months old.  But this medicine is
+not
+safe during pregnancy.
+Voxelotor, another medicine to prevent the sickling of red blood cells. It can be used in adults and children ages 4 years and older.
+Pain relievers
+for acute or chronic pain.
+Antibiotics
+to try to prevent infections in younger children.
+Blood transfusions
+for severe anemia. If you have had some serious complications, such as a
+stroke
+, you may have transfusions to prevent more complications.
+Other treatments for specific complications, such as
+medicines to lower blood pressure
+and
+vitamins
+to treat a vitamin deficiency.
+Bone marrow
+or
+stem cell
+transplantation, which can cure SCD. Because these transplants are risky and can have serious side effects, they are usually only used in children with severe SCD. For the transplant to work, the bone marrow must be a close match. Usually, the best donor is a brother or sister.
+Gene therapies to treat SCD in people who are 12 years and older and have had repeated sickle cell crises. These new therapies involve taking some of your blood stem cells and either adding new DNA to them or changing their existing DNA. Then these cells are given back to you, and they can make a type of hemoglobin that is healthy. This can reduce the complications of SCD, including the SCD crises.
+Complementary and alternative medicine
+(CAM) seems to help some people deal with pain caused by SCD. These types of CAM may lower your pain, especially if it is not well managed with medicines::
+Cognitive behavioral therapy (a type of counseling)
+Acupuncture
+Exercise or movement programs, such as yoga
+Massage
+Meditation and mindfulness practices
+Virtual reality, a computer-generated 3D environment you can see with special goggles
+It's also important to take steps to keep yourself as healthy as possible:
+Get regular medical care
+Get your routine
+vaccinations
+Live a healthy lifestyle
+Avoid situations that may set off a pain crisis
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Anemia, Sickle Cell
+
+Related Resources:
+
+Resource: A1C Test and Race/Ethnicity
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test-race-ethnicity
+
+Resource: About Sickle Cell Disease
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease
+
+Resource: About Sickle Cell Disease
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sickle-cell/about/
+
+Resource: Acute Sickle Cell Pain
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-crisis.html
+
+Resource: Blood Smear
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-smear/
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: ClinicalTrials.gov: Anemia, Sickle Cell
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anemia,+Sickle+Cell%22&aggFilters=status:not%20rec
+
+Resource: Complete Blood Count (CBC)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/complete-blood-count-cbc/
+
+Resource: Complications of Sickle Cell Disease
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sickle-cell/complications/
+
+Resource: Could My Kids Be Born with Sickle Cell Disease Someday?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-cell-genes.html
+
+Resource: Crizanlizumab for People With Sickle Cell Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/crizanlizumab.html
+
+Resource: Data and Statistics on Sickle Cell Disease
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sickle-cell/data/
+
+Resource: Dr. Allison King on Sickle Cell Disease and Learning
+Category: Children
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/09/dr-allison-king-sickle-cell-disease-learning
+
+Resource: FDA Approval of Gene Therapies for Sickle Cell Disease: Q&A with NHLBI Director Dr. Gary Gibbons and NHLBI's Division of Blood Diseases and Resources Director Dr. Julie Panepinto
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/news/2023/fda-approval-gene-therapies-sickle-cell-disease-dr-gibbons-dr-panepinto
+
+Resource: Find a Genetic Counselor
+Category: Find an Expert
+Organization: National Society of Genetic Counselors
+URL: https://findageneticcounselor.nsgc.org
+
+Resource: Genetic Counseling (For Parents)
+Category: Genetics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/genetic-counseling.html
+
+Resource: Hemoglobin C, S-C, and E Diseases
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/anemia/hemoglobin-c-s-c-and-e-diseases
+
+Resource: Hemoglobin Electrophoresis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hemoglobin-electrophoresis/
+
+Resource: Hemoglobin electrophoresis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003639.htm
+
+Resource: Hemoglobin SC (HbSC) Disease: A Type of Sickle Cell Disease
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hbsc-disease.html
+
+Resource: Hemoglobinuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003363.htm
+
+Resource: Hydroxyurea for People with Sickle Cell Disease
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hydroxyurea.html
+
+Resource: I Have Sickle Cell Trait: Is It Safe to Fly or Travel to the Mountains?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-cell-trait-altitude.html
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Navigating Sickle Cell Disease Gene Therapy
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/navigating-sickle-cell-disease-gene-therapy
+
+Resource: Prevent Problems from Sickle Cell Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/center/sickle-cell-treatment.html
+
+Resource: Sickle Cell Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anemia%2C+Sickle+Cell%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sickle cell disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000527.htm
+
+Resource: Sickle Cell Disease (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/sickle-cell.html
+
+Resource: Sickle Cell Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sickle-cell-anemia.html
+
+Resource: Sickle Cell Disease (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-cell-anemia.html
+
+Resource: Sickle Cell Disease (SCD)
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant/diseases-treated-by-transplant/sickle-cell-disease-treatment-by-transplant
+
+Resource: Sickle Cell Disease Association of America
+Category: Find an Expert
+Organization: Sickle Cell Disease Association of America
+URL: https://sicklecelldisease.org/
+
+Resource: Sickle Cell Disease Gene Therapy Education Project
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education
+
+Resource: Sickle Cell Disease Gene Therapy FAQ
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/sickle-cell-disease-gene-therapy-FAQ
+
+Resource: Sickle cell disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sickle-cell-disease
+
+Resource: Sickle cell test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003666.htm
+
+Resource: Sickle Cell Trait: 3 Ways to Stay Healthy
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-cell-trait-healthy.html
+
+Resource: Sickle Cell Trait: 5 Problems to Know about
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sickle-cell-trait-problems.html
+
+Resource: Tesha Samuels Advocates for Others After Living with Sickle Cell Disease
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/tesha-samuels-advocates-for-others-after-living-with-sickle-cell-disease
+
+Resource: Total iron binding capacity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003489.htm
+
+Resource: Transitioning Your Medical Care: Sickle Cell Disease (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/care-sickle-cell.html
+
+Resource: Treatments for Blood Disorders
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: Understanding Gene Therapy Approaches
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/understanding-gene-therapy-approaches
+
+Resource: Understanding sickle cell disease and its impact on your baby
+Category: Children
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/blog/understanding-sickle-cell-disease-and-its-impact-your-baby
+
+Resource: Understanding the Blood Cell
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/understanding-red-blood-cell
+
+Resource: What Is Sickle Cell Disease?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/sickle-cell-disease
+
+Resource: What Is Sickle Cell Trait?
+Category: Genetics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sickle-cell/sickle-cell-trait/
+
+Resource: Women with Sickle Cell Disease and Preconception Care
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sickle-cell/communication-resources/women-with-sickle-cell-disease-and-preconception-care.html
+
+Resource: Your Mental Health and Sickle Cell Disease Gene Therapy Participation
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/research-at-nhgri/Projects/Democratizing-Education/your-mental-health-scd-gene-therapy

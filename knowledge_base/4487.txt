@@ -1,0 +1,126 @@
+Title: Dolor pélvico
+
+Summary:
+El dolor pélvico ocurre principalmente en la parte baja del
+abdomen
+. El dolor puede ser constante o aparecer y desaparecer. Puede ser un dolor intenso y punzante en un lugar específico, o una molestia tenue en un área amplia de la pelvis. Si el dolor es fuerte, puede interferir con las actividades cotidianas.
+Si usted es mujer, puede sentir dolor durante el
+período menstrual
+. También puede ocurrir cuando tiene relaciones sexuales. El dolor pélvico puede ser un signo de que existe un problema con uno de los órganos de la región pélvica, como el útero, los ovarios, las trompas de Falopio, el cuello uterino o la vagina. Si es hombre, puede deberse a un problema de la
+próstata
+. En hombres y mujeres, puede ser un síntoma de infección o de problemas en las vías urinarias, el intestino, el recto, los músculos o los huesos. Algunas mujeres pueden presentar más de una causa de dolor pélvico al mismo tiempo.
+Quizá deba someterse a exámenes de laboratorio, de imagen u otras pruebas médicas para encontrar la causa del dolor. El tratamiento dependerá de la causa, la intensidad y frecuencia del dolor.
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Mujeres
+- Síntomas
+- Asuntos de salud sexual
+- Sistema reproductor femenino
+
+Related Resources:
+
+Resource: Dolor pélvico
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion
+
+Resource: Dolor pélvico en mujeres
+Category: Spanish/Español, Mujeres, Niñas
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-femenina/s%C3%ADntomas-de-los-trastornos-ginecol%C3%B3gicos/dolor-p%C3%A9lvico-en-mujeres
+
+Resource: Dolor pélvico intermenstrual
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001503.htm
+
+Resource: Dolor pélvico: Otras preguntas frecuentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion/preguntas
+
+Resource: Ecografía trasvaginal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003779.htm
+
+Resource: Examen pélvico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/pelvic-exam/about/pac-20385135?p=1
+
+Resource: Fracturas de la pelvis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/fracturas/fracturas-de-la-pelvis
+
+Resource: Laparoscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/laparoscopia/
+
+Resource: Laparoscopia diagnóstica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003918.htm
+
+Resource: Laparoscopia pélvica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002916.htm
+
+Resource: Laparoscopia pélvica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100131_1.htm
+
+Resource: Prostatitis
+Category: Hombres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/prostatitis/symptoms-causes/syc-20355766?p=1
+
+Resource: Radiografía de la pelvis
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003809.htm
+
+Resource: RMN de cuerpo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bodymr
+
+Resource: TC abdominal y pélvica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominct
+
+Resource: Tomografía computarizada de la pelvis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007362.htm
+
+Resource: Ultrasonido de pelvis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/pelvus
+
+Resource: ¿Cuáles son los síntomas del dolor pélvico?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion/sintomas
+
+Resource: ¿Cómo se diagnostica el dolor pélvico?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion/diagnostica
+
+Resource: ¿Cómo se trata el dolor pélvico?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion/tratamientos
+
+Resource: ¿Qué causa el dolor pélvico?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pelvicpain/informacion/causa

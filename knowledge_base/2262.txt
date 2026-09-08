@@ -1,0 +1,113 @@
+Title: Caídas
+
+Summary:
+Las caídas pueden ser peligrosas a cualquier edad. Los bebés y los niños pequeños pueden lastimarse al caerse de los muebles o al bajar las escaleras. Los niños mayores pueden caerse de los juegos en el parque. Para las personas mayores, las caídas pueden ser especialmente graves y tienen un mayor riesgo de caerse. También es más probable que se
+quiebren un hueso
+al caerse, especialmente si tienen
+osteoporosis
+. Un hueso roto, sobre todo cuando es la
+cadera
+, puede incluso llevar a la discapacidad y la pérdida de independencia de los adultos mayores.
+Algunas causas comunes de caídas incluyen:
+Problemas de equilibrio
+Algunos medicamentos, que pueden hacer que se sienta mareado, confundido o lento
+Problemas de la vista
+Beber alcohol, lo que puede afectar su equilibrio y reflejos
+Debilidad muscular, especialmente en las piernas, que puede hacer que le resulte más difícil levantarse de una silla o mantener el equilibrio cuando camina sobre una superficie irregular
+Ciertas enfermedades, como
+presión arterial baja
+,
+diabetes
+y
+neuropatía
+Reflejos lentos, que hacen que sea difícil mantener el equilibrio o alejarse de algún peligro
+Tropezar o resbalar debido a la pérdida de equilibrio o tracción
+A cualquier edad, las personas pueden hacer cambios para reducir el riesgo de caídas. Es importante cuidar su salud, incluso hacerse
+exámenes de ojos
+regulares. Hacer ejercicio puede disminuir su riesgo de caídas al fortalecer sus músculos, mejorar su equilibrio y mantener sus huesos fuertes. Y puede buscar formas de hacer que su casa sea más segura. Por ejemplo, puede eliminar cosas que pueden hacerle tropezar y colocar barandas en las escaleras y en el baño. Para reducir las posibilidades de quebrarse un hueso si se cae, asegúrese de tomar suficiente
+calcio
+y
+vitamina D
+.
+NIH: Instituto Nacional sobre el Envejecimiento
+
+Groups:
+- Personas mayores
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cómo prevenir las lesiones por caídas y por intentos de treparse a muebles o de agarrar objetos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-falls.html
+
+Resource: Después de una caída en el hospital
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000441.htm
+
+Resource: Ejercicios para ayudar a prevenir caídas
+Category: Prevención y factores de riesgo, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000493.htm
+
+Resource: Evaluación del riesgo de caídas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-del-riesgo-de-caidas/
+
+Resource: Hoja de datos sobre caídas en la construcción
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2012-142sp.html
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Instituto Nacional Sobre el Envejecimiento
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol
+
+Resource: Mareo y caídas
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/dizziness-and-falls-spanish.pdf
+
+Resource: Prevención de caídas
+Category: Prevención y factores de riesgo, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000052.htm
+
+Resource: Prevención de caídas: Consejos para mantenerse en pie
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/prevencion-de-caidas
+
+Resource: Prevenga las caídas y fracturas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/caidas/prevenga-caidas-fracturas
+
+Resource: Prevenir caídas: Qué preguntarle al médico
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000254.htm
+
+Resource: Pruebas del equilibrio
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-del-equilibrio/
+
+Resource: Seguridad en el baño para los adultos
+Category: Personas mayores, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000021.htm

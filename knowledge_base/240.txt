@@ -1,0 +1,294 @@
+Title: First Aid
+
+Summary:
+Accidents happen. Someone
+chokes
+on an ice cube or gets
+stung
+by a bee. It is important to know when to call 911 -- it is for life-threatening emergencies.  While waiting for
+help
+to arrive, you may be able to save someone's life. Cardiopulmonary resuscitation (
+CPR
+) is for people whose hearts or breathing has stopped and the Heimlich maneuver is for people who are choking.
+You can also learn to handle common
+injuries and wounds
+. Cuts and scrapes, for example, should be rinsed with cool water. To stop bleeding, apply firm but gentle pressure, using gauze. If blood soaks through, add more gauze, keeping the first layer in place. Continue to apply pressure.
+It is important to have a first aid kit available.  Keep one at home and one in your car. It should include a first-aid guide.  Read the guide to learn how to use the items, so you are ready in case an emergency happens.
+
+Groups:
+- Injuries and Wounds
+- Safety Issues
+
+MeSH Headings:
+- First Aid
+
+Related Resources:
+
+Resource: Abdominal thrusts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000047.htm
+
+Resource: American College of Emergency Physicians
+Category: Find an Expert
+Organization: American College of Emergency Physicians
+URL: https://www.acep.org/
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Anaphylaxis: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-anaphylaxis/basics/art-20056608?p=1
+
+Resource: Bleeding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000045.htm
+
+Resource: Breathing difficulties - first aid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000007.htm
+
+Resource: Capillary nail refill test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003394.htm
+
+Resource: Cardiogenic shock
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000185.htm
+
+Resource: Cardiopulmonary Resuscitation (CPR): First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: Choking - adult or child over 1 year
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000049.htm
+
+Resource: Choking - infant under 1 year
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000048.htm
+
+Resource: Choking - unconscious adult or child over 1 year
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000051.htm
+
+Resource: Choking: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637?p=1
+
+Resource: ClinicalTrials.gov: First Aid
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22First+Aid%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Shock
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Shock%22&aggFilters=status:not%20rec
+
+Resource: Creating a sling - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100137_1.htm
+
+Resource: Drug use first aid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000016.htm
+
+Resource: Ear emergencies
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000052.htm
+
+Resource: Electrical Burns: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687?p=1
+
+Resource: ER101
+Category: Start Here
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/er101/er-101
+
+Resource: First Aid and Safety
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/firstaid-safe/
+
+Resource: First aid kit
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001958.htm
+
+Resource: First Aid Tips
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/first-aid-tips
+
+Resource: First-Aid Kits: Stock Supplies That Can Save Lives
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-kits/basics/art-20056673?p=1
+
+Resource: Fishhook removal
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000055.htm
+
+Resource: Foreign Object in the Nose: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid/basics/art-20056610?p=1
+
+Resource: Foreign Object in the Skin: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid/basics/art-20056604?p=1
+
+Resource: Frostbite: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-frostbite/basics/art-20056653?p=1
+
+Resource: Hand splint - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100142_1.htm
+
+Resource: Head Trauma: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-head-trauma/basics/art-20056626?p=1
+
+Resource: Heart Attack: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-heart-attack/basics/art-20056679?p=1
+
+Resource: Heat Exhaustion and Heat Stroke
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/heat-exhaustion-and-heat-stroke/
+
+Resource: Hiking and Backpacking First Aid Kit: Contents and Checklist
+Category: Specifics
+Organization: American Red Cross
+URL: https://www.redcross.org/take-a-class/resources/articles/hiking-first-aid-kit-checklist
+
+Resource: How to Handle a Medical Emergency (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/emergency.html
+
+Resource: How to make a sling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000017.htm
+
+Resource: How to make a splint
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000040.htm
+
+Resource: Hypovolemic shock
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000167.htm
+
+Resource: Know When to Go to the ER
+Category: Start Here
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/know-when-to-go/know-when-to-go-overview
+
+Resource: Lacerations - liquid bandage
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000497.htm
+
+Resource: Nosebleeds
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/nosebleeds/
+
+Resource: Poisoning first aid
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007579.htm
+
+Resource: First aid
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22First+Aid%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Red Cross Mobile Apps
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html
+
+Resource: Scrape
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007212.htm
+
+Resource: Seizures (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/seizure.html
+
+Resource: Shock
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000039.htm
+
+Resource: Shock: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-shock/basics/art-20056620?p=1
+
+Resource: Splinter removal
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002137.htm
+
+Resource: Teaching Your Child How to Use 911
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/911.html
+
+Resource: Teeth Injuries: First Aid (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tooth-sheet.html
+
+Resource: Unconsciousness - first aid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000022.htm
+
+Resource: Unconsciousness, First Aid
+Category: Specifics
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/first-aid-unconsciousness/?Imiw9cApl=1
+
+Resource: What Do I Need in My First Aid Kit?
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/what-do-i-need-in-my-first-aid-kit/
+
+Resource: What You Need to Know in an Emergency (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/healthin.html

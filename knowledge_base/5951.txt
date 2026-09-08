@@ -1,0 +1,229 @@
+Title: Tooth Decay
+
+Also Called:
+- Cavities
+- Dental caries
+
+Summary:
+What is tooth decay?
+Tooth decay is damage to a tooth's surface, or enamel. It happens when bacteria in your mouth make acids that attack the enamel. Tooth decay can lead to cavities (dental caries), which are holes in your teeth. If tooth decay is not treated, it can cause pain, infection, and even tooth loss.
+What causes tooth decay?
+Our mouths are full of bacteria. Some bacteria are helpful. But some can be harmful, including the ones that play a role in tooth decay. These bacteria combine with food to form a soft, sticky film called plaque. The bacteria in plaque use the sugar and starch in what you eat and drink to make acids. The acids begin to eat away at the minerals on your enamel. Over time, the plaque can harden into tartar. Besides damaging your teeth, plaque and tartar can also irritate your gums and cause
+gum disease
+.
+You get fluoride from toothpaste, water, and other sources. This fluoride, along with your salvia, helps the enamel repair itself by replacing the minerals. Your teeth go through this natural process of losing minerals and regaining minerals all day long. But if you don't take care of your teeth and/or you eat and drink lots of sugary or starchy things, your enamel will keep losing minerals. This leads to tooth decay.
+A white spot may appear where minerals have been lost. This is an early sign of tooth decay. You may be able to stop or reverse the decay at this point. Your enamel can still repair itself, if you take better care of your teeth and limit sugary/starchy foods and drinks.
+But if the tooth decay process continues, more minerals are lost. Over time, the enamel is weakened and destroyed, forming a cavity. A cavity is a hole in your tooth. It is permanent damage that a dentist has to repair with a filling.
+Who is at risk for tooth decay?
+The main risk factors for tooth decay are not taking care of your teeth and having too many sugary or starchy foods and drinks.
+Some people have a higher risk of tooth decay, including people who:
+Don't have enough saliva, because of medicines, certain diseases, or some cancer treatments
+Don't get enough fluoride
+Are very young. Babies and toddlers who drink from bottles are at risk, especially if they are given juice or get bottles at bedtime. This exposes their teeth to sugars for long periods of time.
+Are older. Many older adults have receding gums and more wear on their teeth. These raise the risk of decay on the exposed root surfaces of their teeth.
+What are the symptoms of tooth decay and cavities?
+In early tooth decay, you usually don't have symptoms. As tooth decay gets worse, it can cause:
+A toothache (tooth pain)
+Tooth sensitivity to sweets, hot, or cold
+White or brown stains on the surface of a tooth
+A cavity
+An infection, which can lead to an
+abscess
+(pocket of pus) forming. The abscess can cause pain, facial swelling, and fever.
+How are tooth decay and cavities diagnosed?
+Dentists usually find tooth decay and cavities by looking at your teeth and probing them with dental instruments. Your dentist will also ask if you have any symptoms. Sometimes you may need a dental x-ray.
+What are the treatments for tooth decay and cavities?
+There are several treatments for tooth decay and cavities. Which treatment you get depends on how bad the problem is:
+Fluoride treatments.
+If you have early tooth decay, a fluoride treatment can help the enamel to repair itself.
+Fillings.
+If you have a typical cavity, your dentist will remove the decayed tooth tissue and then restore the tooth by filling it with a filling material.
+Root canal.
+If the damage to the tooth and/or an infection spreads to the pulp (inside of the tooth), you might need a root canal. Your dentist will remove the decayed pulp and clean inside the tooth and root. The next step is to fill the tooth with a temporary filling. Then you will need to come back to get a permanent filling or a crown (a cover on the tooth).
+Extraction (pulling the tooth).
+In the most severe cases, when the damage to the pulp cannot be fixed, your dentist may pull the tooth. Your dentist will suggest that you get a bridge or implant to replace the missing tooth. Otherwise, the teeth next to the gap may move over and change your bite.
+Can tooth decay be prevented?
+There are steps that you can take to prevent tooth decay:
+Make sure that you get enough fluoride by
+Brushing with a fluoride toothpaste
+Drinking tap water with fluoride. Most bottled water does not contain fluoride.
+Using fluoride mouth rinse
+Practice
+good oral health
+by brushing your teeth twice a day with a fluoride toothpaste and regularly flossing your teeth
+Make smart food choices by limiting foods and drinks that are high in sugars and starches. Eat nutritious, balanced meals and limit snacking.
+Do not use tobacco products, including
+smokeless tobacco
+. If you currently use tobacco, consider
+quitting
+.
+See a dentist for regular check-ups and professional cleanings
+Make sure that your children get sealants on their teeth. Dental sealants are thin plastic coatings that protect the chewing surfaces of the back teeth. Children should get sealants on their back teeth as soon as they come in, before decay can attack the teeth.
+NIH: National Institute of Dental and Craniofacial Research
+
+Groups:
+- Mouth and Teeth
+
+MeSH Headings:
+- Dental Caries
+
+Related Resources:
+
+Resource: About Community Water Fluoridation
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fluoridation/about/
+
+Resource: About Dental Fluorosis
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/oral-health/about/about-dental-fluorosis.html
+
+Resource: About Fluoride
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/oral-health/prevention/about-fluoride.html
+
+Resource: Cavities
+Category: Older Adults
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/mouth-and-dental-disorders/tooth-disorders/cavities
+
+Resource: Cavities and Tooth Decay
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cavities/symptoms-causes/syc-20352892?p=1
+
+Resource: ClinicalTrials.gov: Dental Caries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dental+Caries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Dental Plaque
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dental+Plaque%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pit and Fissure Sealants
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Pit+and+Fissure+Sealants%22&aggFilters=status:not%20rec
+
+Resource: Community Water Fluoridation Frequently Asked Questions
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fluoridation/faq/
+
+Resource: Dental Amalgam Fillings
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/dental-devices/dental-amalgam-fillings
+
+Resource: Dental Caries (Tooth Decay)
+Category: Statistics and Research
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/research/data-statistics/dental-caries?_ga=2.168564391.729705438.1528457265-1850060442.1528457265
+
+Resource: Dental cavities
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001055.htm
+
+Resource: Dental Exam
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dental-exam/
+
+Resource: Dental Fillings
+Category: Treatments and Therapies
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/dental-fillings
+
+Resource: Dental plaque identification at home
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003426.htm
+
+Resource: Dental sealants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000779.htm
+
+Resource: Dental Sealants
+Category: Statistics and Research
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/research/data-statistics/dental-sealants?_ga=2.97318809.729705438.1528457265-1850060442.1528457265
+
+Resource: Dental Sealants
+Category: Prevention and Risk Factors
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/dental-sealants
+
+Resource: Find a Dentist
+Category: Find an Expert
+Organization: Academy of General Dentistry
+URL: https://www.agd.org/practice/tools/patient-resources/find-an-agd-dentist
+
+Resource: Fluoride & Dental Health
+Category: Prevention and Risk Factors
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/fluoride
+
+Resource: Fluoride in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002420.htm
+
+Resource: How to Prevent Tooth Decay in Your Baby
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/baby/teething-tooth-care/pages/how-to-prevent-tooth-decay-in-your-baby.aspx
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Tooth Decay
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dental+Caries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Seal Out Tooth Decay
+Category: Patient Handouts, Children
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2024-10/seal-out-tooth-decay-en.pdf
+
+Resource: Story of Fluoridation
+Category: Related Issues
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/fluoride/the-story-of-fluoridation
+
+Resource: The Tooth Decay Process: How to Reverse It and Avoid a Cavity (Tips for Parents)
+Category: Videos and Tutorials
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.youtube.com/watch?v=OE-9E8Dj6wU
+
+Resource: Tooth Decay
+Category: Start Here
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/tooth-decay
+
+Resource: Tooth decay -- early childhood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000721.htm
+
+Resource: Toothache: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-toothache/basics/art-20056628?p=1
+
+Resource: Toothaches
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003067.htm
+
+Resource: Water Fluoridation Data and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/fluoridation/php/statistics/

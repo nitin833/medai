@@ -1,0 +1,81 @@
+Title: Escoliosis
+
+Also Called:
+- Curvatura de la columna
+
+Summary:
+La escoliosis causa una curvatura hacia los lados de la columna vertebral o espina dorsal. Las curvas suelen tener forma de S o de C. La escoliosis es más común al final de la niñez y el inicio de la adolescencia, cuando el crecimiento es más rápido. Las niñas suelen tenerla más que los varones. Suele ser hereditaria. Los síntomas incluyen inclinación hacia un lado y tener hombros y caderas desiguales. A veces es fácil notar los síntomas, pero no siempre.
+Los niños pueden tener un examen para detectar escoliosis en la escuela o durante un
+chequeo médico
+. Si parece que hay un problema, los médicos usarán su historia clínica y familiar, un examen físico y pruebas de imagen para diagnosticarla.  El tratamiento depende de su edad, cuánto más es probable que crezca, cuán marcada es la curva y si la curva es temporal o permanente. Las personas con escoliosis leve pueden necesitar solamente chequeos para ver si la curva está empeorando. Otros podrían necesitar usar un corsé o someterse a una cirugía.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Artrodesis vertebral
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002968.htm
+
+Resource: Cirugía de escoliosis en niños
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007383.htm
+
+Resource: Escoliosis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/scoliosis.html
+
+Resource: Escoliosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001241.htm
+
+Resource: Escoliosis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/scoliosis.html
+
+Resource: Escoliosis en los niños y los adolescentes
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/escoliosis
+
+Resource: Fusión espinal
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100121_1.htm
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Radiografía de la columna torácica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003806.htm
+
+Resource: Radiografía: Escoliosis (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-scoliosis.html
+
+Resource: Resonancia magnética cervical
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007354.htm
+
+Resource: Resonancia magnética de la región lumbar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007352.htm
+
+Resource: Tracción cervical con halo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/halo-gravity-traction.html

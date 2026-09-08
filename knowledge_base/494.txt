@@ -1,0 +1,187 @@
+Title: Vaginal Cancer
+
+Summary:
+What is vaginal cancer?
+Vaginal cancer is a rare type of cancer that starts in the vagina. The vagina is the canal leading from your cervix (the opening of your uterus) to the outside of your body.
+Who is more likely to develop vaginal cancer?
+You are more likely to develop vaginal cancer if:
+You're age 60 or older.
+You've had certain types of human papillomavirus (
+HPV
+) infections.
+You were exposed to a medicine called DES (diethylstilbestrol) before you were born. Between 1940-1971, DES was sometimes prescribed to prevent miscarriages. DES was later linked to different health problems, including vaginal cancer.
+You have had abnormal cells in your
+vagina
+,
+cervix
+, or
+uterus
+.
+What are the symptoms of vaginal cancer?
+Vaginal cancer often doesn't have early symptoms. However, see your health care provider if you notice:
+Vaginal bleeding
+that is not your
+period
+A vaginal lump
+Pelvic pain
+Pain during sex
+Pain while urinating (peeing)
+Constipation
+or blood in your
+stool
+(poop) or urine (pee)
+How is vaginal cancer diagnosed?
+To find out if you have vaginal cancer, your provider will use tests that examine the vagina and other organs in your pelvis. These tests may include:
+A pelvic exam
+. Your provider may also do a
+Pap test
+and/or an
+HPV test
+during your pelvic exam.
+Colposcopy
+, a procedure to examine your cervix, vagina, and vulva.
+Biopsy
+, a procedure to remove some cells so they can be checked for cancer.
+What are the treatments for vaginal cancer?
+Vaginal cancer can often be cured if it is found early. Treatments for vaginal cancer may include surgery,
+radiation therapy
+, and/or
+chemotherapy
+.
+Can vaginal cancer be prevented?
+Vaccines that protect against HPV infection may reduce your risk of vaginal cancer. The vaccines provide the most protection if you get them before you are exposed to HPV. So it's best to get vaccinated before you become sexually active.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Women
+- Female Reproductive System
+
+MeSH Headings:
+- Vaginal Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Can Vaginal Cancer Be Prevented?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vaginal-cancer/causes-risks-prevention/prevention.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Childhood Cervical and Vaginal Cancers
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/childhood-cervical-vaginal-cancer
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Vaginal Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vaginal+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Colposcopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/colposcopy/
+
+Resource: Diethylstilbestrol (DES) Exposure and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+
+Resource: Drugs Approved for Vaginal Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/vaginal
+
+Resource: Fertility Problems
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/fertility.html
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Key Statistics for Vaginal Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vaginal-cancer/about/key-statistics.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Pelvic CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: Pelvic radiation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000059.htm
+
+Resource: Vaginal Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vaginal+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Factors for Vaginal Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vaginal-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Symptoms of Vaginal and Vulvar Cancers
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaginal-vulvar-cancers/symptoms/
+
+Resource: Tests for Vaginal Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vaginal-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Vaginal and Vulvar Cancers
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaginal-vulvar-cancers/
+
+Resource: Vaginal cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001510.htm
+
+Resource: Vaginal Cancer Treatment
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/vaginal/patient/vaginal-treatment-pdq
+
+Resource: What Is Vaginal Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/vaginal-cancer/about/what-is-vaginal-cancer.html

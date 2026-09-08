@@ -1,0 +1,48 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# IDE & OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Runtime data & temp files
+data/uploads/*
+!data/uploads/.gitkeep
+*.log
+
+# Vector database & offline datasets
+qdrant_db/
+books/
+bookembedandmetadata/
+drugsembedmeta/
+codes_to_create_and_inert_vectorstodb/
+knowledge_base/
+
+# Cache directories
+.cache/
+.huggingface/
+

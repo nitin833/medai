@@ -1,0 +1,151 @@
+Title: Úlcera péptica
+
+Also Called:
+- Úlcera duodenal
+- Úlcera gástrica
+
+Summary:
+Una úlcera péptica es una llaga en la mucosa que recubre el estómago o el duodeno, que es la primera parte del intestino delgado. El síntoma más común es un ardor en el estómago.
+El dolor puede:
+Aparecer entre comidas o durante la noche
+Desaparecer después de comer algo o de tomar un antiácido
+Durar minutos u horas
+Ir y venir por varios días o semanas
+Las úlceras pépticas ocurren cuando los ácidos que lo ayudan a digerir los alimentos dañan las paredes del estómago o del duodeno. La causa más común es la infección por una bacteria llamada
+Helicobacter pylori
+. Otra causa es el uso prolongado de antiinflamatorios no esteroides, tales como la aspirina y el ibuprofeno. El estrés y las comidas picantes no causan úlceras, pero pueden empeorarlas.
+Para detectar una infección por Helicobacter pylori, el doctor realizará exámenes de sangre, de aliento o fecales. También podrá examinar dentro del estómago y del duodeno haciendo una
+endoscopía
+o rayos X.
+Las úlceras pépticas empeorarán si no se tratan. El tratamiento puede incluir medicinas para reducir los ácidos del estómago o antibióticos para matar el Helicobacter pylori. Los antiácidos o la leche no curan las úlceras aunque pueden aliviarlas temporalmente.  Dejar de fumar y evitar el consumo del alcohol puede ayudar. La cirugía puede ser necesaria para las úlceras que no sanan.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Cultivo de tejido duodenal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003730.htm
+
+Resource: Cultivo y biopsia de tejido gástrico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003728.htm
+
+Resource: Definición y hechos de las úlceras pépticas (úlceras gástricas)
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/ulceras-pepticas/definicion-hechos
+
+Resource: Diagnóstico de las úlceras pépticas (úlceras gástricas)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/ulceras-pepticas/diagnostico
+
+Resource: Endoscopia gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Estudio del tránsito esofagogastroduodenal
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-uppergi.html
+
+Resource: Exámen de sangre para gastrina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003697.htm
+
+Resource: Exámenes para H. pylori
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007501.htm
+
+Resource: Heces negras o alquitranosas
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003130.htm
+
+Resource: Helicobacter Pylori
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/wp-content/uploads/2019/09/Helicobacter-pylori_Sp.pdf
+
+Resource: Helicobacter pylori y el cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/hoja-informativa-h-pylori
+
+Resource: Hemorragia gastrointestinal: Tema de salud de MedlinePlus
+Category: Síntomas, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/gastrointestinalbleeding.html
+
+Resource: Prueba de sangre oculta en heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-oculta-en-heces/
+
+Resource: Pruebas de Helicobacter pylori (H. Pylori)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-helicobacter-pylori-h-pylori/
+
+Resource: Rayos X del sistema gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/uppergi
+
+Resource: Sangrado gastrointestinal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sangrado-gastrointestinal
+
+Resource: Síndrome de Zollinger-Ellison
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000325.htm
+
+Resource: Síntomas y causas de las úlceras pépticas (úlceras gástricas)
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/ulceras-pepticas/sintomas-causas
+
+Resource: Tratamiento para las úlceras pépticas (úlceras gástricas)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/ulceras-pepticas/tratamiento
+
+Resource: Tránsito esofagogastroduodenal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/transito-esofagogastroduodenal/
+
+Resource: Tránsito gastrointestinal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-esofagogastroduodenal
+
+Resource: Úlcera estomacal
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000133.htm
+
+Resource: Úlcera péptica
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000206.htm
+
+Resource: Úlceras (para adolescentes)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/ulcers.html
+
+Resource: Úlceras pépticas: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/peptic-ulcer/diagnosis-treatment/drc-20354229?p=1

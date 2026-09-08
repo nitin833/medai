@@ -1,0 +1,305 @@
+Title: Neuromuscular Disorders
+
+Summary:
+Neuromuscular disorders affect your neuromuscular system. They can cause problems with:
+The nerves that control your muscles
+Your muscles
+Communication between your nerves and muscles
+These disorders can cause your muscles to become weak and waste away. You may also have symptoms such as spasms, twitching, and pain.
+Examples of neuromuscular disorders include:
+Amyotrophic lateral sclerosis
+Muscular dystrophy
+Myasthenia gravis
+Spinal muscular atrophy
+There can be different causes for these diseases. Many of them are genetic.This means they are inherited (run in families) or are caused by a new mutation in your genes. Some neuromuscular disorders are
+autoimmune diseases
+. Sometimes the cause is unknown.
+Many neuromuscular diseases have no cure. But treatments may improve symptoms, increase mobility, and lengthen life.
+
+Groups:
+- Bones, Joints and Muscles
+- Brain and Nerves
+
+MeSH Headings:
+- Neuromuscular Diseases
+
+Related Resources:
+
+Resource: Apraxia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007472.htm
+
+Resource: Apraxia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#apraxia
+
+Resource: Ataxia with vitamin E deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ataxia-with-vitamin-e-deficiency
+
+Resource: Christianson syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/christianson-syndrome
+
+Resource: ClinicalTrials.gov: Muscle Spasticity
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Muscle+Spasticity%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neuromuscular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neuromuscular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Congenital Myasthenic Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/congenital-myasthenic-syndrome
+
+Resource: Congenital myasthenic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-myasthenic-syndrome
+
+Resource: Congenital Myopathy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/congenital-myopathy
+
+Resource: Distal hereditary motor neuropathy, type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/distal-hereditary-motor-neuropathy-type-ii
+
+Resource: Dressing with Ease, Style, and Comfort
+Category: Related Issues
+Organization: ALS Association
+URL: https://www.als.org/navigating-als/resources/fyi-dressing-ease-style-and-comfort
+
+Resource: Eaton-Lambert Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6851/lambert-eaton-myasthenic-syndrome
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: Exercising with a Muscle Disease
+Category: Living With
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/MDA_Quest_Excercise_Package_2009.pdf
+
+Resource: Find a Neuromuscular Disease
+Category: Start Here
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/list
+
+Resource: Genetics and Neuromuscular Disease
+Category: Genetics
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/2021/07/Genetics-and-NMD.pdf
+
+Resource: Hand or foot spasms
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003194.htm
+
+Resource: Hereditary Spastic Paraplegia
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hereditary-spastic-paraplegia
+
+Resource: Hypertonia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#hypertonia
+
+Resource: Infantile-onset ascending hereditary spastic paralysis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/infantile-onset-ascending-hereditary-spastic-paralysis
+
+Resource: Isaacs Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6793/isaac-syndrome
+
+Resource: Kearns-Sayre Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6817/kearns-sayre-syndrome
+
+Resource: Lambert-Eaton myasthenic syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000710.htm
+
+Resource: Mitochondrial Disorders
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/mitochondrial-disorders
+
+Resource: Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes/
+
+Resource: Monomelic Amyotrophy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/monomelic-amyotrophy
+
+Resource: Motor Neuron Diseases
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/motor-neuron-diseases
+
+Resource: Multiple pterygium syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-pterygium-syndrome
+
+Resource: Muscle atrophy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003188.htm
+
+Resource: Muscle function loss
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003190.htm
+
+Resource: Muscle twitching
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003296.htm
+
+Resource: Myotonia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#myotonia
+
+Resource: Myotonia Congenita
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/myotonia-congenita
+
+Resource: Myotonia congenita
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001424.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Nerve conduction
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000089.htm
+
+Resource: Piriformis Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10026/piriformis-syndrome
+
+Resource: Pregnancy and Childbirth with Neuromuscular Disease
+Category: Women
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/publications/Quest17-3_Pregnancy_Series_revised_0.pdf
+
+Resource: Preparing for Emergencies: A Checklist for People with Neuromuscular Diseases
+Category: Related Issues
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/publications/Emergencies_Checklist_P-527.pdf
+
+Resource: Neuromuscular Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neuromuscular+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Schwartz-Jampel syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/schwartz-jampel-syndrome
+
+Resource: Silver syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/silver-syndrome
+
+Resource: Spastic paraplegia type 11: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-11
+
+Resource: Spastic paraplegia type 15: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-15
+
+Resource: Spastic paraplegia type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-2/
+
+Resource: Spastic paraplegia type 31: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-31/
+
+Resource: Spastic paraplegia type 49: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-49
+
+Resource: Spastic paraplegia type 4: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-4/
+
+Resource: Spastic paraplegia type 5A: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-5a
+
+Resource: Spastic paraplegia type 7: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-7/
+
+Resource: Spastic paraplegia type 8: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-8
+
+Resource: Spasticity
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#spasticity
+
+Resource: Spasticity
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003297.htm
+
+Resource: Stiff-Person Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/stiff-person-syndrome
+
+Resource: Troyer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/troyer-syndrome/
+
+Resource: What Is Mitochondrial Disease
+Category: Specifics
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/2020/03/MDA_Mitochondrial_Disease_Fact_Sheet_March_2020.pdf

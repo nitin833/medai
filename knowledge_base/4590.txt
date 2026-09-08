@@ -1,0 +1,77 @@
+Title: Desórdenes eosinofílicos
+
+Also Called:
+- Eosinofilia
+
+Summary:
+Los eosinófilos son un tipo de glóbulo blanco. Ayudan a combatir las infecciones y juegan un rol en la respuesta inmunológica del cuerpo. También se pueden acumular y causar inflamación.
+Normalmente, la sangre no contiene un gran número de eosinófilos. El organismo puede producir más de ellos en respuesta a:
+Trastornos alérgicos
+Afecciones de la piel
+Infecciones de parásitos o micóticas
+Enfermedades autoinmunes
+Algunos tipos de cáncer
+Trastornos de la médula ósea
+En algunos cuadros, los eosinófilos pueden salir del torrente sanguíneo hacia algunos órganos y tejidos. Esto puede ocurrir en diferentes partes del cuerpo, incluyendo el
+esófago
+, corazón, pulmones, sangre e intestinos. El tratamiento puede variar, dependiendo de la causa y de la parte del cuerpo afectada. Con frecuencia, el tratamiento usa en parte
+corticoides
+.
+
+Groups:
+- Sistema digestivo
+- Sangre, corazón y circulación
+- Pulmón y vías respiratorias
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Conteo absoluto de eosinófilos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003649.htm
+
+Resource: Endoscopia gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Eosinofilia
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/eosinophilia/basics/definition/sym-20050752?p=1
+
+Resource: Eosinofilia pulmonar simple
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000105.htm
+
+Resource: Esofagitis eosinofílica
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/esofagitis-eosinofilica-(ee)-eosinophilic-esophagi
+
+Resource: Fascitis eosinofílica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000447.htm
+
+Resource: Información general sobre la histiocitosis de células de Langerhans
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/langerhans/paciente/tratamiento-langerhans-pdq
+
+Resource: Síndrome de Churg-Strauss
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/afecciones-relacionadas/sindrome-de-churg-strauss-(scs)
+
+Resource: Síndrome hipereosinofílico
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/afecciones-relacionadas/sindrome-hipereosinofilico-(she)
+
+Resource: Trastornos de los eosinófilos
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/trastornos-de-los-gl%C3%B3bulos-blancos-leucocitos/trastornos-de-los-eosin%C3%B3filos

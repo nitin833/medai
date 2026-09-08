@@ -1,0 +1,140 @@
+Title: Culebrilla (herpes zóster)
+
+Summary:
+¿Qué es la culebrilla?
+La culebrilla o herpes zóster es una infección que causa una dolorosa erupción. Es causada por el virus de la varicela-zoster, el mismo que causa la
+varicela
+. Después de tener varicela, el virus permanece en su cuerpo. Puede que no cause problemas por muchos años, pero a medida que envejece, el virus puede volver a activarse y causar culebrilla.
+¿Es contagiosa la culebrilla?
+La culebrilla no es contagiosa. Usted no puede contagiarse de otra persona. Pero puede contraer la varicela de alguien con culebrilla si tiene contacto directo con el líquido de la erupción de la culebrilla.
+El riesgo de propagar el virus es bajo si la erupción de la culebrilla se mantiene cubierta. Las personas con culebrilla no pueden propagar el virus antes de que aparezcan las ampollas del sarpullido o después de que se formen costras.
+¿Quién es más propenso a contraer culebrilla?
+Cualquier persona que haya tenido varicela corre el riesgo de padecer culebrilla. Pero este riesgo aumenta a medida que envejece. La culebrilla es más común en personas mayores de 50 años.
+Las personas con sistemas inmunitarios débiles tienen un mayor riesgo de tener culebrilla. Esto incluye a aquellos que:
+Tienen
+enfermedades del sistema inmunitario
+como el
+VIH
+Tienen ciertos tipos de cáncer
+Toma medicamentos que debilitan su sistema inmunitario, como corticoides y medicamentos que toma después de un
+trasplante de órganos
+Su sistema inmunitario puede estar debilitado cuando tiene una infección o está estresado. Esto puede aumentar su riesgo de culebrilla.
+Es raro tener culebrilla más de una vez, pero puede ocurrir.
+¿Cuáles son los síntomas de la culebrilla?
+Los primeros signos de culebrilla incluyen ardor o dolor punzante y hormigueo o picazón. En general, se presenta a un lado del cuerpo o la cara. El dolor puede ser de leve a severo.
+Algunos días después, tendrá una erupción. Esta consiste en ampollas que generalmente duran entre 7 y 10 días. El sarpullido suele presentarse en una sola banda alrededor del lado izquierdo o derecho del cuerpo. En otros casos, la erupción aparece en un solo lado de la cara. En raras ocasiones, por lo general en personas con sistemas inmunitarios debilitados, la erupción puede estar más extendida. Puede parecerse a una erupción de varicela.
+Algunas personas también pueden presentar otros síntomas, como:
+Fiebre
+Dolor de cabeza
+Escalofríos
+Dolor abdominal
+¿Qué otros problemas causa la culebrilla?
+La culebrilla puede causar otros problemas (complicaciones):
+Neuralgia posherpética: Es la complicación más común de la culebrilla. Causa dolor intenso en las áreas donde tuvo la erupción de culebrilla. En general, mejora en unas pocas semanas o meses. Pero algunas personas pueden tener dolor por neuralgia posherpética durante muchos años y puede interferir con la vida diaria
+Si la culebrilla afecta sus ojos puede tener
+pérdida de la visión
+. Puede ser temporal o permanente
+Problemas de audición
+o
+equilibrio
+: Son posibles si tiene culebrilla dentro o cerca de su oído. También puede tener debilidad de los músculos en ese lado de la cara. Estos problemas pueden ser temporales o permanentes
+En muy raras ocasiones, la culebrilla también puede causar
+neumonía
+, inflamación del cerebro (
+encefalitis
+) o la muerte.
+¿Cómo se diagnostica la culebrilla?
+En general, su proveedor de atención médica puede diagnosticar la culebrilla viendo su historia clínica y observando la erupción. En algunos casos, puede sacar una muestra del tejido de la erupción o del líquido de las ampollas y enviarla a un laboratorio para su análisis.
+¿Cuáles son los tratamientos para la culebrilla?
+No existe una cura para la culebrilla. Los medicamentos antivirales pueden ayudar a que el brote sea más corto y menos severo. También pueden ayudar a prevenir la neuralgia postherpética. Los medicamentos son más efectivos si puede tomarlos dentro de los tres días posteriores a la aparición de la erupción. Por ello, si cree que podría tener culebrilla, hable con su proveedor de atención médica lo antes posible.
+Los analgésicos también pueden ayudar con el dolor. Una toalla fría, loción de calamina y baños de avena pueden ayudar a aliviar parte de la picazón.
+¿Se puede prevenir la culebrilla?
+Una vacuna, llamada Shingrix, ayuda a prevenir la culebrilla y sus complicaciones. Los Centros para el Control y la Prevención de Enfermedades recomiendan que los adultos sanos mayores de 50 años se vacunen. Su profesional de la salud también podría recomendarle la vacuna si tiene más de 19 años y tiene un sistema inmunitario debilitado. La vacuna se administra en dos dosis.
+Si tiene culebrilla, puede ayudar a prevenir la propagación del virus a otras personas al:
+Mantenerse alejado de:
+Personas con sistemas inmunitarios debilitados
+Personas que no hayan tenido varicela o que no hayan recibido la vacuna contra la varicela, especialmente si están embarazadas
+Bebés prematuros
+o
+de bajo peso al nacer
+Mantener la erupción cubierta
+No tocar ni rascarse la erupción
+Lavarse las manos con frecuencia
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Personas mayores
+- Infecciones
+- Cerebro y nervios
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Acerca de la culebrilla (herpes zóster)
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/shingles/es/about/acerca-de-la-culebrilla-herpes-zoster.html
+
+Resource: Atención postratamiento para el herpes zóster
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000560.htm
+
+Resource: Atención postratamiento para la neuralgia posherpética
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000555.htm
+
+Resource: Culebrilla
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/culebrilla
+
+Resource: Herpes zóster
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/shingles.html
+
+Resource: Herpes zóster ótico
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-del-o%C3%ADdo-interno/herpes-z%C3%B3ster-%C3%B3tico
+
+Resource: Neuralgia postherpética
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/postherpetic-neuralgia/symptoms-causes/syc-20376588?p=1
+
+Resource: Prueba de varicela y culebrilla
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-varicela-y-culebrilla/
+
+Resource: Pruebas de serología de anticuerpos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-serologia-de-anticuerpos/
+
+Resource: Síndrome de Ramsay Hunt
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001647.htm
+
+Resource: Vacuna recombinante contra el herpes zóster (culebrilla), RZV: Lo que usted necesita saber
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007736.htm
+
+Resource: Vacunación contra la culebrilla (herpes zóster)
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/shingles/es/vaccines/vacunacion-contra-la-culebrilla.html
+
+Resource: Zóster
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000858.htm
+
+Resource: ¿Cuál es la forma más efectiva de prevenir la culebrilla? Hacerse vacunar
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/cual-es-la-forma-mas-efectiva-de-prevenir-la-culebrilla-hacerse-vacunar

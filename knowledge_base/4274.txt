@@ -1,0 +1,49 @@
+Title: Bone Grafts
+
+Summary:
+A bone graft transplants bone tissue. Surgeons use bone grafts to repair and rebuild
+diseased bones
+in your hips, knees, spine, and sometimes other bones and joints. Grafts can also repair bone loss caused by some types of
+fractures
+(broken bones) or cancers. Once your body accepts the bone graft, it provides a framework for growth of new, living bone.
+If the transplanted bone
+comes from another person
+, it is called an allograft. Most allograft bone comes from donors who have died. Tissue banks screen these donors and disinfect and test the donated bone to make sure it is safe to use. If the transplanted bone comes from another part of your own body, it is called an autograft. Autograft bone often comes from your ribs, hips or a leg.
+
+Groups:
+- Bones, Joints and Muscles
+- Transplantation and Donation
+
+MeSH Headings:
+- Bone Transplantation
+
+Related Resources:
+
+Resource: Bone graft
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002963.htm
+
+Resource: Bone Graft Alternatives
+Category: Learn More
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Surgical-Options/Bone-Graft-Alternatives
+
+Resource: ClinicalTrials.gov: Bone Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Bone+Transplantation%22&aggFilters=status:not%20rec
+
+Resource: Bone Grafts
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Spinal fusion
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002968.htm
+
+Resource: Spinal fusion - series
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100121_1.htm

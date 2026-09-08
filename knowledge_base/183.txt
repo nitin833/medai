@@ -1,0 +1,147 @@
+Title: Child Abuse
+
+Summary:
+Child abuse is doing something or failing to do something that results in harm to a 
+child or puts a child at risk of harm. Child abuse can be physical,
+sexual
+or emotional. Neglect, or not providing for a child's needs, is also a 
+form of abuse.
+Most abused children suffer greater emotional than physical damage. An abused child may 
+become depressed. He or she may withdraw, think of suicide or become violent. An older 
+child may use drugs or alcohol, try to run away or abuse others.
+Child abuse is a serious problem. If you suspect a child is being abused or neglected, 
+call the police or your local child welfare agency.
+
+Groups:
+- Children and Teenagers
+- Injuries and Wounds
+- Social/Family Issues
+
+MeSH Headings:
+- Child Abuse
+
+Related Resources:
+
+Resource: About Adverse Childhood Experiences
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/aces/about/
+
+Resource: About Violence Against Children and Youth Surveys
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/violence-against-children/about/
+
+Resource: Abuse: What If I Need Help Right Now?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/abuse-help.html
+
+Resource: Abuse: What Kids Need to Know
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/handle-abuse.html
+
+Resource: Abuse: What You Need to Know
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/family-abuse.html
+
+Resource: Abusive Head Trauma (Shaken Baby Syndrome)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/shaken.html
+
+Resource: Administration for Children and Families
+Category: Find an Expert
+Organization: Administration for Children and Families
+URL: https://acf.gov/
+
+Resource: American Academy of Child and Adolescent Psychiatry
+Category: Find an Expert
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/
+
+Resource: CDC Vital Signs: Adverse Childhood Experiences (ACEs)
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vitalsigns/ACEs/
+
+Resource: Child Abuse: The Hidden Bruises
+Category: Start Here
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Child-Abuse-The-Hidden-Bruises-005.aspx
+
+Resource: Child neglect and emotional abuse
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007225.htm
+
+Resource: Child physical abuse
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001552.htm
+
+Resource: Child Trauma
+Category: Start Here
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/mental-health/trauma-violence/child-trauma
+
+Resource: ClinicalTrials.gov: Child Abuse
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Child+Abuse%22&aggFilters=status:not%20rec
+
+Resource: Definitions of Child Abuse and Neglect
+Category: Start Here
+Organization: Children's Bureau
+URL: https://www.childwelfare.gov/topics/safety-and-risk/definitions-child-abuse-and-neglect/?top=86
+
+Resource: Going to a Therapist
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/therapist.html
+
+Resource: Going to a Therapist
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/going-to-therapist.html
+
+Resource: Munchausen syndrome by proxy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001555.htm
+
+Resource: National Child Abuse and Neglect Data System Glossary
+Category: Reference Desk
+Organization: Administration for Children and Families
+URL: https://acf.gov/sites/default/files/documents/cb/ncands_glossary.pdf
+
+Resource: Prevention
+Category: Prevention and Risk Factors
+Organization: Children's Bureau
+URL: https://www.childwelfare.gov/topics/prevention/
+
+Resource: Child Abuse
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Child+Abuse%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shaken baby syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007578.htm
+
+Resource: What Is Child Abuse and Neglect? Recognizing the Signs and Symptoms
+Category: Start Here
+Organization: Children's Bureau
+URL: https://cwlibrary.childwelfare.gov/discovery/delivery/01CWIG_INST:01CWIG/1218592060007651
+
+Resource: What Is Shaken Baby Syndrome?
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/shaken-baby-syndrome
+
+Resource: Youth and Teens Page
+Category: Teenagers
+Organization: National Runaway Safeline
+URL: https://www.1800runaway.org/youth-teens

@@ -1,0 +1,181 @@
+Title: Weight Loss Surgery
+
+Also Called:
+- Bariatric surgery
+- Bypass surgery
+- Gastric banding
+- Obesity surgery
+
+Summary:
+Weight loss surgery helps people with extreme
+obesity
+to lose weight. It may be an option if you cannot lose weight through diet and exercise or have serious health problems caused by obesity.
+There are different types of weight loss surgery.  They often limit the amount of food you can take in. Some types of surgery also affect how you digest food and absorb nutrients. All types have risks and complications, such as infections, hernias, and blood clots.
+Many people who have the surgery lose weight quickly, but regain some weight later on.  If you follow diet and exercise recommendations, you can keep most of the weight off. You will also need medical follow-up for the rest of your life.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Surgery and Rehabilitation
+- Metabolic Problems
+
+MeSH Headings:
+- Bariatric Surgery
+- Obesity
+- Obesity, Morbid
+
+Related Resources:
+
+Resource: ABSMS Directory Search
+Category: Find an Expert
+Organization: American Society for Metabolic and Bariatric Surgery
+URL: https://asmbs.users.membersuite.com/community/directory
+
+Resource: Adult BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/adult-calculator/index.html
+
+Resource: After weight-loss surgery - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000258.htm
+
+Resource: Bariatric Surgery
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/bariatric-surgery
+
+Resource: Bariatric Surgery
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bariatric-surgery/about/pac-20394258?p=1
+
+Resource: Bariatric Surgery Procedures
+Category: Specifics
+Organization: American Society for Metabolic and Bariatric Surgery
+URL: https://asmbs.org/patients/bariatric-surgery-procedures/
+
+Resource: Before weight-loss surgery - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000259.htm
+
+Resource: Body Contouring After Major Weight Loss
+Category: Related Issues
+Organization: American Society of Plastic Surgeons
+URL: https://www.plasticsurgery.org/cosmetic-procedures/body-contouring
+
+Resource: Calculate Your BMI
+Category: Health Check Tools
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/calculate-your-bmi
+
+Resource: ClinicalTrials.gov: Bariatric Surgery
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=bariatric+surgery&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Gastric Bypass
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22gastric+bypass%22&aggFilters=status:not%20rec
+
+Resource: Diet after gastric banding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000334.htm
+
+Resource: Dieting and Gallstones
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/dieting
+
+Resource: Dumping Syndrome
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dumping-syndrome/symptoms-causes/syc-20371915?p=1
+
+Resource: Estimate of Bariatric Surgery Numbers, 2011-2021
+Category: Statistics and Research
+Organization: American Society for Metabolic and Bariatric Surgery
+URL: https://asmbs.org/resources/estimate-of-bariatric-surgery-numbers/
+
+Resource: FAQs of Bariatric Surgery
+Category: Specifics
+Organization: American Society for Metabolic and Bariatric Surgery
+URL: https://asmbs.org/patients/faqs-of-bariatric-surgery/
+
+Resource: Find an Obesity Medicine Provider
+Category: Find an Expert
+Organization: Obesity Medicine Association
+URL: https://obesitymedicine.org/about/find-a-provider/
+
+Resource: Gastric Bypass Diet: What to Eat After the Surgery
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/gastric-bypass-surgery/in-depth/gastric-bypass-diet/art-20048472?p=1
+
+Resource: Gastric bypass surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007199.htm
+
+Resource: Gastric bypass surgery - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000172.htm
+
+Resource: Gastric Bypass Surgery: Who Is It For?
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/gastric-bypass-surgery/art-20046318?p=1
+
+Resource: Gastric Sleeve Surgery
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/gastric-sleeve.html
+
+Resource: Is Weight-Loss Surgery Right for My Child?
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/obesity/Pages/Weight-Loss-Surgery.aspx
+
+Resource: Laparoscopic gastric banding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007388.htm
+
+Resource: Laparoscopic gastric banding - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000180.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Weight Loss Surgery
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Obesity%2Fsurgery%22%5Bmajr%3Anoexp%5D+OR+%22Obesity%2C+Morbid%2Fsurgery%22%5Bmajr%3Anoexp%5D+OR+%22Bariatric+Surgery%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Vertical sleeve gastrectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007435.htm
+
+Resource: Weight Loss Surgery for Teens (For Parents)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/wlsurgery.html
+
+Resource: Weight-Loss (Bariatric) Surgery
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/bariatric-surgery
+
+Resource: Your diet after gastric bypass surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000173.htm

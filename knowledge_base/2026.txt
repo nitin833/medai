@@ -1,0 +1,44 @@
+Title: Medicaid
+
+Summary:
+Medicaid es un
+seguro de salud
+del gobierno estadounidense que ayuda a muchas personas de bajos ingresos en país para
+pagar sus cuentas médicas
+. El gobierno federal establece pautas generales para el programa, pero es importante saber que cada estado tiene sus propias reglas. En este sentido, su estado puede requerir que usted pague una parte del costo de algunos servicios médicos.
+Usted necesita cumplir con ciertos requisitos para recibir ayuda de Medicaid. Entre estos se encuentran:
+Su edad
+Si hay un embarazo, tiene una discapacidad o ceguera
+Sus ingresos y recursos
+Si usted es o no ciudadano de Estados Unidos, y si no, cuál es su estatus migratorio
+Centro para los Servicios de Medicare y Medicaid
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Cobertura de Medicaid y CHIP
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cuidadodesalud.gov/es/medicaid-chip/getting-medicaid-chip/
+
+Resource: Medicaid
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/basics/costs/help/medicaid
+
+Resource: Medicare
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/
+
+Resource: Obtener ayuda con los costos
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/basics/costs/help
+
+Resource: Terminología del Seguro Social
+Category: Más información, Spanish/Español
+Organization: Administración de Seguro Social
+URL: https://www.ssa.gov/espanol/agencia/glosario/glosario-espanol-ingles.html

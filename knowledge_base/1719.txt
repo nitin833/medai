@@ -1,0 +1,171 @@
+Title: Medicamentos
+
+Also Called:
+- Medicinas
+- Remedios
+
+Summary:
+Los medicamentos pueden tratar enfermedades y mejorar su salud. Si es como la mayoría de las personas, seguramente ha tomado un medicamento en algún momento de su vida. Es posible que deba tomar medicamentos todos los días o que solo necesite tomar medicamentos de vez en cuando. De cualquier manera, debe asegurarse de que sus medicamentos sean seguros y que lo ayudarán a mejorar. En los Estados Unidos, la Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés) está a cargo de garantizar la
+seguridad
+y efectividad de medicinas con y
+sin receta
+.
+Siempre hay riesgos al tomar medicamentos. Es importante pensar en estos riesgos antes de tomarlos. Incluso los medicamentos seguros pueden causar
+efectos secundarios
+no deseados o interacciones con alimentos, alcohol u otros medicamentos que esté tomando. Es posible que algunos medicamentos no sean seguros durante el
+embarazo
+. Para reducir el riesgo de reacciones y asegurarse que lo va a ayudar a sentirse mejor, es importante que tome sus medicamentos en forma
+correcta
+. También debe tener cuidado al administrar medicamentos a los
+niños
+, ya que pueden ser más sensibles a sus efectos.
+
+Groups:
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Algunas medicinas y el volante no se mezclan
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/algunas-medicinas-y-el-volante-no-se-mezclan
+
+Resource: Almacenamiento de sus medicamentos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000534.htm
+
+Resource: Aplicando una inyección IM (intramuscular)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000935.htm
+
+Resource: Cinco consejos de seguridad sobre los medicamentos para las personas mayores
+Category: Personas mayores, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/5-consejos-de-seguridad-sobre-los-medicamentos-para-las-personas-mayores
+
+Resource: Colocación de una vía intravenosa
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-iv.html
+
+Resource: Cuando desee cambiar su medicamento
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000616.htm
+
+Resource: Cómo ahorrar dinero en medicinas
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000863.htm
+
+Resource: Cómo y cuándo deshacerse de medicamentos no utilizados
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000943.htm
+
+Resource: Cómo y dónde deshacerse de los medicamentos sin utilizar
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/como-y-donde-deshacerse-de-los-medicamentos-sin-utilizar
+
+Resource: Eliminación de medicamentos no utilizados: Qué debe saber
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/drugs/safe-disposal-medicines/eliminacion-de-medicamentos-no-utilizados-todo-lo-que-debe-saber
+
+Resource: Entender los medicamentos: Qué son y para qué sirven
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/meds.html
+
+Resource: Extraer un medicamento de un frasco
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000530.htm
+
+Resource: Farmacogenética
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007794.htm
+
+Resource: Farmacogenética: Cómo las pruebas genéticas pueden guiar las decisiones que se toman sobre medicamentos (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pharmacogenomics.html
+
+Resource: Los suplementos a base de plantas medicinales y los medicamentos para el corazón no se deben mezclar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/consumer-health/in-depth/herbal-supplements/art-20046488?p=1
+
+Resource: Medicamentos y los niños: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/medicinesandchildren.html
+
+Resource: MedlinePlus: Medicinas, hierbas y suplementos
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/druginformation.html
+
+Resource: Mezclar medicamentos y suplementos dietéticos puede poner en peligro su salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/mezclar-medicamentos-y-suplementos-dieteticos-puede-poner-en-peligro-su-salud
+
+Resource: Monitorización de fármacos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/monitorizacion-de-farmacos/
+
+Resource: Niveles de fármacos terapéuticos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003430.htm
+
+Resource: Piénselo muy bien: Una guía para el control de los beneficios y riesgos de las medicinas
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/drugs/publicaciones-en-espanol-medicamentos/pienselo-muy-bien-una-guia-para-el-control-de-los-beneficios-y-riesgos-de-las-medicinas
+
+Resource: Poder del placebo
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-poder-del-placebo
+
+Resource: Productos biológicos biosimilares e intercambiables: Más opciones de tratamiento
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-productos-biologicos-biosimilares-e-intercambiables-mas-opciones-de-tratamiento
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas/
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007795.htm
+
+Resource: Sepa cómo tomar sus medicamentos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/free-publications-women/sepa-como-tomar-sus-medicamentos-use-medicines-wisely
+
+Resource: Sistemas de administración de fármacos: Administración localizada de fármacos de manera controlada
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional de Imágenes Biomédicas y Bioingeniería
+URL: https://www.nibib.nih.gov/espanol/temas-cientificos/sistemas-de-administraci%C3%B3n-de-f%C3%A1rmacos-administraci%C3%B3n-localizada-de
+
+Resource: Tomar los medicamentos: Qué se le pregunta al proveedor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000535.htm
+
+Resource: Tratamiento intravenoso en el hogar
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000496.htm

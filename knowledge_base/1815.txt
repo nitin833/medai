@@ -1,0 +1,231 @@
+Title: Salud del niño
+
+Summary:
+La salud de su hijo incluye el bienestar físico, mental y social. La mayoría de los padres conoce los aspectos básicos para mantener a los niños sanos tales como darles
+alimentos saludables
+, asegurarse de que duerman y se
+ejerciten
+lo suficiente y garantizar su
+seguridad
+.
+También es importante que los niños tengan chequeos médicos regulares. Estas visitas son una oportunidad para revisar el
+desarrollo
+de su hijo. También es un buen momento para detectar o prevenir problemas.
+Además de los chequeos, los niños en edad escolar deben ir al médico por:
+Pérdida o aumento importante de peso
+Problemas para dormir o cambios de conducta
+Fiebre de más de 102ºF (38.8ºC)
+Erupciones cutáneas o infecciones en la piel
+Dolores de garganta frecuentes
+Problemas respiratorios
+
+Groups:
+- Niños y adolescentes
+- Grupos especiales
+
+Related Resources:
+
+Resource: 2 a 20 años: Niños percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centro Nacional de Estadísticas de la Salud
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l021.pdf
+
+Resource: Antibióticos no son siempre la solución
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/es/Take-Antibiotics-Correctly-Fact-Sheet-ES-508.pdf
+
+Resource: Calculadora de percentil de IMC para niños y adolescentes
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/bmi/es/child-teen-calculator/index.html
+
+Resource: Control del niño sano
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001928.htm
+
+Resource: Cuando su hijo tiene diarrea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000693.htm
+
+Resource: Cuándo utilizar el servicio de urgencias para un niño
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000594.htm
+
+Resource: Cómo aprovechar al máximo una visita al médico (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/talk-doctor.html
+
+Resource: Cómo elegir un pediatra
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/family-life/health-management/Paginas/How-To-Choose-A-Pediatrician.aspx
+
+Resource: Cómo funciona el cuerpo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/center/htbw-main-page.html
+
+Resource: Cómo preparar a su hijo para una prueba de laboratorio
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-preparar-a-su-hijo-para-una-prueba-de-laboratorio/
+
+Resource: Cómo proteger a los niños de los riesgos ambientales
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/como-proteger-los-ninos-de-los-riesgos-ambientales
+
+Resource: Cómo tomar la temperatura axilar (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/axillary-temperature.html
+
+Resource: Cómo tomar la temperatura oral (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/oral-temperature.html
+
+Resource: Cómo tomar la temperatura rectal (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/rectal-temperature.html
+
+Resource: Cómo tomarle la temperatura a su hijo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/take-temperature.html
+
+Resource: Dolores de crecimiento
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growing-pains.html
+
+Resource: Día de la cirugía para su hijo
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000579.htm
+
+Resource: Elegir a un pediatra para su bebé recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/find-ped.html
+
+Resource: Encuentre un pediatra o un pediatra especialista
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/tips-tools/find-pediatrician/paginas/pediatrician-referral-service.aspx
+
+Resource: Enfermedades más comunes (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/general/
+
+Resource: Estreñimiento en los niños
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/estrenimiento-ninos
+
+Resource: Fiebre (temperatura alta) en niños (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/fever.html
+
+Resource: Gripe y su hijo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007445.htm
+
+Resource: Gráficas de crecimiento
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth-charts.html
+
+Resource: Lesiones pediátricas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/pediatric/informacion
+
+Resource: Mantenerse sano
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/stay-healthy/
+
+Resource: Miedos del sueño (terrores nocturnos)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sleep-terrors/symptoms-causes/syc-20353524?p=1
+
+Resource: Nacimiento a 36 meses: Niñas: Percentiles de circunferencia de la cabeza por edad y peso por estatura
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf97/co06l028.pdf
+
+Resource: Nacimiento a 36 meses: Niñas: Percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l018.pdf
+
+Resource: Nacimiento a 36 meses: Niños: Percentiles de circunferencia de la cabeza por edad y peso por estatura
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l019.pdf
+
+Resource: Nacimiento a 36 meses: Niños: Percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l017.pdf
+
+Resource: Niños y el sueño
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sleep.html
+
+Resource: Nutrición del niño: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/childnutrition.html
+
+Resource: Programa para las visitas de control del niño sano de la AAP
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/paginas/well-child-care-a-check-up-for-success.aspx
+
+Resource: Pruebas de audición
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hear.html
+
+Resource: Revise sus síntomas: ¿Debo llamar al médico?
+Category: Herramientas para evaluar la salud, Spanish/Español, Síntomas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/tips-tools/symptom-checker/Paginas/default.aspx
+
+Resource: Termómetros: Comprender las opciones
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/fever/in-depth/thermometers/art-20046737?p=1
+
+Resource: Tos (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/childs-cough.html
+
+Resource: Videos y más (para niños)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/closet/
+
+Resource: Vista de su hijo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vision.html
+
+Resource: ¿Qué es una historia clínica?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/medhist.html

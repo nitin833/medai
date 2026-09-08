@@ -1,0 +1,43 @@
+Title: Implantes cocleares
+
+Summary:
+Un implante coclear es un dispositivo electrónico pequeño y complejo que puede ayudar a proporcionar algún sentido de la audición. Personas que sean profundamente
+sordas
+o que tengan graves dificultades auditivas pueden beneficiarse con su uso. El implante consiste en dos partes. Una parte externa que se sitúa detrás de la oreja y una segunda parte que se coloca quirúrgicamente debajo de la piel.
+Este implante no restablece la audición normal. Puede proporcionar a una persona sorda una comprensión del habla. Tanto niños como adultos pueden beneficiarse de ellos.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Audición y la cóclea
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000063.htm
+
+Resource: Implante coclear
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007203.htm
+
+Resource: Implantes cocleares
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cochlear-implants/about/pac-20385021?p=1
+
+Resource: Implantes cocleares
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/implantes-cocleares
+
+Resource: Implantes cocleares y trastornos vestibulares
+Category: Más información, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/cochlear_implants_spanish.pdf
+
+Resource: Vacunación e implantes cocleares
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cochlear-immunizations.html

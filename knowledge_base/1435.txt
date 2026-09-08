@@ -1,0 +1,133 @@
+Title: Drinking Water
+
+Summary:
+We all need to drink water. How much you need depends on your size, activity level, and the weather where you live.
+The water you drink is a combination of surface water and groundwater. Surface water includes rivers, lakes and reservoirs.  Groundwater comes from underground.  The United States has one of the safest water supplies in the world, but drinking water quality can vary from place to place. It depends on the condition of the source water and the treatment it receives. Treatment may include adding fluoride to prevent cavities and chlorine to kill 
+germs.
+Your water supplier must give you annual reports on drinking water. The reports include where your water came from and what
+contaminants
+are in it.
+Centers for Disease Control and Prevention
+
+Groups:
+- Food and Nutrition
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Drinking Water
+
+Related Resources:
+
+Resource: About Choosing Home Water Filters
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drinking-water/prevention/about-choosing-home-water-filters.html
+
+Resource: About Drinking Water
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drinking-water/about/
+
+Resource: About Lead in Drinking Water
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/lead-prevention/prevention/drinking-water.html
+
+Resource: About Water and Healthier Drinks
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-weight-growth/water-healthy-drinks/index.html
+
+Resource: Arsenic and Drinking Water
+Category: Images
+Organization: U.S. Geological Survey
+URL: https://www.usgs.gov/mission-areas/water-resources/science/arsenic-and-drinking-water
+
+Resource: Basic Information about Lead in Drinking Water
+Category: Specifics
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water
+
+Resource: Basic Information about Your Drinking Water
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-your-drinking-water
+
+Resource: Bottled Water Basics
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sites/default/files/2015-11/documents/2005_09_14_faq_fs_healthseries_bottledwater.pdf
+
+Resource: Bottled Water Everywhere: Keeping it Safe
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/bottled-water-everywhere-keeping-it-safe
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Drinking Tap Water during Pregnancy
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tap-water-pregnancy.html
+
+Resource: Emergency Disinfection of Drinking Water
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
+
+Resource: Fast Facts: Data on Water Consumption
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nutrition/php/data-research/fast-facts-water-consumption.html
+
+Resource: Germs That Can Contaminate Tap Water
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drinking-water/causes/germs-that-can-contaminate-tap-water.html
+
+Resource: How EPA Regulates Drinking Water Contaminants
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/sdwa/how-epa-regulates-drinking-water-contaminants
+
+Resource: Keep Food Safe after a Disaster or Emergency
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+
+Resource: National Center for Environmental Health
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nceh/
+
+Resource: National Institute of Environmental Health Sciences
+Category: Find an Expert
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/
+
+Resource: Persistence of Plastics: Can Tiny Plastic Pieces Affect Our Health?
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/03/persistence-plastics
+
+Resource: Drinking Water
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Drinking+Water%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety of Bottled Water Beverages Including Flavored Water and Nutrient-Added Water Beverages
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/fda-regulates-safety-bottled-water-beverages-including-flavored-water-and-nutrient-added-water
+
+Resource: Water: How Much Should You Drink Every Day?
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/water/art-20044256?p=1
+
+Resource: Why Drinking Water Is the Way to Go
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/water.html

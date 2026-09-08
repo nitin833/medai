@@ -1,0 +1,208 @@
+Title: Exámenes médicos
+
+Also Called:
+- Exámenes diagnósticos
+
+Summary:
+Durante el chequeo médico se realizan exámenes que pueden ayudar a encontrar una enfermedad antes de que comiencen los síntomas. Estas pruebas pueden ayudar a descubrir enfermedades o afecciones anticipadamente, cuando son más fáciles de tratar. Algunos exámenes se realizan en el consultorio del doctor. Otros, necesitan equipos especiales, entonces es posible que tenga que dirigirse a una oficina diferente o a una clínica.
+Entre los cuadros que los médicos buscan comúnmente se incluyen:
+Cáncer de seno
+y
+cáncer de cuello uterino
+en mujeres
+Cáncer colorrectal
+Diabetes
+Presión arterial alta
+Colesterol elevado
+Osteoporosis
+Obesidad
+y sobrepeso
+Cáncer de próstata
+en los hombres
+Las pruebas que usted necesite dependerán de la edad, el sexo, los antecedentes familiares y si tiene factores de riesgo para algunas enfermedades. Luego de que le realicen las pruebas, pregunte cuándo obtendrá los resultados y con quién debería hablar sobre ellos.
+Agencia para la Investigación y Calidad de la Atención Médica
+
+Groups:
+- Bienestar y estilo de vida
+
+Related Resources:
+
+Resource: Análisis de enfermedades de transmisión sexual: ¿cuál es el adecuado para ti?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sexually-transmitted-diseases-stds/in-depth/std-testing/art-20046019?p=1
+
+Resource: Análisis de sangre: Plomo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-lead.html
+
+Resource: Análisis para la detección de cáncer de pulmón
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/lung-cancer-screening/about/pac-20385024?p=1
+
+Resource: Applicación QuestionBuilder en español
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/es/questions/question-builder/index.html
+
+Resource: Calculadora de percentil de IMC para niños y adolescentes
+Category: Spanish/Español, Niños/as
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/bmi/es/child-teen-calculator/index.html
+
+Resource: Calculadora de índice de masa corporal (IMC) para adultos
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/bmi/es/adult-calculator/index.html
+
+Resource: Cobertura Medicare: Servicios de prevención y control
+Category: Personas mayores, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/coverage/preventive-screening-services
+
+Resource: Conteo sanguíneo completo (CSC)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-sanguineo-completo/
+
+Resource: Cómo afrontar la ansiedad causada por los exámenes médicos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-afrontar-la-ansiedad-causada-por-los-examenes-medicos/
+
+Resource: Cómo entender el resultado de sus pruebas de laboratorio
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/como-entender-el-resultado-de-sus-pruebas-de-laboratorio/
+
+Resource: Evaluación de depresión
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-de-depresion/
+
+Resource: Evaluación del recién nacido: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/newbornscreening.html
+
+Resource: Examen de cáncer de piel
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-cancer-de-piel/
+
+Resource: Examen de la vista
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-la-vista/
+
+Resource: Exámenes de detección del cáncer de piel (PDQ)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/deteccion-piel-pdq
+
+Resource: Exámenes medicos: Qué esperar
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/med-videos-landing.html
+
+Resource: Frecuencia del examen físico
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002125.htm
+
+Resource: Hombre: Conserve su salud a cualquier edad
+Category: Hombres, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/patients-consumers/patient-involvement/healthy-men/hombre.pdf
+
+Resource: Hombre: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/hombre50.pdf
+
+Resource: Hágase las pruebas de detección temprana
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Prevención de Enfermedades y Promoción de la Salud
+URL: https://odphp.health.gov/espanol/myhealthfinder/visitas-doctor/pruebas-deteccion/hagase-pruebas-deteccion-temprana
+
+Resource: Mamografía: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mammography.html
+
+Resource: Mujer: Conserve su salud a cualquier edad
+Category: Mujeres, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/patients-consumers/prevention/lifestyle/mujer.pdf
+
+Resource: Mujer: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/women50sp.pdf
+
+Resource: Más allá de los análisis básicos de sangre
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mas-alla-de-los-analisis-basicos-de-sangre
+
+Resource: Panel metabólico básico
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-basico/
+
+Resource: Panel metabólico completo (PMC)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-completo-pmc/
+
+Resource: Prueba de audición a su bebé y los siguientes pasos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/prueba-audicion-bebe-y-siguientes-pasos
+
+Resource: Prueba de glucosa en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-glucosa-en-la-sangre/
+
+Resource: Prueba de Papanicolaou
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-papanicolaou/
+
+Resource: Prueba de tuberculosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tuberculosis/
+
+Resource: Pruebas de cribado sobre la salud (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/health-screens.html
+
+Resource: Pruebas genéticas: Tema de salud de MedlinePlus
+Category: Spanish/Español, Genética
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetictesting.html
+
+Resource: Vista de su hijo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vision.html
+
+Resource: ¿Cómo se convierten los exámenes de detección (del cáncer) en pruebas estándar?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/deteccion/aspectos-generales-deteccion-paciente-pdq#_149
+
+Resource: ¿Hacer o no hacer pruebas de detección?
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/hacer-o-no-hacer-pruebas-de-deteccion
+
+Resource: ¿Qué es un examen de detección del cáncer?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/deteccion/aspectos-generales-deteccion-paciente-pdq#_1

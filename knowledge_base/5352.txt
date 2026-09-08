@@ -1,0 +1,163 @@
+Title: Urethral Disorders
+
+Summary:
+The urethra is the tube that allows
+urine
+to pass out of the body. In men, it's a long tube that runs through the penis. It also carries semen in men. In women, it's short and is just above the vagina. Urethral problems may happen due to aging, illness, or injury.  They include:
+Urethral cancer - a rare cancer that happens more often in men
+Urethral stricture - a narrowing of the opening of the urethra
+Urethritis - inflammation of the urethra, sometimes caused by infection
+Urethral problems may cause pain or difficulty passing urine.  You may also have bleeding or discharge from the urethra.
+Doctors diagnose urethral problems using different tests. These include urine tests, x-rays and an examination of the urethra with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Urethral Diseases
+
+Related Resources:
+
+Resource: Blocked Urethral Valves
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/genitourinary-tract/pages/Blocked-Urethral-Valves.aspx
+
+Resource: Chlamydial infections - male
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000659.htm
+
+Resource: ClinicalTrials.gov: Urethral Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urethral+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Urethral Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urethral+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Congenital anomalies of kidney and urinary tract: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-anomalies-of-kidney-and-urinary-tract/
+
+Resource: Cystoscopy and Ureteroscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy
+
+Resource: Epispadias
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001285.htm
+
+Resource: General Information about Urethral Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq#_1
+
+Resource: Hydronephrosis in Newborns
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns
+
+Resource: Indwelling catheter care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000140.htm
+
+Resource: Meatal stenosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001599.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Pediatric VCUG (Voiding Cystourethrogram)
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/voidcysto
+
+Resource: Urethral Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Urethral+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Self catheterization - female
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000144.htm
+
+Resource: Self catheterization - male
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000143.htm
+
+Resource: Stages of Urethral Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq#_28
+
+Resource: Traumatic injury of the bladder and urethra
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001063.htm
+
+Resource: Treatment Option Overview (Urethral Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/urethral/patient/urethral-treatment-pdq#_52
+
+Resource: Urethra Defects
+Category: Children
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/birth-defects-of-the-urinary-tract-and-genitals/urethra-defects
+
+Resource: Urethral discharge culture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003750.htm
+
+Resource: Urethral Injuries
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/injury-to-the-urinary-tract-and-genitals/urethral-injuries
+
+Resource: Urethral stricture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001271.htm
+
+Resource: Urethral Stricture
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/urethral-stricture/symptoms-causes/syc-20362330?p=1
+
+Resource: Urethritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000439.htm
+
+Resource: Urinary catheters
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003981.htm
+
+Resource: Urinary Retention
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention
+
+Resource: Urinary Tract and How It Works
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-how-it-works
+
+Resource: Urinary Tract Imaging
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/urinary-tract-imaging

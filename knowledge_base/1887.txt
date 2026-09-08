@@ -1,0 +1,77 @@
+Title: Salud ambiental
+
+Also Called:
+- Medio ambiente y usted
+
+Summary:
+El  medio ambiente afecta nuestra salud. Si algunas partes del medio ambiente, como el
+aire
+, el
+agua
+o la tierra, se contaminan, puede causar problemas de salud. Por ejemplo, contaminantes y otras sustancias químicas en el aire o en el
+hogar
+pueden desencadenar crisis de asma.
+Algunos riesgos ambientales son parte del mundo natural, como el
+radón
+en la tierra. Otros son resultado de actividades humanas, como
+intoxicación por plomo
+en la pintura o la exposición al
+asbesto
+o al
+mercurio
+por su uso en la minería e industrias.
+NIH: Instituto Nacional de las Ciencias de Salud Ambiental
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Agencia de Protección Ambiental de EE. UU.
+Category: Spanish/Español, Especialistas
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/
+
+Resource: Ambientes saludables para los niños
+Category: Spanish/Español, Niños/as
+Organization: Organización Panamericana de la Salud
+URL: https://www.paho.org/es/documentos/libro-actividades-monica-ambientes-saludables-para-ninos
+
+Resource: Cómo proteger a los niños de los riesgos ambientales
+Category: Spanish/Español, Niños/as
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/como-proteger-los-ninos-de-los-riesgos-ambientales
+
+Resource: Materiales peligrosos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000457.htm
+
+Resource: Medioambiente y su salud
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/el-medioambiente-y-su-salud
+
+Resource: Peligros ambientales sobrecargan el corazón
+Category: Personas mayores, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://nepis.epa.gov/Exe/ZyPDF.cgi?Dockey=P1001BKF.PDF
+
+Resource: Persistencia de los plásticos
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/la-persistencia-de-los-plasticos
+
+Resource: Reciclaje
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/el-reciclaje
+
+Resource: Website de educación de ciencias de la salud del medioambiente
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de las Ciencias de Salud Ambiental
+URL: https://www.niehs.nih.gov/health/scied/teachers/educacion
+
+Resource: ¡Demasiado ruidoso y demasiado brillante! Efectos de la contaminación acústica y lumínica en su salud
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/demasiado-ruidoso-y-demasiado-brillante

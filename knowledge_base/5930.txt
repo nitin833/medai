@@ -1,0 +1,368 @@
+Title: Diabetes Type 2
+
+Also Called:
+- Type 2 Diabetes
+
+Summary:
+What is type 2 diabetes?
+Type 2
+diabetes
+is a disease in which your blood glucose, or
+blood sugar
+, levels are too high. Glucose is your main source of energy. It comes from the foods you eat. A hormone called insulin helps the glucose get into your cells to give them energy. If you have diabetes, your body doesn't make enough insulin or doesn't use insulin well. The glucose then stays in your blood and not enough goes into your cells.
+Over time, having too much glucose in your blood can cause
+health problems
+. But you can take steps to manage your diabetes and try to prevent these health problems.
+What causes type 2 diabetes?
+Type 2 diabetes may be caused by a combination of factors:
+Being overweight or having
+obesity
+Not being physically active
+Genetics
+and family history
+Type 2 diabetes usually starts with insulin resistance. This is a condition in which your cells don't respond normally to insulin. As a result, your body needs more insulin to help the glucose enter your cells. At first, your body makes more insulin to try to get cells to respond. But over time, your body can't make enough insulin, and your blood glucose levels rise.
+Who is at risk for type 2 diabetes?
+You are at higher risk of developing type 2 diabetes if you:
+Are over age 45.
+Children, teenagers
+, and younger adults can get type 2 diabetes, but it is more common in middle-aged and older people.
+Have
+prediabetes
+, which means that your blood glucose is high for you but not high enough to be called diabetes
+Had
+diabetes in pregnancy
+or gave birth to a baby weighing 9 pounds or more.
+Have a family history of diabetes
+Are overweight or have obesity
+Are Black or African American, Hispanic/Latino, American Indian, Asian American, or Pacific Islander
+Are not physically active
+Have other conditions such as
+high blood pressure
+,
+heart disease
+,
+stroke
+,
+polycystic ovary syndrome
+(PCOS), or
+depression
+Have low
+HDL (good) cholesterol
+and high
+triglycerides
+Have acanthosis nigricans - dark, thick, and velvety skin around your neck or armpits
+What are the symptoms of type 2 diabetes?
+Many people with type 2 diabetes have no symptoms at all. If you do have them, the symptoms develop slowly over several years. They might be so mild that you do not notice them. The symptoms can include:
+Increased thirst and urination
+Increased hunger
+Feeling tired
+Blurred vision
+Numbness or tingling in the feet or hands
+Sores that do not heal
+Unexplained weight loss
+How is type 2 diabetes diagnosed?
+Your provider will use
+blood tests
+to diagnose type 2 diabetes. The blood tests include:
+A1C test
+, which measures your average blood glucose level over the past 3 months.
+Fasting plasma glucose (FPG) test, which measures your current blood glucose level. You need to
+fast
+(not eat or drink anything except water) for at least 8 hours before the test.
+Random plasma glucose (RPG) test, which measures your current blood glucose level. This test is used when you have diabetes symptoms and the provider does not want to wait for you to fast before having the test.
+What are the treatments for type 2 diabetes?
+Treatment for type 2 diabetes involves managing your blood glucose levels. Many people are able to do this by living a healthy lifestyle. Some people may also need to take medicine:
+A healthy lifestyle includes following a
+healthy eating plan
+and getting
+regular physical activity
+. You need to learn how to balance what you eat and drink with physical activity and diabetes medicine, if you take any.
+Medicines
+for diabetes include oral medicines, insulin, and other injectable medicines. Over time, some people will need to take more than one type of medicine to control their diabetes.
+You will need to check your blood glucose regularly. Your provider will tell you how often you need to do it.
+It's also important to keep your blood pressure and
+cholesterol levels
+close to the targets your provider sets for you. Make sure to get your screening tests regularly.
+Can type 2 diabetes be prevented?
+You can take steps to help
+prevent
+or delay type 2 diabetes by losing weight if you are overweight, eating fewer calories, and being more physically active. If you have a condition which raises your risk for type 2 diabetes, managing that condition may lower your risk of getting type 2 diabetes.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+- Diabetes Mellitus
+
+MeSH Headings:
+- Diabetes Mellitus, Type 2
+
+Related Resources:
+
+Resource: 5 Things To Know About Type 2 Diabetes and Dietary Supplements
+Category: Related Issues
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-type-diabetes-and-dietary-supplements
+
+Resource: A1C test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003640.htm
+
+Resource: A1C: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/a1c.html
+
+Resource: Acanthosis Nigricans
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acanthosis-nigricans/symptoms-causes/syc-20368983?p=1
+
+Resource: All about Insulin Resistance
+Category: Specifics
+Organization: American Diabetes Association
+URL: https://professional.diabetes.org/sites/default/files/media/All_about_Insulin_Resistance.pdf
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Changing Your Habits for Better Health
+Category: Living With
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diet-nutrition/changing-habits-better-health
+
+Resource: ClinicalTrials.gov: Diabetes Mellitus, Type 2
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Diabetes+Mellitus,+Type+2%22&aggFilters=status:not%20rec
+
+Resource: Diabetes
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/diabetes
+
+Resource: Diabetes
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/diabetes
+
+Resource: Diabetes and Dietary Supplements: What You Need to Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/diabetes-and-dietary-supplements-what-you-need-to-know
+
+Resource: Diabetes and Mental Health
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/living-with/mental-health.html
+
+Resource: Diabetes Drug May Reduce Colorectal Cancer Risk
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/03/diabetes-drug-may-reduce-colorectal-cancer-risk
+
+Resource: Diabetes in America
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/about-niddk/strategic-plans-reports/diabetes-in-america
+
+Resource: Diabetes in Older People
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/diabetes/diabetes-older-people
+
+Resource: Diabetes Medicines: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/diabetesmedicines.html
+
+Resource: Diabetes Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/diabetes-tests/
+
+Resource: Diabetes Tests and Diagnosis
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis
+
+Resource: Diabetes type 2 - meal planning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007429.htm
+
+Resource: Diabetic Diet: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/diabeticdiet.html
+
+Resource: Find a Lifestyle Change Program
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes-prevention/lifestyle-change-program/find-a-program.html
+
+Resource: Genetics of Diabetes
+Category: Genetics
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/genetics-diabetes
+
+Resource: Giving an insulin injection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000660.htm
+
+Resource: Health Consequences of Early Exposure to Sugar
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2025/01/health-consequences-early-exposure-sugar
+
+Resource: Healthy Living with Diabetes
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes
+
+Resource: Healthy Weight
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/living-with/healthy-weight.html
+
+Resource: High blood sugar - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000332.htm
+
+Resource: How to Prevent Diabetes: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/howtopreventdiabetes.html
+
+Resource: How to Stay Healthy With Type 2 Diabetes
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/treating-type2.html
+
+Resource: Hyperinsulinemia: Is It Diabetes?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/expert-answers/hyperinsulinemia/faq-20058488?p=1
+
+Resource: Insulin in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/insulin-in-blood/
+
+Resource: Ketones in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-blood/
+
+Resource: Ketones in Urine
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-urine/
+
+Resource: Managing Diabetes
+Category: Living With
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes?dkrd=/health-information/diabetes/overview/managing-diabetes/4-steps
+
+Resource: Monitoring
+Category: Living With
+Organization: Association of Diabetes Care and Education Specialists
+URL: https://www.adces.org/docs/default-source/handouts/adces7/handout_pwd_adces7_monitoring.pdf
+
+Resource: National Diabetes Prevention Program
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes-prevention/
+
+Resource: National Diabetes Statistics Report
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/php/data-research/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Prediabetes:MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/prediabetes.html
+
+Resource: Diabetes Type 2
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetes+Mellitus%2C+Type+2%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Search Diabetes Educator Directory
+Category: Find an Expert
+Organization: Association of Diabetes Care and Education Specialists
+URL: https://nf01.diabeteseducator.org/eweb/DynamicPage.aspx?Site=AADE&WebCode=AADEDiaEduDirectory
+
+Resource: Symptoms and Causes of Diabetes
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/symptoms-causes
+
+Resource: Type 2 Diabetes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000313.htm
+
+Resource: Type 2 Diabetes
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193?p=1
+
+Resource: Type 2 diabetes - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000328.htm
+
+Resource: Type 2 diabetes - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000217.htm
+
+Resource: Type 2 Diabetes Risk Test
+Category: Health Check Tools
+Organization: American Diabetes Association
+URL: https://diabetes.org/diabetes-risk-test
+
+Resource: Type 2 Diabetes: How Healthy Is Your Lifestyle?
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000313_57.htm
+
+Resource: Type 2 diabetes: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/type-2-diabetes
+
+Resource: Understanding Type 2 Diabetes
+Category: Start Here
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/type-2
+
+Resource: What is Diabetes?
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes
+
+Resource: Women and Diabetes -- Diabetes Medicines
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/women-and-diabetes-diabetes-medicines
+
+Resource: Your Diabetes Care Team
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/treatment/diabetes-doctors.html
+
+Resource: Your Health Care Team
+Category: Living With
+Organization: American Diabetes Association
+URL: https://diabetes.org/health-wellness/diabetes-and-your-health/your-healthcare-team

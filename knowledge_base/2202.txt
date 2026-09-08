@@ -1,0 +1,72 @@
+Title: Toxoplasmosis
+
+Summary:
+La toxoplasmosis es una enfermedad causada por el parásito Toxoplasma gondii. Más de 60 millones de personas en Estados Unidos tienen este parásito. La mayoría de ellas no se enferma. Pero el parásito causa serios problemas en algunas personas. Entre ellas se incluyen las personas con sistemas inmunitarios debilitados y bebés de madres que contrajeron la infección durante el embarazo. Los problemas pueden incluir lesiones en el cerebro, los ojos y otros órganos.
+Es posible contagiarse con la toxoplasmosis por:
+Excrementos de un gato infectado
+Ingerir carne contaminada que esté cruda o poco cocida
+Utilizar utensilios o tablas de cortar que estuvieron en contacto con carne cruda
+Beber agua contaminada
+Recibir un trasplante de órganos o una transfusión de sangre infectados
+La mayoría de las personas con toxoplasmosis no necesitan tratamiento. Existen medicamentos para tratarla en el caso de las mujeres embarazadas o personas con sistemas inmunitarios debilitados.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Examen de toxoplasma en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003514.htm
+
+Resource: Protección contra la toxoplasmosis
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/prenatal/Paginas/Protecting-Against-Toxoplasmosis.aspx
+
+Resource: Toxoplasma (Seguridad alimentaria para futuras mamás)
+Category: Spanish/Español, Mujeres
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/toxoplasma-seguridad-alimentaria-para-futuras-mamas
+
+Resource: Toxoplasmosis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toxoplasmosis.html
+
+Resource: Toxoplasmosis
+Category: Mujeres, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/toxoplasmosis.aspx
+
+Resource: Toxoplasmosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000637.htm
+
+Resource: Toxoplasmosis congénita
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001360.htm
+
+Resource: Toxoplasmosis en el recién nacido
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.msdmanuals.com/es/hogar/salud-infantil/infecciones-de-los-reci%C3%A9n-nacidos/toxoplasmosis-en-el-reci%C3%A9n-nacido
+
+Resource: Toxoplasmosis: Descripción general, síntomas, causas, factores de riesgo, complicaciones, prevención
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/toxoplasmosis/symptoms-causes/syc-20356249?p=1
+
+Resource: Toxoplasmosis: Diagnóstico, tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/toxoplasmosis/diagnosis-treatment/drc-20356255?p=1

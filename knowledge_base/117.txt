@@ -1,0 +1,493 @@
+Title: Lymphoma
+
+Also Called:
+- Non-Hodgkin lymphoma
+
+Summary:
+Lymphoma is a cancer of a part of the immune system called the lymph system.  There are many types of lymphoma.  One type is
+Hodgkin disease
+.  The rest are called non-Hodgkin lymphomas.
+Non-Hodgkin lymphomas begin when a type of white blood cell, called a T cell or B cell, becomes abnormal. The cell divides again and again, making more and more abnormal cells. These abnormal cells can spread to almost any other part of the body. Most of the time, doctors don't know why a person gets non-Hodgkin lymphoma. You are at increased risk if you have a weakened immune system or have certain types of infections.
+Non-Hodgkin lymphoma can cause many symptoms, such as :
+Swollen, painless lymph nodes in the neck, armpits or groin
+Unexplained weight loss
+Fever
+Soaking night sweats
+Coughing, trouble breathing or chest pain
+Weakness and tiredness that don't go away
+Pain, swelling or a feeling of fullness in the abdomen
+Your doctor will diagnose lymphoma with a physical exam, blood tests, a chest x-ray, and a biopsy.  Treatments include chemotherapy, radiation therapy, targeted therapy, biological therapy, or therapy to remove proteins from the blood. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells. Biologic therapy boosts your body's own ability to fight cancer. If you don't have symptoms, you may not need treatment right away. This is called watchful waiting.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Immune System
+
+MeSH Headings:
+- Lymphoma
+
+Related Resources:
+
+Resource: 24-hour urine protein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003622.htm
+
+Resource: 8p11 myeloproliferative syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/8p11-myeloproliferative-syndrome
+
+Resource: ACE blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003567.htm
+
+Resource: Adult T-Cell Leukemia/Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/atll/
+
+Resource: Advances in Lymphoma Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/research
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: After Treatment for Waldenstrom Macroglobulinemia
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/after-treatment.html
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Anaplastic Large Cell Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/anaplastic-large-cell-lymphoma/
+
+Resource: B and T cell screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003329.htm
+
+Resource: B-cell leukemia/lymphoma panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003518.htm
+
+Resource: Beta 2 Microglobulin (B2M) Tumor Marker Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/beta-2-microglobulin-b2m-tumor-marker-test/
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Brachytherapy to Treat Cancer
+Category: NON-DISPLAY (Patient Handout)
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy/brachytherapy
+
+Resource: Burkitt lymphoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001308.htm
+
+Resource: Can Non-Hodgkin Lymphoma Be Prevented?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/causes-risks-prevention/prevention.html
+
+Resource: Cancer Stat Facts: Non-Hodgkin Lymphoma
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/nhl.html
+
+Resource: Causes, Risk Factors, and Prevention of Lymphoma in Children
+Category: Children
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/lymphoma-in-children/causes-risks-prevention.html
+
+Resource: Causes, Risk Factors, and Prevention of Waldenstrom Macroglobulinemia
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/causes-risks-prevention.html
+
+Resource: Chest radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000057.htm
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/cll/
+
+Resource: Clinical Trial Support Center (CTSC)
+Category: Clinical Trials
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/resources/patients/clinical-trial-support-center-ctsc
+
+Resource: ClinicalTrials.gov: Lymphoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lymphoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Lymphoma, Non-Hodgkin
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lymphoma,+Non-Hodgkin%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Waldenstrom Macroglobulinemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Waldenstrom+Macroglobulinemia%22&aggFilters=status:not%20rec
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Cytology exam of pleural fluid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003866.htm
+
+Resource: Drugs Approved for Non-Hodgkin Lymphoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/non-hodgkin
+
+Resource: General Information about Adult Non-Hodgkin Lymphoma
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq#_129
+
+Resource: General Information about AIDS-Related Lymphoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_1
+
+Resource: General Information about Childhood Non-Hodgkin Lymphoma
+Category: Start Here, Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq#_1
+
+Resource: General Information about Mycosis Fungoides (Including Sézary Syndrome)
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_1
+
+Resource: General Information about Primary CNS Lymphoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq#_1
+
+Resource: Hodgkin's vs. Non-Hodgkin's Lymphoma: What's the Difference?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hodgkins-lymphoma/expert-answers/lymphoma/faq-20058546?p=1
+
+Resource: Immunofixation - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003593.htm
+
+Resource: Immunofixation blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003543.htm
+
+Resource: Immunotherapy
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Immunotherapy to Treat Cancer (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immunotherapy.html
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Key Statistics for Non-Hodgkin Lymphoma
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/about/key-statistics.html
+
+Resource: Lab and Imaging Tests
+Category: Diagnosis and Tests
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/lab-imaging-tests
+
+Resource: Living as a Non-Hodgkin Lymphoma Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/after-treatment/follow-up.html
+
+Resource: Lymph node biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003933.htm
+
+Resource: Lymphangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003798.htm
+
+Resource: Lymphoma Research Foundation
+Category: Find an Expert
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/
+
+Resource: Mantle Cell Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/mantle-cell-lymphoma/
+
+Resource: Marginal Zone Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/mzl/
+
+Resource: Mediastinal tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001086.htm
+
+Resource: Mediastinoscopy with biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003864.htm
+
+Resource: Mycosis fungoides: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mycosis-fungoides
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Needle Biopsy
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Non-Hodgkin lymphoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000581.htm
+
+Resource: Non-Hodgkin lymphoma in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007686.htm
+
+Resource: Non-Hodgkin Lymphoma Risk Factors
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/causes-risks-prevention/risk-factors.html
+
+Resource: Non-Hodgkin's Lymphoma
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/non-hodgkins-lymphoma/symptoms-causes/syc-20375680?p=1
+
+Resource: Lymphoma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lymphoma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quantitative nephelometry test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003545.htm
+
+Resource: Radioimmunotherapy (RIT)
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/radio-immuno
+
+Resource: Serum globulin electrophoresis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003544.htm
+
+Resource: Stages of Adult Non-Hodgkin Lymphoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq#_158
+
+Resource: Stages of AIDS-Related Lymphoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_29
+
+Resource: Stages of Childhood Non-Hodgkin Lymphoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq#_25
+
+Resource: Stages of Mycosis Fungoides (Including Sézary Syndrome)
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_26
+
+Resource: Staging Primary CNS Lymphoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq#_18
+
+Resource: Sézary syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sezary-syndrome
+
+Resource: T-cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003516.htm
+
+Resource: T-Cell Lymphoma
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/nhl/t-cell-lymphoma/
+
+Resource: Tests for Non-Hodgkin Lymphoma
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Tests for Waldenstrom Macroglobulinemia
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment of Recurrent Mycosis Fungoides (Including Sézary Syndrome)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_244
+
+Resource: Treatment of Stage I and Stage II Mycosis Fungoides
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_241
+
+Resource: Treatment of Stage III and Stage IV Mycosis Fungoides (Including Sézary Syndrome)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_242
+
+Resource: Treatment Option Overview (Adult Non-Hodgkin Lymphoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/adult-nhl-treatment-pdq#_190
+
+Resource: Treatment Option Overview (AIDS Related-Lymphoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/aids-related-treatment-pdq#_45
+
+Resource: Treatment Option Overview (Childhood Non-Hodgkin Lymphoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq#_48
+
+Resource: Treatment Option Overview (Primary CNS Lymphoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/primary-cns-lymphoma-treatment-pdq#_25
+
+Resource: Treatment Option Overview for Mycosis Fungoides (Including Sézary Syndrome)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/mycosis-fungoides-treatment-pdq#_50
+
+Resource: Treatment Options for Childhood Non-Hodgkin Lymphoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/lymphoma/patient/child-nhl-treatment-pdq#_158
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Understanding Lymphoma and Chronic Lymphocytic Leukemia (CLL): Cancer-Related Fatigue
+Category: Living With
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/wp-content/uploads/2025/08/Cancer-Related-Fatigue-copy.pdf
+
+Resource: Waldenstrom Macroglobulinema
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/waldenstrom-macroglobulinemia.html
+
+Resource: Waldenstrom macroglobulinemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000588.htm
+
+Resource: What Is Non-Hodgkin Lymphoma?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/about/what-is-non-hodgkin-lymphoma.html
+
+Resource: What's New in Non-Hodgkin Lymphoma Research and Treatment?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/non-hodgkin-lymphoma/about/new-research.html

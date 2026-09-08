@@ -1,0 +1,226 @@
+Title: Mitochondrial Diseases
+
+Summary:
+Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a
+metabolic disorder
+, something goes wrong with this process.
+Mitochondrial diseases are a group of metabolic disorders. Mitochondria are small structures that produce energy in almost all of your cells. They make it by combining oxygen with the fuel molecules (sugars and fats) that come from your food. When the mitochondria are defective, the cells do not have enough energy. The unused oxygen and fuel molecules build up in the cells and cause damage.
+The symptoms of mitochondrial disease can vary. It depends on how many mitochondria are defective, and where they are in the body. Sometimes only one organ, tissue, or cell type is affected. But often the problem affects many of them. Muscle and nerve cells have especially high energy needs, so muscular and neurological problems are common. The diseases range from mild to severe. Some types can be fatal.
+Genetic mutations cause these diseases. They usually happen before age 20, and some are more common in infants. There are no cures for these diseases, but treatments may help with symptoms and slow down the disease. They may include physical therapy, vitamins and supplements, special diets, and medicines.
+
+Groups:
+- Metabolic Problems
+
+MeSH Headings:
+- Mitochondrial Diseases
+
+Related Resources:
+
+Resource: 2-hydroxyglutaric aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/2-hydroxyglutaric-aciduria/
+
+Resource: ACAD9 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/acad9-deficiency/
+
+Resource: Antimitochondrial antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003529.htm
+
+Resource: Barth syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/barth-syndrome/
+
+Resource: Carnitine palmitoyltransferase I deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-i-deficiency/
+
+Resource: Carnitine palmitoyltransferase II deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-ii-deficiency/
+
+Resource: Carnitine-acylcarnitine translocase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-acylcarnitine-translocase-deficiency/
+
+Resource: ClinicalTrials.gov: Mitochondrial Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mitochondrial+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Combined oxidative phosphorylation deficiency 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/combined-oxidative-phosphorylation-deficiency-1/
+
+Resource: Cytochrome c oxidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cytochrome-c-oxidase-deficiency/
+
+Resource: Deoxyguanosine kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/deoxyguanosine-kinase-deficiency/
+
+Resource: Ethylmalonic encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ethylmalonic-encephalopathy/
+
+Resource: FBXL4-related encephalomyopathic mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fbxl4-related-encephalomyopathic-mitochondrial-dna-depletion-syndrome/
+
+Resource: Glutaric acidemia type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutaric-acidemia-type-ii/
+
+Resource: GRACILE syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gracile-syndrome/
+
+Resource: HSD10 disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hsd10-disease
+
+Resource: Leber hereditary optic neuropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leber-hereditary-optic-neuropathy/
+
+Resource: Leigh syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leigh-syndrome/
+
+Resource: Maternally inherited diabetes and deafness: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/maternally-inherited-diabetes-and-deafness
+
+Resource: Mitochondrial complex I deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-complex-i-deficiency
+
+Resource: Mitochondrial complex III deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-complex-iii-deficiency/
+
+Resource: Mitochondrial complex V deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-complex-v-deficiency
+
+Resource: Mitochondrial Disease
+Category: Start Here
+Organization: United Mitochondrial Disease Foundation
+URL: https://umdf.org/what-is-mitochondrial-disease-2/
+
+Resource: Mitochondrial Disorders
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/mitochondrial-disorders
+
+Resource: Mitochondrial DNA: MedlinePlus Genetics
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/chromosome/mitochondrial-dna/
+
+Resource: Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes/
+
+Resource: Mitochondrial membrane protein-associated neurodegeneration: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-membrane-protein-associated-neurodegeneration
+
+Resource: Mitochondrial neurogastrointestinal encephalopathy disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-neurogastrointestinal-encephalopathy-disease/
+
+Resource: Mitochondrial trifunctional protein deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-trifunctional-protein-deficiency
+
+Resource: MPV17-related hepatocerebral mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mpv17-related-hepatocerebral-mitochondrial-dna-depletion-syndrome
+
+Resource: Multiple mitochondrial dysfunctions syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-mitochondrial-dysfunctions-syndrome
+
+Resource: Myoclonic epilepsy with ragged-red fibers: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-with-ragged-red-fibers/
+
+Resource: Neuropathy, ataxia, and retinitis pigmentosa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neuropathy-ataxia-and-retinitis-pigmentosa/
+
+Resource: Ornithine translocase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ornithine-translocase-deficiency
+
+Resource: Primary coenzyme Q10 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-coenzyme-q10-deficiency
+
+Resource: Progressive external ophthalmoplegia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/progressive-external-ophthalmoplegia
+
+Resource: Mitochondrial Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mitochondrial+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Succinate-CoA ligase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sucla2-related-mitochondrial-dna-depletion-syndrome
+
+Resource: Succinyl-CoA:3-ketoacid CoA transferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/succinyl-coa3-ketoacid-coa-transferase-deficiency
+
+Resource: Types of Mitochondrial Disease
+Category: Specifics
+Organization: United Mitochondrial Disease Foundation
+URL: https://umdf.org/what-is-mitochondrial-disease-2/types-of-mitochondrial-disease/
+
+Resource: United Mitochondrial Disease Foundation
+Category: Find an Expert
+Organization: United Mitochondrial Disease Foundation
+URL: https://umdf.org/
+
+Resource: What Is Mitochondrial Disease
+Category: Start Here
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/sites/default/files/2020/03/MDA_Mitochondrial_Disease_Fact_Sheet_March_2020.pdf

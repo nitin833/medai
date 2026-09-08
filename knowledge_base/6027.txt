@@ -1,0 +1,292 @@
+Title: Diabetes en niños y adolescentes
+
+Summary:
+Hasta hace poco, la diabetes más común en niños y adolescentes era la
+tipo 1
+conocida también como diabetes juvenil. En este tipo de diabetes, el páncreas no produce insulina, que es una hormona que ayuda a que la glucosa entre en las células para darles energía. Sin insulina, demasiada
+azúcar
+queda en la sangre.
+Hoy en día más personas jóvenes tienen
+diabetes tipo 2
+. A esta diabetes se la solía llamar diabetes del adulto, pero ahora es también común en niños y adolescentes debido a una mayor
+obesidad
+. En la diabetes tipo 2, el cuerpo no produce o no usa la insulina adecuadamente.
+Los niños y adolescentes están en mayor riesgo de diabetes tipo 2 si tienen sobrepeso u obesidad, tienen antecedentes familiares de diabetes o no hacen ejercicio. Los niños que son afroamericanos, hispanos, indios americanos / nativos de Alaska, asiáticoamericanos o isleños del Pacífico también tienen un riesgo más alto. Para disminuir el riesgo de diabetes 2 en niños y adolescentes:
+Ayúdeles a mantener un peso saludable
+Asegúrese que hagan ejercicio y se mantengan activos
+Sírvales porciones pequeñas de alimentos saludables y nutritivos
+Limite el tiempo que pasan frente al televisor, computadora o videos
+Los niños y adolescentes con diabetes tipo 1 pueden necesitar insulina. La diabetes tipo 2 puede ser controlada con dieta y
+ejercicio
+.  Si eso no es suficiente, necesitarán tomar
+medicinas para la diabetes
+orales o insulina. Un análisis de sangre llamado
+A1c
+puede comprobar cómo está manejando su diabetes.
+
+Groups:
+- Niños y adolescentes
+- Sistema endocrino
+- Diabetes mellitus
+
+Related Resources:
+
+Resource: Acantosis nigricans
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/acanthosis.html
+
+Resource: Alimentación saludable para niños con diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/meal-plans-diabetes.html
+
+Resource: Aplicar una inyección de insulina
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000660.htm
+
+Resource: Aumento de la diabetes en niños y adolescentes
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/aumento-de-la-diabetes-en-ninos-y-adolescentes
+
+Resource: Carbohidratos y la diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/carb-diabetes.html
+
+Resource: Comprender la diabetes
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/understanding-diabetes-video.html
+
+Resource: Conteo de carbohidratos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000321.htm
+
+Resource: Cuando usted se enferma a causa de la diabetes
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000079.htm
+
+Resource: Cuestionario de datos sobre la diabetes tipo 2
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/001214_63.htm
+
+Resource: Cuidados personales para la diabetes tipo 2
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000328.htm
+
+Resource: Cómo prevenir la diabetes: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/howtopreventdiabetes.html
+
+Resource: Diabetes
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001214.htm
+
+Resource: Diabetes tipo 1
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000305.htm
+
+Resource: Diabetes tipo 1: ¿Cuál es el tratamiento?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/treating-type1.html
+
+Resource: Diabetes tipo 1: ¿Qué es?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/type1.html
+
+Resource: Diabetes tipo 1: ¿Qué es?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/type1.html
+
+Resource: Diabetes tipo 2
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000313.htm
+
+Resource: Diabetes tipo 2: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000217.htm
+
+Resource: Diabetes tipo 2: ¿Qué tan saludable es su estilo de vida?
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000313_104.htm
+
+Resource: Diabetes y el ejercicio
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000083.htm
+
+Resource: Diabetes: Cómo afrontar los sentimientos
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/feelings-diabetes.html
+
+Resource: Diabetes: Cómo afrontar los sentimientos (para adolescentes)
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/feelings-diabetes.html
+
+Resource: El control del azúcar en sangre cuando su hijo tiene una diabetes tipo 1 (para padres)
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diabetes-control.html
+
+Resource: Examen de A1C
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003640.htm
+
+Resource: Examen de cetonas en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003498.htm
+
+Resource: Examen de cetonas en orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003585.htm
+
+Resource: Examen de glucemia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003482.htm
+
+Resource: Examen de microalbuminuria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003591.htm
+
+Resource: Examen del péptido C de insulina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003701.htm
+
+Resource: Hacer más llevaderos los pinchazos en los dedos y las inyecciones de insulina en los niños con diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/injections-tests.html
+
+Resource: Hiperglucemia y la diabetes (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hyperglycemia.html
+
+Resource: Hiperglucemia: Cuidados personales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000332.htm
+
+Resource: Ir a la escuela cuando tienes diabetes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/school-diabetes.html
+
+Resource: Manejo de la diabetes
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/manejo?dkrd=/health-information/informacion-de-la-salud/diabetes/informacion-general/control/4-pasos-controlar-vida+/health-information/informacion-de-la-salud/diabetes/informacion-general/control
+
+Resource: Manejo de la diabetes en la escuela
+Category: Viviendo con..., Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diabetes/es/caring/manejo-de-la-diabetes-en-la-escuela.html
+
+Resource: Mantenerse activo con diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000084.htm
+
+Resource: Mantenerte activo si tienes diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/sports-diabetes.html
+
+Resource: Medicamentos para la diabetes (para niños)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/medicines-diabetes.html
+
+Resource: Niños y diabetes: Alimentación saludable en los restaurantes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/eating-out-diabetes.html
+
+Resource: Planes de alimentación y la diabetes
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/meal-plans-diabetes.html
+
+Resource: Planificación de las comidas para la diabetes tipo 2
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007429.htm
+
+Resource: Prevenir la diabetes tipo 2 en los niños
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diabetes/es/prevention-type-2/prevenir-la-diabetes-tipo-2-en-los-ninos.html
+
+Resource: Prueba de cetonas en la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cetonas-en-la-orina/
+
+Resource: Prueba de cetonas en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cetonas-en-sangre/
+
+Resource: Prueba de hemoglobina glicosilada (HbA1c): Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/a1c.html
+
+Resource: Prueba de tolerancia a la glucosa - que no están embarazadas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003466.htm
+
+Resource: Pruebas y diagnóstico de la diabetes
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/pruebas-diagnostico
+
+Resource: Sobredosis de hipoglucémicos orales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002588.htm
+
+Resource: Tomar refrigerios cuando se tiene diabetes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000322.htm
+
+Resource: Tratamiento de la diabetes tipo 2
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/treating-type2.html
+
+Resource: Tratar la diabetes tipo 1 (para padres)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/treating-type1.html
+
+Resource: ¿Qué es la diabetes tipo 2?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/type2.html

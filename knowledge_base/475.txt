@@ -1,0 +1,279 @@
+Title: Endocrine Diseases
+
+Summary:
+Your endocrine system includes eight major glands throughout your body. These glands make
+hormones
+. Hormones are chemical messengers.  They travel through your bloodstream to tissues or organs. Hormones work slowly and affect body processes from head to toe. These include:
+Growth and development
+Metabolism - digestion, elimination, breathing, blood circulation and maintaining body temperature
+Sexual function
+Reproduction
+Mood
+If your hormone levels are too high or too low, you may have a hormone disorder. Hormone diseases also occur if your body does not respond to hormones the way it is supposed to.  Stress, infection and changes in your blood's
+fluid and electrolyte balance
+can also influence hormone levels.
+In the United States, the most common endocrine disease is
+diabetes
+. There are many others. They are usually treated by controlling how much hormone your body makes. Hormone supplements can help if the problem is too little of a hormone.
+
+Groups:
+- Endocrine System
+
+MeSH Headings:
+- Endocrine System Diseases
+
+Related Resources:
+
+Resource: 17-beta hydroxysteroid dehydrogenase 3 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiency
+
+Resource: 46,XX testicular difference of sex development: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/46xx-testicular-difference-of-sex-development/
+
+Resource: 5-alpha reductase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/5-alpha-reductase-deficiency
+
+Resource: Aromatase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aromatase-deficiency
+
+Resource: Aromatase excess syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aromatase-excess-syndrome
+
+Resource: Autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autoimmune-polyendocrinopathy-candidiasis-ectodermal-dystrophy
+
+Resource: Bisphenol A (BPA)
+Category: Related Issues
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/sya-bpa
+
+Resource: Carney Complex (CNC)
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/genetics/family-cancer-syndromes/carney-syndrome.html
+
+Resource: Central precocious puberty: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/central-precocious-puberty/
+
+Resource: Childhood Multiple Endocrine Neoplasia Type 1 (MEN1) Syndrome
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/multiple-endocrine-neoplasia/men-type-1-childhood
+
+Resource: Childhood Multiple Endocrine Neoplasia Type 2 (MEN2) Syndrome
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/multiple-endocrine-neoplasia/men-type-2-childhood
+
+Resource: ClinicalTrials.gov: Endocrine System Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Endocrine+System+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Multiple Endocrine Neoplasia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Multiple+Endocrine+Neoplasia%22&aggFilters=status:not%20rec
+
+Resource: Cytochrome P450 oxidoreductase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cytochrome-p450-oxidoreductase-deficiency
+
+Resource: Differences of sex development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001669.htm
+
+Resource: Endocrine Diseases
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases
+
+Resource: Endocrine Disruptors
+Category: Related Issues
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/endocrine
+
+Resource: Endocrine glands
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000048.htm
+
+Resource: Endocrine glands
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002351.htm
+
+Resource: Endocrine System
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Endocrine System (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/endocrine.html
+
+Resource: Endocrine-Disrupting Chemicals (EDCs)
+Category: Related Issues
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/edcs
+
+Resource: Familial male-limited precocious puberty: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-male-limited-precocious-puberty
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Gastrin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003697.htm
+
+Resource: Glucagon blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003716.htm
+
+Resource: Hyperinsulinemia: Is It Diabetes?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/expert-answers/hyperinsulinemia/faq-20058488?p=1
+
+Resource: Hypogonadism
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001195.htm
+
+Resource: Hypogonadism in Men
+Category: Men
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism
+
+Resource: Hypogonadotropic hypogonadism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000390.htm
+
+Resource: Isolated growth hormone deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-growth-hormone-deficiency
+
+Resource: Kallmann syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/kallmann-syndrome
+
+Resource: Leydig cell hypoplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/leydig-cell-hypoplasia
+
+Resource: LH response to GnRH blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003709.htm
+
+Resource: Male Hypogonadism
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/male-hypogonadism/symptoms-causes/syc-20354881?p=1
+
+Resource: McCune-Albright syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001217.htm
+
+Resource: McCune-Albright syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mccune-albright-syndrome
+
+Resource: Multiple endocrine neoplasia (MEN) I
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000398.htm
+
+Resource: Multiple endocrine neoplasia (MEN) II
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000399.htm
+
+Resource: Multiple Endocrine Neoplasia (MEN) Syndromes
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/multiple-endocrine-neoplasia
+
+Resource: Multiple Endocrine Neoplasia Type I
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/multiple-endocrine-neoplasia-type-1
+
+Resource: Multiple endocrine neoplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-endocrine-neoplasia
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Overview of Endocrine Disruption
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/endocrine-disruption/overview-endocrine-disruption
+
+Resource: Overview of the Endocrine System
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/endocrine-disruption/overview-endocrine-system
+
+Resource: Endocrine diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Endocrine+System+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Swyer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/swyer-syndrome
+
+Resource: Woodhouse-Sakati syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/woodhouse-sakati-syndrome
+
+Resource: Your Endocrine System (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/endocrine.html
+
+Resource: Zollinger-Ellison Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/zollinger-ellison-syndrome
+
+Resource: Zollinger-Ellison syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000325.htm

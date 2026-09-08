@@ -1,0 +1,214 @@
+Title: Cáncer de hueso
+
+Also Called:
+- Cáncer óseo
+
+Summary:
+Es raro que un cáncer empiece su desarrollo en el hueso. Es más común que el cáncer se haya diseminado al hueso desde otras partes del cuerpo.
+Existen tres tipos de cáncer óseo:
+Osteosarcoma: generalmente, se desarrolla entre los 10 y 19 años de edad y ocurre más comúnmente en la rodilla o en la parte superior del brazo
+Condrosarcoma: comienza en el cartílago, por lo general después de los 50 años de edad
+Sarcoma de Ewing: ocurre más frecuentemente en niños y adolescentes varones menores de 19 años.
+El síntoma más común del cáncer de hueso es el dolor. Otros síntomas varían dependiendo de la ubicación y el tamaño del cáncer. La cirugía suele ser el tratamiento habitual. Otros tratamientos pueden incluir amputación, quimioterapia y radiación. Debido a que el cáncer de hueso puede volver después del tratamiento, es importante que se realicen visitas regulares de seguimiento.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (osteosarcoma e histiocitoma fibroso maligno óseo)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-osteosarcoma-pdq#section/_46
+
+Resource: Aspectos generales de las opciones de tratamiento (sarcoma de Ewing)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-ewing-pdq#section/_46
+
+Resource: Biopsia de huesos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonebiopsy
+
+Resource: Biopsia de lesión ósea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003923.htm
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cirugía para el cáncer de hueso
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/tratamiento/cirugia.html
+
+Resource: Cáncer infantil: Osteosarcoma
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cancer-osteosarcoma.html
+
+Resource: Cáncer primario de hueso
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/hoja-informativa-hueso
+
+Resource: Cómo entender el cáncer avanzado, el cáncer metastásico y la metástasis en los huesos
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/cancer-avanzado/que-es.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del osteosarcoma y el histiocitoma fibroso maligno óseo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-osteosarcoma-pdq#section/_22
+
+Resource: Estadios del sarcoma de Ewing
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-ewing-pdq#section/_22
+
+Resource: Etapas del cáncer de hueso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/deteccion-diagnostico-clasificacion-por-etapas/clasificacion-por-etapas.html
+
+Resource: Factores de riesgo para el cáncer de hueso
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Gammagrafía ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/bone-scan/about/pac-20393136?p=1
+
+Resource: Gammagrafía ósea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003833.htm
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el osteosarcoma y el histiocitoma fibroso maligno óseo
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-osteosarcoma-pdq#_1
+
+Resource: Información general sobre el sarcoma de Ewing
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-ewing-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Metástasis ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bone-metastasis/symptoms-causes/syc-20370191?p=1
+
+Resource: Osteosarcoma
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001650.htm
+
+Resource: Prueba genética TP 53 (proteína tumoral 53)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-genetica-tp-53-proteina-tumoral-53/
+
+Resource: Pruebas para encontrar el cáncer de hueso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radiografía de hueso
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003808.htm
+
+Resource: Radiografía de la columna torácica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003806.htm
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Sarcoma de Ewing
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001302.htm
+
+Resource: Signos y síntomas del cáncer de hueso
+Category: Spanish/Español, Síntomas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/deteccion-diagnostico-clasificacion-por-etapas/senales-sintomas.html
+
+Resource: Síndrome de Li-Fraumeni
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11860/sindrome-de-li-fraumeni/
+
+Resource: Tratamiento del cordoma infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/hueso/paciente/tratamiento-cordoma-infantil-pdq
+
+Resource: Tumor óseo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001230.htm
+
+Resource: Vertebroplastía y cifoplastía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/vertebro
+
+Resource: Vida después del diagnóstico de cáncer de hueso
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: ¿Qué avances hay en la investigación y el tratamiento del cáncer de hueso?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/acerca/nuevas-investigaciones.html
+
+Resource: ¿Qué es el cáncer de hueso?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-hueso/acerca/que-es-cancer-de-hueso.html

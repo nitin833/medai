@@ -1,0 +1,168 @@
+Title: Sports Safety
+
+Summary:
+Playing sports can be fun, but it can also be dangerous if you are not careful. You can help prevent injuries by:
+Getting a physical to make sure you are healthy before you start playing your sport
+Wearing the right shoes, gear, and equipment
+Drinking lots of water
+Warming up and stretching
+If you have already hurt yourself playing a sport, make sure you recover completely before you start up again.  If possible, protect the injured part of your body with padding, a brace, or special equipment. When you do start playing again, start slowly.
+
+Groups:
+- Safety Issues
+- Fitness and Exercise
+
+MeSH Headings:
+- Sports
+- Safety
+
+Related Resources:
+
+Resource: American College of Sports Medicine
+Category: Find an Expert
+Organization: American College of Sports Medicine
+URL: https://acsm.org
+
+Resource: Back pain and sports
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000519.htm
+
+Resource: Baseball Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-baseball.html
+
+Resource: Basketball Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-basketball.html
+
+Resource: Bike Safety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/bike-safety.html
+
+Resource: ClinicalTrials.gov: Bicycling
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bicycling%22&aggFilters=status:not%20rec
+
+Resource: Creating Healthy Environments for Youth Athletes
+Category: Teenagers
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/children/creating-healthy-environments-youth-athletes
+
+Resource: Exercising Outdoors: Safety Tips for Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/exercise-and-physical-activity/safety-tips-exercising-outdoors-older-adults
+
+Resource: Football Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-football.html
+
+Resource: Golf Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-golf.html
+
+Resource: Hockey Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-hockey.html
+
+Resource: How to avoid exercise injuries
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000859.htm
+
+Resource: How to Prevent Skin Conditions in Athletes
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/everyday-care/skin-care-secrets/routine/preventing-athletic-skin-infections?NoAds
+
+Resource: Playing Outside in Winter: Tips to Keep Kids Warm and Safe
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Winter-Safety.aspx
+
+Resource: Protective Eyewear
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/protective-eyewear
+
+Resource: Sports Safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Safety%22%5Bmajr%5D+AND+%22Sports%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Returning to sports after a back injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000518.htm
+
+Resource: Running Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-running.html
+
+Resource: Safety Guidelines: Helmets
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heads-up/safety/index.html
+
+Resource: Safety Tips: Fastpitch Softball
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-fastpitch.html
+
+Resource: Soccer Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-soccer.html
+
+Resource: Sports and Exercise Safety
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sport-safety.html
+
+Resource: Sports and Eye Safety: Tips for Parents and Teachers
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work/sports-and-eye-safety-tips-parents-and-teachers
+
+Resource: Sports and Your Eyes
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/sports-and-your-eyes
+
+Resource: Sports physical
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000673.htm
+
+Resource: Stay Safe During Physical Activity
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/getting-active/physical-activity-safety
+
+Resource: Swimming Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-swimming.html
+
+Resource: Tennis Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-tennis.html
+
+Resource: Tips to Prevent Sports Injuries in Children and Teens
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/sports-injuries/Pages/Sports-Injuries-Treatment.aspx
+
+Resource: Volleyball Safety Tips
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/safety-volleyball.html

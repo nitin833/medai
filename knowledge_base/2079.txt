@@ -1,0 +1,144 @@
+Title: Enfermedades de la paratiroides
+
+Summary:
+La mayoría de las personas tiene cuatro glándulas del tamaño de un guisante, llamadas paratiroides, sobre la glándula tiroides que se encuentra en el cuello. Aunque sus nombres son similares, las tiroides y las paratiroides son completamente diferentes. Las glándulas paratiroides producen la hormona paratiroidea (PTH, por sus siglas en inglés), que ayuda al cuerpo a mantener el equilibrio entre el calcio y el fósforo.
+Si las glándulas paratiroideas producen cantidades excesivas o muy bajas de hormona, alteran el equilibrio. Si segregan demasiada PTH, el cuadro se denomina hiperparatiroidismo y el nivel de calcio en la sangre aumenta. En muchos casos, un tumor benigno (no canceroso) en las paratiroides aumenta su actividad. En otros casos, el exceso de hormonas puede provenir de glándulas paratiroides aumentadas de tamaño. En muy raros casos, la causa es un cáncer.
+Si no se produce suficiente cantidad de PTH, el cuadro se denomina hipoparatiroidismo. La sangre tendrá muy poco calcio y una excesiva cantidad de fósforo. Entre las causas se encuentran las lesiones de las glándulas, los
+trastornos endocrinos
+o los cuadros genéticos. El tratamiento se enfoca en recuperar el equilibrio entre el calcio y el fósforo.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Adenoma paratiroideo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001188.htm
+
+Resource: Alta tras hipercalciemia
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000044.htm
+
+Resource: Alteración del metabolismo mineral óseo en la enfermedad renal crónica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/alteracion-metabolismo-mineral-oseo
+
+Resource: Aspectos generales de las opciones de tratamiento de cáncer de paratiroides
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/paratiroides/paciente/tratamiento-paratiroides-pdq#_46
+
+Resource: Calcio en la orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003603.htm
+
+Resource: Calcio ionizado
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003486.htm
+
+Resource: Cáncer de paratiroides
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007264.htm
+
+Resource: Estadios del cáncer de paratiroides
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/paratiroides/paciente/tratamiento-paratiroides-pdq#_22
+
+Resource: Examen de calcio en la sangre
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003477.htm
+
+Resource: Examen de fósforo en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003478.htm
+
+Resource: Examen de hormona paratiroidea (PTH) en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003690.htm
+
+Resource: Examen de proteína relacionada con la hormona paratiroidea en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003691.htm
+
+Resource: Extirpación de las glándulas paratiroideas
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002931.htm
+
+Resource: Hipercalcemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000365.htm
+
+Resource: Hiperparatiroidismo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001215.htm
+
+Resource: Hiperplasia paratiroidea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001189.htm
+
+Resource: Hipoparatiroidismo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000385.htm
+
+Resource: Información general sobre el cáncer de paratiroides
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/paratiroides/paciente/tratamiento-paratiroides-pdq
+
+Resource: Osteítis fibrosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001252.htm
+
+Resource: Paratiroidectomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100093_1.htm
+
+Resource: Prueba de calcio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-la-sangre/
+
+Resource: Prueba de calcio en orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-orina/
+
+Resource: Prueba de fosfato en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-fosfato-en-la-sangre/
+
+Resource: Prueba de hormona paratiroidea (PTH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-hormona-paratiroidea-pth/
+
+Resource: Prueba de vitamina D
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-vitamina-d/
+
+Resource: Sistema endocrino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/endocrine.html

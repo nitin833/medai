@@ -1,0 +1,178 @@
+Title: Obesity in Children
+
+Summary:
+Obesity
+means having too much body fat. It is different from being overweight, which means weighing too much. Both terms mean that a person's weight is greater than what's considered healthy for his or her height.  Children grow at different rates, so it isn't always easy to know when a child has obesity or is overweight. Ask your health care provider to check whether your child's weight and height are in a healthy range.
+If a weight-loss program is necessary, involve the whole family in healthy habits so your child doesn't feel singled out.  Encourage healthy eating by:
+Serving more fruits and vegetables
+Buying fewer soft drinks and high-fat, high-calorie snack foods
+Making sure your child eats breakfast every day
+Eating fast food less often
+Not using food as a reward
+Physical activity is also very important. Kids need about 60 minutes each day. It does not have to happen all at once. Several short periods of activity during the day are just as good.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Children and Teenagers
+- Food and Nutrition
+- Metabolic Problems
+
+MeSH Headings:
+- Pediatric Obesity
+- Obesity
+
+Related Resources:
+
+Resource: Child and Teen BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/child-teen-calculator/index.html
+
+Resource: Child and Teen BMI Categories
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/child-teen-calculator/bmi-categories.html
+
+Resource: Childhood Obesity
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/childhood-obesity/symptoms-causes/syc-20354827?p=1
+
+Resource: Childhood Obesity Facts
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/obesity/childhood-obesity-facts/childhood-obesity-facts.html
+
+Resource: ClinicalTrials.gov: Obesity in Children
+Category: Clinical Trials
+Organization: National Library of Medicine
+URL: https://clinicaltrials.gov/search?cond=obesity&aggFilters=ages:child,status:not%20rec
+
+Resource: Dealing with Feelings When You're Overweight
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/feelings-overweight.html
+
+Resource: Emotional Toll of Obesity
+Category: Living With
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/obesity/pages/The-Emotional-Toll-of-Obesity.aspx
+
+Resource: FastStats: Obesity and Overweight
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/obesity-overweight.htm
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Growth chart
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001910.htm
+
+Resource: Heart-Healthy Living - For Children
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/children
+
+Resource: Help Your Child Stay at a Healthy Weight
+Category: Prevention and Risk Factors
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/health-conditions/obesity/help-your-child-stay-healthy-weight
+
+Resource: Helping Kids Build Healthy Active Lives: AAP Policy Explained
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/obesity/Pages/obesity-prevention-aap-policy-explained.aspx
+
+Resource: Helping Your Child Who Is Overweight
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight
+
+Resource: How Are Obesity and Overweight Diagnosed?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/obesity/conditioninfo/diagnosed
+
+Resource: Impact of Childhood Obesity and Type2 Diabetes on Child Health
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://www.nemours.org/content/dam/nemours/shared/collateral/policy-briefs/impact-of-childhood-obesity-and-type-2-diabetes-on-child-health.pdf
+
+Resource: Is Weight-Loss Surgery Right for My Child?
+Category: Treatments and Therapies
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/obesity/Pages/Weight-Loss-Surgery.aspx
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Obesity in children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007508.htm
+
+Resource: Obesity Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/obesity-screening/
+
+Resource: Overweight and Obesity
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/overweight-obesity.html?ref=
+
+Resource: Overweight and Obesity Statistics
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity
+
+Resource: Preventing Childhood Obesity: 6 Things Families Can Do
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/obesity/family-action/
+
+Resource: Proopiomelanocortin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/proopiomelanocortin-deficiency/
+
+Resource: Obesity in Children
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pediatric+Obesity%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+OR+%22Obesity%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stature-for-Age and Weight-for-Age Percentiles: Boys, 2 to 20 Years
+Category: Diagnosis and Tests
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/growthcharts/data/set1clinical/cj41c021.pdf
+
+Resource: Stature-for-Age and Weight-for-Age Percentiles: Girls 2 to 20 Years
+Category: Diagnosis and Tests
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/growthcharts/data/set1clinical/cj41c022.pdf
+
+Resource: Take Charge of Your Health: A Guide for Teenagers
+Category: Teenagers
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers
+
+Resource: Weight Control: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/weightcontrol.html
+
+Resource: What Being Overweight Means
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/overweight.html

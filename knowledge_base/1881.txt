@@ -1,0 +1,110 @@
+Title: Lesiones y enfermedades del codo
+
+Summary:
+La articulación del codo se compone del hueso, cartílago, ligamentos y líquidos. Los músculos y los tendones ayudan a que el codo se mueva en su articulación. Cuando alguna de estas estructuras se lastima o se enferma, surgen los problemas en el codo.
+Hay muchas cosas que pueden ocasionar dolor en el codo. Una causa común es la
+tendinitis
+, una inflamación o lesión de los tendones que unen los músculos al hueso. La tendinitis del codo es una
+lesión deportiva
+, con frecuencia por jugar tenis o golf. También puede ocurrir una tendinitis por usar excesivamente el codo.
+Otras causas de dolor en el codo incluyen distensiones, torceduras, fracturas, dislocaciones,
+bursitis
+y
+artritis
+. El tratamiento dependerá de la causa.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Alta tras artroplastia del codo
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000195.htm
+
+Resource: Alta tras cirugía de epicondilitis humeral
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000657.htm
+
+Resource: Artrografía directa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Artroplastia del codo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007258.htm
+
+Resource: Cirugía para el codo de tenista
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007590.htm
+
+Resource: Codo de tenista
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000449.htm
+
+Resource: Compresión del nervio cubital en el codo (síndrome del túnel cubital)
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/atrapamiento-del-nervio-cubital-en-el-codo-sindrome-del-tunel-cubital-ulnar-nerve-entrapment-at-the-elbow/
+
+Resource: Dolor de codo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003172.htm
+
+Resource: Dolor en el codo
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/elbow-pain/basics/definition/sym-20050874?p=1
+
+Resource: Enfermedad de Panner
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/panners-disease.html
+
+Resource: Epicondilitis medial (codo de golfista)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007638.htm
+
+Resource: Esguince de codo: Postratamiento
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000679.htm
+
+Resource: Fracturas de los codos en los niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/fracturas-de-los-codos-en-los-ninos-elbow-fractures-in-children
+
+Resource: Fracturas del codo
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/fracturas/fracturas-del-codo
+
+Resource: Osteocondritis disecante (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/osteochondritis-dissecans.html
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Resonancia magnética del brazo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007358.htm
+
+Resource: Subluxación de la cabeza del radio (codo dislocado)
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000983.htm

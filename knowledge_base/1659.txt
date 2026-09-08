@@ -1,0 +1,125 @@
+Title: Home Care Services
+
+Also Called:
+- In-home care
+
+Summary:
+Home care is care that allows a person with special needs to stay in their home. It might be for people who are getting older (aging in place). It could also be for people who are chronically ill, recovering from surgery, or
+have a disability
+. Home care services include:
+Personal care, such as help with bathing, washing your hair, or getting dressed
+Household chores, such as cleaning, yard work, and laundry
+Cooking for you in your home or delivering meals to you
+Money management, such as help filling out forms and making sure that your bills are paid on time
+Health care, such as having a home health aide come to your home or getting care from your provider through
+telehealth
+You can get almost any type of help you want in your home. You have to pay for many of them. But some types of care and community services are free or donated. Sometimes government programs or your health insurance will help cover the cost of certain home care services.
+NIH: National Institute on Aging
+
+Groups:
+- Older Adults
+- Health System
+
+MeSH Headings:
+- Home Care Services
+
+Related Resources:
+
+Resource: Adult Day Care
+Category: Related Issues
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/Adult_Day_Care_1.pdf
+
+Resource: Adult Day Services
+Category: Related Issues
+Organization: National Adult Day Services Association
+URL: https://www.nadsa.org/wp-content/uploads/2011/05/Adult-Day-Services-At-a-Glance-nadsa.pdf
+
+Resource: Brochure - Home Healthcare Medical Devices: A Checklist
+Category: Patient Handouts, Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/home-health-and-consumer-devices/brochure-home-healthcare-medical-devices-checklist
+
+Resource: ClinicalTrials.gov: Home Care Services
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Home+Care+Services%22&aggFilters=status:not%20rec
+
+Resource: Dementia - home care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007428.htm
+
+Resource: FastStats: Adult Day Services Centers
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/adsc.htm
+
+Resource: FastStats: Home Health Care
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/home-health-care.htm
+
+Resource: Find Home Health Services
+Category: Find an Expert
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/care-compare/?providerType=HomeHealth
+
+Resource: Find Meals and Services Near You
+Category: Find an Expert
+Organization: Meals on Wheels America
+URL: https://www.mealsonwheelsamerica.org/find-meals-and-services/
+
+Resource: Home Health Care
+Category: Start Here
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/Home_Health_Care.pdf
+
+Resource: Home Health Care
+Category: Start Here
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/age-friendly-healthcare-you/care-settings/home-health-care
+
+Resource: Home health care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000434.htm
+
+Resource: Home Modifications
+Category: Specifics
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/Home_Modification.pdf
+
+Resource: Hospice Care: Comfort at the End of Life
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://newsnetwork.mayoclinic.org/discussion/hospice-care-comforting-the-terminally-ill/
+
+Resource: Infusion Pumps: Tips for Using Your Pump at Home
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/infusion-pumps/infusion-pumps-tips-using-your-pump-home
+
+Resource: Long-term care
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/long-term-care
+
+Resource: Medicare: Find and Compare Health Care Providers
+Category: Find an Expert
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/care-compare/
+
+Resource: National Post-Acute and Long-Term Care Study
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/npals/
+
+Resource: Home Care Services
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Home+Care+Services%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Telehealth: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/telehealth.html

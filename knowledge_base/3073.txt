@@ -1,0 +1,185 @@
+Title: Talking With Your Doctor
+
+Summary:
+How well you and your doctor or provider communicate with each other is one of the most important parts of getting good health care. Being prepared can help you make the most of your visit, whether it is in person or through
+telehealth
+. Here are some things you can do to make the most of your appointment:
+Make lists of any allergies you have and all the medicines,
+herbs
+,
+vitamins
+, and
+supplements
+you take.
+Make a list of the questions and concerns you want to talk about.
+If you are having any health problems, write down a description of your symptoms. Include information such as when they started, what makes them better, and what makes them worse.
+Ask a trusted friend or family member to come to the appointment with you.
+If your doctor or provider doesn't speak your language, call their office ahead of time and ask them to provide an interpreter.
+During your appointment, take notes about what your doctor or health care provider tells you. Or you could ask your friend or family member to take notes for you.
+Be honest during your appointment. Don't just say what you think your doctor or provider wants to hear. For example, don't say that you stopped smoking or are eating healthy if it's not true. Your doctor or provider needs to know what is really going on, so they can give you the care and treatments that would be best for you.
+If you don't understand something your doctor or provider says, ask questions until you do understand.
+Ask for written instructions if you need them.
+Learn how to access your medical records, so you can keep track of your test results, diagnoses, treatment plans, and medicines.
+Ask for your doctor's or provider's contact information and find out the best way to communicate with them.
+Find out what to do if you need more information later.
+
+Groups:
+- Social/Family Issues
+- Health System
+- Personal Health Issues
+
+MeSH Headings:
+- Physician-Patient Relations
+- Dentist-Patient Relations
+- Nurse-Patient Relations
+
+Related Resources:
+
+Resource: 4 Tips: Start Talking with Your Health Care Providers about Complementary Health Approaches
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/tips-start-talking-with-your-health-care-providers-about-complementary-health-approaches
+
+Resource: Be More Engaged in Your Healthcare
+Category: Related Issues
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/be-engaged/index.html
+
+Resource: ClinicalTrials.gov: Nurse-Patient Relations
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nurse-Patient+Relations%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Physician-Patient Relations
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=physician+patient+AND+(relations+OR+communication)&aggFilters=status:not%20rec
+
+Resource: Getting Health Visits in Your Preferred Language
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/health-care-language.html
+
+Resource: Getting the Most From a Doctor's Visit
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/talk-doctor.html
+
+Resource: Getting the Most Out of Your Doctor Appointment
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/tips-for-talking-to-your-doctor/
+
+Resource: How Can I See My Doctor Without My Parents?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/doctor-alone.html
+
+Resource: How to Choose a Doctor You Can Talk to
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/medical-care-and-appointments/how-choose-doctor-you-can-talk
+
+Resource: How to Prepare for a Doctor's Appointment
+Category: Health Check Tools
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/medical-care-and-appointments/how-prepare-doctors-appointment
+
+Resource: Living Well with a Serious Illness
+Category: Related Issues
+Organization: American College of Physicians
+URL: https://www.acponline.org/sites/default/files/documents/patients_families/end_of_life_issues/peace/serious_ill.pdf
+
+Resource: Living with Multiple Health Problems: What Older Adults Should Know
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-living-multiple-health-problems-what-older-adults-should-know
+
+Resource: Make the most of your doctor visit
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000860.htm
+
+Resource: Medical Care and Appointments
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/medical-care-and-appointments
+
+Resource: Talking With Your Doctor
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dentist-Patient+Relations%22%5Bmajr%3Anoexp%5D+OR+%22Nurse-Patient+Relations%22%5Bmajr%3Anoexp%5D+OR+%22Physician-Patient+Relations%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: QuestionBuilder App
+Category: Health Check Tools
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/question-builder/index.html
+
+Resource: Questions Are the Answer
+Category: Start Here
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/index.html
+
+Resource: Second Surgical Opinions
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/second-surgical-opinions
+
+Resource: Shared decision making
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000877.htm
+
+Resource: Some Common Abbreviations
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/appendixb.html
+
+Resource: Talking to Your Doctor (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/talk-doctor.html
+
+Resource: Talking with Your Doctor or Health Care Provider
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/clear-communication/talking-your-doctor-or-health-care-provider
+
+Resource: Talking with Your Doctor: Make the Most of Your Appointment
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/12/talking-your-doctor
+
+Resource: Talking with Your Eye Doctor
+Category: Start Here
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/finding-eye-doctor/talking-your-eye-doctor
+
+Resource: Telehealth: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/telehealth.html
+
+Resource: Understanding Medical Words: A Tutorial from the National Library of Medicine
+Category: Videos and Tutorials
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medwords/medicalwords.html
+
+Resource: What Do I Need to Tell the Doctor?
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/medical-care-and-appointments/what-do-i-need-tell-doctor
+
+Resource: What Should I Ask My Doctor during a Checkup?
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/medical-care-and-appointments/what-should-i-ask-my-doctor-during-checkup
+
+Resource: When you feel like changing your medicine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000616.htm
+
+Resource: Word Parts and What They Mean
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/appendixa.html

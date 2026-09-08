@@ -1,0 +1,205 @@
+Title: Autonomic Nervous System Disorders
+
+Also Called:
+- Dysautonomia
+
+Summary:
+Your autonomic nervous system is the part of your nervous system that controls involuntary actions, such as the beating of your heart and the widening or narrowing of your blood vessels. When something goes wrong in this system, it can cause serious problems, including:
+Blood pressure problems
+Heart problems
+Trouble with breathing and swallowing
+Erectile dysfunction in men
+Autonomic nervous system disorders can occur alone or as the result of another disease, such as
+Parkinson's disease
+, alcoholism and diabetes. Problems can affect either part of the system, as in
+complex regional pain syndromes
+, or all of the system. Some types are temporary, but many worsen over time. When they affect your breathing or heart function, these disorders can be life-threatening.
+Some autonomic nervous system disorders get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Autonomic Nervous System Diseases
+
+Related Resources:
+
+Resource: Anisocoria and Horner's Syndrome
+Category: Children
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/anisocoria-and-horners-syndrome
+
+Resource: Autonomic dysreflexia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001431.htm
+
+Resource: Autonomic Neuropathy
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/autonomic-neuropathy/symptoms-causes/syc-20369829?p=1
+
+Resource: Autonomic neuropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000776.htm
+
+Resource: Autonomic Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/autonomic-testing/
+
+Resource: Autosomal dominant leukodystrophy with autonomic disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-leukodystrophy-with-autonomic-disease
+
+Resource: Central Hypoventilation Syndrome, Congenital, 1, with or without Hirschsprung Disease
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/8535/congenital-central-hypoventilation-syndrome
+
+Resource: ClinicalTrials.gov: Autonomic Nervous System Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Autonomic+Nervous+System+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypotension, Orthostatic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypotension,+Orthostatic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Multiple System Atrophy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Multiple+System+Atrophy%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Postural Orthostatic Tachycardia Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Postural+Orthostatic+Tachycardia+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Cold-induced sweating syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cold-induced-sweating-syndrome
+
+Resource: Congenital central hypoventilation syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-central-hypoventilation-syndrome
+
+Resource: Dopamine beta-hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dopamine-beta-hydroxylase-deficiency
+
+Resource: Familial dysautonomia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001387.htm
+
+Resource: Familial dysautonomia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-dysautonomia
+
+Resource: Holmes-Adie Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/5749/holmes-adie-syndrome
+
+Resource: Horner Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/horner-syndrome/symptoms-causes/syc-20373547?p=1
+
+Resource: Horner syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000708.htm
+
+Resource: Horner syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/horner-syndrome
+
+Resource: Multiple System Atrophy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/multiple-system-atrophy
+
+Resource: Multiple system atrophy - parkinsonian type
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000757.htm
+
+Resource: Multiple system atrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/multiple-system-atrophy
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Orthostatic Hypotension (Postural Hypotension)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/orthostatic-hypotension/symptoms-causes/syc-20352548?p=1
+
+Resource: Orthostatic hypotension: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/orthostatic-hypotension
+
+Resource: Overview of the Autonomic Nervous System
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/autonomic-nervous-system-disorders/overview-of-the-autonomic-nervous-system
+
+Resource: Postural Orthostatic Tachycardia Syndrome (POTS) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pots.html
+
+Resource: Postural Tachycardia Syndrome (POTS)
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/postural-tachycardia-syndrome-pots
+
+Resource: Non-familial dysautonomia and orthostatic hypotension
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Autonomic+Nervous+System+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pure Autonomic Failure
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/10428/pure-autonomic-failure/
+
+Resource: Recognizing POTS: Learn to Spot This Mysterious Condition
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/09/recognizing-pots
+
+Resource: Stüve-Wiedemann syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stuve-wiedemann-syndrome
+
+Resource: Transthyretin amyloidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/transthyretin-amyloidosis
+
+Resource: Triple A syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/triple-a-syndrome
+
+Resource: Tyrosine hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tyrosine-hydroxylase-deficiency

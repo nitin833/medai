@@ -1,0 +1,169 @@
+Title: Sprains and Strains
+
+Summary:
+A sprain is a stretched or torn ligament. Ligaments are tissues that connect bones at a joint. Falling, twisting, or getting hit can all cause a sprain.
+Ankle
+and
+wrist
+sprains are common. Symptoms include pain, swelling, bruising, and being unable to move your joint. You might feel a pop or tear when the injury happens.
+A strain is a stretched or torn muscle or tendon. Tendons are tissues that connect muscle to bone. Twisting or pulling these tissues can cause a strain. Strains can happen suddenly or develop over time. Back and hamstring muscle strains are common. Many people get strains playing sports. Symptoms include pain, muscle spasms, swelling, and trouble moving the muscle.
+At first, treatment of both sprains and strains usually involves resting the injured area, icing it, wearing a bandage or device that compresses the area, and medicines. Later treatment might include exercise and physical therapy.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Sprains and Strains
+
+Related Resources:
+
+Resource: Ankle sprain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000574.htm
+
+Resource: Ankle Sprain Treatment
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/sports-injuries/Pages/Ankle-Sprain-Treatment.aspx
+
+Resource: Ankle Sprains
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ankle-sprains.html
+
+Resource: ClinicalTrials.gov: Sprains and Strains
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Sprains+and+Strains%22&aggFilters=status:not%20rec
+
+Resource: Elbow sprain -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000679.htm
+
+Resource: Foot sprain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000652.htm
+
+Resource: Hamstring Injury
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hamstring-injury/symptoms-causes/syc-20372985?p=1
+
+Resource: Hamstring strain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000551.htm
+
+Resource: Hip flexor strain -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000682.htm
+
+Resource: How to Care for a Sprained Ankle
+Category: Treatments and Therapies
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/resources/how-to-help/how-to-care-for-a-sprained-ankle
+
+Resource: How to Strengthen Your Ankle after a Sprain
+Category: Living With
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/resources/how-to-help/how-to-strengthen-your-ankle-after-a-sprain
+
+Resource: How to Stretch Your Ankle after a Sprain
+Category: Living With
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/resources/how-to-help/how-to-stretch-your-ankle-after-a-sprain
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: Musculoskeletal MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/muscmr
+
+Resource: Musculoskeletal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/musculous
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Sprains and Strains
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sprains+and+Strains%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sports Injuries
+Category: Related Issues
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/sports-injuries
+
+Resource: Sprained Thumb
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/sprained-thumb
+
+Resource: Sprains
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sprains/symptoms-causes/syc-20377938?p=1
+
+Resource: Sprains
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000041.htm
+
+Resource: Strains
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000042.htm
+
+Resource: Strains and Sprains
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/strains-sprains-sheet.html
+
+Resource: Strains and Sprains
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/strains-sprains.html
+
+Resource: Strains and Sprains (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/strains-sprains.html
+
+Resource: Stretching: Focus on Flexibility
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/stretching/art-20047931?p=1
+
+Resource: Tendon repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002970.htm
+
+Resource: Whiplash
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/whiplash/symptoms-causes/syc-20378921?p=1
+
+Resource: Wrist sprain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000568.htm
+
+Resource: Wrist Sprains
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/wrist-sprains/

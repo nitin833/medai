@@ -1,0 +1,184 @@
+Title: Disabilities
+
+Summary:
+What are disabilities?
+A disability is any condition of your body or mind that makes it more difficult for you to do one or more major life activities and interact with the world around you.
+There are many types of disabilities, such as those that can affect your:
+Vision
+Hearing
+Movement
+Thinking
+Remembering
+Learning
+Communicating
+Development
+Mental health
+Social relationships
+More than 1 in 4 adults in the United States have some type of disability. Even though they all have disabilities, they can have a wide range of needs. For example, even people who have same type of disability can be affected in very different ways. Also, some disabilities are "visible" (easy to see), for example when someone is in a wheelchair. But other disabilities are "invisible" (hidden or not easy to see), such as problems with hearing, thinking, or learning.
+What causes disabilities?
+Disabilities can have different causes. Some disabilities are present at birth, while others may happen later in life.
+Causes of disabilities that are present at birth can include:
+Disorders in single genes
+, such as Duchenne
+muscular dystrophy
+Disorders of chromosomes, such as
+Down syndrome
+Exposures (before birth) to
+infections
+or
+substances
+, such as drugs, alcohol, or cigarettes
+Causes of disabilities that happen later in life can include:
+Injuries, such as
+spinal cord injuries
+,
+traumatic brain injuries
+(TBIs), and
+back injuries
+Chronic (long-lasting) diseases, such as
+diabetes
+,
+heart disease
+,
+kidney disease
+,
+COPD
+, and
+arthritis
+Cancer
+Mental health problems
+Stroke
+Alzheimer's disease
+and other causes of
+dementia
+How can disabilities affect your health?
+Having a disability does not mean a person cannot be healthy. In fact, many people with disabilities report that their health as good or better. But they may have or be at risk of health problems related to their disability, called "secondary conditions." These conditions may include:
+Bowel
+or
+bladder
+problems
+Chronic pain
+Diabetes
+Fatigue
+Heart disease
+Injuries
+Mental health problems, including
+depression
+and
+substance use disorders
+Overweight and
+obesity
+Pressure sores
+or ulcers
+Many of these conditions can be prevented, and there are treatments for them. It's also important for people with disabilities to get health care that meets their needs as a whole person, not just as a person with a disability.
+How can people with disabilities get and stay healthy?
+Just like for people who don't have a disability, having a healthy lifestyle is important for people who do have a disability. A healthy lifestyle includes:
+Getting regular physical activity
+Eating
+healthy foods
+in healthy portions
+Limiting
+sun exposure
+and using sunscreen to prevent
+skin cancer
+Not smoking, and if needed, getting help to
+quit smoking
+Using medicines wisely
+Not drinking
+alcohol
+or drinking in moderation
+Getting help for any substance use or mental health problems
+Staying in touch with family and friends
+What kinds of resources are there for people with disabilities?
+Managing a disability can sometimes be challenging. There are resources that can help:
+Assistive devices
+and
+mobility aids
+can make daily tasks easier.
+Schools can develop plans around the specific needs of a child with a disability. The goal of the plans is to give the child an opportunity to perform at the same level as other children their age.
+Support networks, such as disability organizations, can help you learn more about resources for you and your family. Support groups can help you connect with other people who have the same disability. They can provide emotional and social support. They are also a place where people can share tips about how to deal with day-to-day challenges.
+Government programs may provide benefits, job training, employment resources, and protection against discrimination.
+Centers for Disease Control and Prevention
+
+Groups:
+- Social/Family Issues
+
+MeSH Headings:
+- Health Services for Persons with Disabilities
+- Persons with Disabilities
+
+Related Resources:
+
+Resource: AAAs (Area Agencies on Aging) & Title VI Aging Programs
+Category: Find an Expert
+Organization: USAging
+URL: https://www.usaging.org/ourmembers
+
+Resource: Benefits for Children with Disabilities
+Category: Children
+Organization: Social Security Administration
+URL: https://www.ssa.gov/pubs/EN-05-10026.pdf
+
+Resource: Caring for Siblings of Kids with Disabilities
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/siblings-special-needs.html
+
+Resource: ClinicalTrials.gov: Disabled Persons
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Disabled+Persons%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Persons with Disabilities
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Persons+with+Disabilities%22&aggFilters=status:not%20rec
+
+Resource: Disability and Health
+Category: Related Issues
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/disability-and-health
+
+Resource: Disability and Health Overview
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/disability-and-health/about/
+
+Resource: Disability and Obesity
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/disability-and-health/conditions/obesity.html
+
+Resource: Frequently Asked Questions about Service Animals and the ADA
+Category: Related Issues
+Organization: Department of Justice
+URL: https://www.ada.gov/resources/service-animals-faqs/
+
+Resource: Individualized Education Programs (IEPs)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/iep.html
+
+Resource: Office of Disability Employment Policy
+Category: Find an Expert
+Organization: Office of Disability Employment Policy
+URL: https://www.dol.gov/agencies/odep
+
+Resource: People with Disabilities (Disaster Preparation)
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/people-disabilities
+
+Resource: People with disabilities
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Health+Services+for+Persons+with+Disabilities%22%5Bmajr%3Anoexp%5D+OR+%22Persons+with+Disabilities%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety Plan Considerations
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/child-development/disability-safety/safety-plan.html
+
+Resource: Travelers with Disabilities and Medical Conditions
+Category: Related Issues
+Organization: Transportation Security Administration
+URL: https://www.tsa.gov/travel/tsa-cares/disabilities-and-medical-conditions

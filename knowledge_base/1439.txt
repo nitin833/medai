@@ -1,0 +1,56 @@
+Title: Latex Allergy
+
+Summary:
+Latex is a milky fluid that comes from the tropical rubber tree. Hundreds of everyday products contain latex. Repeated exposure to a protein in natural latex can make you more likely to develop a latex allergy. If your immune system detects the protein, a reaction can start in minutes. You could get a rash or asthma. In rare cases you could have a severe reaction called
+anaphylaxis
+.
+Your doctor may use a physical exam and skin and blood tests to diagnose it. There are medicines to treat a reaction, but it is best to try to avoid latex. Common latex products include:
+Gloves
+Condoms
+Balloons
+Rubber bands
+Shoe soles
+Pacifiers
+You can find latex-free versions of these products.
+
+Groups:
+- Immune System
+
+MeSH Headings:
+- Latex Hypersensitivity
+
+Related Resources:
+
+Resource: Allergy Blood Test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/allergy-blood-test/
+
+Resource: Home Healthcare Workers: How to Prevent Latex Allergies
+Category: Learn More
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/2012-119/pdfs/2012-119.pdf
+
+Resource: Latex allergies - for hospital patients
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000499.htm
+
+Resource: Latex Allergy
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/latex-allergy/symptoms-causes/syc-20374287?p=1
+
+Resource: Latex in Cosmetics
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/cosmetics/cosmetic-ingredients/latex-cosmetics
+
+Resource: Managing latex allergies at home
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000500.htm
+
+Resource: Latex Allergy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Latex+Hypersensitivity%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+

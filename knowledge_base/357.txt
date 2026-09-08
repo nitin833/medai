@@ -1,0 +1,184 @@
+Title: Peptic Ulcer
+
+Also Called:
+- Duodenal ulcer
+- Gastric ulcer
+- Stomach ulcer
+- Ulcer
+
+Summary:
+A peptic ulcer is a sore in the lining of your stomach or your duodenum, the first part of your small intestine. A burning stomach pain is the most common symptom. The pain:
+Starts between meals or during the night
+Briefly stops if you eat or take antacids
+Lasts for minutes to hours
+Comes and goes for several days or weeks
+Peptic ulcers happen when the acids that help you digest food damage the walls of the stomach or duodenum. The most common cause is infection with a bacterium called
+Helicobacter pylori
+. Another cause is the long-term use of nonsteroidal anti-inflammatory medicines (NSAIDs) such as aspirin and ibuprofen. Stress and spicy foods do not cause ulcers, but can make them worse.
+To see if you have an H. pylori infection, your doctor will test your blood, breath, or stool. Your doctor also may look inside your stomach and duodenum by doing an
+endoscopy
+or x-ray.
+Peptic ulcers will get worse if not treated. Treatment may include medicines to reduce stomach acids or antibiotics to kill H. pylori. Antacids and milk can't heal peptic ulcers. Not smoking and avoiding alcohol can help. You may need surgery if your ulcers don't heal.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Peptic Ulcer
+
+Related Resources:
+
+Resource: American College of Gastroenterology
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org
+
+Resource: Barium Swallow
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/barium-swallow/
+
+Resource: Black or tarry stools
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003130.htm
+
+Resource: ClinicalTrials.gov: Duodenal Ulcer
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Duodenal+Ulcer%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peptic Ulcer
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peptic+Ulcer%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Stomach Ulcer
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Stomach+Ulcer%22&aggFilters=status:not%20rec
+
+Resource: Culture - duodenal tissue
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003730.htm
+
+Resource: Definition & Facts for Peptic Ulcers (Stomach or Duodenal Ulcers)
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/definition-facts
+
+Resource: Diagnosis of Peptic Ulcers (Stomach or Duodenal Ulcers)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/diagnosis
+
+Resource: Fecal Occult Blood Test (FOBT)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Gastric tissue biopsy and culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003728.htm
+
+Resource: Gastrin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003697.htm
+
+Resource: Gastrointestinal Bleeding: MedlinePlus Health Topic
+Category: Symptoms
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/gastrointestinalbleeding.html
+
+Resource: Helicobacter pylori (H. pylori) and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/h-pylori-fact-sheet
+
+Resource: Helicobacter pylori (H. pylori) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/helicobacter-pylori-h-pylori-tests/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Peptic ulcer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000206.htm
+
+Resource: Peptic Ulcer Disease
+Category: Start Here
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/peptic-ulcer-disease/
+
+Resource: Peptic Ulcer Disease
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/peptic-ulcer-disease/
+
+Resource: Peptic Ulcer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Peptic+Ulcer%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stomach ulcer
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000133.htm
+
+Resource: Symptoms and Causes of Peptic Ulcer Disease
+Category: Symptoms
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/symptoms-causes
+
+Resource: Tests for H pylori
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007501.htm
+
+Resource: Treatment for Peptic Ulcers (Stomach Ulcers)
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/peptic-ulcers-stomach-ulcers/treatment
+
+Resource: Ulcers
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ulcers.html
+
+Resource: Ulcers
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/ulcers/
+
+Resource: Upper GI Endoscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Upper GI Series
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series
+
+Resource: Zollinger-Ellison Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/zollinger-ellison-syndrome
+
+Resource: Zollinger-Ellison syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000325.htm

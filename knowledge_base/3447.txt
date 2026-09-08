@@ -1,0 +1,139 @@
+Title: Pacemakers and Implantable Defibrillators
+
+Summary:
+An
+arrhythmia
+is any disorder of your heart rate or rhythm. It means that your heart beats too quickly, too slowly, or with an irregular pattern. Most arrhythmias result from problems in the electrical system of the heart. If your arrhythmia is serious, you may need a cardiac pacemaker or an implantable cardioverter defibrillator (ICD).  They are devices that are implanted in your chest or abdomen.
+A pacemaker helps control abnormal heart rhythms. It uses electrical pulses to prompt the heart to beat at a normal rate. It can speed up a slow heart rhythm, control a fast heart rhythm, and coordinate the chambers of the heart.
+An ICD monitors heart rhythms. If it senses dangerous rhythms, it delivers shocks. This treatment is called defibrillation. An ICD can help control life-threatening arrhythmias, especially those that can cause
+sudden cardiac arrest
+(SCA). Most new ICDs can act as both a pacemaker and a defibrillator. Many ICDs also record the heart's electrical patterns when there is an abnormal heartbeat. This can help the doctor plan future treatment.
+Getting a pacemaker or ICD requires minor surgery. You usually need to stay in the hospital for a day or two, so your doctor can make sure that the device is working well. You will probably be back to your normal activities within a few days.
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Defibrillators, Implantable
+- Pacemaker, Artificial
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Cardiac Resynchronization Therapy (CRT)
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-failure/treatment-options-for-heart-failure/cardiac-resynchronization-therapy-crt
+
+Resource: ClinicalTrials.gov: Defibrillators, Implantable
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=defibrillator&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pacemaker, Artificial
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=artificial+pacemaker&aggFilters=status:not%20rec
+
+Resource: Coping with My Partner's ICD and Cardiac Disease
+Category: Living With
+Organization: American Heart Association
+URL: https://scholar.google.com/scholar_url?url=https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.109.877613&hl=en&sa=T&oi=ucasa&ct=ufr&ei=2SWbaO_nN4rUieoPtfrKsAc&scisig=AAZF9b-MFwK1ysoHun5VNEOtXcNE
+
+Resource: Coping with Trauma and Stressful Events As a Patient with an Implantable Cardioverter-Defibrillator
+Category: Related Issues
+Organization: American Heart Association
+URL: https://scholar.google.com/scholar_url?url=https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.112.127563&hl=en&sa=T&oi=ucasa&ct=ufr&ei=FCObaOCOD-bTieoP6vy7uAY&scisig=AAZF9b9ikC4ZWbU3M0pUW922Prtg
+
+Resource: Devices that May Interfere with ICDs and Pacemakers
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/devices-that-may-interfere-with-icds-and-pacemakers
+
+Resource: Find a Specialist
+Category: Find an Expert
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/connect-support/find-a-specialist/
+
+Resource: Heart failure - surgeries and devices
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000363.htm
+
+Resource: Heart pacemaker
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007369.htm
+
+Resource: Heart pacemaker - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000097.htm
+
+Resource: Implantable cardioverter defibrillator - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000108.htm
+
+Resource: Implantable cardioverter-defibrillator
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007370.htm
+
+Resource: Living with Your Implantable Cardioverter Defibrillator (ICD)
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/living-with-your-icd
+
+Resource: My Child Needs or Has an Implantable Cardioverter-Defibrillator: What Should I Do?
+Category: Children
+Organization: American Heart Association
+URL: https://scholar.google.com/scholar_url?url=https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.112.098541&hl=en&sa=T&oi=ucasa&ct=ufr&ei=ISObaI2BJq2IieoPluzk4Ao&scisig=AAZF9b8TRVTALvdo2ZTJS714ppr1
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pacemakers
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pacemaker%2C+Artificial%22%5Bmajr%3Anoexp%5D+OR+%22Defibrillators%2C+Implantable%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to Ask Your Doctor: Implantable Cardioverter Defibrillator (ICD)
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/arrhythmia/prevention--treatment-of-arrhythmia/questions-to-ask-your-doctor--implantable-cardioverter-defibrillator-icd
+
+Resource: Sexual Health for Patients with an Implantable Cardioverter Defibrillator
+Category: Related Issues
+Organization: American Heart Association
+URL: https://scholar.google.com/scholar_url?url=https://www.ahajournals.org/doi/pdf/10.1161/circulationaha.110.949628&hl=en&sa=T&oi=ucasa&ct=ufr&ei=FyObaJWjK6WMieoPncLUyAs&scisig=AAZF9b-FFr1LaqvbdHAkdLSCx3Xh
+
+Resource: UpBeat.org
+Category: Find an Expert
+Organization: Heart Rhythm Society
+URL: https://upbeat.org/
+
+Resource: What Are Defibrillators?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/defibrillators
+
+Resource: What Are Pacemakers?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/pacemakers
+
+Resource: What Is a Leadless Pacemaker?
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/heart-health/what-is-a-leadless-pacemaker
+
+Resource: What Is a Pacemaker?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-a-pacemaker.pdf

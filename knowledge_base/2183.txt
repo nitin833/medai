@@ -1,0 +1,74 @@
+Title: Enfermedades del cóccix
+
+Summary:
+El cóccix es el pequeño hueso ubicado al final de la columna vertebral. Los trastornos del cóccix incluyen traumatismos, dolor, infecciones, quistes y tumores. Raramente se fractura. Pero los traumatismos provocan hematomas y distensión de los ligamentos. Una caída hacia atrás sobre una superficie dura, como resbalarse en el hielo, es la causa más común de estos traumatismos. Los síntomas de varios trastornos del cóccix incluyen dolor en el área del hueso, dolor al sentarse, dolor o entumecimiento en los brazos o las piernas debido a la presión sobre los nervios de la región del cóccix y una masa o crecimiento que puede ver o tocar.
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Atención postratamiento para lesión en el cóccix
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000573.htm
+
+Resource: Cirugía de quiste pilonidal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007591.htm
+
+Resource: Dolor de cóccix: ¿Cómo aliviarlo?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/back-pain/expert-answers/tailbone-pain/faq-20058211?p=1
+
+Resource: Enfermedad del seno pilonidal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003253.htm
+
+Resource: Hoyuelo sacro
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sacral-dimple/symptoms-causes/syc-20377353?p=1
+
+Resource: Quiste de Tarlov
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12006/quiste-de-tarlov/
+
+Resource: Quiste pilonidal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pilonidal-cyst/symptoms-causes/syc-20376329?p=1
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: RMN de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Síndrome del elevador del ano
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/trastornos-anales-y-rectales/s%C3%ADndrome-del-elevador-del-ano
+
+Resource: TC de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinect
+
+Resource: Tratamiento de los quistes pilonidales
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pilonidal_gips_animation.html
+
+Resource: Traumatismo en el coxis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000008.htm

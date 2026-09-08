@@ -1,0 +1,224 @@
+Title: Eye Injuries
+
+Summary:
+The structure of your face helps protect your eyes from injury. Still, injuries can damage your eye, sometimes severely enough that you could lose your vision. Most eye injuries are preventable. If you play sports or work in certain jobs, you may need protection.
+The most common type of injury happens when something irritates the outer surface of your eye. Certain jobs such as industrial jobs or hobbies such as carpentry make this type of injury more likely. It's also more likely if you wear contact lenses.
+Chemicals or heat can burn your eyes. With chemicals, the pain may cause you to close your eyes.  This traps the irritant next to the eye and may cause more damage. You should wash out your eye right away while you wait for medical help.
+
+Groups:
+- Eyes and Vision
+- Injuries and Wounds
+
+MeSH Headings:
+- Eye Injuries
+
+Related Resources:
+
+Resource: About the Eye
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/about-eye
+
+Resource: All About Vision: Glossary
+Category: Reference Desk
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/glossary
+
+Resource: Black Eye: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-black-eye/basics/art-20056675?p=1
+
+Resource: Black Eyes (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/black-eyes.html
+
+Resource: Blinking
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000010.htm
+
+Resource: Blowout Fracture
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/blowout-fracture
+
+Resource: Chemical Splash in the Eye: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-eye-emergency/basics/art-20056647?p=1
+
+Resource: ClinicalTrials.gov: Eye Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Eye+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Corneal Abrasion
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/corneal-abrasion/?Imiw9cApl=1
+
+Resource: Corneal Abrasions
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/corneal-abrasions
+
+Resource: Corneal Abrasions (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/corneal-abrasions.html
+
+Resource: Corneal Foreign Body
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/corneal-foreign-body/?Imiw9cApl=1
+
+Resource: Corneal injury
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000035.htm
+
+Resource: Corneal injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001017.htm
+
+Resource: Dilating Eye Drops
+Category: Diagnosis and Tests
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/dilating-eye-drops
+
+Resource: Enucleation
+Category: Treatments and Therapies
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/enucleation
+
+Resource: Eye - foreign object in
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002084.htm
+
+Resource: Eye emergencies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000054.htm
+
+Resource: Eye Health Data and Statistics
+Category: Statistics and Research
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/about/education-and-outreach/eye-health-data-and-statistics
+
+Resource: Eye Injury and Safety
+Category: Start Here
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://aapos.org/glossary/eye-injury-and-safety
+
+Resource: Eye Injury Prevention
+Category: Prevention and Risk Factors
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/preventing-injuries
+
+Resource: Eye Safety at Home: Preventing Eye Injuries
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/injuries-in-home
+
+Resource: Eye Symptoms
+Category: Symptoms
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/symptoms-list
+
+Resource: Find an Ophthalmologist
+Category: Find an Expert
+Organization: American Academy of Ophthalmology
+URL: https://secure.aao.org/aao/find-ophthalmologist
+
+Resource: Fluorescein eye stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003845.htm
+
+Resource: Foreign Object in Eye or Skin, First Aid
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/first-aid-foreign-objectin-eye-or-skin/?Imiw9cApl=1
+
+Resource: How Can My Child Watch a Solar Eclipse Safely?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/solar-eclipse-safety.html
+
+Resource: How the Eyes Work
+Category: Reference Desk
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work
+
+Resource: Hyphema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001021.htm
+
+Resource: Macular Pucker
+Category: Specifics
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/macular-pucker
+
+Resource: National Eye Institute
+Category: Find an Expert
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/
+
+Resource: Never Buy Decorative Contact Lenses without a Prescription
+Category: Teenagers
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/news/scary-lenses
+
+Resource: Prevent Workplace Eye Injuries
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/injuries-work
+
+Resource: Preventing Eye Injuries (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/eye-injury.html
+
+Resource: Eye Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Eye+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recognizing and Treating Eye Injuries
+Category: Start Here
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/injuries
+
+Resource: Safety Glasses: How to Prevent Blinding Eye Injuries
+Category: Prevention and Risk Factors
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/tips-prevention/injuries-protective-eyewear
+
+Resource: Slit-lamp exam
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003880.htm
+
+Resource: Sports and Eye Safety: Tips for Parents and Teachers
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work/sports-and-eye-safety-tips-parents-and-teachers
+
+Resource: What Is a Black Eye?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/black-eye
+
+Resource: What Is Corneal Laceration?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-corneal-laceration
+
+Resource: What Is Hyphema?
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-hyphema

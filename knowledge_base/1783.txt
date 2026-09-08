@@ -1,0 +1,58 @@
+Title: Botulismo
+
+Summary:
+El botulismo es una enfermedad rara pero seria causada por una toxina (veneno) producida por una bacteria llamada Clostridium botulinum. Esta toxina se encuentra naturalmente en la tierra.
+Existen varios tipos de botulismo. El botulismo
+transmitido por alimentos
+se produce al ingerir alimentos contaminados con la toxina. El botulismo de la herida ocurre cuando una herida se infecta con la bacteria; es más común en quienes abusan de heroína. El botulismo infantil ocurre cuando un bebé consume las esporas de la bacteria que se encuentran en la tierra o en la miel. Todos estos tipos de botulismo pueden ser mortales y se consideran urgencias médicas.
+Los síntomas incluyen ver doble, vista borrosa, caída de los párpados, dificultad para hablar, dificultad para tragar, boca seca y debilidad muscular. El tratamiento puede incluir antitoxinas, terapia intensiva o cirugía de las heridas infectadas.
+Para evitar el botulismo:
+Sea cuidadoso al enlatar alimentos en casa
+No deje que los bebés consuman miel
+Busque rápidamente ayuda médica para las heridas infectadas
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Acerca del botulismo
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/botulism/es/about/index.html
+
+Resource: Botulismo
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000598.htm
+
+Resource: Botulismo
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/botulism/symptoms-causes/syc-20370262?p=1
+
+Resource: Botulismo
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/botulism
+
+Resource: Botulismo del lactante (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/botulism.html
+
+Resource: Botulismo en bebés
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001384.htm
+
+Resource: Botulismo: causas, signos, síntomas y tratamiento
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/infections/paginas/botulism.aspx
+
+Resource: Síntomas de botulismo
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/botulism/es/signs-symptoms/index.html

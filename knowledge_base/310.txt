@@ -1,0 +1,539 @@
+Title: Liver Diseases
+
+Also Called:
+- Hepatic diseases
+
+Summary:
+Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons.
+There are many kinds of liver diseases:
+Diseases caused by  viruses, such as
+hepatitis A
+,
+hepatitis B
+, and
+hepatitis C
+Diseases caused by drugs, poisons, or too much alcohol. Examples include
+fatty liver disease
+and
+cirrhosis
+.
+Liver cancer
+Inherited diseases, such as
+hemochromatosis
+and
+Wilson disease
+Symptoms of liver disease can vary, but they often include swelling of the abdomen and legs, bruising easily, changes in the color of your stool and urine, and
+jaundice
+, or yellowing of the skin and eyes. Sometimes there are no symptoms. Tests such as imaging tests and liver function tests can check for liver damage and help to diagnose liver diseases.
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Liver Diseases
+
+Related Resources:
+
+Resource: 25 Ways to Love Your Liver Health
+Category: Prevention and Risk Factors
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/resource-center/blog/25-ways-to-love-your-liver-health/
+
+Resource: 5'-nucleotidase
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003575.htm
+
+Resource: Abdominal and Pelvic CT
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominct
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal tap
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: Acute Liver Failure
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?p=1
+
+Resource: Alagille Syndrome
+Category: Children
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/alagille-syndrome/
+
+Resource: Alagille Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/alagille-syndrome
+
+Resource: Alagille syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alagille-syndrome/
+
+Resource: Aldolase blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003566.htm
+
+Resource: ALP isoenzyme test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003497.htm
+
+Resource: Alpers-Huttenlocher syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpers-huttenlocher-syndrome
+
+Resource: Amebic liver abscess
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000211.htm
+
+Resource: American Liver Foundation
+Category: Find an Expert
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/
+
+Resource: Ammonia blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003506.htm
+
+Resource: Antimitochondrial antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003529.htm
+
+Resource: Ascites
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000286.htm
+
+Resource: Autoimmune liver disease panel
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003328.htm
+
+Resource: Benign Liver Tumors
+Category: Specifics
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/complications-of-liver-disease/benign-liver-tumors/
+
+Resource: Benign recurrent intrahepatic cholestasis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/benign-recurrent-intrahepatic-cholestasis
+
+Resource: Biliary Atresia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/biliary-atresia.html
+
+Resource: Biliary Atresia
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/biliary-atresia
+
+Resource: Bleeding esophageal varices
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000268.htm
+
+Resource: Body MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bodymr
+
+Resource: Childhood myocerebrohepatopathy spectrum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/childhood-myocerebrohepatopathy-spectrum/
+
+Resource: Chloride Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chloride-blood-test/
+
+Resource: Cirrhosis and Portal Hypertension
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/cirrhosis-and-portal-hypertension/
+
+Resource: ClinicalTrials.gov: Alagille Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Alagille+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Liver Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Liver+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Congenital bile acid synthesis defect type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-bile-acid-synthesis-defect-type-2
+
+Resource: Congenital generalized lipodystrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-generalized-lipodystrophy
+
+Resource: Congenital hepatic fibrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-hepatic-fibrosis
+
+Resource: Crigler-Najjar syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crigler-najjar-syndrome
+
+Resource: Diet - liver disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002441.htm
+
+Resource: Elastography
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/elastography/
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: Enlarged liver
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003275.htm
+
+Resource: Enlarged Liver
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/enlarged-liver/symptoms-causes/syc-20372167?p=1
+
+Resource: FastStats: Chronic Liver Disease and Cirrhosis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/liver-disease.htm
+
+Resource: Ferritin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003490.htm
+
+Resource: Fighting Fatty Liver: Steps Against a Silent Disease
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/10/fighting-fatty-liver
+
+Resource: Galactosemia
+Category: Children
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/galactosemia/
+
+Resource: Gamma-glutamyl Transferase (GGT) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/gamma-glutamyl-transferase-ggt-test/
+
+Resource: Gilbert Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gilberts-syndrome/symptoms-causes/syc-20372811?p=1
+
+Resource: Gilbert syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gilbert-syndrome
+
+Resource: Glycogen Storage Disease Type 1 (von Gierke)
+Category: Children
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/glycogen-storage-disease-type-1-von-gierke/
+
+Resource: Glycogen storage disease type III: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-iii
+
+Resource: Glycogen storage disease type VI: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glycogen-storage-disease-type-vi
+
+Resource: Hepatic Encephalopathy
+Category: Related Issues
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/complications-of-liver-disease/hepatic-encephalopathy/
+
+Resource: Hepatic hemangioma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000243.htm
+
+Resource: Hepatic ischemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000214.htm
+
+Resource: Hepatic vein obstruction (Budd-Chiari)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000239.htm
+
+Resource: Hepatic veno-occlusive disease with immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hepatic-veno-occlusive-disease-with-immunodeficiency
+
+Resource: Hepatocerebral degeneration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001393.htm
+
+Resource: Intrahepatic cholestasis of pregnancy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/intrahepatic-cholestasis-of-pregnancy
+
+Resource: Lactate Dehydrogenase (LDH) Isoenzymes Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-isoenzymes-test/
+
+Resource: Lactate Dehydrogenase (LDH) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-test/
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: LDH isoenzyme blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003499.htm
+
+Resource: Leucine aminopeptidase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003617.htm
+
+Resource: Liver biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003895.htm
+
+Resource: Liver Biopsy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/liver-biopsy
+
+Resource: Liver Cysts: A Cause of Stomach Pain?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/liver-problems/expert-answers/liver-cysts/faq-20058440?p=1
+
+Resource: Liver disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000205.htm
+
+Resource: Liver Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?p=1
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: Liver Hemangioma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/liver-hemangioma/symptoms-causes/syc-20354234?p=1
+
+Resource: Liver scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003825.htm
+
+Resource: Liver Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/livertransplantation.html
+
+Resource: LiverTox: Clinical and Research Information on Drug-Induced Liver Injury
+Category: Statistics and Research
+Organization: National Library of Medicine, National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.ncbi.nlm.nih.gov/books/NBK547852/
+
+Resource: Loss of brain function - liver disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000302.htm
+
+Resource: Milk Thistle
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/milk-thistle
+
+Resource: MPV17-related hepatocerebral mitochondrial DNA depletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mpv17-related-hepatocerebral-mitochondrial-dna-depletion-syndrome
+
+Resource: MRCP (MR Cholangiopancreatography)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mrcp
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Needle Biopsy
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Peritonitis - secondary
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000651.htm
+
+Resource: Peritonitis - spontaneous bacterial
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000648.htm
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Portacaval shunting
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007336.htm
+
+Resource: Portal Hypertension
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/liver-and-gallbladder-disorders/manifestations-of-liver-disease/portal-hypertension
+
+Resource: Primary Sclerosing Cholangitis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/primary-sclerosing-cholangitis
+
+Resource: Primary Sclerosing Cholangitis (PSC)
+Category: Specifics
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/autoimmune-liver-diseases/primary-sclerosing-cholangitis-psc/
+
+Resource: Progression of Liver Disease to Liver Cancer
+Category: Start Here
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/resource-center/videos/the-progression-of-liver-disease-to-liver-cancer/
+
+Resource: Progressive familial intrahepatic cholestasis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/progressive-familial-intrahepatic-cholestasis/
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Liver Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Liver+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pyogenic liver abscess
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000261.htm
+
+Resource: Quantitative nephelometry test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003545.htm
+
+Resource: Recognizing Jaundice: Signs That Your Liver Isn't Delivering
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/10/recognizing-jaundice
+
+Resource: Rotor syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rotor-syndrome
+
+Resource: TBG blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003374.htm
+
+Resource: Total iron binding capacity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003489.htm
+
+Resource: Total protein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003483.htm
+
+Resource: Total Protein and Albumin/Globulin (A/G) Ratio
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/total-protein-and-albumin-globulin-a-g-ratio/
+
+Resource: Transjugular Intrahepatic Portosystemic Shunt (TIPS)
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/tips
+
+Resource: Transjugular intrahepatic portosystemic shunt (TIPS)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007210.htm
+
+Resource: Tyrosinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tyrosinemia

@@ -1,0 +1,49 @@
+Title: Pénfigo
+
+Summary:
+El pénfigo vulgar es una
+enfermedad autoinmunitaria
+en la que los anticuerpos atacan a células sanas en su piel y boca, causando ampollas y llagas. No se sabe la causa de este ataque. El pénfigo no se pasa de persona a persona. Tampoco pareciera ser heredado. Pero algunas personas tienen mayor riesgo genético de contraer pénfigo.
+El pénfigo foliáceo es también una enfermedad autoinmunitaria de la piel. Genera ampollas profundas que no se rompen fácilmente. Es más común en personas mayores y puede ser fatal.
+Los médicos diagnostican el pénfigo a través de un examen físico, una biopsia y pruebas de sangre. El tratamiento para el pénfigo vulgar y foliáceo es el mismo, una o más medicinas para controlar los síntomas. Estas pueden incluir:
+Corticoides
+, que reducen la inflamación
+Drogas que suprimen la respuesta del sistema inmunitario
+Antibióticos para tratar las infecciones concurrentes
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Piel, cabello y uñas
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Penfigoide ampolloso
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000883.htm
+
+Resource: Pénfigo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/penfigo
+
+Resource: Pénfigo vulgar
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13138/penfigo-vulgar/
+
+Resource: Pénfigo vulgar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000882.htm
+
+Resource: Signo de Nikolski
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003285.htm

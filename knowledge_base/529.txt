@@ -1,0 +1,60 @@
+Title: Elder Abuse
+
+Summary:
+Many older people are victims of elder abuse. It is the mistreatment of an older person, usually by a caregiver. It can happen within the family.  It can also happen in assisted living facilities or nursing homes.
+The mistreatment may be:
+Physical, sexual, or emotional abuse
+Neglect or abandonment
+Financial abuse - stealing of money or belongings
+Possible signs of elder abuse include unexplained bruises, burns, and injuries. There may also be bed sores and poor hygiene. The person may become withdrawn, agitated, and depressed. There may be a sudden change in the person's financial situation.
+Elder abuse will not stop on its own. Someone else needs to step in and help. If you think that an older person is in urgent danger, call 911. Otherwise, contact adult protective services.
+NIH: National Institute on Aging
+
+Groups:
+- Older Adults
+- Injuries and Wounds
+- Social/Family Issues
+
+MeSH Headings:
+- Elder Abuse
+
+Related Resources:
+
+Resource: About Elder Abuse
+Category: Start Here
+Organization: Department of Justice
+URL: https://www.justice.gov/elderjustice/about-elder-abuse
+
+Resource: ClinicalTrials.gov: Elder Abuse
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Elder+Abuse%22&aggFilters=status:not%20rec
+
+Resource: Elder Abuse
+Category: Start Here
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/elder-abuse
+
+Resource: Elder Abuse: How to Spot Warning Signs, Get Help, and Report Mistreatment
+Category: Start Here
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/aging-older-adults/elder-abuse?partner=nlm
+
+Resource: Find the Long-Term Care Ombudsman Program in Your State
+Category: Find an Expert
+Organization: National Consumer Voice for Quality Long-Term Care
+URL: https://theconsumervoice.org/get-help/
+
+Resource: National Institute on Aging
+Category: Find an Expert
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/
+
+Resource: Preventing Elder Abuse and Neglect in Older Adults
+Category: Start Here
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-preventing-elder-abuse-and-neglect-older-adults
+
+Resource: Elder Abuse
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Elder+Abuse%22%5Bmajr%3Anoexp%5D+AND+aged+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

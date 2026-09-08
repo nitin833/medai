@@ -1,0 +1,49 @@
+Title: Enfermedad de Tay-Sachs
+
+Summary:
+La enfermedad de Tay-Sachs es un trastorno hereditario poco común. Causa la acumulación de una sustancia grasosa en el cerebro. Esta acumulación destruye las neuronas y causa problemas físicos y mentales.
+Los recién nacidos con la enfermedad de Tay-Sachs parecen desarrollarse normalmente durante los primeros meses de vida. Luego, las capacidades mentales y físicas se van deteriorando. El niño pierde la vista, la audición y no puede tragar. Los músculos empiezan a atrofiarse y se produce una parálisis. Aún con los mejores cuidados, los niños con la enfermedad de Tay-Sachs suelen morir antes de los cuatro años.
+La causa es una mutación de un gen que es común entre los judíos askenazíes de Europa oriental. Para desarrollar la enfermedad, ambos padres deben tener el gen. Si lo tienen, hay un 25% de probabilidades que los menores desarrollen la enfermedad. Un análisis de sangre y un test prenatal puede determinar si se tiene el gen o la enfermedad.
+No existe una cura. Las medicinas y una buena nutrición pueden ayudar con algunos síntomas. Algunos niños necesitan de sondas para alimentarse.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Amniocentesis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/amniocentesis.aspx
+
+Resource: Asesoramiento genético: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/geneticcounseling.html
+
+Resource: Enfermedad de Tay-Sachs
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001417.htm
+
+Resource: Enfermedad de Tay-Sachs (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tay-sachs.html
+
+Resource: Enfermedad de Tay-Sachs y enfermedad de Sandhoff
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/trastornos-metab%C3%B3licos-hereditarios/enfermedad-de-tay-sachs-y-enfermedad-de-sandhoff
+
+Resource: Muestra de la vellosidad coriónica o placentaria (CVS)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/muestra-de-la-vellosidad-corionica.aspx
+
+Resource: Pruebas genéticas: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/genetictesting.html

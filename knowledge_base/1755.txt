@@ -1,0 +1,398 @@
+Title: Arritmia
+
+Also Called:
+- Disrritmias
+- Problemas con los latidos del corazón
+- Ritmo cardíaco anormal
+
+Summary:
+¿Qué es una arritmia?
+Una arritmia es un problema con la frecuencia o el ritmo de los latidos del corazón, es decir, su corazón late demasiado rápido, demasiado lento o con un patrón irregular. Los cambios en las señales eléctricas que controlan los latidos del corazón causan arritmias.
+Cuando el corazón late más rápido de lo normal, se conoce como
+taquicardia
+.
+Cuando el corazón late demasiado lento, se conoce como
+bradicardia
+.
+Cuando la señal para latir llega demasiado pronto, se llama
+latido prematuro
+. Puede sentirse como si el corazón se saltara un latido
+Existen muchos tipos de arritmias. Las arritmias pueden afectar la cámara superior o inferior del corazón. El tipo más común de arritmia es la
+fibrilación auricular
+, que causa un latido cardíaco irregular y rápido.
+Algunas arritmias son inofensivas, como cuando el ritmo cardíaco se acelera durante el ejercicio y se hace más lento cuando duerme. Pero si tiene un ritmo cardíaco irregular a menudo, puede significar que su corazón no está bombeando suficiente sangre al cuerpo. Recibir tratamiento y seguir un
+estilo de vida saludable para el corazón
+puede ayudar a controlar las arritmias. También puede ayudar a prevenir el daño cardíaco que pueden ocasionar algunas arritmias cardíacas.
+¿Qué causa una arritmia?
+Muchos factores pueden afectar el ritmo cardíaco, como haber tenido un
+ataque cardíaco
+,
+fumar
+,
+defectos cardíacos congénitos
+y el estrés. Otros factores que pueden aumentar su riesgo de sufrir algunos tipos de arritmias incluyen si usted:
+Tiene antecedentes familiares de arritmias
+Tiene ciertas afecciones de salud, incluyendo
+enfermedades cardíacas
+y de los vasos sanguíneos,
+enfermedades pulmonares
+,
+enfermedades renales
+,
+obesidad
+y
+apnea del sueño
+Es una persona mayor
+Se ha sometido recientemente a una cirugía de corazón, pulmones o garganta
+Toma ciertos medicamentos para otras afecciones de salud
+Usa
+drogas ilegales
+Si tiene factores de riesgo, algunas situaciones que causen que su corazón trabaje más, aumenten su presión arterial o provoquen un fuerte estrés emocional; pueden desencadenar una arritmia.
+¿Cuáles son los síntomas de una arritmia?
+Es posible que no tenga ningún síntoma perceptible de una arritmia. Su profesional de la salud puede detectar una arritmia durante su
+chequeo de rutina
+. Los síntomas de una arritmia pueden incluir:
+Latidos cardíacos rápidos o lentos
+Latidos cardíacos fuertes, saltados o aleteados
+Dolor
+o malestar en el pecho
+Mareos
+o desmayos
+Falta de aire
+Sudoración
+Cansancio o debilidad
+Busque atención médica de emergencia si tiene dolor en el pecho, falta de aire o cree que está teniendo un ataque cardíaco.
+¿Cómo se diagnostica una arritmia?
+Para saber si tiene una arritmia, su profesional de la salud puede solicitar un
+electrocardiograma
+. Esta prueba registra la actividad eléctrica de su corazón y es la más común para detectar una arritmia. Su proveedor también puede:
+Preguntar sobre su historia clínica incluyendo sus síntomas y su estilo de vida
+Realizar un examen físico, incluyendo controlar su ritmo cardíaco y pulso
+Solicitar análisis de sangre y otras
+pruebas del corazón
+Examinar sus piernas o sus pies para ver si hay hinchazón
+Buscar signos de otras afecciones de salud que podrían causar una arritmia, como
+enfermedad de la tiroides
+¿Cuáles son los tratamientos para una arritmia?
+El tratamiento puede incluir medicamentos, un desfibrilador cardioversor implantable
+(DCI) o un marcapasos
+, o a veces cirugía. Su profesional de la salud también puede recomendar evitar actividades que puedan provocar una arritmia.
+El objetivo del tratamiento es reestablecer un ritmo cardíaco normal. Si no se tratan, las arritmias pueden dañar su corazón, cerebro y otros órganos y poner en riesgo su vida.
+¿Se pueden prevenir las arritmias?
+Para ayudar a prevenir una arritmia, su profesional de la salud puede sugerirle cambios en su estilo de vida saludables para el corazón y tratar las afecciones de salud que pueden causar arritmias.
+NIH: Instituto Nacional de la Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Anatomía del corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Antiarrítmicos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/antiarritmicos/
+
+Resource: Arritmia
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/arritmia/
+
+Resource: Arritmia cardíaca
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-arrhythmia/symptoms-causes/syc-20350668?p=1
+
+Resource: Arritmia cardíaca: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-arrhythmia/diagnosis-treatment/drc-20350674?p=1
+
+Resource: Arritmias
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001101.htm
+
+Resource: Arritmias
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000005.htm
+
+Resource: Arritmias (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/arrhythmias.html
+
+Resource: Bloqueantes cálcicos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/bloqueantes-calcicos/
+
+Resource: Bloqueo cardíaco
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007658.htm
+
+Resource: Bloqueo de rama
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/bloqueo-de-rama/
+
+Resource: Bradicardia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bradycardia/symptoms-causes/syc-20355474?p=1
+
+Resource: Cardioversión
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007110.htm
+
+Resource: Categorías de arritmias
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/categorias-de-arritmias/
+
+Resource: Cirugía de Cox
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/cirugia-de-cox/
+
+Resource: Contracciones ventriculares prematuras
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/premature-ventricular-contractions/symptoms-causes/syc-20376757?p=1
+
+Resource: Cuestionario sobre palpitaciones cardíacas
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/003081_120.htm
+
+Resource: Cómo funciona el corazón
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon
+
+Resource: Desfibriladores externos automáticos: ¿necesita un desfibrilador externo automático?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-arrhythmia/in-depth/automated-external-defibrillators/art-20043909?p=1
+
+Resource: Electrocardiograma
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003868.htm
+
+Resource: Estudio electrofisiológico intracardíaco (EEFIC)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003867.htm
+
+Resource: Estudios electrofisiológicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-electrofisiologicos/
+
+Resource: Estudios y procedimientos diagnósticos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/estudios-y-procedimientos-diagnosticos/
+
+Resource: Fibrilación ventricular
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/ventricular-fibrillation/symptoms-causes/syc-20364523?p=1
+
+Resource: Fibrilación ventricular
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007200.htm
+
+Resource: Fibriloaleteo auricular
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000184.htm
+
+Resource: Glosario de terminología cardiovascular
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/glosario-de-terminologia-cardiovascular/
+
+Resource: Intoxicación digitálica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000165.htm
+
+Resource: Latido cardíaco
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/el-latido-cardiaco/
+
+Resource: Latidos cardíacos
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000067.htm
+
+Resource: Latidos cardíacos ectópicos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001100.htm
+
+Resource: Marcapasos y desfibrilador implantable: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pacemakersandimplantabledefibrillators.html
+
+Resource: Monitor Holter (24 horas)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003877.htm
+
+Resource: Monitores de eventos cardíacos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007700.htm
+
+Resource: Muerte súbita en los jóvenes: los problemas cardíacos suelen ser la causa
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sudden-cardiac-arrest/in-depth/sudden-death/art-20047571?p=1
+
+Resource: Obtención de un ECG (electrocardiograma)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/video-ekg.html
+
+Resource: Palpitaciones (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/heart-palpitations.html
+
+Resource: Palpitaciones cardíacas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003081.htm
+
+Resource: Paro cardíaco: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/cardiacarrest.html
+
+Resource: Procedimientos de ablación cardíaca
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007368.htm
+
+Resource: Prueba de esfuerzo con ejercicio
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003878.htm
+
+Resource: Prueba de la mesa basculante
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/tilt-table-test/about/pac-20395124?p=1
+
+Resource: Pruebas cardíacas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/estudios-cardiacos
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Pulso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003399.htm
+
+Resource: Reconocer el POTS (síndrome de taquicardia postural ortostática)
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/reconocer-el-pots
+
+Resource: Sistema de conducción
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/el-sistema-de-conduccion/
+
+Resource: Sistema de conducción cardíaco
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000021.htm
+
+Resource: Síndrome de Brugada
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/brugada-syndrome/symptoms-causes/syc-20370489?p=1
+
+Resource: Síndrome de disfunción sinusal
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sick-sinus-syndrome/symptoms-causes/syc-20377554?p=1
+
+Resource: Síndrome de QT largo
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sindrome-de-qt-largo
+
+Resource: Síndrome de Wolff-Parkinson-White
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sindrome-de-wolff-parkinson-white
+
+Resource: Síndrome de Wolff-Parkinson-White
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000151.htm
+
+Resource: Síndrome del seno enfermo
+Category: Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000161.htm
+
+Resource: Taquicardia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/tachycardia/symptoms-causes/syc-20355127?p=1
+
+Resource: Taquicardia auricular multifocal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000186.htm
+
+Resource: Taquicardia supraventricular paroxística (TSVP)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000183.htm
+
+Resource: Taquicardia ventricular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000187.htm
+
+Resource: Trastornos de la conducción
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-de-la-conduccion
+
+Resource: Tratamientos cardíacos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/tratamientos-cardiacos-procedimientos
+
+Resource: ¿Qué es una arritmia?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/arritmias
+
+Resource: ¿Qué son los desfibriladores?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/desfibriladores

@@ -1,0 +1,161 @@
+Title: Laboratory Tests
+
+Summary:
+Laboratory tests check a sample of your blood, urine, or body tissues. A technician or your doctor analyzes the test samples to see if your results fall within the normal range. The tests use a range because what is normal differs from person to person. Many factors affect test results. These include:
+Your sex, age and race
+What you eat and drink
+Medicines you take
+How well you followed pre-test instructions
+Your doctor may also compare your results to results from previous tests. Laboratory tests are often part of a routine checkup to look for changes in your health. They also help doctors diagnose medical conditions, plan or evaluate treatments, and monitor diseases.
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- Clinical Laboratory Techniques
+
+Related Resources:
+
+Resource: Accredited Laboratory and Biorepository Directory
+Category: Find an Expert
+Organization: College of American Pathologists
+URL: https://www.cap.org/laboratory-quality-solutions/accreditation/accredited-laboratory-and-biorepository-directory/
+
+Resource: At-Home Medical Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/at-home-medical-tests/
+
+Resource: Basic Blood Chemistry Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest5.html
+
+Resource: Biobanks (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/biobanks.html
+
+Resource: Blood Culture (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest3.html
+
+Resource: ClinicalTrials.gov: Hematologic Tests
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hematologic+Tests%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Urinalysis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urinalysis%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Differential Diagnosis
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/differential-diagnosis/
+
+Resource: Fasting for a Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/
+
+Resource: Getting a Blood Test (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/blood-tests.html
+
+Resource: Getting a Urine Test (For Kids)
+Category: Videos and Tutorials
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/video-urtest.html
+
+Resource: Home Use Tests: Glossary
+Category: Reference Desk
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/home-use-tests/home-use-tests-glossary
+
+Resource: How Cancer Is Diagnosed
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis
+
+Resource: How to Cope with Medical Test Anxiety
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-cope-with-medical-test-anxiety/
+
+Resource: How to Prepare for a Lab Test
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-prepare-for-a-lab-test/
+
+Resource: How to Prepare Your Child for a Lab Test
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-prepare-your-child-for-a-lab-test/
+
+Resource: How to Read Your Pathology Report
+Category: Specifics
+Organization: College of American Pathologists
+URL: https://www.cap.org/article/how-to-read-your-pathology-report/
+
+Resource: How to Understand Your Lab Results
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/
+
+Resource: How You Can Get the Best Results with Home Use Tests
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/home-use-tests/how-you-can-get-best-results-home-use-tests
+
+Resource: Lab Test Information
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/
+
+Resource: New Thinking on Important Blood Tests
+Category: Statistics and Research
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/new-thinking-on-important-blood-tests
+
+Resource: Laboratory Tests
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Clinical+Laboratory+Techniques%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Reading Your Pathology Report
+Category: Videos and Tutorials
+Organization: College of American Pathologists
+URL: https://www.youtube.com/watch?v=ANDKgo6ptrU
+
+Resource: Stool Tests (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html
+
+Resource: Tests Used in Clinical Care
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/in-vitro-diagnostics/tests-used-clinical-care
+
+Resource: Types of Blood Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/blood-test-types.html
+
+Resource: Venous Sampling
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/venous-sampling
+
+Resource: What You Need to Know About Blood Testing
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/what-you-need-to-know-about-blood-testing/

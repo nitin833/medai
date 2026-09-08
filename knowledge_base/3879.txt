@@ -1,0 +1,58 @@
+Title: Hiedra, roble y zumaque venenosos
+
+Summary:
+Si usted pasa mucho tiempo al aire libre, es probable que se haya encontrado con hiedras, robles o zumaques venenosos en alguna oportunidad. La mayoría de las personas son sensibles a la savia aceitosa de estas plantas. La savia se encuentra en la raíz, los tallos, las hojas y los frutos de estas plantas. Si le toca la piel, causa una
+erupción cutánea
+con ampollas. La erupción puede variar de leve a grave, dependiendo de la cantidad de savia que toque la piel y de la sensibilidad de cada persona. También pueden ocurrir problemas si las plantas se queman. El hollín cubierto por savia que vuela en el aire puede penetrar en los ojos, la nariz, la garganta y el sistema respiratorio.
+La mejor manera para evitar la erupción cutánea es aprender a identificar las plantas y mantenerse alejado de ellas. Si toca alguna de estas plantas, lávese la piel y la ropa inmediatamente. Si aparece una erupción, solicite en la farmacia medicinas a la venta sin receta médica. En los casos de erupciones graves, consulte a un médico.
+Servicio de Parques Nacionales
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Datos Breves de NIOSH: Protéjase de las plantas venenosas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-118sp.html
+
+Resource: Erupción cutánea por hiedra, roble o zumaque venenosos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000027.htm
+
+Resource: Erupción por hiedra venenosa
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/poison-ivy/symptoms-causes/syc-20376485?p=1
+
+Resource: Evaluación de sarpullido
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-de-sarpullido/
+
+Resource: Gáneles la partida a la hiedra venenosa y otras plantas tóxicas
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/ganeles-la-partida-la-hiedra-venenosa-y-otras-plantas-toxicas
+
+Resource: Hiedra venenosa
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/poison-ivy.html
+
+Resource: Hiedra, roble y zumaque venenosos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002886.htm
+
+Resource: Primeros auxilios: Hiedra, roble o zumaque venenosos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/poison-ivy-sheet.html
+
+Resource: Tratamiento para la hiedra venenosa
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/skin/paginas/poison-ivy-treatment.aspx

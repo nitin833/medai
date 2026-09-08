@@ -1,0 +1,199 @@
+Title: Enfermedades de la médula ósea
+
+Summary:
+La médula ósea es el tejido esponjoso que se encuentra dentro de sus huesos, como en la cadera y el hueso del muslo. Contiene
+células madre
+. Las células madre pueden desarrollarse hasta ser glóbulos rojos que transportan oxígeno a su cuerpo, glóbulos blancos que combaten las infecciones y plaquetas que ayudan a la coagulación de la sangre.
+Con la enfermedad de médula ósea, hay problemas con las células madre o con su desarrollo:
+En la
+leucemia
+, un cáncer de la sangre, la médula ósea produce glóbulos blancos anormales
+En la
+anemia aplásica
+, la médula ósea no produce glóbulos rojos
+En las enfermedades mieloproliferativas, la médula ósea produce demasiados glóbulos blancos
+Otras enfermedades como el
+linfoma
+pueden diseminarse a la médula ósea y afectar la producción de células sanguíneas
+Las causas de las enfermedades de la medula ósea incluyen factores genéticos y ambientales. Las pruebas incluyen análisis de
+sangre
+y de médula ósea. Los tratamientos dependen del trastorno y de su severidad. Pueden involucrar medicinas,
+transfusiones de sangre
+o un
+trasplante de médula ósea
+.
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Agranulocitosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001295.htm
+
+Resource: Alta después de trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000010.htm
+
+Resource: Anemia de Diamond-Blackfan
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diamond-blackfan-anemia.html
+
+Resource: Análisis de sangre: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodcounttests.html
+
+Resource: Aspectos generales de las opciones de tratamiento (neoplasias mielodisplásicas o mieloproliferativas)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_72
+
+Resource: Aspectos generales de las opciones de tratamiento de las neoplasias mieloproliferativas crónicas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-cronicas-pdq#_46
+
+Resource: Aspirado medular
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003658.htm
+
+Resource: Biopsia de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Blood Cancer United
+Category: Spanish/Español, Especialistas
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/es/homepage
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Conteo de reticulocitos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/conteo-de-reticulocitos/
+
+Resource: Conteo de reticulocitos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003637.htm
+
+Resource: Cultivo de médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003682.htm
+
+Resource: Examen de eritropoyetina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003683.htm
+
+Resource: Hemoglobinuria paroxística nocturna
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000534.htm
+
+Resource: Información general sobre las neoplasias mieloproliferativas crónicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-cronicas-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Leucemia mielomonocítica crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_23
+
+Resource: Leucemia mielomonocítica juvenil
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_39
+
+Resource: Leucemia mielógena crónica atípica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_147
+
+Resource: Manejo del dolor
+Category: Spanish/Español, Asuntos relacionados
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/aya0sbmkfg/booklet_ES_PainManagementFacts_fs19s.pdf
+
+Resource: Mielofibrosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000531.htm
+
+Resource: Mielofibrosis primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-cronicas-pdq#_135
+
+Resource: Mielofibrosis: Síntomas y causas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/myelofibrosis/symptoms-causes/syc-20355057?p=1
+
+Resource: Neoplasia mielodisplásica o mieloproliferativa no clasificada
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_159
+
+Resource: Policitemia vera
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/polycythemia-vera/symptoms-causes/syc-20355850?p=1
+
+Resource: Policitemia vera
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000589.htm
+
+Resource: Prueba de la médula ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-la-medula-osea/
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003009.htm
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100112_1.htm
+
+Resource: Trasplante de médula ósea: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bonemarrowtransplantation.html
+
+Resource: Trombocitemia esencial
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000543.htm
+
+Resource: Trombocitemia esencial
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-cronicas-pdq#_149
+
+Resource: Trombocitemia y trombocitosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trombocitopenia-trombocitosis

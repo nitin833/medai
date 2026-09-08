@@ -1,0 +1,158 @@
+Title: Malformaciones arteriovenosas
+
+Summary:
+¿Qué son las malformaciones arteriovenosas?
+Las malformaciones arteriovenosas son defectos en el
+sistema vascular
+. Su sistema vascular es la red de vasos sanguíneos de su cuerpo. Incluye:
+Arterias:
+Transportan sangre rica en oxígeno desde el corazón a los tejidos y órganos
+Venas:
+Transportan la sangre y los productos de desecho de regreso al corazón
+Capilares:
+Pequeños vasos sanguíneos que conectan las arterias pequeñas con las venas pequeñas
+Una malformación arteriovenosa es una maraña anormal de arterias y venas. Está conectada entre sí, sin capilares entre ellas. Sin los capilares, el flujo sanguíneo de las arterias va directamente a las venas a un ritmo más rápido de lo normal. Por ello, el tejido cercano no recibe todo el oxígeno que normalmente debe llegarle. Esta falta de oxígeno puede causar daño del tejido y la muerte de las células nerviosas y otras células. La rápida velocidad del flujo sanguíneo también puede aumentar la presión arterial dentro de las arterias y venas, lo que puede debilitarlas. Una arteria o un vaso sanguíneo debilitado puede romperse o perder sangre.
+¿Qué causa las malformaciones arteriovenosas?
+Las malformaciones arteriovenosas son raras. Se desconoce su causa. La mayoría de las veces, las personas nacen con ellas. Pero en ocasiones pueden aparecer poco después del nacimiento o más adelante en la vida.
+¿Cuáles son los síntomas de las malformaciones arteriovenosas?
+Los síntomas de las malformaciones arteriovenosas dependen de dónde se encuentre. Puede ocurrir en cualquier parte del cuerpo, pero es más común en el cerebro o la médula espinal. La mayoría de las personas con malformaciones arteriovenosas en el cerebro o la médula espinal tiene pocos o ningún síntoma importante. Pero si un vaso sanguíneo debilitado se rompe, puede derramar sangre hacia el cerebro (lo que se conoce como hemorragia). Las hemorragias graves pueden causar un
+accidente cerebrovascular
+y daño cerebral.
+Si una malformación arteriovenosa está causando síntomas, estos pueden incluir:
+Convulsiones
+Dolor de cabeza
+Dolor donde se encuentre la malformación arteriovenosa
+Problemas de la vista
+Debilidad muscular
+Problemas con el
+movimiento
+y el
+habla
+Confusión
+Mareos
+Pérdida de consciencia
+¿Cómo se diagnostican las malformaciones arteriovenosas?
+Para saber si tiene una malformación arteriovenosa, su profesional de la salud:
+Preguntará sobre sus síntomas e historia clínica
+Hará un examen físico: Esto puede incluir escuchar un soplo. Un soplo es un silbido causado por el rápido flujo sanguíneo a través de las arterias y venas de una malformación arteriovenosa
+Puede solicitar
+pruebas de imágenes
+, como una
+tomografía computarizada
+, una
+resonancia magnética
+, una
+ecografía
+o una angiografía cerebral. Para una angiografía cerebral, se inyecta un tinte especial que ayuda a que los vasos sanguíneos del cerebro se observen en las
+radiografías
+¿Cuáles son los tratamientos para las malformaciones arteriovenosas?
+Los tratamientos para las malformaciones arteriovenosas dependen de factores como:
+Dónde está ubicada la malformación
+Su tamaño
+Sus síntomas
+Su salud general
+Su riesgo de sangrado
+Las opciones de tratamiento pueden incluir:
+Vigilar
+cualquier signo que pueda significar que tiene un mayor riesgo de hemorragia
+Medicamentos
+para ayudar con los síntomas de las malformaciones arteriovenosas
+Cirugía:
+Puede realizarse si usted tiene un riesgo de sangrado mayor de lo habitual. Existen algunos tipos diferentes de cirugía para las malformaciones arteriovenosas. En algunos casos, es posible que tenga más de un tipo. La cirugía puede ser riesgosa, especialmente si se realiza en el cerebro o la médula espinal. Por ello, usted y su profesional de la salud deben analizar los riesgos y beneficios de realizar la cirugía antes de tomar una decisión
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Sangre, corazón y circulación
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta tras radiocirugía estereotáctica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm
+
+Resource: Angiografía cerebral
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003799.htm
+
+Resource: Angiografía de resonancia magnética (ARM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiomr
+
+Resource: Angiografía por catéter
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiocath
+
+Resource: Angiotomografía computarizada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angioct
+
+Resource: Cuando los vasos sanguíneos se deforman
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/cuando-los-vasos-sanguineos-se-deforman
+
+Resource: Embolización transcatéter
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/cathembol
+
+Resource: Fístula arteriovenosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567?p=1
+
+Resource: Fístula arteriovenosa pulmonar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001090.htm
+
+Resource: Malformaciones arteriovenosas (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/arteriovenous-malformations.html
+
+Resource: Malformaciones cavernosas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cavernous-malformations/symptoms-causes/syc-20360941?p=1
+
+Resource: Malformación arteriovenosa cerebral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000779.htm
+
+Resource: Malformación arteriovenosa cerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/brain-avm/symptoms-causes/syc-20350260?p=1
+
+Resource: Síndrome de Klippel-Trenaunay
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000150.htm
+
+Resource: Síndrome de Klippel-Trénaunay
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12255/sindrome-de-klippel-trenaunay/
+
+Resource: Telangiectasia hemorrágica hereditaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000837.htm
+
+Resource: Tratamientos vasculares endocraneales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/IntracranialVasc
+
+Resource: Ultrasonido vascular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/vascularus

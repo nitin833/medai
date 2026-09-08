@@ -1,0 +1,129 @@
+Title: Hernia de disco
+
+Also Called:
+- Hernia discal
+
+Summary:
+La columna vertebral está formada por 26 huesos llamados vértebras. Entre éstas, hay discos blandos rellenos de una sustancia gelatinosa. Estos discos amortiguan (actúan como un cojín) a las vértebras y las mantienen en su lugar. A medida que envejecemos, estos discos pueden perder su capacidad de amortiguación. Esto puede causar dolor si se hace presión sobre la espalda.
+Una hernia de disco es un disco que se rompe. Cuando esto sucede, la sustancia gelatinosa se escapa e irrita los nervios de alrededor. Esto puede causar
+ciática
+o
+dolor de espalda
+.
+Su doctor puede diagnosticar un disco herniado con un examen físico y, a veces, con diagnósticos por imagen. Con tratamiento, la mayoría de las personas se recupera.  Los tratamientos incluyen reposo, analgésicos y antiinflamatorios, fisioterapia y, algunas veces, cirugía.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Alta tras cirugía de la columna vertebral
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000313.htm
+
+Resource: Artrodesis vertebral
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002968.htm
+
+Resource: Cirugía de columna lumbar
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100119_1.htm
+
+Resource: Cirugía de la columna cervical
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100133_1.htm
+
+Resource: Discectomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007250.htm
+
+Resource: Discograma (Discografía)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/discography
+
+Resource: Fusión espinal
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100121_1.htm
+
+Resource: Hernia del núcleo pulposo (disco luxado)
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000069.htm
+
+Resource: Hernia discal
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000442.htm
+
+Resource: Injerto de hueso de la columna vertebral
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100136_1.htm
+
+Resource: Inyecciones epidurales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/epidural
+
+Resource: Inyecciones vertebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Estadounidense de la Columna Vertebral
+URL: https://www.spine.org/Portals/0/assets/downloads/KnowYourBack/InjectionsSpanish.pdf
+
+Resource: Microdiscectoma
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100224_1.htm
+
+Resource: Mielografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/mielografia/
+
+Resource: Radiculopatía cervical (nervio pinzado)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/radiculopatia-cervical-nervio-pinzado-cervical-radiculopathy
+
+Resource: Reemplazo de disco en la columna lumbar
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007745.htm
+
+Resource: Resonancia magnética de la región lumbar
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007352.htm
+
+Resource: RMN de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Síndrome de la cola de caballo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-la-m%C3%A9dula-espinal/s%C3%ADndrome-de-la-cola-de-caballo
+
+Resource: TC de la columna
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinect
+
+Resource: Tomografía computarizada de la columna lumbar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007350.htm
+
+Resource: Tomografía computarizada de la columna lumbosacra
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003787.htm

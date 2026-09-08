@@ -1,0 +1,127 @@
+Title: Thymus Cancer
+
+Also Called:
+- Thymoma
+
+Summary:
+The thymus is a small organ in your upper chest, under your breastbone. Before birth and during childhood, the thymus helps the body make a type of white blood cell. These cells help protect you from infections.
+Cancer of the thymus is rare. You are more likely to get it if you have other diseases such as myasthenia gravis, lupus or rheumatoid arthritis. Sometimes there are no symptoms.  Other times, thymus cancer can cause:
+A cough that doesn't go away
+Chest pain
+Trouble breathing
+Doctors use a physical exam, imaging tests, and a biopsy to diagnose thymus cancer. The most common treatment is surgery to remove the tumor. Other options include radiation therapy, chemotherapy, and hormone therapy.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Immune System
+- Endocrine System
+
+MeSH Headings:
+- Thymus Neoplasms
+
+Related Resources:
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Can Thymus Cancer Be Found Early?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/thymus-cancer/detection-diagnosis-staging/detection.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Chest radiation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000057.htm
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Thymus Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thymus+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Endocrine System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Key Statistics about Thymus Cancers
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/thymus-cancer/about/key-statistics.html
+
+Resource: Mediastinal tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001086.htm
+
+Resource: Myasthenia Gravis
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/myasthenia-gravis
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Thymus Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Thymus+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stages of Thymoma and Thymic Carcinoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/thymus-cancer/thymoma-thymic-carcinoma#stages-of-thymoma-and-thymic-carcinoma
+
+Resource: Survival Rates for Thymus Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/thymus-cancer/detection-diagnosis-staging/survival-rates.html
+
+Resource: Thymoma and Thymic Carcinoma Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/thymus-cancer/thymoma-thymic-carcinoma#thymoma-and-thymic-carcinoma-treatment
+
+Resource: Treatment of Childhood Thymoma and Childhood Thymic Carcinoma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/thymus-cancer/childhood-thymoma-thymic-carcinoma#treatment-of-childhood-thymoma
+
+Resource: What Are the Risk Factors for Thymus Cancer?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/thymus-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: What Are Thymoma and Thymic Carcinoma?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/thymus-cancer/thymoma-thymic-carcinoma#what-are-thymoma-and-thymic-carcinoma
+
+Resource: What Is Thymus Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/thymus-cancer/about/what-is-thymus-cancer.html

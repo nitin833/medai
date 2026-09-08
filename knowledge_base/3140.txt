@@ -1,0 +1,91 @@
+Title: Seasonal Affective Disorder
+
+Also Called:
+- SAD
+- Seasonal depression
+- Seasonal mood disorder
+
+Summary:
+Seasonal affective disorder (SAD) is a type of
+depression
+that comes and goes with the seasons. It usually starts in the late fall and early winter and goes away during the spring and summer. Some people do have episodes of depression that start in the spring or summer, but that is a lot less common. Symptoms of SAD may include:
+Sadness
+Gloomy outlook
+Feeling hopeless, worthless, and irritable
+Loss of interest or pleasure in activities you used to enjoy
+Low energy
+Difficulty sleeping or oversleeping
+Carbohydrate cravings and weight gain
+Thoughts of death or
+suicide
+SAD is more common in women, young people, and those who live far from the equator. You are also more likely to have SAD if you or your family members have depression.
+The exact causes of SAD are unknown. Researchers have found that people with SAD may have an imbalance of serotonin, a brain chemical that affects your mood. Their bodies also make too much melatonin, a hormone that regulates sleep, and not enough vitamin D.
+The main treatment for SAD is light therapy. The idea behind light therapy is to replace the sunshine that you miss during the fall and winter months. You sit in front of a light therapy box every morning to get daily exposure to bright, artificial light. But some people with SAD do not respond to light therapy alone. Antidepressant medicines and talk therapy can reduce SAD symptoms, either alone or combined with light therapy.
+NIH: National Institute of Mental Health
+
+Groups:
+- Mental Health and Behavior
+
+MeSH Headings:
+- Seasonal Affective Disorder
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Seasonal Affective Disorder
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Seasonal+Affective+Disorder%22&aggFilters=status:not%20rec
+
+Resource: Feeling SAD?: Identifying and Treating Seasonal Affective Disorder
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/11/feeling-sad
+
+Resource: Psychotherapies
+Category: Learn More
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+
+Resource: Seasonal Affective Disorder
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Seasonal+Affective+Disorder%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Seasonal Affective Disorder
+Category: Learn More
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder
+
+Resource: Seasonal affective disorder
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001532.htm
+
+Resource: Seasonal Affective Disorder (SAD)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sad.html
+
+Resource: Seasonal Affective Disorder (SAD)
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/symptoms-causes/syc-20364651?p=1
+
+Resource: Seasonal Affective Disorder (SAD): More than the Winter Blues
+Category: Learn More
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/seasonal-affective-disorder-sad-more-than-the-winter-blues
+
+Resource: Seasonal Affective Disorder Sufferers Have More than Just Winter Blues
+Category: Learn More
+Organization: American Psychological Association
+URL: https://www.apa.org/news/press/releases/2013/02/seasonal-disorder?partner=nlm
+
+Resource: Seasonal affective disorder treatment: Choosing a light box
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/seasonal-affective-disorder/in-depth/seasonal-affective-disorder-treatment/art-20048298?p=1
+
+Resource: Seasonal affective disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/seasonal-affective-disorder

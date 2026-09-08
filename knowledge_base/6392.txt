@@ -1,0 +1,52 @@
+Title: Trastornos mitocondriales
+
+Also Called:
+- Trastornos mitocóndricos
+
+Summary:
+El metabolismo es el proceso que su cuerpo utiliza para producir energía a partir de los alimentos que consume. Los alimentos se componen de proteínas, carbohidratos y grasas. Los productos químicos en su sistema digestivo (enzimas) descomponen la  comida en azúcares y ácidos, el combustible para su cuerpo. Usted puede utilizar este combustible en forma inmediata, o puede almacenarlo en sus tejidos corporales. Si usted tiene un
+trastorno metabólicos
+, hay un problema en este proceso.
+Las enfermedades mitocondriales son un grupo de trastornos metabólicos. Las mitocondrias son estructuras pequeñas que producen energía en casi todas sus células. Ellas lo hacen mediante la combinación de oxígeno con las moléculas de combustible (azúcares y grasas) que provienen de los alimentos. Cuando las mitocondrias son defectuosas, las células no tienen suficiente energía. Las moléculas de oxígeno y combustible no utilizadas se acumulan en las células, causando daños.
+Los síntomas de enfermedad mitocondrial pueden variar. Depende de la cantidad de mitocondrias defectuosas y dónde están en el cuerpo. A veces, sólo un órgano, tejido o tipo de célula se ve afectada. Pero a menudo el problema afecta a muchos de ellos. Las células musculares y nerviosas tienen necesidades especialmente altas de energía, por lo que los problemas musculares y neurológicos son comunes. Las enfermedades varían de leves a graves. Algunas de ellas pueden ser fatales.
+Las mutaciones genéticas causan estas enfermedades. Por lo general, ocurren antes de los 20 años, y algunas son más comunes en los bebés. No hay cura para estas enfermedades, pero los tratamientos pueden ayudar con los síntomas y retrasar la enfermedad. Ellos pueden incluir terapia física, vitaminas y suplementos, dietas especiales y medicamentos.
+
+Groups:
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Anticuerpo antimitocondrial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003529.htm
+
+Resource: Deficiencia de LCHAD
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13052/deficiencia-de-lchad/
+
+Resource: Genética del síndrome de Barth
+Category: Spanish/Español, Genética
+Organization: Fundación del Síndrome de Barth
+URL: https://barthsyndrome.org/file_download/59e2e78a-fb09-4c72-86ae-aae106637929
+
+Resource: Neuropatía óptica hereditaria de Leber
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13049/neuropatia-optica-hereditaria-de-leber/
+
+Resource: Síndrome de Leigh
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12945/sindrome-de-leigh/
+
+Resource: Trastornos mitocondriales
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/trastornos-mitocondriales
+
+Resource: Tratamiento de enfermedades con diarrea en pacientes con síndrome de Barth
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación del Síndrome de Barth
+URL: https://barthsyndrome.org/file_download/fe01cb9a-91b3-4a25-a266-b77923e3e216

@@ -1,0 +1,356 @@
+Title: VIH
+
+Also Called:
+- Síndrome de inmunodeficiencia adquirida
+
+Summary:
+¿Qué es el VIH?
+VIH significa virus de inmunodeficiencia humana. Daña su sistema inmunitario al destruir un tipo de glóbulo blanco que ayuda a su cuerpo a combatir las infecciones. Esto lo pone en riesgo de tener otras infecciones y enfermedades.
+¿Qué es el sida?
+Sida significa síndrome de inmunodeficiencia adquirida. Es la etapa final de la infección por VIH. Ocurre cuando el sistema inmunitario del cuerpo está muy dañado por el virus. No todas las personas con VIH desarrollan sida.
+¿Cómo se transmite el VIH?
+El VIH se propaga a través de ciertos fluidos corporales de una persona con VIH. Esto puede suceder:
+Al tener relaciones sexuales vaginales o anales sin protección con una persona que tiene el VIH. Sin protección significa no usar condones o medicamentos para tratar o prevenir el VIH. Esta es la forma más común de propagación
+Compartiendo agujas para el consumo de drogas
+A través del contacto con la sangre de una persona que tiene VIH
+De la madre al feto durante el
+embarazo
+De la madre al bebé durante el parto o lactancia
+¿Quiénes corren el riesgo de contraer la infección por el VIH?
+Cualquier persona puede contraer el VIH, pero ciertos grupos tienen un mayor riesgo:
+Personas que tienen otra
+enfermedad de transmisión sexual
+(ETS. Tener una ETS puede aumentar su riesgo de contraer o transmitir el VIH
+Personas que se inyectan drogas con agujas compartidas
+Hombres gais o bisexuales
+Afrodescendientes e hispanos y latinos: Constituyen una mayor proporción de nuevos diagnósticos de VIH y personas con VIH, en comparación con otras razas y etnias
+Personas que tienen conductas sexuales riesgosas, como no usar condón o medicinas para prevenir el VIH
+Factores como el estigma, la discriminación, el ingreso, educación y región geográfica también pueden afectar el riesgo de una persona de VIH.
+¿Cuáles son los síntomas del VIH y sida?
+Los primeros signos de infección por VIH pueden ser síntomas similares a los de la gripe:
+Fiebre
+Escalofríos
+Sarpullido
+Sudoración nocturna (transpirar mucho durante la noche)
+Dolor muscular
+Dolor de garganta
+Fatiga
+Ganglios linfáticos inflamados
+Llagas en la boca
+Estos síntomas pueden aparecer y desaparecer en un plazo de 2 a 4 semanas. Esta etapa se llama infección aguda por VIH.
+Si la infección no se trata, se convierte en una infección crónica por el VIH. A menudo, no hay síntomas durante esta etapa. Si no se trata, eventualmente el virus debilitará el sistema inmunitario de su cuerpo. Entonces la infección avanzará a sida. Ésta es la última etapa de la infección por VIH. Debido a que su sistema inmunitario está gravemente dañado, su cuerpo no puede combatir otras infecciones, llamadas infecciones oportunistas. Estas son infecciones que ocurren con mayor frecuencia o son más graves en personas que tienen sistemas inmunitarios debilitados.
+Es posible que algunas personas no se sientan enfermas durante las primeras etapas de la infección por el VIH. Entonces, la única forma de saber con certeza si tiene el VIH es hacerse la prueba.
+¿Cómo sé si tengo VIH?
+Un
+análisis de sangre
+puede indicar si tiene una infección por VIH. Su profesional de la salud puede realizar la prueba o puede usar un kit de prueba en el hogar. También puede
+utilizar el localizador de pruebas de los CDC
+para encontrar sitios donde realicen la prueba sin costo.
+¿Cuáles son los tratamientos para el VIH y sida?
+Si bien no existe cura para la infección por VIH, se puede tratar con medicamentos, lo que se conoce como terapia antirretroviral. Esta puede volver la infección por VIH en una enfermedad crónica manejable. También reduce el riesgo de transmitir el virus a otras personas.
+La mayoría de las personas con VIH viven una vida larga y saludable si reciben terapia antirretroviral lo antes posible y mantienen el tratamiento. También es importante que se cuide. Contar con el apoyo que necesita, llevar un estilo de vida saludable y recibir atención médica regular puede ayudarle a disfrutar de una
+mejor calidad de vida
+.
+¿Se puede prevenir la infección por VIH?
+Puede reducir el riesgo de contagiarse o transmitir el VIH al:
+Hacerse la prueba del VIH
+Practicar conductas sexuales menos riesgosas. Esto incluye limitar la cantidad de parejas sexuales que tiene y usar condones de látex cada vez que tiene relaciones sexuales. Si usted o su pareja es alérgica al látex, puede usar condones de poliuretano
+Hacerse la prueba y recibir tratamiento para enfermedades de transmisión sexual
+No inyectarse drogas
+Hablar con su profesional de la salud sobre
+medicamentos para prevenir el VIH
+:
+PrEP (profilaxis previa a la exposición) es para personas que aún no tienen el VIH pero que tienen un riesgo muy alto de contraerlo. PrEP es un medicamento diario que puede reducir este riesgo
+PEP (profilaxis posterior a la exposición) es para personas que posiblemente han estado expuestas al VIH. Es solo para situaciones de emergencia. La PEP debe iniciarse dentro de las 72 horas posteriores a una posible exposición al VIH
+NIH: Institutos Nacionales de la Salud
+
+Groups:
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Ciclo de vida del VIH
+Category: Información de referencia, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-ciclo-de-vida-del-vih
+
+Resource: Clinical Info (en español)
+Category: Spanish/Español, Especialistas
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://clinicalinfo.hiv.gov/es
+
+Resource: Conceptos básicos sobre la prevención de la infección por el VIH
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/conceptos-basicos-sobre-la-prevencion-de-la-infeccion-por-el-vih
+
+Resource: Consideraciones sobre los tratamientos para niños y adolescentes
+Category: Adolescentes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/tratamientos-adolescentes
+
+Resource: Consumo de sustancias y probabilidad de adquirir el VIH
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://www.hiv.gov/es/informacion-basica/prevencion-del-vih/reducir-la-probabilidad-de-adquirir-vih-por-consumo-de-drogas-y-alcohol/consumo-de-sustancias-y-la-probabilidad-de-adquirir-vih
+
+Resource: Conteo de células T
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003516.htm
+
+Resource: Cómo cuidar su salud mental si tiene VIH
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_MentalHealth_SP_508c.pdf
+
+Resource: Cómo hacerse la prueba del VIH
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hiv-tests.html
+
+Resource: Cómo mantenerse saludable con el VIH
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_StayHealthy_SP_508c.pdf
+
+Resource: Cómo protegerse de contraer el VIH a través del consumo de drogas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_DrugUse_SP_508c.pdf
+
+Resource: Cómo protegerse de contraer VIH a través de relaciones sexuales
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_Sex_SP_508c.pdf
+
+Resource: Detección y diagnóstico del VIH
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003538.htm
+
+Resource: El VIH
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional sobre el Abuso de Drogas
+URL: https://nida.nih.gov/es/areas-de-investigacion/el-vih
+
+Resource: Ensayos clínicos sobre la infección por el VIH/SIDA
+Category: Spanish/Español, Estudios clínicos
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/ensayos-clinicos-sobre-la-infeccion-por-el-vihsida
+
+Resource: Glosario de la Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+Category: Información de referencia, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://clinicalinfo.hiv.gov/es/glossary
+
+Resource: Infección por el VIH y la hepatitis B
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/la-infeccion-por-el-vih-y-la-hepatitis-b
+
+Resource: Infección por el VIH y la hepatitis C
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/la-infeccion-por-el-vih-y-la-hepatitis-c
+
+Resource: Infección por VIH asintomática
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000682.htm
+
+Resource: Medicinas para el VIH: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hivaidsmedicines.html
+
+Resource: Microbicidas
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://www.hiv.gov/es/informacion-basica/prevencion-del-vih/potenciales-opciones-futuras/microbicidas
+
+Resource: Obtenga información sobre el VIH
+Category: Comience aquí, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_WhatIsHIV_SP_508c.pdf
+
+Resource: Obtenga información sobre la atención médica para el VIH
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_MedicalCare_SP_508c.pdf
+
+Resource: Obtenga información sobre las pruebas de detección del VIH
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_GetTested_SP_508c.pdf
+
+Resource: Obtenga información útil sobre los medicamentos contra el VIH
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_Medicines_SP_508c.pdf
+
+Resource: Patógenos de transmisión hemática
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000453.htm
+
+Resource: Prueba de carga viral
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-carga-viral/
+
+Resource: Prueba de detección de células B y T
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003329.htm
+
+Resource: Prueba de VIH
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-vih/
+
+Resource: Pruebas médicas en el hogar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-medicas-en-el-hogar/
+
+Resource: Qué hacer después de enterarse que tiene el VIH
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_RecentlyDiagnosed_SP_508c.pdf
+
+Resource: Recuento de linfocitos CD4
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/recuento-de-linfocitos-cd4/
+
+Resource: Síntomas del VIH
+Category: Spanish/Español, Síntomas
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://www.hiv.gov/es/informacion-basica/descripcion-general/acerca-del-vih-y-sida/sintomas-del-vih/
+
+Resource: Uso del condón: información general
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/condom-use/es/uso-del-condon-informacion-general.html
+
+Resource: VIH en mujeres: Tema de salud de MedlinePlus
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hivaidsinwomen.html
+
+Resource: VIH y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/prevencion-del-riesgo/infecciones/infeccion-con-vih-sida.html
+
+Resource: VIH y el SIDA: Conceptos básicos
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/vih-y-el-sida-conceptos-basicos
+
+Resource: VIH y el uso de sustancias
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-el-uso-de-sustancias
+
+Resource: VIH y la tuberculosis (TB)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-la-tuberculosis-tb
+
+Resource: VIH y las personas mayores
+Category: Personas mayores, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-las-personas-mayores
+
+Resource: VIH y los hombres gay y bisexuales
+Category: Hombres, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-los-hombres-gay-y-bisexuales
+
+Resource: VIH, el SIDA y las personas mayores
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/vih-sida/vih-sida-personas-mayores
+
+Resource: VIH: PrEP y PEP: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hivprepandpep.html
+
+Resource: Virus de la inmunodeficiencia humana (VIH) y el SIDA
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/std-hiv.html
+
+Resource: Virus de la inmunodeficiencia humana (VIH) y el SIDA (para padres)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hiv.html
+
+Resource: Viviendo con VIH: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/livingwithhivaids.html
+
+Resource: ¿Cuáles son los síntomas comunes del VIH?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/sintomas
+
+Resource: ¿Cómo diagnostican el VIH los proveedores de atención médica?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/diagnostica
+
+Resource: ¿Cómo se contrae el SIDA?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/aids.html
+
+Resource: ¿Cómo se puede prevenir el VIH?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/prevenir
+
+Resource: ¿Cómo se transmite el VIH?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/contagia
+
+Resource: ¿Podría ser la etapa inicial del VIH?
+Category: Spanish/Español, Síntomas
+Organization: Departamento de Salud del Estado de Nueva York
+URL: https://www.health.ny.gov/publications/9586.pdf
+
+Resource: ¿Qué es el VIH y qué es el SIDA?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion
+
+Resource: ¿Qué es una vacuna preventiva contra el VIH?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/que-es-una-vacuna-preventiva-contra-el-vih
+
+Resource: ¿Qué es una vacuna terapéutica contra el VIH?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/que-es-una-vacuna-terapeutica-contra-el-vih
+
+Resource: ¿Qué factores aumentan la probabilidad de contraer el VIH?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/hiv/informacion/factores
+
+Resource: ¿Qué son las infecciones por el VIH y el sida?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/hiv.html

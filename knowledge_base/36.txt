@@ -1,0 +1,411 @@
+Title: Nutrition
+
+Summary:
+Good nutrition is important in keeping people healthy throughout their lives - when they are
+babies
+,
+toddlers
+,
+children
+, adults, and then
+older adults
+. It can help people live longer and lower their risk of health problems like
+heart disease
+,
+type 2 diabetes
+,
+obesity
+, and more.
+Good nutrition is about healthy eating. This means regularly choosing healthy foods and beverages. A healthy eating plan should give your body the energy and nutrients that you need every day. Nutrients include
+proteins
+,
+carbohydrates
+,
+fats
+,
+vitamins
+,
+minerals
+, and
+water
+. The plan should also take into account your preferences, cultural traditions, and budget.
+Healthy eating does not mean that you have to follow a very strict diet or eat only a few specific types of food. It doesn't mean that you can never eat your favorite foods. You can eat a variety of foods, including less healthy favorites. But it's important not to eat too much of those foods or have them too often. You can balance those foods with healthier foods and
+regular physical activity
+.
+The keys to a healthy eating plan include:
+Eating a variety of foods, including vegetables, fruits, and whole-grain products
+Eating lean meats, poultry, fish, beans, and low-fat dairy products
+Getting enough
+fiber
+Drinking lots of water
+Limiting
+salt
+, added sugars,
+alcohol
+, and saturated fat
+Making sure that you get enough nutrients, especially
+calcium
+,
+vitamin D
+, and
+potassium
+Centers for Disease Control and Prevention
+
+Groups:
+- Food and Nutrition
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Nutritional Physiological Phenomena
+- Nutrition Disorders
+
+Related Resources:
+
+Resource: 12 healthy snacks with 200 calories or less
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000724.htm
+
+Resource: 2025-2030 Dietary Guidelines for Americans
+Category: Start Here
+Organization: Department of Health and Human Services, Department of Agriculture
+URL: https://www.dietaryguidelines.gov
+
+Resource: 30 Tips to Help Your Family Eat Better
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/daily-tips-to-help-your-family-eat-better
+
+Resource: 6 Tips for Eating Healthy on a Budget
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/healthy-eating/6-tips-eating-healthy-on-budget.html
+
+Resource: 7 Whole-Grain Foods You Should Try
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/types-of-whole-grains
+
+Resource: Academy of Nutrition and Dietetics
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org
+
+Resource: Are You Eating Enough Fruits and Vegetables?
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000339_54.htm
+
+Resource: Barley, Farro, Sorghum and More: 9 Whole Grains to Try
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/expert-qa/barley-farro-sorghum-and-more-9-whole-grains-to-try
+
+Resource: Breaking Down Food: A Closer Look at What You Eat
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/08/breaking-down-food
+
+Resource: Calorie count - fast food
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000887.htm
+
+Resource: Center for Nutrition Policy and Promotion
+Category: Find an Expert
+Organization: Center for Nutrition Policy and Promotion
+URL: https://www.fna.usda.gov/cnpp
+
+Resource: ClinicalTrials.gov: Nutrition
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nutrition%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Nutrition Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nutrition+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Nutritional Physiological Phenomena
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nutritional+Physiological+Phenomena%22&aggFilters=status:not%20rec
+
+Resource: Definitions of Health Terms: Nutrition
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/definitions/nutritiondefinitions.html
+
+Resource: Dejunking Your Diet: The Drawbacks of Ultra-Processed Foods
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/02/dejunking-your-diet
+
+Resource: Diet in the News -- What to Believe?
+Category: Related Issues
+Organization: Harvard School of Public Health
+URL: https://www.hsph.harvard.edu/nutritionsource/media/
+
+Resource: Eating extra calories when sick - adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000035.htm
+
+Resource: Eating out
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000339.htm
+
+Resource: Eatright.org: For Men
+Category: Men
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/for-men
+
+Resource: Fast food tips
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000105.htm
+
+Resource: FastStats: Diet/Nutrition
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/diet.htm
+
+Resource: Feeding Your Family on a Tight Budget
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/feeding-families.html
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food additives
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002435.htm
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food Groups
+Category: Specifics
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/food/food-groups
+
+Resource: Food Ingredients & Packaging
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/food-ingredients-packaging
+
+Resource: Foods for Eye Health
+Category: Specifics
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/wellness/healthful-habits/5-top-foods-for-eye-health
+
+Resource: Fresh Take on What "Healthy" Means on Food Packages
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/fresh-take-what-healthy-means-food-packages
+
+Resource: Healthy Eating
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-eating
+
+Resource: Healthy Eating Linked to Better Brain Health
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/12/healthy-eating-linked-better-brain-health
+
+Resource: Healthy Eating Tips
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nutrition/features/healthy-eating-tips.html
+
+Resource: Healthy food trends - beans and legumes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000726.htm
+
+Resource: Healthy food trends - brussels sprouts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000725.htm
+
+Resource: Healthy food trends - chia seeds
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000727.htm
+
+Resource: Healthy food trends - flaxseeds
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000728.htm
+
+Resource: Healthy food trends - kale
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000729.htm
+
+Resource: Healthy food trends - microgreens
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000730.htm
+
+Resource: Healthy food trends - quinoa
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000731.htm
+
+Resource: Healthy grocery shopping
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000336.htm
+
+Resource: Healthy Habits: Fruits and Vegetables to Manage Weight
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-weight-growth/healthy-eating/fruits-vegetables.html
+
+Resource: Healthy Holiday Eating Tips
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/healthy-holiday-eating-tips/
+
+Resource: Healthy Recipes
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/recipes/
+
+Resource: Heart-Healthy Living - Aim for a Healthy Weight
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight
+
+Resource: How Do I Change Recipes?
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/-/media/files/health-topics/answers-by-heart/how-do-i-change-recipes.pdf
+
+Resource: How Much Fast Food Do We Eat in America?
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://blogs.cdc.gov/nchs/2025/06/26/7784/
+
+Resource: How to read food labels
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000107.htm
+
+Resource: Is Food Safe if It Has Chemicals?
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/food-safe-if-it-has-chemicals
+
+Resource: Managing your weight with healthy eating
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000330.htm
+
+Resource: Milk and Plant-Based Milk Alternatives: Know the Nutrient Difference
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/milk-and-plant-based-milk-alternatives-know-nutrient-difference
+
+Resource: MyPlate
+Category: Start Here
+Organization: Department of Agriculture
+URL: https://www.fna.usda.gov/tn/myplate
+
+Resource: MyPlate Food Guide
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/myplate.html
+
+Resource: MyPlate.gov
+Category: Start Here
+Organization: Department of Agriculture
+URL: https://www.myplate.gov/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Nutrition
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/healthy-living/nutrition/Pages/default.aspx
+
+Resource: Nutrition Facts for Cooked Seafood
+Category: Patient Handouts, Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/files/food/published/Nutrition-Information-for-Cooked-Seafood-(purchased-raw)---Medium-PDF-Poster.pdf
+
+Resource: Nutrition Facts for Raw Fruits
+Category: Patient Handouts, Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/files/food/published/Nutrition-Information-for-Raw-Fruits---small-PDF-Poster.pdf
+
+Resource: Nutrition Facts for Raw Vegetables
+Category: Patient Handouts, Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/70792/download
+
+Resource: Nutrition.gov
+Category: Start Here
+Organization: Department of Agriculture
+URL: https://www.nutrition.gov/
+
+Resource: Nutrition
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Nutrition+Disorders%22%5Bmajr%3Anoexp%5D+OR+%22Nutritional+Physiological+Phenomena%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recipes
+Category: Specifics
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/recipes
+
+Resource: Simple, heart-smart substitutions
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000746.htm
+
+Resource: Snacks for adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000338.htm
+
+Resource: Soy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007204.htm
+
+Resource: Strategies for Eating Well on a Budget
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://nutritionsource.hsph.harvard.edu/strategies-nutrition-budget/
+
+Resource: Test Your Knowledge About Healthy Eating
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000330_25.htm?quiz=1
+
+Resource: Ultra-processed foods
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007847.htm
+
+Resource: Vegetables and Fruits
+Category: Specifics
+Organization: Harvard School of Public Health
+URL: https://nutritionsource.hsph.harvard.edu/what-should-you-eat/vegetables-and-fruits/
+
+Resource: Your Guide to Healthy Eating Habits That Stick
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/your-guide-to-healthy-eating-habits-that-stick

@@ -1,0 +1,90 @@
+Title: Fire Safety
+
+Also Called:
+- Fire prevention
+
+Summary:
+Preventing fires is an important part of fire safety. In the United States, cooking is the main cause of home fires. Cigarettes are a big risk too - they are the leading cause of fire deaths. Here are some fire prevention tips:
+Don't leave the stove or oven unattended when they are on
+Don't let children use kitchen appliances unsupervised
+Don't smoke in bed
+Make sure your electrical appliances and cords are in good condition
+It is also important to be prepared in case there is a fire. Make sure that you have working smoke detectors on every floor and in every bedroom. You should also have fire extinguishers on every floor and in your kitchen.  Make and practice an escape plan in case the main exit is blocked.
+
+Groups:
+- Safety Issues
+
+MeSH Headings:
+- Fires
+- Safety
+
+Related Resources:
+
+Resource: Choosing and Using Fire Extinguishers
+Category: Learn More
+Organization: United States Fire Administration
+URL: https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/fire-extinguishers/
+
+Resource: Every Second Counts: Plan 2 Ways Out!
+Category: Learn More
+Organization: United States Fire Administration, Federal Emergency Management Agency
+URL: https://www.usfa.fema.gov/downloads/pdf/publications/two_ways_out_infographic.pdf
+
+Resource: Fire Safety: Protecting Your Family from a Home Fire
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/safety-prevention/all-around/pages/Fire-Safety.aspx
+
+Resource: Fireworks
+Category: Learn More
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Fireworks
+
+Resource: Fireworks Safety
+Category: Learn More
+Organization: National Fire Protection Association
+URL: https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/fireworkssafetytips.pdf
+
+Resource: High-Rise Apartment and Condominium Fire Safety
+Category: Learn More
+Organization: United States Fire Administration, Federal Emergency Management Agency
+URL: https://www.usfa.fema.gov/downloads/pdf/publications/high-rise-fire-safety-infographic.pdf
+
+Resource: Hoarding and Fire: Reducing the Risk
+Category: Learn More
+Organization: National Fire Protection Association
+URL: https://content.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/hoardingsafetytips.pdf
+
+Resource: Home Fire Preparedness Checklist
+Category: Learn More
+Organization: American Red Cross
+URL: https://www.redcross.org/content/dam/redcross/get-help/pdfs/home-fire/EN_Home-Fire-Safety-Checklist.pdf
+
+Resource: Home Fires
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/home-fires
+
+Resource: Oxygen Therapy: Using Oxygen Safely
+Category: Learn More
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy/using-oxygen-safely
+
+Resource: Preventing House Fires
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fire.html
+
+Resource: Fire Safety
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Fires%22%5Bmajr%5D+AND+%22Safety%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: United States Fire Administration
+Category: Learn More
+Organization: United States Fire Administration
+URL: https://www.usfa.fema.gov/
+
+Resource: Workplace Fire Safety
+Category: Learn More
+Organization: United States Fire Administration, Federal Emergency Management Agency
+URL: https://www.usfa.fema.gov/downloads/pdf/publications/workplace-fire-safety-infographic.pdf

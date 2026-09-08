@@ -1,0 +1,252 @@
+Title: Vaccines
+
+Also Called:
+- Immunization
+- Vaccination
+
+Summary:
+What are vaccines?
+Vaccines are injections (shots), liquids, pills, or nasal sprays that you take to teach your body's
+immune system
+to recognize and defend against harmful germs. For example, there are vaccines to protect against diseases caused by:
+Viruses
+, like the ones that cause the
+flu
+and
+COVID-19
+Bacteria
+, including
+tetanus, diphtheria, and pertussis
+What are the types of vaccines?
+There are several types of vaccines:
+Live-attenuated vaccines
+use a weakened form of the germ.
+Inactivated vaccines
+use a killed version of the germ.
+Subunit, recombinant, polysaccharide, and conjugate vaccines
+use only specific pieces of the germ, such as its protein, sugar, or casing.
+Toxoid vaccines
+use a toxin (harmful product) made by the germ.
+mRNA vaccines
+use messenger RNA, which gives your cells instructions for how to make a protein (or piece of a protein) of the germ.
+Viral vector vaccines
+use genetic material, which gives your cells instructions for making a protein of the germ. These vaccines also contain a different, harmless virus that helps get the genetic material into your cells.
+These vaccines may work in different ways, but they all spark an immune response. The immune response is the way your body defends itself against substances it sees as foreign or harmful. These substances include germs that can cause disease.
+What happens in an immune response?
+There are different steps in the immune response:
+When a germ invades, your body sees it as foreign.
+Your immune system helps your body fight off the germ.
+Your immune system also remembers the germ. It will attack the germ if it ever invades again. This "memory" protects you against the disease that the germ causes. This type of protection is called immunity.
+What are immunization and vaccination?
+Immunization is the process of becoming protected against a disease. But it can also mean the same thing as vaccination, which is getting a vaccine to become protected against a disease.
+Why are vaccines important?
+Vaccines are important because they protect you against many diseases. These diseases can be very serious. So getting immunity from a vaccine is safer than getting immunity by being sick with the disease.
+For a few vaccines, getting vaccinated can actually give you a better immune response than getting the disease would.
+But vaccines don't just protect you. They also protect the people around you through community immunity.
+What is community immunity?
+Community immunity, or herd immunity, is the idea that vaccines can help keep communities healthy.
+Normally, germs can travel quickly through a community and make a lot of people sick. If enough people get sick, it can lead to an outbreak. But when enough people are vaccinated against a certain disease, it's harder for that disease to spread to others. This type of protection means that the entire community is less likely to get the disease.
+Community immunity is especially important for people who can't get certain vaccines. For example, they may not be able to get a vaccine because they have weakened immune systems. Others may be allergic to certain vaccine ingredients. And newborn babies are too young to get some vaccines. Community immunity can help to protect them all.
+Are vaccines safe?
+Vaccines are
+safe
+. They must go through extensive safety testing and evaluation before they are approved in the United States.
+What is a vaccine schedule?
+A vaccine, or immunization, schedule lists which vaccines are recommended for different groups of people. It includes who should get the vaccines, how many doses they need, and when they should get them. In the United States, the Centers for Disease Control and Prevention (CDC) publishes the vaccine schedule.
+It's important for both
+children
+and adults to get their vaccines according to the schedule. Following the schedule allows them to get protection from the diseases at exactly the right time.
+
+Groups:
+- Infections
+- Immune System
+
+MeSH Headings:
+- Vaccination
+- Immunization
+- Vaccines
+
+Related Resources:
+
+Resource: (Vaccine-Preventable Disease) Photo Library
+Category: Images
+Organization: Immunization Action Coalition
+URL: https://www.vaccineinformation.org/photos/
+
+Resource: 5 Reasons It Is Important for Adults to Get Vaccinated
+Category: Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-adults/reasons/index.html
+
+Resource: A New Vaccine is Here to Protect You and Your Loved Ones from RSV This Winter
+Category: Specifics
+URL: https://magazine.medlineplus.gov/article/a-new-vaccine-is-here-to-protect-you-and-your-loved-ones-from-rsv-this-winter
+
+Resource: Adult Immunization Schedule by Age (Addendum Updated June 27, 2024)
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html
+
+Resource: Antibody titer blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003333.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Childhood Immunization: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodimmunization.html
+
+Resource: ClinicalTrials.gov: Vaccines for Adults
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=vaccines&aggFilters=ages:adult%20older,status:not%20rec
+
+Resource: Current Vaccine Shortages and Delays
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/vaccines-us/shortages-delays.html
+
+Resource: Explaining How Vaccines Work
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/explaining-how-vaccines-work.html
+
+Resource: Get Vaccines to Protect Your Health (Adults Ages 19 to 49 Years)
+Category: Start Here
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/doctor-visits/vaccines-shots/get-vaccines-protect-your-health-adults-ages-19-49-years
+
+Resource: Immunizations for people with diabetes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000331.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: National Vaccine Program
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office of Infectious Disease and HIV/AIDS Policy
+URL: https://www.hhs.gov/vaccines/index.html
+
+Resource: Overview of the Immune System
+Category: Reference Desk
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-overview
+
+Resource: Pregnancy and Vaccination
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-pregnancy/
+
+Resource: Vaccines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Immunization%22%5Bmajr%3Anoexp%5D+OR+%22Vaccination%22%5Bmajr%3Anoexp%5D+OR+%22Vaccines%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Screening Checklist for Contraindications to Vaccines for Adults
+Category: Diagnosis and Tests
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4065.pdf
+
+Resource: Staying Up to Date with Your Vaccine Records
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-adults/recommended-vaccines/keeping-vaccine-records-up-to-date.html
+
+Resource: Travelers' Health: Destinations
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/destinations/list
+
+Resource: Vaccination Is the Best Protection against Measles
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/vaccination-best-protection-against-measles
+
+Resource: Vaccinations and Flu Shots for People with Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/infections/vaccination-during-cancer-treatment.html
+
+Resource: Vaccinations and Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/immunizations-and-vaccines/vaccinations-and-older-adults
+
+Resource: Vaccinations for Adults with Diabetes
+Category: Related Issues
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4043.pdf
+
+Resource: Vaccine Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/
+
+Resource: Vaccine Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/basics/index.html
+
+Resource: Vaccine Basics
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/basics/index.html
+
+Resource: Vaccine Information for Adults
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-adults/
+
+Resource: Vaccine Recommendations Before, During, and After Pregnancy
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-pregnancy/recommended-vaccines/index.html
+
+Resource: Vaccine Safety: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/vaccinesafety.html
+
+Resource: Vaccines
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000137.htm
+
+Resource: Vaccines - immunizations
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002024.htm
+
+Resource: Vaccines and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/vaccines-pregnancy/
+
+Resource: Vaccines By Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/by-disease/
+
+Resource: Vaccines Protect Your Community
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://www.hhs.gov/immunization/basics/work/protection/index.html
+
+Resource: VaxView Vaccination Coverage
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/data-reporting/
+
+Resource: What Vaccines Are Recommended for You
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines-adults/recommended-vaccines/

@@ -1,0 +1,56 @@
+Title: Fiebres hemorrágicas
+
+Summary:
+Las fiebres hemorrágicas virales son un grupo de enfermedades causadas por cuatro familias de virus. Entre ellos se encuentran los virus del
+Ebola
+y Marburg, el virus de la fiebre de Lassa y el virus de la fiebre amarilla. Estas fiebres tienen características comunes: afectan muchos órganos, lesionan los vasos sanguíneos y alteran la capacidad del organismo para auto-regularse. Algunas de estas fiebres hemorrágicas causan una enfermedad leve, pero otras, como las causadas por los virus Ebola o Marburg, causan enfermedades graves y muerte.
+Las fiebres hemorrágicas virales se encuentran en todo el mundo. Las enfermedades específicas suelen estar limitadas a zonas donde viven los animales que las transmiten. Por ejemplo, la fiebre de Lassa se limita a las zonas rurales del oeste de África, donde hay ratas y ratones portadores del virus.
+El riesgo para las personas que viajan es bajo, pero deben evitar visitar zonas donde hay brotes de la enfermedad. Dado que no existen tratamientos eficaces para algunas de estas infecciones virales, existe preocupación por su uso en el
+bioterrorismo
+.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Enfermedad por el virus de Marburgo
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/marburg-virus-disease
+
+Resource: Fiebre amarilla
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001365.htm
+
+Resource: Fiebre hemorrágica de Crimea-Congo
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/crimean-congo-haemorrhagic-fever
+
+Resource: Fiebres hemorrágicas virales
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/viral-hemorrhagic-fevers/symptoms-causes/syc-20351260?p=1
+
+Resource: Fiebres hemorrágicas virales
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud del Estado de Washington
+URL: https://doh.wa.gov/sites/default/files/legacy/Documents/Pubs//821-026_VHF_Sp.pdf
+
+Resource: Fiebres hemorrágicas virales: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/viral-hemorrhagic-fevers/diagnosis-treatment/drc-20351266?p=1
+
+Resource: Introducción a las fiebres hemorrágicas
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/breve-informaci%C3%B3n-infecciones/arbovirus-arenavirus-y-filovirus/introducci%C3%B3n-a-las-fiebres-hemorr%C3%A1gicas
+
+Resource: Vacuna contra la fiebre amarilla
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_yellow_fever.pdf

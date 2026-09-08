@@ -1,0 +1,154 @@
+Title: Ictericia
+
+Summary:
+La ictericia hace que la piel y las partes blancas de los ojos se pongan amarillas. El exceso de bilirrubina causa la ictericia. La bilirrubina es una sustancia química color amarillo que contiene la hemoglobina, sustancia que transporta el oxígeno en los glóbulos rojos. A medida que los glóbulos rojos se degradan, el cuerpo desarrolla nuevas células para sustituirlos. Las células degradadas se procesan en el hígado. Si el hígado no puede manejar las células sanguíneas a medida que se degradan, se acumula bilirrubina en el organismo y la piel puede verse  amarilla.
+Muchos bebés sanos tienen un poco de ictericia en la primera semana de vida. Por lo general, desaparece espontáneamente. Sin embargo, la ictericia puede ocurrir a cualquier edad y ser un signo de que existe un problema. La ictericia puede presentarse por varios motivos, tales como:
+Enfermedades de la sangre
+Síndromes genéticos
+Enfermedades hepáticas, tales como la
+hepatitis
+o la
+cirrosis
+Obstrucción de los conductos biliares
+Infecciones
+Medicamentos
+
+Groups:
+- Sistema digestivo
+- Síntomas
+
+Related Resources:
+
+Resource: Alta tras ictericia del recién nacido
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000296.htm
+
+Resource: Análisis de sangre: Bilirrubina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-bilirubin.html
+
+Resource: Atresia biliar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001145.htm
+
+Resource: Bililuces
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002394.htm
+
+Resource: Bilirrubina en orina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003595.htm
+
+Resource: Biopsia hepática
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/biopsie-du-foie/?lang=es
+
+Resource: Causas de la ictericia
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007491.htm
+
+Resource: Colangiografía transhepática percutánea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003820.htm
+
+Resource: Cómo reconocer la ictericia
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-reconocer-la-ictericia
+
+Resource: Encefalopatía bilirrubínica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007309.htm
+
+Resource: Examen de bilirrubina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-bilirrubina-en-sangre/
+
+Resource: Examen de bilirrubina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003479.htm
+
+Resource: Examen de isoenzimas de la fosfatasa alcalina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003497.htm
+
+Resource: Exanguinotransfusión
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002923.htm
+
+Resource: Hiperbilirrubinemia familiar transitoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001196.htm
+
+Resource: Ictericia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000210.htm
+
+Resource: Ictericia del recién nacido
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001559.htm
+
+Resource: Ictericia del recién nacido: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000257.htm
+
+Resource: Ictericia en recién nacidos sanos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/jaundice.html
+
+Resource: Ictericia y lactancia materna
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000995.htm
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Serie de la exanguinotransfusión
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100018_1.htm
+
+Resource: Síndrome de Crigler-Najjar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001127.htm
+
+Resource: Síndrome de Dubin-Johnson
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000242.htm
+
+Resource: Síndrome de Gilbert
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gilberts-syndrome/symptoms-causes/syc-20372811?p=1
+
+Resource: Síndrome de Gilbert
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000301.htm
+
+Resource: ¿Qué le da el color amarillo a la orina? La respuesta está en el intestino
+Category: Spanish/Español, Asuntos relacionados
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/que-le-da-el-color-amarillo-a-la-orina-la-respuesta-esta-en-el-intestino

@@ -1,0 +1,155 @@
+Title: Síndromes mielodisplásicos
+
+Also Called:
+- SMD
+
+Summary:
+La
+médula ósea
+es el tejido esponjoso dentro de algunos de sus huesos, tales como la cadera y huesos de los muslos. Contiene células inmaduras, llamadas células madre. Las células madre pueden desarrollarse en los glóbulos rojos que transportan oxígeno a través de su cuerpo, los glóbulos blancos que combaten las infecciones y las plaquetas que ayudan con la coagulación de la sangre. Si usted tiene un síndrome mielodisplásico, las células madre no maduran hasta convertirse en células sanguíneas sanas. Esto deja menos espacio para las células sanas, lo cual puede conducir a una infección,
+anemia
+o sangrado.
+Los síndromes mielodisplásicos no suelen provocar síntomas al principio y se encuentran a veces durante una prueba de sangre de rutina. Si usted tiene síntomas, éstos pueden incluir:
+Dificultad para respirar
+Debilidad o cansancio
+Piel más pálida que de costumbre
+Fácil aparición de moretones o sangrado
+Pequeñas manchas en la piel causadas por hemorragias
+Fiebre o infecciones frecuentes
+Los síndromes mielodisplásicos son poco comunes. Las personas con mayor riesgo son las mayores de 60 años, quienes se hayan sometido a quimioterapia o radioterapia o hayan sido expuestos a ciertas sustancias químicas. Las opciones de tratamiento incluyen transfusiones, medicamentos, quimioterapia y trasplante de células madre de la sangre o la médula ósea.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Alta después de trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000010.htm
+
+Resource: Análisis de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/analisis-de-sangre
+
+Resource: Aspectos generales de las opciones de tratamiento (neoplasias mielodisplásicas o mieloproliferativas)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_72
+
+Resource: Aspectos generales de las opciones de tratamiento (síndromes mielodisplásicos)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mielodisplasicos-pdq#_51
+
+Resource: Estadios de la leucemia mielógena crónica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/leucemia/paciente/tratamiento-lmc-pdq#_96
+
+Resource: Estadísticas importantes sobre los síndromes mielodisplásicos
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/acerca/estadisticas-clave.html
+
+Resource: Factores de riesgo de los síndromes mielodisplásicos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Información general sobre las neoplasias mielodisplásicas o mieloproliferativas
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Leucemia mielomonocítica crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_23
+
+Resource: Leucemia mielomonocítica juvenil
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_39
+
+Resource: Neoplasia mielodisplásica o mieloproliferativa no clasificada
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mds-mpd-pdq#_159
+
+Resource: Pruebas para encontrar los síndromes mielodisplásicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Puntajes pronósticos de los síndromes mielodisplásicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/deteccion-diagnostico-clasificacion-por-etapas/clasificacion-por-etapas.html
+
+Resource: Síndrome mielodisplásico
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007716.htm
+
+Resource: Síndromes mielodisplásicos: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/myelodysplastic-syndrome/diagnosis-treatment/drc-20366980?p=1
+
+Resource: Tipos de síndromes mielodisplásicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/acerca/tipos-de-sindromes-mielodisplasicos.html
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100112_1.htm
+
+Resource: Trasplante de médula ósea
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003009.htm
+
+Resource: Trasplante de médula ósea: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bonemarrowtransplantation.html
+
+Resource: Trasplante y los síndromes mielodisplásicos (SMD)
+Category: Comience aquí, Spanish/Español
+Organization: NMDP
+URL: https://www.nmdp.org/-/media/project/nmdp/networkresourcecenter/pdfs/services-support/materials-catalog/np01425-transplant-and-mds_final_es-us.pdf
+
+Resource: Tratamiento para los síndromes mielodisplásicos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mieloproliferativas/paciente/tratamiento-mielodisplasicos-pdq#section/_94
+
+Resource: ¿Es posible prevenir los síndromes mielodisplásicos?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/causas-riesgos-prevencion/prevencion.html
+
+Resource: ¿Qué avances hay en la investigación y el tratamiento de los síndromes mielodisplásicos?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/acerca/nuevas-investigaciones.html
+
+Resource: ¿Qué causa los síndromes mielodisplásicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/causas-riesgos-prevencion/que-lo-causa.html
+
+Resource: ¿Qué son los síndromes mielodisplásicos?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sindrome-mielodisplasico/acerca/que-es-sindrome-mielodisplasico.html

@@ -1,0 +1,171 @@
+Title: Cesarean Delivery
+
+Also Called:
+- C-section
+- Cesarean section
+
+Summary:
+What is a cesarean delivery?
+A cesarean delivery, also called a cesarean section or c-section, is surgery to deliver a baby. The baby is taken out through your abdomen (belly). In the United States, almost one in three babies are born this way. Some cesarean deliveries are planned. Others are emergency cesarean deliveries, which are done when
+unexpected problems
+happen during delivery.
+When is a cesarean delivery needed?
+You may need a cesarean delivery because:
+You have
+health problems
+, including
+infection
+You are carrying
+more than one baby
+Your baby is too big
+Your baby is in the wrong position
+Your baby's health is in danger
+Labor is not moving along as it should
+There are problems with your placenta (the organ that brings oxygen and nutrients to your baby)
+Not everyone who has had a cesarean delivery before will need another one next time. You may be able to have a vaginal birth after cesarean (VBAC). Talk to your health care provider about what is right for you.
+How is a cesarean delivery done?
+Before the surgery, you will be given pain medicine. Depending on your circumstances, you might get:
+An epidural block, which numbs the lower part of the body through an injection in the spine.
+A spinal block, which numbs the lower part of the body through an injection directly into the spinal fluid.
+General anesthesia, which makes you unconscious during the surgery. This is often used during emergency cesarean deliveries.
+During the surgery, the surgeon will:
+Make a cut in your abdomen and uterus. The cut is usually horizontal, but in some cases it may be vertical.
+Open the amniotic sac and take out your baby.
+Cut the umbilical cord and the placenta.
+Close the uterus and abdomen with stitches that will later dissolve.
+What are the risks of a cesarean delivery?
+A cesarean delivery is relatively safe for you and your baby. But it is still a major surgery, and it carries risks. They may include:
+Infection
+Blood loss
+Blood clots
+in the legs, pelvic organs, or lungs
+Injury to surrounding structures, such as the bowel or bladder
+A
+reaction
+to the medicines or anesthesia used
+Some of these risks do also apply to a vaginal birth. But it does take longer to recover from a cesarean delivery than from a vaginal birth. And having a cesarean delivery can raise the risk of having difficulties with future pregnancies. The more cesarean deliveries you have, the more the risk goes up.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Women
+- Pregnancy and Reproduction
+- Female Reproductive System
+
+MeSH Headings:
+- Cesarean Section
+
+Related Resources:
+
+Resource: After a C-section - in the hospital
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000620.htm
+
+Resource: Breastfeeding after Cesarean Delivery
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/pages/Breastfeeding-After-Cesarean-Delivery.aspx
+
+Resource: C-section
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002911.htm
+
+Resource: C-section - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100191_1.htm
+
+Resource: Cesarean section
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000028.htm
+
+Resource: Cesarean Sections (C-Sections)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/c-sections.html
+
+Resource: ClinicalTrials.gov: Cesarean Section
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cesarean+Section%22&aggFilters=status:not%20rec
+
+Resource: Delivery by Cesarean Section
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/prenatal/delivery-beyond/pages/Delivery-by-Cesarean-Section.aspx
+
+Resource: FastStats: Births - Method of Delivery
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/delivery.htm
+
+Resource: Going home after a C-section
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000624.htm
+
+Resource: Having a C-Section
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/birth/having-c-section
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Labor and Delivery, Postpartum Care (Cesarean Delivery)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/c-section-recovery/art-20047310?p=1
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Medical Reasons for a C-Section
+Category: Specifics
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/birth/medical-reasons-c-section
+
+Resource: PeriStats (Perinatal Statistics)
+Category: Statistics and Research
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/peristats/
+
+Resource: Cesarean Delivery
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cesarean+Section%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Repeat C-Sections: Is There a Limit?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/c-section/expert-answers/c-sections/faq-20058380?p=1
+
+Resource: Vaginal birth after C-section
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000589.htm
+
+Resource: VBAC: Know the Pros and Cons
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/labor-and-delivery/in-depth/vbac/art-20044869?p=1
+
+Resource: What Is a C-Section?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/labor-delivery/topicinfo/c-section
+
+Resource: What Is Vaginal Birth after Cesarean (VBAC)?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/labor-delivery/topicinfo/vbac
+
+Resource: Why at Least 39 Weeks Is Best for Your Baby
+Category: Related Issues
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/birth/why-least-39-weeks-best-your-baby

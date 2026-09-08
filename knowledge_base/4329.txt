@@ -1,0 +1,185 @@
+Title: Arm Injuries and Disorders
+
+Summary:
+Of the 206 bones in your body, three of them are in your arm: the humerus, radius, and ulna. Your arms are also made up of muscles, joints, tendons, and other connective tissue. Injuries to any of these parts of the arm can occur during sports, a fall, or an accident.
+Types of arm injuries include :
+Tendinitis
+and
+bursitis
+Sprains
+Dislocations
+Fractures
+(broken bones)
+Nerve problems
+Osteoarthritis
+You may also have problems or injure specific parts of your arm, such as your
+hand
+,
+wrist
+,
+elbow
+, or
+shoulder
+.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Humeral Fractures
+- Arm Injuries
+- Ulna Fractures
+- Radius Fractures
+- Arm
+
+Related Resources:
+
+Resource: Arm CT scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007347.htm
+
+Resource: Arm MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007358.htm
+
+Resource: Arm Pain
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/arm-pain/basics/definition/SYM-20050870?p=1
+
+Resource: Armpit lump
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003099.htm
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Brachial plexopathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001418.htm
+
+Resource: Brachial plexus injury in newborns
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001395.htm
+
+Resource: Broken Arm
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/broken-arm/symptoms-causes/syc-20353260?p=1
+
+Resource: Bruising Hands and Arms
+Category: Older Adults
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/BruisingHandsAndArms?
+
+Resource: Buerger Disease
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/buergers-disease/symptoms-causes/syc-20350658?p=1
+
+Resource: Chronic Exertional Compartment Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-exertional-compartment-syndrome/symptoms-causes/syc-20350830?p=1
+
+Resource: ClinicalTrials.gov: Arm Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Arm+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Humeral Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Humeral+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Radius Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Radius+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ulna Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ulna+Fractures%22&aggFilters=status:not%20rec
+
+Resource: Distal Radius Fractures (Broken Wrist)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/
+
+Resource: Forearm Fractures in Children
+Category: Children
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/forearm-fractures-in-children/
+
+Resource: Forearm X-Ray Exam (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-forearm.html
+
+Resource: Hand/Wrist/Arm Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/hand-wrist-arm-problems/
+
+Resource: Liebenberg syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/liebenberg-syndrome
+
+Resource: Lymphedema
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lymphedema/symptoms-causes/syc-20374682?p=1
+
+Resource: Muscles of the Upper Extremity
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/groups/upper.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Arm Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Humeral+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Ulna+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Arm%2Fphysiopathology%22%5Bmajr%3Anoexp%5D+OR+%22Radius+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Arm+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radial head fracture - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000561.htm
+
+Resource: Radial nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000790.htm
+
+Resource: Skeletal limb abnormalities
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003170.htm
+
+Resource: Ulnar Nerve Entrapment at the Elbow (Cubital Tunnel Syndrome)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow/
+
+Resource: Volkmann contracture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001221.htm
+
+Resource: X-Ray Exam: Upper Arm (Humerus) (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-humerus.html

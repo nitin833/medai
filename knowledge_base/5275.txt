@@ -1,0 +1,232 @@
+Title: Intestinal Obstruction
+
+Also Called:
+- Bowel obstruction
+- Intestinal volvulus
+- Paralytic ileus
+
+Summary:
+An intestinal obstruction occurs when food or
+stool
+cannot move through the intestines. The obstruction can be complete or partial. There are many causes. The most common are
+adhesions
+,
+hernias
+, cancers, and certain medicines.
+Symptoms include:
+Severe abdominal pain or cramping
+Vomiting
+Bloating
+Loud bowel sounds
+Swelling of the abdomen
+Inability to pass gas
+Constipation
+A complete intestinal obstruction is a medical emergency.  It often requires surgery.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Intestinal Obstruction
+
+Related Resources:
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Acute Mesenteric Ischemia
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/digestive-disorders/gastrointestinal-emergencies/acute-mesenteric-ischemia
+
+Resource: Amylase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003607.htm
+
+Resource: Anatomic Problems of the Lower GI Tract
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/anatomic-problems-lower-gi-tract
+
+Resource: Bowel Obstruction and Cancer Treatment
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/bowel-obstruction
+
+Resource: ClinicalTrials.gov: Intestinal Obstruction
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intestinal+Obstruction%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Intestinal Volvulus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intestinal+Volvulus%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Intussusception
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Intussusception%22&aggFilters=status:not%20rec
+
+Resource: Colectomy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/colectomy/about/pac-20384631?p=1
+
+Resource: Colostomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100011_1.htm
+
+Resource: Computed Tomography (CT) Enterography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/CTenterography
+
+Resource: Disorders of the Large Intestine
+Category: Specifics
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://aboutgimotility.org/learn-about-gi-motility/disorders-of-the-large-intestine/
+
+Resource: Disorders of the Small Intestine
+Category: Specifics
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://aboutgimotility.org/learn-about-gi-motility/disorders-of-the-small-intestine/
+
+Resource: Epidermolysis bullosa with pyloric atresia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/epidermolysis-bullosa-with-pyloric-atresia
+
+Resource: Feingold syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/feingold-syndrome
+
+Resource: Hirschsprung disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001140.htm
+
+Resource: Hirschsprung Disease
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/hirschsprung-disease
+
+Resource: Hirschsprung Disease
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hirschsprung.html
+
+Resource: Ileus
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/digestive-disorders/gastrointestinal-emergencies/ileus
+
+Resource: Intestinal Ischemia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/intestinal-ischemia/symptoms-causes/syc-20373946?p=1
+
+Resource: Intestinal Malrotation
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/malrotation.html
+
+Resource: Intestinal Obstruction
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/digestive-disorders/gastrointestinal-emergencies/intestinal-obstruction
+
+Resource: Intestinal obstruction (pediatric) - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100165_1.htm
+
+Resource: Intestinal obstruction and Ileus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000260.htm
+
+Resource: Intestinal obstruction repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002927.htm
+
+Resource: Intestinal obstruction repair - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100116_1.htm
+
+Resource: Intestinal or bowel obstruction - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000150.htm
+
+Resource: Intestinal pseudo-obstruction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000253.htm
+
+Resource: Intestinal Pseudo-Obstruction
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/intestinal-pseudo-obstruction
+
+Resource: Intussusception
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/intussusception.html
+
+Resource: Intussusception - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000958.htm
+
+Resource: Large bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000151.htm
+
+Resource: Ostomy Surgery of the Bowel
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Intestinal Obstruction
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Intestinal+Obstruction%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiographic Tests in GI
+Category: Diagnosis and Tests
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/gi-radiographic-tests/
+
+Resource: Small bowel resection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002943.htm
+
+Resource: Small bowel resection - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000152.htm
+
+Resource: Small bowel resection - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100039_1.htm
+
+Resource: Total colectomy or proctocolectomy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000153.htm
+
+Resource: Volvulus - childhood
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000985.htm

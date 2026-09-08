@@ -1,0 +1,66 @@
+Title: Family History
+
+Summary:
+Your family history includes health information about you and your close relatives. Families have many factors in common, including their genes, environment, and lifestyle. Looking at these factors can help you figure out whether you have a higher risk for certain health problems, such as heart disease, stroke, and cancer.
+Having a family member with a disease raises your risk, but it does not mean that you will definitely get it. Knowing that you are at risk gives you a chance to reduce that risk by following a healthier lifestyle and getting tested as needed.
+You can get started by talking to your relatives about their health. Draw a family tree and add the health information. Having copies of medical
+records
+and death certificates is also helpful.
+Centers for Disease Control and Prevention
+
+Groups:
+- Genetics/Birth Defects
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Medical History Taking
+
+Related Resources:
+
+Resource: About Family Health History
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/family-health-history/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Family History
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22family+history%22&aggFilters=status:not%20rec
+
+Resource: Creating a family health history
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000947.htm
+
+Resource: Do You Know Your Family Health History?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/do-you-know-your-family-health-history
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Genetics, Disease Prevention and Treatment FAQ
+Category: Related Issues
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/FAQ/Genetics-Disease-Prevention-and-Treatment
+
+Resource: National Human Genome Research Institute
+Category: Find an Expert
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/
+
+Resource: Family History
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Medical+History+Taking%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Why is it important to know my family medical history?: MedlinePlus Genetics
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/inheritance/familyhistory

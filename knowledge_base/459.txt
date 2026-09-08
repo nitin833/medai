@@ -1,0 +1,120 @@
+Title: Warts
+
+Also Called:
+- Verruca
+
+Summary:
+Warts are growths on your skin caused by an infection with humanpapilloma virus, or
+HPV
+.  Types of warts include :
+Common warts, which often appear on your fingers
+Plantar warts, which show up on the soles of your feet
+Genital warts
+, which are a
+sexually transmitted infection
+(STI)
+Flat warts, which appear in places you shave frequently
+In children, warts often go away on their own. In adults, they tend to stay. If they hurt or bother you, or if they multiply, you can remove them. Chemical skin treatments usually work. If not, various freezing, surgical and laser treatments can remove warts.
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Warts
+
+Related Resources:
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: ClinicalTrials.gov: Warts
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Warts%22&aggFilters=status:not%20rec
+
+Resource: Common Wart
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/common-wart-verruca-vulgaris/child/?Imiw9cApl=1
+
+Resource: Common Wart
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/common-wart-verruca-vulgaris/?Imiw9cApl=1
+
+Resource: Common Warts
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-warts/symptoms-causes/syc-20371125?p=1
+
+Resource: Cryotherapy for the skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007506.htm
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Flat Wart
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/flat-wart-hpv/child/?Imiw9cApl=1
+
+Resource: Flat Wart
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/flat-wart-hpv/?Imiw9cApl=1
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Plantar Wart
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/plantar-wart-hpv/?Imiw9cApl=1
+
+Resource: Plantar Wart (Verruca Plantaris)
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/plantar-wart-(verruca-plantaris)
+
+Resource: Plantar Warts
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/plantar-warts/symptoms-causes/syc-20352691?p=1
+
+Resource: Warts
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Warts%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Warts
+Category: Start Here
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/warts-overview?NoAds
+
+Resource: Warts
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000885.htm
+
+Resource: Warts (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/wart.html
+
+Resource: Warts and Wart Removal
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/warts/
+
+Resource: What to Do About Warts
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/warts-sheet.html

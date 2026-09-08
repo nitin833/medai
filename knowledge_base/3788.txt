@@ -1,0 +1,222 @@
+Title: Enfermedades de los ductos biliares
+
+Also Called:
+- Enfermedades de las vías biliares
+
+Summary:
+El hígado produce un líquido digestivo llamado bilis. La
+vesícula biliar
+almacena la bilis entre comidas. Cuando usted come, la vesícula empuja la bilis por unos tubos llamados ductos biliares. Estos transportan la bilis hasta el intestino delgado. La bilis ayuda a digerir la grasa. También ayuda al intestino a eliminar toxina y desechos.
+Distintas enfermedades pueden bloquear los ductos biliares y causar un problema con el flujo de la bilis:
+Cálculos biliares
+: Pueden aumentar la presión en la vesícula y causar un ataque de vesícula. El dolor puede durar de una a varias horas
+Cáncer
+Infecciones
+Defectos congénitos, como la atresia biliar: Es la causa más común de trasplante de hígado infantil en Estados Unidos
+Inflamación: Esto puede causar cicatrices. Con el tiempo, puede provocar insuficiencia hepática
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: 5'-Nucleotidasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003575.htm
+
+Resource: Anticuerpo antimitocondrial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003529.htm
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Atresia biliar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001145.htm
+
+Resource: Atresia biliar (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/biliary-atresia.html
+
+Resource: Biopsia del tracto biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003894.htm
+
+Resource: Cirrosis biliar primaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000282.htm
+
+Resource: Colangiografía transhepática percutánea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003820.htm
+
+Resource: Colangiopancreatografía endoscópica retrógrada
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100180_1.htm
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Colangitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000290.htm
+
+Resource: Colangitis biliar primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/primary-biliary-cholangitis/symptoms-causes/syc-20376874?p=1
+
+Resource: Colangitis biliar primaria (CBP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/liver-diseases/autoimmune-liver-diseases/primary-biliary-cholangitis-pbc/
+
+Resource: Colangitis biliar primaria (cirrosis biliar primaria)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/colangitis-biliar-primaria
+
+Resource: Colangitis esclerosante
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000285.htm
+
+Resource: Colangitis esclerosante primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/colangitis-esclerosante-primaria
+
+Resource: Colestasis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000215.htm
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Cultivo biliar
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003734.htm
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Estenosis biliar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000220.htm
+
+Resource: Examen de bilirrubina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-bilirrubina-en-sangre/
+
+Resource: Examen de isoenzimas de la fosfatasa alcalina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003497.htm
+
+Resource: Examen de sangre de gamma-glutamil transferasa (CGT)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003458.htm
+
+Resource: Examen de sangre para fosfatasa alcalina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003470.htm
+
+Resource: Exploración hepatobiliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/hida-scan/about/pac-20384701?p=1
+
+Resource: Fosfatasa alcalina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/fosfatasa-alcalina/
+
+Resource: Gammagrafía de la vesícula biliar con radionúclidos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003826.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Intervenciones biliares
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/biliary
+
+Resource: Obstrucción de las vías biliares
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000263.htm
+
+Resource: Prueba de gamma-glutamil transferasa (GGT)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-gamma-glutamil-transferasa-ggt/
+
+Resource: Reflujo biliar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/bile-reflux/symptoms-causes/syc-20370115?p=1
+
+Resource: Reparación quirúrgica de la obstrucción biliar
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100199_1.htm
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Trastornos del tracto biliar, trastornos de la vesícula biliar y pancreatitis por cálculos biliares
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Gastroenterología
+URL: https://gi.org/patients/recursos-en-espanol/trastornos-del-tracto-biliar-trastornos-de-la-vesicula-biliar-y-pancreatitis-por-calculos-biliares/
+
+Resource: Vesícula biliar y vías biliares
+Category: Información de referencia, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-h%C3%ADgado-y-de-la-ves%C3%ADcula-biliar/biolog%C3%ADa-del-h%C3%ADgado-y-de-la-ves%C3%ADcula-biliar/ves%C3%ADcula-biliar-y-v%C3%ADas-biliares

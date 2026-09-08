@@ -1,0 +1,192 @@
+Title: Enfermedad del coronavirus 2019 (COVID-19)
+
+Summary:
+La enfermedad del coronavirus 2019 (COVID-19) es causada por un virus. Este virus es un coronavirus llamado SARS-COV-2. Se propaga cuando una persona con la infección expulsa gotitas y partículas muy pequeñas que contienen el virus. En esta página encontrará enlaces con información importante sobre síntomas, riesgos y cómo puede protegerse usted y su familia.
+También tenemos temas de salud sobre:
+Pruebas para el COVID-19
+Vacunas contra el COVID-19
+Afecciones posteriores al COVID-19 (COVID-19 persistente)
+
+Groups:
+- Infecciones
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Afecciones posteriores al COVID-19 (COVID-19 persistente): Tema de salud de MedlinePlus
+Category: Spanish/Español, Síntomas
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/postcovidconditionslongcovid.html
+
+Resource: Alta después de COVID-19 grave
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000978.htm
+
+Resource: Alta por COVID-19 leve a moderado
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000976.htm
+
+Resource: Conozca sus opciones de tratamiento contra el COVID-19
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/conozca-sus-opciones-de-tratamiento-contra-el-covid-19
+
+Resource: Coronavirus (COVID-19) y el síndrome inflamatorio multisistémico en niños
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pmis.html
+
+Resource: Coronavirus (COVID-19): Preguntas más frecuentes relacionadas con el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coronavirus-pregnancy.html
+
+Resource: Coronavirus (COVID-19): ¿Qué son las variantes?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/covid-delta-variant.html
+
+Resource: Coronavirus 2019 (COVID-19) y su cobertura de salud: Obtenga información básica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://www.cms.gov/files/document/c2c-covid-overview-spanish.pdf
+
+Resource: COVID-19 (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coronavirus.html
+
+Resource: COVID-19 altera los microbios intestinales
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-covid-19-altera-los-microbios-intestinales
+
+Resource: COVID-19 y los tratamientos "alternativos": Lo que tiene que saber
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Centro Nacional de Salud Complementaria e Integral
+URL: https://www.nccih.nih.gov/health/espanol/covid-19-y-los-tratamientos-alternativos-lo-que-usted-debe-saber
+
+Resource: COVID-19, resfriados, alergias y la gripe: ¿Cuáles son las diferencias?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/in-depth/covid-19-cold-flu-and-allergies-differences/art-20503981?p=1
+
+Resource: COVID-19: Información para las personas con cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/coronavirus/coronavirus-informacion-personas-con-cancer
+
+Resource: COVID-19: Qué debe hacer si se enferma
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000975.htm
+
+Resource: COVID-19: Qué hacer si su hijo está enfermo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coronavirus-child-is-sick.html
+
+Resource: COVID-19: ¿Quién está a un mayor riesgo para los síntomas de gravedad?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/in-depth/coronavirus-who-is-at-risk/art-20483301?p=1
+
+Resource: Cómo obtener una lectura precisa con oxímetros de pulso
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-obtener-una-lectura-precisa-con-oximetros-de-pulso
+
+Resource: Cómo protegerse a sí mismo y a otros de la COVID-19
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000973.htm
+
+Resource: Desacreditamos los mitos sobre la COVID-19
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720?p=1
+
+Resource: Encuentre medicamentos contra el COVID-19
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://treatments-es.hhs.gov/
+
+Resource: Enfermedad del coronavirus 2019 (COVID-19): Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976?p=1
+
+Resource: Enfermedad por coronavirus 2019 (COVID-19)
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007768.htm
+
+Resource: Ivermectina y el COVID-19
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/la-ivermectina-y-el-covid-19
+
+Resource: Personas con mayor riesgo de tener enfermedades respiratorias graves
+Category: Personas mayores, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/respiratory-viruses/es/risk-factors/personas-con-mayor-riesgo-de-tener-enfermedades-respiratorias-graves.html
+
+Resource: Pruebas para el COVID-19: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/covid19testing.html
+
+Resource: Su glosario de COVID-19
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/su-glosario-de-covid-19
+
+Resource: Síntomas de COVID-19
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007770.htm
+
+Resource: Vacuna contra la COVID-19: lo que necesita saber
+Category: Enciclopedia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007804.htm
+
+Resource: Vacunas para el COVID-19: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/covid19vaccines.html
+
+Resource: Variantes de la COVID-19: ¿Cuál es la causa de la preocupación?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/coronavirus/expert-answers/covid-variant/faq-20505779?p=1
+
+Resource: VIH y el COVID-19
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-el-covid-19
+
+Resource: Virus respiratorios y las mascarillas faciales
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000974.htm
+
+Resource: ¿Es gripe, COVID-19, alergias o un resfriado?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/es-gripe-covid-19-alergias-o-un-resfriado
+
+Resource: ¿Es seguro que amamante a mi bebé si tengo COVID-19?
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coronavirus-breastfeeding.html
+
+Resource: ¿Es un resfriado, una gripe o COVID-19?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/flu-vs-cold.html
+
+Resource: ¿Me conviene participar en ensayos clínicos de vacunas contra el COVID-19?
+Category: Spanish/Español, Imágenes
+Organization: Institutos Nacionales de la Salud
+URL: https://ceal.nih.gov/sites/default/files/2020-10/ESP_CEAL%20Infographics_COVID%20Vaccine%20Trial.jpg

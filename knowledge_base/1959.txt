@@ -1,0 +1,72 @@
+Title: Urticaria
+
+Also Called:
+- Ronchas
+
+Summary:
+La urticaria son ronchas rojizas que a veces producen picazón en la piel. Suele ser causada por una
+reacción alérgica
+a un medicamento o una comida. Las reacciones alérgicas provocan en el cuerpo la liberación de sustancias químicas que hacen que la piel se inflame y se formen las ronchas. Las personas que tienen otras alergias son más propensas a tener urticaria. Entre otras posibles causas se encuentran las infecciones y el estrés.
+La urticaria es muy común. Suele desaparecer por sí sola, pero si el caso es serio, es posible que se necesiten medicinas o una inyección. En raras ocasiones, la urticaria puede causar una inflamación peligrosa en las vías respiratorias y dificultar la respiración. Esto es una emergencia médica.
+
+Groups:
+- Piel, cabello y uñas
+- Sistema inmunitario
+- Síntomas
+
+Related Resources:
+
+Resource: Alergia al sol
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sun-allergy/symptoms-causes/syc-20378077?p=1
+
+Resource: Angioedema
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000846.htm
+
+Resource: Reacciones alérgicas a medicamentos y fármacos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/reacciones-alergicas-a-medicamentos-y-farmacos-con
+
+Resource: Receta de baño de lejía para afecciones cutáneas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/receta-de-bano-de-lejia-para-afecciones-cutaneas
+
+Resource: Ronchas agudas y ronchas crónicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/ronchas-agudas-y-ronchas-cronicas
+
+Resource: Urticaria
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000845.htm
+
+Resource: Urticaria
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/skin/paginas/hives.aspx
+
+Resource: Urticaria (para Padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hives.html
+
+Resource: Urticaria por frío
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cold-urticaria/symptoms-causes/syc-20371046?p=1
+
+Resource: Urticaria y angioedema
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hives-and-angioedema/symptoms-causes/syc-20354908?p=1
+
+Resource: Urticaria y angioedema: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hives-and-angioedema/diagnosis-treatment/drc-20354914?p=1

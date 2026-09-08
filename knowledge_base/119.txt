@@ -1,0 +1,473 @@
+Title: Crohn's Disease
+
+Also Called:
+- Regional enteritis
+- Regional ileitis
+
+Summary:
+What is Crohn's disease?
+Crohn's disease is a chronic (long-lasting) disease that causes inflammation in your digestive tract. It can affect any part of your digestive tract, which runs from your mouth to your anus. But it usually affects your small intestine and the beginning of your large intestine.
+Crohn's disease is an inflammatory bowel disease (IBD).
+Ulcerative colitis
+and microscopic colitis are other common types of IBD.
+What causes Crohn's disease?
+The cause of Crohn's disease is unknown. Researchers think that an autoimmune reaction may be one cause. An autoimmune reaction happens when your
+immune system
+attacks healthy cells in your body.
+Genetics
+may also play a role, since Crohn's disease can run in families.
+Stress and eating certain foods don't cause the disease, but they can make your symptoms worse.
+Who is more likely to develop Crohn's disease?
+There are certain factors that may raise your risk of Crohn's disease:
+Family history
+of the disease. Having a parent, child, or sibling with the disease puts you at higher risk.
+Smoking
+.
+This may double your risk of developing Crohn's disease.
+Certain medicines
+, such as
+antibiotics
+,
+birth-control pills
+, and
+nonsteroidal anti-inflammatory drugs
+(NSAIDs) such as aspirin or ibuprofen. These may slightly increase your chance of developing Crohn's.
+A high-fat diet.
+This may also slightly increase your risk of Crohn's.
+What are the symptoms of Crohn's disease?
+The symptoms of Crohn's disease can vary, depending where and how severe your inflammation is. The most common symptoms include:
+Diarrhea
+Cramping and
+pain
+in your abdomen
+Weight loss
+Some other possible symptoms are:
+Anemia
+, a condition in which you have fewer red blood cells than normal
+Eye redness or pain
+Fatigue
+Fever
+Joint pain or soreness
+Nausea
+or loss of appetite
+Skin changes that involve red, tender bumps under the skin
+Stress and eating certain foods such as carbonated (fizzy) drinks and high-fiber foods may make some people's symptoms worse.
+What other problems can Crohn's disease cause?
+Crohn's disease can cause other problems, including:
+Intestinal obstruction
+, a blockage in the intestine
+Fistulas
+, abnormal connections between two parts inside of the body
+Abscesses
+, pus-filled pockets of infection
+Anal fissures, small tears in your anus that may cause itching, pain, or bleeding
+Ulcers, open sores in your mouth, intestines, anus, or perineum
+Malnutrition
+, when your body does not get the right amount of
+vitamins
+,
+minerals
+, and nutrients it needs
+Inflammation in other areas of your body, such as your joints, eyes, and skin
+How is Crohn's disease diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+A family history
+A physical exam, including:
+Checking for bloating in your abdomen.
+Listening to sounds within your abdomen using a stethoscope.
+Tapping on your abdomen to check for tenderness and pain and to see if your liver or spleen is abnormal or enlarged.
+Various tests, including:
+Blood and stool tests.
+A
+colonoscopy
+.
+An upper GI endoscopy, a procedure in which your provider uses a scope to look inside your mouth, esophagus, stomach, and small intestine.
+Diagnostic imaging
+tests, such as a
+CT scan
+or an upper GI series. An upper GI series uses a special liquid called barium and
+x-rays
+. Drinking the barium will make your upper GI tract more visible on an x-ray.
+What are the treatments for Crohn's disease?
+There is no cure for Crohn's disease, but treatments can decrease inflammation in your intestines, relieve symptoms, and prevent complications. Treatments include medicines, bowel rest, and surgery. No single treatment works for everyone. You and your provider can work together to figure out which treatment is best for you:
+Medicines
+for Crohn's include various medicines that decrease the inflammation. Many of these medicines do this by reducing the activity of your immune system. Certain medicines can also help with symptoms or complications, such as
+nonsteroidal anti-inflammatory drugs
+and anti-diarrheal medicines. If your Crohn's causes an infection, you may need antibiotics.
+Bowel rest
+involves drinking only certain liquids or not eating or drinking anything. This allows your intestines to rest. You may need to do this if your Crohn's disease symptoms are severe. You get your nutrients through drinking a liquid, a feeding tube, or an intravenous (IV) tube. You may need to do bowel rest in the hospital, or you may be able to do it at home. It will last for a few days or up to several weeks.
+Surgery
+can treat complications and reduce symptoms when other treatments are not helping enough. The surgery will involve removing a damaged part of your digestive tract to treat:
+Fistulas
+Bleeding
+that is life threatening
+Intestinal obstructions
+Side effects from medicines when they threaten your health
+Symptoms when medicines do not improve your condition
+Changing your diet can help reduce symptoms. Your provider may recommend that you make changes to your diet, such as:
+Avoiding carbonated drinks
+Avoiding popcorn, vegetable skins, nuts, and other high-fiber foods
+Drinking more liquids
+Eating smaller meals more often
+Keeping a food diary to help identify foods that cause problems
+In some cases, your provider may ask you to go on a special diet, such as a diet that is:
+High calorie
+Lactose free
+Low fat
+Low fiber
+Low salt
+If you are not absorbing enough nutrients, you may need to take nutritional supplements and vitamins.
+National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Crohn Disease
+
+Related Resources:
+
+Resource: Albumin blood (serum) test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003480.htm
+
+Resource: American Society of Colon and Rectal Surgeons
+Category: Find an Expert
+Organization: American Society of Colon and Rectal Surgeons
+URL: https://fascrs.org/
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Barium enema
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003817.htm
+
+Resource: Black or tarry stools
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003130.htm
+
+Resource: Bone Loss
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/boneloss.pdf
+
+Resource: C-Reactive Protein (CRP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+
+Resource: Calprotectin Stool Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calprotectin-stool-test/
+
+Resource: ClinicalTrials.gov: Crohn Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Crohn+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Inflammatory Bowel Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Inflammatory+Bowel+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Colonoscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003886.htm
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Colostomy - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100011_1.htm
+
+Resource: Crohn disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000249.htm
+
+Resource: Crohn disease - children - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000937.htm
+
+Resource: Crohn disease - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000194.htm
+
+Resource: Crohn Disease Treatment Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000249_49.htm
+
+Resource: Crohn disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crohns-disease
+
+Resource: Crohn's Disease
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease
+
+Resource: Current Research Initiatives
+Category: Statistics and Research
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/research/current-research-initiatives
+
+Resource: D-xylose absorption
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003606.htm
+
+Resource: Enteroclysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003818.htm
+
+Resource: ESR
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003638.htm
+
+Resource: Eye Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/eyes.pdf
+
+Resource: Fecal fat
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003588.htm
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Gastrointestinal (GI) Bleeding
+Category: Symptoms
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding
+
+Resource: General Health Maintenance
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/personal-health-beyond-ibd/general-health-maintenance
+
+Resource: Gut Troubles: Pain, Gassiness, Bloating, and More
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/02/gut-troubles
+
+Resource: IBD and Fatigue
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/pain-and-fatigue/fatigue-causes
+
+Resource: IBD General Nutrition Information
+Category: Living With
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/resource/ibd-general-nutrition-information/
+
+Resource: Inflammation
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/conditions/inflammation
+
+Resource: Inflammatory Bowel Disease
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/inflammatory-bowel-disease
+
+Resource: Inflammatory Bowel Disease (IBD) Facts and Stats
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/inflammatory-bowel-disease/php/facts-stats/
+
+Resource: Inflammatory bowel disease - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100171_1.htm
+
+Resource: Inflammatory Bowel Disease and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/inflammatory-bowel-disease-pregnancy/
+
+Resource: Intestinal Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/intestinalcomps.pdf
+
+Resource: Kidney Disorders
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/kidney.pdf
+
+Resource: Liver Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/liver-disease.pdf
+
+Resource: Low-fiber diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000200.htm
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Managing Flares and IBD Symptoms
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2019-07/managing-flares-brochure-final-online.pdf
+
+Resource: Managing IBD as a Young Adult
+Category: Adults
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2021-11/Young%20Adults%20%20IBD%20-%202021-Final.pdf
+
+Resource: Mental and Emotional Well-being
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/mental-health
+
+Resource: Mental and Emotional Well-Being
+Category: Teenagers
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/youth-parent-resources/teens
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Nutrition Therapy and Crohn's Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nutrition-crohns.html
+
+Resource: Ostomy Surgery of the Bowel
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel
+
+Resource: Overview of Enteropathic Arthritis / Arthritis Associated with Inflammatory Bowel Disease
+Category: Related Issues
+Organization: Spondylitis Association of America
+URL: https://spondylitis.org/about-spondylitis/overview-of-spondyloarthritis/enteropathic-arthritis/
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Proctitis
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/proctitis
+
+Resource: Crohn's Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Crohn+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk of Colorectal Cancer in Crohn's Disease and Ulcerative Colitis Patients
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-ibd/colorectal-cancer
+
+Resource: Sex, Intimacy, and IBD
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/ibdsexuality.pdf
+
+Resource: Short Bowel Syndrome
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/short-bowel-syndrome
+
+Resource: Skin Complications
+Category: Living With
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/legacy/assets/pdfs/skin.pdf
+
+Resource: Surgery for Crohn's Disease
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-crohns-disease/treatment/surgery
+
+Resource: Total colectomy or proctocolectomy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000153.htm
+
+Resource: Total proctocolectomy with ileostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007381.htm
+
+Resource: Toxic megacolon
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000248.htm
+
+Resource: Traveling with IBD
+Category: Related Issues
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/what-is-ibd/traveling-with-ibd
+
+Resource: Treatment for Crohn's Disease
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/crohns-disease/treatment
+
+Resource: Understanding IBD Medications and Side Effects
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/sites/default/files/2019-10/understanding-ibd-medications-brochure-final-online2.pdf
+
+Resource: Upper GI Series
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series
+
+Resource: Virtual colonoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007253.htm
+
+Resource: What is Complementary Medicine?
+Category: Treatments and Therapies
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientandcaregivers/ibd/complementary-medicine
+
+Resource: What Is Crohn's Disease?
+Category: Start Here
+Organization: Crohn's & Colitis Foundation of America
+URL: https://www.crohnscolitisfoundation.org/patientsandcaregivers/what-is-crohns-disease
+
+Resource: White Blood Cell (WBC) in Stool
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/white-blood-cell-wbc-in-stool/
+
+Resource: Xylose Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/xylose-testing/

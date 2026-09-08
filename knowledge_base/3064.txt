@@ -1,0 +1,180 @@
+Title: Abscesos
+
+Summary:
+Un absceso es una cavidad donde se acumula pus. Se puede tener abscesos en casi cualquier parte del cuerpo. Cuando un área se infecta, el sistema inmunitario intenta combatir la infección. Los glóbulos blancos se dirigen hacia el área infectada, se acumulan dentro del tejido lesionado y causan inflamación. Durante este proceso se forma el pus. El pus es una mezcla de células sanguíneas blancas, gérmenes y tejido muerto.
+Las bacterias, los virus, los parásitos y objetos ingeridos pueden causar la formación de abscesos. Los abscesos en la piel son fáciles de detectar porque son zonas enrojecidas, hinchadas y dolorosas. Los que se encuentran dentro del cuerpo pueden quizá no ser obvios y pueden lesionar órganos, incluso el cerebro, los pulmones y otros. Los tratamientos incluyen drenarlos y tomar antibióticos.
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Absceso
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001353.htm
+
+Resource: Absceso anal y la fístula
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Estadounidense de Cirujanos de Colon y Recto
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Absceso-Anal-y-La-Fistula.aspx
+
+Resource: Absceso anorrectal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001519.htm
+
+Resource: Absceso cerebral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000783.htm
+
+Resource: Absceso de la médula espinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001405.htm
+
+Resource: Absceso de la piel
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000863.htm
+
+Resource: Absceso dental
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001060.htm
+
+Resource: Absceso en abdomen o pelvis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000212.htm
+
+Resource: Absceso epidural
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001416.htm
+
+Resource: Absceso hepático amebiano
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000211.htm
+
+Resource: Absceso hepático piógeno
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000261.htm
+
+Resource: Absceso o quiste de Bartolino
+Category: Spanish/Español, Mujeres, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001489.htm
+
+Resource: Absceso pancreático
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000270.htm
+
+Resource: Absceso periamigdalino
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000986.htm
+
+Resource: Absceso perirrenal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001274.htm
+
+Resource: Absceso pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/absceso-pulmonar/absceso-pulmonar
+
+Resource: Absceso retrofaríngeo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000984.htm
+
+Resource: Absceso subareolar
+Category: Spanish/Español, Mujeres, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001501.htm
+
+Resource: Abscesos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/abscess.html
+
+Resource: Abscesos periamigdalinos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/peritonsillar-abscess.html
+
+Resource: Abscesos retrofaríngeos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/retropharyngeal-abscess.html
+
+Resource: Actinomicosis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000599.htm
+
+Resource: Aspergiloma pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000127.htm
+
+Resource: Aspiración de lesión de piel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003451.htm
+
+Resource: Celulitis amigdalina y absceso amigdalino
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-de-la-boca-y-la-garganta/celulitis-amigdalina-y-absceso-amigdalino
+
+Resource: Cirugía de quiste pilonidal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007591.htm
+
+Resource: Drenaje de abscesos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/PercAbscessDrn
+
+Resource: Enterografía por RMN
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/MRenterography
+
+Resource: Enterografía por TC (Tomografía Computarizada)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/CTenterography
+
+Resource: Foliculitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/folliculitis/symptoms-causes/syc-20361634?p=1
+
+Resource: Gammagrafía de glóbulos blancos marcados con Indio
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003382.htm
+
+Resource: Hernia cerebral
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001421.htm
+
+Resource: Quiste pilonidal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pilonidal-cyst/symptoms-causes/syc-20376329?p=1
+
+Resource: Tratamiento de los quistes pilonidales
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pilonidal_gips_animation.html

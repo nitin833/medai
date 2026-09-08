@@ -1,0 +1,68 @@
+Title: Preterm Labor
+
+Also Called:
+- Early Labor
+- Premature Birth
+- Premature Labor
+- Preterm Birth
+
+Summary:
+Preterm labor is labor that starts before 37 completed weeks of pregnancy. It can lead to premature birth.
+Premature babies
+may face serious health risks.
+Symptoms of preterm labor include:
+Contractions every 10 minutes or more often
+Leaking fluid or bleeding from the vagina
+Feeling of pressure in the pelvis
+Low, dull backache
+Cramps that feel like menstrual cramps
+Abdominal cramps with or without diarrhea
+If you think you might be having preterm labor, contact your health care provider.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Female Reproductive System
+
+MeSH Headings:
+- Obstetric Labor, Premature
+
+Related Resources:
+
+Resource: About Preterm Labor and Birth
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/preterm/conditioninfo
+
+Resource: ClinicalTrials.gov: Obstetric Labor, Premature
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Obstetric+Labor,+Premature%22&aggFilters=status:not%20rec
+
+Resource: Extremely Preterm Birth
+Category: Learn More
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/extremely-preterm-birth
+
+Resource: Preterm Birth
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/maternal-infant-health/preterm-birth/
+
+Resource: Preterm labor
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000486.htm
+
+Resource: Preterm Labor: Diagnosis and Treatment
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/premature-birth/diagnosis-treatment/drc-20376736?p=1
+
+Resource: Preterm Labor
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Obstetric+Labor%2C+Premature%22%5Bmajr%3Anoexp%5D+AND+adult+%5Bmh%5D+AND+female+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treatments to Prevent Premature Birth
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/treatments-prevent-premature-birth.html

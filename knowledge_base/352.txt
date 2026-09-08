@@ -1,0 +1,65 @@
+Title: Pancreas Transplantation
+
+Summary:
+The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control blood sugar levels. A pancreas transplant is surgery to place a healthy pancreas from a donor into a person with a diseased pancreas.  It is mostly done for people with severe
+type 1 diabetes
+. It can allow them to give up insulin shots.  An experimental procedure called
+islet cell transplantation
+transplants only the parts of the pancreas that make insulin.
+People who have
+transplants
+must take drugs to keep their body from rejecting the new pancreas for the rest of their lives. They must also have regular follow-up care. Because of the risks, it is not a common treatment for type 1 diabetes.
+
+Groups:
+- Digestive System
+- Endocrine System
+- Transplantation and Donation
+
+MeSH Headings:
+- Pancreas Transplantation
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Pancreas Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22pancreas+transplantation%22&aggFilters=status:not%20rec
+
+Resource: Getting a New Pancreas: Facts about Pancreas Transplants
+Category: Learn More
+Organization: American Society of Transplantation
+URL: https://www.myast.org/uploads/files/general/Getting-A-New-Pancreas_FINAL.pdf
+
+Resource: Kidney-Pancreas Transplant
+Category: Learn More
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/kidney-pancreas-transplant
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: OPTN/SRTR Annual Data Report
+Category: Statistics and Research
+Organization: Scientific Registry of Transplant Recipients
+URL: https://srtr.hrsa.gov/transplant-professionals/optnsrtr-annual-data-report/
+
+Resource: Pancreas transplant
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003007.htm
+
+Resource: Pancreas transplant - series -- Normal anatomy
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100129_1.htm
+
+Resource: Pancreas Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pancreas+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers for Transplant Candidates about Pancreas, Pancreas-Kidney, and Islet Allocation
+Category: Learn More
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/resources/pancreas/questions-and-answers-for-transplant-candidates-about-pancreas-pancreas-kidney-islet-allocation

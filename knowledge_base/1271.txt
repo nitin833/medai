@@ -1,0 +1,194 @@
+Title: Nutritional Support
+
+Also Called:
+- Artificial feeding
+- Artificial hydration and nutrition
+- Hyperalimentation
+- Parenteral nutrition
+- TPN
+- Tube feeding
+
+Summary:
+Nutritional support is therapy for people who cannot get enough nourishment by eating or drinking.  You may need it if you :
+Can't swallow
+Have problems with your appetite
+Are severely malnourished
+Can't absorb nutrients through your digestive system
+You receive nutritional support through a needle or catheter placed in your vein or with a feeding tube, which goes into your stomach.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Nutritional Support
+
+Related Resources:
+
+Resource: Artificial Hydration and Nutrition
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/artificial-hydration-and-nutrition/
+
+Resource: Central Lines (Central Venous Catheters)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/central-lines.html
+
+Resource: Central Venous Catheter
+Category: Related Issues
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/central-venous-catheter.pdf
+
+Resource: Central venous catheter - dressing change
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000156.htm
+
+Resource: Central venous catheter - flushing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000157.htm
+
+Resource: Central venous catheters - ports
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000491.htm
+
+Resource: ClinicalTrials.gov: Nutritional Support
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22nutritional+support%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Parenteral Nutrition
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=parenteral+nutrition&aggFilters=status:not%20rec
+
+Resource: Enteral nutrition - child - managing problems
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000164.htm
+
+Resource: Feeding tube - infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007235.htm
+
+Resource: Feeding tube insertion - gastrostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002937.htm
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Gastrostomy feeding tube - bolus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000165.htm
+
+Resource: Gastrostomy feeding tube - pump - child
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000333.htm
+
+Resource: Gastrostomy tube placement - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100125_1.htm
+
+Resource: Implanted Ports
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/implanted-ports.html
+
+Resource: Jejunostomy feeding tube
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000181.htm
+
+Resource: Nasogastric feeding tube
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000182.htm
+
+Resource: Nutritional Support for People Who Are Dying or Severely Demented
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/disorders-of-nutrition/nutritional-support/nutritional-support-for-people-who-are-dying-or-have-severe-dementia
+
+Resource: PEG tube insertion - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000900.htm
+
+Resource: Peripherally Inserted Central Catheter (PICC Line)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picc-lines.html
+
+Resource: Peripherally inserted central catheter - dressing change
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000462.htm
+
+Resource: Peripherally inserted central catheter - flushing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000159.htm
+
+Resource: Peripherally inserted central catheter - insertion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000461.htm
+
+Resource: Nutritional Support
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Nutritional+Support%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Total parenteral nutrition
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000177.htm
+
+Resource: Total parenteral nutrition - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007239.htm
+
+Resource: Tube Feeding
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/disorders-of-nutrition/nutritional-support/tube-feeding
+
+Resource: Tube Feeding Troubleshooting Guide
+Category: Related Issues
+Organization: Oley Foundation
+URL: https://cdn.ymaws.com/oley.org/resource/resmgr/docs/tf_troubleshooting_guide_19.pdf
+
+Resource: Tunneled Central Lines
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cv-catheters.html
+
+Resource: Understanding Percutaneous Endoscopic Gastrostomy (PEG)
+Category: Specifics
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/home/for-patients/patient-information/understanding-peg
+
+Resource: What Is Enteral Nutrition?
+Category: Specifics
+Organization: American Society for Parenteral & Enteral Nutrition
+URL: https://nutritioncare.org/about/what-we-do/nutrition-support/what-is-enteral-nutrition/
+
+Resource: What Is Nutrition Support Therapy?
+Category: Start Here
+Organization: American Society for Parenteral & Enteral Nutrition
+URL: https://nutritioncare.org/about/what-we-do/nutrition-support/what-is-nutrition-support-therapy/

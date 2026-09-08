@@ -1,0 +1,177 @@
+Title: Adrenal Gland Cancer
+
+Summary:
+Your adrenal, or suprarenal, glands are located on the top of each kidney. These glands produce hormones that you can't live without, including sex hormones and cortisol, which helps you respond to stress and has many other functions.
+A number of disorders can affect the
+adrenal glands
+, including tumors.   Tumors can be either benign or malignant. Benign tumors aren't cancer. Malignant ones are. Most adrenal gland tumors are benign.  They usually do not cause symptoms and may not require treatment. Malignant adrenal gland cancers are uncommon.
+Types of tumors include:
+Adrenocortical carcinoma - cancer in the outer part of the gland
+Neuroblastoma
+, a type of childhood cancer
+Pheochromocytoma
+- a rare tumor that is usually benign
+Symptoms depend on the type of cancer you have. Treatments may include surgery, chemotherapy, or radiation therapy.
+
+Groups:
+- Cancers
+- Endocrine System
+
+MeSH Headings:
+- Adrenal Gland Neoplasms
+
+Related Resources:
+
+Resource: Abdominal and Pelvic CT
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominct
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Adrenal gland removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007437.htm
+
+Resource: Adrenal Gland Removal (Adrenalectomy)
+Category: Treatments and Therapies
+Organization: Society of American Gastrointestinal and Endoscopic Surgeons
+URL: https://www.sages.org/publications/patient-information/adrenal-gland-removal-adrenalectomy-patient-information-from-sages/
+
+Resource: Adrenocortical carcinoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001663.htm
+
+Resource: Adrenocortical Carcinoma Stages
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/adrenocortical/stages
+
+Resource: Adrenocortical Carcinoma Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/adrenocortical/treatment
+
+Resource: Adrenocorticotropic Hormone (ACTH)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/adrenocorticotropic-hormone-acth/
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: Aldosterone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/aldosterone-test/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Body MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bodymr
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Carney Complex (CNC)
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/genetics/family-cancer-syndromes/carney-syndrome.html
+
+Resource: Childhood Adrenocortical Carcinoma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/adrenocortical/childhood
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Adrenal Gland Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adrenal+Gland+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Cortisol Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cortisol-test/
+
+Resource: DHEA Sulfate Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dhea-sulfate-test/
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Key Statistics for Adrenal Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/about/key-statistics.html
+
+Resource: Living as an Adrenal Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/after-treatment/follow-up.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Adrenal Gland Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Adrenal+Gland+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to Ask about Adrenal Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/detection-diagnosis-staging/talking-with-your-doctor.html
+
+Resource: Signs and Symptoms of Adrenal Cancers
+Category: Symptoms
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/detection-diagnosis-staging/signs-symptoms.html
+
+Resource: Tests for Adrenal Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: What Causes Adrenal Cancer?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/causes-risks-prevention/what-causes.html
+
+Resource: What Is Adrenal Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/adrenal-cancer/about/what-is-adrenal-cortical-cancer.html
+
+Resource: What Is Adrenocortical Carcinoma?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/adrenocortical/what-is-adrenocortical-carcinoma

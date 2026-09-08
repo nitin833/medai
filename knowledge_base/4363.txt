@@ -1,0 +1,119 @@
+Title: Hidradenitis Suppurativa
+
+Also Called:
+- Acne inversa
+- Suppurative hidradenitis
+
+Summary:
+What is hidradenitis suppurativa (HS)?
+Hidradenitis suppurativa (HS) is a chronic skin disease. Another name for it is acne inversa. It causes painful, boil-like lumps that form under the skin. It often affects areas where the skin rubs together, such as your armpits and groin. The lumps become inflamed and painful. They often break open, causing
+abscesses
+that drain fluid and pus. As the abscesses heal, they can cause
+scarring
+of the skin.
+What causes hidradenitis suppurativa (HS)?
+The lumps in HS form because of blockages of the hair follicles. The blocked hair follicles trap bacteria, which leads to inflammation and rupture. In most cases, the cause of the blockages is unknown. Genetics, environment, and hormonal factors may play a role. Some cases of HS are caused by
+changes in certain genes
+.
+HS is not caused by bad hygiene, and it cannot be spread to others.
+Who is more likely to get hidradenitis suppurativa (HS)?
+HS usually starts after puberty, usually in the teens or twenties. It is more common in:
+Women
+People who are Black
+People with a family history of HS
+People who are overweight or have
+obesity
+People who
+smoke
+What are the symptoms of hidradenitis suppurativa (HS)?
+The symptoms of HS include:
+Small pitted areas of skin containing blackheads
+Painful, red, lumps that get bigger and break open. This causes abscesses that drain fluid and pus. They may itch and have an unpleasant odor.
+The abscesses heal very slowly, recur over time, and can lead to scarring and tunnels under the skin.
+HS can be mild, moderate, or severe:
+In mild HS, there are only one or a few lumps in one area of the skin. A mild case will often get worse, becoming a moderate disease.
+Moderate HS includes recurrences of the lumps that get bigger and break open. The lumps form in more than one area of the body.
+With severe HS, there are widespread lumps, scarring, and chronic pain that may make it hard to move.
+Because of the difficulty of dealing with the disease, people with HS are at risk for
+depression
+and
+anxiety
+.
+How is hidradenitis suppurativa (HS) diagnosed?
+There is no specific test for HS. It can be hard to diagnose in the early stages because it can look like pimples or
+acne
+. To make a diagnosis, your health care provider:
+Will ask about your medical history and your symptoms
+Will look at the lumps on your skin
+May take a sample of the skin or pus (if there is any) and send it to a lab to be tested
+Your provider may refer you to a dermatologist (skin doctor) to get a diagnosis or treatment.
+What are the treatments for hidradenitis suppurativa?
+There is no cure for HS. Treatments focus on the symptoms, but they are not always effective for everyone. The treatments depend on how severe the disease is and may include:
+Medicines
+, including
+steroids
+,
+antibiotics
+,
+pain relievers
+, and medicines that flight inflammation. In mild cases, the medicines may be topical (applied to your skin). Otherwise, the medicines may be injected or taken orally (by mouth).
+Procedures or surgery
+to remove the lumps and scars or make the sores go away.
+It may also help if you can avoid things that can irritate your skin, by:
+Wearing loose-fitting clothing
+Staying at a healthy weight
+Quitting smoking
+Avoiding heat and humidity
+Being careful not to injure your skin
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Hidradenitis Suppurativa
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Hidradenitis Suppurativa
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hidradenitis+Suppurativa%22&aggFilters=status:not%20rec
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Hidradenitis Suppurativa
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/hidradenitis-suppurativa/?Imiw9cApl=1
+
+Resource: Hidradenitis Suppurativa
+Category: Teenagers
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/hidradenitis-suppurativa/teen/?Imiw9cApl=1
+
+Resource: Hidradenitis Suppurativa (HS)
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/hidradenitis-suppurativa-hs
+
+Resource: Hidradenitis suppurativa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hidradenitis-suppurativa
+
+Resource: Hidradenitis Suppurativa: Overview
+Category: Start Here
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/hidradenitis-suppurativa-overview?NoAds
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Hidradenitis Suppurativa
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hidradenitis+Suppurativa%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

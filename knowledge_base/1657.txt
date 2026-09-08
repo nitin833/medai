@@ -1,0 +1,225 @@
+Title: Wrist Injuries and Disorders
+
+Summary:
+Your wrist connects your hand to your forearm. It is not one big joint; it has several small joints. This makes it flexible and allows you to move your hand in different ways. The wrist has two big forearm bones and eight small bones known as carpals. It also has tendons and ligaments, which are connective tissues. Tendons connect muscles to bones. Ligaments connect bones to each other.
+What are the types of wrist injuries and disorders?
+Some of the more common types of wrist injuries and disorders are:
+Carpal tunnel syndrome
+, which happens when a nerve that runs from your forearm into your palm becomes squeezed at the wrist
+Ganglion cysts
+, which are noncancerous lumps or masses
+Gout
+, which is a form of arthritis caused by a buildup of uric acid in your joints
+Fractures
+(broken bones)
+Osteoarthritis
+, the most common type of arthritis. It is caused by wear and tear of the joints.
+Sprains and strains
+, which are injuries to ligaments and injuries to muscles or tendons
+Tendinitis
+, inflammation of a tendon, usually due to overuse
+Who is at risk for wrist injuries and disorders?
+Certain things can put you at higher risk of having a wrist problem, including:
+Doing sports, which can put you at risk for injuries and puts stress on your wrist. For example, you may fall on your outstretched hand when you are skating or snowboarding. Your wrist could be injured while doing contact sports. And other sports such as gymnastics and basketball can strain your wrists.
+Doing repetitive wrist motions, such as typing on a keyboard, working on an assembly line, or using power tools.
+Having certain diseases. For example,
+rheumatoid arthritis
+can cause wrist pain.
+What are the symptoms of wrist injuries and disorders?
+The symptoms of a wrist problem can vary, depending on the problem. A common symptom is wrist pain. Some other possible symptoms include swelling, a decrease in wrist strength, and sudden numbness or tingling.
+How are wrist injuries and disorders diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+A physical exam, including checking your wrist strength and range of motion
+An
+x-ray
+or other
+imaging test
+Blood tests
+What are the treatments for wrist injuries and disorders?
+Treatments for wrist pain depends on the type of injury or disorder. They may include:
+Resting your wrist
+Wearing a wrist brace or cast
+Pain relievers
+Cortisone shots
+Physical therapy
+Surgery
+Can wrist injuries and disorders be prevented?
+To try to prevent wrist problems, you can:
+Use wrist guards, when doing sports that put you at risk for wrist injuries
+In the workplace, perform stretching exercises and take frequent rest breaks. You should also pay attention to
+ergonomics
+to make sure that you are using the proper wrist position while working.
+Make sure that you get enough
+calcium
+and
+vitamin D
+to keep your bones strong
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Wrist Injuries
+
+Related Resources:
+
+Resource: Arm MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007358.htm
+
+Resource: Arthritis of the Wrist
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/arthritis-of-the-wrist/
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: ClinicalTrials.gov: Ganglion Cysts
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ganglion+Cysts%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Wrist Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Wrist+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Colles wrist fracture - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000896.htm
+
+Resource: Computer Workstations eTool: Keyboards
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/keyboards
+
+Resource: Computer Workstations eTool: Pointer/Mouse
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/pointer-mouse
+
+Resource: Computer Workstations eTool: Wrist/Palm Supports
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/wrist-palm-support
+
+Resource: De Quervain tendinitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000537.htm
+
+Resource: De Quervain Tenosynovitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/de-quervain-tenosynovitis/symptoms-causes/syc-20371332?p=1
+
+Resource: De Quervain's Tenosynovitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/de-quervains-tendinosis/
+
+Resource: Direct Arthrography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/arthrog
+
+Resource: Distal Radius Fractures (Broken Wrist)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/distal-radius-fractures-broken-wrist/
+
+Resource: Ganglion Cyst of the Wrist and Hand
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/ganglion-cyst-of-the-wrist-and-hand/
+
+Resource: Ganglion Cysts (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ganglion-cysts.html
+
+Resource: Hand/Wrist/Arm Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/hand-wrist-arm-problems/
+
+Resource: Kienböck's Disease
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/kienbocks-disease/
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Wrist Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Wrist+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radial Dysplasia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/radial-dysplasia.html
+
+Resource: Scaphoid Fracture of the Wrist
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/scaphoid-fracture-of-the-wrist/
+
+Resource: Ulnar Dysplasia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ulnar-dysplasia.html
+
+Resource: What Is a Hand Surgeon?
+Category: Related Issues
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/treatment/what-is-a-hand-surgeon/
+
+Resource: Wrist arthroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007585.htm
+
+Resource: Wrist Arthroscopy
+Category: Treatments and Therapies
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/treatment/wrist-arthroscopy/
+
+Resource: Wrist Pain
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/wrist-pain/symptoms-causes/syc-20366213?p=1
+
+Resource: Wrist pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003175.htm
+
+Resource: Wrist sprain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000568.htm
+
+Resource: Wrist Sprains
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/wrist-sprains/
+
+Resource: Wrist X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-exam-wrist.html

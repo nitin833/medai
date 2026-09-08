@@ -1,0 +1,174 @@
+Title: Women's Health Checkup
+
+Summary:
+Regular checkups with your health care provider are different from appointments for sickness or injury. Your checkups, which are also called well-woman exams, include physical exams as well as preventive care. They can help find health problems early, when they may be easier to treat.
+Your checkup is usually done by a provider with special training in caring for women. It will include
+screenings
+for chronic diseases. As a woman, you may also get special exams and screenings, such as:
+A pelvic exam
+to check the health of your reproductive organs. Your provider will look at your vulva, vagina, and cervix. They will also do an internal exam to feel the size and shape of your internal organs such as the uterus and ovaries.
+A
+cervical cancer screening
+, which uses a
+Pap test
+, an
+HPV test
+, or both. The tests can help prevent
+cervical cancer
+.  A Pap test checks for cervical cancer and for abnormal cells that could turn into cancer. An HPV test looks for the types of
+HPV
+which can cause cervical cancer. For both tests, your provider will take a sample of cells from the surface of your cervix and send them to a lab to be examined under a microscope.
+A clinical breast exam
+to check for
+breast cancer
+. Your provider will feel and look at your breasts and armpit area for lumps or other changes. They may also recommend a
+mammogram
+, which is an x-ray picture of your breast.
+Which tests you get and how often you need them will depend on your age, overall health, and
+family health history
+. In some cases, your provider may also recommend other tests as well. For example, if you have a family history of certain cancers, your provider may recommend
+genetic testing
+.
+During your checkup, you and your provider may also talk about other issues, such as:
+Birth control
+or family planning
+Menopause
+Menstrual concerns
+Sexually transmitted infections (STIs)
+Vaccines
+Your overall physical health and
+mental well-being
+, including suggestions on how to have a
+healthy lifestyle
+To make the most of your next checkup, bring a list of any questions or concerns you have, so you can
+talk about them
+with your provider.
+
+Groups:
+- Women
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Women's Health
+- Physical Examination
+
+Related Resources:
+
+Resource: 10 Telehealth Tips for an Ob-Gyn Visit
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/infographics/10-telehealth-tips-for-an-ob-gyn-visit
+
+Resource: Catch-Up HPV Testing May Help Prevent Cervical Cancer in Some Over Age 65
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2023/catch-up-hpv-testing-older-women
+
+Resource: Cervical cancer - screening and prevention
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000419.htm
+
+Resource: Cervical Cancer Screening
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/screening
+
+Resource: ClinicalTrials.gov: Women's Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Women%27s%20Health%22&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Get Your Well-Woman Visit Every Year
+Category: Start Here
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/healthy-living/sexual-health/get-your-well-woman-visit-every-year
+
+Resource: Gyn Checkups
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/obgyn.html
+
+Resource: Health screenings for women age 65 and older
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007463.htm
+
+Resource: Health screenings for women ages 18 to 39
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007462.htm
+
+Resource: Health screenings for women ages 40 to 64
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007467.htm
+
+Resource: Healthy Living by Age
+Category: Specifics
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/healthy-living-age
+
+Resource: Making the Most of Your Health Care Visit
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/making-the-most-of-your-health-care-visit
+
+Resource: Mammograms
+Category: Specifics
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/mammograms
+
+Resource: Pap and HPV Tests
+Category: Specifics
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/pap-hpv-tests
+
+Resource: Pelvic Exam
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/pelvic-exam/about/pac-20385135?p=1
+
+Resource: Pelvis Ultrasound
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pelvus
+
+Resource: Women's Health Checkup
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Physical+Examination%22%5Bmajr%5D+AND+female+%5Bmh%5D+AND+%22Women%27s+Health%22%5Bmajr%5D+AND+female+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: Reasons to See Your Ob-Gyn This Year
+Category: Specifics
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/infographics/reasons-to-see-your-ob-gyn-this-year
+
+Resource: What to Ask: Women's Health
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/what-ask-womens-health
+
+Resource: Women's health
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007458.htm
+
+Resource: Women's Preventive Care Timeline
+Category: Prevention and Risk Factors
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/wellness-and-prevention/womens-preventive-care-infographic
+
+Resource: Your Daughter's First Gynecology Visit
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/first-gyn.html
+
+Resource: Your First Pelvic Exam
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/pelvic-exam/

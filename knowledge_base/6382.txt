@@ -1,0 +1,370 @@
+Title: Kidney Tests
+
+Also Called:
+- Kidney Function Panel
+- Kidney Function Tests
+- Kidney Panel
+- Renal Function Panel
+
+Summary:
+You have two kidneys. They are fist-sized organs on either side of your backbone above your waist. Your kidneys filter and clean your blood, taking out waste products and making urine. Kidney tests check to see how well your kidneys are working. They include blood,
+urine
+, and
+imaging
+tests.
+Early
+kidney disease
+usually does not have signs or symptoms. Testing is the only way to know how your kidneys are doing. It is important for you to get checked for kidney disease if you have the key risk factors - diabetes, high blood pressure, heart disease, or a family history of kidney failure.
+Specific kidney tests include:
+Glomerular filtration rate (GFR)
+- one of the most common blood tests to check for
+chronic kidney disease
+. It tells how well your kidneys are filtering.
+Creatinine blood and urine tests
+- check the levels of creatinine, a waste product that your kidneys remove from your blood
+Albumin urine test - checks for albumin, a protein that can pass into the urine if the kidneys are damaged
+Imaging tests, such as an
+ultrasound
+- provide pictures of the kidneys. The pictures help the health care provider see the size and shape of the kidneys, and check for anything unusual.
+Kidney
+biopsy
+- a procedure that involves taking a small piece of kidney tissue for examination with a microscope. It checks for the cause of kidney disease and how damaged your kidneys are.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+- Diagnostic Tests
+
+MeSH Headings:
+- Kidney Function Tests
+
+Related Resources:
+
+Resource: 24-hour urine protein
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003622.htm
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal tap
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Abdominal Ultrasound
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Acid loading test (pH)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003615.htm
+
+Resource: Albumin blood (serum) test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003480.htm
+
+Resource: Albumin Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/albumin-blood-test/
+
+Resource: Amylase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003607.htm
+
+Resource: Anti-glomerular basement membrane blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003524.htm
+
+Resource: Basic metabolic panel
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003462.htm
+
+Resource: Basic Metabolic Panel (BMP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/basic-metabolic-panel-bmp/
+
+Resource: BUN (Blood Urea Nitrogen)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bun-blood-urea-nitrogen/
+
+Resource: BUN - blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003474.htm
+
+Resource: Calcium - ionized
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003486.htm
+
+Resource: Calcium - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003603.htm
+
+Resource: Calcium Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcium-blood-test/
+
+Resource: Calcium blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003477.htm
+
+Resource: Calcium in Urine Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/calcium-in-urine-test/
+
+Resource: Chloride - urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003601.htm
+
+Resource: Chloride Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chloride-blood-test/
+
+Resource: Chronic Kidney Disease Tests and Diagnosis
+Category: Start Here
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis
+
+Resource: Citric acid urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003618.htm
+
+Resource: ClinicalTrials.gov: Kidney Function Tests
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kidney+Function+Tests%22&aggFilters=status:not%20rec
+
+Resource: CO2 blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003469.htm
+
+Resource: Comprehensive Metabolic Panel (CMP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/comprehensive-metabolic-panel-cmp/
+
+Resource: Creatinine Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/creatinine-test/
+
+Resource: Cystoscopy and Ureteroscopy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy
+
+Resource: Fasting for a Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fasting-for-a-blood-test/
+
+Resource: Fractional excretion of sodium
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003602.htm
+
+Resource: Glomerular filtration rate
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007305.htm
+
+Resource: Glomerular Filtration Rate (GFR) Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/glomerular-filtration-rate-gfr-test/
+
+Resource: Hemoglobinuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003363.htm
+
+Resource: Immunoelectrophoresis - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003592.htm
+
+Resource: Intravenous pyelogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003782.htm
+
+Resource: Intravenous Pyelogram (IVP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/intravenous-pyelogram-ivp/
+
+Resource: Kidney biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003907.htm
+
+Resource: Kidney Biopsy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/kidney-biopsy
+
+Resource: Kidney Stone Analysis
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/kidney-stone-analysis/
+
+Resource: Magnesium Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/magnesium-blood-test/
+
+Resource: Microalbuminuria test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003591.htm
+
+Resource: Phosphate in Blood
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/phosphate-in-blood/
+
+Resource: Phosphate in Urine
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/phosphate-in-urine/
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Potassium urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003600.htm
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Protein Electrophoresis by Immunofixation Blood Test
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/immunofixation-ife-blood-test/
+
+Resource: Kidney Tests
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Kidney+Function+Tests%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RBC urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003582.htm
+
+Resource: Renal arteriography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003781.htm
+
+Resource: Renal perfusion scintiscan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003831.htm
+
+Resource: Renal scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003790.htm
+
+Resource: Renal venogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003770.htm
+
+Resource: Sodium urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003599.htm
+
+Resource: TBG blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003374.htm
+
+Resource: Testing for Chronic Kidney Disease
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/kidney-disease/testing/
+
+Resource: Tests for Kidney Disease
+Category: Start Here
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/all-about-kidneys/tests-kidney-disease
+
+Resource: Total protein
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003483.htm
+
+Resource: Total Protein and Albumin/Globulin (A/G) Ratio
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/total-protein-and-albumin-globulin-a-g-ratio/
+
+Resource: Urea nitrogen urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003605.htm
+
+Resource: Uric acid - blood
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003476.htm
+
+Resource: Urinalysis: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/urinalysis.html
+
+Resource: Urinary casts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003586.htm
+
+Resource: Urine 24-hour volume
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003425.htm
+
+Resource: Urine protein dipstick test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003580.htm
+
+Resource: Urine protein electrophoresis test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003589.htm

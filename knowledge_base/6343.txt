@@ -1,0 +1,115 @@
+Title: Virus del Zika
+
+Summary:
+El Zika es un
+virus
+que en su mayoría se transmite por mosquitos (zancudos). Una mujer embarazada puede pasar el virus a su bebé durante el embarazo o cerca de la fecha de parto. Puede propagarse por contacto sexual. También se ha reportado su diseminación a través de transfusiones de sangre. Han aparecido brotes de Zika en Estados Unidos, África, el sudeste asiático, las islas del Pacífico, algunas áreas del Caribe y en América Central y América del Sur.
+La mayoría de las personas que se contagia el virus no se enferma. Una de cada cinco personas tiene síntomas, que pueden incluir fiebre, erupción en la piel, dolor en las articulaciones y
+conjuntivitis
+. En general, los síntomas son leves y comienzan dos a siete días después de haber sido picado por el mosquito.
+Una prueba de sangre puede diagnosticar la infección. No existen vacunas o medicamentos para tratarla. Tomar mucho líquido, descansar y tomar acetaminofén puede ayudar con la recuperación.
+El Zika puede causar microcefalia (un
+defecto de nacimiento
+serio en el cual la cabeza de una persona es mucho más pequeña de lo normal) y otros problemas en bebés cuyas madres fueron infectadas estando embarazadas. Los Centros para el Control y la Prevención de Enfermedades recomiendan que las mujeres embarazadas no viajen a regiones donde se registren brotes de Zika.
+Si usted planea viajar, consulte con su médico. También debe tener cuidado de evitar las
+picaduras de mosquitos
+:
+Use repelente de insectos
+Use ropa que cubra sus brazos, piernas y pies
+Quédese en lugares donde haya aire acondicionado o use mosquiteros en las ventanas
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: 5 cosas que debe saber sobre el Zika y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/5-zika.html
+
+Resource: Casos de zika en los Estados Unidos
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/zika-cases-us/casos-de-zika-en-los-estados-unidos.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Crecer después del Zika
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://www.nichd.nih.gov/newsroom/digital-media/infographics/092116_zika_spanish
+
+Resource: Cómo se propaga el zika
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/causes/como-se-propaga-el-zika.html
+
+Resource: Encuentre el repelente de insectos adecuado
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/control-de-plagas/encuentre-el-repelente-de-insectos-adecuado
+
+Resource: Enfermedad del virus del Zika
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007666.htm
+
+Resource: Enfermedad por el virus del Zika
+Category: Comience aquí, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/zika-virus
+
+Resource: Microcefalia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003272.htm
+
+Resource: Microcefalia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/birth-defects/es/about/microcefalia.html
+
+Resource: Protéjase contra la picaduras de mosquitos cuando viaje
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/mosquitoes/pdfs/MosquitoBitePreventionTravelers_ESP_508.pdf
+
+Resource: Prueba del virus del Zika
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-del-virus-del-zika/
+
+Resource: Pruebas de detección del virus del Zika
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/testing/pruebas-de-deteccion-del-virus-del-zika.html
+
+Resource: Recomendaciones para las personas que viajan y las personas que viven en el extranjero
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/travel/recomendaciones-para-las-personas-que-viajan-y-las-personas-que-viven-en-el-extranjero.html
+
+Resource: Síntomas y complicaciones del zika
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/signs-symptoms/sintomas-y-complicaciones-del-zika.html
+
+Resource: Tratamiento del virus Zika
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/zika/es/treatment/tratamiento-del-zika.html
+
+Resource: Virus del Zika: Lo que los padres deben saber
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/prenatal/paginas/zika-virus.aspx
+
+Resource: Zika
+Category: Comience aquí, Spanish/Español
+Organization: Organización Panamericana de la Salud
+URL: https://www.paho.org/es/temas/zika

@@ -1,0 +1,302 @@
+Title: Parasitic Diseases
+
+Summary:
+Parasites are living things that use other living things - like your body - for food and a place to live. You can get them from contaminated food or water, a bug bite, or sexual contact. Some parasitic diseases are easily treated and some are not.
+Parasites range in size from tiny, one-celled organisms called protozoa to worms that can be seen with the naked eye. Some parasitic diseases occur in the United States. Contaminated water supplies can lead to
+Giardia infections
+. Cats can transmit
+toxoplasmosis
+, which is dangerous for pregnant women.  Others, like
+malaria
+, are common in other 
+parts of the world.
+If you are
+traveling
+, it's important to drink only water you know is safe. Prevention is especially important. There are no vaccines for parasitic diseases. Some medicines are available to treat parasitic infections.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Parasitic Diseases
+
+Related Resources:
+
+Resource: A-Z Index of Parasitic Diseases
+Category: Reference Desk
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/listing/
+
+Resource: About Onchocerciasis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/filarial-worms/about/onchocerciasis.html
+
+Resource: About Parasites
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/about/index.html
+
+Resource: About Swimmer's Itch
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/swimmers-itch/about/
+
+Resource: Acanthamoeba Infections
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/acanthamoeba/about/
+
+Resource: Amebiasis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000298.htm
+
+Resource: Amebic liver abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000211.htm
+
+Resource: Ascariasis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000628.htm
+
+Resource: Ascariasis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ascariasis.html
+
+Resource: Balamuthia Infections
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/balamuthia/about/
+
+Resource: Blastocystis hominis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/blastocystis-hominis-infection/symptoms-causes/syc-20351205?p=1
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Lice Infestations
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lice+Infestations%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Parasitic Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Parasitic+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Creeping eruption
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001454.htm
+
+Resource: Cyclosporiasis (Cyclospora Infection)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cyclosporiasis/
+
+Resource: Cysticercosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000627.htm
+
+Resource: D-xylose absorption
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003606.htm
+
+Resource: Diagnosis of Parasitic Diseases
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/testing-diagnosis/
+
+Resource: Echinococcus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000676.htm
+
+Resource: Fish tapeworm infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001375.htm
+
+Resource: Germs: Understand and Protect against Bacteria, Viruses, and Infections
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289?p=1
+
+Resource: Hand Hygiene Frequently Asked Questions
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/clean-hands/faq/index.html
+
+Resource: Hookworm infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000629.htm
+
+Resource: Naegleria fowleri Infection
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/naegleria/about/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Ova and Parasite Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ova-and-parasite-test/
+
+Resource: Parasites and Foodborne Illness
+Category: Start Here
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/foodborne-illness-and-disease/pathogens/parasites-and-foodborne-illness
+
+Resource: Parasites: Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/children/
+
+Resource: Parasites: Glossary
+Category: Reference Desk
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/glossary/
+
+Resource: Planning for Parasitic Diseases when Travelling
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/travelers/
+
+Resource: Post-Travel Parasitic Disease Including Evaluation of Eosinophilia
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-parasitic-disease.html
+
+Resource: Parasitic Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Parasitic+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rectal culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003759.htm
+
+Resource: Schistosomiasis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001321.htm
+
+Resource: Schistosomiasis (Bilharzia)
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/schistosomiasis-bilharzia
+
+Resource: Sleeping sickness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001362.htm
+
+Resource: Small bowel tissue smear/biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003732.htm
+
+Resource: Smear of duodenal fluid aspirate
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003729.htm
+
+Resource: Stool ova and parasites exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003756.htm
+
+Resource: Stool Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html
+
+Resource: String test for intestinal parasites
+Category: Diagnosis and Tests
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003735.htm
+
+Resource: Strongyloidiasis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000630.htm
+
+Resource: Tapeworm Infection
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tapeworm/symptoms-causes/syc-20378174?p=1
+
+Resource: Tapeworm infection - beef or pork
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001391.htm
+
+Resource: Tapeworm infection - hymenolepis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001378.htm
+
+Resource: Toxocariasis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toxocariasis.html
+
+Resource: Trichinosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000631.htm
+
+Resource: Types of Neglected Tropical Diseases
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/neglected-tropical-diseases-types
+
+Resource: Visceral larva migrans
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000633.htm
+
+Resource: Water Disinfection for Travelers
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/water-disinfection-for-travelers.html
+
+Resource: What Causes Parasitic Diseases
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/causes/
+
+Resource: Whipworm infection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001364.htm
+
+Resource: Women and Parasites
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/women-basics/
+
+Resource: Xylose Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/xylose-testing/

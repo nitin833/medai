@@ -1,0 +1,113 @@
+Title: Older Adult Mental Health
+
+Also Called:
+- Senior mental health
+
+Summary:
+Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act as we cope with life. It also helps determine how we handle stress, relate to others, and make choices. Mental health is important at every stage of life, including as we age.
+Many older adults are at risk for mental health problems. But this does not mean that mental health problems are a normal part of aging. Studies show that most older adults feel satisfied with their lives, even though they may have more illnesses or physical problems.
+Sometimes, however, important life changes can make you feel uneasy, stressed, and sad. These changes could include the death of a loved one, retirement, or dealing with a serious illness. Many older adults will eventually adjust to the changes. But some people will have more trouble adjusting. This can put them at risk for
+mental disorders
+such as
+depression
+and
+anxiety
+.
+It's important to recognize and treat mental disorders in older adults. These disorders don't just cause mental suffering. They can also make it harder for you to manage other health problems. This is especially true if those health problems are chronic.
+Some of the warning signs of mental disorders in older adults include:
+Changes in mood or energy level
+A change in your eating or sleeping habits
+Withdrawing from the people and activities you enjoy
+Feeling unusually confused, forgetful, angry, upset, worried, or scared
+Feeling numb or like nothing matters
+Having unexplained aches and pains
+Feeling sadness or hopelessness
+Smoking, drinking, or using drugs more than usual
+Anger, irritability, or aggressiveness
+Having thoughts and memories that you can't get out of your head
+Hearing voices or believing things that are not true
+Thinking of harming yourself or others
+If you think that you may have a mental health problem, get help. Talk therapy and/or medicines can treat mental disorders. If you don't know where to start, contact your primary care provider.
+
+Groups:
+- Mental Health and Behavior
+- Older Adults
+
+MeSH Headings:
+- Mental Health
+
+Related Resources:
+
+Resource: 10 Warning Signs Your Older Family Member May Need Help
+Category: Diagnosis and Tests
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/10_Warning_Signs_Your_Older_Family_Member_May_Need_Help.pdf
+
+Resource: Aging Veterans and Posttraumatic Stress Symptoms
+Category: Related Issues
+Organization: National Center for PTSD
+URL: https://www.ptsd.va.gov/understand/what/aging_veterans.asp
+
+Resource: Anxiety
+Category: Specifics
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/anxiety
+
+Resource: ClinicalTrials.gov: Older Adult Mental Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22mental+disorders%22&aggFilters=ages:older,status:not%20rec
+
+Resource: ClinicalTrials.gov: Older Adult Mental Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22mental+health%22&aggFilters=ages:older,status:not%20rec
+
+Resource: Depression and Aging
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-aging/about/depression-aging.html
+
+Resource: Depression and Older Adults
+Category: Specifics
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/mental-and-emotional-health/depression-and-older-adults
+
+Resource: Depression in older adults
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001521.htm
+
+Resource: Easing Depression in Older Adults
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/06/easing-depression-older-adults
+
+Resource: Loneliness and Social Isolation -- Tips for Staying Connected
+Category: Specifics
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/loneliness-and-social-isolation/loneliness-and-social-isolation-tips-staying-connected
+
+Resource: Mental Health Medications
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/mental-health-medications
+
+Resource: Mental Health of Older Adults
+Category: Statistics and Research
+Organization: World Health Organization
+URL: https://www.who.int/news-room/fact-sheets/detail/mental-health-of-older-adults
+
+Resource: Older Adults and Mental Health
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/older-adults-and-mental-health
+
+Resource: Older Adult Mental Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mental+Health%22%5Bmajr%3Anoexp%5D+AND+aged+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Social Isolation, Loneliness in Older People Pose Health Risks
+Category: Statistics and Research
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/news/social-isolation-loneliness-older-people-pose-health-risks

@@ -1,0 +1,69 @@
+Title: A1C
+
+Also Called:
+- Glycohemoglobin
+- HbA1C
+- Hemoglobin A1C test
+
+Summary:
+A1C is a blood test for
+type 2 diabetes
+and
+prediabetes
+. It measures your average blood glucose, or
+blood sugar
+, level over the past 3 months. Doctors may use the A1C alone or in combination with other diabetes tests to make a diagnosis. They also use the A1C to see how well you are managing your diabetes. This test is different from the blood sugar checks that people with diabetes do every day.
+Your A1C test result is given in percentages. The higher the percentage, the higher your blood sugar levels have been:
+A normal A1C level is below 5.7%
+Prediabetes is between 5.7 to 6.4%. Having prediabetes is a risk factor for getting type 2 diabetes. People with prediabetes may need retests every year.
+Type 2 diabetes is above 6.5%
+If you have diabetes, you should have the A1C test at least twice a year. The A1C goal for many people with diabetes is below 7. It may be different for you. Ask what your goal should be. If your A1C result is too high, you may need to change your diabetes care plan.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Diagnostic Tests
+- Diabetes Mellitus
+
+MeSH Headings:
+- Glycated Hemoglobin
+
+Related Resources:
+
+Resource: A1C and eAG
+Category: Learn More
+Organization: American Diabetes Association
+URL: https://diabetes.org/a1c-eag-conversion-calculator
+
+Resource: A1C test
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003640.htm
+
+Resource: A1C Test and Diabetes
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test
+
+Resource: A1C Test and Race/Ethnicity
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/a1c-test-race-ethnicity
+
+Resource: ClinicalTrials.gov: Hemoglobin A1C
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Hemoglobin+A1C%22&aggFilters=status:not%20rec
+
+Resource: Hemoglobin A1C (HbA1c) Test
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/
+
+Resource: A1C
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Glycated+Hemoglobin%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Understanding A1C
+Category: Learn More
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/a1c

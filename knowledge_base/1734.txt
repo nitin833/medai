@@ -1,0 +1,349 @@
+Title: Alergia
+
+Also Called:
+- Hipersensibilidad
+- Reacción adversa
+
+Summary:
+Una alergia es una reacción de su sistema inmunitario hacia algo que no molesta a la mayoría de las demás personas. Quienes tienen alergias suelen ser sensibles a más de una cosa. Las sustancias que suelen causar reacciones son:
+Polen
+Ácaros del polvo
+Esporas de moho
+Caspa de animales
+Alimentos
+Picaduras de insectos
+Medicinas
+Normalmente, su sistema inmunitario combate los gérmenes. Es el sistema de defensa de su cuerpo. Sin embargo, en la mayoría de las reacciones alérgicas responde a una falsa alarma. Los genes y el medio ambiente probablemente tienen un rol en las alergias.
+Las alergias pueden provocar una serie de síntomas como goteos nasales, estornudos, picazón,
+sarpullidos
+, edema (hinchazón) o
+asma
+. Las alergias van de leves a severas. Una reacción severa llamada
+anafilaxia
+puede resultar fatal. Los médicos usan pruebas de piel y sangre para diagnosticar las alergias. Los tratamientos incluyen medicinas, inyecciones y evitar las sustancias que causan las alergias.
+
+Groups:
+- Oído, nariz y garganta
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Aerosoles nasales con corticosteroides
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000404.htm
+
+Resource: Alergia a las mascotas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pet-allergy/symptoms-causes/syc-20352192?p=1
+
+Resource: Alergia a los ácaros del polvo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dust-mites/symptoms-causes/syc-20352173?p=1
+
+Resource: Alergia al níquel
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/nickel-allergy/symptoms-causes/syc-20351529?p=1
+
+Resource: Alergia al sol
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sun-allergy/symptoms-causes/syc-20378077?p=1
+
+Resource: Alergia física
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-inmunol%C3%B3gicos/reacciones-al%C3%A9rgicas-y-otros-trastornos-de-hipersensibilidad/alergia-f%C3%ADsica
+
+Resource: Alergia ocular
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/alergias/alergia-ocular
+
+Resource: Alergia y el dolor de cabeza
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nacional de la Cefalea
+URL: https://headaches.org/blog/la-alergia-y-el-dolor-de-cabeza/
+
+Resource: Alergias
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000812.htm
+
+Resource: Alergias
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000002.htm
+
+Resource: Alergias
+Category: Comience aquí, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/alergias
+
+Resource: Alergias al moho
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/alergias-al-moho
+
+Resource: Alergias al polen
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/alergias-al-polen
+
+Resource: Alergias, asma y mohos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000488.htm
+
+Resource: Alergias, asma y polen
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000489.htm
+
+Resource: Alergias, asma y polvo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000487.htm
+
+Resource: Alivio para la alergia de su hijo
+Category: Spanish/Español, Niños/as
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/alivio-para-la-alergia-de-su-hijo
+
+Resource: Alérgenos de exterior: Consejos para tener en cuenta
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/alergenos-de-exterior-consejos-para-tener-en-cuent
+
+Resource: Angioedema
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000846.htm
+
+Resource: Antihistamínicos para las alergias
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000549.htm
+
+Resource: Asma, alergias y embarazo
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-asma/asma,-alergias-y-embarazo-consejos-para-tener-en-c
+
+Resource: Aspergilosis broncopulmonar alérgica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/afecciones-relacionadas/aspergilosis-broncopulmonar-alergica-(abpa)
+
+Resource: Buenos hábitos de limpieza para quienes padecen de alergia y asma
+Category: Viviendo con..., Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/buenos-habitos-de-limpieza-para-quienes-padecen-de
+
+Resource: Causas de las alergias en los niños: qué pueden hacer los padres
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/allergies-asthma/paginas/allergy-causes.aspx
+
+Resource: Cinco formas de prepararse para una emergencia alérgica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/allergy-emergency.html
+
+Resource: Conjuntivitis alérgica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001031.htm
+
+Resource: Conozca qué medicamentos son adecuados para sus alergias estacionales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/conozca-que-medicamentos-son-adecuados-para-sus-alergias-estacionales
+
+Resource: Consejos de seguridad para el Día de las Brujas: disfraces, dulces, lentes de colores
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/consejos-de-seguridad-para-el-dia-de-las-brujas-disfraces-dulces-lentes-de-colores
+
+Resource: Cuestionario sobre las alergias estacionales
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000812_78.htm
+
+Resource: Cuidados personales para la rinitis alérgica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000547.htm
+
+Resource: Eritema multiforme
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000851.htm
+
+Resource: Esofagitis eosinofílica: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/eosinophilicesophagitis.html
+
+Resource: Estornudo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003060.htm
+
+Resource: Evaluación de las alergias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/evaluacion-de-las-alergias-consejos-para-tener-en
+
+Resource: Histamina: De lo que está hecha la alergia
+Category: Interactivos y videos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/videos-de-medlineplus/histamina-de-lo-que-esta-hecha-la-alergia/
+
+Resource: Las maravillas de la mucosidad y la flema
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-maravillas-de-la-mucosidad-y-la-flema
+
+Resource: Lavados nasales con solución salina
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000801.htm
+
+Resource: Medicamentos contra la alergia: Conoce tus opciones
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/allergies/in-depth/allergy-medications/art-20047403?p=1
+
+Resource: Medicamentos para las alergias de los niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/allergies-asthma/paginas/allergy-medicines.aspx
+
+Resource: Niños y alergias (Para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/allergy.html
+
+Resource: Picaduras de insectos: Consejos para tener en cuenta
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/picaduras-de-insectos-consejos-para-tener-en-cuent
+
+Resource: Prepara tu hogar a prueba de alergias
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/allergies/in-depth/allergy/art-20049365?p=1
+
+Resource: Prevención de alergias y asma en niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/prevencion-de-alergias-y-asma-en-ninos-consejos-pa
+
+Resource: Prueba de alergias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-alergias/
+
+Resource: Prueba de alergias en la piel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-alergias-en-la-piel/
+
+Resource: Pruebas cutáneas para alergias
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003519.htm
+
+Resource: Pruebas de alergia
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/allergy-tests.html
+
+Resource: Reacciones alérgicas
+Category: Comience aquí, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/reacciones-alergicas-consejos-para-tener-en-cuenta
+
+Resource: Reacciones alérgicas
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000005.htm
+
+Resource: Reacciones alérgicas a medicamentos y fármacos
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/reacciones-alergicas-a-medicamentos-y-farmacos-con
+
+Resource: Resfríos, alergias y sinusitis: Cómo diferenciarlas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/resfrios-alergias-y-sinusitis
+
+Resource: Rinorrea o congestión nasal en adultos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003049.htm
+
+Resource: Rinorrea o congestión nasal en niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003051.htm
+
+Resource: Sentirse mejor, vivir mejor: Consulte a un alergista o inmunólogo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/sentirse-mejor-vivir-mejor-consulte-a-un-alergista
+
+Resource: Tratamiento de lavados nasales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/tratamiento-de-lavados-nasales
+
+Resource: Vacunas antialérgicas
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000405.htm
+
+Resource: Vacunas contra la alergia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/vacunas-contra-la-alergia-consejos-para-recordar
+
+Resource: Vasculitis por hipersensibilidad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000874.htm
+
+Resource: ¿Es gripe, COVID-19, alergias o un resfriado?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/es-gripe-covid-19-alergias-o-un-resfriado
+
+Resource: ¿Es una alergia o un resfriado? Cómo saber la diferencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/allergies-asthma/paginas/is-it-allergies-or-a-cold-how-to-tell-the-difference.aspx
+
+Resource: ¿Las alergias causan el asma?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/allergies-asthma.html
+
+Resource: ¿Las alergias causan el asma?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/allergies-asthma.html
+
+Resource: ¿Las alergias provocan asma?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/allergies-asthma.html
+
+Resource: ¿Qué es un alergista/inmunólogo pediátrico?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-allergist-immunologist.aspx

@@ -1,0 +1,191 @@
+Title: Malabsorption Syndromes
+
+Summary:
+Your small intestine does most of the digesting of the foods you eat. If you have a malabsorption syndrome, your small intestine cannot absorb nutrients from foods.
+Causes of malabsorption syndromes include:
+Celiac disease
+Lactose intolerance
+Short bowel syndrome. This happens after surgery to remove half or more of the small intestine. You might need the surgery if you have a problem with the small intestine from a disease, injury, or birth defect.
+Whipple disease, a rare bacterial infection
+Genetic diseases
+Certain medicines
+Symptoms of different malabsorption syndromes can vary.  They often include chronic diarrhea, abnormal stools, weight loss, and gas. Your doctor may use lab, imaging, or other tests to make a diagnosis.
+Treatment of malabsorption syndromes depends on the cause.
+
+Groups:
+- Digestive System
+- Food and Nutrition
+
+MeSH Headings:
+- Malabsorption Syndromes
+
+Related Resources:
+
+Resource: Abetalipoproteinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/abetalipoproteinemia/
+
+Resource: Alagille Syndrome
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/alagille-syndrome
+
+Resource: American College of Gastroenterology
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org
+
+Resource: Bassen-Kornzweig syndrome
+Category: Specifics, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001666.htm
+
+Resource: ClinicalTrials.gov: Malabsorption Syndromes
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Malabsorption+Syndromes%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Congenital sucrase-isomaltase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-sucrase-isomaltase-deficiency/
+
+Resource: D-xylose absorption
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003606.htm
+
+Resource: Failure to Thrive
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/failure-thrive.html
+
+Resource: Faltering weight
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000991.htm
+
+Resource: Fecal fat
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003588.htm
+
+Resource: Glucose-galactose malabsorption: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glucose-galactose-malabsorption/
+
+Resource: Hereditary folate malabsorption: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-folate-malabsorption/
+
+Resource: Intestinal Lymphangiectasia
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/digestive-disorders/malabsorption/intestinal-lymphangiectasia
+
+Resource: Lactose intolerance: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lactose-intolerance/
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Malabsorption
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000299.htm
+
+Resource: Malabsorption
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/health-issues/conditions/abdominal/pages/malabsorption.aspx
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Overview of Malabsorption
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/digestive-disorders/malabsorption/overview-of-malabsorption
+
+Resource: Malabsorption Syndromes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Malabsorption+Syndromes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Short bowel syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000237.htm
+
+Resource: Short Bowel Syndrome
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/short-bowel-syndrome
+
+Resource: Short Bowel Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/short-bowel-syndrome.html
+
+Resource: Short Bowel Syndrome and Intestinal Failure
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/digestive-topics/short-bowel-syndrome/
+
+Resource: Small bowel bacterial overgrowth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000222.htm
+
+Resource: Small Intestinal Bacterial Overgrowth (SIBO)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/small-intestinal-bacterial-overgrowth/symptoms-causes/syc-20370168?p=1
+
+Resource: Stool Elastase
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/stool-elastase/
+
+Resource: Stool Tests (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html
+
+Resource: Stools - floating
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003128.htm
+
+Resource: Tropical sprue
+Category: Specifics, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000275.htm
+
+Resource: Whipple disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000209.htm
+
+Resource: Whipple's Disease
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7889/whipple-disease
+
+Resource: Xylose Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/xylose-testing/

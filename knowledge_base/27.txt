@@ -1,0 +1,475 @@
+Title: COPD
+
+Summary:
+What is COPD (chronic obstructive pulmonary disease)?
+COPD (chronic obstructive pulmonary disease) is a group of lung diseases that make it hard to breathe and get worse over time.
+Normally, the airways and air sacs in your lungs are elastic or stretchy. When you breathe in, the airways bring air to the air sacs. The air sacs fill up with air, like a small balloon. When you breathe out, the air sacs deflate, and the air goes out. If you have COPD, less air flows in and out of your airways because of one or more problems:
+The airways and air sacs in your lungs become less elastic
+The walls between many of the air sacs are destroyed
+The walls of the airways become thick and inflamed
+The airways make more mucus than usual and can become clogged
+What are the types of COPD (chronic obstructive pulmonary disease)?
+COPD includes two main types:
+Emphysema
+affects the air sacs in your lungs, as well as the walls between them. They become damaged and are less elastic.
+Chronic bronchitis
+, in which the lining of your airways is constantly irritated and inflamed. This causes the lining to swell and make mucus.
+Most people with COPD have both emphysema and chronic bronchitis, but how severe each type is can be different from person to person.
+What causes COPD (chronic obstructive pulmonary disease)?
+The cause of COPD is usually long-term exposure to irritants that damage your lungs and airways. In the United States,
+cigarette smoke
+is the main cause. Pipe, cigar, and other types of tobacco smoke can also cause COPD, especially if you inhale them.
+Exposure to other inhaled irritants can contribute to COPD. These include
+secondhand smoke
+,
+air pollution
+, and chemical fumes or dusts from the environment or workplace.
+Rarely, a genetic condition called
+alpha-1 antitrypsin deficiency
+can play a role in causing COPD.
+Who is at risk for COPD (chronic obstructive pulmonary disease)?
+The risk factors for COPD include:
+Smoking.
+This is the main risk factor. Up to 75% of people who have COPD smoke or used to smoke.
+Long-term exposure to other lung irritants
+, such as secondhand smoke, air pollution, and chemical fumes and dusts from the environment or workplace
+Age.
+Most people who have COPD are at least 40 years old when their symptoms begin.
+Genetics.
+This includes alpha-1 antitrypsin deficiency, which is a genetic condition. Also, smokers who get COPD are more likely to get it if they have a family history of COPD.
+Asthma.
+People who have
+asthma
+have more risk of developing COPD than people who don't have asthma. But most people with asthma will
+not
+get COPD.
+What are the symptoms of COPD (chronic obstructive pulmonary disease)?
+At first, you may have no symptoms or only mild symptoms. As the disease gets worse, your symptoms usually become more severe. They can include:
+Frequent
+coughing
+or a cough that produces a lot of mucus
+Wheezing
+A whistling or squeaky sound when you breathe
+Shortness of breath, especially with physical activity
+Tightness in your chest
+Some people with COPD get frequent respiratory infections such as
+colds
+and the
+flu
+. In severe cases, COPD can cause weight loss, weakness in your lower muscles, and
+swelling
+in your ankles, feet, or legs.
+How is COPD (chronic obstructive pulmonary disease) diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+A family history
+Various tests, such as
+lung function tests
+, a chest
+x-ray
+or
+CT scan
+, and blood tests
+Your doctor will diagnose COPD based on your signs and symptoms, your medical and family histories, and test results.
+What are the treatments for COPD (chronic obstructive pulmonary disease)?
+There is no cure for COPD. However, treatments can help with symptoms, slow the progress of the disease, and improve your ability to stay active. There are also treatments to prevent or treat complications of the disease. Treatments include:
+Lifestyle changes
+, such as
+Quitting smoking
+if you are a smoker. This is the most important step you can take to treat COPD.
+Avoiding secondhand smoke and places where you might breathe in other lung irritants
+Ask your health care provider for an eating plan that will meet your nutritional needs. Also ask about how much physical activity you can do. Physical activity can strengthen the muscles that help you breathe and improve your overall wellness.
+Medicines
+, such as
+Bronchodilators, which relax the muscles around your airways. This helps open your airways and makes breathing easier. Most bronchodilators are taken through an inhaler. In more severe cases, the inhaler may also contain
+steroids
+to reduce inflammation.
+Vaccines for the
+flu
+and pneumococcal pneumonia, since people with COPD are at higher risk for serious problems from these diseases
+Antibiotics
+if you get a bacterial lung infection
+Oxygen therapy
+, if you have severe COPD and low levels of oxygen in your blood. Oxygen therapy can help you breathe better. You may need extra oxygen all the time or only at certain times.
+Pulmonary rehabilitation
+, which is a program that helps improve the well-being of people who have chronic breathing problems. It may include
+An exercise program
+Disease management training
+Nutritional counseling
+Psychological counseling
+Surgery
+, usually as a last resort for people who have severe symptoms that have not gotten better with medicines:
+For COPD that is mainly related to emphysema, there are surgeries that:
+Remove damaged lung tissue
+Remove large air spaces (bullae) that can form when air sacs are destroyed. The bullae can interfere with breathing.
+For severe COPD, some people may need
+lung transplant
+If you have COPD, it's important to know when and where to get help for your symptoms. You should get emergency care if you have severe symptoms, such as trouble catching your breath or talking. Call your health care provider if your symptoms are getting worse or if you have signs of an infection, such as a
+fever
+.
+Can COPD (chronic obstructive pulmonary disease) be prevented?
+Since smoking causes most cases of COPD, the best way to prevent it is to not smoke. It's also important to try to avoid lung irritants such as secondhand smoke, air pollution, chemical fumes, and dusts.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Older Adults
+- Lungs and Breathing
+
+MeSH Headings:
+- Pulmonary Disease, Chronic Obstructive
+
+Related Resources:
+
+Resource: Alpha-1 Antitrypsin Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-1-antitrypsin-testing/
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Arterial Blood Gas (ABG) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-oxygen-level/
+
+Resource: Asthma and COPD: Differences and Similarities
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/asthma/asthma-and-copd-differences-and-similarities
+
+Resource: Blood gases
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003855.htm
+
+Resource: Breathe Better With COPD: Living With Chronic Obstructive Pulmonary Disease
+Category: Living With
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/11/breathe-better-copd
+
+Resource: Breathing and Relaxation
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/education/health-information/stress-and-relaxation/breathing-and-relaxation
+
+Resource: Breathlessness -- Shortness of Breath
+Category: Diagnosis and Tests
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/breathlessness.pdf
+
+Resource: Bronchoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Chronic Obstructive Pulmonary Disease (COPD)
+Category: Start Here
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/copd-intro.pdf
+
+Resource: Chronic Obstructive Pulmonary Disease (COPD)
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/copd/
+
+Resource: Chronic obstructive pulmonary disease (COPD)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000091.htm
+
+Resource: Chronic obstructive pulmonary disease - adults - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000009.htm
+
+Resource: Chronic Obstructive Pulmonary Disease COPD
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/chronic-obstructive-pulmonary-disease
+
+Resource: Chronic Obstructive Pulmonary Disorder (COPD)
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/chronic-obstructive-pulmonary-disorder-copd
+
+Resource: ClinicalTrials.gov: Lung Diseases, Obstructive
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lung+Diseases,+Obstructive%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pulmonary Disease, Chronic Obstructive
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pulmonary+Disease,+Chronic+Obstructive%22&aggFilters=status:not%20rec
+
+Resource: COPD - control drugs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000025.htm
+
+Resource: COPD - managing stress and your mood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000700.htm
+
+Resource: COPD - quick-relief drugs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000026.htm
+
+Resource: COPD - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000215.htm
+
+Resource: COPD and other health problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000701.htm
+
+Resource: COPD Caregiver's Toolkit
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/education/copd-learn-more-breathe-better/copd-caregivers-toolkit
+
+Resource: COPD flare-ups
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000698.htm
+
+Resource: Day to day with COPD
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000697.htm
+
+Resource: FastStats: Chronic Obstructive Pulmonary Disease (COPD) Includes: Chronic Bronchitis and Emphysema
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/copd.htm
+
+Resource: Five Steps for Successful Flying with Oxygen
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/blog/flying-with-oxygen
+
+Resource: How the Lungs Work
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs
+
+Resource: How to breathe when you are short of breath
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000053.htm
+
+Resource: How to Cough up Mucus and Phlegm from Chest Congestion
+Category: Living With
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/copd-chronic-obstructive-pulmonary-disease/overview/lifestyle-management/how-to-cough-up-mucus-phlegm?modal=1
+
+Resource: How to use an inhaler - no spacer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000041.htm
+
+Resource: How to use an inhaler - with spacer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000042.htm
+
+Resource: How to use your peak flow meter
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000043.htm
+
+Resource: Learn More, Breathe Better: Are You at Risk for COPD?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/AreYouAtRisk-August-2019-508.pdf
+
+Resource: Living Better with COPD
+Category: Patient Handouts
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/LivingBetterWith-COPD-2022_0.pdf
+
+Resource: Lower Your COPD Risk at Any Age
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/media/9106
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Lung surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000242.htm
+
+Resource: Make peak flow a habit
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000046.htm
+
+Resource: Managing COPD Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000066_26.htm
+
+Resource: Marvels of Mucus and Phlegm: The Slime That Keeps You Healthy
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/08/marvels-mucus-phlegm
+
+Resource: Medicines for COPD
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/copd-medicines.pdf
+
+Resource: Metered dose inhaler use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100200_1.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Nebulizer use - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100201_1.htm
+
+Resource: Nutrition and COPD
+Category: Living With
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/living-with-copd/nutrition
+
+Resource: Oxygen safety
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000049.htm
+
+Resource: Oxygen Therapy
+Category: Living With
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy
+
+Resource: Oxygen Therapy: Traveling with Oxygen
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/oxygen-therapy/traveling-with-oxygen
+
+Resource: Peak flow meter use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100202_1.htm
+
+Resource: Postural drainage
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000051.htm
+
+Resource: COPD
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pulmonary+Disease%2C+Chronic+Obstructive%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Pulmonary Rehabilitation: A Path to Breathing Better
+Category: Patient Handouts
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/pulmonary-rehabilitation-path-breathing-better-infographic
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Pulmonary ventilation/perfusion scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003828.htm
+
+Resource: Pulse Oximetry
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+
+Resource: Sleep Problems in Asthma and COPD
+Category: Related Issues
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/sleep-problems-asthma-copd.pdf
+
+Resource: Smoking and COPD
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000696.htm
+
+Resource: Smoking Myths & Facts Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000091_15.htm
+
+Resource: Spacer use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100203_1.htm
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spirometry/about/pac-20385201?p=1
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/spirometry
+
+Resource: Surgery for COPD
+Category: Treatments and Therapies
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/treating/surgery
+
+Resource: Test Your Knowledge of COPD Triggers
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000091_59.htm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Understanding Your COPD Medications
+Category: Treatments and Therapies
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/copd/treating/copd-medications
+
+Resource: Using oxygen at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000048.htm
+
+Resource: Using oxygen at home - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000251.htm
+
+Resource: What Is COPD?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/copd

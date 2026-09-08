@@ -1,0 +1,114 @@
+Title: Apendicitis
+
+Also Called:
+- Inflamación del apéndice
+
+Summary:
+El apéndice es un órgano pequeño, en forma de tubo, unido a la primera parte del intestino grueso. Está ubicada en la parte inferior derecha del abdomen y no tiene ninguna función conocida. La apendicitis es causada por un bloqueo en el interior del apéndice. Este bloqueo provoca un aumento de la presión, problemas con el flujo de la sangre e inflamación. Si el bloqueo no se trata, el apéndice puede romperse y diseminar la infección hacia el abdomen. Esta afección se llama
+peritonitis
+.
+El síntoma principal es dolor en el abdomen, generalmente del lado derecho que va empeorando con el correr del tiempo. Otros síntomas pueden ser:
+Hinchazón en el abdomen
+Pérdida del apetito
+Nausea y vómitos
+Estreñimiento o diarrea
+Incapacidad para eliminar gases
+Fiebre baja
+Hay que tener en cuenta que no todas las personas con apendicitis tienen estos síntomas.
+La apendicitis es una urgencia médica. El tratamiento casi siempre implica la extirpación del apéndice. Cualquier persona puede padecer de apendicitis pero se presenta con mayor frecuencia en las personas de entre 10 y 30 años.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Apendicectomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100001_1.htm
+
+Resource: Apendicectomía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002921.htm
+
+Resource: Apendicectomía (laparoscópica)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/laparoscopic_appendectomy_animation.html
+
+Resource: Apendicitis
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/apendicitis
+
+Resource: Apendicitis
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/appendicitis
+
+Resource: Apendicitis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/appendicitis/symptoms-causes/syc-20369543?p=1
+
+Resource: Apendicitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000256.htm
+
+Resource: Apendicitis en adolescentes
+Category: Adolescentes, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/abdominal/paginas/appendicitis-in-teens.aspx
+
+Resource: Apendicitis en niños y adolescentes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/appendicitis.html
+
+Resource: Dolor del apéndice
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/dolor-del-apendice
+
+Resource: Ecografía abdominal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Ecografía: Abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-abdomen.html
+
+Resource: Exploración abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002928.htm
+
+Resource: Exploración quirúrgica del abdomen
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100049_1.htm
+
+Resource: Laparoscopia diagnóstica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003918.htm
+
+Resource: Pruebas de apendicitis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-apendicitis/
+
+Resource: TC abdominal y pélvica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominct
+
+Resource: Ultrasonido abdominal pediátrico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdomus-pdi

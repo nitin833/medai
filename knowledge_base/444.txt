@@ -1,0 +1,263 @@
+Title: Traveler's Health
+
+Summary:
+Traveling can increase your chances of getting sick. A long flight can increase your risk for deep vein thrombosis. Once you arrive, it takes time to adjust to the water, food, and air in another place. Water in developing countries can contain
+viruses
+,
+bacteria
+, and
+parasites
+that cause stomach upset and diarrhea. Be safe by using only bottled or purified water for drinking, making ice cubes, and brushing your teeth. If you use tap water, boil it or use iodine tablets.
+Food poisoning
+can also be a risk. Eat only food that is fully cooked and served hot.  Avoid unwashed or unpeeled raw fruits and vegetables.
+If you are traveling out of the country, you might also need vaccinations or medicines to prevent specific illnesses. Which ones you need will depend on what part of the world you're visiting, the time of year, your age, overall health status, and previous vaccinations. See your doctor 4 to 6 weeks before your trip. Most vaccines take time to become effective.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Air Travel
+- Travel
+
+Related Resources:
+
+Resource: Acute mountain sickness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000133.htm
+
+Resource: Air Quality and Ionizing Radiation during Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/air-quality-and-ionizing-radiation-during-travel.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Jet Lag Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Jet+Lag+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Ear - blocked at high altitudes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002077.htm
+
+Resource: Ear barotrauma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001064.htm
+
+Resource: Ears and Altitude (Barotrauma)
+Category: Specifics
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/ears-and-altitude-barotrauma/
+
+Resource: Flu Prevention: Information for Travelers
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/travelersfacts/
+
+Resource: Flying and Your Child's Ears
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/flying-ears.html
+
+Resource: Foot Swelling during Air Travel: A Concern?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/edema/expert-answers/foot-swelling/faq-20057828?p=1
+
+Resource: Heat and Cold Illness in Travelers
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/heat-and-cold-illness-in-travelers.html
+
+Resource: Injury and Death during Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/injury-and-death-during-travel.html
+
+Resource: International Adoption
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/refugees-immigrants-migrants/international-adoption.html
+
+Resource: Jet Lag Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/jet-lag/symptoms-causes/syc-20374027?p=1
+
+Resource: Jet lag prevention
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000719.htm
+
+Resource: Motion Sickness: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-motion-sickness/basics/art-20056697?p=1
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Planning for Parasitic Diseases when Travelling
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/travelers/
+
+Resource: Post-Travel Dermatologic Conditions
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html
+
+Resource: Post-Travel Diarrhea
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-diarrhea.html
+
+Resource: Post-Travel Parasitic Disease Including Evaluation of Eosinophilia
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-parasitic-disease.html
+
+Resource: Pregnancy and travel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000608.htm
+
+Resource: Protect against Mosquito Bites when Traveling
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mosquitoes/pdfs/MosquitoBitePreventionTravelers_508.pdf
+
+Resource: Traveler's Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Air+Travel%22%5Bmajr%3Anoexp%5D+OR+%22Travel%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sex and Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-for-work-other/sex-and-travel.html
+
+Resource: Staying Healthy While You Travel
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/family-travel.html
+
+Resource: Travel during Pregnancy
+Category: Women
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/travel-during-pregnancy
+
+Resource: Travel Vaccine Recommendations for Infants and Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/family-travel/travel-vaccine-recommendations-for-infants-and-children.html
+
+Resource: Travel-Associated Infections and Diseases
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/index.html
+
+Resource: Traveler's Diarrhea
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/page/travelers-diarrhea
+
+Resource: Traveler's diarrhea diet
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002433.htm
+
+Resource: Traveler's guide to avoiding infectious diseases
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001925.htm
+
+Resource: Travelers' Health
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/
+
+Resource: Travelers' Health: Cruise Ship Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travel-air-sea/cruise-ship-travel.html
+
+Resource: Travelers' Health: Destinations
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/destinations/list
+
+Resource: Travelers' Health: Immunocompromised Travelers
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/travelers-with-additional-considerations/immunocompromised-travelers.html
+
+Resource: Travelers' Health: Mosquitoes, Ticks, and Other Arthropods
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/mosquitoes-ticks-and-other-arthropods.html
+
+Resource: Travelers' Health: Senior Citizens
+Category: Older Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/page/senior-citizens
+
+Resource: Travelers' Health: Travel and Breastfeeding
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/family-travel/travel-and-breastfeeding.html
+
+Resource: Travelers' Health: Travel Health Kits
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travel-health-kits.html
+
+Resource: Travelers' Health: Zoonotic Exposures -- Bites, Stings, Scratches, and Other Hazards
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/environmental-hazards-risks/zoonotic-exposures.html
+
+Resource: Traveling Safely with Infants and Children
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/family-travel/traveling-safely-with-infants-and-children.html
+
+Resource: Traveling with children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002427.htm
+
+Resource: Vacation health care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001937.htm
+
+Resource: Vaccinations and Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/immunizations-and-vaccines/vaccinations-and-older-adults
+
+Resource: Visiting Friends or Relatives
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://wwwnc.cdc.gov/travel/page/vfr
+
+Resource: Your Health Abroad
+Category: Related Issues
+Organization: Department of State, Bureau of Consular Affairs
+URL: https://travel.state.gov/en/international-travel/planning/guidance/medicine-health.html
+
+Resource: Zika Virus: Recommendations for Travelers and People Living Abroad
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/travel/

@@ -1,0 +1,445 @@
+Title: Foot Injuries and Disorders
+
+Summary:
+Each of your feet has 26 bones, 33 joints, and more than 100 tendons, muscles, and ligaments. No wonder a lot of things can go wrong. Here are a few common problems:
+Bunions
+- hard, painful bumps on the big toe joint
+Corns and calluses
+- thickened skin from friction or pressure
+Plantar warts - warts on the soles of your feet
+Fallen arches - also called flat feet
+Ill-fitting shoes often cause these problems. Aging and being overweight also increase your chances of having foot problems.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Foot Diseases
+- Foot Injuries
+
+Related Resources:
+
+Resource: Acute Inflammation
+Category: Living With
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/acute-inflammation
+
+Resource: Adult Foot Health
+Category: Start Here
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-ankle-health/adult-feet
+
+Resource: American Orthopaedic Foot and Ankle Society
+Category: Find an Expert
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.aofas.org
+
+Resource: American Podiatric Medical Association
+Category: Find an Expert
+Organization: American Podiatric Medical Association
+URL: https://www.apma.org/
+
+Resource: Bone Healing
+Category: Related Issues
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/bone-healing
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Bunion: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bunion
+
+Resource: Bunions
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/bunions
+
+Resource: Burning Feet
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/burning-feet/basics/definition/SYM-20050809?p=1
+
+Resource: Cavus Foot (High-Arched Foot)
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/cavus-foot-(high-arched-foot)
+
+Resource: Cavus Foot Surgery
+Category: Treatments and Therapies
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-and-ankle-treatments/midfoot/cavus-foot-surgery
+
+Resource: Charcot Foot
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/charcot-foot
+
+Resource: Charcot foot
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007748.htm
+
+Resource: Claw foot
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003168.htm
+
+Resource: ClinicalTrials.gov: Foot Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Foot+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Foot Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Foot+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neuroma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neuroma%22&aggFilters=status:not%20rec
+
+Resource: Clubfoot
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001228.htm
+
+Resource: Clubfoot
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/clubfoot/symptoms-causes/syc-20350860?p=1
+
+Resource: Clubfoot repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002964.htm
+
+Resource: Clubfoot repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100056_1.htm
+
+Resource: Common Foot Problems
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/common-foot-problems/?Imiw9cApl
+
+Resource: Common peroneal nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000791.htm
+
+Resource: Equinus
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/equinus
+
+Resource: Extremity x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003461.htm
+
+Resource: Feingold syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/feingold-syndrome
+
+Resource: Find a Foot and Ankle Orthopaedic Surgeon
+Category: Find an Expert
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.aofas.org/find-a-foot-and-ankle-orthopaedic-surgeon/
+
+Resource: Find a Podiatrist
+Category: Find an Expert
+Organization: American Podiatric Medical Association
+URL: https://members.apma.org/members/FindPodiatrist
+
+Resource: Flat feet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001262.htm
+
+Resource: Flat Feet (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/flat-feet.html
+
+Resource: Flatfeet
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/flatfeet/symptoms-causes/syc-20372604?p=1
+
+Resource: Flexible Flatfoot
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/flexible-flatfoot
+
+Resource: Foot and Ankle Conditioning Program
+Category: Living With
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/globalassets/pdfs/foot-and-ankle-conditioning-program---2025.pdf
+
+Resource: Foot drop
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007761.htm
+
+Resource: Foot Drop Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/foot-drop-syndrome
+
+Resource: Foot pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003183.htm
+
+Resource: Foot Problems
+Category: Diagnosis and Tests, Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/foot-problems/
+
+Resource: Foot Problems
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/foot-problems
+
+Resource: Foot Push-Up Test
+Category: Diagnosis and Tests
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/article/foot-push-up-test
+
+Resource: Foot sprain - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000652.htm
+
+Resource: Foot, leg, and ankle swelling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003104.htm
+
+Resource: Fractures of the Fifth Metatarsal
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/fractures-of-the-fifth-metatarsal
+
+Resource: Ganglion Cyst
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/ganglion-cyst
+
+Resource: Glossary of Foot and Ankle Terms
+Category: Reference Desk
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/resources/glossary
+
+Resource: Hand or foot spasms
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003194.htm
+
+Resource: Hand-foot-genital syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hand-foot-genital-syndrome
+
+Resource: High arch
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001261.htm
+
+Resource: How to Evaluate Your Feet Health
+Category: Diagnosis and Tests
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-ankle-health/how-to-evaluate-your-feet
+
+Resource: In-Toeing
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gait.html
+
+Resource: Itchy Hands or Feet
+Category: Specifics
+Organization: VisualDX
+URL: https://skinsight.com/disease-groups/itchy-hands-or-feet/?Imiw9cApl
+
+Resource: Leg MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007357.htm
+
+Resource: Leg or foot amputation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007365.htm
+
+Resource: Lisfranc (Midfoot) Injury
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/lisfranc-midfoot-injury/
+
+Resource: Metatarsal fracture (acute) - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000571.htm
+
+Resource: Metatarsal stress fractures - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000553.htm
+
+Resource: Metatarsalgia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/metatarsalgia/symptoms-causes/syc-20354790?p=1
+
+Resource: Metatarsus adductus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001601.htm
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: Morton neuroma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007286.htm
+
+Resource: Morton's Neuroma (Intermetatarsal Neuroma)
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/morton-s-neuroma-(intermetatarsal-neuroma)
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Neuromas
+Category: Specifics
+Organization: American Podiatric Medical Association
+URL: https://www.apma.org/patients-and-the-public/conditions-affecting-the-foot-and-ankle/neuromas/
+
+Resource: Osteoarthritis of the Foot and Ankle
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/osteoarthritis-of-the-foot-and-ankle
+
+Resource: Out-Toeing
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/out-toeing.html
+
+Resource: Peroneal Tendon Injuries
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/peroneal-tendon-injuries
+
+Resource: Pitted Keratolysis
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pitted-keratolysis/?Imiw9cApl=1
+
+Resource: Plantar Fasciitis
+Category: Symptoms
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/plantar-fasciitis.html
+
+Resource: Plantar Fibroma and Plantar Fibromatosis
+Category: Specifics
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-and-ankle-conditions/heel/plantar-fibroma-and-plantar-fibromatosis
+
+Resource: Plantar Wart
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/plantar-wart-hpv/?Imiw9cApl=1
+
+Resource: Plantar Warts
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/plantar-warts/symptoms-causes/syc-20352691?p=1
+
+Resource: Prescription Custom Orthotics and Shoe Inserts
+Category: Treatments and Therapies
+Organization: American Podiatric Medical Association
+URL: https://www.apma.org/patients-and-the-public/conditions-affecting-the-foot-and-ankle/prescription-custom-orthotics-and-shoe-inserts/
+
+Resource: Preventing Trench Foot or Immersion Foot
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/psa-toolkit/preventing-trench-foot-or-immersion-foot.html
+
+Resource: Progressive Collapsing Foot Deformity (Flatfoot)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/posterior-tibial-tendon-dysfunction/
+
+Resource: Foot Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Foot+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Foot+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Puncture Wounds
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/puncture-wounds
+
+Resource: Rheumatoid Arthritis of the Foot and Ankle
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/rheumatoid-arthritis-of-the-foot-and-ankle
+
+Resource: Search the Foot and Ankle Conditions: Interactive Foot Diagram
+Category: Diagnosis and Tests
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/foot-ankle-conditions/search-the-foot-ankle
+
+Resource: Smoking and Bone Healing - A Risky Surgical Combination
+Category: Living With
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/article/smoking-and-bone-healing-%E2%80%93-a-risky-surgical-combin
+
+Resource: Sprains, Strains and Fractures
+Category: Treatments and Therapies
+Organization: American Podiatric Medical Association
+URL: https://www.apma.org/patients-and-the-public/conditions-affecting-the-foot-and-ankle/sprains-strains-and-fractures/
+
+Resource: Subtalar Arthroscopy
+Category: Treatments and Therapies
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-and-ankle-treatments/ankle/subtalar-arthroscopy
+
+Resource: Tailor's Bunion (Bunionette)
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/tailor-s-bunion-(bunionette)
+
+Resource: Tarsal Coalition
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/tarsal-coalition
+
+Resource: Tarsal Tunnel Syndrome
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/tarsal-tunnel-syndrome
+
+Resource: Toe Walking
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toe-walking.html
+
+Resource: X-Ray Exam: Foot (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-foot.html

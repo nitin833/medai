@@ -1,0 +1,233 @@
+Title: Enfermedades de los testículos
+
+Also Called:
+- Enfermedades testiculares
+
+Summary:
+Los testículos producen las hormonas masculinas y el esperma. Son dos órganos ovalados ubicados dentro del escroto, que es una bolsa de piel que se encuentra detrás del pene. Es fácil lesionar los testículos porque no están protegidos por huesos o músculos. Los hombres y los niños deben usar suspensorios al practicar cualquier deporte.
+Debe examinarse los testículos mensualmente y buscar atención médica si detecta nódulos, enrojecimiento, dolor y otros cambios. Los testículos pueden inflamarse o infectarse. También pueden desarrollar cáncer. El
+cáncer de testículos
+es poco frecuente y muy tratable. Suele ocurrir entre los 15 y los 40 años.
+
+Groups:
+- Sistema endocrino
+- Hombres
+- Asuntos de salud sexual
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Anorquia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001185.htm
+
+Resource: Autoexamen testicular
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003909.htm
+
+Resource: Dolor en el testículo
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003160.htm
+
+Resource: Ecografía del escroto
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003780.htm
+
+Resource: Embolización de varicocele
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/varicocele
+
+Resource: Epididimitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/epididymitis/symptoms-causes/syc-20363853?p=1
+
+Resource: Espermatocele
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/spermatocele/symptoms-causes/syc-20377829?p=1
+
+Resource: Examen de hormona luteinizante (HL) en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003708.htm
+
+Resource: Examen de la respuesta de la LH a la GnRH
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003709.htm
+
+Resource: Exploraciones testiculares
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/testicles.html
+
+Resource: Hidrocele
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000518.htm
+
+Resource: Hidrocele comunicante
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/abdominal/Paginas/Communicating-Hydrocele.aspx
+
+Resource: Hidrocele: Reparación quirúrgica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100163_1.htm
+
+Resource: Hipogonadismo hipogonadotrópico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000390.htm
+
+Resource: Hipogonadismo masculino
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/male-hypogonadism/symptoms-causes/syc-20354881?p=1
+
+Resource: Inflamación escrotal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003161.htm
+
+Resource: Insuficiencia testicular
+Category: Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000395.htm
+
+Resource: Lesiones en los testículos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/testicular-injuries.html
+
+Resource: Masas escrotales
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/scrotal-masses/symptoms-causes/syc-20352604?p=1
+
+Resource: Masas escrotales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001283.htm
+
+Resource: Orquitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001280.htm
+
+Resource: Protuberancia testicular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003162.htm
+
+Resource: Prueba de niveles de testosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-niveles-de-testosterona/
+
+Resource: Prueba de sulfato de DHEA
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sulfato-de-dhea/
+
+Resource: Reparación de hidrocele
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002999.htm
+
+Resource: Reparación de una torsión testicular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002994.htm
+
+Resource: Reparación del testículo no descendido
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003002.htm
+
+Resource: Reparación quirúrgica de la torsión testicular
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100187_1.htm
+
+Resource: Sangre en el semen
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003163.htm
+
+Resource: Sangre en el semen
+Category: Spanish/Español, Síntomas
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-renales-y-del-tracto-urinario/s%C3%ADntomas-de-los-trastornos-del-ri%C3%B1%C3%B3n-y-de-las-v%C3%ADas-urinarias/sangre-en-el-semen
+
+Resource: Semen decolorado: ¿Qué significa?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/mens-health/expert-answers/discolored-semen/faq-20058363?p=1
+
+Resource: Testículo no descendido
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000973.htm
+
+Resource: Testículo retráctil
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/retractile-testicle/symptoms-causes/syc-20377197?p=1
+
+Resource: Testículos no descendidos (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cryptorchidism.html
+
+Resource: Torsión del pene
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/penile-torsion.html
+
+Resource: Torsión testicular
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/torsion.html
+
+Resource: Torsión testicular
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000517.htm
+
+Resource: Transiluminación
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003389.htm
+
+Resource: Ultrasonido de escroto
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/us-scrotal
+
+Resource: Varicocele
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001284.htm
+
+Resource: Varicocele
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/varicocele.html
+
+Resource: ¿Cómo hacer una autoexploración testicular?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/tse.html
+
+Resource: ¿Qué es un urólogo pediátrico?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-urologist.aspx

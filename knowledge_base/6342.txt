@@ -1,0 +1,124 @@
+Title: Zika Virus
+
+Also Called:
+- Zika
+
+Summary:
+Zika is a
+virus
+that is spread mostly by mosquitoes. A pregnant mother can pass it to her baby during pregnancy or around the time of birth. It can spread through sexual contact. There have also been reports that the virus has spread through blood transfusions. There have been outbreaks of Zika virus in the United States, Africa, Southeast Asia, the Pacific Islands, parts of the Caribbean, and Central and South America.
+Most people who get the virus do not get sick. One in five people do get symptoms, which can include a fever, rash, joint pain, and conjunctivitis (
+pink eye
+). Symptoms are usually mild, and start 2 to 7 days after being bitten by an infected mosquito.
+A blood test can tell whether you have the infection. There are no vaccines or medicines to treat it. Drinking lots of fluids, resting, and taking acetaminophen might help.
+Zika can cause microcephaly (a serious
+birth defect of the brain
+) and other problems in babies whose mothers were infected while pregnant. The Centers for Disease Control and Prevention recommends that pregnant women do not travel to areas where there is a Zika virus outbreak. If you do decide to travel, first talk to your doctor. You should also be careful to prevent
+mosquito bites
+:
+Use insect repellent
+Wear clothes that cover your arms, legs, and feet
+Stay in places that have air conditioning or that use window and door screens
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Zika Virus
+- Zika Virus Infection
+
+Related Resources:
+
+Resource: 5 Things to Know About Zika and Pregnancy
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/5-zika.html
+
+Resource: About Zika Virus
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/about/
+
+Resource: ClinicalTrials.gov: Zika Virus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Zika+Virus%22&aggFilters=status:not%20rec
+
+Resource: Congenital Zika Syndrome and Other Birth Defects
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/czs/
+
+Resource: Countries and Territories at Risk for Zika
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/geo/
+
+Resource: Find the Repellent that is Right for You
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/insect-repellents/find-repellent-right-you
+
+Resource: Progress against Zika
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/progress-against-zika
+
+Resource: Protect against Mosquito Bites when Traveling
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mosquitoes/pdfs/MosquitoBitePreventionTravelers_508.pdf
+
+Resource: Zika Virus
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Zika+Virus+Infection%22%5Bmajr%3Anoexp%5D+OR+%22Zika+Virus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Testing for Zika
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/testing/
+
+Resource: Treatment of Zika
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/treatment/
+
+Resource: Zika Q&A
+Category: Specifics
+Organization: World Health Organization
+URL: https://www.who.int/news-room/questions-and-answers/item/zika
+
+Resource: Zika Symptoms and Complications
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/signs-symptoms/
+
+Resource: Zika Virus
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/zika-virus
+
+Resource: Zika Virus Disease
+Category: Start Here
+Organization: World Health Organization
+URL: https://www.who.int/health-topics/zika-virus-disease
+
+Resource: Zika virus disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007666.htm
+
+Resource: Zika Virus Fact Sheet
+Category: Start Here
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/zika-virus
+
+Resource: Zika Virus Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/zika-virus-test/
+
+Resource: Zika Virus: Recommendations for Travelers and People Living Abroad
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zika/travel/

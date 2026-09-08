@@ -1,0 +1,81 @@
+Title: Neuroma acústico
+
+Also Called:
+- Schwannoma vestibular
+- Tumor acústico
+
+Summary:
+El neuroma acústico es un
+tumor benigno
+(no canceroso) que se desarrolla en el nervio que conecta el oído con el cerebro. El tumor suele crecer lentamente. A medida que crece, ejerce presión contra los nervios auditivos y del equilibrio. Al comienzo, quizá no se presenten síntomas o estos sean leves. Los síntomas pueden incluir:
+Pérdida la audición de un lado
+Zumbidos en los oídos
+Mareos y problemas de equilibrio
+Con el tiempo, el tumor también puede causar entumecimiento o parálisis en el rostro. Si crece demasiado, puede ejercer presión contra el cerebro y presentar un riesgo de muerte.
+El neuroma acústico puede ser difícil de diagnosticar, porque los síntomas son similares a los problemas del oído medio. Los exámenes de oído, las pruebas de audición y rastreos pueden detectar si lo tiene.
+Si el tumor permanece pequeño, es posible que solamente tenga que controlarlo periódicamente. Si necesita tratamiento, las opciones son la cirugía y radiación.
+Si el tumor afecta ambos nervios auditivos, suele ser a consecuencia de un trastorno genético denominado
+neurofibromatosis
+.
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Cerebro y nervios
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Alta tras radiocirugía estereotáctica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000131.htm
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Neurinoma del acústico: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/acoustic-neuroma/diagnosis-treatment/drc-20356132?p=1
+
+Resource: Neurinoma del acústico: Síntomas y causas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/acoustic-neuroma/symptoms-causes/syc-20356127?p=1
+
+Resource: Neuroma acústico
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000778.htm
+
+Resource: Radiocirugía estereotáctica con bisturí de rayos gamma (Gamma Knife)
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007577.htm
+
+Resource: Radiocirugía estereotáctica: CyberKnife
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007274.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RMN del cerebro
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: TC de cabeza
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: ¿Necesita una prueba de audición? Preguntas interactivas
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/necesita-una-prueba-de-audicion-preguntas-interactivas

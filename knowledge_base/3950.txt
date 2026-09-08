@@ -1,0 +1,427 @@
+Title: Rayos X
+
+Also Called:
+- Radiografías
+
+Summary:
+¿Qué es una imagen de rayos x o radiografía?
+Las
+imágenes de rayos x
+o radiografías son pruebas que no son dolorosas. En ellas, se envía una cantidad pequeña de radiación a través del cuerpo para generar fotos de sus huesos y órganos.
+Los rayos x son un tipo de radiación electromagnética, que crea imágenes en tonos de negro, blanco y gris ya que los diferentes tejidos absorben la radiación de forma distinta. Los huesos son los que más absorben la radiación y se muestran blancos. La grasa y otros tejidos blandos absorben menos y aparecen en color gris. El aire es lo que absorbe menos radiación y por eso áreas como los pulmones se ven negras.
+La imagen puede ser transferida a una película plástica o enviada a una computadora. Los proveedores de salud utilizan las radiografías para detectar problemas de salud y para verificar la eficacia y qué tan bien funcionan ciertos tratamientos.
+¿Quién necesita una imagen de rayos x o radiografía?
+Las radiografías se usan comúnmente para detectar
+fracturas
+(huesos rotos). También se utilizan para otros propósitos. Por ejemplo, los rayos x pueden detectar la
+neumonía
+. Las
+mamografías
+utilizan rayos x para detectar  el cáncer de mama y también se usan como parte de otras pruebas de imágenes, como las
+tomografías computarizadas
+.
+¿Cómo prepararse para una radiografía?
+En la mayor parte de los casos, no se requiere preparación o se necesita muy poca. Podrían pedirle que utilice un delantal de plomo para proteger ciertas partes de su cuerpo. También podrían pedirle que se quite cualquier pieza de joyería u otros objetos que puedan afectar la imagen.
+La cantidad de
+radiación
+de una imagen de rayos x es pequeña. Por ejemplo, la radiación de una radiografía de pecho es similar a la radiación natural a la que usted está expuesto en el ambiente por unos 10 días.
+Siempre dígale a su proveedor si está embarazada o si sospecha que puede estarlo.
+¿Cómo se realiza una radiografía?
+Dependiendo de la parte del cuerpo que vaya a examinarse, le pueden pedir que se mantenga de pie, sentado o acostado. Necesitará mantenerse inmóvil por un tiempo breve mientras se toma la imagen.
+¿Qué debe esperar después de una radiografía?
+Luego de una radiografía usted puede retomar sus actividades regulares de inmediato. Un especialista, llamado radiólogo, revisará las imágenes y compartirá los resultados con su proveedor.
+
+Groups:
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Angiografía aórtica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003814.htm
+
+Resource: Angiografía mesentérica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003819.htm
+
+Resource: Angiografía por catéter
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiocath
+
+Resource: Angiografía pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003813.htm
+
+Resource: Arteriografía renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003781.htm
+
+Resource: Artrografía directa
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Cistografía retrógrada
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003783.htm
+
+Resource: Cistouretrograma miccional
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003784.htm
+
+Resource: Cistouretrograma miccional pediátrico (VCUG)
+Category: Spanish/Español, Niños/as
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/voidcysto
+
+Resource: Colangiografía transhepática percutánea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003820.htm
+
+Resource: Colonoscopia virtual
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colonoscopia-virtual
+
+Resource: Densitometría ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/densitometria-osea/
+
+Resource: Discograma (Discografía)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/discography
+
+Resource: Dosis de radiación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-xray
+
+Resource: Enema opaco
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003817.htm
+
+Resource: Enteroclisis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003818.htm
+
+Resource: Estudio del tránsito esofagogastroduodenal
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-uppergi.html
+
+Resource: Examen de densidad ósea (DEXA o DXA)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dexa
+
+Resource: Fluoroscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/fluoroscopia/
+
+Resource: Glosario de términos
+Category: Información de referencia, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/glossary-index
+
+Resource: Hacerse una radiografía (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/get-xray.html
+
+Resource: Histerosalpingografía
+Category: Spanish/Español, Mujeres
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/hysterosalp
+
+Resource: Linfangiograma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003798.htm
+
+Resource: Mamografía: Tema de salud de MedlinePlus
+Category: Mujeres, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mammography.html
+
+Resource: Materiales de contraste
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-contrast
+
+Resource: Mielografía
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/myelography
+
+Resource: Mielografía
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/mielografia/
+
+Resource: Pielografía intravenosa (PIV)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pielografia-intravenosa-pm/
+
+Resource: Pielograma intravenoso (PIV)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ivp
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Radiografía
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/x-ray/about/pac-20395303?p=1
+
+Resource: Radiografía abdominal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003815.htm
+
+Resource: Radiografía de antebrazo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-forearm.html
+
+Resource: Radiografía de cráneo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003802.htm
+
+Resource: Radiografía de cuello
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003805.htm
+
+Resource: Radiografía de hueso
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003808.htm
+
+Resource: Radiografía de la columna lumbosacra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003807.htm
+
+Resource: Radiografía de la columna torácica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003806.htm
+
+Resource: Radiografía de la pelvis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003809.htm
+
+Resource: Radiografía de las manos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003811.htm
+
+Resource: Radiografía de los senos paranasales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003803.htm
+
+Resource: Radiografía de mano (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-hand.html
+
+Resource: Radiografía de una articulación
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003810.htm
+
+Resource: Radiografía de una extremidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003461.htm
+
+Resource: Radiografía del esqueleto
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003381.htm
+
+Resource: Radiografía torácica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Radiografía: Abdomen (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-abdomen.html
+
+Resource: Radiografía: Cadera (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-hip.html
+
+Resource: Radiografía: Columna cervical (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-c-spine.html
+
+Resource: Radiografía: Cuello (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-neck.html
+
+Resource: Radiografía: Dedo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-finger.html
+
+Resource: Radiografía: Escoliosis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-scoliosis.html
+
+Resource: Radiografía: Estudio de la edad ósea
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-bone-age.html
+
+Resource: Radiografía: Parte inferior de las piernas (tibia y peroné)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-lower-leg.html
+
+Resource: Radiografía: Parte superior del brazo (húmero)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-humerus.html
+
+Resource: Radiografía: Rodilla (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-knee.html
+
+Resource: Radiografía: Tobillo (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-ankle.html
+
+Resource: Radiografía: Tubo digestivo superior (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-upper-gi.html
+
+Resource: Radiografía: Tórax (Pecho) (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-exam-chest.html
+
+Resource: Radiografías dentales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003801.htm
+
+Resource: RadiologyInfo
+Category: Spanish/Español, Especialistas
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es
+
+Resource: Rayos X
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Imágenes Biomédicas y Bioingeniería
+URL: https://www.nibib.nih.gov/espanol/temas-cientificos/rayos-x
+
+Resource: Rayos X
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003337.htm
+
+Resource: Rayos X del abdomen
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominrad
+
+Resource: Rayos X del sistema gastrointestinal inferior
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/lowergi
+
+Resource: Rayos X del sistema gastrointestinal superior
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/uppergi
+
+Resource: Rayos X del tórax
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Rayos X panorámicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/panoramic-xray
+
+Resource: Rayos X óseos
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Seguridad de la radiación en niños
+Category: Spanish/Español, Niños/as
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-rad-children
+
+Resource: Sialograma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003812.htm
+
+Resource: Tránsito esofagogastroduodenal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003816.htm
+
+Resource: Tránsito gastrointestinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-esofagogastroduodenal
+
+Resource: Tránsito gastrointestinal inferior
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior
+
+Resource: Venografía
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007283.htm
+
+Resource: Venografía
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/Venography
+
+Resource: Venografía renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003770.htm
+
+Resource: ¿En qué consiste la radiografía de longitud de piernas?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-leg-length.html

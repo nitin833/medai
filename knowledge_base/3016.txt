@@ -1,0 +1,44 @@
+Title: Botox
+
+Summary:
+El botox es una droga hecha de una toxina producida por la bacteria
+Clostridium botulinum
+. Es la misma toxina que causa un tipo de intoxicación alimentaria peligrosa para la vida llamada
+botulismo
+. Los médicos la utilizan en pequeñas dosis para tratar problemas de salud, entre ellos:
+Eliminación temporal de las
+arrugas
+faciales
+Sudoración severa de las axilas
+Distonía cervical: Un trastorno neurológico que causa contracciones musculares severas en el cuello y los hombros
+Blefarospasmo: Parpadeo incontrolable
+Estrabismo: Ojos desviados
+Migraña crónica
+Vejiga hiperactiva
+Las inyecciones de botox funcionan debilitando y paralizando determinados músculos o bloqueando algunos nervios. Los efectos perduran entre tres o cuatro meses. Los efectos secundarios pueden incluir dolor en el lugar de la inyección, síntomas similares a los de una gripe, dolor de cabeza y malestar estomacal. Las inyecciones en la cara también pueden causar una caída temporal de los párpados. No se debe utilizar botox durante el embarazo o la lactancia.
+Administración de Alimentos y Medicamentos
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Inyecciones de bótox
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/botox/about/pac-20384658?p=1
+
+Resource: Inyección de toxina botulínica para la laringe
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007637.htm
+
+Resource: La toxina botulínica (Botox) para las arrugas faciales
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/tratamientos/la-toxina-botulinica-botox-para-las-arrugas-facial
+
+Resource: Ventajas de la toxina botulínica: No es solo para las arrugas
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-ventajas-de-la-toxina-botulinica

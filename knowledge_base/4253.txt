@@ -1,0 +1,105 @@
+Title: Patient Rights
+
+Summary:
+What are patient rights?
+As a patient, you have certain rights. Some are guaranteed by federal law, such as the right to get a copy of your medical records and the right to keep them private and secure. Many states have additional laws protecting patients. And some states, insurance plans, medical organizations, and health care facilities have their own patient bill of rights.
+Some other examples of patient rights include:
+Being treated with respect
+Not being discriminated against in your medical care
+The right to refuse treatment
+The right of informed consent
+What is informed consent?
+Informed consent is an important patient right. It is a process in which your health care provider gives you the information you need to make decisions about your care. The types of care could be treatments, procedures, genetic testing, or clinical trials. The information should include the risks and benefits of the care, as well as details about your medical condition.
+It's important that you understand everything before you give consent. Sometimes your provider will ask you to sign a form to give your consent. This is called written consent.
+You have the right to change your mind about consent at any time.
+Where can I get help with patient rights?
+There are different resources that can help you if you have a problem with your patient rights:
+Many hospitals have patient advocates. These are people who can help guide you through the health care system and make sure that your rights are protected.
+Your state may have resources to help you, such as:
+Your state may have an office (called an ombudsmen office) for problems with long term care.
+Your state's department of health may be able to help.
+States also have oversight agencies for insurance companies and various types of health care facilities and providers. These agencies make sure that these organizations and providers follow the rules so you can get quality care.
+The U.S. Department of Health and Human Services has an Office for Civil Rights (OCR). You can file a complaint with them if you feel you have been discriminated against in your medical care or if you think your health information privacy rights have been violated.
+
+Groups:
+- Health System
+- Personal Health Issues
+
+MeSH Headings:
+- Patient Rights
+
+Related Resources:
+
+Resource: Agency for Healthcare Research and Quality
+Category: Find an Expert
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/
+
+Resource: Are Clinical Trials Safe?
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials/safety#informed-consent
+
+Resource: ClinicalTrials.gov: Informed Consent
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22informed+consent%22&aggFilters=status:not%20rec
+
+Resource: Consumer rights and protections
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001947.htm
+
+Resource: Department of Health and Human Services, Office for Civil Rights
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/ocr/index.html
+
+Resource: Find the Long-Term Care Ombudsman Program in Your State
+Category: Find an Expert
+Organization: National Consumer Voice for Quality Long-Term Care
+URL: https://theconsumervoice.org/get-help/
+
+Resource: Informed Consent
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/making-treatment-decisions/informed-consent.html
+
+Resource: Informed consent - adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000445.htm
+
+Resource: Knowing Your Patient Rights
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/financial-insurance-matters/managing-health-insurance.html#knowing-your-patient-rights
+
+Resource: Patient rights
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://department.va.gov/vha/patient-rights/
+
+Resource: Patient rights
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Patient+Rights%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions Are the Answer
+Category: Start Here
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/index.html
+
+Resource: Second Surgical Opinions
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/coverage/second-surgical-opinions
+
+Resource: When Health Care Providers May Communicate about You with Your Family, Friends, or Others Involved in Your Care
+Category: Start Here
+Organization: Department of Health and Human Services, Office for Civil Rights
+URL: https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/understanding/consumers/consumer_ffg.pdf
+
+Resource: Your Medicare Rights
+Category: Specifics
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/basics/your-medicare-rights

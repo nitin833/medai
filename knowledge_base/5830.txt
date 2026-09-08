@@ -1,0 +1,68 @@
+Title: Congelación
+
+Summary:
+La congelación es una herida en el cuerpo causada por el frío extremo. En general, afecta a la nariz, orejas, mejillas, mentón, dedos de la mano o del pie. La congelación puede causar daño permanente al cuerpo y, en los casos más graves, puede llegar a necesitarse una amputación.
+Si sufre de congelación, la piel en esa área se puede volver blanca o gris amarillenta. Puede  que se sienta demasiado firme o de apariencia de cera. El área también se sentirá entumecida.
+Si usted tiene síntomas de congelamiento, busque atención médica. Pero si no existe atención médica, estos son los pasos a seguir:
+Diríjase a una habitación templada lo más pronto posible
+No camine con los pies congelados a menos que sea absolutamente necesario. El caminar aumenta el daño
+Coloque el área afectada en agua tibia, no caliente
+También puede calentar la piel usando el calor del cuerpo. Por ejemplo, use su axila para calentar dedos congelados
+No frote el área congelada con nieve o la masajee. Esto puede causar más daño
+No use una almohadilla eléctrica, una lámpara de calor o el calor de una estufa, hogar o radiador para calentar el área. Debido a que el congelamiento insensibiliza la piel, puede quemarla sin darse cuenta
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: Alergia física
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-inmunol%C3%B3gicos/reacciones-al%C3%A9rgicas-y-otros-trastornos-de-hipersensibilidad/alergia-f%C3%ADsica
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Congelación
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000057.htm
+
+Resource: Congelación
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/frostbite/symptoms-causes/syc-20372656?p=1
+
+Resource: Congelamiento: primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-frostbite/basics/art-20056653?p=1
+
+Resource: Consejos de seguridad para mantener abrigados a los niños en el invierno
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Winter-Safety.aspx
+
+Resource: Cómo prevenir el congelamiento y la hipotermia
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000866.htm
+
+Resource: Hipotermia y congelación: más fácil de desarrollar de lo que se imagina
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/hipotermia-y-congelacion
+
+Resource: Prevenga la hipotermia y la congelación
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/winter/staysafe/hypothermia.html
+
+Resource: Sabañones
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chilblains/symptoms-causes/syc-20351097?p=1

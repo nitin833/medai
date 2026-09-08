@@ -1,0 +1,239 @@
+Title: Fractures
+
+Also Called:
+- Broken bone
+
+Summary:
+What is a fracture?
+A fracture is a break in a bone. Fractures are usually caused by injuries. Since they can sometimes be serious, it's important to get medical care right away if you think you have a fracture.
+What are the different types of fractures?
+There are different ways to describe fractures. For example, there are different types of fractures based on:
+Whether the bone is partially or completely broken.
+Whether the bone breaks through the skin;
+if it does, it's called an open (or compound) fracture. If not, it's a closed fracture.
+The direction or shape of the break,
+for example if it's in a line across the bone or if it has some kind of pattern.
+The cause of the break.
+For example, a stress fracture is a small break in a bone that is often caused by overuse.
+Which bone is broken,
+for example facial fractures include nose and jaw fractures.
+What causes fractures?
+Fractures commonly happen because of car accidents,
+falls
+, or
+sports injuries
+. Overuse and repetitive motions can also cause fractures.
+Low bone density
+and
+osteoporosis
+are conditions which cause weakening of your bones. Having one of these conditions makes you much more likely to break a bone.
+What are the symptoms of a fracture?
+The symptoms of a fracture can vary, depending on which bone you broke. But they may include:
+Intense pain
+Deformity, for example a limb that looks out of place
+Swelling, bruising, or tenderness around the injury
+Trouble moving the injured part
+If you think that you may have broken a bone, get medical care right away.
+How are fractures diagnosed?
+To find out if you have a fracture, your health provider will do a physical exam and ask about your injury. They will also likely order an
+x-ray
+or other
+imaging test
+to see if your bone is broken.
+What are the treatments for fractures?
+The most common treatment for a fracture is for you to wear a cast or a splint. This will keep your bone from moving while it heals. How long you need to wear it will depend on the type of fracture and which bone is affected. But it's often for several weeks. Your provider will let you know when you can get it off.
+In some cases, you may need surgery to put in plates, pins, or screws to keep the bone in place.
+Can fractures be prevented?
+There are steps you can take to lower your risk of fractures:
+Keeping your bones strong by:
+Getting enough
+calcium
+and
+vitamin D
+in your diet
+Getting
+regular physical activity
+, including weight bearing exercises such as walking, tennis, and dancing
+Getting treatment for low bone density or osteoporosis (if needed)
+Wearing
+protective equipment
+when you do sports
+Preventing falls by:
+Getting rid of any tripping hazards in your home
+Being careful when walking on wet or icy surfaces
+Choosing the
+right footwear
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Fractures, Bone
+- Fractures, Cartilage
+
+Related Resources:
+
+Resource: Avulsion Fracture: How Is It Treated?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/broken-ankle/expert-answers/avulsion-fracture/faq-20058520?p=1
+
+Resource: Bone fracture repair - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100077_1.htm
+
+Resource: Bone Mineral Density Tests: What the Numbers Mean
+Category: Prevention and Risk Factors
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean
+
+Resource: Bone Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bone-scan/about/pac-20393136?p=1
+
+Resource: Bone scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003833.htm
+
+Resource: Bone x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003808.htm
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Broken bone
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000001.htm
+
+Resource: Broken Bones (Fractures) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/b-bone.html
+
+Resource: Cast Care: Do's and Don'ts
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/childrens-health/in-depth/cast-care/art-20047159?p=1
+
+Resource: ClinicalTrials.gov: Fractures, Bone
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Fractures,+Bone%22&aggFilters=status:not%20rec
+
+Resource: Closed reduction of a fractured bone
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000521.htm
+
+Resource: Closed reduction of a fractured bone - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000522.htm
+
+Resource: Comminuted Fractures
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fractures-comminuted.html
+
+Resource: Comminuted Fractures
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/fractures-comminuted.html
+
+Resource: Creating a sling - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100137_1.htm
+
+Resource: Falls and Fractures in Older Adults: Causes and Prevention
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/falls-and-falls-prevention/falls-and-fractures-older-adults-causes-and-prevention
+
+Resource: Fractures (Broken Bones): First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-fractures/basics/art-20056641?p=1
+
+Resource: Greenstick Fractures
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fractures-greenstick.html
+
+Resource: Greenstick Fractures
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/fractures-greenstick.html
+
+Resource: Growth Plate Injuries
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/growth-plate-injuries
+
+Resource: Hardware removal - extremity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007644.htm
+
+Resource: How to make a sling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000017.htm
+
+Resource: Joint x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003810.htm
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Pin care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000481.htm
+
+Resource: Preventing Another Broken Bone
+Category: Prevention and Risk Factors
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/preventing-another-broken-bone
+
+Resource: Fractures
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Fractures%2C+Bone%22%5Bmajr%3Anoexp%5D+OR+%22Fractures%2C+Cartilage%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recovering from Fractures
+Category: Treatments and Therapies
+Organization: Bone Health and Osteoporosis Foundation
+URL: https://www.bonehealthandosteoporosis.org/patients/treatment/exercisesafe-movement/recovering-from-falls/
+
+Resource: Stress Fractures
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/stress-fractures/symptoms-causes/syc-20354057?p=1
+
+Resource: What to Expect When Your Cast Comes Off
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/cast-care.html
+
+Resource: X-ray - skeleton
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003381.htm

@@ -1,0 +1,182 @@
+Title: Burns
+
+Summary:
+A burn is damage to your body's tissues caused by heat, chemicals,
+electricity
+,
+sunlight
+, or
+radiation
+. Scalds from hot liquids and steam, building fires and flammable liquids and gases are the most common causes of burns. Another kind is an
+inhalation injury
+, caused by breathing smoke.
+There are three types of burns:
+First-degree burns damage only the outer layer of skin
+Second-degree burns damage the outer layer and the layer underneath
+Third-degree burns damage or destroy the deepest layer of skin and tissues underneath
+Burns can cause swelling, blistering, scarring and, in serious cases,
+shock
+, and even death. They also can lead to infections because they damage your skin's protective barrier. Treatment for burns depends on the cause of the burn, how deep it is, and how much of the body it covers. Antibiotic creams can prevent or treat infections.  For more serious burns, treatment may be needed to clean the wound, replace the skin, and make sure the patient has enough fluids and nutrition.
+NIH: National Institute of General Medical Sciences
+
+Groups:
+- Skin, Hair and Nails
+- Injuries and Wounds
+
+MeSH Headings:
+- Burns
+
+Related Resources:
+
+Resource: Aloe Vera
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/aloe-vera
+
+Resource: American College of Emergency Physicians
+Category: Find an Expert
+Organization: American College of Emergency Physicians
+URL: https://www.acep.org/
+
+Resource: Avoiding Injuries from Super-Heated Water in Microwave Ovens
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/resources-you-radiation-emitting-products/microwave-ovens#Avoiding_Injuries
+
+Resource: Blisters: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-blisters/basics/art-20056691?p=1
+
+Resource: Burn and Scald Prevention
+Category: Prevention and Risk Factors
+Organization: United States Fire Administration
+URL: https://www.usfa.fema.gov/downloads/pdf/publications/burn_and_scald_prevention_flyer.pdf
+
+Resource: Burn Evaluation
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/burn-evaluation/
+
+Resource: Burn Incidence and Treatment in the U.S.
+Category: Statistics and Research
+Organization: American Burn Association
+URL: https://www.ameriburn.org/prevention/burn-incidence-and-treatment-in-the-united-states
+
+Resource: Burn Prevention for Families with Children with Special Needs
+Category: Videos and Tutorials
+Organization: Safe Kids Worldwide
+URL: https://www.safekids.org/video/burn-prevention-families-children-special-needs
+
+Resource: Burn Safety Awareness on Playgrounds: Thermal Burns from Playground Equipment
+Category: Children
+Organization: Consumer Product Safety Commission
+URL: https://www.cpsc.gov/s3fs-public/3200.pdf
+
+Resource: Burn Treatment & Prevention Tips for Families
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Treating-and-Preventing-Burns.aspx
+
+Resource: Burns
+Category: Start Here
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/know-when-to-go/burns
+
+Resource: Burns
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000030.htm
+
+Resource: Burns (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/burns.html
+
+Resource: Chemical burn or reaction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000059.htm
+
+Resource: Chemical Burns: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-chemical-burns/basics/art-20056667?p=1
+
+Resource: ClinicalTrials.gov: Burns
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Burns%22&aggFilters=status:not%20rec
+
+Resource: Electrical Burns: First Aid
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687?p=1
+
+Resource: Fire and Burn Injuries among Children in 2023
+Category: Statistics and Research
+Organization: Safe Kids Worldwide
+URL: https://www.safekids.org/sites/default/files/documents/fast_facts_-_2025-_fire_and_burn_final_update.pdf
+
+Resource: Fireworks Safety
+Category: Specifics
+Organization: National Fire Protection Association
+URL: https://www.nfpa.org/-/media/project/storefront/catalog/files/safety-tip-sheets/fireworkssafetytips.pdf
+
+Resource: First Aid: Burns
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/burns-sheet.html
+
+Resource: How to Help a Person with a Serious Burn Injury
+Category: Related Issues
+Organization: Phoenix Society for Burn Survivors
+URL: https://www.phoenix-society.org/resources/how-to-help-a-person-with-a-serious-burn-injury
+
+Resource: Hyperbaric oxygen therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002375.htm
+
+Resource: Hyperbaric Oxygen Therapy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/hyperbaric-oxygen-therapy/about/pac-20394380?p=1
+
+Resource: Minor burn - first aid - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100213_1.htm
+
+Resource: Minor burns - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000662.htm
+
+Resource: Burns
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Burns%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scald Burns
+Category: Specifics
+Organization: Burn Institute
+URL: https://burninstitute.org/wp-content/uploads/2013/03/ScaldBurns-factsheet.pdf
+
+Resource: Skin graft
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002982.htm
+
+Resource: Skin graft - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100100_1.htm
+
+Resource: What Do I Need in My First Aid Kit?
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/what-do-i-need-in-my-first-aid-kit/
+
+Resource: When Getting Warm Goes Wrong: How to Prevent and Treat Burns
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/burns-how-to-treat-and-prevent

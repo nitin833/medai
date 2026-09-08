@@ -1,0 +1,530 @@
+Title: Peripheral Nerve Disorders
+
+Also Called:
+- Neuritis
+- Peripheral neuritis
+- Peripheral neuropathy
+
+Summary:
+What are peripheral nerves?
+Nerves are like wires that carry messages back and forth between your brain and your body. Your peripheral nerves branch off from your brain and spinal cord and connect to all parts of your body, including your muscles and organs. Peripheral nerves carry messages from your brain that control your movement, breathing, heartbeat, digestion, and more. They also carry messages from your body to your brain, so you can feel things, such as pain, heat, and cold.
+What are peripheral nerve disorders?
+Peripheral nerve disorders happen when one or more peripheral nerves are damaged. Damaged nerves may not carry messages correctly, or they may not work at all. As a result, you may have
+pain
+,
+trouble walking
+, or a variety of other problems, depending on which nerves are involved.
+Peripheral nerve disorders are very common. There are more than 100 different types.
+What causes peripheral nerve disorders?
+Many things can damage nerves and lead to peripheral nerve disorders:
+Diabetes
+is the most common cause of peripheral nerve disorders. Most people with diabetes will develop
+diabetic nerve problems
+.
+Physical injury
+(
+trauma
+) that stretches, crushes, squeezes, cuts, or puts pressure on one or more nerves. Some examples of peripheral nerve disorders from physical injury include
+complex regional pain syndrome
+and
+brachial plexus injuries
+.
+Health conditions
+, including:
+Certain
+cancers
+and their treatment
+(
+chemotherapy
+and
+radiation therapy
+).
+Infections
+, such as
+HIV
+and
+Lyme disease
+.
+Problems with
+blood
+or
+blood vessels
+.
+Autoimmune diseases
+, such as
+rheumatoid arthritis
+and
+lupus
+.
+Kidney
+or
+liver disease
+.
+Certain medicines.
+Contact with certain toxic substances
+, such as
+lead
+or
+mercury
+.
+Alcohol use disorder (AUD)
+and
+smoking
+.
+Vitamin imbalances
+, especially a lack of
+vitamin B12
+.
+Your
+genes
+, including changes in your genes or conditions that you inherit from your parents, such as
+Charcot-Marie-Tooth disease
+.
+In certain cases, the cause of peripheral nerve disorder is not known.
+What are the symptoms of peripheral nerve disorders?
+The symptoms of peripheral nerve disorders depend on which nerves are affected, what is causing the damage, and how serious it is:
+Types of nerves
+Possible symptoms of nerve damage
+Motor nerves
+control your muscles and all your movement, such as walking, talking, and using your hands.
+Weak or aching muscles
+Problems with balance, walking, or using your arms and hands
+Cramps
+or twitching muscles
+Muscle shrinking
+Sensory nerves
+carry messages to your brain from your senses, including touch, hot and cold, and pain.
+Tingling, numbness, or pain often in the hands and feet
+Not being able to feel heat, cold, or pain, such as a cut on your foot
+Pain from even light touch
+Autonomic nerves
+send messages to your organs to control breathing, digestion, and other body functions that happen without thinking about them.
+A heartbeat that's too fast or too slow
+Trouble swallowing
+Sweating
+too much or too little
+Vomiting
+,
+diarrhea
+, or
+constipation
+Problems with
+urination
+or sexual function
+Symptoms may range from mild to very strong. They may develop quickly over days or slowly over months and years. But they are rarely life-threatening.
+How are peripheral nerve disorders diagnosed?
+To find out if you have a peripheral nerve disorder, your provider will:
+Ask about your medical history
+Ask about your
+family health history
+Do a physical exam
+Order tests, which may include:
+Blood tests
+Genetic tests
+Nerve tests that measure:
+Electrical activity in your nerves and muscles
+How well your autonomic nerves are working
+A
+biopsy
+of nerve or skin tissue
+CT
+or
+MRI
+scan to see what may be pressing on your nerves
+What are the treatments for peripheral nerve disorders?
+It's important to treat any conditions that are causing nerve damage. In certain cases, that will allow your nerves to heal over time.
+Treatment for symptoms depends on the type of peripheral nerve disorder you have, where it is, and how severe. Treatment options include:
+Braces or splints
+Over-the-counter
+patches and skin creams
+Prescription medicines
+Non-drug pain management
+, such as electrical stimulation or relaxation therapy
+Surgery
+to relieve pressure on a nerve
+Can peripheral nerve disorders be prevented?
+You can help prevent peripheral nerve disorders by:
+Managing health conditions that may cause nerve damage, especially diabetes
+Preventing
+falls
+and accidents
+Avoiding toxic substances
+Being careful to avoid repeated motions and body positions
+that press on your nerves
+Eating a
+balanced diet
+,
+exercising
+, limiting
+alcohol
+, and
+not smoking
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Peripheral Nerve Injuries
+- Peripheral Nervous System Diseases
+
+Related Resources:
+
+Resource: Adult polyglucosan body disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adult-polyglucosan-body-disease
+
+Resource: Anti-Seizure Medications: Relief from Nerve Pain
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/in-depth/pain-medications/art-20045004?p=1
+
+Resource: Autonomic Neuropathy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/autonomic-neuropathy/symptoms-causes/syc-20369829?p=1
+
+Resource: Autonomic neuropathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000776.htm
+
+Resource: Autosomal recessive axonal neuropathy with neuromyotonia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-recessive-axonal-neuropathy-with-neuromyotonia
+
+Resource: Axillary nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000689.htm
+
+Resource: Burning Feet
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/burning-feet/basics/definition/SYM-20050809?p=1
+
+Resource: Cauda Equina Syndrome
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/cauda-equina-syndrome
+
+Resource: Cervical Radiculopathy (Pinched Nerve)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/cervical-radiculopathy-pinched-nerve/
+
+Resource: Chronic inflammatory demyelinating polyneuropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000777.htm
+
+Resource: ClinicalTrials.gov: Peripheral Nerve Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peripheral+Nerve+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Peripheral Nervous System Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Peripheral+Nervous+System+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Common peroneal nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000791.htm
+
+Resource: Congenital cataracts, facial dysmorphism, and neuropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-cataracts-facial-dysmorphism-and-neuropathy
+
+Resource: Congenital insensitivity to pain with anhidrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-insensitivity-to-pain-with-anhidrosis
+
+Resource: Congenital insensitivity to pain: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/channelopathy-associated-congenital-insensitivity-to-pain/
+
+Resource: Distal median nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000691.htm
+
+Resource: Erythromelalgia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/erythromelalgia
+
+Resource: Familial dysautonomia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001387.htm
+
+Resource: Femoral nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000687.htm
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Ganglioneuroma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001437.htm
+
+Resource: Giant axonal neuropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/giant-axonal-neuropathy
+
+Resource: Glossopharyngeal neuralgia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001636.htm
+
+Resource: Hereditary neuralgic amyotrophy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-neuralgic-amyotrophy
+
+Resource: Hereditary Neuropathies
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hereditary-neuropathies
+
+Resource: Hereditary neuropathy with liability to pressure palsies: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-neuropathy-with-liability-to-pressure-palsies
+
+Resource: Hereditary sensory and autonomic neuropathy type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-sensory-and-autonomic-neuropathy-type-ii
+
+Resource: Hereditary sensory and autonomic neuropathy type V: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-sensory-and-autonomic-neuropathy-type-v
+
+Resource: Hereditary sensory neuropathy type IA: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-sensory-neuropathy-type-ia
+
+Resource: Hereditary Spastic Paraplegia
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hereditary-spastic-paraplegia
+
+Resource: Hypomyelination and congenital cataract: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypomyelination-and-congenital-cataract
+
+Resource: Hypothyroidism: Can It Cause Peripheral Neuropathy?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/peripheral-neuropathy/expert-answers/hypothyroidism/faq-20058489?p=1
+
+Resource: Isaacs Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6793/isaac-syndrome
+
+Resource: Metabolic neuropathies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001161.htm
+
+Resource: Mononeuropathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000780.htm
+
+Resource: Multiple mononeuropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000782.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Nerve biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003928.htm
+
+Resource: Nerve Blocks
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/nerveblock
+
+Resource: Nerve conduction
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000089.htm
+
+Resource: Nerve Problems (Peripheral Neuropathy) and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/nerve-problems
+
+Resource: Neuralgia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001407.htm
+
+Resource: Neuropathy secondary to drugs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000700.htm
+
+Resource: Neurosciences
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007456.htm
+
+Resource: Numbness and tingling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003206.htm
+
+Resource: Paresthesia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#paresthesia
+
+Resource: Paroxysmal extreme pain disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/paroxysmal-extreme-pain-disorder/
+
+Resource: Peripheral neuropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000593.htm
+
+Resource: Peripheral Neuropathy
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy
+
+Resource: Peripheral Neuropathy and Agent Orange
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/conditions/peripheral_neuropathy.asp
+
+Resource: Peripheral Neuropathy: What We Want You to Know
+Category: Videos and Tutorials
+Organization: Foundation for Peripheral Neuropathy
+URL: https://www.foundationforpn.org/video-what-we-want-you-to-know-about-pn/
+
+Resource: Pinched Nerve
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#pinched-nerve
+
+Resource: Peripheral neuropathy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Peripheral+Nervous+System+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Peripheral+Nerve+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radial nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000790.htm
+
+Resource: Refsum disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/refsum-disease
+
+Resource: Sensorimotor polyneuropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000750.htm
+
+Resource: Small fiber neuropathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/small-fiber-neuropathy
+
+Resource: Spastic paraplegia type 11: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-11
+
+Resource: Spastic paraplegia type 15: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-15
+
+Resource: Spastic paraplegia type 7: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-7/
+
+Resource: Spastic paraplegia type 8: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-8
+
+Resource: Specialized Nerve Tests: EMG, NCV and SSEP
+Category: Diagnosis and Tests
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Treatments/Assessment-Tools/Specialized-Nerve-Tests
+
+Resource: Symptoms of Peripheral Neuropathy
+Category: Symptoms
+Organization: Foundation for Peripheral Neuropathy
+URL: https://www.foundationforpn.org/symptoms/
+
+Resource: Tarsal tunnel syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000792.htm
+
+Resource: Transthyretin amyloidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/transthyretin-amyloidosis
+
+Resource: Troyer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/troyer-syndrome/
+
+Resource: Ulnar nerve dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000789.htm
+
+Resource: Ulnar Nerve Entrapment at the Elbow (Cubital Tunnel Syndrome)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/ulnar-nerve-entrapment-at-the-elbow/
+
+Resource: What Are the Parts of the Nervous System?
+Category: Reference Desk
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/neuro/conditioninfo/parts
+
+Resource: What is diagnostic testing?
+Category: Diagnosis and Tests
+Organization: Foundation for Peripheral Neuropathy
+URL: https://www.foundationforpn.org/tests/
+
+Resource: Yuan-Harel-Lupski syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/yuan-harel-lupski-syndrome

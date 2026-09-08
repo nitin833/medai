@@ -1,0 +1,205 @@
+Title: Cirrosis
+
+Summary:
+La cirrosis es un conjunto de cicatrices en el hígado. El tejido cicatricial  se forma por lesiones o enfermedades prolongadas. Este tejido no puede hacer lo que hace el tejido hepático sano: producir proteínas, ayudar a combatir las infecciones, limpiar la sangre, ayudar a digerir los alimentos y almacenar energía.
+La cirrosis puede conducir a:
+Formación de moretones o hematomas, sangrado o sangrado de la nariz
+Hinchazón del abdomen o las piernas
+Sensibilidad adicional a las medicinas
+Aumento de la presión en la vena que entra al hígado
+Venas dilatadas en el esófago y el estómago que pueden sangrar inesperadamente
+Insuficiencia renal
+Ictericia
+Picazón fuerte
+Piedras en la vesícula
+Unas pocas personas con cirrosis desarrollan
+cáncer de hígado
+.
+La cirrosis puede tener muchas causas. En los Estados Unidos, las causas más comunes son el
+alcoholismo
+crónico y la
+hepatitis
+. Nada hará desaparecer el tejido escamoso, pero tratar la causa puede evitar que la enfermedad empeore. Si se forma demasiado tejido escamoso, quizá deba pensar en un
+trasplante de hígado
+.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alfa fetoproteína
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003573.htm
+
+Resource: Alta tras cirrosis
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000290.htm
+
+Resource: Angiografía mesentérica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003819.htm
+
+Resource: Anticuerpo antimitocondrial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003529.htm
+
+Resource: Anticuerpos contra el músculo liso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003531.htm
+
+Resource: Análisis del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003624.htm
+
+Resource: Ascitis
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000286.htm
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/biopsia-higado
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003895.htm
+
+Resource: Capacidad total de fijación del hierro
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003489.htm
+
+Resource: Cirrosis
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/cirrosis
+
+Resource: Cirrosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000255.htm
+
+Resource: Cirrosis biliar primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000282.htm
+
+Resource: Cirrosis del hígado: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cirrhosis/symptoms-causes/syc-20351487?p=1
+
+Resource: Cirrosis: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cirrhosis/diagnosis-treatment/drc-20351492?p=1
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangitis biliar primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/primary-biliary-cholangitis/symptoms-causes/syc-20376874?p=1
+
+Resource: Colangitis biliar primaria (cirrosis biliar primaria)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/colangitis-biliar-primaria
+
+Resource: Derivación portocava
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007336.htm
+
+Resource: Derivación portosistémica intrahepática transyugular (DPIT)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007210.htm
+
+Resource: Desvío portosistémico intrahepático transyugular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/tips
+
+Resource: Elastografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/elastografia/
+
+Resource: Electroforesis de proteínas en suero
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Encefalopatía hepática
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000302.htm
+
+Resource: Enfermedad del hígado graso no alcohólica (EHGNA) y esteatohepatitis no alcohólica (EHNA)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/esteatohepatitis-no-alcoholica
+
+Resource: Enfermedad hepática alcohólica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000281.htm
+
+Resource: Examen de ECA en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003567.htm
+
+Resource: Leucina aminopeptidasa en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003617.htm
+
+Resource: Prueba de anticuerpos contra el músculo liso
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-contra-el-musculo-liso/
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Síndrome hepatorrenal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000489.htm
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Várices esofágicas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538?p=1
+
+Resource: Várices esofágicas sangrantes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000268.htm

@@ -1,0 +1,100 @@
+Title: Infecciones por salmonela
+
+Also Called:
+- Salmonella
+- Salmonelosis
+
+Summary:
+Salmonela es el nombre de un grupo de bacterias. En Estados Unidos es la causa más común de las
+enfermedades transmitidas por alimentos
+. La salmonela se encuentra en las aves crudas, los huevos, la carne vacuna y, algunas veces, en las frutas y vegetales sin lavar. También se puede adquirir tras manipular mascotas, especialmente reptiles como las serpientes, tortugas y lagartos.
+Los síntomas incluyen:
+Fiebre
+Diarrea
+Cólicos abdominales
+Dolor de cabeza
+Pueden presentarse
+náuseas, vómitos
+y pérdida de apetito
+Los síntomas suelen durar entre cuatro y siete días. Su proveedor de salud puede diagnosticarla con una prueba de heces. La mayoría de las personas mejora sin tratamiento. Puede ser más grave entre los adultos mayores, niños pequeños y personas con enfermedades crónicas. Si la salmonela penetra en el torrente sanguíneo, puede ser seria. Se trata con antibióticos.
+La fiebre tifoidea, una enfermedad más seria causada por salmonela, no es común en Estados Unidos, pero ocurre frecuentemente en países en vías de desarrollo.
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Análisis de heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: Análisis de heces: Cultivo bacteriano
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-bac-culture.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Enterocolitis por salmonela
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000294.htm
+
+Resource: Fiebre tifoidea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001332.htm
+
+Resource: Fiebre tifoidea
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/typhoid.html
+
+Resource: Infecciones por salmonella (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/salmonellosis.html
+
+Resource: Infección por salmonela
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/salmonella/symptoms-causes/syc-20355329?p=1
+
+Resource: Intoxicación alimentaria durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/intoxicacion-alimentaria-durante-el-embarazo.aspx
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Recolección de una muestra de heces para analizar
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stool-tests-done.html
+
+Resource: Salmonelosis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/salmonellosis.html
+
+Resource: Salmonelosis
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Salud del Estado de Nueva York
+URL: https://www.health.ny.gov/es/diseases/communicable/salmonellosis/fact_sheet.htm
+
+Resource: Seguridad con los huevos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/buy-store-serve-safe-food/seguridad-con-los-huevos
+
+Resource: Vacuna contra la fiebre tifoidea
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_typhoid.pdf

@@ -1,0 +1,320 @@
+Title: Cáncer de hígado
+
+Also Called:
+- Carcinoma hepatocelular
+- Cáncer hepático
+
+Summary:
+El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas. El cáncer hepático primario comienza en el hígado. El cáncer de hígado metastático comienza en otro lugar y se disemina al hígado.
+Los factores de riesgo de cáncer de hígado primario incluyen:
+Hepatitis B
+o
+C
+Consumir grandes cantidades de alcohol
+Tener
+cirrosis
+, o cicatrización hepática
+Tener
+hemocromatosis
+, una afección que causa problemas con el almacenamiento de hierro en el cuerpo
+Obesidad y diabetes
+Los síntomas pueden incluir una masa o dolor en el lado derecho del abdomen y coloración amarillenta de la piel. Sin embargo, usted puede no presentar síntomas hasta que el cáncer ya esté avanzado. Esto dificulta el tratamiento. Los doctores usan pruebas que examinan el hígado y la sangre para diagnosticar cáncer de hígado. Las opciones de tratamiento incluyen cirugía, radiación, quimioterapia o
+trasplante de hígado
+.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema digestivo
+
+Related Resources:
+
+Resource: 5'-Nucleotidasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003575.htm
+
+Resource: Ablación termal para el tratamiento de tumores
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/thermal-ablation-therapy
+
+Resource: Alfa fetoproteína
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003573.htm
+
+Resource: Alta después de una quimioterapia
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Biopsia con aguja
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003895.htm
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/biopsia-higado
+
+Resource: Biopsia del tracto biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003894.htm
+
+Resource: Biopsia hepática
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/biopsie-du-foie/?lang=es
+
+Resource: Carcinoma hepatocelular en niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-higado-infantil/carcinoma-hepatocelular
+
+Resource: Causas, factores de riesgo y prevención del cáncer de hígado
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado/causas-factores-de-riesgo
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Coriocarcinoma de hígado en lactantes
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-higado-infantil/coriocarcinoma-lactantes
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Crioterapia para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/cirugia/crioterapia
+
+Resource: Cáncer de hígado
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado.html
+
+Resource: Cáncer de hígado infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-higado-infantil
+
+Resource: Cáncer de hígado: Carcinoma hepatocelular
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000280.htm
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Detección del cáncer de hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado/deteccion#section/all
+
+Resource: Diagnóstico del cáncer de hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado/diagnostico
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del cáncer de hígado
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado/estadios
+
+Resource: Examen de sangre de gamma-glutamil transferasa (CGT)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003458.htm
+
+Resource: Exploración abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002928.htm
+
+Resource: Exploración quirúrgica del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100049_1.htm
+
+Resource: Factores de riesgo para el cáncer de hígado
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Hepatoblastoma
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-higado-infantil/hepatoblastoma
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Marcadores tumorales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/marcadores-tumorales/
+
+Resource: Metástasis hepática
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000277.htm
+
+Resource: Preguntas que deben formularse acerca del cáncer de hígado
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/deteccion-diagnostico-clasificacion-por-etapas/la-comunicacion-con-su-medico.html
+
+Resource: Prueba de ACE
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-ace/
+
+Resource: Prueba de marcador tumoral AFP (alfafetoproteína)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-marcador-tumoral-afp-alfafetoproteina/
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Pruebas para el cáncer de hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Quimioembolización transarterial (TACE)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chemoembol
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Sarcoma embrionario indiferenciado de hígado en niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-higado-infantil/sarcoma-embrionario-indiferenciado
+
+Resource: Tasas o índices de supervivencia del cáncer de hígado
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/deteccion-diagnostico-clasificacion-por-etapas/tasas-de-supervivencia.html
+
+Resource: Tomografía computarizada del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003789.htm
+
+Resource: Trasplante de hígado: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/livertransplantation.html
+
+Resource: Tratamiento del cáncer de hígado
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado/tratamiento
+
+Resource: Tratamiento del cáncer de hígado
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/tratamiento.html
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Vida después del tratamiento de cáncer de hígado
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: ¿Qué avances hay en las investigaciones sobre el cáncer de hígado?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/acerca/nuevas-investigaciones.html
+
+Resource: ¿Qué causa el cáncer de hígado?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/causas-riesgos-prevencion/que-lo-causa.html
+
+Resource: ¿Qué es cáncer de hígado?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/acerca/que-es-cancer-de-higado.html
+
+Resource: ¿Qué es el cáncer de hígado?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/que-es-cancer-de-higado
+
+Resource: ¿Se puede descubrir el cáncer de hígado en sus comienzos?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-higado/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html

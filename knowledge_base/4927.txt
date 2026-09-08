@@ -1,0 +1,130 @@
+Title: Aneurisma cerebral
+
+Summary:
+Un
+aneurisma
+cerebral es un ensanchamiento anormal en la pared de una arteria del cerebro. A veces son tan pequeños como una frambuesa. La mayoría de los aneurismas cerebrales no muestra síntomas hasta que se hacen grandes, filtran sangre o se rompen.
+Si un aneurisma cerebral presiona los nervios en su cerebro, puede causar síntomas. Estos pueden incluir:
+Un párpado caído
+Visión doble u otros cambios en la visión
+Dolor arriba o detrás del ojo
+Una pupila dilatada
+Adormecimiento o debilidad en un lado de la cara o el cuerpo
+El tratamiento depende del tamaño y la ubicación del aneurisma, si está infectado o si se ha roto. Si un aneurisma cerebral se rompe, los síntomas pueden incluir dolor de cabeza súbito, náuseas y vómitos, cuello duro, pérdida del conocimiento y señales de un ataque cerebral. Cualquiera de estos síntomas requiere atención médica urgente.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Alta tras reparación de aneurisma cerebral
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000123.htm
+
+Resource: Aneurisma cerebral
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000026.htm
+
+Resource: Aneurisma cerebral
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/brain-aneurysm/symptoms-causes/syc-20361483?p=1
+
+Resource: Aneurisma en el cerebro
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001414.htm
+
+Resource: Angiografía cerebral
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003799.htm
+
+Resource: Angiografía de resonancia magnética (ARM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiomr
+
+Resource: Angiografía por catéter
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiocath
+
+Resource: Angiografía por resonancia magnética
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007269.htm
+
+Resource: Angiotomografía computarizada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angioct
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Dolores de cabeza del tipo trueno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/thunderclap-headaches/symptoms-causes/syc-20378361?p=1
+
+Resource: Embolizaciones cerebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dc-embol
+
+Resource: Embolización endovascular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007277.htm
+
+Resource: Hemorragia subaracnoidea
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/accidente-cerebrovascular-ictus/hemorragia-subaracnoidea
+
+Resource: Hemorragia subaracnoidea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000701.htm
+
+Resource: Reparación de aneurisma cerebral
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007372.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: Seudoaneurisma: ¿Qué lo causa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cardiac-catheterization/expert-answers/pseudoaneurysm/faq-20058420?p=1
+
+Resource: Tratamientos vasculares endocraneales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/IntracranialVasc

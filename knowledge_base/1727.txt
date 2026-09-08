@@ -1,0 +1,136 @@
+Title: VIH y las infecciones
+
+Also Called:
+- Infecciones en las personas con VIH y sida
+- Infección oportunística asociada con el sida
+
+Summary:
+El VIH/sida daña su sistema inmunitario al destruir los glóbulos blancos que combaten las infecciones. Esto lo pone en riesgo de sufrir infecciones oportunistas. Estas son infecciones serias que se aprovechan de su sistema inmunitario débil. Estas infecciones son menos comunes y menos severas en personas sanas.
+Existen muchos tipos de infecciones oportunistas:
+Infecciones bacterianas, incluyendo la
+tuberculosis
+y el complejo MAC (Mycobacterium avium complex)
+Infecciones virales, como el
+citomegalovirus
+y la
+hepatitis C
+Infecciones por hongos, como infecciones por levaduras (
+candidiasis
+), meningitis criptocóccica,
+neumonía por pneumocystis carinii
+e
+histoplasmosis
+Infecciones parasitarias, como
+criptosporidiosis
+y
+toxoplasmosis
+Tener VIH y sida puede hacer que las infecciones sean más difíciles de tratar. Las personas con VIH y el sida también tienen más posibilidades de sufrir complicaciones de enfermedades comunes, como la gripe.
+Usted puede prevenir las infecciones tomando
+medicinas para el VIH y sida
+. Otras cosas que pueden ayudar incluyen practicar sexo seguro, lavarse bien y con frecuencia las manos y comer alimentos bien cocidos.
+
+Groups:
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Citomegalovirus
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cytomegalovirus.html
+
+Resource: Clinical Info (en español)
+Category: Spanish/Español, Especialistas
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://clinicalinfo.hiv.gov/es
+
+Resource: Complicaciones neurológicas del VIH
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/complicaciones-neurologicas-del-vih
+
+Resource: Criptococosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001328.htm
+
+Resource: Cómo mantenerse saludable con el VIH
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_StayHealthy_SP_508c.pdf
+
+Resource: Fases de la infección por el VIH
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/las-fases-de-la-infeccion-por-el-vih
+
+Resource: Fiebre del valle
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/valley-fever/symptoms-causes/syc-20378761?p=1
+
+Resource: Glosario de la Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+Category: Información de referencia, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://clinicalinfo.hiv.gov/es/glossary
+
+Resource: Guías Clínicas
+Category: Información de referencia, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://clinicalinfo.hiv.gov/es/guidelines
+
+Resource: Infecciones por Pneumocystis: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pneumocystisinfections.html
+
+Resource: Leucoencefalopatía multifocal progresiva
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000674.htm
+
+Resource: Medicinas para el VIH: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hivaidsmedicines.html
+
+Resource: Neumonía por Pneumocystis jiroveci
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000671.htm
+
+Resource: VIH y el COVID-19
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-el-covid-19
+
+Resource: VIH y la vacunación
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/el-vih-y-la-vacunacion
+
+Resource: VIH y las enfermedades reumáticas
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/el-vih-y-las-enfermedades-reumaticas
+
+Resource: VIH/sida y la salud oral
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/vih-sida-y-la-salud-oral
+
+Resource: ¿Qué es un reservorio de VIH latente?
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/que-es-un-reservorio-de-vih-latente
+
+Resource: ¿Qué es una infección oportunista?
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/que-es-una-infeccion-oportunista

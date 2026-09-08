@@ -1,0 +1,82 @@
+Title: Vitamin A
+
+Summary:
+Vitamins
+are substances that your body needs to grow and develop normally. Vitamin A plays a role in your:
+Vision
+Bone growth
+Reproduction
+Cell functions
+Immune system
+Vitamin A is an
+antioxidant
+. It can come from plant or animal sources.  Plant sources include colorful fruits and vegetables.  Animal sources include liver and whole milk.  Vitamin A is also added to foods like cereals.
+Vegetarians, young children, and alcoholics may need extra Vitamin A. You might also need more if you have certain conditions, such as liver diseases, cystic fibrosis, and Crohn's disease.  Check with your health care provider to see if you need to take vitamin A supplements.
+NIH: National Institutes of Health Office of Dietary Supplements
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Vitamin A
+
+Related Resources:
+
+Resource: Beta-carotene blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003571.htm
+
+Resource: ClinicalTrials.gov: Vitamin A
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+A%22&aggFilters=status:not%20rec
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Hypervitaminosis A
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000350.htm
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Vitamin A
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vitamin+A%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Vitamin A
+Category: Start Here
+Organization: Harvard School of Public Health
+URL: https://www.hsph.harvard.edu/nutritionsource/vitamins/vitamin-a/
+
+Resource: Vitamin A
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002400.htm
+
+Resource: Vitamin A and Carotenoids
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminA-Consumer/
+
+Resource: Vitamin A blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003570.htm

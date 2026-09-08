@@ -1,0 +1,224 @@
+Title: Soft Tissue Sarcoma
+
+Summary:
+Your soft tissues connect, support, or surround other tissues. Examples include your muscles, tendons, fat, and blood vessels. Soft tissue sarcoma is a cancer of these soft tissues. There are many kinds, based on the type of tissue they started in. They may cause a lump or swelling in the soft tissue. Sometimes they spread and can press on nerves and organs, causing problems such as pain or trouble breathing.
+No one knows exactly what causes these cancers. They are not common, but you have a higher risk if you have been exposed to certain chemicals, have had radiation therapy, or have certain genetic diseases.
+Doctors diagnose soft tissue sarcomas with a biopsy. Treatments include surgery to remove the tumor, radiation therapy, chemotherapy, or a combination.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+
+MeSH Headings:
+- Sarcoma
+
+Related Resources:
+
+Resource: Adult soft tissue sarcoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007654.htm
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: After Treatment for Soft Tissue Sarcoma
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/after-treatment.html
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Causes, Risk Factors and Prevention of Soft Tissue Sarcomas
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/causes-risks-prevention.html
+
+Resource: Chemotherapy for Soft Tissue Sarcomas
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/treating/chemotherapy.html
+
+Resource: Childhood Soft Tissue Sarcoma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/child-soft-tissue-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Rhabdomyosarcoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rhabdomyosarcoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Sarcoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Sarcoma%22&aggFilters=status:not%20rec
+
+Resource: Dermatofibrosarcoma protuberans: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dermatofibrosarcoma-protuberans/
+
+Resource: Drugs Approved for Rhabdomyosarcoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/rhabdomyosarcoma
+
+Resource: Drugs Approved for Soft Tissue Sarcoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/soft-tissue-sarcoma
+
+Resource: Early Detection, Diagnosis, and Staging of Rhabdomyosarcoma
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/rhabdomyosarcoma/detection-diagnosis-staging.html
+
+Resource: Early Detection, Diagnosis, and Staging of Soft Tissue Sarcomas
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/detection-diagnosis-staging.html
+
+Resource: Ewing sarcoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ewing-sarcoma/
+
+Resource: General Information about Adult Soft Tissue Sarcoma
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq#_1
+
+Resource: General Information about Childhood Rhabdomyosarcoma
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/rhabdomyosarcoma-treatment-pdq#_1
+
+Resource: Key Statistics for Soft Tissue Sarcomas
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/key-statistics.html
+
+Resource: Li-Fraumeni syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/li-fraumeni-syndrome/
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Soft tissue sarcoma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sarcoma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation Therapy for Soft Tissue Sarcomas
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/treating/radiation-therapy.html
+
+Resource: Rhabdomyosarcoma
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/rhabdomyosarcoma.html
+
+Resource: Rhabdomyosarcoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001429.htm
+
+Resource: Sarcoma Subtypes
+Category: Specifics
+Organization: Sarcoma Foundation of America
+URL: https://curesarcoma.org/sarcoma-education/sarcoma-subtypes/
+
+Resource: Soft Tissue Sarcoma
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/soft-tissue-sarcoma/symptoms-causes/syc-20377725?p=1
+
+Resource: Soft Tissue Sarcomas
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma.html
+
+Resource: Soft Tissue Sarcomas and Agent Orange
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/conditions/soft-tissue-sarcoma.asp
+
+Resource: Stages of Childhood Rhabdomyosarcoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/rhabdomyosarcoma-treatment-pdq#_26
+
+Resource: Stages of Soft Tissue Sarcoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq#_26
+
+Resource: Surgery for Soft Tissue Sarcomas
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/treating/surgery.html
+
+Resource: Survival Rates for Soft Tissue Sarcoma
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/detection-diagnosis-staging/survival-rates.html
+
+Resource: Synovial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003922.htm
+
+Resource: Tests for Rhabdomyosarcoma
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/rhabdomyosarcoma/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Tests for Soft Tissue Sarcomas
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/soft-tissue-sarcoma/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: TP53 Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tp53-genetic-test/
+
+Resource: Treatment Option Overview (Childhood Rhabdomyosarcoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/rhabdomyosarcoma-treatment-pdq#_50
+
+Resource: Treatment Option Overview (Soft Tissue Sarcoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/adult-soft-tissue-treatment-pdq#_50
+
+Resource: Types of Treatment for Childhood Soft Tissue Sarcoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/soft-tissue-sarcoma/patient/child-soft-tissue-treatment-pdq#_147

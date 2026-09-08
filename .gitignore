@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Env folder
+.venv/
+
+# Books data
+books/
+
+# Qdrant database
+qdrant_db/
+
+# Runtime data (checkpoints, patients, uploads)
+data/
+
+# Embeddings
+bookembedandmetadata/
+drugsembedmeta/

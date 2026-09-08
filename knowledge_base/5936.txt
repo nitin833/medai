@@ -1,0 +1,130 @@
+Title: Densidad ósea
+
+Also Called:
+- Densidad mineral ósea
+- Osteopenia
+- Pérdida de masa ósea
+
+Summary:
+¿Qué es densidad ósea?
+Sus huesos están hechos de tejido viviente. Para mantenerlos fuertes, su cuerpo descompone huesos viejos y los reemplaza con nuevos. Pero cuando se descompone más hueso del que se reemplaza, usted pierde densidad ósea, también llamada masa ósea. La densidad ósea es una medida de la cantidad de
+calcio
+y otros minerales en el hueso. Los huesos que contienen más minerales son más densos. También suelen ser más fuertes y menos propensos a
+fracturarse
+(romperse).
+La pérdida de densidad ósea puede debilitar sus huesos. En algunos casos, puede provocar
+osteoporosis
+. Ésta es una afección que puede hacer que sus huesos sean más propensos a romperse. La densidad ósea baja que no es lo suficientemente baja para ser osteoporosis en ocasiones se le llama osteopenia.
+¿Qué puede provocar la pérdida de densidad ósea?
+Sus huesos se tornan menos densos al envejecer. Otros factores pueden provocar que pierda masa ósea como:
+Un historial familiar de osteoporosis o masa ósea baja
+No desarrollar una buena masa ósea cuando es joven
+Ciertas afecciones como:
+Enfermedades del sistema endocrino
+Ciertas
+enfermedades del sistema digestivo
+Artritis reumatoide
+Ciertos tipos de cáncer
+VIH
+Anorexia nervosa, un tipo de
+trastorno alimenticio
+Tomar ciertos medicamentos como:
+Corticoides
+Inhibidores de bomba de protones (los cuales se utilizan para tratar la enfermedad de reflujo gastroesofágico
+GERD
+)
+Medicamentos para tratar epilepsia
+Ciertos factores de estilo de vida incluyendo:
+Fumar
+Consumo prolongado de alcohol
+Inactividad física
+o periodos prolongados de reposo en cama
+No todas las personas que tienen masa ósea baja desarrollan osteoporosis, sin embargo, tienen un riesgo más elevado de desarrollarla.
+¿Hay una prueba para medir la salud de los huesos?
+Una
+densitometría ósea
+es la mejor manera de medir la salud de sus huesos. Compara su densidad o masa ósea con la de una persona sana de la misma edad y sexo que usted. Puede mostrar:
+Si tiene densidad ósea baja
+Si usted tiene osteoporosis, una afección que hace que sus huesos se vuelvan débiles
+Su riesgo de fractura de huesos
+Si su tratamiento de osteoporosis está funcionando
+¿Cómo puedo mantener mis huesos sanos?
+Para ayudar a mantener sus huesos sanos y ayudar a prevenir la osteoporosis, lo mejor que puede hacer es comer una dieta sana rica en calcio y vitamina D. Ejercitarse regularmente, limitar el alcohol y
+no fumar
+también pueden ayudar. En algunos casos, su profesional de la salud puede recetarle medicamentos para prevenir la osteoporosis.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Densitometría ósea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/densitometria-osea/
+
+Resource: Efectos secundarios de los medicamentos contra el VIH: Infección por el VIH y la osteoporosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Investigación del SIDA de los Institutos Nacionales de la Salud
+URL: https://hivinfo.nih.gov/es/understanding-hiv/fact-sheets/la-infeccion-por-el-vih-y-la-osteoporosis
+
+Resource: Ejercicio aporta beneficios óseos que perduran
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-ejercicio-aporta-beneficios-oseos-que-perduran
+
+Resource: Examen de densidad mineral ósea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007197.htm
+
+Resource: Examen de densidad ósea (DEXA o DXA)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dexa
+
+Resource: Haga ejercicio para tener huesos sanos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/haga-ejercicio-para-tener-huesos-sanos
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Osteopenia en bebés prematuros
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007231.htm
+
+Resource: Osteopetrosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/osteopetrosis
+
+Resource: Pruebas de densidad mineral ósea: Lo que significan los números
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/pruebas-de-densidad-mineral-osea-lo-que-significan-los-numeros
+
+Resource: Salud de los huesos de los niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/la-salud-de-los-huesos-de-los-ninos
+
+Resource: Salud de los huesos y la osteoporosis
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/salud-de-los-huesos-osteoporosis
+
+Resource: ¿Cuál es su riesgo de osteoporosis?
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000506_61.htm
+
+Resource: ¿Qué causa la pérdida ósea?
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000506.htm

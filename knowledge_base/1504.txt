@@ -1,0 +1,141 @@
+Title: Turner Syndrome
+
+Summary:
+What is Turner syndrome?
+Turner syndrome is a
+genetic disorder
+that affects a girl's development and appearance. It can also cause health problems such as
+infertility
+and
+heart problems
+.
+What causes Turner syndrome?
+Turner syndrome happens because of a problem with a chromosome. Chromosomes are tiny "packages" in your cells that contain your genes. Genes carry information, called DNA, that controls what you look like and how your body works.  Normally, girls receive one X chromosome from each parent. Turner syndrome happens when one of the X chromosomes is partially or completely missing.
+What are the symptoms of Turner syndrome?
+Turner syndrome can cause many different symptoms. The symptoms may be mild for some people. But for others, Turner syndrome can cause serious health problems.
+Some of the symptoms of Turner syndrome affect a person's appearance. Most people with Turner syndrome are shorter than average. They may also have physical features such as:
+A neck that is short and has extra skin (a "webbed" neck)
+A low hairline in the back
+Low-set ears
+Swollen hands and feet
+People with Turner syndrome may be born with
+heart
+and kidney defects. They usually don't have typical sexual development and are infertile. They are also at risk for other health problems such as
+high blood pressure
+,
+type 2 diabetes
+,
+osteoporosis
+, and
+thyroid problems
+.
+How is Turner syndrome diagnosed?
+Health care providers diagnose Turner syndrome based on symptoms and a genetic blood test called a
+karyotype test
+. Sometimes it is found in
+prenatal testing
+.
+What are the treatments for Turner syndrome?
+There is no cure for Turner syndrome, but there are treatments for some of the symptoms:
+If they are started in early childhood,
+hormone injections
+can often increase adult height by a few inches
+Estrogen replacement therapy
+(ERT) can help start sexual development. It also protects against bone loss
+Assisted reproduction technologies
+can help some women with Turner syndrome get pregnant
+People who have Turner syndrome need regular health checks. It's also important for them to have a care team that includes specialists who can treat the health problems caused by Turner syndrome.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Genetics/Birth Defects
+- Endocrine System
+
+MeSH Headings:
+- Turner Syndrome
+
+Related Resources:
+
+Resource: About Turner Syndrome
+Category: Start Here
+Organization: Turner Syndrome Society of the United States
+URL: https://www.turnersyndrome.org/turner-syndrome-overview
+
+Resource: About Turner Syndrome
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Turner-Syndrome
+
+Resource: ClinicalTrials.gov: Turner Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Turner+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: How Do Health Care Providers Diagnose Turner Syndrome?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/turner/conditioninfo/diagnosed
+
+Resource: Other Turner Syndrome: FAQs
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/turner/more_information/other-faqs
+
+Resource: Turner Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Turner+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Turner Syndrome
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/turner/conditioninfo
+
+Resource: Turner syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000379.htm
+
+Resource: Turner Syndrome
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/turner-syndrome/symptoms-causes/syc-20360782?p=1
+
+Resource: Turner Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/turner.html
+
+Resource: Turner Syndrome (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/turner.html
+
+Resource: Turner Syndrome: A Guide for Families
+Category: Living With
+Organization: Turner Syndrome Society of the United States
+URL: https://media.wix.com/ugd/8fb9de_3b42111faa254ab2b193ecb33f71e937.pdf
+
+Resource: Turner syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/turner-syndrome
+
+Resource: What Are Common Treatments for Turner Syndrome?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/turner/conditioninfo/treatment
+
+Resource: What Are the Symptoms of Turner Syndrome?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/turner/conditioninfo/symptoms
+
+Resource: X-Ray Exam: Bone Age Study (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-bone-age.html

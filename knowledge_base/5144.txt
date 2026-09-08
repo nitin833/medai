@@ -1,0 +1,78 @@
+Title: Climate Change
+
+Summary:
+Climate is the average weather in a place over a period of time.  Climate change is major change in temperature, rainfall, snow, or wind patterns lasting for many years.  It can be caused by natural factors or by human activities.  Today climate changes are occurring at an increasingly rapid rate.
+Climate change can affect our health.  It can lead to:
+More
+heat-related illness
+and deaths
+More pollen, mold, and
+air pollution
+.  This can cause an increase in allergies, asthma, and breathing problems.
+Mosquitoes and other insects that carry diseases spreading to areas that used to be too cold for them.
+More
+floods
+and rising sea levels.  This can cause an increase in contamination of food and water.
+More extreme weather events, such as
+hurricanes
+and
+wildfires
+.  These can cause death, injuries, stress, and mental health problems.
+Researchers are studying the best ways to lessen climate change and reduce its impact on our health.
+NIH: National Institute of Environmental Health Sciences
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Climate Change
+
+Related Resources:
+
+Resource: Climate Change and Health
+Category: Learn More
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health
+
+Resource: Climate Change: Annual Greenhouse Gas Index
+Category: Learn More
+Organization: National Oceanic and Atmospheric Administration
+URL: https://www.climate.gov/news-features/understanding-climate/climate-change-annual-greenhouse-gas-index
+
+Resource: Climate Effects on Health
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/climate-health/php/effects/
+
+Resource: ClinicalTrials.gov: Climate Change
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Climate+Change%22&aggFilters=status:not%20rec
+
+Resource: Earth
+Category: Learn More
+Organization: National Aeronautics and Space Administration
+URL: https://science.nasa.gov/kids/earth/
+
+Resource: Fast Facts on Climate Change and Health
+Category: Learn More
+Organization: World Health Organization
+URL: https://cdn.who.int/media/docs/default-source/climate-change/fast-facts-on-climate-and-health.pdf?sfvrsn=157ecd81_5
+
+Resource: Greenhouse Gases
+Category: Learn More
+Organization: Department of Energy
+URL: https://www.eia.gov/energyexplained/energy-and-the-environment/greenhouse-gases.php
+
+Resource: Hotter Days Put Human Health at Risk
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/hotter-days-put-human-health-at-risk
+
+Resource: Climate Change
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Climate+Change%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Transportation, Air Pollution, and Climate Change
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/transportation-air-pollution-and-climate-change

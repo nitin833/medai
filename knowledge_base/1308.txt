@@ -1,0 +1,230 @@
+Title: Gastrointestinal Bleeding
+
+Also Called:
+- GI bleeding
+
+Summary:
+Your digestive or gastrointestinal (GI) tract includes the esophagus, stomach, small intestine, large intestine or colon, rectum, and anus. Bleeding can come from any of these areas. The amount of bleeding can be so small that only a lab test can find it.
+Signs of bleeding in the digestive tract depend on where it is and how much bleeding there is.
+Signs of bleeding in the upper digestive tract include:
+Bright red blood in vomit
+Vomit that looks like coffee grounds
+Black or tarry stool
+Dark blood mixed with stool
+Signs of bleeding in the lower digestive tract include:
+Black or tarry stool
+Dark blood mixed with stool
+Stool mixed or coated with bright red blood
+GI bleeding is not a disease, but a symptom of a disease. There are many possible causes of GI bleeding, including
+hemorrhoids
+,
+peptic ulcers
+, tears or inflammation in the esophagus,
+diverticulosis and diverticulitis
+,
+ulcerative colitis
+and
+Crohn's disease
+,
+colonic polyps
+, or cancer in the
+colon
+,
+stomach
+or
+esophagus
+.
+The test used most often to look for the cause of GI bleeding is called
+endoscopy
+. It uses a flexible instrument inserted through the mouth or rectum to view the inside of the GI tract. A type of endoscopy called
+colonoscopy
+looks at the large intestine.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Symptoms
+
+MeSH Headings:
+- Gastrointestinal Hemorrhage
+
+Related Resources:
+
+Resource: Abdominal Pain (Stomach Pain), Long-Term
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/abdominal-pain-stomach-pain-long-term/
+
+Resource: Abdominal Pain (Stomach Pain), Short-Term
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/abdominal-pain-stomach-pain-short-term/
+
+Resource: American College of Gastroenterology
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Black or tarry stools
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003130.htm
+
+Resource: Bleeding esophageal varices
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000268.htm
+
+Resource: Capsule Endoscopy
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/capsule-endoscopy/about/pac-20393366?p=1
+
+Resource: ClinicalTrials.gov: Gastrointestinal Hemorrhage
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Gastrointestinal+Hemorrhage%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Colonoscopy: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/colonoscopy.html
+
+Resource: Enteroscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003889.htm
+
+Resource: Esophageal Varices
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538?p=1
+
+Resource: Fecal Occult Blood Test (FOBT)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fecal-occult-blood-test-fobt/
+
+Resource: Ferritin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003490.htm
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Gastrointestinal (GI) Bleeding
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding
+
+Resource: Gastrointestinal bleeding
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003133.htm
+
+Resource: Gastrointestinal perforation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000235.htm
+
+Resource: GI bleeding - series
+Category: Start Here, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100162_1.htm
+
+Resource: Lower GI Series (Barium Enema)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Mallory-Weiss tear
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000269.htm
+
+Resource: Mesenteric angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003819.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Proctitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/proctitis/symptoms-causes/syc-20376933?p=1
+
+Resource: Proctitis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/proctitis
+
+Resource: Gastrointestinal Bleeding
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Gastrointestinal+Hemorrhage%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RBC nuclear scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003835.htm
+
+Resource: Small Bowel Bleeding
+Category: Diagnosis and Tests
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/small-bowel-bleeding/
+
+Resource: Stool Color: When to Worry
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diarrhea/expert-answers/stool-color/faq-20058080?p=1
+
+Resource: Stool guaiac test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003393.htm
+
+Resource: Stool Tests (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html
+
+Resource: Upper GI Bleeding in Children
+Category: Children
+Organization: North American Society for Pediatric Gastroenterology, Hepatology and Nutrition
+URL: https://gikids.org/wp-content/uploads/2021/02/BleedingUpperGI-English-FINAL.pdf
+
+Resource: Upper GI Endoscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-endoscopy
+
+Resource: Vomiting Blood
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/vomiting-blood/basics/definition/SYM-20050732?p=1
+
+Resource: Vomiting blood
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003118.htm
+
+Resource: Your Digestive System and How It Works
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works

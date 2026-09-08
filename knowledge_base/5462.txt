@@ -1,0 +1,192 @@
+Title: Desnutrición
+
+Also Called:
+- Alimentación insuficiente
+- Mala o poca alimentación
+
+Summary:
+¿Qué es la desnutrición?
+La desnutrición significa que su cuerpo no está recibiendo suficientes calorías o el balance adecuado de
+nutrientes
+para estar saludable. Esto puede suceder si no consume suficientes
+proteínas
+,
+carbohidratos
+y
+grasas
+, si come demasiados alimentos poco saludables o no obtiene las
+vitaminas
+y
+minerales
+que su cuerpo necesita.
+La desnutrición puede afectar a personas de todas las edades, pero los niños, adultos mayores y personas con problemas de salud crónicos (de larga duración) tienen un mayor riesgo.
+¿Cuáles son los tipos de desnutrición?
+La mayoría de la gente asocia la malnutrición con la desnutrición. Sin embargo, la malnutrición puede referirse a la desnutrición, la sobrenutrición o a un desequilibrio de nutrientes.
+Los tipos de desnutrición incluyen:
+La desnutrición proteico-energética
+, también llamada desnutrición por macronutrientes. Ocurre cuando el cuerpo no obtiene suficientes proteínas o calorías de los alimentos. Dos formas graves de esto son el kwashiorkor y el marasmo.
+Un estado nutricional desequilibrado
+, se produce cuando no se obtiene la combinación adecuada de nutrientes. Es posible que se ingieran suficientes calorías, pero no suficientes vitaminas o minerales.
+Las enfermedades por deficiencia de vitaminas
+, se presentan cuando el cuerpo no obtiene suficientes cantidades de determinadas vitaminas. Sin las vitaminas adecuadas, el cuerpo no puede mantenerse sano y puede desarrollar enfermedades específicas. Por ejemplo, el escorbuto puede desarrollarse a partir de una cantidad insuficiente de
+vitamina C
+, el
+raquitismo
+por una cantidad insuficiente de
+vitamina D
+y la
+anemia
+por bajo
+hierro
+o vitamina
+B12
+.
+El retraso en el crecimiento
+, que se produce cuando los niños no suben de peso o
+no crecen como se espera
+. Esto puede deberse a una alimentación insuficiente, a problemas para
+absorber los nutrientes
+o a otros problemas de salud.
+La sobrealimentación
+que ocurre cuando el cuerpo recibe demasiadas calorías o nutrientes. Esto puede provocar
+obesidad
+u otros problemas de salud.
+¿Cuáles son las causas de la desnutrición?
+La desnutrición puede ocurrir por varias razones que incluyen:
+Una dieta desbalanceada que carece de variedad o de nutrientes específicos
+Algunos problemas médicos, que pueden incluir síndromes de malabsorción,
+demencia
+,
+desórdenes alimenticios
+,
+depresión
+,
+trastorno por consumo de alcohol
+o
+cáncer
+Problemas para tragar, de digestión o dentales
+Ciertas medicinas que pueden afectar el olor y el sabor de la comida
+No poder obtener alimentos o cocinarlos por factores como afecciones crónicas, problemas de movilidad o bajo ingreso
+¿Quiénes corren el riesgo de desarrollar desnutrición?
+La desnutrición puede afectar a cualquiera, pero algunas personas tienen mayor riesgo que otras. Esto incluye a quienes:
+No tienen suficientes conocimientos sobre nutrición
+No tienen acceso a una variedad de alimentos
+Son
+adultos mayores
+o niños
+Tienen bajos ingresos
+Tienen una enfermedad crónica (de larga duración)
+¿Cuáles son los síntomas de la desnutrición?
+Los síntomas de la desnutrición pueden variar. Podría incluso no tener síntomas, pero si los tiene pueden incluir:
+Fatiga
+y debilidad
+Mareos
+Pérdida de peso no intencional
+Bajo
+peso corporal
+Crecimiento o desarrollo lento en niños
+Infecciones frecuentes o curación retardada
+Piel seca o cabello y uñas frágiles
+Inflamación de las piernas, pies o abdomen
+¿Cómo se diagnostica la desnutrición?
+Para evaluar si tiene desnutrición, su proveedor podría:
+Hacerle una evaluación nutricional
+, que puede incluir preguntas sobre pérdida de peso, cambios en su apetito y su habilidad para comer
+Realizarle una evaluación física y requerirle exámenes de sangre
+, para detectar señales de que no tiene suficientes nutrientes
+Referirlo a otro profesional de salud
+que se especialice en nutrición, como un nutricionista
+¿Cuáles son los tratamientos para la desnutrición?
+Los tratamientos para la desnutrición incluyen la mejora de la dieta, reemplazar los nutrientes deficientes y atender la causa raíz.
+¿Se puede prevenir la desnutrición?
+Para prevenir la desnutrición, consuma una dieta saludable con alimentos variados. Converse con su profesional de la salud si le preocupa su dieta, pérdida de peso o el desarrollo de su hijo.
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Anemia por deficiencia de vitamina B12
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/anemia/anemia-por-deficiencia-de-vitamina-b12
+
+Resource: Anemia por deficiencia de vitaminas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: Beriberi
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000339.htm
+
+Resource: Cambios en el peso y desnutrición por cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito
+
+Resource: Desnutrición
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000404.htm
+
+Resource: Desnutrición
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-nutricionales/desnutrici%C3%B3n/desnutrici%C3%B3n
+
+Resource: Electroforesis de proteínas en suero
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Escorbuto
+Category: Personas mayores, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000355.htm
+
+Resource: Examen de fósforo en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003478.htm
+
+Resource: Kwashiorkor
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001604.htm
+
+Resource: Pelagra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000342.htm
+
+Resource: Pica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001538.htm
+
+Resource: Prueba de albúmina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-albumina-en-la-sangre/
+
+Resource: Prueba de sangre de prealbúmina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-prealbumina/
+
+Resource: Quimotripsina en heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/quimotripsina-en-heces/
+
+Resource: Raquitismo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000344.htm
+
+Resource: Retraso del crecimiento (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/failure-thrive.html

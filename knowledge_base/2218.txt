@@ -1,0 +1,153 @@
+Title: Vasculitis
+
+Summary:
+La vasculitis es una inflamación de los vasos sanguíneos. Ocurre cuando el sistema inmunitario del cuerpo ataca a los vasos sanguíneos por equivocación. Puede ocurrir por una infección, una medicina u otra enfermedad. La causa es a menudo desconocida.
+La vasculitis puede afectar las arterias, venas y capilares. Las arterias son vasos que trasladan la sangre desde el corazón hacia los órganos del cuerpo. Las venas son vasos que trasladan la sangre de regreso al corazón. Los capilares son pequeños vasos sanguíneos que conectan a las arterias y las venas de menor tamaño.
+Cuando un vaso sanguíneo se inflama, puede:
+Estrecharse y hacer más difícil el paso de la sangre
+Cerrarse completamente por lo que la sangre no puede pasar
+Estirarse y debilitarse tanto que brotan. A este ensanchamiento se le llama
+aneurisma
+. Si se revienta, puede causar una peligrosa hemorragia al interior del cuerpo
+Los síntomas de una vasculitis pueden variar, pero suelen incluir fiebre, inflamación y una sensación general de enfermedad. La meta principal del tratamiento es detener la inflamación. Los esteroides y otros medicamentos para detener la inflamación son a menudo útiles.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Angiografía aórtica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003814.htm
+
+Resource: Angiografía cerebral
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003799.htm
+
+Resource: Angiografía de resonancia magnética (ARM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiomr
+
+Resource: Angiotomografía computarizada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angioct
+
+Resource: Arteritis de Takayasu
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001250.htm
+
+Resource: Biopsia de las vías respiratorias altas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003856.htm
+
+Resource: Crioglobulinas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003555.htm
+
+Resource: Crioglobulinemia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000540.htm
+
+Resource: Enfermedad de Kawasaki: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/kawasakidisease.html
+
+Resource: Enfermedad vascular del colágeno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001223.htm
+
+Resource: Hemorragia lineal subungueal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003283.htm
+
+Resource: Poliarteritis nudosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001438.htm
+
+Resource: Proteína C reactiva
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003356.htm
+
+Resource: Prueba de anticuerpos frente al citoplasma de los neutrófilos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-frente-al-citoplasma-de-los-neutrofilos/
+
+Resource: Prueba de proteína C reactiva (PCR)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-proteina-c-reactiva-pcr/
+
+Resource: Púrpura
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003232.htm
+
+Resource: Sistema inmunológico y la enfermedad reumática
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/el-sistema-inmunologico-y-la-enfermedad-reumatica
+
+Resource: Síndrome de Churg-Strauss
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/afecciones-relacionadas/sindrome-de-churg-strauss-(scs)
+
+Resource: Tasa de sedimentación eritrocítica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/tasa-de-sedimentacion-eritrocitica/
+
+Resource: Ultrasonido vascular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/vascularus
+
+Resource: Vasculitis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vasculitis/symptoms-causes/syc-20363435?p=1
+
+Resource: Vasculitis
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/vasculitis-espanol
+
+Resource: Vasculitis IgA (púrpura de Henoch-Schoenlein)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000425.htm
+
+Resource: Vasculitis necrosante
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000432.htm
+
+Resource: Vasculitis por hipersensibilidad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000874.htm
+
+Resource: Vasculitis: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vasculitis/diagnosis-treatment/drc-20363485?p=1
+
+Resource: ¿Qué es la vasculitis?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/vasculitis

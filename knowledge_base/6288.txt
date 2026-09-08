@@ -1,0 +1,109 @@
+Title: Vital Signs
+
+Summary:
+Your vital signs show how well your body is functioning. They are usually measured at doctor's offices, often as part of a
+health checkup
+, or during an
+emergency room
+visit. They include:
+Blood pressure,
+which measures the force of your blood pushing against the walls of your arteries. Blood pressure that is
+too high
+or
+too low
+can cause problems. Your blood pressure has two numbers. The first number is the pressure when your heart beats and is pumping the blood.  The second is from when your heart is at rest, between beats. A normal blood pressure reading for adults is lower than 120/80 and higher than 90/60.
+Heart rate,
+or pulse, which measures how fast your heart is beating. A problem with your heart rate may be an
+arrhythmia
+. Your normal heart rate depends on factors such as your age, how much you exercise, whether you are sitting or standing, which medicines you take, and your weight.
+Respiratory rate,
+which measures your breathing. Mild breathing changes can be from causes such as a stuffy nose or hard exercise. But slow or fast breathing can also be a sign of a serious
+breathing problem
+.
+Temperature,
+which measures how hot your body is. A body temperature that is higher than normal (over 98.6 °F, or 37 °C) is called a
+fever
+.
+
+Groups:
+- Diagnostic Tests
+- Wellness and Lifestyle
+
+MeSH Headings:
+- Vital Signs
+
+Related Resources:
+
+Resource: Aging changes in vital signs
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004019.htm
+
+Resource: All about Heart Rate
+Category: Learn More
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/all-about-heart-rate-pulse
+
+Resource: Blood pressure
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000013.htm
+
+Resource: Blood Pressure: Does It Have a Daily Pattern?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058115?p=1
+
+Resource: Blood Pressure: Is It Affected by Cold Weather?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058250?p=1
+
+Resource: Body temperature norms
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001982.htm
+
+Resource: Breathing
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000018.htm
+
+Resource: ClinicalTrials.gov: Vital Signs
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vital+Signs%22&aggFilters=status:not%20rec
+
+Resource: How Your Body Controls Breathing
+Category: Learn More
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs/body-controls-breathing
+
+Resource: Measuring Blood Pressure
+Category: Learn More
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/measuring-blood-pressure/
+
+Resource: Vital Signs
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vital+Signs%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003399.htm
+
+Resource: Temperature measurement
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003400.htm
+
+Resource: Thermometers: Understand the Options
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/fever/in-depth/thermometers/art-20046737?p=1
+
+Resource: Wrist Blood Pressure Monitors: Are They Accurate?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/wrist-blood-pressure-monitors/faq-20057802?p=1

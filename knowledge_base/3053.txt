@@ -1,0 +1,83 @@
+Title: Dislocaciones
+
+Also Called:
+- Luxaciones
+
+Summary:
+Las dislocaciones (o luxaciones) son lesiones en las articulaciones que arrancan los extremos de los huesos y los sacan de su posición. La causa suele ser una caída o un golpe y, algunas veces, una consecuencia de practicar un
+deporte
+de contacto. Pueden producirse dislocaciones en los tobillos, las rodillas, los
+hombros
+, la cadera, los codos y la mandíbula. También pueden dislocarse las articulaciones de los dedos de las manos y los pies. Las articulaciones dislocadas suelen hincharse, doler y encontrarse, a simple vista, fuera de lugar. Puede suceder que no pueda moverla.
+Una dislocación es una emergencia médica. Si esto sucede, busque atención médica en seguida. El tratamiento dependerá de la articulación afectada y de la gravedad de la lesión. Puede incluir maniobras para volver a poner los huesos en su lugar, medicamentos, férulas (yeso) o cabestrillo y rehabilitación. Cuando se vuelve a poner en su lugar, es posible que la articulación se mueva y funcione normalmente en unas semanas. Una dislocación de hombro o rótula puede que vuelva a dislocarse más adelante. Utilizar equipo protector durante la práctica de deportes puede ayudar a prevenir las dislocaciones.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Atención postratamiento de una luxación del hombro
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000524.htm
+
+Resource: Cómo hacer un cabestrillo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000017.htm
+
+Resource: Dislocación de la rótula
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001070.htm
+
+Resource: Dislocación: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-dislocation/basics/art-20056693?p=1
+
+Resource: Fractura o luxación mandibular
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000019.htm
+
+Resource: Hombro dislocado
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dislocated-shoulder/symptoms-causes/syc-20371715?p=1
+
+Resource: Luxaciones de los huesos de la mano (Luxación de muñeca; luxación perilunar; luxación semilunar)
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/luxaciones/luxaciones-de-los-huesos-de-la-mano
+
+Resource: Luxación
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000014.htm
+
+Resource: Luxación de la mandíbula
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-bucales-y-dentales/urgencias-dentales/luxaci%C3%B3n-de-la-mand%C3%ADbula
+
+Resource: Procedimiento para elaborar un cabestrillo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100137_1.htm
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Subluxación de la cabeza del radio (codo dislocado)
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000983.htm
+
+Resource: Tratamiento poshospitalario para la luxación rotuliana
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000585.htm

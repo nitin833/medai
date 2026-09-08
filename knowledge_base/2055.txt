@@ -1,0 +1,80 @@
+Title: Ruido
+
+Summary:
+El ruido está en todas partes a su alrededor, desde los televisores y las radios hasta las podadoras de césped y las máquinas lavadoras de ropa. En general, estos sonidos se escuchan a niveles seguros que no afectan su audición. Pero los sonidos demasiado altos o los que son altos por un largo período son dañinos. Estos pueden lastimar las estructuras sensibles del oído interno y causar
+pérdida de audición
+causada por el ruido.
+Más de 30 millones de estadounidenses están expuestos a niveles nocivos de ruido en forma habitual. Los niveles nocivos de ruidos son mayores de 80 decibeles, lo que no es tan ruidoso como el tráfico de una calle muy transitada. Escuchar música con volumen alto, especialmente con audífonos, es una causa común de la pérdida de audición por el ruido. Usted puede proteger su audición al:
+Mantener un bajo volumen cuando se escucha música
+Usar tapones para los oídos al usar equipos ruidosos
+NIH: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+
+Groups:
+- Oído, nariz y garganta
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Consejos para enseñar a los niños sobre la pérdida de audición inducida por el ruido
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/health/consejos-ensenar-ninos
+
+Resource: Hipoacusia y la música
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000495.htm
+
+Resource: Música fuerte, ¿puede dañarte los oídos?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/rock-music.html
+
+Resource: Protección de la audición: Cómo usar los tapones de oídos moldeables
+Category: Interactivos y videos, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/multimedia/proteccion-de-la-audicion-como-usar-los-tapones-de-oidos-moldeables-video
+
+Resource: Protectores de oídos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/protectores-de-oidos
+
+Resource: Proteja la audición de sus hijos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/health/proteja-audicion-sus-hijos
+
+Resource: Pérdida de la audición inducida por el ruido
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/perdida-de-audicion-inducida-por-el-ruido
+
+Resource: Ruido: Cómo disminuirlo en el hogar
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/sites/default/files/Documents/health/hearing/padres_ruido_en_el_hogar.pdf
+
+Resource: Ruido: Cómo disminuirlo en la granja
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/sites/default/files/Documents/health/hearing/HowLoudTooLoudFarmBmk-Spanish.pdf
+
+Resource: Son sus oídos, protéjalos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2007-175sp.html
+
+Resource: Trauma acústico
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001061.htm
+
+Resource: ¡Demasiado ruidoso y demasiado brillante! Efectos de la contaminación acústica y lumínica en su salud
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/demasiado-ruidoso-y-demasiado-brillante
+
+Resource: ¡Escuche! Los ruidos pueden dañar su audición
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/escuche

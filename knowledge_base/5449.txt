@@ -1,0 +1,136 @@
+Title: Enfermedades de la tráquea
+
+Summary:
+Su tráquea es una parte de su sistema respiratorio. Los órganos de su sistema respiratorio llevan aire rico en oxígeno hacia sus pulmones. También sacan dióxido de carbono fuera de sus pulmones.
+Cuando usted inhala, el aire viaja por su nariz a través de la laringe y luego por su tráquea. Esta se divide en dos
+bronquios
+que entran a sus pulmones.
+Los posibles problemas en la tráquea incluyen estrechamiento, inflamación y algunos problemas hereditarios. Usted puede necesitar un procedimiento llamado traqueotomía para ayudarle a respirar si tiene problemas al tragar o alguna afección que no lo deje toser o que interfiera con su respiración. Puede que también necesite una traqueotomía si usted esta en
+terapia intensiva
+y necesita estar en un respirador.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Atragantamiento: primeros auxilios
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-choking/basics/art-20056637?p=1
+
+Resource: Broncoscopia con lavado broncoalveolar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/broncoscopia-con-lavado-broncoalveolar/
+
+Resource: Crup: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/croup.html
+
+Resource: Cuidado de una traqueotomía
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000076.htm
+
+Resource: Cánula de traqueotomía al comer
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000464.htm
+
+Resource: Cánula de traqueotomía al hablar
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000465.htm
+
+Resource: Epiglotitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000605.htm
+
+Resource: Intubación endotraqueal
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003449.htm
+
+Resource: Obstrucción de las vías respiratorias altas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000067.htm
+
+Resource: Parálisis de las cuerdas vocales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/paralisis-de-las-cuerdas-vocales
+
+Resource: Problemas para tragar
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Qué son los respiradores
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000458.htm
+
+Resource: Radiografía: Cuello (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-neck.html
+
+Resource: Reparación de fístula traqueoesofágica y atresia esofágica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002934.htm
+
+Resource: Reparación quirúrgica de una fístula traqueosofágica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100103_1.htm
+
+Resource: Ruptura traqueal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001092.htm
+
+Resource: Traqueomalacia adquirida
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007310.htm
+
+Resource: Traqueomalacia congénita
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001084.htm
+
+Resource: Traqueotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100043_1.htm
+
+Resource: Traqueotomía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002955.htm
+
+Resource: Traqueotomía (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tracheostomy.html
+
+Resource: Traqueítis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000988.htm
+
+Resource: Traqueítis bacteriana
+Category: Spanish/Español, Niños/as
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/trastornos-respiratorios-en-los-lactantes-y-los-ni%C3%B1os/traque%C3%ADtis-bacteriana

@@ -1,0 +1,108 @@
+Title: Rotavirus Infections
+
+Summary:
+Rotavirus is a virus that causes
+gastroenteritis
+. Symptoms include severe
+diarrhea
+, vomiting, fever, and dehydration. Almost all children in the U.S. are likely to be infected with rotavirus before their 5th birthday.
+Infections happen most often in the winter and spring. It is very easy for children with the virus to spread it to other children and sometimes to adults. Once a child gets the virus, it takes about two days to become sick. Vomiting and diarrhea may last from three to eight days.
+There is no medicine to treat it. To prevent dehydration, have your child drink plenty of liquids. Your health care provider may recommend oral rehydration drinks. Some children need to go to the hospital for IV fluids. Two vaccines against rotavirus infections are available.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Rotavirus Infections
+
+Related Resources:
+
+Resource: About Rotavirus
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rotavirus/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Rotavirus Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Rotavirus+Infections%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Diarrhea in Children: What Parents Need to Know
+Category: Treatments and Therapies
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Diarrhea.aspx
+
+Resource: Frequently Asked Questions about Rotavirus
+Category: Start Here
+Organization: National Foundation for Infectious Diseases
+URL: https://www.nfid.org/infectious-diseases/faq-rotavirus/
+
+Resource: Gastroenteritis: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-gastroenteritis/basics/art-20056595?p=1
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Rotavirus Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Rotavirus+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rotavirus (For Parents)
+Category: Start Here, Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/rotavirus.html
+
+Resource: Rotavirus antigen test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003349.htm
+
+Resource: Rotavirus Vaccination
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rotavirus/vaccines/
+
+Resource: Rotavirus Vaccination
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rotavirus/vaccines/index.html
+
+Resource: Rotavirus Vaccine Safety
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/vaccines/rotavirus.html
+
+Resource: Rotavirus Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/rotavirus.pdf
+
+Resource: Stomach Flu: How Long Am I Contagious?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/expert-answers/stomach-flu/faq-20057899?p=1
+
+Resource: Stool Tests (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html
+
+Resource: Viral Gastroenteritis (Stomach Flu)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/viral-gastroenteritis/symptoms-causes/syc-20378847?p=1

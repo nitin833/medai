@@ -1,0 +1,73 @@
+Title: Von Hippel-Lindau Disease
+
+Also Called:
+- VHL
+
+Summary:
+What is Von Hippel-Lindau disease (VHL)?
+Von Hippel-Lindau disease (VHL) is a rare disease that causes tumors and cysts to grow in your body. They can grow in your brain and spinal cord, kidneys, pancreas, adrenal glands, and reproductive tract. The tumors are usually benign (non-cancerous). But some tumors, such as those in the kidney and pancreas, can become cancerous.
+What causes Von Hippel-Lindau disease (VHL)?
+VHL is a genetic disease. It is inherited, which means that it is passed down from parent to child.
+What are the symptoms of Von Hippel-Lindau disease (VHL)?
+Symptoms of VHL depend on the size and location of the tumors. They may include:
+Headaches
+Problems with
+balance
+and
+walking
+Dizziness
+Weakness of the limbs
+Vision problems
+High blood pressure
+How is Von Hippel-Lindau disease (VHL) diagnosed?
+Detecting and treating VHL early is important. Your health care provider may suspect that you have VHL if you have certain patterns of cysts and tumors. There is a genetic test for VHL. If you have it, you will need other tests, including imaging tests, to look for tumors and cysts.
+What are the treatments for Von Hippel-Lindau disease (VHL)?
+Treatment can vary, depending on the location and size of the tumors and cysts. It usually involves surgery. Certain tumors may be treated with radiation therapy. The goal is to treat growths while they are small and before they do permanent damage. You will need to have careful monitoring by a doctor and/or medical team familiar with the disorder.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Genetics/Birth Defects
+
+MeSH Headings:
+- von Hippel-Lindau Disease
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: von Hippel-Lindau Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22von+Hippel-Lindau+Disease%22&aggFilters=status:not%20rec
+
+Resource: Find a Genetic Counselor
+Category: Learn More
+Organization: National Society of Genetic Counselors
+URL: https://findageneticcounselor.nsgc.org
+
+Resource: Von Hippel-Lindau Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22von+Hippel-Lindau+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: VHL Resources
+Category: Learn More
+Organization: VHL Alliance
+URL: https://vhl.org/care-treatment/resources/
+
+Resource: Von Hippel-Lindau (VHL) Syndrome
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/von-hippel-lindau-vhl-syndrome
+
+Resource: Von Hippel-Lindau Syndrome
+Category: Learn More
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/7855/von-hippel-lindau-syndrome
+
+Resource: Von Hippel-Lindau syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/von-hippel-lindau-syndrome
+
+Resource: What is VHL?
+Category: Learn More
+Organization: VHL Alliance
+URL: https://vhl.org/care-treatment/what-is-vhl/

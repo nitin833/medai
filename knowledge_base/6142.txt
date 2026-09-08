@@ -1,0 +1,58 @@
+Title: Desprendimiento de retina
+
+Summary:
+La retina es una capa de tejido en la parte posterior del ojo que percibe la luz y envía las imágenes al cerebro. Suministra la visión nítida y central necesaria para leer, conducir y ver los detalles más pequeños. Se llama desprendimiento de retina a la separación de la retina de su posición normal debido a un desgarro. Puede sucederles a personas de todas las edades pero es más común en personas mayores de 40. Este problema afecta más a los hombres que a las mujeres y a más blancos que afroamericanos. Las personas que presentan más riesgos también:
+Son extremadamente miopes o cortos de vista
+Tienen un desprendimiento de retina en el otro ojo
+Tienen una historia familiar de desprendimiento de retina
+Han tenido cirugía de cataratas
+Tienen otras enfermedades o afecciones de la vista o del ojo
+Han sufrido una lesión en el ojo
+Los síntomas incluyen un aumento de flotadores (pequeños puntos o manchas que aparecen en la visión de una persona, o destellos de luz en los ojos). También, puede sentir la sensación de que existe una "cortina" en su campo de visión.
+El desprendimiento de retina es una emergencia médica. Si no se trata pronto, puede ocasionar pérdida de la visión permanente. Si usted presenta alguno de los síntomas, acuda a un oculista (médico de los ojos) inmediatamente. El tratamiento incluye varios tipos de cirugía.
+NIH: Instituto Nacional del Ojo
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Desprendimiento de la retina
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/desprendimiento-de-la-retina
+
+Resource: Desprendimiento de retina
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100132_1.htm
+
+Resource: Desprendimiento de retina
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001027.htm
+
+Resource: Diagnóstico de un desgarramiento o desprendimiento de la retina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/desgarramiento-desprendimiento-retina-diagnostico
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Reparación del desprendimiento de retina
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002960.htm
+
+Resource: ¿Qué es un desprendimiento de retina?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/desgarramiento-desprendimiento-retina

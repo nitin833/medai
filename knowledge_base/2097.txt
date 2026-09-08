@@ -1,0 +1,72 @@
+Title: Polimialgia reumática
+
+Summary:
+La polimialgia reumática es una enfermedad que causa dolores musculares y rigidez en el cuello, los hombros y las caderas. Es más común en las mujeres y casi siempre ocurre en las personas mayores de 50 años. El síntoma principal es la rigidez después de descansar. Otros síntomas incluyen fiebre, debilidad y pérdida de peso. En algunos casos, la polimialgia reumática se desarrolla durante la noche. En otros, es gradual.
+No se conoce la causa de la polimialgia reumática. No existe una prueba específica para diagnosticarla. Su profesional de la salud usará su historia clínica, síntomas y un examen físico para hacer un diagnóstico. Las pruebas de laboratorio que se hacen para detectar inflamación pueden ayudar a confirmar el diagnóstico.
+Algunas veces, la polimialgia reumática ocurre junto con
+arteritis de células gigantes
+, una afección que causa inflamación de las arterias de la cabeza. Los síntomas incluyen dolores de cabeza y vista borrosa. Con frecuencia, los médicos recetan prednisona, un
+corticoide
+para ambas enfermedades. La polimialgia reumática responde muy bien al tratamiento y puede desaparecer en uno o dos días. Sin tratamiento, suele desaparecer al cabo de un año o más.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Polimialgia reumática
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/polymyalgia-rheumatica/symptoms-causes/syc-20376539?p=1
+
+Resource: Polimialgia reumática
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000415.htm
+
+Resource: Polimialgia reumática
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/polimialgia-reumatica
+
+Resource: Polimialgia reumática y arteritis de células gigantes
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/polimialgia-reumatica-arteritis-celulas-gigantes
+
+Resource: Prednisona y otros corticoides
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/cortisone-shots/in-depth/steroids/art-20045692?p=1
+
+Resource: Proteína C reactiva
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003356.htm
+
+Resource: Prueba de proteína C reactiva (PCR)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-proteina-c-reactiva-pcr/
+
+Resource: Tasa de sedimentación eritrocítica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/tasa-de-sedimentacion-eritrocitica/
+
+Resource: Tasa de sedimentación eritrocítica
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003638.htm
+
+Resource: ¿Qué es la vasculitis?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/vasculitis

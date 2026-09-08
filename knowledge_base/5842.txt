@@ -1,0 +1,218 @@
+Title: Cáncer de garganta
+
+Summary:
+El cáncer de garganta es un tipo de
+cáncer de cabeza y cuello
+. Se lo denomina de diferentes maneras dependiendo de cuál parte de la garganta es afectada. Las partes de su garganta se llaman orofaringe, hipofaringe, nasofaringe y laringe o caja laríngea.
+Los principales factores de riesgo del cáncer de garganta son el consumo de tabaco y beber alcohol en forma excesiva. Algunos tipos de cáncer de garganta tienen otros factores de riesgo. Por ejemplo, tener
+VPH
+es un factor de riesgo del cáncer orofaríngeo.
+Los síntomas del cáncer de garganta pueden incluir:
+Dolor de garganta que no mejora
+Una protuberancia en el cuello
+Dolor o zumbido en los oídos
+Dificultad para tragar
+Dolor de oído
+Para diagnosticar el cáncer de garganta, los médicos pueden hacer un examen físico y de historia clínica, pruebas de imagen y una biopsia. Usted también puede necesitar otras pruebas, dependiendo del tipo de cáncer. Los tratamientos incluyen cirugía, radioterapia y quimioterapia. El tratamiento para algunos tipos de cáncer de garganta también puede incluir terapia dirigida. La terapia dirigida usa medicamentos u otras sustancias para combatir células cancerosas específicas, causando menos daños a las células normales.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Biopsia de lesión orofaríngea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003850.htm
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cáncer de amígdalas
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/tonsil-cancer/symptoms-causes/syc-20367939?p=1
+
+Resource: Cáncer de garganta
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/throat-cancer/symptoms-causes/syc-20366462?p=1
+
+Resource: Cáncer de garganta o laringe
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001042.htm
+
+Resource: Cáncer de garganta o laringe
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000020.htm
+
+Resource: Cáncer de laringe y de hipofaringe
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe.html
+
+Resource: Cáncer de orofaringe (garganta) y de cavidad oral (boca)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del cáncer de hipofaringe
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq#_22
+
+Resource: Estadios del cáncer de laringe
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-laringe-pdq#_26
+
+Resource: Estadios del cáncer de nasofaringe
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-nasofaringe-pdq#_31
+
+Resource: Estadios del cáncer de orofaringe
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq#_22
+
+Resource: Estadísticas importantes sobre los cánceres de laringe y de hipofaringe
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/acerca/estadisticas-clave.html
+
+Resource: Estadísticas importantes sobre los tipos de cáncer de orofaringe y de cavidad oral
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/acerca/estadisticas-clave.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el cáncer de la hipofaringe
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq#section/_1
+
+Resource: Información general sobre el cáncer de la nasofaringe
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq#_1
+
+Resource: Información general sobre el cáncer de la orofaringe
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq#_1
+
+Resource: Información general sobre el cáncer de laringe
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-laringe-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Laringectomía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007398.htm
+
+Resource: Opciones de tratamiento para el cáncer de orofaringe y de cavidad oral según la etapa
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/tratamiento/por-etapa.html
+
+Resource: Preguntas que puede hacer a su médico sobre los cánceres de laringe o de hipofaringe
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/deteccion-diagnostico-clasificacion-por-etapas/la-comunicacion-con-su-medico.html
+
+Resource: Problemas para tragar
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000065.htm
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Tratamiento de los tumores de laringe infantiles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/infantil/tratamiento-laringe-pdq
+
+Resource: Tratamiento del cáncer de laringe y de hipofaringe
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/tratamiento.html
+
+Resource: Tratamiento del cáncer de nasofaringe infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cabeza-cuello/paciente/infantil/tratamiento-nasofaringe-pdq
+
+Resource: Vida después del diagnóstico de cáncer de laringe o de hipofaringe
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: Vida después del diagnóstico de cáncer de orofaringe y de cavidad oral
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: Virus del papiloma humano (VPH) y el cáncer orofaríngeo
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/hpv/oropharyngeal-cancer.html
+
+Resource: ¿En qué consisten los tipos de cáncer de orofaringe y de cavidad oral?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/acerca/que-es-cancer-de-cavidad-oral.html
+
+Resource: ¿Es posible detectar los tipos de cáncer de orofaringe y de cavidad oral en sus comienzos?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html
+
+Resource: ¿Es posible prevenir los cánceres de laringe y de hipofaringe?
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/causas-riesgos-prevencion/prevencion.html
+
+Resource: ¿Qué avances hay en la investigación y el tratamiento de los cánceres de laringe y de hipofaringe?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/acerca/nuevas-investigaciones.html
+
+Resource: ¿Se puede encontrar los cánceres de laringe y de hipofaringe en sus etapas tempranas?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-laringe-e-hipofaringe/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html
+
+Resource: ¿Se puede prevenir el cáncer de orofaringe y de cavidad oral?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-orofaringe-y-de-cavidad-oral/causas-riesgos-prevencion/prevencion.html

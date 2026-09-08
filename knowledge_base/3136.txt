@@ -1,0 +1,94 @@
+Title: Assistive Devices
+
+Also Called:
+- Assistive technology
+
+Summary:
+What are assistive devices?
+Assistive devices are tools, products, or equipment that can help you perform tasks and activities. They may help you
+move around
+, see, communicate, eat, or get dressed.
+Who might benefit from assistive devices?
+You may use various assistive devices if you:
+Have a disability or injury
+Have certain health conditions such as
+dementia
+, or if you've had a
+stroke
+Are an older adult
+You might use an assistive device for a short time or long term. Others might use them throughout their lifespan.
+How can assistive devices help?
+Some assistive devices are high-tech tools, such as computers. Others are much simpler, like a "reacher," a tool that helps you grab an object you can't reach.
+There are a variety of assistive devices or tools available that may be used to help you to:
+Communicate, see, or hear better
+Perform daily activities
+Move by using a wheelchair, walker, or another mobility device
+Cook or eat
+Dress or groom yourself
+Improve your memory or attention
+Be more active
+Participate in educational activities
+Assistive devices may also be used to make changes to your physical environment so it is easier to move or care for yourself. This can include adding ramps or grab bars.
+
+Groups:
+- Older Adults
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Self-Help Devices
+
+Related Resources:
+
+Resource: Assistive Devices for People with Hearing, Voice, Speech, or Language Disorders
+Category: Learn More
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/assistive-devices-people-hearing-voice-speech-or-language-disorders
+
+Resource: Assistive Devices: Positioning Aids (Slideshow)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/assistive-devices-positioners.html
+
+Resource: Brochure - Home Healthcare Medical Devices: A Checklist
+Category: Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/home-health-and-consumer-devices/brochure-home-healthcare-medical-devices-checklist
+
+Resource: How Does Rehabilitative Technology Benefit People with Disabilities?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/rehabtech/conditioninfo/help
+
+Resource: Assistive Devices
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Self-Help+Devices%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rehabilitative and Assistive Technology: Overview
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/rehabtech
+
+Resource: Speech to Speech Relay Service
+Category: Learn More
+Organization: Federal Communications Commission
+URL: https://www.fcc.gov/consumers/guides/speech-speech-relay-service
+
+Resource: The WREX Orthosis: Assistive Device (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/wrex.html
+
+Resource: Travelers with Disabilities and Medical Conditions
+Category: Learn More
+Organization: Transportation Security Administration
+URL: https://www.tsa.gov/travel/tsa-cares/disabilities-and-medical-conditions
+
+Resource: What Are Some Types of Assistive Devices and How Are They Used?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/rehabtech/conditioninfo/device
+
+Resource: What Are Some Types of Rehabilitative Technologies?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/rehabtech/conditioninfo/use

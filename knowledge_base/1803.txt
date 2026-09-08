@@ -1,0 +1,82 @@
+Title: Celulitis
+
+Summary:
+La celulitis es una infección de la piel y los tejidos más profundos. El
+estreptococo
+del grupo A es la causa más común. La bacteria entra en su cuerpo cuando usted se lesiona la piel como sucede en una herida, quemadura o corte quirúrgico.
+Los síntomas pueden incluir:
+Fiebre y escalofríos
+Inflamación de los nódulos o ganglios linfáticos
+Erupción dolorosa donde la piel se presenta roja y frágil. Se pueden formar ampollas y costras
+Su profesional de cuidados de salud puede tomar una muestra o cultivo de la piel o hacer un análisis de sangre para identificar la bacteria que está causando la infección. El tratamiento consiste en antibióticos orales (por la boca) en el caso de casos leves o por vía intravenosa (a través de una vena) en los casos más severos.
+
+Groups:
+- Infecciones
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Angina de Ludwig
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001047.htm
+
+Resource: Celulitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000855.htm
+
+Resource: Celulitis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cellulitis/symptoms-causes/syc-20370762?p=1
+
+Resource: Celulitis (para adolescentes)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/cellulitis.html
+
+Resource: Celulitis amigdalina y absceso amigdalino
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-otorrinolaringol%C3%B3gicos/trastornos-de-la-boca-y-la-garganta/celulitis-amigdalina-y-absceso-amigdalino
+
+Resource: Celulitis estreptocócica perianal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001346.htm
+
+Resource: Celulitis infecciosa: ¿Es contagiosa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cellulitis/expert-answers/cellulitis/faq-20058458?p=1
+
+Resource: Celulitis orbitaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001012.htm
+
+Resource: Celulitis periorbitaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000976.htm
+
+Resource: Celulitis: Cómo prevenir los episodios recurrentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cellulitis/expert-answers/cellulitis/faq-20058135?p=1
+
+Resource: Erisipela
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000618.htm
+
+Resource: Fibrinopéptido A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003373.htm
+
+Resource: ¿Qué es la celulitis?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-celulitis

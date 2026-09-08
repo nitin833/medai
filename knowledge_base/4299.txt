@@ -1,0 +1,126 @@
+Title: Minerales en la dieta
+
+Summary:
+Los minerales son importantes para su cuerpo y para mantenerse sano. El organismo usa los minerales para muchas funciones distintas, incluyendo el mantener los huesos, corazón y cerebro funcionando bien. Los minerales también son importantes para las enzimas y las hormonas.
+Existen dos tipos de minerales, los macrominerales y los oligoelementos. Usted necesita mayores cantidades de macrominerales. Estos incluyen
+calcio
+, fósforo, magnesio,
+sodio
+,
+potasio
+, cloro y azufre. Usted necesita menores cantidades de oligoelementos. Estos incluyen
+hierro
+, manganeso, cobre, yodo, cinc, cobalto, flúor y selenio.
+La mayoría de las personas obtienen los minerales que necesitan al comer una amplia variedad de alimentos. En algunos casos, su médico puede recomendarle un suplemento mineral. Personas con algunos problemas de salud o que están tomando algunas medicinas pueden necesitar consumir menos de un mineral. Por ejemplo, personas con
+enfermedad renal crónica
+tienen que limitar su consumo de potasio.
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Cloruro en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002417.htm
+
+Resource: Cobre en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002419.htm
+
+Resource: Cromo
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/chromium-DatosEnEspanol/
+
+Resource: Cromo en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002418.htm
+
+Resource: Fósforo en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002424.htm
+
+Resource: Introducción a los minerales
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-nutricionales/minerales/introducci%C3%B3n-a-los-minerales
+
+Resource: Magnesio
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Magnesium-DatosEnEspanol/
+
+Resource: Magnesio en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002423.htm
+
+Resource: Manganeso
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Manganese-DatosEnEspanol/
+
+Resource: Minerales (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/minerals.html
+
+Resource: Minerales: Cómo actúan y dónde conseguirlos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/minerales-como-actuan-y-donde-conseguirlos/
+
+Resource: Oligoelementos: Cómo actúan y dónde conseguirlos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/oligoelementos/
+
+Resource: Selenio
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Selenium-DatosEnEspanol/
+
+Resource: Selenio en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002414.htm
+
+Resource: Suplementos multivitamínicos/minerales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/MVMS-DatosEnEspanol/
+
+Resource: Vitaminas y minerales
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/vitamins-minerals.html
+
+Resource: Yodo
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Iodine-DatosEnEspanol/
+
+Resource: Yodo en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002421.htm
+
+Resource: Zinc
+Category: Asuntos específicos, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Zinc-DatosEnEspanol/
+
+Resource: Zinc
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/el-zinc/
+
+Resource: Zinc en la dieta
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002416.htm

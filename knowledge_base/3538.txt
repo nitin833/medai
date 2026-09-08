@@ -1,0 +1,274 @@
+Title: Dietary Supplements
+
+Summary:
+Dietary supplements are
+vitamins
+,
+minerals
+,
+herbs
+, and many other products.  They can come as pills, capsules, powders, drinks, and energy bars. Supplements do not have to go through the testing that drugs do.
+Some supplements can play an important role in health. For example, calcium and vitamin D are important for keeping bones strong. Pregnant women can take the vitamin folic acid to prevent certain birth defects in their babies.
+To take a supplement as safely as possible:
+Tell your health care provider about any dietary supplements you use
+Do not take a bigger dose than the label recommends
+Check with your health care provider about the supplements you take if you are going to have any type of surgery
+Read trustworthy information about the supplement
+NIH: National Institutes of Health Office of Dietary Supplements
+
+Groups:
+- Food and Nutrition
+- Complementary and Alternative Therapies
+
+MeSH Headings:
+- Dietary Supplements
+
+Related Resources:
+
+Resource: 10 Things To Know About Dietary Supplements for Children and Teens
+Category: Children
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-dietary-supplements-for-children-and-teens
+
+Resource: 5 Things to Know about Probiotics
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-probiotics
+
+Resource: 5 Things To Know About Type 2 Diabetes and Dietary Supplements
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/things-to-know-about-type-diabetes-and-dietary-supplements
+
+Resource: 5 Tips: What Consumers Need To Know about Dietary Supplements
+Category: Start Here
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/tips-what-consumers-need-to-know-about-dietary-supplements
+
+Resource: 8 Tips: High Cholesterol and Dietary Supplements
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/tips/high-cholesterol-and-dietary-supplements
+
+Resource: Alerts and Advisories
+Category: Related Issues
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/news/alerts
+
+Resource: Apetamin: An Illegally Imported Weight Gain, Figure Augmentation Product
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/apetamin-illegally-imported-weight-gain-figure-augmentation-product
+
+Resource: Are Dietary Supplements Safe?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/integrative-medicine/dietary-supplements.html
+
+Resource: Botanical Dietary Supplements Background Information
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/BotanicalBackground-Consumer/
+
+Resource: ClinicalTrials.gov: Dietary Supplements
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=dietary+supplements&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Trace Elements
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Trace+Elements%22&aggFilters=status:not%20rec
+
+Resource: Colloidal Silver: What You Need to Know
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/colloidal-silver-what-you-need-to-know
+
+Resource: Definitions of Health Terms: Minerals
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/definitions/mineralsdefinitions.html
+
+Resource: Definitions of Health Terms: Vitamins
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/definitions/vitaminsdefinitions.html
+
+Resource: Did you know? Supplements and Medications Can Interact in Unexpected Ways
+Category: Related Issues
+URL: https://magazine.medlineplus.gov/article/did-you-know-supplements-and-medications-can-interact-in-unexpected-ways
+
+Resource: Dietary and Herbal Supplements
+Category: Start Here
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/dietary-and-herbal-supplements
+
+Resource: Dietary Supplement Fact Sheets
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/list-all/
+
+Resource: Dietary Supplement Ingredient Database
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://dsid.od.nih.gov/index.php
+
+Resource: Dietary Supplement Label Database (DSLD)
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://dsld.od.nih.gov/
+
+Resource: Dietary Supplements for Exercise and Athletic Performance
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-Consumer/
+
+Resource: Dietary Supplements for Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/vitamins-and-supplements/dietary-supplements-older-adults
+
+Resource: Dietary Supplements for Toddlers
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/toddler/nutrition/pages/Dietary-Supplements-for-Toddlers.aspx
+
+Resource: Dietary Supplements for Weight Loss
+Category: Related Issues
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/WeightLoss-Consumer/
+
+Resource: Dietary Supplements: Tips for Women
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-topics/dietary-supplements-tips-women
+
+Resource: Dietary Supplements: What You Need to Know
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/WYNTK-Consumer/
+
+Resource: Do You Need Dietary Supplements? Vitamins, Minerals, and More
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/12/do-you-need-dietary-supplements
+
+Resource: FDA 101: Dietary Supplements
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements
+
+Resource: FDA Warns of Use of Selective Androgen Receptor Modulators (SARMs) among Teens, Young Adults
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/fda-warns-use-selective-androgen-receptor-modulators-sarms-among-teens-young-adults
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Is Kratom Safe?
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/08/kratom-safe
+
+Resource: Know the Science: How Medications and Supplements Can Interact
+Category: Related Issues
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/know-science/how-medications-and-supplements-can-interact/introduction
+
+Resource: MedlinePlus: Herbs and Supplements
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/druginfo/herb_All.html
+
+Resource: Multivitamin/Mineral Supplements
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/MVMS-Consumer/
+
+Resource: National Center for Complementary and Integrative Health
+Category: Find an Expert
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Natural Doesn't Necessarily Mean Safer, or Better
+Category: Related Issues
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/know-science/natural-doesnt-mean-better
+
+Resource: Omega-3 Supplements: What You Need to Know
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/omega3-supplements-what-you-need-to-know
+
+Resource: Pomegranate
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/pomegranate
+
+Resource: Probiotics: Usefulness and Safety
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/probiotics-usefulness-and-safety
+
+Resource: Dietary Supplements
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Supplements%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers on Dietary Supplements
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/information-consumers-using-dietary-supplements/questions-and-answers-dietary-supplements
+
+Resource: S-Adenosyl-L-Methionine (SAMe): In Depth
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/sadenosyllmethionine-same-in-depth
+
+Resource: Sports Supplements
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sports-supplements.html
+
+Resource: Supplements and Men's Health
+Category: Men
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/essential-nutrients/supplements/supplements-and-mens-health
+
+Resource: Tianeptine Products Linked to Serious Harm, Overdoses, Death
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/tianeptine-products-linked-serious-harm-overdoses-death
+
+Resource: Trace Elements: What They Do and Where to Get Them
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/trace-elements/
+
+Resource: Understanding Dietary Supplements
+Category: Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/158337/download
+
+Resource: Using Dietary Supplements Wisely
+Category: Start Here
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/using-dietary-supplements-wisely

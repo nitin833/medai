@@ -1,0 +1,75 @@
+Title: Ozone
+
+Summary:
+Ozone is a gas. It can be good or bad, depending on where it is. "Good" ozone occurs naturally about 10 to 30 miles above the Earth's surface. It shields us from the sun's ultraviolet rays. Part of the good ozone layer is gone. Man-made chemicals have destroyed it. Without enough good ozone, people may get too much ultraviolet radiation.  This may increase the risk of skin cancer, cataracts, and immune system problems.
+"Bad" ozone is at ground level. It forms when pollutants from cars, factories, and other sources react chemically with sunlight. It is the main ingredient in
+smog
+. It is usually worst in the summer. Breathing bad ozone can be harmful. It can cause coughing, throat irritation, worsening of
+asthma
+,
+bronchitis, and emphysema
+. It can lead to permanent lung damage, if you are regularly exposed to it.
+Environmental Protection Agency
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Ozone
+- Stratospheric Ozone
+
+Related Resources:
+
+Resource: Air Quality Guide for Ozone
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://document.airnow.gov/air-quality-guide-for-ozone.pdf
+
+Resource: AirNow.gov
+Category: Related Issues, Learn More
+Organization: Environmental Protection Agency
+URL: https://www.airnow.gov/
+
+Resource: Asthma Trigger: Air Pollution
+Category: Learn More, Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ozone-asthma.html
+
+Resource: ClinicalTrials.gov: Ozone Exposure
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22ozone+exposure%22&aggFilters=status:not%20rec
+
+Resource: Ground-Level Ozone Pollution
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/ground-level-ozone-pollution
+
+Resource: Ozone
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/kids/topics/chemicals/ozone
+
+Resource: Ozone Air Purifiers: Can They Improve Asthma Symptoms?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/expert-answers/asthma/faq-20058187?p=1
+
+Resource: Ozone Generators That Are Sold as Air Cleaners
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/ozone-generators-are-sold-air-cleaners
+
+Resource: Ozone Layer Protection
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/ozone-layer-protection
+
+Resource: Ozone
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ozone%22%5Bmajr%3Anoexp%5D+OR+%22Stratospheric+Ozone%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: SunWise
+Category: Learn More, Children
+Organization: Environmental Protection Agency
+URL: https://www.neefusa.org/what-we-do/health/sunwise

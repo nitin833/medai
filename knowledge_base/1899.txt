@@ -1,0 +1,90 @@
+Title: Asuntos familiares
+
+Summary:
+Existen muchos tipos de familias. Algunas tienen padre y madre y otras tienen sólo uno de ellos. Algunas veces no hay padres y los abuelos crían a sus nietos. Algunos niños viven con familias sustitutas, adoptivas o políticas.
+Las familias son mucho más que grupos de personas que comparten los mismos genes o la misma dirección. Deben ser una fuente de apoyo y amor. Eso no significa que todos se lleven bien todo el tiempo. Los conflictos son parte de la vida familiar. Muchas cosas pueden conducir a conflictos, tales como enfermedades, discapacidades, adicciones, pérdida del empleo, dificultades en la escuela y problemas maritales. Escucharse y trabajar para resolver los conflictos es importante para fortalecer la familia.
+
+Groups:
+- Asuntos sociales y familiares
+
+Related Resources:
+
+Resource: Adopción internacional de niños: Información importante para los padres
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/adoption-and-foster-care/paginas/internationally-adopted-children-important-information-for-parents.aspx
+
+Resource: Adopción y Hogares de acogida
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/adoption-and-foster-care/paginas/default.aspx
+
+Resource: Afrontar un divorcio
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/deal-with-divorce.html
+
+Resource: Cuando estás sólo después de la escuela
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/homealone.html
+
+Resource: Cuidado de los nietos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/grandkids.html
+
+Resource: Cómo mejorar la comunicación en la familia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/communication-discipline/paginas/improving-family-communications.aspx
+
+Resource: Cómo superar un divorcio
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/divorce-cope.html
+
+Resource: Discusiones familiares
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/paginas/family-arguments.aspx
+
+Resource: Escaparse de casa
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/running-away.html
+
+Resource: Familias pequeñas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/types-of-families/paginas/small-families.aspx
+
+Resource: Hermanastros
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/types-of-families/paginas/stepsiblings.aspx
+
+Resource: Importancia de las rutinas familiares
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/paginas/the-importance-of-family-routines.aspx
+
+Resource: Infidelidad: Componer el matrimonio después de un amorío
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/adult-health/in-depth/infidelity/art-20048424?p=1
+
+Resource: Mito de los padres "perfectos": no existe tal cosa
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/family-dynamics/paginas/a-perfect-parent.aspx
+
+Resource: ¿Por qué discuto tanto con mis padres?
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/fight.html
+
+Resource: ¿Qué es un divorcio?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/divorces.html

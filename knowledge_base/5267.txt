@@ -1,0 +1,87 @@
+Title: Trastornos de la lengua
+
+Summary:
+La lengua ayuda a saborear la comida, a tragar y a masticar. También se usa para hablar. Está compuesta de varios músculos. La superficie contiene las papilas gustativas.
+Los problemas de la lengua incluyen:
+Dolor
+Hinchazón
+Cambios de color o de textura
+Movimientos anormales o dificultad para moverla
+Trastornos del
+gusto
+Estos problemas pueden ser causados por varias razones. El tratamiento dependerá de éstas razones.
+
+Groups:
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Anquiloglosia (corte anormal del frenillo de la lengua)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001640.htm
+
+Resource: Biopsia lingual
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003849.htm
+
+Resource: Glositis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001053.htm
+
+Resource: Lengua (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/tongue.html
+
+Resource: Lengua amarilla
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/yellow-tongue/basics/definition/sym-20050595?p=1
+
+Resource: Lengua anclada (anquiloglosia)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tongue-tie.html
+
+Resource: Lengua fisurada
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Medicina Oral
+URL: https://www.aaom.com/assets/condition-information/spanishfissuredtongue.pdf
+
+Resource: Lengua geográfica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001049.htm
+
+Resource: Lengua vellosa negra
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/black-hairy-tongue/symptoms-causes/syc-20356077?p=1
+
+Resource: Lesiones en la lengua
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-bucales-y-dentales/trastornos-de-los-labios-y-la-lengua/lesiones-en-la-lengua
+
+Resource: Leucoplasia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001046.htm
+
+Resource: Macroglosia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002250.htm
+
+Resource: Problemas linguales
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003047.htm
+
+Resource: ¿Qué es la saliva?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/spit.html

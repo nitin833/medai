@@ -1,0 +1,181 @@
+Title: Endoscopia
+
+Summary:
+Una endoscopía es un procedimiento que permite que el médico vea el interior de su cuerpo. Utiliza un instrumento llamado endoscopio o tubo visor. Los endoscopios tienen una cámara diminuta unida a un tubo largo y delgado. El médico lo mueve a través de una cavidad, órgano hueco o apertura del cuerpo para ver el interior de un órgano. Algunas veces, los endoscopios se usan para cirugía, como en el caso de la extirpación de
+pólipos
+del colon.
+Existen muchos tipos distintos de endoscopías. Estos son algunos de sus nombres y los órganos que se observan.:
+Artroscopía: Articulaciones
+Broncoscopía: Pulmones
+Colonoscopía
+y sigmoidoscopía: Intestino grueso
+Cistoscopía y ureteroscopía: sistema urinario
+Laparoscopia
+: Abdomen o pelvis
+Endoscopía gastrointestinal superior: Esófago y estómago
+
+Groups:
+- Pruebas de diagnóstico
+- Cirugía y rehabilitación
+
+Related Resources:
+
+Resource: Alta tras una esofagogastroduodenoscopia
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000898.htm
+
+Resource: Anoscopia y anoscopia de alta resolución
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003890.htm
+
+Resource: Artroscopia de la muñeca
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007585.htm
+
+Resource: Artroscopia del tobillo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007584.htm
+
+Resource: Broncoscopia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003857.htm
+
+Resource: Broncoscopia con lavado broncoalveolar
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/broncoscopia-con-lavado-broncoalveolar/
+
+Resource: Cirugía laparoscópica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100166_1.htm
+
+Resource: Cistoscopia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003903.htm
+
+Resource: Cistoscopia y ureteroscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/cistoscopia-ureteroscopia
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Colonoscopía: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/colonoscopy.html
+
+Resource: Colposcopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/colposcopia/
+
+Resource: Colposcopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/colposcopy/about/pac-20385036?p=1
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Cápsula endoscópica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/capsule-endoscopy/about/pac-20393366?p=1
+
+Resource: Cápsula endoscópica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007642.htm
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo se garantiza la seguridad de su procedimiento endoscópico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-se-garantiza-la-seguridad-de-su-procedimiento-endosc%C3%B3pico-peb14s
+
+Resource: Ecografía endoscópica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007646.htm
+
+Resource: Endoscopia
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/diagnostico-y-etapa-del-cancer/pruebas/endoscopia.html
+
+Resource: Endoscopia
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003338.htm
+
+Resource: Endoscopia gastrointestinal superior
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Endoscopia nasal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007627.htm
+
+Resource: Esofagogastroduodenoscopia (EGD)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003888.htm
+
+Resource: Histeroscopia
+Category: Spanish/Español, Mujeres
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/histeroscopia/
+
+Resource: Histeroscopia
+Category: Mujeres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007571.htm
+
+Resource: Laparoscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/laparoscopia/
+
+Resource: Laparoscopia diagnóstica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003918.htm
+
+Resource: Laparoscopia pélvica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100131_1.htm
+
+Resource: Laparoscopia pélvica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002916.htm
+
+Resource: Laringoscopia
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100167_1.htm
+
+Resource: Ureteroscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007593.htm

@@ -1,0 +1,179 @@
+Title: Calcio
+
+Summary:
+¿Qué es el calcio y por qué lo necesito?
+El calcio es un
+mineral
+, un nutriente que usted necesita (en cantidades pequeñas) para mantener su cuerpo sano. Usted tiene más calcio en su cuerpo que cualquier otro mineral.
+El calcio tiene muchas funciones importantes:
+Desarrollar y mantener huesos sanos. Su cuerpo almacena casi todo su calcio en los huesos y dientes para mantenerlos fuertes
+Ayudar a sus músculos a moverse
+Ayudar a los nervios a llevar mensajes entre su cerebro y el resto de su cuerpo
+Ayudar a sus vasos sanguíneos a llevar la sangre a través de su cuerpo
+Ayudar a liberar
+hormonas
+que afectan muchas funciones de su cuerpo
+No consumir suficiente calcio puede causar afecciones serias, incluyendo:
+Osteoporosis
+, una afección que hace que sus huesos se debiliten y tengan más probabilidades de romperse
+Raquitismo
+, una afección en niños que causa huesos suaves y débiles
+Osteomalacia, una afección que causa huesos suaves en niños y adultos
+¿Cómo puedo obtener calcio?
+Usted puede obtener calcio de alimentos y suplementos. Usted puede obtener suficiente calcio al comer una variedad de alimentos, incluyendo:
+Productos lácteos como leche, queso y yogur. Estas son las principales fuentes de calcio para la mayoría de las personas en los Estados Unidos
+Vegetales de hojas verdes, como col rizada, brócoli, repollo chino (bok choi)
+Pescado con huesos suaves que puede comer, como sardinas y salmón enlatados
+Alimentos enriquecidos con calcio, como cereales para el desayuno, jugos de fruta, bebidas de soya y arroz y tofu. Las
+etiquetas de los productos
+de estos alimentos le mostrarán cuánto calcio contienen
+El calcio está disponible en suplementos. También se incluye con muchos multivitamínicos. Las dos formas principales de suplementos de calcio son el carbonato de calcio y citrato de calcio:
+Carbonato de calcio
+se absorbe mejor cuando se toma con alimento. Algunos antiácidos que se venden sin receta médica, como Tums y Rolaids, también contienen carbonato de calcio
+Citrato de calcio
+se absorbe mejor con el estómago vacío o el estómago lleno. Las personas con niveles bajos de ácido estomacal absorben el citrato de calcio más fácilmente que el carbonato de calcio
+El calcio se absorbe mejor cuando toma 500 mg o menos a la vez. Si está tomando más de esta cantidad a diario, tome una dosis más pequeña dos veces al día en lugar de tomarlo todo a la vez.
+Los suplementos de calcio pueden causar
+gas
+, hinchazón y
+estreñimiento
+en algunas personas. Si usted tiene algunos de estos síntomas, puede intentar:
+Dividir su dosis de calcio durante el día
+Tomarlo durante las comidas
+Cambiar la forma en que toma el calcio
+¿Cuánto calcio necesito tomar?
+La cantidad de calcio que usted necesita depende de su edad y otros factores.  La cantidad recomendada en miligramos (mg) son:
+Del nacimiento a 6 meses: 200 mg
+Infantes de 7 a 12 meses: 260 mg
+Niños de 1 a 3 años: 700 mg
+Niños de 4 a 8 años: 1,000 mg
+Niños de 9 a 13 años: 1,300 mg
+Adolescentes de 14 a 18 años: 1,300 mg
+Adultos de 19 a 50 años: 1,000 mg
+Hombres adultos de 51 a 70 años: 1,000 mg
+Mujeres adultas de 51 a 70 años: 1,200 mg
+Adultos de 71 años o más: 1,200 mg
+Adolescentes embarazadas y en lactancia: 1,300 mg
+Adultas embarazadas y en lactancia: 1,000 mg
+Ciertas personas pueden tener problemas para obtener suficiente calcio, incluyendo:
+Niños y adolescentes de 4 a 18 años
+Personas que son afrodescendientes o asiáticas
+Adultos de 50 años o más que viven en la pobreza
+Mujeres postmenopáusicas; su cuerpo absorbe y retiene menos calcio después de la
+menopausia
+Personas que no toman leche o no comen productos lácteos
+Pregunte a su profesional de la salud si necesita tomar suplementos de calcio y, si es así, cuánto debe tomar. Su profesional de la salud puede pedir una
+prueba de calcio en la sangre
+para saber si está obteniendo lo suficiente.
+NIH: Oficina de Suplementos Dietéticos
+
+Groups:
+- Huesos, articulaciones y músculos
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Alta tras hipercalciemia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000044.htm
+
+Resource: Bajo nivel de calcio en sangre en los bebés (hipocalcemia)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hypocalcemia.html
+
+Resource: Calcio
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/el-calcio/
+
+Resource: Calcio
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/Calcium-DatosEnEspanol/
+
+Resource: Calcio (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/calcium.html
+
+Resource: Calcio en la dieta
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002412.htm
+
+Resource: Calcio en la orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003603.htm
+
+Resource: Calcio ionizado
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003486.htm
+
+Resource: Calcio y la vitamina D: Importantes para la salud de los huesos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/el-calcio-y-la-vitamina-D-importantes-para-la-salud-de-los-huesos
+
+Resource: Calcio y suplementos de calcio: Lograr el equilibrio adecuado
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/calcium-supplements/art-20047097?p=1
+
+Resource: Calcio, la vitamina D y sus huesos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000490.htm
+
+Resource: Evalúe su conocimiento sobre la dieta para la salud de los huesos
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000490_71.htm
+
+Resource: Examen de calcio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003477.htm
+
+Resource: Hipercalcemia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000365.htm
+
+Resource: Hipocalcemia en los bebés
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007229.htm
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Prueba de calcio en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-la-sangre/
+
+Resource: Prueba de calcio en orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-orina/
+
+Resource: Salud de los huesos de los niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/la-salud-de-los-huesos-de-los-ninos
+
+Resource: Suplementos de calcio
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007477.htm
+
+Resource: Suplementos de calcio: ¿son un factor de riesgo para ataque cardíaco?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heart-attack/expert-answers/calcium-supplements/faq-20058352?p=1

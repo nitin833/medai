@@ -1,0 +1,49 @@
+Title: Roncar
+
+Summary:
+Roncar es el sonido que hace cuando su respiración se bloquea mientras duerme. El sonido es causado por tejidos en la parte superior de las vías respiratorias que se golpean entre sí y vibran. El ronquido es común, especialmente en adultos mayores y personas con sobrepeso.
+Cuando es severo, el ronquido puede causar que se despierte frecuentemente durante la noche y somnolencia diurna. Además, puede interrumpir el sueño de su compañero de cama. Los ronquidos también pueden ser un signo de un trastorno serio llamado
+apnea del sueño
+. Vea a su profesional de la salud si a menudo está cansado durante el día, no siente que duerme bien o se despierta jadeando.
+Para reducir los ronquidos:
+Si tiene sobrepeso, adelgazar puede ayudar, pero las personas delgadas también pueden roncar
+Reduzca o evite el alcohol y otros sedantes al acostarse
+No duerma boca arriba
+NIH: Instituto Nacional sobre el Envejecimiento
+
+Groups:
+- Pulmón y vías respiratorias
+- Oído, nariz y garganta
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Estudio del sueño
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/estudio-del-sueno/
+
+Resource: Roncar
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000119.htm
+
+Resource: Ronquido: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/snoring/diagnosis-treatment/drc-20377701?p=1
+
+Resource: Ronquidos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/snoring/symptoms-causes/syc-20377694?p=1
+
+Resource: Ronquidos en adultos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000720.htm
+
+Resource: Uvulopalatofaringoplastia (UPFP)
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007663.htm

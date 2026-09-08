@@ -1,0 +1,108 @@
+Title: Tumor de Wilms
+
+Also Called:
+- Nefroblastoma
+
+Summary:
+El tumor de Wilms es un tipo poco frecuente de
+cáncer renal
+. Causa un tumor en uno o ambos riñones. Usualmente afecta a los niños, pero puede ocurrir en adultos. Tener ciertos padecimientos genéticos o defectos de nacimiento puede aumentar el riesgo de desarrollarlo. Los niños que están en riesgo deben evaluarse cada tres meses hasta que cumplan ocho años.
+Los síntomas incluyen un bulto en el abdomen, sangre en la orina y fiebre sin causa aparente. Las pruebas de riñón y de sangre se utilizan para encontrar el tumor.
+Los médicos usualmente diagnostican y remueven el tumor con una cirugía. Otros tratamientos incluyen quimioterapia, radiación y terapia biológica. La terapia biológica, o inmunoterapia, estimula la capacidad del propio cuerpo para combatir el cáncer.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Riñones y sistema urinario
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (tumor de Wilms y otros tumores renales infantiles)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/rinon/paciente/tratamiento-wilms-pdq#_57
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del tumor de Wilms
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/rinon/paciente/tratamiento-wilms-pdq#_29
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Nefrectomía (extracción de riñón)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/nephrectomy/about/pac-20385165?p=1
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Riñones
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/kidneys.html
+
+Resource: Riñones y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/rinones-funcionamiento
+
+Resource: Riñón único
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/rinon-unico
+
+Resource: TC pediátrica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/pedia-ct
+
+Resource: Tratamiento del tumor de Wilms y otros tumores renales infantiles
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/rinon/paciente/tratamiento-wilms-pdq
+
+Resource: Tumor de Wilms
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001575.htm
+
+Resource: Tumor de Wilms
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/wilms.html

@@ -1,0 +1,53 @@
+Title: Ataxia de Friedreich
+
+Summary:
+La ataxia de Friedreich es una enfermedad hereditaria que daña el sistema nervioso. Afecta la médula espinal y los nervios que controlan los movimientos de los músculos de los brazos y las piernas. Los síntomas suelen comenzar entre los cinco y los 15 años. El principal síntoma es la ataxia, que significa dificultad para coordinar los movimientos. Los síntomas específicos incluyen:
+Dificultad para caminar
+Debilidad muscular
+Problemas para hablar
+Movimientos involuntarios de los ojos
+Escoliosis (curvatura de la columna vertebral hacia un lado)
+Palpitaciones (este síntoma es el resultado de diversas formas de enfermedad del corazón que a menudo acompañan la ataxia de Friedreich)
+Después de 15 a 20 años de la aparición del primer síntoma, las personas con ataxia de Friedreich suelen necesitar una silla de ruedas. En los casos severos, las personas terminan discapacitadas. No existe una cura. Se pueden tratar los síntomas con medicinas, aparatos ortopédicos, cirugía y fisioterapia.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Ataxia de Friedreich
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/ataxia-de-friedreich
+
+Resource: Ataxia de Friedreich
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001411.htm
+
+Resource: Electromiografía
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003929.htm
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Enfermedades neurodegenerativas: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/degenerativenervediseases.html
+
+Resource: RM funcional (fRM)
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain

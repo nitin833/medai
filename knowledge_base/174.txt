@@ -1,0 +1,341 @@
+Title: Brain Diseases
+
+Summary:
+Your brain is the control center of your body. It controls your thoughts, memory, speech, and movement. It regulates the function of many organs. It's part of your nervous system, which also includes your spinal cord and peripheral nerves. The nervous system sends signals between your brain and the rest of the body. Your nerves take in information from your senses and send it to the brain to be processed. Your brain and nerves also communicate to help you move and to control your body's functions.
+When the brain is healthy, it works quickly and automatically. But when you have a brain disease, it may affect how  well you can function and do your daily activities. Some common brain diseases include:
+Brain tumors
+, which can press on nerves and affect brain function.
+Degenerative nerve diseases
+, which can affect many of your body's activities, such as
+balance
+,
+movement
+,
+talking
+,
+breathing
+, and heart function. Types include
+Alzheimer's disease
+and
+Parkinson's disease
+.
+Encephalitis
+(inflammation in the brain), which can lead to problems such as
+vision loss
+, weakness, and
+paralysis
+.
+Genetic brain disorders
+, which are caused by changes in genes (also called variants or mutations). These disorders can affect the development and function of the brain.
+Strokes
+, which can cause a loss of brain cells and can affect your ability to think clearly.
+Traumatic brain injuries
+(TBIs), which can affect brain function. They may range from mild to severe. The effects of a TBI may be temporary or permanent.
+The symptoms of brain diseases vary widely, depending on the specific problem. In some cases, damage is permanent. In other cases, treatments such as surgery, medicines, or therapies such as physical, occupational, and speech therapies, may cure the disease or improve the symptoms.
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Brain Diseases
+
+Related Resources:
+
+Resource: About Neurointerventions
+Category: Treatments and Therapies
+Organization: Society of NeuroInterventional Surgery
+URL: https://snisonline.org/about/
+
+Resource: Acute necrotizing encephalopathy type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/acute-necrotizing-encephalopathy-type-1
+
+Resource: All About Your Brain & Nervous System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/brain-nervous-system.html
+
+Resource: Ammonia blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003506.htm
+
+Resource: Athetosis resulting from basal ganglia injury
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000007.htm
+
+Resource: Basal ganglia dysfunction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001069.htm
+
+Resource: Biotin-thiamine-responsive basal ganglia disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/biotin-thiamine-responsive-basal-ganglia-disease
+
+Resource: Birth Disorders of the Brain and Spinal Cord
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/birth-disorders-brain-and-spinal-cord
+
+Resource: Brain abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000783.htm
+
+Resource: Brain Basics: Know Your Brain
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-know-your-brain
+
+Resource: Brain components
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000016.htm
+
+Resource: Brain Facts: Glossary
+Category: Reference Desk
+Organization: Society for Neuroscience
+URL: https://www.brainfacts.org/Glossary
+
+Resource: Brain MRI (Head MRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mri-brain
+
+Resource: Brain PET scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007341.htm
+
+Resource: Brain surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003018.htm
+
+Resource: Brain surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000124.htm
+
+Resource: Cerebral amyloid angiopathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000719.htm
+
+Resource: Cerebral Atrophy
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#cerebral-atrophy
+
+Resource: Cerebral hypoxia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001435.htm
+
+Resource: Cerebral spinal fluid (CSF) collection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003428.htm
+
+Resource: Cerebrospinal Fluid (CSF) Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/
+
+Resource: ClinicalTrials.gov: Brain Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Diseases%22&aggFilters=status:not%20rec
+
+Resource: COL4A1-related brain small-vessel disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/col4a1-related-brain-small-vessel-disease
+
+Resource: Craniotomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100048_1.htm
+
+Resource: EEG
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003931.htm
+
+Resource: Familial porencephaly: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-porencephaly
+
+Resource: Fontanelles - bulging
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003310.htm
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Glossary of Neurological Terms
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: Head CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: Hepatic Encephalopathy
+Category: Specifics
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/liver-diseases/complications-of-liver-disease/hepatic-encephalopathy/
+
+Resource: Hepatocerebral degeneration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001393.htm
+
+Resource: Hereditary cerebral amyloid angiopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-cerebral-amyloid-angiopathy
+
+Resource: Hypothalamic dysfunction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001202.htm
+
+Resource: Hypoxic Ischemic Encephalopathy
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hypoxic-ischemic-encephalopathy
+
+Resource: Idiopathic intracranial hypertension
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000351.htm
+
+Resource: Increased intracranial pressure
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000793.htm
+
+Resource: Intracranial Hypertension: Medication and Surgery
+Category: Treatments and Therapies
+Organization: Intracranial Hypertension Research Foundation
+URL: https://ihrfoundation.org/treatment/medication-and-surgery
+
+Resource: Intraventricular hemorrhage of the newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007301.htm
+
+Resource: Kluver-Bucy Syndrome
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6840/klver-bucy-syndrome
+
+Resource: Loss of brain function - liver disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000302.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Neurological Exam
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/neurological-exam/
+
+Resource: Neurosciences
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007456.htm
+
+Resource: Osmotic demyelination syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000775.htm
+
+Resource: Periventricular leukomalacia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007232.htm
+
+Resource: Periventricular Leukomalacia
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/periventricular-leukomalacia
+
+Resource: Primary familial brain calcification: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-familial-brain-calcification
+
+Resource: Pseudotumor Cerebri
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/pseudotumor-cerebri
+
+Resource: Pseudotumor Cerebri (Idiopathic Intracranial Hypertension)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pseudotumor-cerebri/symptoms-causes/syc-20354031?p=1
+
+Resource: Brain Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scientists Develop High-Performance MRI Scanner in Effort to Define Microscopic Brain Structures
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://www.nih.gov/news-events/scientists-develop-high-performance-mri-scanner-effort-define-microscopic-brain-structures
+
+Resource: Skull x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Subdural hematoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000713.htm
+
+Resource: Wernicke-Korsakoff Syndrome
+Category: Specifics
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/wernicke-korsakoff-syndrome
+
+Resource: Wernicke-Korsakoff syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000771.htm
+
+Resource: What Is IH (Intracranial Hypertension)?
+Category: Specifics
+Organization: Intracranial Hypertension Research Foundation
+URL: https://ihrfoundation.org/what-is-ih
+
+Resource: Your Brain and Nervous System
+Category: Reference Desk
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/brain.html

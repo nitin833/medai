@@ -1,0 +1,302 @@
+Title: Biopsia
+
+Summary:
+Una biopsia es un procedimiento que extrae células o tejidos de su cuerpo. Un médico llamado patólogo examina las células o tejidos bajo un microscopio para verificar si hay daños o enfermedad. El patólogo también puede hacer otras pruebas a estas células.
+Las biopsias pueden tomarse de cualquier parte del cuerpo. En la mayoría de los casos, una biopsia es la única prueba que puede indicar con seguridad si un área sospechosa tiene cáncer. Pero las biopsias se realizan por muchas otras razones también.
+Hay diferentes tipos de biopsias. Una biopsia por punción extrae con una aguja el tejido desde el área comprometida. Otras biopsias que requieren cirugía.
+
+Groups:
+- Cánceres
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Biopsia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003416.htm
+
+Resource: Biopsia con aguja
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Biopsia de aspiración pulmonar (tórax)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/nlungbiop
+
+Resource: Biopsia de ganglio linfático centinela
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/estadificacion/hoja-informativa-ganglio-centinela
+
+Resource: Biopsia de huesos
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonebiopsy
+
+Resource: Biopsia de la almohadilla de grasa de la pared abdominal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003841.htm
+
+Resource: Biopsia de la encía
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003852.htm
+
+Resource: Biopsia de la glándula salival
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003847.htm
+
+Resource: Biopsia de la mucosa nasal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003848.htm
+
+Resource: Biopsia de las vías respiratorias altas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003856.htm
+
+Resource: Biopsia de lesión de piel
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003840.htm
+
+Resource: Biopsia de lesión orofaríngea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003850.htm
+
+Resource: Biopsia de lesión ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003923.htm
+
+Resource: Biopsia de los ganglios linfáticos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003933.htm
+
+Resource: Biopsia de mama con ultrasonido
+Category: Mujeres, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007432.htm
+
+Resource: Biopsia de mama estereotáctica (guiada en forma mamográfica)
+Category: Mujeres, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/breastbixr
+
+Resource: Biopsia de mama guiada por ultrasonido
+Category: Mujeres, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/breastbius
+
+Resource: Biopsia de médula ósea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003934.htm
+
+Resource: Biopsia de músculo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003924.htm
+
+Resource: Biopsia de nervio
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003928.htm
+
+Resource: Biopsia de piel
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/biopsia-de-piel/
+
+Resource: Biopsia de pulmón a cielo abierto
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003861.htm
+
+Resource: Biopsia de pólipos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003415.htm
+
+Resource: Biopsia de seno
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/biopsia-de-seno/
+
+Resource: Biopsia de seno guiada por RM
+Category: Spanish/Español, Mujeres
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/breastbimr
+
+Resource: Biopsia de vejiga
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003902.htm
+
+Resource: Biopsia del hígado
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/biopsia-higado
+
+Resource: Biopsia del hígado
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003895.htm
+
+Resource: Biopsia del seno
+Category: Spanish/Español, Mujeres
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-seno/pruebas-de-deteccion-y-deteccion-temprana-del-cancer-de-seno/biopsia-del-seno.html
+
+Resource: Biopsia del tracto biliar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003894.htm
+
+Resource: Biopsia del túnel carpiano
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003925.htm
+
+Resource: Biopsia dirigida por colposcopia
+Category: Spanish/Español, Mujeres
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003913.htm
+
+Resource: Biopsia en cono
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003910.htm
+
+Resource: Biopsia endometrial
+Category: Spanish/Español, Mujeres
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003917.htm
+
+Resource: Biopsia estereotáctica de la mama
+Category: Spanish/Español, Mujeres
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007433.htm
+
+Resource: Biopsia hepática
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/biopsie-du-foie/?lang=es
+
+Resource: Biopsia lingual
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003849.htm
+
+Resource: Biopsia miocárdica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003873.htm
+
+Resource: Biopsia pleural abierta
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003863.htm
+
+Resource: Biopsia pleural con aguja
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003862.htm
+
+Resource: Biopsia por aspiración con aguja fina de la glándula tiroides guiada por ultrasonido
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ThyroidBiopsy
+
+Resource: Biopsia pulmonar por punción
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003860.htm
+
+Resource: Biopsia rectal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003891.htm
+
+Resource: Biopsia renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003907.htm
+
+Resource: Biopsia sinovial
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003922.htm
+
+Resource: Biopsia testicular
+Category: Hombres, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003908.htm
+
+Resource: Biopsia ureteral retrógrada por cepillado
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003906.htm
+
+Resource: Biopsia: Algunos tipos de biopsia que se utilizan para diagnosticar el cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/biopsy/art-20043922?p=1
+
+Resource: Biopsias
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/biopsy.html
+
+Resource: Biopsias
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/biopgen
+
+Resource: Colposcopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/colposcopia/
+
+Resource: Colposcopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/colposcopy/about/pac-20385036?p=1
+
+Resource: Cultivo de tejido duodenal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003730.htm
+
+Resource: Cultivo y biopsia de tejido gástrico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003728.htm
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Mediastinoscopia con biopsia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003864.htm
+
+Resource: RadiologyInfo
+Category: Spanish/Español, Especialistas
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es
+
+Resource: Tinción de Gram de biopsia de tejido
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003453.htm

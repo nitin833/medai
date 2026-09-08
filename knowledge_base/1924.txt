@@ -1,0 +1,181 @@
+Title: Glaucoma
+
+Summary:
+¿Qué es el glaucoma?
+El glaucoma es un grupo de enfermedades que pueden dañar el
+nervio óptico
+de uno o ambos ojos, lo que puede provocar
+pérdida de la visión
+. Existen distintos tipos de glaucoma, pero el más común es el de ángulo abierto. Otros tipos menos comunes son el de ángulo cerrado y el congénito.
+Es posible que no presente síntomas de glaucoma. Los
+exámenes de los ojos
+periódicos realizados por un profesional de la salud ocular  pueden detectar la presencia de glaucoma y otros
+problemas de los ojos
+para ayudar a proteger su visión. Los tratamientos que reducen la presión ocular ayudan a retrasar la enfermedad. Sin tratamiento, el glaucoma puede acabar provocando ceguera.
+¿Qué causa el glaucoma?
+Los expertos médicos no están seguros sobre cuál es la causa del glaucoma, pero los tipos más comunes suelen producirse cuando la presión del líquido dentro del ojo aumenta lentamente, dañando el nervio óptico. Otros tipos de glaucoma pueden ser causados por afecciones médicas o un bebé puede nacer con la afección.
+No todas las personas con presión ocular alta desarrollan glaucoma. Algunas personas pueden incluso presentarlo con una presión ocular normal. La cantidad de presión que puede soportar el nervio óptico es diferente para cada persona. Realizarse exámenes oculares con dilatación de pupilas regularmente ayuda a su profesional de la salud a averiguar el nivel de presión del ojo que es normal para usted.
+¿Cuáles son los síntomas del glaucoma?
+A menudo, al principio el glaucoma no presenta síntomas. O bien, los síntomas pueden comenzar tan lentamente que puede no notarlos. Sin tratamiento, usted pierde lentamente su visión periférica (lateral). Puede parecer que está mirando a través de un túnel. Con el tiempo, su visión frontal puede disminuir hasta no tener más visión.
+Si de repente tiene síntomas como dolor ocular intenso, visión borrosa, ojos rojos o malestar estomacal (náuseas), debe acudir a su profesional de la salud ocular o a una sala de emergencias de inmediato. Estos podrían ser síntomas de glaucoma de ángulo cerrado. Este tipo menos común de glaucoma hace que se acumule líquido rápidamente en el ojo.
+¿Cómo se diagnostica el glaucoma?
+Un examen ocular completo puede determinar si tiene glaucoma. Esto incluye:
+Examen ocular con dilatación de pupilas:
+Esto implica la aplicación de gotas para los ojos que dilatan (ensanchan) las pupilas, lo que permite que entre más luz en el ojo. Su profesional de la salud ocular examina los ojos con una lupa especial, lo que permite observar con claridad los tejidos importantes de la parte posterior del ojo para comprobar si tiene glaucoma u otros problemas oculares. Es posible que su visión sea borrosa y sensible a la luz por algunas horas después de su examen, por lo que necesitará que alguien lo lleve a su casa
+Examen del campo visual:
+Esta comprobación de la visión periférica (lateral) permite a su profesional de la salud ocular u oftalmólogo averiguar qué tan bien puede ver los objetos que se encuentran a los costados de su campo visual sin mover los ojos
+Tonometría:
+Esta prueba mide la presión dentro del ojo
+Si tiene un mayor riesgo de tener glaucoma, debe hacerse exámenes oculares completos cada uno o dos años. El riesgo es mayor si:
+Es afrodescendiente y tiene más de 40 años
+Tiene más de 60 años, especialmente si es hispano o latino
+Tiene antecedentes familiares de glaucoma
+Su riesgo también es mayor si tiene
+presión arterial alta
+o
+diabetes
+y debe hacerse un examen con dilatación de pupilas al menos una vez al año. Hable con su profesional de la salud sobre su riesgo y con qué frecuencia debe hacerse un examen de la vista.
+¿Cuáles son los tratamientos para el glaucoma?
+El tratamiento temprano puede ayudar a proteger sus ojos contra la pérdida de la visión. Si bien el glaucoma no tiene cura, generalmente se puede controlar. Sin tratamiento, eventualmente puede causar ceguera. Los tratamientos pueden incluir:
+Las gotas para los ojos recetadas son el tratamiento más común para reducir la presión en el ojo y prevenir daños en el nervio óptico
+Otros tratamientos pueden incluir medicamentos orales, tratamiento con láser y/o cirugía
+Una combinación de estos tratamientos se puede usar para reducir la presión ocular y ayudar a drenar el líquido del ojo.
+¿Se puede prevenir el glaucoma?
+No hay forma de prevenir el glaucoma. Los exámenes oculares pueden ayudar a detectar el glaucoma u otros problemas de los ojos antes de que afecten su visión. Si tiene glaucoma, asegúrese de continuar con el tratamiento para evitar que su visión empeore.
+NIH: Instituto Nacional del Ojo
+
+Groups:
+- Personas mayores
+- Ojos y visión
+
+Related Resources:
+
+Resource: Cinco pruebas comunes para el glaucoma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación para la Investigación del Glaucoma
+URL: https://glaucoma.org/es/articles/cinco-pruebas-comunes-para-el-glaucoma
+
+Resource: Cirugía láser (para el glaucoma)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Bright Focus
+URL: https://www.brightfocus.org/resource/ciruga-lser/
+
+Resource: Conceptos básicos sobre exámenes y pruebas de visión
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/examenes-de-los-ojos-101
+
+Resource: Cómo funcionan los ojos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos
+
+Resource: Cómo hablar con su oculista
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/encontrar-un-oculista/como-hablar-con-su-oculista
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Diabetes y la vista
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para la Investigación del Glaucoma
+URL: https://glaucoma.org/es/articles/la-diabetes-y-la-vista
+
+Resource: Diagnosticando el glaucoma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Bright Focus
+URL: https://www.brightfocus.org/resource/diagnosticando-el-glaucoma/
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Examen ocular estándar
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003434.htm
+
+Resource: Glaucoma
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000060.htm
+
+Resource: Glaucoma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/glaucoma
+
+Resource: Glaucoma
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001620.htm
+
+Resource: Glaucoma (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/glaucoma.html
+
+Resource: Glaucoma en los hispanos/latinos
+Category: Spanish/Español, Imágenes
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/sites/default/files/nehep-pdfs/NEHEP_Glaucoma_in_Hispanics_Infographic_Spanish.pdf
+
+Resource: Glaucoma: ¿Corre riesgo de tener glaucoma?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Ojo
+URL: https://nei.nih.gov/health/espanol/glaucoma_corre
+
+Resource: Imágenes del nervio óptico: ¿Qué es y por qué es necesario?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación para la Investigación del Glaucoma
+URL: https://glaucoma.org/es/articles/imagenes-del-nervio-optico-que-es-y-por-que-es-necesario
+
+Resource: Medicamentos para el glaucoma
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación para la Investigación del Glaucoma
+URL: https://glaucoma.org/es/informacion-sobre-glaucoma/medicamentos-para-el-glaucoma
+
+Resource: Medicamentos para el glaucoma
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/glaucoma/medicamentos-para-el-glaucoma
+
+Resource: Oftalmoscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003881.htm
+
+Resource: Ojos secos y glaucoma: Doble problema
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación para la Investigación del Glaucoma
+URL: https://glaucoma.org/es/articles/ojos-secos-y-glaucoma-doble-problema
+
+Resource: Pruebas de glaucoma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-glaucoma/
+
+Resource: Tipos de glaucoma
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/glaucoma/tipos-de-glaucoma
+
+Resource: Tonometría
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003447.htm
+
+Resource: ¿Ayuda la marihuana a tratar el glaucoma u otras afecciones oculares?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/marihuana-medicinal-y-glaucoma
+
+Resource: ¿Qué es el glaucoma?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-glaucoma

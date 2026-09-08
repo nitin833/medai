@@ -1,0 +1,394 @@
+Title: Skin Infections
+
+Summary:
+What are skin infections?
+Your skin is your body's largest organ. It has many different functions, including covering and protecting your body. It helps keep germs out. But sometimes the germs can cause a skin infection. It often happens when the germs enter your body through a break, cut, or wound on your skin. Other skin infections can happen in places where the skin rubs together, especially if the area is moist. Infections can also happen when you have a poor blood supply to an area of your body or if your immune system is weakened because of another disease or a medical treatment.
+Some skin infections cover a small area on the top of your skin. Other infections can go deep into your skin or spread to a larger area.
+What causes skin infections?
+Skin infections are caused by different kinds of germs. For example,:
+Bacteria cause
+cellulitis
+,
+impetigo
+, and
+staphylococcal (staph) infections
+Viruses cause
+shingles
+,
+warts
+, and
+herpes simplex
+Fungi cause
+athlete's foot
+and
+yeast infections
+Parasites cause
+body lice
+,
+head lice
+, and
+scabies
+Who is more likely to get a skin infection?
+You are more likely to get a skin infection if you:
+Have poor circulation
+Have
+diabetes
+Are older
+Have an
+immune system disease
+, such as
+HIV
+Have a weakened immune system because of
+chemotherapy
+or other medicines that suppress your immune system
+Have to stay in one position for a long time, such as if you are sick and have to stay in bed for a long time or you are
+paralyzed
+Are
+malnourished
+Have excessive skinfolds, which can happen if you have
+obesity
+What are the symptoms of skin infections?
+The symptoms depend on the type of infection. Some symptoms that are common to many skin infections include
+rashes
+, swelling, redness, pain, pus, and
+itching
+.
+How are skin infections diagnosed?
+To diagnose a skin infection, your health care provider will do a physical exam and ask about your symptoms. You may have lab tests, such as a skin culture. This is a test to identify what type of infection you have, using a sample from your skin. Your provider may take the sample by swabbing or scraping your skin or removing a small piece of skin (
+biopsy
+). Sometimes providers use other tests, such as blood tests.
+How are skin infections treated?
+The treatment depends on the type of infection and how serious it is. Some infections will go away on their own. When you do need treatment, it may include a cream or lotion to put on the skin. Other possible treatments include medicines and a procedure to drain pus.
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Skin Diseases, Infectious
+
+Related Resources:
+
+Resource: About Necrotizing Fasciitis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/group-a-strep/about/necrotizing-fasciitis.html
+
+Resource: About Onchocerciasis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/filarial-worms/about/onchocerciasis.html
+
+Resource: Actinomycosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000599.htm
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: Blastomycosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000102.htm
+
+Resource: Blastomycosis Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/blastomycosis/about/
+
+Resource: Boils
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Boils?
+
+Resource: Boils
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001474.htm
+
+Resource: Boils (Furunculosis)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/furunculosis-boil/?Imiw9cApl=1
+
+Resource: Boils and Carbuncles
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/boils-and-carbuncles/symptoms-causes/syc-20353770?p=1
+
+Resource: Candida infection of the skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000880.htm
+
+Resource: Carbuncle
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000825.htm
+
+Resource: ClinicalTrials.gov: Skin Diseases, Infectious
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Skin+Diseases,+Infectious%22&aggFilters=status:not%20rec
+
+Resource: Cutaneous Larva Migrans
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/CutaneousLarvaMigr?
+
+Resource: Cuts, Scratches, and Scrapes
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/cuts.html
+
+Resource: Diabetes and Skin Complications
+Category: Related Issues
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/complications/skin-complications
+
+Resource: Donovanosis (granuloma inguinale)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000636.htm
+
+Resource: Ecthyma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000864.htm
+
+Resource: Erysipelas
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://drive.google.com/file/d/1EGP0__kKznVJTlzAi4CDPT7aVXuXaOMH/view
+
+Resource: Erysipelas
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000618.htm
+
+Resource: Erythema multiforme
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000851.htm
+
+Resource: Erythema Nodosum
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/erythema-nodosum/?Imiw9cApl=1
+
+Resource: Erythema Nodosum
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/ErythemaNodosum?
+
+Resource: Erythema nodosum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000881.htm
+
+Resource: Erythrasma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/erythrasma/?Imiw9cApl=1
+
+Resource: Erythrasma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001470.htm
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Gram stain of skin lesion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003760.htm
+
+Resource: Intertrigo
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/intertrigo/
+
+Resource: Intertrigo
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/intertrigo/?Imiw9cApl=1
+
+Resource: Intertrigo
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003223.htm
+
+Resource: Molluscum Contagiosum
+Category: Children
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/molluscum-contagiosum
+
+Resource: Molluscum Contagiosum
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/molluscum-contagiosum/about/
+
+Resource: Molluscum contagiosum
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000826.htm
+
+Resource: Molluscum Contagiosum
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/molluscum-contagiosum/
+
+Resource: Molluscum Contagiosum
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/molluscum-contagiosum/?Imiw9cApl=1
+
+Resource: Molluscum Contagiosum (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/molluscum-contagiosum.html
+
+Resource: Molluscum Contagiosum: Overview
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/molluscum-contagiosum-overview?NoAds
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Necrotizing Skin Infections
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/infections/bacterial-skin-infections/necrotizing-skin-infections?query=necrotizing-skin-infections%20wingfield
+
+Resource: Necrotizing soft tissue infection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001443.htm
+
+Resource: Nikolsky sign
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003285.htm
+
+Resource: Overview of Bacterial Skin Infections
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/infections/bacterial-skin-infections/overview-of-bacterial-skin-infections?query=overview%20of%20bacterial%20infections
+
+Resource: Overview of Fungal Skin Infections
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/skin-disorders/fungal-skin-infections/overview-of-fungal-skin-infections
+
+Resource: Paronychia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001444.htm
+
+Resource: Preventing Molluscum Contagiosum in Schools, Daycares, and Pools
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/molluscum-contagiosum/special-environments/
+
+Resource: Skin Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Skin+Diseases%2C+Infectious%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rash Evaluation
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rash-evaluation/
+
+Resource: Scalded skin syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001352.htm
+
+Resource: Skin Biopsy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/skin-biopsy/
+
+Resource: Skin lesion aspiration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003451.htm
+
+Resource: Skin lesion biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003840.htm
+
+Resource: Skin lesion KOH exam
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003761.htm
+
+Resource: Skin lesion of blastomycosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000865.htm
+
+Resource: Skin or nail culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003762.htm
+
+Resource: Skin Rashes and Other Skin Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/skin-rashes-other-skin-problems-2/
+
+Resource: Sporotrichosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001338.htm
+
+Resource: Sporotrichosis Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sporotrichosis/about/
+
+Resource: Swimming pool granuloma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001357.htm
+
+Resource: Tinea versicolor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001465.htm
+
+Resource: Tinea Versicolor
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-versicolor/?Imiw9cApl=1
+
+Resource: Tinea Versicolor
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tinea-versicolor/symptoms-causes/syc-20378385?p=1
+
+Resource: Tinea versicolor: Overview
+Category: Specifics
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/tinea-versicolor-overview?NoAds
+
+Resource: Wood lamp examination
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003386.htm
+
+Resource: Wood's Lamp Examination
+Category: Diagnosis and Tests
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/woods-lamp-examination/?Imiw9cApl=1

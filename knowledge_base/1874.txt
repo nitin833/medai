@@ -1,0 +1,66 @@
+Title: Infecciones por Escherichia coli
+
+Also Called:
+- E. Coli
+
+Summary:
+E. coli es el nombre de un tipo de bacteria que vive en el intestino. La mayoría de las E. coli no causan problemas. Pero, algunos tipos pueden producir enfermedades y causar
+diarrea
+. Uno de ellos causa la diarrea del viajero. El peor tipo de E. coli causa una diarrea hemorrágica y a veces puede causar insuficiencia renal y hasta la muerte. Esto, en general, ocurre en niños y en adultos con sistemas inmunitarios debilitados.
+Se pueden adquirir infecciones por E. coli al consumir alimentos que contienen la bacteria. Los síntomas pueden incluir:
+Náuseas o vómitos
+Fuertes cólicos abdominales
+Diarrea líquida o con mucha sangre
+Cansancio
+Fiebre
+Para evitar la
+intoxicación por alimentos
+y prevenir infecciones, manipule la
+comida con seguridad
+. Cocine bien las carnes, lave las frutas y verduras antes de comerlas o cocinarlas y evite la leche y los jugos sin pasteurizar. La infección también se puede adquirir al tragar agua en una piscina contaminada con desechos humanos.
+La mayoría de los casos de infección por E. coli mejoran sin tratamiento en cinco a 10 días.
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Análisis de heces: Cultivo bacteriano
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-bac-culture.html
+
+Resource: E. Coli
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/ecoli.html
+
+Resource: E. coli: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/e-coli/symptoms-causes/syc-20372058?p=1
+
+Resource: Enteritis por E. coli
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000296.htm
+
+Resource: Escherichia coli (E. coli) y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/e-coli/
+
+Resource: Infecciones por E. coli: Diarrea(para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ecoli.html
+
+Resource: Infección por E-Coli: No solamente de los alimentos
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/infections/paginas/e-coli-infection-not-just-from-food.aspx
+
+Resource: Síndrome urémico hemolítico
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000510.htm

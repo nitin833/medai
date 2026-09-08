@@ -1,0 +1,98 @@
+Title: E. coli Infections
+
+Also Called:
+- Escherichia coli
+
+Summary:
+E. coli is the name of a type of bacteria that lives in your intestines. Most types of E. coli are harmless. However, some types can make you sick and cause
+diarrhea
+. One type causes travelers' diarrhea. The worst type of E. coli causes bloody diarrhea, and can sometimes cause kidney failure and even death. These problems are most likely to occur in children and in adults with weak immune systems.
+You can get E. coli infections by eating foods containing the bacteria. Symptoms of infection include:
+Nausea or vomiting
+Severe abdominal cramps
+Watery or very bloody diarrhea
+Fatigue
+Fever
+To help avoid
+food poisoning
+and prevent infection, handle
+food safely
+. Cook meat well, wash fruits and vegetables before eating or cooking them, and avoid unpasteurized milk and juices. You can also get the infection by swallowing water in a swimming pool contaminated with human waste.
+Most cases of E. coli infection get better without treatment in 5 to 10 days.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Escherichia coli Infections
+
+Related Resources:
+
+Resource: About Escherichia coli Infection
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ecoli/about/
+
+Resource: ClinicalTrials.gov: Escherichia coli Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Escherichia+coli+Infections%22&aggFilters=status:not%20rec
+
+Resource: E-coli Infection: Not Just from Food
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/E-Coli-Infection-Not-Just-From-Food.aspx
+
+Resource: E. coli
+Category: Start Here, Patient Handouts
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/print/pdf/node/14?id=e-coli-table
+
+Resource: E. coli enteritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000296.htm
+
+Resource: E. Coli Infections: Diarrhea
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ecoli.html
+
+Resource: Escherichia coli (E. coli) and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/e-coli-pregnancy/
+
+Resource: Farm Animals
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/farm-animals.html
+
+Resource: Ground Beef and Food Safety
+Category: Related Issues
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/meat/ground-beef-and-food-safety
+
+Resource: Hemolytic Uremic Syndrome in Children
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/hemolytic-uremic-syndrome
+
+Resource: Hemolytic-uremic syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000510.htm
+
+Resource: How to Prevent E. coli Infection
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ecoli/prevention/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: E. Coli Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Escherichia+coli+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

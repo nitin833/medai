@@ -1,0 +1,192 @@
+Title: Sarcoma del tejido blando
+
+Summary:
+Los tejidos blandos conectan, apoyan o rodean a otros tejidos. Algunos ejemplos incluyen músculos, tendones, grasa y vasos sanguíneos. El sarcoma de tejidos blandos es un cáncer en los tejidos blandos. Existen muchos tipos, tomando como base el tipo de tejido en el que se inician. Algunas veces se diseminan y pueden ejercer presión sobre los nervios y otros órganos, causando problemas como dolor o dificultad para respirar.
+Nadie sabe exactamente cuál es la causa de estos cánceres. No son comunes, pero usted corre un riesgo mayor si estuvo expuesto a determinadas sustancias químicas, recibió radioterapia o tiene algunas enfermedades genéticas.
+Para diagnosticar sarcomas del tejido blando, los médicos deben extirpar y examinar una parte del tumor en el microscopio. El tratamiento incluye cirugía para extirpar el tumor, radioterapia, quimioterapia o una combinación de éstas.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Angiosarcoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/angiosarcoma/symptoms-causes/syc-20350244?p=1
+
+Resource: Aspectos generales de las opciones de tratamiento del rabdomiosarcoma infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-rabdomiosarcoma-pdq#_50
+
+Resource: Aspectos generales de las opciones de tratamiento para el sarcoma de tejido blando infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-infantil-pdq#_291
+
+Resource: Biopsia sinovial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003922.htm
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cirugía para los sarcomas de tejidos blandos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/tratamiento/cirugia.html
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Después del tratamiento (sarcomas de tejidos blandos)
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/despues-del-tratamiento.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del rabdomiosarcoma infantil
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-rabdomiosarcoma-pdq#_26
+
+Resource: Estadios del sarcoma de tejido blando en adultos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq#_37
+
+Resource: Estadios del sarcoma de tejido blando infantil
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-infantil-pdq#_269
+
+Resource: Etapas del sarcoma de tejidos blandos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/deteccion-diagnostico-clasificacion-por-etapas/clasificacion-por-etapas.html
+
+Resource: Factores de riesgo para los sarcomas de tejidos blandos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Información general sobre el rabdomiosarcoma infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-rabdomiosarcoma-pdq
+
+Resource: Información general sobre el sarcoma de tejido blando en adultos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq
+
+Resource: Información general sobre el sarcoma de tejido blando infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-infantil-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Opciones de tratamiento para el sarcoma de tejido blando en adultos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/sarcoma-de-tejido-blando/paciente/tratamiento-tejido-blando-adultos-pdq#section/_91
+
+Resource: Preguntas que deben formularse acerca de los sarcomas de tejidos blandos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/deteccion-diagnostico-clasificacion-por-etapas/la-comunicacion-con-su-medico.html
+
+Resource: Prueba genética TP 53 (proteína tumoral 53)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-genetica-tp-53-proteina-tumoral-53/
+
+Resource: Pruebas para diagnosticar los sarcomas de tejidos blandos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Quimioterapia para los sarcomas de tejidos blandos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/tratamiento/quimioterapia.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Rabdomiosarcoma
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001429.htm
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Radioterapia para los sarcomas de tejidos blandos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/tratamiento/radioterapia.html
+
+Resource: Sarcoma de tejido blando en adultos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007654.htm
+
+Resource: Síndrome de Li-Fraumeni
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11860/sindrome-de-li-fraumeni/
+
+Resource: Tasas de supervivencia del sarcoma de tejidos blandos
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/deteccion-diagnostico-clasificacion-por-etapas/tasas-de-supervivencia.html
+
+Resource: Tratamiento de los sarcomas de tejidos blandos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/tratamiento.html
+
+Resource: Tratamiento según la etapa de los sarcomas de tejidos blandos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/tratamiento/segun-la-etapa.html
+
+Resource: ¿Es posible detectar los sarcomas de tejidos blandos en sus comienzos?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/deteccion-diagnostico-clasificacion-por-etapas/deteccion.html
+
+Resource: ¿Qué causa los sarcomas de tejidos blandos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/causas-riesgos-prevencion/que-lo-causa.html
+
+Resource: ¿Qué es el sarcoma de tejidos blandos?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/sarcoma-de-tejidos-blandos/acerca/sarcoma-de-tejidos-blandos.html

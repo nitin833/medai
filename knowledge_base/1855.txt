@@ -1,0 +1,84 @@
+Title: Problemas de los riñones asociados con la diabetes
+
+Also Called:
+- Nefropatía diabética
+- Problemas renales en personas con diabetes
+
+Summary:
+Si tiene
+diabetes
+, el
+nivel de azúcar
+en su sangre es muy elevado. Con el tiempo, eso puede causar daños
+ en los riñones. Los riñones son filtros que limpian la sangre. Si están dañados, los desechos y los líquidos se acumulan en la sangre en lugar de salir del organismo.
+El daño renal ocasionado por la diabetes se denomina nefropatía diabética. Comienza a ocurrir mucho antes de que aparezcan los síntomas. Las personas con diabetes deben someterse a pruebas periódicas para detectarla. Las
+pruebas
+incluyen un examen de orina y un análisis de sangre para ver qué tan bien los riñones están funcionando.
+Si el daño continúa, los riñones pueden fallar. De hecho, la diabetes es la causa más común de
+insuficiencia renal
+en los Estados Unidos. Las personas con insuficiencia renal requieren
+diálisis
+o un
+trasplante renal
+.
+Es posible retrasar el progreso del daño renal o impedir que empeore. Controlar la glucemia y la presión arterial, tomar los medicamentos y no comer demasiadas
+proteínas
+puede ayudar.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+- Sistema endocrino
+- Diabetes mellitus
+
+Related Resources:
+
+Resource: Análisis de orina: Cociente microalbúmina/creatinina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-mtc-ratio.html
+
+Resource: Diabetes y enfermedad renal
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000494.htm
+
+Resource: Enfermedad de los riñones causada por la diabetes
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/rinones
+
+Resource: Examen con tira reactiva de proteína en la orina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003580.htm
+
+Resource: Examen de electroforesis de proteínas en la orina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003589.htm
+
+Resource: Examen de microalbuminuria
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003591.htm
+
+Resource: Prueba de creatinina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-creatinina/
+
+Resource: Pruebas y exámenes para los riñones: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/kidneytests.html
+
+Resource: Riñones y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/rinones-funcionamiento
+
+Resource: Síndrome nefrótico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000490.htm

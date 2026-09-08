@@ -1,0 +1,121 @@
+Title: Vitamins
+
+Summary:
+Vitamins are substances that your body needs to grow and develop normally. There are 13 vitamins your body needs. They are:
+Vitamin A
+B vitamins
+(thiamine, riboflavin, niacin, pantothenic acid, biotin, vitamin B-6, vitamin B-12 and
+folate
+)
+Vitamin C
+Vitamin D
+Vitamin E
+Vitamin K
+You can usually get all your vitamins from the foods you eat. Your body can also make vitamins D and K. People who eat a
+vegetarian diet
+may need to take a vitamin B12 supplement.
+Each vitamin has specific jobs. If you have low levels of certain vitamins, you may  get health problems. For example, if you don't get enough vitamin C, you could become anemic. Some vitamins may help prevent medical problems. Vitamin A prevents night blindness.
+The best way to get enough vitamins is to eat a balanced diet with a variety of foods. In some cases, you may need to take vitamin supplements.  It's a good idea to ask your health care provider first.  High doses of some vitamins can cause problems.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Vitamins
+- Micronutrients
+
+Related Resources:
+
+Resource: Can Vitamins Help Prevent a Heart Attack?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/heart-disease/expert-answers/prevent-heart-attack/faq-20058253?p=1
+
+Resource: ClinicalTrials.gov: Micronutrients
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=micronutrients&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vitamins
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=vitamins&aggFilters=status:not%20rec
+
+Resource: Definitions of Health Terms: Vitamins
+Category: Reference Desk
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/definitions/vitaminsdefinitions.html
+
+Resource: Dietary Supplement Label Database (DSLD)
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://dsld.od.nih.gov/
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Foods for Eye Health
+Category: Related Issues
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/wellness/healthful-habits/5-top-foods-for-eye-health
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Prenatal Vitamins: OK for Women Who Aren't Pregnant?
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/prenatal-vitamins/faq-20057922?p=1
+
+Resource: Prenatal Vitamins: Why They Matter, How to Choose
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-vitamins/art-20046945?p=1
+
+Resource: Vitamins
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vitamins%2Ftherapeutic+use%22%5Bmajr%3Anoexp%5D+OR+%22Micronutrients%2Ftherapeutic+use%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Vitamin and Mineral Supplement Fact Sheets
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/list-VitaminsMinerals/
+
+Resource: Vitamin Deficiency Anemia
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: Vitamins
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002399.htm
+
+Resource: Vitamins
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/vitamin.html
+
+Resource: Vitamins and Minerals
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/vitamins-minerals.html
+
+Resource: Vitamins and Minerals: How to Get What You Need
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/vitamins-and-minerals-how-to-get-what-you-need/

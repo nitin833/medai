@@ -1,0 +1,324 @@
+Title: Knee Injuries and Disorders
+
+Summary:
+Your knee joint is made up of bone, cartilage, ligaments and fluid. Muscles and tendons help the knee joint move. When any of these structures is hurt or diseased, you have knee problems. Knee problems can cause pain and difficulty walking.
+Knee problems are very common, and they occur in people of all ages. Knee problems can interfere with many things, from participation in sports to simply getting up from a chair and walking. This can have a big impact on your life.
+The most common disease affecting the knee is
+osteoarthritis
+. The cartilage in the knee gradually wears away, causing pain and swelling.
+Injuries to ligaments and tendons also cause knee problems. A common injury is to the anterior cruciate ligament (ACL). You usually injure your ACL by a sudden twisting motion. ACL and other knee injuries are common
+sports injuries
+.
+Treatment of knee problems depends on the cause. In some cases your doctor may recommend
+knee replacement
+.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Anterior Cruciate Ligament Reconstruction
+- Knee Injuries
+
+Related Resources:
+
+Resource: ACL Injury
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/acl-injury/
+
+Resource: ACL Injury: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acl-injury/diagnosis-treatment/drc-20350744?p=1
+
+Resource: ACL reconstruction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007208.htm
+
+Resource: ACL reconstruction - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000189.htm
+
+Resource: Anterior crucate ligament (ACL) injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001074.htm
+
+Resource: Anterior cruciate ligament (ACL) injury -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000681.htm
+
+Resource: Anterior Cruciate Ligament (ACL) Tears
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/acl-injuries.html
+
+Resource: Anterior cruciate ligament repair - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100230_1.htm
+
+Resource: Anterior knee pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000452.htm
+
+Resource: Baker cyst
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001222.htm
+
+Resource: Baker Cyst
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bakers-cyst/symptoms-causes/syc-20369950?p=1
+
+Resource: Broken kneecap - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000582.htm
+
+Resource: ClinicalTrials.gov: Anterior Cruciate Ligament (ACL) Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anterior+Cruciate+Ligament%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Anterior Cruciate Ligament Reconstruction
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anterior+Cruciate+Ligament+Reconstruction%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Articular Cartilage Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cartilage,+Articular%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Knee Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=knee+injuries&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Menisci, Tibial
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Menisci,+Tibial%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Patella Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Patella%22&aggFilters=status:not%20rec
+
+Resource: Collateral ligament (CL) injury -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000671.htm
+
+Resource: Common Knee Injuries
+Category: Start Here
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/common-knee-injuries
+
+Resource: Direct Arthrography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/arthrog
+
+Resource: Find a Doctor in American Association of Hip and Knee Surgeons
+Category: Find an Expert
+Organization: American Association of Hip and Knee Surgeons
+URL: https://findadoctor.aahks.net
+
+Resource: Getting your home ready - knee or hip surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000167.htm
+
+Resource: Iliotibial Band Syndrome (For Parents)
+Category: Treatments and Therapies, Symptoms
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/iliotibial-band-syndrome.html
+
+Resource: Iliotibial band syndrome -- aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000683.htm
+
+Resource: Knee arthroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002972.htm
+
+Resource: Knee Arthroscopy
+Category: Treatments and Therapies
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/treatment/knee-arthroscopy/
+
+Resource: Knee arthroscopy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000199.htm
+
+Resource: Knee arthroscopy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100117_1.htm
+
+Resource: Knee CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007345.htm
+
+Resource: Knee Injuries (for parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/knee-injuries.html
+
+Resource: Knee microfracture surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007255.htm
+
+Resource: Knee MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/kneemr
+
+Resource: Knee MRI scan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007361.htm
+
+Resource: Knee pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003187.htm
+
+Resource: Knee Pain Myths & Facts Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003187_56.htm
+
+Resource: Knee Problems
+Category: Start Here, Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/knee-problems/
+
+Resource: Knee Rehabilitation Exercises
+Category: Living With
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/recovery/knee-conditioning-program/knee-pdf/
+
+Resource: Knee Replacement: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kneereplacement.html
+
+Resource: Kneecap dislocation - aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000585.htm
+
+Resource: Medial Collateral Ligament (MCL) Injuries
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/mcl-injuries.html
+
+Resource: Meniscal allograft transplantation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007209.htm
+
+Resource: Meniscus Tears
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/meniscus-tear.html
+
+Resource: Meniscus tears - aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000684.htm
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Osgood-Schlatter disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001258.htm
+
+Resource: Osgood-Schlatter Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/osgood.html
+
+Resource: Osgood-Schlatter Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/osgood.html
+
+Resource: Osteochondritis Dissecans
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/osteochondritis-dissecans/
+
+Resource: Osteochondritis Dissecans (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/osteochondritis-dissecans.html
+
+Resource: Osteotomy of the knee
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007499.htm
+
+Resource: Patellar Tendinitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/patellar-tendinitis/symptoms-causes/syc-20376113?p=1
+
+Resource: Patellofemoral Pain Syndrome (Runner's Knee)(for parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/runners-knee.html
+
+Resource: Posterior Cruciate Ligament (PCL) Injuries
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/posterior-cruciate-ligament-injuries/
+
+Resource: Posterior cruciate ligament (PCL) injury -- aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000680.htm
+
+Resource: Knee injuries and disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Knee+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Anterior+Cruciate+Ligament+Reconstruction%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Swollen Knee
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/swollen-knee/symptoms-causes/syc-20378129?p=1
+
+Resource: Tibial osteotomy - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100223_1.htm
+
+Resource: X-Ray Exam: Knee (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-knee.html

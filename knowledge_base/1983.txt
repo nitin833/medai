@@ -1,0 +1,100 @@
+Title: Síndrome del intestino irritable
+
+Also Called:
+- Síndrome del colon irritable
+
+Summary:
+El síndrome del intestino irritable  es un problema que afecta al intestino grueso. Puede causar cólicos abdominales, distensión y cambios en los hábitos intestinales. Algunas personas con este trastorno tienen estreñimiento, otras tienen diarrea. Algunas pasan de un cuadro de estreñimiento a uno de diarrea. Aun cuando el síndrome del intestino irritable puede causar muchas molestias, no daña el intestino.
+El síndrome del intestino irritable es un cuadro común. Las mujeres lo sufren el doble más que en los hombres, y es más común en personas menores de 45 años. No se conoce la causa exacta de este síndrome, ni tampoco existe una prueba específica para diagnosticarlo. Su médico puede realizar exámenes para estar seguros que no tiene otras enfermedades. Estas pruebas pueden incluir análisis de heces, de sangre y radiografías. El médico también puede practicarle un estudio llamado sigmoidoscopía o
+colonoscopía
+. La mayoría de las personas con diagnóstico de síndrome del intestino irritable puede controlar sus síntomas con dieta, manejo del estrés, probióticos y medicinas.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alimentación, dieta y nutrición para el síndrome de intestino irritable
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable/alimentos-dietas-nutricion
+
+Resource: Colon irritable: ¿qué significa?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/irritable-bowel-syndrome/expert-answers/spastic-colon/faq-20058473?p=1
+
+Resource: Colonoscopía: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/colonoscopy.html
+
+Resource: Cuestionario sobre mitos y realidades del SII
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000246_95.htm
+
+Resource: Definición e información para el síndrome del intestino irritable
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable/definicion-hechos
+
+Resource: Diagnóstico del síndrome de intestino irritable
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable/diagnostico
+
+Resource: Dieta baja en FODMAP
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000984.htm
+
+Resource: Prueba de calprotectina fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calprotectina-fecal/
+
+Resource: SII: Lo que debe saber
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/sii-lo-que-deber-saber
+
+Resource: Síndrome de intestino irritable en niños
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable-ninos/sintomas-causas
+
+Resource: Síndrome de intestino irritable: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/irritable-bowel-syndrome/diagnosis-treatment/drc-20360064?p=1
+
+Resource: Síndrome del intestino irritable
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000246.htm
+
+Resource: Síndrome del intestino irritable
+Category: Spanish/Español, Mujeres
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/irritable-bowel-syndrome
+
+Resource: Síndrome del intestino irritable (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ibs.html
+
+Resource: Síntomas y causas del síndrome de intestino irritable
+Category: Síntomas, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable/sintomas-causas
+
+Resource: Tratamiento para el síndrome de intestino irritable
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/sindrome-intestino-irritable/tratamiento
+
+Resource: ¿Respondes con el intestino? Algunos consejos de cómo manejar un intestino irritable
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Internacional para los Trastornos Gastrointestinales
+URL: https://iffgd.org/resources/en-espanol/respondes-con-el-intestinoae/

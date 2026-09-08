@@ -1,0 +1,99 @@
+Title: Dolor de pecho
+
+Summary:
+Tener dolor en el pecho puede asustarlo. Pero no significa que usted esté sufriendo un
+ataque al corazón
+. Hay muchas otras razones:
+Otros problemas del corazón como la
+angina
+Ataques de
+pánico
+Problemas digestivos como
+acidez
+o
+enfermedades del esófago
+Músculos adoloridos
+Enfermedades de los pulmones, como
+neumonía
+,
+pleuresía
+o
+embolismo pulmonar
+Costocondritis: una inflamación de las articulaciones del pecho
+Algunos de estos problemas pueden ser serios. Solicite atención médica urgente si el dolor de pecho no se va, si siente presión o compresión o si el dolor de pecho viene acompañado de náusea, sudor, mareo o falta de aire. El tratamiento del dolor de pecho dependerá de la causa del dolor.
+
+Groups:
+- Sangre, corazón y circulación
+- Síntomas
+
+Related Resources:
+
+Resource: Angiografía coronaria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003876.htm
+
+Resource: Ardor de estómago o ataque cardíaco: Cuándo preocuparse
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/heartburn/in-depth/heartburn-gerd/art-20046483?p=1
+
+Resource: Costocondritis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/costochondritis.html
+
+Resource: Costocondritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000164.htm
+
+Resource: Dolor de pecho: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-chest-pain/basics/art-20056705?p=1
+
+Resource: Dolor en el pecho
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chest-pain/symptoms-causes/syc-20370838?p=1
+
+Resource: Dolor en la caja torácica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003109.htm
+
+Resource: Dolor torácico
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003079.htm
+
+Resource: Dolor torácico en niños y adolescentes (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/chest-pain.html
+
+Resource: Examen de creatina-fosfocinasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003503.htm
+
+Resource: Examen de isoenzimas de la creatina-fosfocinasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003504.htm
+
+Resource: Pruebas de esfuerzo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-esfuerzo/
+
+Resource: ¿Qué es la angina?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/angina
+
+Resource: ¿Qué es la inflamación cardíaca?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/inflamacion-cardiaca

@@ -1,0 +1,80 @@
+Title: Aneurysms
+
+Summary:
+An aneurysm is a bulge or "ballooning" in the wall of an artery. Arteries are blood vessels that carry oxygen-rich blood from the heart to other parts of the body. If an aneurysm grows large, it can burst and cause dangerous bleeding or even death.
+Most aneurysms occur in the
+aorta
+, the main artery that runs from the heart through the chest and abdomen. Aneurysms also can happen in arteries in the brain, heart and other parts of the body. If an aneurysm in the
+brain
+bursts, it causes a
+stroke
+.
+Aneurysms can develop and become large before causing any symptoms.  Often doctors can stop aneurysms from bursting if they find and treat them early. They use imaging tests to find aneurysms.  Often aneurysms are found by chance during tests done for other reasons.   Medicines and surgery are the two main treatments for aneurysms.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Aneurysm
+
+Related Resources:
+
+Resource: Aneurysm
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001122.htm
+
+Resource: Aneurysm Repair
+Category: Treatments and Therapies
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/aneurysm-repair/
+
+Resource: Catheter Embolization
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/cathembol
+
+Resource: ClinicalTrials.gov: Aneurysm
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Aneurysm%22&aggFilters=status:not%20rec
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Magnetic resonance angiography
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007269.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pseudoaneurysm: What Causes It?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cardiac-catheterization/expert-answers/pseudoaneurysm/faq-20058420?p=1
+
+Resource: Aneurysms, aneurysms
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Aneurysm%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Ultrasound -- Vascular
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/vascularus
+
+Resource: What Is an Aneurysm?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/aortic-aneurysm/what-is-an-aneurysm

@@ -1,0 +1,159 @@
+Title: Secondhand Smoke
+
+Also Called:
+- Environmental tobacco smoke
+- Passive smoking
+- Tobacco smoke pollution
+
+Summary:
+Secondhand smoke is a mixture of the smoke that comes from the burning end of a cigarette, cigar, or pipe, and the smoke breathed out by the smoker.  It contains more than 7,000 chemicals. Hundreds of those chemicals are toxic and about 70 can cause cancer.
+Health effects of secondhand smoke include:
+Ear infections in children
+More frequent and severe asthma attacks in children
+Heart disease and lung cancer in adults who have never smoked
+There is no safe amount of secondhand smoke. Even low levels of it can be harmful. The only way to fully protect nonsmokers from secondhand smoke is not to allow
+smoking
+indoors.
+Centers for Disease Control and Prevention
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Tobacco Smoke Pollution
+
+Related Resources:
+
+Resource: About Secondhand Smoke
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/secondhand-smoke/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Tobacco Smoke Pollution
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22secondhand+smoke%22&aggFilters=status:not%20rec
+
+Resource: Health Harms from Secondhand Smoke
+Category: Related Issues
+Organization: Campaign for Tobacco-Free Kids
+URL: https://assets.tobaccofreekids.org/factsheets/0103.pdf
+
+Resource: Health Problems Caused by Secondhand Smoke
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/secondhand-smoke/health.html
+
+Resource: Health Risks of Secondhand Smoke
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/tobacco/secondhand-smoke.html
+
+Resource: How Long Do the Harmful Elements of Secondhand Smoke/Aerosol Linger Indoors?
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/how-long-do-harmful-elements-secondhand-smokeaerosol-linger-indoors
+
+Resource: How Smoking Harms Your Child
+Category: Children
+Organization: National Cancer Institute, Tobacco Control Research Branch
+URL: https://smokefree.gov/quit-smoking/why-you-should-quit/how-smoking-harms-your-child
+
+Resource: Is Outdoor Exposure to Secondhand Smoke/Aerosol Comparable to Indoors?
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/outdoor-exposure-secondhand-smokeaerosol-comparable-indoors
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Preventing Exposure to Secondhand Smoke in the Home
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/secondhand-smoke/home.html
+
+Resource: Secondhand Smoke
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tobacco+Smoke+Pollution%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risks of tobacco
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002032.htm
+
+Resource: Secondhand Smoke
+Category: Start Here
+Organization: National Cancer Institute, Tobacco Control Research Branch
+URL: https://smokefree.gov/quit-smoking/why-you-should-quit/secondhand-smoke
+
+Resource: Secondhand Smoke
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/secondhand-smoke.html
+
+Resource: Secondhand Smoke and Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/tobacco/second-hand-smoke-fact-sheet
+
+Resource: Secondhand Smoke and Electronic-Cigarette Aerosols
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/secondhand-smoke-and-electronic-cigarette-aerosols
+
+Resource: Secondhand Smoke Exposure
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://progressreport.cancer.gov/prevention/tobacco/smoke_exposure
+
+Resource: Secondhand Tobacco Smoke (Environmental Tobacco Smoke)
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/secondhand-smoke
+
+Resource: Smoking and asthma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000504.htm
+
+Resource: Smoking and COPD
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000696.htm
+
+Resource: Tobacco Smoke, Vaping, and Asthma
+Category: Related Issues
+Organization: Asthma and Allergy Foundation of America
+URL: https://aafa.org/asthma/asthma-triggers-causes/secondhand-smoke-environmental-tobacco-asthma/
+
+Resource: Trends and Disparities in Secondhand Smoke
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tobacco/secondhand-smoke/disparities.html
+
+Resource: What Can I Do about Secondhand Smoke/Aerosol Exposure Coming From My Neighbor's Apartment?
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/what-can-i-do-about-secondhand-smokeaerosol-exposure-coming-my-neighbors
+
+Resource: What is Thirdhand Smoke, and Why Is It a Concern?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/nicotine-dependence/expert-answers/third-hand-smoke/faq-20057791?p=1

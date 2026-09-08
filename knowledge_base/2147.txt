@@ -1,0 +1,137 @@
+Title: Sinusitis
+
+Also Called:
+- Infección de los senos paranasales
+
+Summary:
+Sinusitis consiste en la inflamación de los senos paranasales. Esto puede ser por una infección u otro problema. Los senos paranasales son espacios huecos donde pasa el aire por el interior de los huesos que rodean la nariz. Producen secreción mucosa que drena hacia la nariz. Si la nariz está inflamada, puede bloquear los senos paranasales y causar dolor.
+Hay varios tipos de sinusitis, incluyendo:
+Aguda, que dura hasta cuatro semanas
+Subaguda, que dura de cuatro a 12 semanas
+Crónica, que dura más de 12 semanas y puede continuar durante meses o incluso años
+Recurrente, con varios ataques dentro de un año
+La sinusitis aguda suele comenzar como un resfriado, que luego se convierte en una infección bacteriana. Alergias, problemas nasales y ciertas enfermedades también pueden causar sinusitis aguda y crónica.
+Los síntomas de la sinusitis pueden incluir fiebre, debilidad, fatiga, tos y congestión. También puede haber drenaje de mucosidad en la parte posterior de la garganta, llamada goteo retronasal. Los médicos diagnostican sinusitis según sus síntomas y el examen de la nariz y la cara. Usted también puede necesitar pruebas de imagen. Los tratamientos incluyen antibióticos, descongestionantes y analgésicos. El uso de almohadillas de calor en la zona inflamada, aerosoles nasales salinos y vaporizadores también puede ayudar.
+
+Groups:
+- Personas mayores
+- Infecciones
+- Pulmón y vías respiratorias
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Atención postratamiento para la sinusitis en adultos
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000563.htm
+
+Resource: Cómo congestiona la sinusitis
+Category: Spanish/Español, Imágenes
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/Aaaai/media/MediaLibrary/Images/illustrations/Sinusitis-spanish.pdf
+
+Resource: Diferencia entre un resfriado y una sinusitis bacteriana
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/ear-nose-throat/paginas/the-difference-between-sinusitis-and-a-cold.aspx
+
+Resource: Dolor de cabeza sinusal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nacional de la Cefalea
+URL: https://headaches.org/blog/dolor-de-cabeza-sinusal/
+
+Resource: Dolores de cabeza sinusales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sinus-headaches/symptoms-causes/syc-20377580?p=1
+
+Resource: Infección de los senos paranasales y dolor de muelas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/acute-sinusitis/expert-answers/toothache/faq-20058299?p=1
+
+Resource: Información básica sobre la sinusitis (infección de los senos paranasales)
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/sinus-infection/es/about/informacion-basica-sobre-la-sinusitis-infeccion-de-los-senos-paranasales.html
+
+Resource: Las maravillas de la mucosidad y la flema
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-maravillas-de-la-mucosidad-y-la-flema
+
+Resource: Lavados nasales con solución salina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000801.htm
+
+Resource: Radiografía de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003803.htm
+
+Resource: Rayos X panorámicos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/panoramic-xray
+
+Resource: Resfríos, alergias y sinusitis: Cómo diferenciarlas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/resfrios-alergias-y-sinusitis
+
+Resource: Resonancia magnética de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007356.htm
+
+Resource: Rinorrea o congestión nasal en adultos
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003049.htm
+
+Resource: Rinorrea o congestión nasal en niños
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003051.htm
+
+Resource: Sinusitis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sinusitis.html
+
+Resource: Sinusitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000647.htm
+
+Resource: Sinusitis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sinusitis.html
+
+Resource: Sinusitis aguda
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/acute-sinusitis/symptoms-causes/syc-20351671?p=1
+
+Resource: Sinusitis crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chronic-sinusitis/symptoms-causes/syc-20351661?p=1
+
+Resource: TC de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/sinusct
+
+Resource: Tomografía computarizada de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007349.htm
+
+Resource: Tratamiento de lavados nasales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Organización Nacional Judía de la Salud
+URL: https://www.nationaljewish.org/education/health-information/espanol/tratamiento-de-lavados-nasales

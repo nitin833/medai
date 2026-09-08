@@ -1,0 +1,95 @@
+Title: Friedreich Ataxia
+
+Summary:
+Friedreich ataxia is an inherited disease that damages your nervous system. The damage affects your spinal cord and the nerves that control muscle movement in your arms and legs.  Symptoms usually begin between the ages of 5 and 15. The main symptom is ataxia, which means trouble coordinating movements. Specific symptoms include:
+Difficulty walking
+Muscle weakness
+Speech problems
+Involuntary eye movements
+Scoliosis (curving of the spine to one side)
+Heart palpitations, from the heart disease which can happen along with Friedreich ataxia
+People with Friedreich ataxia usually need a wheelchair 15 to 20 years after symptoms first appear. In severe cases, people become incapacitated. There is no cure. You can treat symptoms with medicines, braces, surgery, and physical therapy.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Friedreich Ataxia
+
+Related Resources:
+
+Resource: Approved Treatment
+Category: Treatments and Therapies
+Organization: Friedreich's Ataxia Research Alliance
+URL: https://www.curefa.org/understanding-fa/managing-fa/approved-treatment/
+
+Resource: ClinicalTrials.gov: Friedreich Ataxia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Friedreich+Ataxia%22&aggFilters=status:not%20rec
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: Friedreich Ataxia
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/friedreich-ataxia
+
+Resource: Friedreich ataxia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001411.htm
+
+Resource: Friedreich ataxia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/friedreich-ataxia/
+
+Resource: Friedreich's Ataxia (FRDA)
+Category: Start Here
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/friedreichs-ataxia
+
+Resource: Friedreich's Ataxia (FRDA): Diagnosis
+Category: Diagnosis and Tests
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/friedreichs-ataxia/diagnosis
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Managing Friedreich's Ataxia
+Category: Treatments and Therapies
+Organization: Friedreich's Ataxia Research Alliance
+URL: https://www.curefa.org/understanding-fa/managing-fa/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Newly Diagnosed
+Category: Diagnosis and Tests
+Organization: Friedreich's Ataxia Research Alliance
+URL: https://www.curefa.org/understanding-fa/newly-diagnosed/
+
+Resource: Friedreich Ataxia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Friedreich+Ataxia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Terms to Know (Glossary)
+Category: Reference Desk
+Organization: Friedreich's Ataxia Research Alliance
+URL: https://www.curefa.org/understanding-fa/terms-to-know-glossary/
+
+Resource: Treatment Pipeline
+Category: Treatments and Therapies
+Organization: Friedreich's Ataxia Research Alliance
+URL: https://www.curefa.org/drug-development/

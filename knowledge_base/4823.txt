@@ -1,0 +1,143 @@
+Title: Palliative Care
+
+Summary:
+Palliative care is treatment of the discomfort, symptoms, and stress of serious illness.  It provides relief from distressing symptoms including:
+Pain
+Shortness of breath
+Fatigue
+Constipation
+Nausea
+Loss of appetite
+Problems with sleep
+It can also help you deal with the side effects of the medical treatments you're receiving.
+Hospice care
+, care at the end of life, always includes palliative care.  But you may receive palliative care at any stage of an illness.  The goal is to make you comfortable and improve your quality of life.
+NIH: National Institute of Nursing Research
+
+Groups:
+- Health System
+- Personal Health Issues
+
+MeSH Headings:
+- Palliative Care
+
+Related Resources:
+
+Resource: 3 Tips for Families Considering Palliative Care
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/3-tips-for-families-considering-palliative-care
+
+Resource: ClinicalTrials.gov: Palliative Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22palliative+care%22&aggFilters=status:not%20rec
+
+Resource: Comfort Care for Kids and Their Families: A Mother's Story
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/comfort-care-for-kids-and-their-families-a-mothers-story
+
+Resource: Find a Provider
+Category: Find an Expert
+Organization: National Alliance for Care at Home
+URL: https://allianceforcareathome.org/find-a-provider/
+
+Resource: Finding Family Support Resource Card
+Category: Patient Handouts
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/sites/default/files/NINR_508c_Finding-Support-updated-jan2016.pdf
+
+Resource: Is Palliative Care Right for You?
+Category: Health Check Tools
+Organization: Center to Advance Palliative Care
+URL: https://getpalliativecare.org/rightforyou/
+
+Resource: Meet the Palliative Care Team
+Category: Related Issues
+Organization: Center to Advance Palliative Care
+URL: https://getpalliativecare.org/howtoget/palliative-care-team-family-meeting/
+
+Resource: National Alliance for Care at Home
+Category: Find an Expert
+Organization: National Alliance for Care at Home
+URL: https://allianceforcareathome.org/
+
+Resource: National Institute of Nursing Research
+Category: Find an Expert
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/
+
+Resource: Palliative care - fear and anxiety
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000470.htm
+
+Resource: Palliative care - fluid, food, and digestion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000531.htm
+
+Resource: Palliative care - managing pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000532.htm
+
+Resource: Palliative care - shortness of breath
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000471.htm
+
+Resource: Palliative care - what the final days are like
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000533.htm
+
+Resource: Palliative Care for Children: Support for the Whole Family When Your Child Is Living with a Serious Illness
+Category: Children
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/sites/default/files/docs/NINR_508cBrochure_2015-7-7.pdf
+
+Resource: Palliative Care in Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet
+
+Resource: Palliative Care: The Relief You Need When You Have a Serious Illness
+Category: Start Here
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/sites/default/files/docs/palliative-care-brochure.pdf
+
+Resource: Pediatric Palliative Care at a Glance
+Category: Patient Handouts
+Organization: National Institute of Nursing Research
+URL: https://www.ninr.nih.gov/sites/default/files/NINR_508c_AtaGlance.pdf
+
+Resource: Palliative Care
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Palliative+Care%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shortness-of-Breath
+Category: Specifics
+Organization: Center to Advance Palliative Care
+URL: https://getpalliativecare.org/shortness-of-breath/
+
+Resource: What Is Palliative Care?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/what-is-palliative-care
+
+Resource: What is palliative care?
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000536.htm
+
+Resource: What Is Palliative Care?
+Category: Start Here
+Organization: Center to Advance Palliative Care
+URL: https://getpalliativecare.org/whatis/
+
+Resource: What Is Palliative Care? We Asked a Professional
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/what-is-palliative-care-we-asked-a-professional
+
+Resource: Who's on Your Palliative Care Team?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/whos-on-your-palliative-care-team

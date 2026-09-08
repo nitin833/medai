@@ -1,0 +1,95 @@
+Title: Pemphigus
+
+Summary:
+Pemphigus is an
+autoimmune disorder
+. If you have it, your immune system attacks healthy cells in your skin and mouth, causing blisters and sores. No one knows the cause. Pemphigus does not spread from person to person. It does not appear to be inherited. But some people's genes put them more at risk for pemphigus.
+Pemphigoid is also an autoimmune skin disease. It leads to deep blisters that do not break easily. Pemphigoid is most common in older adults and may be fatal for older, sick patients.
+Doctors diagnose pemphigus with a physical exam, a biopsy, and blood tests. The treatment of pemphigus and pemphigoid is the same: one or more medicines to control symptoms. These may include:
+Steroids
+, which reduce inflammation
+Drugs that suppress the immune system response
+Antibiotics to treat associated infections
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Skin, Hair and Nails
+- Immune System
+
+MeSH Headings:
+- Pemphigoid Gestationis
+- Pemphigoid, Benign Mucous Membrane
+- Pemphigus
+- Pemphigoid, Bullous
+- Pemphigus, Benign Familial
+
+Related Resources:
+
+Resource: Benign Mucous Membrane Pemphigoid
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/5913/mucous-membrane-pemphigoid
+
+Resource: Bullous Pemphigoid
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/BullousPemphigoid?
+
+Resource: Bullous pemphigoid
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000883.htm
+
+Resource: ClinicalTrials.gov: Pemphigoid, Benign Mucous Membrane
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pemphigoid,+Benign+Mucous+Membrane%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pemphigoid, Bullous
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pemphigoid,+Bullous%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pemphigus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pemphigus%22&aggFilters=status:not%20rec
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Hailey-Hailey Disease (Benign Chronic Pemphigus)
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/HaileyHaileyDiseas?
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nikolsky sign
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003285.htm
+
+Resource: Pemphigus
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/pemphigus
+
+Resource: Pemphigus vulgaris
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000882.htm
+
+Resource: Pemphigus Vulgaris
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/pemphigus-vulgaris/?Imiw9cApl=1
+
+Resource: Pemphigus
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pemphigus%22%5Bmajr%3Anoexp%5D+OR+%22Pemphigoid%2C+Bullous%22%5Bmajr%3Anoexp%5D+OR+%22Pemphigus%2C+Benign+Familial%22%5Bmajr%3Anoexp%5D+OR+%22Pemphigoid%2C+Benign+Mucous+Membrane%22%5Bmajr%3Anoexp%5D+OR+%22Pemphigoid+Gestationis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

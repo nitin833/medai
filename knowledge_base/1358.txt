@@ -1,0 +1,123 @@
+Title: Teen Violence
+
+Also Called:
+- Youth violence
+
+Summary:
+Teen violence refers to harmful behaviors that can start early and continue into young adulthood. The young person can be a victim, an offender, or a witness to the violence.
+Violent acts can include:
+Bullying
+Fighting, including punching, kicking, slapping, or hitting
+Use of weapons such as guns or knives
+Some violent acts can cause more emotional harm than physical harm. Others can lead to serious injury or even death.
+An important risk factor for violence in teens is the behavior of their friends and classmates. You should know who your kids hang out with and encourage healthy behavior and relationships.
+Centers for Disease Control and Prevention
+
+Groups:
+- Children and Teenagers
+- Social/Family Issues
+
+MeSH Headings:
+- Adolescent Behavior
+- Violence
+
+Related Resources:
+
+Resource: About School Violence
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/youth-violence/about/about-school-violence.html
+
+Resource: About Teen Dating Violence
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/intimate-partner-violence/about/about-teen-dating-violence.html
+
+Resource: Children and Guns/Firearms
+Category: Related Issues
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-And-Guns-Firearms-037.aspx
+
+Resource: ClinicalTrials.gov: Teen Violence
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=violence&term=teen&aggFilters=status:not%20rec
+
+Resource: Common Reactions After Trauma
+Category: Start Here
+Organization: National Center for PTSD
+URL: https://www.ptsd.va.gov/understand/isitptsd/common_reactions.asp
+
+Resource: Expect Respect: Healthy Relationships
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/teen/dating-sex/pages/Expect-Respect-Healthy-Relationships.aspx
+
+Resource: Helping Children and Adolescents Cope With Traumatic Events
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events
+
+Resource: Highlights of the 2012 National Youth Gang Survey
+Category: Statistics and Research
+Organization: Department of Justice
+URL: https://ojjdp.ojp.gov/sites/g/files/xyckuh176/files/pubs/248025.pdf
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Teen Violence
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Adolescent+Behavior%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+%22Violence%22%5Bmajr%3Anoexp%5D+AND+adolescence+%5Bmh%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Report on Indicators of School Crime and Safety: 2023
+Category: Statistics and Research
+Organization: Department of Education
+URL: https://nces.ed.gov/pubs2024/2024145.pdf
+
+Resource: School Violence: What Students Can Do
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/school-violence.html
+
+Resource: Screen Violence and Children
+Category: Related Issues
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Screen_Violence_Children-013.aspx
+
+Resource: Sexual Harassment
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/harassment.html
+
+Resource: Teen Dating Violence and Drug Use
+Category: Related Issues
+Organization: Drug Enforcement Administration
+URL: https://www.getsmartaboutdrugs.gov/family/teen-dating-violence-and-drug-use
+
+Resource: Threats by Children: When Are They Serious?
+Category: Prevention and Risk Factors
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx
+
+Resource: Violent Behavior in Children and Adolescents
+Category: Start Here
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Understanding-Violent-Behavior-In-Children-and-Adolescents-055.aspx
+
+Resource: Youth and Teens Page
+Category: Teenagers
+Organization: National Runaway Safeline
+URL: https://www.1800runaway.org/youth-teens
+
+Resource: Youth Risk Behavior Surveillance System
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yrbs/

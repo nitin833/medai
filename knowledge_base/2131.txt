@@ -1,0 +1,61 @@
+Title: Seguridad
+
+Summary:
+Es imposible eliminar todos los peligros en la vida, pero se pueden disminuir. Si se toman las siguientes medidas, se pueden evitar los peligros mayores y prepararse para emergencias:
+Conserve los números telefónicos de emergencia cerca de sus teléfonos
+Prepare un botiquín de primeros auxilios para su casa
+Prepare un plan familiar de emergencia
+Instale y mantenga activados los detectores de
+humo
+y de
+monóxido de carbono
+Mantenga las armas descargadas y bajo llave. Guarde las municiones separadamente bajo llave
+Siga cuidadosamente las instrucciones cuando utilice herramientas o equipos
+Los
+niños
+pequeños corren riesgos especiales. La supervisión es la mejor manera de mantenerlos seguros. Preparar la casa con protección especial para niños también puede ayudar.
+
+Groups:
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Armas de fuego en el hogar: Cómo mantener seguros a sus hijos
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-home/paginas/handguns-in-the-home.aspx
+
+Resource: Armas de fuego y seguridad
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/gun-safety.html
+
+Resource: Consejos de seguridad para mantener abrigados a los niños en el invierno
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Winter-Safety.aspx
+
+Resource: Permanecer seguro en el hogar
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000924.htm
+
+Resource: Seguridad del niño: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/childsafety.html
+
+Resource: Seguridad en casa: Cómo prevenir las heridas por arma de fuego
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-firearms.html
+
+Resource: Seguridad en casa: Sistemas eléctrico, de calefacción y refrigeración
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-electric.html
+
+Resource: Seguridad Peatonal
+Category: Más información, Spanish/Español
+Organization: Administración Nacional de Seguridad del Tráfico en las Carreteras
+URL: https://www.nhtsa.gov/es/seguridad-vial/seguridad-peatonal

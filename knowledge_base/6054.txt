@@ -1,0 +1,45 @@
+Title: Aftas bucales
+
+Summary:
+Las aftas son pequeñas llagas redondas que aparecen en la
+boca
+. Pueden aparecer dentro de la mejilla, debajo de la lengua o detrás de la garganta. Por lo general tienen un borde rojo y un centro gris. Pueden ser muy dolorosas. No son igual al
+herpes labial
+, que son causadas por el herpes simple.
+Las aftas no son contagiosas. Pueden salir por una infección viral. También pueden desencadenarse por estrés, alergias a los alimentos, falta de vitaminas y minerales, cambios hormonales o períodos menstruales. A veces la causa es desconocida.
+En la mayoría de los casos, las llagas desaparecen solas. Algunos ungüentos, cremas o enjuagues pueden aliviar el dolor. Si tiene aftas, evite la comida picante y condimentada, eso también puede ayudar.
+
+Groups:
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Afta
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/canker-sore/symptoms-causes/syc-20370615?p=1
+
+Resource: Afta: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/canker-sore/diagnosis-treatment/drc-20370620?p=1
+
+Resource: Aftas
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000998.htm
+
+Resource: Aftas (Estomaititis aftosa recurrente)
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Medicina Oral
+URL: https://www.aaom.com/assets/condition-information/spanishcankersores.pdf
+
+Resource: Aftas (Úlceras aftosas)(para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/canker.html
+
+Resource: Tratamiento de las aftas
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Medicina Oral
+URL: https://www.aaom.com/assets/condition-information/spanishtreatmentcankersores.pdf

@@ -1,0 +1,38 @@
+Title: Barotrauma
+
+Summary:
+El barotrauma es el daño al cuerpo provocado por cambios barométricos, es decir, de la presión del aire o del agua. Un tipo común de barotrauma es el de
+oído
+que es producido por un cambio de altitud y puede provocar dolor. Esto puede suceder cuando viaja en avión, va en coche por las montañas o bucea. Los buceadores también pueden sufrir de enfermedad por descompresión que afecta todo el cuerpo.
+Los síntomas más comunes del barotrauma incluyen:
+Dolor
+Sensación de taponamiento de los oídos
+Pérdida de la audición
+Mareo
+El tratamiento para el barotrauma de oído incluye masticar goma de mascar y bostezar. Algunos medicamentos, como los descongestionantes, pueden ayudar.
+
+Groups:
+- Oído, nariz y garganta
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Barotrauma del oído
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001064.htm
+
+Resource: Barotraumatismo
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/airplane-ear/symptoms-causes/syc-20351701?p=1
+
+Resource: Obstrucción de los oídos a grandes alturas
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002077.htm
+
+Resource: Viajar en avión y los oídos de su hijo
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/flying-ears.html

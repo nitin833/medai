@@ -1,0 +1,274 @@
+Title: Diabetes in Children and Teens
+
+Summary:
+Until recently, the common type of diabetes in children and teens was
+type 1
+. It was called juvenile diabetes. With Type 1 diabetes, the pancreas does not make insulin. Insulin is a hormone that helps glucose,or sugar, get into your cells to give them energy. Without insulin, too much
+sugar
+stays in the blood.
+Now younger people are also getting
+type 2 diabetes
+.  Type 2 diabetes used to be called adult-onset diabetes. But now it is becoming more common in children and teens, due to more
+obesity
+. With Type 2 diabetes, the body does not make or use insulin well.
+Children have a higher risk of type 2 diabetes if they  are overweight or have obesity, have a family history of diabetes, or are not active. Children who are African American, Hispanic, Native American/Alaska Native, Asian American, or Pacific Islander also have a higher risk. To lower the risk of type 2 diabetes in children:
+Have them maintain a healthy weight
+Be sure they are physically active
+Have them eat smaller portions of healthy foods
+Limit time with the TV, computer, and video
+Children and teens with type 1 diabetes may need to take insulin. Type 2 diabetes may be  controlled with diet and
+exercise
+. If not, patients will need to take oral
+diabetes medicines
+or insulin. A blood test called the
+A1C
+can check on how you are managing your diabetes.
+
+Groups:
+- Children and Teenagers
+- Endocrine System
+- Diabetes Mellitus
+
+MeSH Headings:
+- Diabetes Mellitus
+
+Related Resources:
+
+Resource: A1C test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003640.htm
+
+Resource: A1C: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/a1c.html
+
+Resource: Acanthosis Nigricans
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/acanthosis.html
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Being Active When You Have Diabetes
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/sports-diabetes.html
+
+Resource: Blood sugar test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003482.htm
+
+Resource: Carbohydrates and Diabetes (For Parents)
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/carbs-diabetes.html
+
+Resource: ClinicalTrials.gov: Diabetes in Children and Teens
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=diabetes&aggFilters=ages:child,status:not%20rec
+
+Resource: Counting carbohydrates
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000321.htm
+
+Resource: Diabetes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001214.htm
+
+Resource: Diabetes - keeping active
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000084.htm
+
+Resource: Diabetes - when you are sick
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000079.htm
+
+Resource: Diabetes -- Know When to Go to the ER
+Category: Living With
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/know-when-to-go/diabetes
+
+Resource: Diabetes and exercise
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000083.htm
+
+Resource: Diabetes Tests and Diagnosis
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis
+
+Resource: Diabetes type 2 - meal planning
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007429.htm
+
+Resource: Eating Smart When Your Child Has Diabetes
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/meal-plans-diabetes.html
+
+Resource: Giving an insulin injection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000660.htm
+
+Resource: Glucose tolerance test - non-pregnant
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003466.htm
+
+Resource: Glucose urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003581.htm
+
+Resource: Going to School When You Have Diabetes
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/school-diabetes.html
+
+Resource: High blood sugar - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000332.htm
+
+Resource: How to Stay Healthy With Type 1 Diabetes
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/treating-type1.html
+
+Resource: Insulin C-peptide test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003701.htm
+
+Resource: Ketones blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003498.htm
+
+Resource: Ketones in Blood
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-blood/
+
+Resource: Ketones in Urine
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ketones-in-urine/
+
+Resource: Ketones urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003585.htm
+
+Resource: Making Fingersticks and Insulin Shots Easier for Kids With Diabetes
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/injections-tests.html
+
+Resource: Managing Blood Sugars When Your Child Has Type 1 Diabetes
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diabetes-control.html
+
+Resource: Managing Diabetes
+Category: Prevention and Risk Factors
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes?dkrd=/health-information/diabetes/overview/managing-diabetes/4-steps
+
+Resource: Medicines for Diabetes
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/medicines-diabetes.html
+
+Resource: Microalbuminuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003591.htm
+
+Resource: Monogenic Diabetes (MODY & Neonatal Diabetes Mellitus)
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/monogenic-neonatal-mellitus-mody
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Oral hypoglycemics overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002588.htm
+
+Resource: Preventing Type 2 Diabetes in Kids
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/prevention-type-2/type-2-diabetes-in-kids.html
+
+Resource: Diabetes in Children and Teens
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetes+Mellitus%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Snacking when you have diabetes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000322.htm
+
+Resource: Sweeteners - sugar substitutes
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007492.htm
+
+Resource: Treating Type 2 Diabetes
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/treating-type2.html
+
+Resource: Type 1 diabetes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000305.htm
+
+Resource: Type 2 diabetes - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000328.htm
+
+Resource: Type 2 diabetes - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000217.htm
+
+Resource: Type 2 Diabetes Facts Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/001214_3.htm
+
+Resource: Understanding Diabetes
+Category: Videos and Tutorials
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/understanding-diabetes-video.html
+
+Resource: What Is Type 1 Diabetes?
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/type1.html
+
+Resource: What Is Type 2 Diabetes?
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/type2.html

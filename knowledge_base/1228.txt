@@ -1,0 +1,147 @@
+Title: Tinea Infections
+
+Also Called:
+- Ringworm
+
+Summary:
+Tinea is the name of a group of diseases caused by a fungus.  Types of tinea include ringworm, athlete's foot and jock itch. These infections are usually not serious, but they can be uncomfortable. You can get them by touching an infected person, from damp surfaces such as shower floors, or even from a pet.
+Symptoms depend on the affected area of the body:
+Ringworm is a red skin rash that forms a ring around normal-looking skin. A worm doesn't cause it.
+Scalp ringworm causes itchy, red patches on your head. It can leave bald spots. It usually affects children.
+Athlete's foot
+causes itching, burning and cracked skin between your toes.
+Jock itch causes an itchy, burning rash in your groin area.
+Over-the-counter creams and powders will get rid of many tinea infections, particularly athlete's foot and jock itch. Other cases require prescription medicine.
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Tinea
+
+Related Resources:
+
+Resource: Beard Ringworm (Tinea Barbae)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-barbae-ringworm-of-beard/?Imiw9cApl=1
+
+Resource: ClinicalTrials.gov: Tinea
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tinea%22&aggFilters=status:not%20rec
+
+Resource: Facial Ringworm (Tinea Faciei)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-faciei-ringworm-of-face/?Imiw9cApl=1
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Fungal Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fungal-culture-test/
+
+Resource: Fungus Infections: Preventing Recurrence
+Category: Prevention and Risk Factors
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/FungusInfectionsP?
+
+Resource: Fungus Infections: Tinea
+Category: Start Here
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/FungusInfections
+
+Resource: Jock itch
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000876.htm
+
+Resource: Jock Itch
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/jock-itch/symptoms-causes/syc-20353807?p=1
+
+Resource: Jock Itch
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/jock-itch.html
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Tinea Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tinea%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Ringworm
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001439.htm
+
+Resource: Ringworm (Body)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ringworm-body/symptoms-causes/syc-20353780?p=1
+
+Resource: Ringworm (Tinea Corporis)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-corporis-ringworm-of-body/?Imiw9cApl=1
+
+Resource: Ringworm and Fungal Nail Infections Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ringworm/about/
+
+Resource: Ringworm of the body
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000877.htm
+
+Resource: Ringworm of the scalp
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000878.htm
+
+Resource: Ringworm, Scalp (Tinea Capitis)
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-capitis-ringworm-of-scalp/child/?Imiw9cApl=1
+
+Resource: Ringworm: Signs, Causes and Treatment
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ringworm.html
+
+Resource: Skin lesion KOH exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003761.htm
+
+Resource: Tinea Cruris
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/tinea-cruris/?Imiw9cApl=1
+
+Resource: Tinea Infections (Ringworm, Athlete's Foot, Jock Itch)
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/skin/pages/Tinea-Infections-Ringworm-Athletes-Foot-Jock-Itch.aspx
+
+Resource: What Causes Ringworm and Fungal Nail Infections
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ringworm/causes/
+
+Resource: What to Do About Ringworm
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ringworm-sheet.html

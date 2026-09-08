@@ -1,0 +1,238 @@
+Title: Obesidad
+
+Summary:
+¿Qué es la obesidad?
+La obesidad es una enfermedad que significa tener un exceso de grasa en el cuerpo. Se diferencia del sobrepeso, que significa pesar demasiado. Ambos términos significan que su peso es mayor de lo que se considera saludable según su estatura.
+El Índice de Masa Corporal (IMC) mide su peso en relación con su estatura. Un adulto con un IMC de 30 o más se considera obeso. La obesidad grave se define como un IMC de 40 o más. La obesidad aumenta el riesgo de padecer muchas otras enfermedades y problemas de salud, especialmente si el exceso de grasa corporal se acumula en la cintura.
+¿Qué aumenta el riesgo de padecer obesidad?
+La obesidad se presenta con el transcurso del tiempo al ingerir más calorías (a través de alimentos y bebidas) de las que se consumen con la actividad física y la vida diaria. El cuerpo almacena estas calorías extra en forma de grasa. El equilibrio adecuado entre calorías y actividad varía según la persona.
+Existen muchos factores que pueden afectar su
+peso corporal
+. Ciertos medicamentos o afecciones médicas pueden afectar su peso. Otros factores incluyen:
+Composición genética
+Hábitos alimenticios
+Sexo
+Raza o etnia
+Nivel de actividad física
+¿Cómo se diagnostica la obesidad?
+Para determinar si tiene obesidad, su profesional de la salud puede:
+Preguntar sobre su historial médico
+, lo cual puede incluir revisar su historial de peso, sus esfuerzos para bajar de peso y su nivel de actividad física
+Realizar un examen físico
+, que puede incluir comprobar su estatura, peso y
+signos vitales
+, así como auscultar su corazón y pulmones
+Solicitar pruebas de sangre u otras pruebas de diagnóstico por imagen
+, que pueden incluir la detección de cualquier problema de salud conocido, así como otras enfermedades y afecciones relacionadas con el peso
+Calcular su IMC
+para determinar su riesgo de padecer ciertas enfermedades. Cuanto mayor sea su IMC, mayor será su riesgo. El IMC no distingue entre grasa, músculo y masa ósea. También puede sobreestimar la grasa corporal en deportistas o personas con complexión musculosa, o subestimarla en personas mayores o que han perdido masa muscular
+Controlar la circunferencia de su cintura
+, ya que una cintura grande, con más grasa corporal alrededor del abdomen (vientre) que, en las caderas, aumenta el riesgo de sufrir problemas de salud relacionados con el peso
+¿Qué problemas de salud puede causar la obesidad?
+Tener un tamaño corporal mayor puede hacer que su corazón trabaje más, ejercer presión adicional sobre sus articulaciones y puede aumentar su riesgo de sufrir muchas afecciones de salud, entre ellas:
+Diabetes tipo 2
+Enfermedades cardíacas
+Presión arterial alta
+Accidente cerebrovascular
+Síndrome metabólico
+Osteoartritis
+Apnea del sueño
+Problemas de embarazo
+Problemas de fertilidad
+Algunos tipos de cáncer
+Si tiene obesidad, perder incluso entre el 5 y el 10% de su peso puede retrasar o prevenir algunas de estas enfermedades. Por ejemplo, eso significa perder entre 10 y 20 libras si usted pesa 200 libras.
+¿Cuáles son los tratamientos para la obesidad?
+Los planes de tratamiento para la obesidad pueden depender de su peso general, otras afecciones de salud y su disposición a participar en un
+plan de pérdida de peso
+.
+Su profesional de la salud puede indicarle cuál es su peso saludable, ayudarle a establecer metas y darle consejos sobre cómo bajar de peso. Podría referirlo a otros profesionales especializados en nutrición o pérdida de peso para ayudarle a establecer metas realistas y brindarle apoyo.
+Los posibles tratamientos pueden incluir:
+Cambios en la dieta y metas de
+ejercicio
+para ayudarle a aprender como adoptar una nutrición saludable, ejercicio y cambios en el estilo de vida para perder peso de forma segura y mantenerlo a largo plazo
+Los grupos de asesoramiento o apoyo
+pueden animarle y ayudarle a comprender las causas de los cambios de peso
+Medicamentos para perder peso
+y tratar la obesidad
+Procedimientos o
+cirugía
+para perder peso
+si padece obesidad severa o problemas de salud graves relacionados con la obesidad y no ha logrado bajar de peso lo suficiente
+Un estilo de vida saludable que incluya patrones de alimentación saludables y actividad física regular puede ayudarle a perder peso y reducir sus probabilidades de desarrollar complicaciones relacionadas con la obesidad.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Alimentos y nutrición
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Calculadora de índice de masa corporal (IMC) para adultos
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/bmi/es/adult-calculator/index.html
+
+Resource: Cirugías para la obesidad: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/weightlosssurgery.html
+
+Resource: Control de peso: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/weightcontrol.html
+
+Resource: Cuestionario sobre mitos y realidades de la pérdida de peso
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/007297_62.htm
+
+Resource: Cómo mantenerse activo independientemente del peso
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso/como-mantenerse-activo-independientemente-peso
+
+Resource: Dormir con luz artificial se relaciona con la obesidad
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/dormir-con-luz-artificial-se-relaciona-con-la-obesidad
+
+Resource: En qué consisten el sobrepeso y la obesidad en adultos
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso/en-que-consisten-sobrepeso-obesidad-en-adultos?dkrd=/health-information/informacion-de-la-salud/control-de-peso/informacion-sobre-sobrepeso-obesidad-adultos
+
+Resource: Evaluación de obesidad
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-de-obesidad/
+
+Resource: Evalúe su conocimiento sobre la pérdida de peso
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/000348_64.htm
+
+Resource: Grasa abdominal en hombres: Por qué es importante la pérdida de peso
+Category: Hombres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685?p=1
+
+Resource: Las discapacidades y la obesidad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/ncbddd/Spanish/disabilityandhealth/obesity.html
+
+Resource: Medicamentos para bajar de peso
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000346.htm
+
+Resource: Obesidad
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007297.htm
+
+Resource: Obesidad en niños: Tema de salud de MedlinePlus
+Category: Spanish/Español, Niños/as
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/obesityinchildren.html
+
+Resource: Obesidad y cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/obesidad/hoja-informativa-obesidad
+
+Resource: Obesidad y el cáncer
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/risk-factors/obesity.html
+
+Resource: Obesidad y sobrepeso
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/obesidad-y-sobrepeso/
+
+Resource: Obesidad: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/obesity/diagnosis-treatment/drc-20375749?p=1
+
+Resource: Peso y obesidad
+Category: Spanish/Español, Mujeres
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/healthy-weight/weight-and-obesity
+
+Resource: Qué debe saber sobre los dispositivos médicos para la pérdida y el control del peso
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/que-debe-saber-sobre-los-dispositivos-medicos-para-la-perdida-y-el-control-del-peso
+
+Resource: Riesgos de la obesidad para la salud
+Category: Prevención y factores de riesgo, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000348.htm
+
+Resource: Riesgos para la salud por el sobrepeso y la obesidad
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso/en-que-consisten-sobrepeso-obesidad-en-adultos/riesgos
+
+Resource: Salud mental/corporal: La obesidad
+Category: Viviendo con..., Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/obesity/obesidad?partner=nlm
+
+Resource: Sobrepeso
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003101.htm
+
+Resource: Sobrepeso y obesidad: Información sobre el problema
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/obesity/informacion
+
+Resource: Síndrome de hipoventilación por obesidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sindrome-de-hipoventilacion-por-obesidad
+
+Resource: Síndrome de hipoventilación y obesidad (SHO)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000085.htm
+
+Resource: Tener sobrepeso durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/tener-sobrepeso-durante-el-embarazo.aspx
+
+Resource: ¿Cuáles son los tratamientos para el sobrepeso y la obesidad?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/obesity/informacion/tratamientos
+
+Resource: ¿Hay enfermedades o trastornos asociados con el sobrepeso y la obesidad?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/obesity/informacion/preguntas-asociados
+
+Resource: ¿Qué causa el sobrepeso y la obesidad?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/obesity/informacion/causa
+
+Resource: ¿Qué dice la medida de su cintura sobre su salud?
+Category: Spanish/Español, Mujeres
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/womens-health/in-depth/belly-fat/art-20045809?p=1
+
+Resource: ¿Qué son el sobrepeso y la obesidad?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sobrepeso-y-obesidad
+
+Resource: Índice de masa corporal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007196.htm

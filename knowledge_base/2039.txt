@@ -1,0 +1,140 @@
+Title: Trastornos del movimiento
+
+Summary:
+Los trastornos del movimiento son enfermedades neurológicas que causan problemas con el movimiento, como:
+Aumento del movimiento que puede ser voluntario (intencional)  o involuntario (no intencional)
+Disminución del movimiento voluntario o movimientos más lentos
+Existen muchos trastornos del movimiento diferentes. Algunos de los tipos más comunes incluyen:
+Ataxia: Pérdida de la coordinación muscular
+Distonía
+: Contracciones involuntarias de los músculos que causan torsiones y movimientos repetitivos. Puede ser dolorosa
+Enfermedad de Huntington
+: Afección hereditaria que provoca el desgaste de algunas células nerviosas del cerebro. Estas incluyen las células nerviosas que ayudan a controlar los movimientos voluntarios
+Enfermedad de Parkinson
+: Afección que empeora con el tiempo. Causa temblores, lentitud del movimiento y problemas para caminar
+Síndrome de Tourette
+: Enfermedad que causa que las personas que la sufren realicen movimientos o sonidos fuera de lo normal, llamados tics
+Temblor
+y temblor esencial: Causan sacudidas no intencionales en una o más partes del cuerpo
+Las causas de los trastornos del movimiento incluyen:
+Genes
+Infecciones
+Medicinas
+Daños en el
+cerebro
+, la
+médula espinal
+o los
+nervios periféricos
+Trastornos metabólicos
+Derrame cerebral
+o
+problemas circulatorios
+Toxinas
+El tratamiento varía según el trastorno. La medicina puede curar algunos de ellos. Otros mejoran cuando se trata la enfermedad subyacente. Sin embargo, con frecuencia no hay una cura. En ese caso, el objetivo del tratamiento es mejorar los síntomas y aliviar el dolor.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Corea de Sydenham
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001358.htm
+
+Resource: Discinesia tardía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000685.htm
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Electromiograma (EMG)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emg.html
+
+Resource: Estimulación cerebral profunda
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007453.htm
+
+Resource: Introducción a los trastornos del movimiento
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-del-movimiento/introducci%C3%B3n-a-los-trastornos-del-movimiento
+
+Resource: Mioclono
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/mioclono
+
+Resource: Mioclono palatino
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001637.htm
+
+Resource: Movimiento espasmódico o impredecible
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003196.htm
+
+Resource: Movimiento lento o incontrolable
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003197.htm
+
+Resource: Movimientos descoordinados
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003198.htm
+
+Resource: Movimientos incontrolables
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003201.htm
+
+Resource: Neurodegeneración con acumulación de hierro en el cerebro (NAHC)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001225.htm
+
+Resource: Síndrome de Angelman
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007616.htm
+
+Resource: Síndrome de temblor/ataxia asociado al X frágil (FXTAS)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/fxtas
+
+Resource: Síndrome de Tourette: un diagnóstico que no debería asustarnos
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/emotional-problems/paginas/tics-tourette-syndrome-and-ocd.aspx
+
+Resource: Tics faciales
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001410.htm
+
+Resource: Trastorno crónico de tic motor
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000745.htm
+
+Resource: Trastorno de tic provisional
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000747.htm

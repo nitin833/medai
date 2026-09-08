@@ -1,0 +1,132 @@
+Title: Mastectomy
+
+Summary:
+What is a mastectomy?
+A mastectomy is surgery to remove part or all of the breast. It's usually done to treat
+breast cancer
+by removing the cancer. A mastectomy may be the first treatment option for some types of breast cancer or done after
+chemotherapy
+for other types. If you are at a very high risk for breast cancer, sometimes a mastectomy may be done to reduce your risk.
+What are the different types of mastectomies?
+There are different types of mastectomies. Each differs in the amount of breast tissue and lymph nodes that are removed. Some types of breast surgery remove the breast skin and the nipple. Others may also remove nearby lymph nodes, which are part of your
+immune system
+and help protect your body from infection and disease.
+Which surgery you have depends on the stage of cancer, the size of the tumor, the size of the breast, and whether the lymph nodes are involved.
+Types of breast surgery include:
+Total (simple) mastectomy
+is the removal of all the breast tissue and nipple of the breast that has cancer. Some lymph nodes under your arm may be removed and checked for cancer.
+Modified radical mastectomy
+is the removal of the breast that has cancer, including the nipple, areola (dark-colored skin around the nipple), skin over the breast, most of the lymph nodes under the arm, and often the lining over the chest muscles.
+Lumpectomy
+is breast-sparing surgery. The tumor and some normal breast tissue around it are removed, but not the breast itself. Some lymph nodes under your arm may be removed and checked for cancer. Part of the chest wall lining may also be removed if cancer is near it.
+No matter which breast surgery you choose, you may also need other treatments. These could include
+radiation therapy
+, chemotherapy, hormone therapy, or targeted therapy.
+You may choose to have
+breast reconstruction
+to rebuild your breast at the same time as the mastectomy, or it may be done later. Your health care provider may suggest waiting if radiation therapy is part of your treatment plan.
+NIH: National Cancer Institute
+
+Groups:
+- Women
+- Surgery and Rehabilitation
+- Female Reproductive System
+
+MeSH Headings:
+- Mastectomy
+
+Related Resources:
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Breast Cancer Surgery
+Category: Start Here
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/wp-content/uploads/BreastCancerSurgery.pdf
+
+Resource: Breast Cancer Surgery
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/treatment/surgery
+
+Resource: Breast lump removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002918.htm
+
+Resource: Breast lump removal - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100003_1.htm
+
+Resource: Breast Surgery and Breastfeeding
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/breast-surgery.html
+
+Resource: ClinicalTrials.gov: Mastectomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=mastectomy&aggFilters=status:not%20rec
+
+Resource: Deciding between a Mastectomy or a Lumpectomy
+Category: Specifics
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/breast-cancer/treatment/type/surgery/mastectomy-vs-lumpectomy/
+
+Resource: Follow up Care After Breast Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/living-as-a-breast-cancer-survivor/follow-up-care-after-breast-cancer-treatment.html
+
+Resource: Mastectomy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002919.htm
+
+Resource: Mastectomy
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/mastectomy/about/pac-20394670?p=1
+
+Resource: Mastectomy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000244.htm
+
+Resource: Mastectomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100031_1.htm
+
+Resource: Mastectomy -- What You Need to Know
+Category: Specifics
+Organization: Susan G. Komen for the Cure
+URL: https://www.komen.org/breast-cancer/treatment/type/surgery/mastectomy/
+
+Resource: Mastectomy and breast reconstruction - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000253.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Mastectomy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Mastectomy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Surgery for Breast Cancer
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/breast-cancer/treatment/surgery-for-breast-cancer.html
+
+Resource: Surgery to Reduce the Risk of Breast Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/breast/causes-risk-factors/prevention/preventive-breast-surgery

@@ -1,0 +1,338 @@
+Title: Osteoporosis
+
+Summary:
+What is osteoporosis?
+Osteoporosis is a disease in which your bones become weak and are likely to
+fracture
+(break). The disease can develop when your
+bone mineral density
+and bone mass decrease. It can also happen if the structure and strength of your bones change.
+Osteoporosis is called a "silent" disease because it doesn't usually cause symptoms. You may not even know you have the disease until you break a bone. This could happen with any bone, but it's most common in the bones of your hip, vertebrae in the spine, and wrist.
+What causes osteoporosis?
+Your bones are made of living tissue. To keep them strong, your body breaks down old bone and replaces it with new bone. Osteoporosis develops when more bone is broken down than replaced. You lose bone mass and changes happen in the structure of your bone tissue. This can happen as you get older. Other risk factors can also lead to the development of osteoporosis or increase your chance of developing the disease.
+Who is more likely to develop osteoporosis?
+Anyone can develop osteoporosis, but you are more likely to develop it if you have one or more risk factors:
+Your sex.
+Osteoporosis is more common in women, especially after menopause (postmenopausal).
+Your age.
+Your risk increases as you get older. It is most common in people over age 50.
+Your body size.
+It is more common in people who are slim and thin boned.
+Your race:
+White and Asian women are at highest risk.
+African American and Mexican American women have a lower risk.
+White men are at higher risk than African American and Mexican American men.
+Family history.
+Your risk of osteoporosis may be higher if one of your parents has osteoporosis or broke their hip.
+Changes to
+hormones
+.
+Low levels of certain hormones can increase your chance of developing osteoporosis.
+Diet.
+A diet that is low in
+calcium
+and/or
+vitamin D
+or does not include enough
+protein
+can raise your risk.
+Long-term use of certain medicines,
+such as:
+Corticosteroids
+Proton pump inhibitors (which treat
+GERD
+)
+Medicines to treat
+epilepsy
+Having other medical conditions,
+such as:
+Endocrine diseases
+Certain
+digestive diseases
+Rheumatoid arthritis
+Certain types of cancer
+HIV
+Anorexia nervosa, a type of
+eating disorder
+Your lifestyle.
+Certain lifestyle factors can contribute to bone loss, such as:
+Smoking tobacco
+Long-term heavy
+alcohol use
+Physical inactivity
+or prolonged periods of bedrest
+What are the symptoms of osteoporosis?
+Osteoporosis usually doesn't cause symptoms. You may not know that you have it until you break a bone.
+How is osteoporosis diagnosed?
+Health care providers often diagnose osteoporosis during routine
+screening
+for the disease. The U.S. Preventive Services Task Force recommends screening for:
+Women age 65 and older
+Postmenopausal women under age 65 who have factors that increase the chance of developing osteoporosis
+For men, it isn't clear yet whether regular screening is helpful. More research is needed to know for sure.
+To find out if you have osteoporosis, your provider:
+Will ask about your medical history and whether you have ever broken a bone
+May do a physical exam, which could include checking for:
+A loss of height and/or weight
+Changes in your posture
+Balance and gait (the way you walk)
+Your muscle strength
+Will likely order a bone density scan
+May do a fracture risk assessment, which is a short questionnaire that helps estimate your risk of breaking a bone in the next 10 years
+Will likely order a
+bone density scan
+May do a fracture risk assessment, which is a short questionnaire that helps estimate your risk of breaking a bone in the next 10 years
+What are the treatments for osteoporosis?
+The goals for treating osteoporosis are to slow or stop bone loss and to prevent fractures. Your provider may recommend:
+A healthy, balanced diet that includes enough calcium, vitamin D, and protein
+Lifestyle changes such as
+quitting smoking
+and limiting alcohol
+Regular physical activity
+including weight-bearing exercise (like walking), strength training, and balance exercises
+Fall
+prevention to help prevent fractures
+Medicines, such as:
+Medicines that slow down bone loss
+Medicines that help rebuild bone
+In addition to managing your osteoporosis, it's important to avoid activities that may cause a fracture. These can include movements that involve:
+Twisting your spine, like swinging a golf club
+Bending forward from the waist, like sit ups and toe touches
+You can also help reduce the risk of breaking a bone by preventing falls.
+Can osteoporosis be prevented?
+To help keep bones strong and help prevent osteoporosis, the best thing to do is to eat a healthy diet rich in calcium and vitamin D. Getting regular physical activity, limiting alcohol, and not smoking can also help.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Women
+- Older Adults
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Osteoporosis
+- Osteoporotic Fractures
+
+Related Resources:
+
+Resource: Bone Density Scan
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-density-scan/
+
+Resource: Bone Density: MedinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonedensity.html
+
+Resource: Bone mineral density test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007197.htm
+
+Resource: Bone Mineral Density Tests: What the Numbers Mean
+Category: Diagnosis and Tests
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean
+
+Resource: Calcium and Vitamin D: Important for Bone Health
+Category: Prevention and Risk Factors
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/calcium-and-vitamin-d-important-bone-health
+
+Resource: Calcium, vitamin D, and your bones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000490.htm
+
+Resource: ClinicalTrials.gov: Osteoporotic Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Osteoporotic+Fractures%22&aggFilters=status:not%20rec
+
+Resource: Compression fractures of the back
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000443.htm
+
+Resource: Exercise for Your Bone Health
+Category: Prevention and Risk Factors
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/exercise-your-bone-health
+
+Resource: Exercise, lifestyle, and your bones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000492.htm
+
+Resource: Exercising with Chronic Conditions
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/exercise-and-physical-activity/exercising-chronic-conditions
+
+Resource: FastStats: Osteoporosis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/osteoporosis.htm
+
+Resource: Glucocorticoid-Induced Osteoporosis
+Category: Specifics
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/glucocorticoid-induced-osteoporosis
+
+Resource: Hajdu-Cheney syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hajdu-cheney-syndrome/
+
+Resource: Healthy Bones at Every Age
+Category: Prevention and Risk Factors
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/staying-healthy/healthy-bones-at-every-age/
+
+Resource: Hump on upper back (dorsocervical fat pad)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003112.htm
+
+Resource: Juvenile primary osteoporosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-primary-osteoporosis/
+
+Resource: Kids and Their Bones
+Category: Children
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/kids-and-their-bones
+
+Resource: Lumbar MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007352.htm
+
+Resource: Lumbosacral spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003807.htm
+
+Resource: Medicines for osteoporosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000502.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Osteoporosis
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000093.htm
+
+Resource: Osteoporosis
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/osteoporosis
+
+Resource: Osteoporosis
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/osteoporosis
+
+Resource: Osteoporosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000360.htm
+
+Resource: Osteoporosis and Your Spine
+Category: Related Issues
+Organization: Bone Health and Osteoporosis Foundation
+URL: https://www.bonehealthandosteoporosis.org/patients/treatment/exercisesafe-movement/osteoporosis-and-your-spine/
+
+Resource: Osteoporosis in Aging: Protect Your Bones with Exercise
+Category: Older Adults
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/12/osteoporosis-aging
+
+Resource: Osteoporosis in Men
+Category: Men
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/osteoporosis-men
+
+Resource: Osteoporosis Treatment
+Category: Treatments and Therapies
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/osteoporosis-treatment
+
+Resource: Osteoporosis Treatment: Medications Can Help
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/osteoporosis/in-depth/osteoporosis-treatment/art-20046869?p=1
+
+Resource: Osteoporosis-pseudoglioma syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/osteoporosis-pseudoglioma-syndrome/
+
+Resource: Osteoporosis: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/osteoporosis-what-you-need-to-know
+
+Resource: Pelvic Fractures
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/fractures/pelvic-fractures
+
+Resource: Pregnancy, Breastfeeding, and Bone Health
+Category: Women
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/pregnancy-breastfeeding-and-bone-health
+
+Resource: Preventing Another Broken Bone
+Category: Prevention and Risk Factors
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/preventing-another-broken-bone
+
+Resource: Osteoporosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Osteoporosis%22%5Bmajr%3Anoexp%5D+OR+%22Osteoporotic+Fractures%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recovering from Fractures
+Category: Related Issues
+Organization: Bone Health and Osteoporosis Foundation
+URL: https://www.bonehealthandosteoporosis.org/patients/treatment/exercisesafe-movement/recovering-from-falls/
+
+Resource: Red Clover
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/red-clover
+
+Resource: Test Your Bone-Health Diet Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000490_11.htm
+
+Resource: Test Your Osteoporosis Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000360_6.htm
+
+Resource: Thoracic spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: Vertebroplasty and Kyphoplasty
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/vertebro
+
+Resource: What causes bone loss?
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000506.htm
+
+Resource: What's Your Osteoporosis Risk?
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000506_1.htm

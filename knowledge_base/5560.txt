@@ -1,0 +1,46 @@
+Title: Coma
+
+Also Called:
+- Estado vegetativo
+
+Summary:
+El coma es un estado profundo de inconsciencia. Una persona en coma está viva pero incapaz de moverse o responder a su entorno. El estado de coma se puede presentar como una complicación de una enfermedad subyacente o como resultado de lesiones, tales como
+traumatismo del cráneo
+.
+El estado de coma rara vez dura más de 2 a 4 semanas. El resultado depende de la causa, la severidad y sitio de la lesión. La gente puede salir de un coma con problemas físicos, intelectuales y psicológicos. Algunas personas pueden permanecer en coma durante años o incluso décadas. Para esa gente, la causa de muerte más común es una infección, como una neumonía.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Coma diabético
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/diabetic-coma/symptoms-causes/syc-20371475?p=1
+
+Resource: Disminución del estado de conciencia
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003202.htm
+
+Resource: Electroencefalograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003931.htm
+
+Resource: Estupor y coma
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/coma-y-alteraci%C3%B3n-de-la-consciencia/estupor-y-coma
+
+Resource: Hipoxia cerebral
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001435.htm
+
+Resource: ¿Qué es el coma?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/coma.html

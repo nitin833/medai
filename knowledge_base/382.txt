@@ -1,0 +1,67 @@
+Title: Complex Regional Pain Syndrome
+
+Also Called:
+- CRPS
+- Causalgia
+- Reflex sympathetic dystrophy
+
+Summary:
+Complex regional pain syndrome (CRPS) is a
+chronic pain
+condition. It causes intense pain, usually in the arms, hands, legs, or feet. It may happen after an injury, either to a nerve or to tissue in the affected area. Rest and time may only make it worse.
+Symptoms in the affected area are:
+Dramatic changes in skin temperature, color, or texture
+Intense burning pain
+Extreme skin sensitivity
+Swelling and stiffness in affected joints
+Decreased ability to move the affected body part
+The cause of CRPS is unknown. There is no specific diagnostic test. Your doctor will diagnose CRPS based on your signs and symptoms.
+There is no cure. It can get worse over time, and may spread to other parts of the body. Occasionally the symptoms go away, either temporarily or for good. Treatment focuses on relieving the pain, and can include medicines, physical therapy, and nerve blocks.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Complex Regional Pain Syndromes
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Complex Regional Pain Syndromes
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Complex+Regional+Pain+Syndromes%22&aggFilters=status:not%20rec
+
+Resource: Complex Regional Pain Syndrome
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/crps-complex-regional-pain-syndrome/symptoms-causes/syc-20371151?p=1
+
+Resource: Complex regional pain syndrome
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007184.htm
+
+Resource: Complex Regional Pain Syndrome
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/complex-regional-pain-syndrome
+
+Resource: Complex Regional Pain Syndrome (Reflex Sympathetic Dystrophy)
+Category: Learn More
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://www.orthoinfo.org/en/diseases--conditions/complex-regional-pain-syndrome-reflex-sympathetic-dystrophy/
+
+Resource: Complex Regional Pain Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Complex+Regional+Pain+Syndromes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Signs and Symptoms of CRPS/RSD
+Category: Learn More
+Organization: Reflex Sympathetic Dystrophy Syndrome Association of America
+URL: https://rsds.org/living-with-crps/signs-symptoms/
+
+Resource: Spinal cord stimulation
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007560.htm

@@ -1,0 +1,61 @@
+Title: Medicaid
+
+Summary:
+Medicaid is government
+health insurance
+that helps many low-income people in the United States to
+pay their medical bills
+. The Federal government sets up general guidelines for the program, but each state has its own rules. Your state might require you to pay a part of the cost for some medical services.
+You have to meet certain requirements to get Medicaid help. These might involve:
+Your age
+Whether you are pregnant, blind, or have a disability
+Your income and resources
+Whether or not you are a U.S. citizen or, if not, what your immigration status is
+Centers for Medicare and Medicaid Services
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Medicaid
+
+Related Resources:
+
+Resource: Centers for Medicare & Medicaid Services
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/
+
+Resource: Dental Care
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicaid.gov/medicaid/benefits/dental-care
+
+Resource: Eligibility Policy
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicaid.gov/medicaid/eligibility-policy
+
+Resource: Medicaid (Costs)
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/basics/costs/help/medicaid
+
+Resource: Medicaid (Overview)
+Category: Start Here
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicaid.gov/medicaid
+
+Resource: Medicaid.gov
+Category: Start Here
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicaid.gov/
+
+Resource: Medicaid: Getting Started
+Category: Learn More
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/publications/11409-medicaid-getting-started.pdf
+
+Resource: Medicaid
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Medicaid%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

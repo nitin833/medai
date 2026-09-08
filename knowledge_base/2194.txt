@@ -1,0 +1,84 @@
+Title: Cáncer de timo
+
+Summary:
+El timo es un pequeño órgano ubicado en la parte superior del pecho, por debajo del esternón. Antes del nacimiento y en la infancia, el timo ayuda a producir un tipo de glóbulos blancos. Estas células ayudan a protegerlo contra las infecciones.
+El cáncer del timo es poco frecuente. Tiene más probabilidades de tener uno si tiene otras enfermedades como
+miastenia grave
+, lupus o artritis reumatoide. Algunas veces no presenta síntomas. Otras veces, el cáncer de timo puede causar:
+Tos persistente
+Dolor en el pecho
+Dificultades para respirar
+Los médicos utilizan un examen físico, pruebas de imagen y una biopsia para diagnosticar el cáncer de timo. El tratamiento más común es la cirugía para extirpar el tumor. Otras opciones incluyen la radioterapia, quimioterapia y terapia hormonal.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema inmunitario
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Alta tras radiación en el tórax
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000057.htm
+
+Resource: Centros oncológicos designados por el Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/investigacion/infraestructura/centros-oncologicos
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del timoma y el carcinoma tímico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-timo/timoma-carcinoma-timico#estadios-del-timoma-y-el-carcinoma-timico
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Sistema endocrino
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/endocrine.html
+
+Resource: Tratamiento del timoma infantile y carcinoma tímico infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-timo/timoma-carcinoma-timico-infantiles#tratamiento-del-timoma-infantil
+
+Resource: Tratamiento del timoma y del carcinoma tímico
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-timo/timoma-carcinoma-timico#tratamiento-del-timoma-y-del-carcinoma-timico
+
+Resource: Tumor mediastinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001086.htm
+
+Resource: ¿Qué son el timoma y el carcinoma tímico?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/cancer-timo/timoma-carcinoma-timico#que-son-el-timoma-y-el-carcinoma-timico

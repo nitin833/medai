@@ -1,0 +1,438 @@
+Title: Newborn Screening
+
+Summary:
+Your newborn infant has screening tests before leaving the hospital. There may be different tests depending on the state where you live. They include:
+Tests on a few drops of blood from pricking the baby's heel. The tests look for inherited disorders. All states test for at least 30 of these conditions.
+A hearing test that measures the baby's response to sound
+A skin test that measures the level of oxygen in the blood. This can tell if the baby has a congenital heart defect.
+These tests look for serious medical conditions. If not treated, some of these conditions can cause lifelong health problems. Others can cause early death. With early diagnosis, treatment can begin right away, before serious problems can occur or become permanent.
+If a screening shows that your baby might have a condition, the health care provider or the state health department will call you. It is important to follow up quickly. Further testing can verify whether your baby has the condition. If so, treatment should start right away.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Children and Teenagers
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Neonatal Screening
+
+Related Resources:
+
+Resource: 21-hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/21-hydroxylase-deficiency
+
+Resource: 3-hydroxy-3-methylglutaryl-CoA lyase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-hydroxy-3-methylglutaryl-coa-lyase-deficiency/
+
+Resource: 3-hydroxyacyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-hydroxyacyl-coa-dehydrogenase-deficiency
+
+Resource: 3-methylcrotonyl-CoA carboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylcrotonyl-coa-carboxylase-deficiency/
+
+Resource: 3-methylglutaconyl-CoA hydratase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylglutaconyl-coa-hydratase-deficiency/
+
+Resource: Adenosine deaminase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/adenosine-deaminase-deficiency
+
+Resource: Alpha thalassemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-thalassemia/
+
+Resource: Aminoaciduria
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003366.htm
+
+Resource: Apgar score
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003402.htm
+
+Resource: Arginase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arginase-deficiency/
+
+Resource: Argininosuccinic aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/argininosuccinic-aciduria/
+
+Resource: Barth syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/barth-syndrome/
+
+Resource: Beta thalassemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-thalassemia/
+
+Resource: Beta-ketothiolase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-ketothiolase-deficiency/
+
+Resource: Biotinidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/biotinidase-deficiency/
+
+Resource: Carnitine palmitoyltransferase I deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-i-deficiency/
+
+Resource: Carnitine palmitoyltransferase II deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-ii-deficiency/
+
+Resource: Carnitine-acylcarnitine translocase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-acylcarnitine-translocase-deficiency/
+
+Resource: Citrullinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/citrullinemia/
+
+Resource: ClinicalTrials.gov: Neonatal Screening
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Neonatal+Screening%22&aggFilters=status:not%20rec
+
+Resource: Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-adrenal-hyperplasia-due-to-11-beta-hydroxylase-deficiency
+
+Resource: Congenital hypothyroidism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-hypothyroidism
+
+Resource: Costeff syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/costeff-syndrome/
+
+Resource: Critical congenital heart disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/critical-congenital-heart-disease
+
+Resource: Cystic fibrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cystic-fibrosis
+
+Resource: Dilated cardiomyopathy with ataxia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dilated-cardiomyopathy-with-ataxia-syndrome
+
+Resource: Ethylmalonic encephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ethylmalonic-encephalopathy/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Galactosemia Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/galactosemia-tests/
+
+Resource: Galactosemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/galactosemia/
+
+Resource: GeneReviews Glossary
+Category: Reference Desk
+Organization: National Center for Biotechnology Information
+URL: https://www.ncbi.nlm.nih.gov/books/NBK5191/
+
+Resource: Glucose-6-phosphate dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/
+
+Resource: Glutamate formiminotransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutamate-formiminotransferase-deficiency/
+
+Resource: Glutaric acidemia type I: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutaric-acidemia-type-i/
+
+Resource: Glutaric acidemia type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutaric-acidemia-type-ii/
+
+Resource: Glutathione synthetase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutathione-synthetase-deficiency/
+
+Resource: Hearing Tests for Children
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hearing-tests-for-children/
+
+Resource: Hemoglobin electrophoresis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003639.htm
+
+Resource: Histidinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/histidinemia
+
+Resource: Homocystinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/homocystinuria
+
+Resource: How Are My Newborn's Screening Results Used?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/newborn/conditioninfo/how-used
+
+Resource: How Is Newborn Screening Done?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/newborn/conditioninfo/how-done
+
+Resource: HSD10 disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hsd10-disease
+
+Resource: Hyperlysinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperlysinemia
+
+Resource: Hypermethioninemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypermethioninemia/
+
+Resource: Hyperprolinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperprolinemia/
+
+Resource: Inherited thyroxine-binding globulin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/inherited-thyroxine-binding-globulin-deficiency
+
+Resource: Isobutyryl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isobutyryl-coa-dehydrogenase-deficiency
+
+Resource: Isovaleric acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isovaleric-acidemia/
+
+Resource: Krabbe disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/krabbe-disease
+
+Resource: Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/long-chain-3-hydroxyacyl-coa-dehydrogenase-deficiency
+
+Resource: Malonyl-CoA decarboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/malonyl-coa-decarboxylase-deficiency/
+
+Resource: Maple syrup urine disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/maple-syrup-urine-disease
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Medium-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+
+Resource: Methylmalonic acid blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003565.htm
+
+Resource: Methylmalonic acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methylmalonic-acidemia
+
+Resource: Mitochondrial trifunctional protein deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-trifunctional-protein-deficiency
+
+Resource: National Human Genome Research Institute
+Category: Find an Expert
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/
+
+Resource: Neonatal cystic fibrosis screening test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003409.htm
+
+Resource: Newborn Screening
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/newborn-screening/
+
+Resource: Newborn Screening Tests
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/newborn-screening-tests.html
+
+Resource: Newborn screening tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007257.htm
+
+Resource: Newborn Screening Tests for Your Baby
+Category: Specifics
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/parenthood/newborn-screening-tests-your-baby
+
+Resource: Nonketotic hyperglycinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nonketotic-hyperglycinemia/
+
+Resource: Ornithine transcarbamylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ornithine-transcarbamylase-deficiency/
+
+Resource: Ornithine translocase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ornithine-translocase-deficiency
+
+Resource: Phenylketonuria (PKU) Screening
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/phenylketonuria-pku-screening/
+
+Resource: Phenylketonuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phenylketonuria
+
+Resource: Plasma amino acids
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003361.htm
+
+Resource: Primary carnitine deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-carnitine-deficiency
+
+Resource: Newborn Screening
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neonatal+Screening%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Screening for Critical Congenital Heart Disease in Newborns
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.113.008522
+
+Resource: Serum phenylalanine screening
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003362.htm
+
+Resource: Short-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-chain-acyl-coa-dehydrogenase-deficiency
+
+Resource: Short/branched chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency/
+
+Resource: Sickle cell disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sickle-cell-disease
+
+Resource: Succinate-CoA ligase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sucla2-related-mitochondrial-dna-depletion-syndrome
+
+Resource: Tetrahydrobiopterin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tetrahydrobiopterin-deficiency
+
+Resource: TORCH Screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003350.htm
+
+Resource: Tyrosinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tyrosinemia
+
+Resource: What Disorders Are Newborns Screened for in the United States?
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/newborn/conditioninfo/disorders
+
+Resource: X-linked severe combined immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-severe-combined-immunodeficiency
+
+Resource: ZAP70-related severe combined immunodeficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/zap70-related-severe-combined-immunodeficiency

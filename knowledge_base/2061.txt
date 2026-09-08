@@ -1,0 +1,186 @@
+Title: Salud ocupacional
+
+Also Called:
+- Salud en el lugar de trabajo
+
+Summary:
+Los problemas de salud ocupacional ocurren en el trabajo por el tipo de labor que realiza. Estos problemas pueden incluir:
+Cortaduras,
+fracturas
+(huesos rotos) y
+torceduras y distensiones
+Amputaciones
+Trastornos por movimientos repetitivos
+Problemas del oído
+causados por la exposición al
+ruido
+Problemas de la vista
+Enfermedad causada por respirar, tocar o ingerir sustancias peligrosas
+Enfermedad causada por la
+exposición a la radiación
+Exposición a gérmenes en
+centros de salud
+Una buena seguridad y prácticas de prevención en el trabajo puede reducir su riesgo de estos problemas. Procure mantenerse en buen estado físico, reduzca el estrés, prepare adecuadamente su
+área de trabajo
+y use el equipo y la ropa adecuada.
+
+Groups:
+- Bienestar y estilo de vida
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Agotamiento laboral: Cómo detectarlo y enfrentarlo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642?p=1
+
+Resource: Asma ocupacional
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000110.htm
+
+Resource: Bisinosis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001089.htm
+
+Resource: Bronquitis industrial
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000072.htm
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Datos Breves de NIOSH: Protéjase de la exposición al sol
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-116sp.html
+
+Resource: Datos Breves de NIOSH: Protéjase de las plantas venenosas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-118sp.html
+
+Resource: Datos Breves de NIOSH: Protéjase de los mosquitos y las garrapatas
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-119sp.html
+
+Resource: Diccionario de OSHA: Español a inglés
+Category: Información de referencia, Spanish/Español
+Organization: Administración de Seguridad y Salud Ocupacional
+URL: https://www.osha.gov/sites/default/files/osha_general_terms_spen%5B1%5D.pdf
+
+Resource: Diccionario de OSHA: Inglés a español
+Category: Información de referencia, Spanish/Español
+Organization: Administración de Seguridad y Salud Ocupacional
+URL: https://www.osha.gov/complianceassistance/spanish/osha-general-terms-ensp
+
+Resource: Embarazo y el trabajo
+Category: Spanish/Español, Mujeres, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000609.htm
+
+Resource: Equipo de protección personal
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Seguridad y Salud Ocupacional
+URL: https://www.osha.gov/sites/default/files/publications/PPE-FACTSHEET-SPANISH.pdf
+
+Resource: Estrés en el lugar de trabajo
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/stress/estres-lugar?partner=nlm
+
+Resource: Estrés en el trabajo
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/healthy-workplaces/estres-trabajo?partner=nlm
+
+Resource: Formaldehído y el riesgo de cáncer
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/formaldehido/hoja-informativa-formaldehido
+
+Resource: Hipoacusia ocupacional
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001048.htm
+
+Resource: Instituto Nacional de Salud y Seguridad Ocupacional
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/spanish/niosh/
+
+Resource: Neumoconiosis de los mineros del carbón
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000130.htm
+
+Resource: Neumoconiosis reumatoide
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000137.htm
+
+Resource: Neumonitis por hipersensibilidad
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000109.htm
+
+Resource: Prevenir lesiones oculares en su lugar de trabajo
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/en-el-trabajo
+
+Resource: Retornar a trabajar con el dolor de espalda
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000517.htm
+
+Resource: Ruido: Cómo disminuirlo en la granja
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/sites/default/files/Documents/health/hearing/HowLoudTooLoudFarmBmk-Spanish.pdf
+
+Resource: Seguridad de los trabajadores en las granjas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2010-137sp.html
+
+Resource: Sentarse derecho: Mejore su postura para gozar de una mejor salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sentarse-derecho
+
+Resource: Silicosis - el trabajo con tejas de cemento: El peligro de la sílice
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2006-110sp.html
+
+Resource: Silicosis: ¡Conozca los datos!
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2004-108sp.html
+
+Resource: Soluciones simples: Ergonomía para trabajadores agrícolas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2001-111sp.html
+
+Resource: Son sus oídos, protéjalos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2007-175sp.html
+
+Resource: Trabajando en el Calor
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Investigación y Capacitación en Construcción
+URL: https://www.cpwr.com/wp-content/uploads/publications/spanish/Hot-Weather-Hazard-Alert-SP.pdf
+
+Resource: Zanjas
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Investigación y Capacitación en Construcción
+URL: https://www.cpwr.com/wp-content/uploads/HA-SP-Trenching.pdf

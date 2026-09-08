@@ -1,0 +1,302 @@
+Title: Platelet Disorders
+
+Also Called:
+- Thrombocyte disorders
+
+Summary:
+Platelets, also known as thrombocytes, are blood cells. They form in your bone marrow, a sponge-like tissue in your bones. Platelets play a major role in blood clotting. Normally, when one of your blood vessels is injured, you start to bleed. Your platelets will clot (clump together) to plug the hole in the blood vessel and stop the bleeding. You can have different problems with your platelets:
+If your blood has a
+low number of platelets
+, it is called thrombocytopenia. This can put you at risk for mild to serious
+bleeding
+. The bleeding could be external or internal. There can be various causes. If the problem is mild, you may not need treatment. For more serious cases, you may need medicines or
+blood or platelet transfusions
+.
+If your blood has
+too many platelets
+, you may have a higher risk of
+blood clots
+.
+When the cause is unknown, this is called thrombocythemia. It is rare. You may not need treatment if there are no signs or symptoms. In other cases, people who have it may need treatment with medicines or procedures.
+If another disease or condition is causing the high platelet count, it is thrombocytosis. The treatment and outlook for thrombocytosis depends on what is causing it.
+Another possible problem is that your
+platelets do not work as they should
+. For example, in von Willebrand Disease, your platelets cannot stick together or cannot attach to blood vessel walls. This can cause excessive bleeding. There are different types of in von Willebrand Disease; treatment depends on which type you have.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Blood Platelet Disorders
+
+Related Resources:
+
+Resource: Acquired platelet function defect
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000546.htm
+
+Resource: Atypical hemolytic-uremic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/atypical-hemolytic-uremic-syndrome/
+
+Resource: Bernard-Soulier syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bernard-soulier-syndrome
+
+Resource: Bleeding time
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003656.htm
+
+Resource: Blood clotting
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000011.htm
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: ClinicalTrials.gov: Blood Platelet Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Blood+Platelet+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thrombocytopenia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thrombocytopenia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: von Willebrand Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22von+Willebrand+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Congenital platelet function defects
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000582.htm
+
+Resource: Drug-induced thromobocytopenia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000556.htm
+
+Resource: Dyserythropoietic anemia and thrombocytopenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dyserythropoietic-anemia-and-thrombocytopenia
+
+Resource: Essential thrombocythemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000543.htm
+
+Resource: Essential thrombocythemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/essential-thrombocythemia
+
+Resource: Factor VIII assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003678.htm
+
+Resource: Find a Hematologist
+Category: Find an Expert
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/find-a-hematologist
+
+Resource: Glanzmann thrombasthenia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001305.htm
+
+Resource: Glanzmann thrombasthenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glanzmann-thrombasthenia
+
+Resource: Gray platelet syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gray-platelet-syndrome
+
+Resource: Hermansky-Pudlak syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hermansky-pudlak-syndrome/
+
+Resource: Idiopathic thrombocytopenic purpura (ITP)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000535.htm
+
+Resource: Immune Thrombocytopenia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immune-thrombocytopenia.html
+
+Resource: Immune thrombocytopenia (ITP)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/idiopathic-thrombocytopenic-purpura/symptoms-causes/syc-20352325?p=1
+
+Resource: Immune Thrombocytopenia (ITP)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/immune-thrombocytopenia
+
+Resource: Immune thrombocytopenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/immune-thrombocytopenia
+
+Resource: Inherited Platelet Disorders
+Category: Specifics
+Organization: World Federation of Hemophilia
+URL: https://elearning.wfh.org/elearning-centres/inherited-platelet-disorders/
+
+Resource: Jacobsen syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/jacobsen-syndrome
+
+Resource: MPV Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mpv-blood-test/
+
+Resource: MYH9-related disorder: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myh9-related-disorder
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Partial thromboplastin time (PTT)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003653.htm
+
+Resource: Petechiae
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/petechiae/basics/definition/SYM-20050724?p=1
+
+Resource: Platelet aggregation test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003669.htm
+
+Resource: Platelet antibodies blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003552.htm
+
+Resource: Platelet count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003647.htm
+
+Resource: Platelet Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/platelet-tests/
+
+Resource: Platelet Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Blood+Platelet+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Purpura
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003232.htm
+
+Resource: Splenectomy
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/splenectomy/about/pac-20395066?p=1
+
+Resource: Thrombocythemia and Thrombocytosis
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thrombocythemia-thrombocytosis
+
+Resource: Thrombocytopenia
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thrombocytopenia
+
+Resource: Thrombocytopenia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000586.htm
+
+Resource: Thrombocytosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thrombocytosis/symptoms-causes/syc-20378315?p=1
+
+Resource: Thrombotic thrombocytopenic purpura
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000552.htm
+
+Resource: Thrombotic Thrombocytopenic Purpura (TTP)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thrombotic-thrombocytopenic-purpura
+
+Resource: Thrombotic thrombocytopenic purpura: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/thrombotic-thrombocytopenic-purpura
+
+Resource: Treatments for Blood Disorders
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: Von Willebrand disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000544.htm
+
+Resource: von Willebrand Disease
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vwd.html
+
+Resource: von Willebrand Disease
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/vwd.html
+
+Resource: Von Willebrand disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/von-willebrand-disease
+
+Resource: What Are Bleeding Disorders
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/bleeding-disorders
+
+Resource: What Are Platelet Disorders?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/platelet-disorders
+
+Resource: X-linked thrombocytopenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-thrombocytopenia

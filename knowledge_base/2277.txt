@@ -1,0 +1,135 @@
+Title: Trastornos metabólicos
+
+Also Called:
+- Problemas del metabolismo
+- Problemas metabólicos
+
+Summary:
+El metabolismo es el proceso que usa el organismo para obtener o producir energía por medio de los alimentos que ingiere. 
+La comida está formada por proteínas, carbohidratos y grasas. Las sustancias químicas del sistema digestivo descomponen las partes de los  alimentos en azúcares y ácidos, el combustible de su cuerpo. El organismo puede utilizar esta energía de inmediato o almacenarla en tejidos corporales, como el hígado, los músculos y la grasa corporal.
+Un trastorno metabólico ocurre cuando hay reacciones químicas anormales en el cuerpo que interrumpen este proceso. Cuando esto  pasa, es posible que tenga demasiadas o muy pocas sustancias que su cuerpo necesita para mantenerse saludable. Existen diferentes grupos de trastornos. Algunos afectan la descomposición de los
+aminoácidos
+, los
+carbohidratos
+o los
+lípidos
+. Otro grupo, las enfermedades mitocondriales, afectan la parte de las células que producen la energía.
+Usted puede desarrollar un trastorno metabólico si algunos órganos, como el hígado o el páncreas, se enferman o no funcionan normalmente. La
+diabetes
+es un ejemplo.
+
+Groups:
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Acidosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001181.htm
+
+Resource: Acidosis metabólica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000335.htm
+
+Resource: Alcalosis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001183.htm
+
+Resource: Anomalía hereditaria del ciclo de la urea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000372.htm
+
+Resource: Demencia de origen metabólico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000683.htm
+
+Resource: Errores innatos del metabolismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002438.htm
+
+Resource: Evaluación del recién nacido: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/newbornscreening.html
+
+Resource: Examen de ácido metilmalónico en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003565.htm
+
+Resource: Examen del ácido láctico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003507.htm
+
+Resource: Gasometría arterial
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003855.htm
+
+Resource: Hiperbilirrubinemia familiar transitoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001196.htm
+
+Resource: Homocistinuria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001199.htm
+
+Resource: Metabolismo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/metabolism.html
+
+Resource: Neuropatías metabólicas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001161.htm
+
+Resource: Olor de la orina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007298.htm
+
+Resource: Panel metabólico completo (PMC)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-completo-pmc/
+
+Resource: Prueba de lactato
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato/
+
+Resource: Prueba de sangre de galactosa-1-fosfato uridiltransferasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003636.htm
+
+Resource: Seudohipoparatiroidismo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000364.htm
+
+Resource: Síndrome de Crigler-Najjar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001127.htm
+
+Resource: Síndrome de Lesch-Nyhan
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001655.htm
+
+Resource: Trastornos metabólicos hereditarios
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/salud-infantil/trastornos-metab%C3%B3licos-hereditarios/introducci%C3%B3n-a-los-trastornos-metab%C3%B3licos-hereditarios

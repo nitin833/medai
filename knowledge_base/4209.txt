@@ -1,0 +1,58 @@
+Title: Sobrellevando una enfermedad crónica
+
+Summary:
+Tener una enfermedad a largo plazo, o crónica, puede afectar su vida de muchas maneras. Puede sentirse frecuentemente cansado y con
+dolor
+. La enfermedad puede alterar su apariencia o sus capacidades físicas, así como su independencia. Es posible que no pueda trabajar, lo que puede ocasionarle problemas financieros.
+Para los niños, las enfermedades crónicas pueden ser atemorizantes, ya que a veces no entienden por qué les ocurre a ellos.
+Estos cambios pueden causar estrés, ansiedad y enojo. Si así le sucede, es importante buscar ayuda. Un consejero capacitado puede ayudarlo a desarrollar estrategias para recuperar la sensación de control. Los grupos de apoyo también pueden serle de ayuda. Descubrirá que no está solo y podrá enterarse de nuevos consejos para aprender a lidiar con la enfermedad.
+Es posible que pueda manejar mejor su enfermedad si aprende más al respecto. Es importante
+evaluar la información
+que encuentre para asegurarse de que es confiable. También es importante
+encontrar un proveedor de atención médica
+que pueda confiar.
+
+Groups:
+- Salud mental y conducta
+
+Related Resources:
+
+Resource: Anemia por enfermedad crónica
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000565.htm
+
+Resource: Comunicarse con los demás al vivir con una enfermedad crónica
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000602.htm
+
+Resource: Cómo ayudar a un amigo o ser querido que tiene una enfermedad crónica
+Category: Más información, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/chronic-illness/cronico
+
+Resource: Cómo comprender la relación entre las enfermedades crónicas y la depresión
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/las-enfermedades-cronicas-y-la-salud-mental-como-reconocer-y-tratar-la-depresion
+
+Resource: Enfermedades crónicas
+Category: Más información, Spanish/Español
+Organization: Asociación Estadounidense de Psicología
+URL: https://www.apa.org/topics/chronic-illness/cronicas?partner=nlm
+
+Resource: Enfermedades crónicas en tiempos de incertidumbre: Prepárese y planifique con anticipación
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-enfermedades-cronicas-en-tiempos-de-incertidumbre
+
+Resource: Manejo de los sentimientos al vivir con una enfermedad crónica
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000601.htm
+
+Resource: Vivir con una condición médica crónica
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/chronic-disease/es/living-with/vivir-con-una-condicion-medica-cronica.html

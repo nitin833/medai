@@ -1,0 +1,325 @@
+Title: Heart Health Tests
+
+Also Called:
+- Cardiac Diagnostic Tests
+
+Summary:
+Heart diseases
+are the number one killer in the United States. They are also a major cause of
+disability
+. If you do have heart disease, it is important to find it early, when it is easier to treat. Blood tests and heart health tests can help find heart diseases or identify problems that can lead to heart diseases. There are several different types of heart health tests. Your health care provider will decide which test or tests you need, based on your symptoms (if any),
+risk factors
+, and medical history.
+Cardiac Catheterization
+Cardiac catheterization is a medical procedure used to diagnose and treat some heart conditions. For the procedure, your provider puts a catheter (a long, thin, flexible tube) into a blood vessel in your arm, groin, or neck, and threads it to your heart. The provider can use the catheter to:
+Do a coronary angiography. This involves putting a special type of dye in the catheter, so the dye can flow through your bloodstream to your heart. Then your provider takes
+x-rays
+of your heart. The dye allows your provider to see your coronary arteries on the x-ray, and to check for
+coronary artery disease
+(CAD). CAD is caused by
+plaque buildup in the arteries
+.
+Take samples of your blood and heart muscle.
+Examine your
+heart valves
+.
+Do procedures such as
+angioplasty
+or minor
+heart surgeries
+to repair
+congenital heart defects
+or replace heart valves.
+Cardiac CT Scan
+A cardiac CT (
+computed tomography
+) scan is a painless imaging test that uses x-rays to take detailed pictures of your heart and its blood vessels. Computers can combine these pictures to create a three-dimensional (3D) model of your whole heart. This test can help providers detect or evaluate various heart problems, including:
+Coronary artery disease
+Calcium buildup in the coronary arteries
+Congenital heart defects
+Problems with the aorta (the main artery that carries blood away from the heart)
+Problems with heart function and valves
+Pericardial diseases
+Before you have the test, you get an injection of contrast dye. The dye highlights your heart and blood vessels in the pictures. The CT scanner is a large, tunnel-like machine. You lie still on a table that slides you into the scanner, and the scanner takes the pictures.
+Cardiac MRI
+Cardiac MRI (
+magnetic resonance imaging
+) is a painless imaging test that uses radio waves, magnets, and a computer to create detailed pictures of your heart. It can help your provider figure out whether you have heart disease, and if so, how severe it is. A cardiac MRI can also help your provider decide the best way to treat heart problems such as:
+Congenital heart defects
+Coronary artery disease
+Heart valve problems
+Pericarditis
+Cardiac tumors
+Damage from a
+heart attack
+The MRI is a large, tunnel-like machine. You lie still on a table that slides you into the MRI machine. The machine makes loud noises as it takes pictures of your heart. Sometimes before the test, you might get an injection of contrast dye. The dye highlights your heart and blood vessels in the pictures.
+Chest X-Ray
+A chest x-ray creates pictures of the organs and structures inside your chest, such as your heart, lungs, and blood vessels. It can reveal signs of
+heart failure
+, as well as lung disorders and other causes of symptoms not related to heart disease.
+Coronary Angiography
+Coronary angiography (angiogram) is a procedure that uses contrast dye and x-ray pictures to look at the insides of your arteries. It can show whether plaque is blocking your arteries and how severe the blockage is. Providers use this procedure to diagnose heart diseases after
+chest pain
+,
+sudden cardiac arrest
+(SCA), or abnormal results from other heart tests such as an EKG or a stress test.
+You usually have a cardiac catheterization to inject the dye into your coronary arteries. Then the provider will take special x-rays while the dye is flowing through your coronary arteries. The dye lets your provider study the flow of blood through your heart and blood vessels.
+Echocardiography
+Echocardiography, or echo, is a painless test that uses sound waves to create moving pictures of your heart. The pictures show the size and shape of your heart. They also show how well your heart's chambers and valves are working. Providers use an echo to diagnose many different heart problems, and to check how severe they are.
+There are several different types of echocardiography. For transthoracic echocardiography (the most common type), a technician applies gel to your chest. The gel helps sound waves reach your heart. The technician moves a transducer (wand-like device) across your chest. The transducer connects to a computer. It transmits ultrasound waves into your chest, and the waves bounce (echo) back. The computer converts the echoes into pictures of your heart.
+Electrocardiogram
+(EKG), (ECG)
+An electrocardiogram, also called an ECG or EKG, is a painless test that detects and records your heart's electrical activity. It shows how fast your heart is beating and whether its rhythm is steady or irregular.
+An EKG may be part of a routine exam to screen for heart disease. Or you may get it to detect and study heart problems such as heart attacks,
+arrhythmia
+, and heart failure.
+For the test, you lie still on a table and a nurse or technician attaches electrodes (patches that have sensors) to the skin on your chest, arms, and legs. Wires connect the electrodes to a machine that records your heart's electrical activity.
+Stress Testing
+Stress testing looks at how your heart works during physical stress. It can help to diagnose coronary artery disease, and to check how severe it is. It can also check for other problems, including heart valve disease and heart failure.
+For the test, you exercise (or are given medicine if you are unable to exercise) to make your heart work hard and beat fast. While this is happening, you get an EKG and blood pressure monitoring. Before or after the test, you might also have an echocardiogram, or other imaging tests such as a
+nuclear scan
+. For the nuclear scan, you get an injection of a tracer (a radioactive substance), which travels to your heart. Special cameras detect the energy from the tracer to craeate pictures of your heart. You have pictures taken after you exercise, and then after you rest.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Diagnostic Techniques, Cardiovascular
+- Heart Function Tests
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Aortic angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003814.htm
+
+Resource: Cardiac (Heart) Nuclear Medicine
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/cardinuclear
+
+Resource: Cardiac catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003419.htm
+
+Resource: Cardiac Catheterization
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cardiac-catheter.html
+
+Resource: Cardiac catheterization - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000096.htm
+
+Resource: Cardiac event monitors
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007700.htm
+
+Resource: Cardiac intravascular ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007266.htm
+
+Resource: Cardiovascular system
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000023.htm
+
+Resource: Catheter Angiography
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocath
+
+Resource: Chest X-Ray
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-attack/diagnosing-a-heart-attack/chest-xray
+
+Resource: ClinicalTrials.gov: Heart Imaging Tests
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22heart+diseases%22&intr=imaging&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Stress Testing
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=heart&intr=%22stress+testing%22&aggFilters=status:not%20rec
+
+Resource: Coronary angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003876.htm
+
+Resource: Coronary CTA (Computed Tomography Angiography)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocoroct
+
+Resource: CT Angiography (CTA)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angioct
+
+Resource: CT angiography - chest
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007676.htm
+
+Resource: Doctor Finder (Database of Interventional Radiologists)
+Category: Find an Expert
+Organization: Society of Interventional Radiology
+URL: https://www.sirweb.org/doctor-finder/
+
+Resource: Doppler Ultrasound
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/doppler-ultrasound/
+
+Resource: Echocardiogram
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003869.htm
+
+Resource: Echocardiogram - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007669.htm
+
+Resource: Ejection Fraction Heart Failure Measurement
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/heart-failure/diagnosing-heart-failure/ejection-fraction-heart-failure-measurement
+
+Resource: Electrocardiogram
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electrocardiogram/
+
+Resource: Electrocardiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003868.htm
+
+Resource: Exercise stress test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003878.htm
+
+Resource: Heart Anatomy
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/
+
+Resource: Heart CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007344.htm
+
+Resource: Heart Health Tests for People with Diabetes
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/diabetes/symptoms-diagnosis--monitoring-of-diabetes/heart-health-tests-for-diabetes-patients
+
+Resource: Heart Information Center
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/
+
+Resource: Heart MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003795.htm
+
+Resource: Heart Tests
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-tests
+
+Resource: Heart-Health Screenings
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease/heart-health-screenings
+
+Resource: His bundle electrography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003391.htm
+
+Resource: Holter monitor (24h)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003877.htm
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: Left heart ventricular angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003875.htm
+
+Resource: MR Angiography (MRA)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiomr
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Nuclear ventriculography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003822.htm
+
+Resource: Picturing the Heart
+Category: Start Here
+Organization: National Institute of Biomedical Imaging and Bioengineering
+URL: https://www.nibib.nih.gov/picturing-heart
+
+Resource: Heart Health Tests
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Heart+Function+Tests%22%5Bmajr%3Anoexp%5D+OR+%22Diagnostic+Techniques%2C+Cardiovascular%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+3+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Pulse Oximetry
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+
+Resource: Radiation from Cardiac Imaging Tests
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.146043
+
+Resource: Right heart ventricular angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003874.htm
+
+Resource: Stress echocardiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007150.htm
+
+Resource: Stress Tests
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/stress-tests/
+
+Resource: Tests for Lung Disease
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests

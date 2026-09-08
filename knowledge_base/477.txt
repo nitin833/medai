@@ -1,0 +1,207 @@
+Title: Uterine Diseases
+
+Summary:
+What are uterine diseases?
+The uterus, or womb, is the place where a fetus grows during pregnancy. Uterine diseases are conditions that affect the uterus. These diseases can be benign (not cancer) or malignant (
+cancerous
+). They may affect your menstrual periods, your
+ability to get pregnant
+, or the health of your reproductive organs.
+Some types of uterine diseases include:
+Adenomyosis.
+Tissue that usually lines the uterus grows on the outside walls.
+Cervicitis.
+Swelling or inflamed tissue of the cervix. The cervix is the lower part of the uterus.
+Endometrial hyperplasia.
+An overgrowth of normal cells inside the uterus.
+Endometriosis
+.
+Tissue like the lining of the uterus grows in other places in your body.
+Uterine prolapse.
+The uterus drops in to the vagina due to weakened pelvic muscles. This can happen after a few vaginal births, menopause, or because of obesity.
+What causes uterine diseases?
+Various factors can cause uterine diseases. These can include hormonal imbalances,
+thyroid problems
+,
+fibroids
+, polyps, cancer, infection, or pregnancy.
+What are the symptoms of uterine diseases?
+Your symptoms will depend on the type of uterine condition you have. The first sign of a problem with the uterus may be abnormal
+bleeding
+. Bleeding could occur between periods, be very heavy, or last much longer than usual. Other symptoms may include bleeding after sex or
+pelvic pain
+.
+How are uterine diseases diagnosed?
+To find out the cause of your symptoms, your health care provider may:
+Ask about your symptoms and medical history
+Do a
+pelvic exam
+Order blood tests or
+imaging tests
+Do a
+biopsy
+What are the treatments for uterine diseases?
+Treatment depends on the cause. It may include pain medicine, hormone therapy, or surgery. Your provider will work with you to choose the best treatment.
+
+Groups:
+- Women
+- Female Reproductive System
+
+MeSH Headings:
+- Uterine Diseases
+
+Related Resources:
+
+Resource: Abnormal Uterine Bleeding (AUB)
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/abnormal-uterine-bleeding-aub/
+
+Resource: Adenomyosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/adenomyosis/symptoms-causes/syc-20369138?p=1
+
+Resource: Adenomyosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001513.htm
+
+Resource: Asherman syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001483.htm
+
+Resource: Cervicitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cervicitis/symptoms-causes/syc-20370814?p=1
+
+Resource: ClinicalTrials.gov: Uterine Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Uterine+Diseases%22&aggFilters=status:not%20rec
+
+Resource: D and C
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002914.htm
+
+Resource: D and C - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100013_1.htm
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Dilation and Curettage (D&C)
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/dilation-and-curettage/about/pac-20384910?p=1
+
+Resource: Double Uterus
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/double-uterus/symptoms-causes/syc-20352261?p=1
+
+Resource: Dysfunctional Uterine Bleeding
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/a_to_z/dysfunctional-uterine-bleeding-a-to-z
+
+Resource: Endometrial ablation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007632.htm
+
+Resource: Endometrial Hyperplasia
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/endometrial-hyperplasia/
+
+Resource: Endometrial polyps
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007636.htm
+
+Resource: Endometritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001484.htm
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Hysterosalpingography (Uterosalpingography)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/hysterosalp
+
+Resource: Hysteroscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hysteroscopy/
+
+Resource: Hysteroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007571.htm
+
+Resource: Laparoscopy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: Mayer-Rokitansky-Küster-Hauser syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mayer-rokitansky-kuster-hauser-syndrome/
+
+Resource: Müllerian aplasia and hyperandrogenism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mullerian-aplasia-and-hyperandrogenism/
+
+Resource: Pelvic Exam
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/pelvic-exam/about/pac-20385135?p=1
+
+Resource: Pelvic ultrasound - abdominal
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007667.htm
+
+Resource: Pelvis Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pelvus
+
+Resource: Uterine diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Uterine+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retroversion of the uterus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001506.htm
+
+Resource: Uterine and Bladder Prolapse
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/womens-health/uterine-and-bladder-prolapse-a-to-z
+
+Resource: Uterine Conditions
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/uterine-conditions
+
+Resource: Uterine Polyps
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/uterine-polyps/symptoms-causes/syc-20378709?p=1

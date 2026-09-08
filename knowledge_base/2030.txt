@@ -1,0 +1,115 @@
+Title: Salud de los hombres
+
+Summary:
+La mayoría de los hombres tienen que prestar más atención a su salud. En comparación con las mujeres, los hombres son más propensos a:
+Fumar y beber
+Tomar decisiones poco saludables o riesgosas
+Retrasar chequeos regulares y atención médica
+También hay afecciones de salud que afectan solamente a los hombres, como el
+cáncer de próstata
+y bajos niveles de testosterona. Muchos de los principales riesgos de salud que enfrentan los hombres, como el de
+cáncer del colon
+o
+enfermedades cardiacas
+, pueden prevenirse y tratarse con un diagnóstico anticipado. Pruebas de diagnóstico pueden determinar enfermedades en forma temprana, cuando es más fácil tratarlas. Es importante someterse con regularidad a los exámenes médicos necesarios.
+
+Groups:
+- Hombres
+- Grupos especiales
+
+Related Resources:
+
+Resource: Cambios en el aparato reproductor masculino por el envejecimiento
+Category: Personas mayores, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/004017.htm
+
+Resource: Cuestionario sobre el nivel bajo de testosterona
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/003707_88.htm
+
+Resource: Cuestionario sobre las pruebas de detección para hombres
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/007465_79.htm
+
+Resource: Cáncer y los hombres
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/cancer-and-men.html
+
+Resource: Exámenes de salud para hombres de 18 a 39 años
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007464.htm
+
+Resource: Exámenes de salud para hombres de 40 a 64 años
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007465.htm
+
+Resource: Exámenes de salud para hombres de 65 años en adelante
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007466.htm
+
+Resource: Grasa abdominal en hombres: Por qué es importante la pérdida de peso
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685?p=1
+
+Resource: Hombre: Conserve su salud a cualquier edad
+Category: Comience aquí, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/wysiwyg/patients-consumers/patient-involvement/healthy-men/hombre.pdf
+
+Resource: Hombre: Conserve su salud después de los 50
+Category: Personas mayores, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/sites/default/files/publications/files/hombre50.pdf
+
+Resource: Hombres, tomen el control de su salud
+Category: Comience aquí, Spanish/Español
+Organization: Oficina de Prevención de Enfermedades y Promoción de la Salud
+URL: https://odphp.health.gov/espanol/myhealthfinder/visitas-medico/chequeos-periodicos/hombres-tomen-control-su-salud
+
+Resource: Osteoporosis en los hombres
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/health-topics/la-osteoporosis-en-los-hombres
+
+Resource: Prueba de niveles de testosterona
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-niveles-de-testosterona/
+
+Resource: Salud reproductiva masculina
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/menshealth
+
+Resource: Sexo y género: Cómo el ser hombre o mujer puede afectar su salud
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sexo-y-genero
+
+Resource: Significado de los cambios en la próstata: Guía de salud para los hombres
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/prostata/significado-cambios-en-la-prostata
+
+Resource: Terapia con testosterona: Posibles beneficios y riesgos conforme envejeces
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/sexual-health/in-depth/testosterone-therapy/art-20045728?p=1
+
+Resource: Testosterona
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003707.htm
+
+Resource: ¿Podría usted tener un nivel bajo testosterona?
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000722.htm

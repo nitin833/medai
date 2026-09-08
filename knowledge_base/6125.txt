@@ -1,0 +1,171 @@
+Title: Hyperglycemia
+
+Also Called:
+- High blood glucose
+- High blood sugar
+
+Summary:
+What is blood glucose?
+Blood glucose
+, or blood sugar, is the main sugar found in your blood. It is your body's primary source of energy. It comes from the food you eat. Your body breaks down most of that food into glucose and releases it into your bloodstream. When your blood glucose goes up, it signals your pancreas to release insulin. Insulin is a hormone that helps the glucose get into your cells to be used for energy.
+For people with
+diabetes
+, your body doesn't make enough insulin, can't use it as well as it should, or both. Too much glucose stays in your blood and doesn't reach your cells.
+What is hyperglycemia?
+Hyperglycemia means high blood glucose. It most often affects people who have diabetes. When you have diabetes, your body doesn't make enough insulin or can't use it the right way. Too much glucose stays in your blood and doesn't reach your cells.
+What causes hyperglycemia?
+A key part of managing diabetes is controlling your blood glucose levels. To do this, you need to follow a
+diabetes meal plan
+and get
+regular physical activity
+. You might also need to take
+diabetes medicines
+. You have to balance all of these to keep your blood glucose at the right levels. But if you eat too much food or the wrong foods, don't take your medicines correctly, or don't get physical activity, you can get hyperglycemia. It can also happen if you are
+stressed
+or sick.
+Less commonly, people who don't have diabetes can also get hyperglycemia. It can be caused by conditions that can affect insulin or glucose levels in your blood. They include problems with your
+pancreas
+or
+adrenal glands
+, certain medicines, and severe illnesses.
+What are the symptoms of hyperglycemia?
+The symptoms of hyperglycemia include:
+Feeling thirsty
+Feeling tired or weak
+Headaches
+Urinating (peeing) often
+Blurred vision
+If you are diabetic and you often have high blood glucose levels or the symptoms of hyperglycemia, talk with your health care team. You may need a change in your diabetes meal plan, physical activity plan, or diabetes medicines.
+If you don't have diabetes and you are having these symptoms, see your provider to find out the cause and how to treat it.
+What other problems can hyperglycemia cause?
+If hyperglycemia is not treated, it can cause other problems. In people with diabetes, long-term hyperglycemia can lead to serious
+health problems
+(diabetes complications).
+If your blood glucose levels get very high, you can develop diabetes-related ketoacidosis (DKA). It happens when your body doesn't have enough insulin to allow blood glucose into your cells for use as energy. Instead, your liver breaks down fat for fuel. This process produces acids called ketones. When too many ketones are produced too fast, they can build up to dangerous levels in your body. This can be life-threatening.
+The symptoms of DKA may include:
+Trouble breathing
+Nausea or vomiting
+Pain in your abdomen
+(belly)
+Confusion
+Feeling very tired or sleepy
+If you have an an at-home test for ketones, check your ketone level every 4 to 6 hours when your blood glucose is very high or when you are having these symptoms. If the test shows that your ketones are moderate or high, or if you don't have a ketones test, contact your health care provider right away or get emergency medical help.
+How is hyperglycemia diagnosed?
+If you have diabetes, you'll most likely need to check your blood glucose every day and make sure that it's not too high. You can do this with a blood glucose meter or continuous glucose monitoring (CGM) system.
+There are also
+blood tests
+that providers can use to check if your blood glucose is too high.
+What are the treatments for hyperglycemia?
+If you have diabetes and often have high blood glucose, your health care team may make changes to your diabetes meal plan, physical activity plan, and/or diabetes medicines.
+If you have severe hyperglycemia and are having symptoms of DKA, you will need treatment at the hospital. The treatment often includes I.V. (intravenous) fluids and insulin.
+Can hyperglycemia be prevented?
+If you have diabetes, managing your diabetes can help prevent hyperglycemia. To manage your diabetes, it's important to:
+Follow your diabetes meal plan
+Get regular physical activity
+If you need diabetes medicines, take them correctly
+Regularly check your blood glucose level
+Get regular checkups with your health care team
+
+Groups:
+- Endocrine System
+- Metabolic Problems
+- Diabetes Mellitus
+
+MeSH Headings:
+- Hyperglycemia
+
+Related Resources:
+
+Resource: A1C: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/a1c.html
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Blood Glucose Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+
+Resource: ClinicalTrials.gov: Hyperglycemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperglycemia%22&aggFilters=status:not%20rec
+
+Resource: Diabetes and High Blood Sugar
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/high-blood-sugar.html
+
+Resource: Diabetic hyperglycemic hyperosmolar syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000304.htm
+
+Resource: Diabetic ketoacidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000320.htm
+
+Resource: Diabetic Ketoacidosis
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/diabetic-ketoacidosis/symptoms-causes/syc-20371551?p=1
+
+Resource: DKA: Signs, Symptoms, and Treatment
+Category: Related Issues
+Organization: American Diabetes Association
+URL: https://diabetes.org/living-with-diabetes/dka
+
+Resource: High blood sugar - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000332.htm
+
+Resource: Hyperglycemia (High Blood Glucose)
+Category: Start Here
+Organization: American Diabetes Association
+URL: https://diabetes.org/living-with-diabetes/treatment-care/hyperglycemia
+
+Resource: Hyperglycemia - infants
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007228.htm
+
+Resource: Hyperglycemia and Diabetes
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hyperglycemia.html
+
+Resource: Hyperglycemia in Diabetes
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hyperglycemia/symptoms-causes/syc-20373631?p=1
+
+Resource: Ketones blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003498.htm
+
+Resource: Ketones urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003585.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Hyperglycemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hyperglycemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Is High Blood Glucose?
+Category: Start Here
+Organization: Joslin Diabetes Center
+URL: https://joslin.org/news-stories/all-news-stories/education/2020/04/what-high-blood-glucose

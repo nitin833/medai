@@ -1,0 +1,117 @@
+Title: Ureteral Disorders
+
+Summary:
+Your kidneys make urine by filtering wastes and extra water from your blood.  The urine travels from the kidneys to the bladder in two thin tubes called ureters.
+The ureters are about 8 to 10 inches long. Muscles in the ureter walls tighten and relax to force urine down and away from the kidneys. Small amounts of urine flow from the ureters into the bladder about every 10 to 15 seconds.
+Sometimes the ureters can become blocked or injured. This can block the flow of urine to the bladder. If urine stands still or backs up the ureter, you may get a
+urinary tract infection
+.
+Doctors diagnose problems with the ureters using different tests. These include urine tests, x-rays, and examination of the ureter with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Ureteral Diseases
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Ureteral Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ureteral+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ureteral Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ureteral+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Congenital anomalies of kidney and urinary tract: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-anomalies-of-kidney-and-urinary-tract/
+
+Resource: Cystoscopy and Ureteroscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy
+
+Resource: General Information about Transitional Cell Cancer of the Renal Pelvis and Ureter
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/kidney/patient/transitional-cell-treatment-pdq
+
+Resource: Hydronephrosis in Newborns
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns
+
+Resource: Injury - kidney and ureter
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001065.htm
+
+Resource: Intravenous Pyelogram (IVP)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/intravenous-pyelogram-ivp/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Ureteral Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ureteral+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Retroperitoneal fibrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000463.htm
+
+Resource: Retroperitoneal fibrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/retroperitoneal-fibrosis
+
+Resource: UPJ obstruction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001267.htm
+
+Resource: Ureteral reimplantation surgery - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007704.htm
+
+Resource: Ureteral retrograde brush biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003906.htm
+
+Resource: Ureterocele
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000462.htm
+
+Resource: Urinary Tract and How It Works
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-how-it-works
+
+Resource: Urinary Tract Imaging
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/urinary-tract-imaging
+
+Resource: Vesicoureteral Reflux (VUR)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vesicoureteral-reflux.html
+
+Resource: Vesicoureteral Reflux (VUR)
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns/vesicoureteral-reflux?dkrd=/health-information/urologic-diseases/urine-blockage-newborns/vesicoureteral-reflux

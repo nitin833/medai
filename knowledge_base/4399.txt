@@ -1,0 +1,173 @@
+Title: Infecciones de los ojos
+
+Summary:
+Los ojos pueden infectarse con bacterias, hongos o virus. Las infecciones de los ojos pueden ocurrir en distintas partes del ojo y afectar sólo un ojo o ambos. Dos infecciones comunes del ojo son:
+Conjuntivitis
+: también conocida como "ojo rojo". La conjuntivitis suele ser debida a una infección. Los niños presentan conjuntivitis con frecuencia y es muy contagiosa.
+Orzuelo: un abultamiento en el párpado que ocurre cuando las bacterias de la piel entran en el folículo piloso de una pestaña.
+Los síntomas de las infecciones oculares pueden incluir enrojecimiento, picazón, hinchazón, secreciones, dolor o problemas con la vista. El tratamiento depende de la causa de la infección y puede incluir compresas, gotas para los ojos, pomadas o antibióticos.
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Ardor, picazón y secreción del ojo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003034.htm
+
+Resource: Blefaritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/blefaritis
+
+Resource: Blefaritis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001619.htm
+
+Resource: Celulitis orbitaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001012.htm
+
+Resource: Celulitis periorbitaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000976.htm
+
+Resource: Cuidado de los ojos y la visión: Tema de salud de MedlinePlus
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/eyecare.html
+
+Resource: Cómo usar cosméticos con seguridad alrededor de los ojos
+Category: Spanish/Español, Mujeres
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/uso-de-maquillaje-en-los-ojos
+
+Resource: Dacrioadenitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001625.htm
+
+Resource: Dacriocistitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/dacriocistitis
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Endoftalmitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001626.htm
+
+Resource: Enrojecimiento de los ojos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003031.htm
+
+Resource: Examen con lámpara de hendidura
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003880.htm
+
+Resource: Gotas para los ojos
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17120/gotas-para-los-ojos/
+
+Resource: Infecciones de los ojos en los bebés y en los niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/eyes/Paginas/eye-infections.aspx
+
+Resource: Infecciones relacionadas con el uso de lentes de contacto
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/infecciones-relacionadas-con-lentes-de-contacto-2
+
+Resource: Inflamación de la órbita
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-cavidad-ocular-%C3%B3rbita/inflamaci%C3%B3n-de-la-%C3%B3rbita
+
+Resource: Meibomianitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001621.htm
+
+Resource: Orzuelo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sty/symptoms-causes/syc-20378017?p=1
+
+Resource: Protuberancia en el párpado
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001009.htm
+
+Resource: Retinitis por citomegalovirus
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000665.htm
+
+Resource: Síndrome oculoglandular de Parinaud
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000736.htm
+
+Resource: Síntomas oculares
+Category: Spanish/Español, Síntomas
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/sintomas-lista
+
+Resource: Tracoma
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001486.htm
+
+Resource: Triquiasis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/triquiasis
+
+Resource: ¿Cuál es la diferencia entre un orzuelo y un chalazión? Causas, síntomas, tratamientos
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/chalazion-orzuelo
+
+Resource: ¿Qué es la blefaritis?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-la-blefaritis
+
+Resource: ¿Qué es la queratitis bacteriana?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/queratitis-bacteriana
+
+Resource: ¿Qué es la queratitis fúngica?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/queratitis-fungica
+
+Resource: ¿Qué es la queratitis herpética?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/queratitis-herpetica
+
+Resource: Úlceras e infecciones corneales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001032.htm

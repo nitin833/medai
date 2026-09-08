@@ -1,0 +1,190 @@
+Title: Stem Cells
+
+Summary:
+Stem cells are cells with the potential to develop into many different types of cells in the body. They serve as a repair system for the body. There are two main types of stem cells: embryonic stem cells and adult stem cells.
+Stem cells are different from other cells in the body in three ways:
+They can divide and renew themselves over a long time
+They are unspecialized, so they cannot do specific functions in the body
+They have the potential to become specialized cells, such as muscle cells, blood cells, and brain cells
+Doctors and scientists are excited about stem cells because they could help in many different areas of health and medical research.  Studying stem cells may help explain how serious conditions such as birth defects and cancer come about. Stem cells may one day be used to make cells and tissues for therapy of many diseases. Examples include Parkinson's disease, Alzheimer's disease, spinal cord injury, heart disease, diabetes, and arthritis.
+NIH: National Institutes of Health
+
+Groups:
+- Transplantation and Donation
+
+MeSH Headings:
+- Stem Cell Transplantation
+- Stem Cells
+- Hematopoietic Stem Cell Transplantation
+- Hematopoietic Stem Cells
+
+Related Resources:
+
+Resource: 9 Things to Know about Stem Cell Treatments
+Category: Specifics
+Organization: International Society for Stem Cell Research
+URL: https://www.aboutstemcells.org/info/nine-things-to-know-about-stem-cell-treatments
+
+Resource: About Transplantation -- Blood Stem Cell
+Category: Specifics
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/transplant-basics/about-transplantation
+
+Resource: Becoming a Blood Stem Cell Donor
+Category: Videos and Tutorials
+Organization: National Cancer Institute
+URL: https://www.youtube.com/watch?v=mnTnkR7I0zk
+
+Resource: Blood & Marrow Transplant Information Network
+Category: Find an Expert
+Organization: Blood & Marrow Transplant Information Network
+URL: https://bmtinfonet.org/
+
+Resource: Bone marrow (stem cell) donation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000839.htm
+
+Resource: ClinicalTrials.gov: Hematopoietic Stem Cell Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22hematopoietic+stem+cell+transplantation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hematopoietic Stem Cells
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hematopoietic+Stem+Cells%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Stem Cell Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Stem+Cell+Transplantation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Stem Cells
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Stem+Cells%22&aggFilters=status:not%20rec
+
+Resource: Cord Blood Testing and Banking
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cord-blood-testing-and-banking/
+
+Resource: Diseases Treated by Bone Marrow and Stem Cell Transplant
+Category: Start Here
+Organization: Blood & Marrow Transplant Information Network
+URL: https://bmtinfonet.org/transplant-article/diseases-treated-transplant
+
+Resource: Donating Peripheral Blood Stem Cells (PBSC)
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/get-involved/join-the-registry/donate-pbsc
+
+Resource: Donating Stem Cells and Bone Marrow
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/donors.html
+
+Resource: Donation and Transplantation Statistics
+Category: Statistics and Research
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/data/donation-and-transplantation-statistics
+
+Resource: Focus on Stem Cell Research
+Category: Statistics and Research
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/current-research/focus-tools-topics/focus-stem-cell-research
+
+Resource: Getting a Stem Cell or Bone Marrow Transplant
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/process.html
+
+Resource: Graft-versus-host disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001309.htm
+
+Resource: Introduction to Stem Cells
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://stemcells.nih.gov/info/basics
+
+Resource: Life After Bone Marrow or Blood Stem Cell Transplant
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/patients/transplant-support/life-after-transplant
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: NIH Stem Cell Information
+Category: Find an Expert
+Organization: National Institutes of Health
+URL: https://stemcells.nih.gov/
+
+Resource: Planning for a Transplant -- Blood Stem Cell
+Category: Related Issues
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/transplant-basics/planning-transplant
+
+Resource: Public Cord Blood Banks and Donation Hospitals
+Category: Find an Expert
+Organization: NMDP
+URL: https://www.nmdp.org/what-we-do/partnerships/global-transplant-network/cord-blood-banks-and-hospitals
+
+Resource: Stem Cells
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Stem+Cells%22%5Bmajr%3Anoexp%5D+OR+%22Hematopoietic+Stem+Cells%22%5Bmajr%3Anoexp%5D+OR+%22Stem+Cell+Transplantation%22%5Bmajr%3Anoexp%5D+OR+%22Hematopoietic+Stem+Cell+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stem Cell Glossary
+Category: Reference Desk
+Organization: International Society for Stem Cell Research
+URL: https://www.aboutstemcells.org/info/glossary
+
+Resource: Stem Cell or Bone Marrow Transplant Side Effects
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/transplant-side-effects.html
+
+Resource: Stem Cell Transplants (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stem-cells.html
+
+Resource: Stem Cell Transplants (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/stem-cells.html
+
+Resource: Stem Cells: What They Are and What They Do
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/bone-marrow-transplant/in-depth/stem-cells/art-20048117?p=1
+
+Resource: Treatment ​Steps B​efore​ a​ ​B​lood ​S​tem ​C​ell ​T​ransplant
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/patients/transplant-support/preparing-for-transplant/treatment-before-transplant
+
+Resource: Types of Stem Cells
+Category: Specifics
+Organization: International Society for Stem Cell Research
+URL: https://www.aboutstemcells.org/info/stem-cell-types
+
+Resource: Umbilical ​​​Cord Blood Donation Process and FAQs
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/get-involved/join-the-registry/donate-cord-blood/cord-blood-donation-process
+
+Resource: What Are Stem Cells?
+Category: Start Here
+Organization: International Society for Stem Cell Research
+URL: https://www.aboutstemcells.org/stem-cell-intro
+
+Resource: What Should I Ask Before Considering an Unproven Stem Cell Treatment?
+Category: Related Issues
+Organization: International Society for Stem Cell Research
+URL: https://www.aboutstemcells.org/info/what-should-i-ask-before-considering-an-unproven-stem-cell-treatment

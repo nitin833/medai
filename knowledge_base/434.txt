@@ -1,0 +1,265 @@
+Title: Testicular Cancer
+
+Summary:
+What is testicular cancer?
+Testicular cancer is a cancer that develops in the tissues of one or both testicles. The testicles, or testes, are part of the male reproductive system. They make male hormones and sperm. They are two egg-shaped glands inside the scrotum, a sac of loose skin that lies below the penis. You can get cancer in one or both testicles.
+Who is most likely to develop testicular cancer?
+Testicular cancer is very rare. You can get it at any age, but it is most common in men between the ages of 20 and 39.  It is also more common in those who:
+Have had abnormal
+testicle
+development
+Have had an undescended testicle, a condition in which one or both testicles fail to move into the scrotum before birth
+Have had testicle cancer before
+Have a family history of the cancer
+Are White
+What are the symptoms of testicular cancer?
+The symptoms of testicular cancer may include:
+A painless lump or swelling in either testicle
+A change in how the testicle feels
+A dull ache in the lower abdomen (belly) or the groin (the area where the thigh meets the abdomen)
+A sudden build-up of fluid in the scrotum
+Pain or discomfort in a testicle or in the scrotum
+How is testicular cancer diagnosed?
+To find out if you have testicular cancer, your health care provider may use:
+A physical exam.
+Blood tests.
+An
+ultrasound
+of the testicles.
+An inguinal orchiectomy, which is a procedure to remove the entire testicle. A tissue sample from the testicle is viewed under a microscope to check for cancer cells.
+What are the treatments for testicular cancer?
+Testicular cancer can usually be cured.The treatment options include:
+Surgery (if the testicle has not already been removed during diagnosis).
+Radiation therapy
+.
+Chemotherapy
+.
+High-dose chemotherapy with
+stem cell transplant
+.
+Surveillance, which might be done after surgery. It means that your provider will closely follow your condition with regular exams and tests. You won't get any further treatment unless there are changes in your test results.
+Some of the treatments may also cause
+infertility
+. If you may want to have children later on, you should consider sperm banking before treatment.
+After you have finished your treatment, you will need regular follow-up testing to make sure that the cancer has not come back. If you have had cancer in one testicle, you have a higher risk of getting cancer in the other testicle. So it's important to check the other testicle regularly and let your provider know if you notice any changes or unusual symptoms.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Endocrine System
+- Men
+- Male Reproductive System
+
+MeSH Headings:
+- Testicular Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Alpha Fetoprotein (AFP) Tumor Marker Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-tumor-marker-test/
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Can Testicular Cancer Be Found Early?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/detection-diagnosis-staging/detection.html
+
+Resource: Cancer Stat Facts: Testicular Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/testis.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Chemotherapy for Testicular Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/treating/chemotherapy.html
+
+Resource: Childhood Testicular Cancer
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/testicular/childhood
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Testicular Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Testicular+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Drugs Approved for Testicular Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/testicular
+
+Resource: General Information about Childhood Extracranial Germ Cell Tumors
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/extracranial-germ-cell/patient/germ-cell-treatment-pdq#_1
+
+Resource: High-Dose Chemotherapy and Stem Cell Transplant for Testicular Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/treating/high-dose-chemo-stem-cell.html
+
+Resource: How to Do a Testicular Self-Exam
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/tse.html
+
+Resource: Key Statistics for Testicular Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/about/key-statistics.html
+
+Resource: Leydig cell testicular tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000409.htm
+
+Resource: Living as a Testicular Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/after-treatment/survivorship.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Pelvis MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007355.htm
+
+Resource: Testicular Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Testicular+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation Therapy for Testicular Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/treating/radiation-therapy.html
+
+Resource: Risk Factors for Testicular Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Scrotal Masses
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/scrotal-masses/symptoms-causes/syc-20352604?p=1
+
+Resource: Scrotal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003780.htm
+
+Resource: Surgery for Testicular Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/treating/surgery.html
+
+Resource: Testicle lump
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003162.htm
+
+Resource: Testicular biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003908.htm
+
+Resource: Testicular cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001288.htm
+
+Resource: Testicular Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/testicular/screening
+
+Resource: Testicular Cancer Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/testicular/treatment
+
+Resource: Testicular Microlithiasis: Is It Linked with Testicular Cancer?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/testicular-cancer-care/expert-answers/microlithiasis/faq-20058074?p=1
+
+Resource: Testicular Self-Exam
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/testicular-exam/about/pac-20385252?p=1
+
+Resource: Testicular self-exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003909.htm
+
+Resource: Tests for Testicular Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment Options for Testicular Cancer, by Type and Stage
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/treating/by-stage.html
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Ultrasound -- Scrotum
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-scrotal
+
+Resource: What Causes Testicular Cancer?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/causes-risks-prevention/what-causes.html
+
+Resource: What Is Testicular Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/about/what-is-testicular-cancer.html
+
+Resource: What's New in Testicular Cancer Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/testicular-cancer/about/new-research.html

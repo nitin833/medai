@@ -1,0 +1,109 @@
+Title: Organ Transplantation
+
+Summary:
+You may need an organ transplant if one of your organs has failed. This can happen because of illness or injury. When you have an organ transplant, doctors remove an organ from another person and place it in your body.  The organ may come from a living donor or a donor who has died.
+The organs that can be transplanted include:
+Heart
+Intestine
+Kidney
+Liver
+Lung
+Pancreas
+You often have to wait a long time for an organ transplant. Doctors must match donors to recipients to reduce the risk of transplant rejection. Rejection happens when your immune system attacks the new organ. If you have a transplant, you must take drugs the rest of your life to help keep your body from rejecting the new organ.
+
+Groups:
+- Transplantation and Donation
+
+MeSH Headings:
+- Organ Transplantation
+
+Related Resources:
+
+Resource: About Transplant Safety
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/transplant-safety/about/index.html
+
+Resource: ClinicalTrials.gov: Organ Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Organ+Transplantation%22&aggFilters=status:not%20rec
+
+Resource: Histocompatibility antigen test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003550.htm
+
+Resource: HLA-B27 antigen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003551.htm
+
+Resource: How We Match Organs
+Category: Related Issues
+Organization: United Network for Organ Sharing
+URL: https://unos.org/transplant/how-we-match-organs/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: OPTN/SRTR Annual Data Report
+Category: Statistics and Research
+Organization: Scientific Registry of Transplant Recipients
+URL: https://srtr.hrsa.gov/transplant-professionals/optnsrtr-annual-data-report/
+
+Resource: Organ Procurement and Transplantation Network
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn
+
+Resource: Organ Procurement and Transplantation Network Data and Calculators
+Category: Statistics and Research
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/data-calculators
+
+Resource: Organ Transplant Process
+Category: Start Here
+Organization: Health Resources and Services Administration
+URL: https://www.organdonor.gov/learn/process/transplant-process
+
+Resource: Organ Transplantation: Frequently Asked Questions
+Category: Start Here
+Organization: United Network for Organ Sharing
+URL: https://unos.org/transplant/frequently-asked-questions/
+
+Resource: Organ Transplants: What Every Kid Needs to Know
+Category: Children
+Organization: United Network for Organ Sharing
+URL: https://unos.org/wp-content/uploads/unos/Brochure-113k-What-every-kid-needs-to-know.pdf
+
+Resource: Partnering with Your Transplant Team: The Patient's Guide to Transplantation
+Category: Start Here
+Organization: United Network for Organ Sharing, Health Resources and Services Administration
+URL: https://www.unos.org/wp-content/uploads/unos/PartneringWithTransplantTeam.pdf
+
+Resource: Organ Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Organ+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Talking about Transplantation: What Every Patient Needs to Know
+Category: Living With
+Organization: United Network for Organ Sharing
+URL: https://unos.org/wp-content/uploads/Brochure-113-What-every-patient-needs-to-know.pdf
+
+Resource: Transplant rejection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000815.htm
+
+Resource: Transplant services
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007457.htm
+
+Resource: Xenotransplantation
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/vaccines-blood-biologics/xenotransplantation

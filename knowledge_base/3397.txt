@@ -1,0 +1,113 @@
+Title: Ergonomics
+
+Summary:
+Ergonomics looks at what kind of work you do, what tools you use and your whole job environment.  The aim is to find the best fit between you and your job conditions. Examples of ergonomic changes to your work might include:
+Adjusting the position of your computer keyboard to prevent
+carpal tunnel syndrome
+Being sure that the height of your desk chair allows your feet to rest flat on the floor
+Learning the right way to lift heavy objects to prevent
+back injuries
+Using handle coatings or special gloves to suppress vibrations from power tools
+Making sure that you have
+good posture
+in whatever you do, whether it is sitting in front of a computer, standing at a checkout, or walking around a warehouse
+No matter what the job is, the goal is to make sure that you are safe, comfortable, and less prone to work-related injuries.
+
+Groups:
+- Bones, Joints and Muscles
+- Wellness and Lifestyle
+- Safety Issues
+
+MeSH Headings:
+- Ergonomics
+
+Related Resources:
+
+Resource: Chairs
+Category: Specifics
+Organization: National Institutes of Health, Office of Research Services, Division of Occupational Health and Safety.
+URL: https://ors.od.nih.gov/sr/dohs/HealthAndWellness/Ergonomics/Pages/ergonomic_chair.aspx
+
+Resource: ClinicalTrials.gov: Cumulative Trauma Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cumulative+Trauma+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Computer Workstations eTool: Desks
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/desks
+
+Resource: Computer Workstations eTool: Good Working Positions
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/positions
+
+Resource: Computer Workstations eTool: Keyboards
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/keyboards
+
+Resource: Computer Workstations eTool: Pointer/Mouse
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/pointer-mouse
+
+Resource: Computer Workstations eTool: Wrist/Palm Supports
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/wrist-palm-support
+
+Resource: Easy Ergonomics: A Guide to Selecting Non-Powered Hand Tools
+Category: Related Issues
+Organization: National Institute for Occupational Safety and Health
+URL: https://stacks.cdc.gov/view/cdc/5249/cdc_5249_DS1.pdf
+
+Resource: Ergonomic Strategies for Using a Purse
+Category: Specifics
+Organization: American Occupational Therapy Association
+URL: https://www.bu.edu/promotingot/files/2023/11/Ergonomic-Strategies-for-Using-a-Purse-1.pdf
+
+Resource: Ergonomics -- Overview
+Category: Start Here
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/ergonomics
+
+Resource: Ergonomics and Work-Related Musculoskeletal Disorders
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/ergonomics/
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: Nonfatal Injuries and Illnesses Resulting in Days of Job Transfer or Restriction, 1992-2022
+Category: Statistics and Research
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/opub/ted/2024/nonfatal-injuries-and-illnesses-resulting-in-days-of-job-transfer-or-restriction-1992-2022.htm
+
+Resource: Occupational Safety and Health Administration
+Category: Find an Expert
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/
+
+Resource: Overuse Injuries
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/rsi.html
+
+Resource: Practical Tips and Simple Exercises to Prevent Neck Pain
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/pain/practical-tips-and-simple-exercises-to-prevent-neck-pain
+
+Resource: Ergonomics
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ergonomics%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Workplace Ergonomics Reference Guide
+Category: Start Here
+Organization: Department of Defense
+URL: https://cap.mil/file/get/documents/2ab5204a-f16c-4a46-88d9-6b86a549f77b.pdf

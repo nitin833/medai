@@ -1,0 +1,181 @@
+Title: Desarrollo del niño
+
+Summary:
+Al crecer los niños, se desarrollan de diferentes maneras. El desarrollo del niño incluye cambios físicos, intelectuales, sociales y emocionales.
+Los niños crecen y maduran a velocidades muy distintas. Es difícil definir lo que es "normal". Pueden existir grandes diferencias de altura, peso y contextura entre los niños sanos  dependiendo de la dieta, el ejercicio y los genes. Algunos niños comienzan la pubertad o están cerca de ella antes de ser adolescentes.
+Los niños empiezan a ser más independientes de sus padres. Pueden volverse rebeldes. También admiran lo externo, como a sus amigos, quienes suelen ser del mismo sexo. La aprobación de sus pares es muy importante. Su hijo puede probar algunos comportamientos nuevos para ser parte del "grupo".
+Éste puede ser un momento en el que los padres o los maestros identifican
+trastornos del aprendizaje
+o
+problemas de la conducta
+en los niños. Estos problemas pueden empeorar a medida que pasa el tiempo, de modo que es importante buscar ayuda lo antes posible.
+
+Groups:
+- Niños y adolescentes
+
+Related Resources:
+
+Resource: 2 a 20 años: Niños percentiles de estatura por edad y peso por edad
+Category: Información de referencia, Spanish/Español
+Organization: Centro Nacional de Estadísticas de la Salud
+URL: https://www.cdc.gov/growthcharts/data/Spanishpdf95/co06l021.pdf
+
+Resource: Aprenda los signos. Reaccione pronto
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/act-early/es/
+
+Resource: Aumento insuficiente de peso
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000991.htm
+
+Resource: Autoestima de su hijo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/self-esteem.html
+
+Resource: Comportamiento (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emotions/
+
+Resource: Comprender el temperamento de su hijo: Por qué es importante
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/paginas/how-to-understand-your-childs-temperament.aspx
+
+Resource: Consejos para la crianza positiva: niños en edad prescolar (de 3 a 5 años)
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/child-development/es/positive-parenting-tips/consejos-para-la-crianza-positiva-ninos-en-edad-prescolar-de-3-a-5-anos.html
+
+Resource: Crecimiento de su hijo(a)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/childs-growth.html
+
+Resource: Crecimiento y desarrollo (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth/
+
+Resource: Crecimiento y desarrollo normales
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002456.htm
+
+Resource: Curva de crecimiento
+Category: Información de referencia, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001910.htm
+
+Resource: Cómo decirle a su hijo que un familiar padece una enfermedad grave
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/serious-illness.html
+
+Resource: Desarrollo de los niños en edad escolar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002017.htm
+
+Resource: Desarrollo de los niños en edad preescolar
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002013.htm
+
+Resource: Enuresis nocturna
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/toddler/toilet-training/paginas/bedwetting.aspx
+
+Resource: Estoy creciendo: Pero, ¿soy normal?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/growing-up-normal.html
+
+Resource: Fisioterapia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/phys-therapy.html
+
+Resource: Gráficas de crecimiento
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/growth-charts.html
+
+Resource: Gráficas de crecimiento: Explicamos los percentiles
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/glands-growth-disorders/paginas/growth-charts-by-the-numbers.aspx
+
+Resource: La magia del juego: Cómo inspira y favorece el desarrollo inicial
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/play-magic.html
+
+Resource: Logopedia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/speech-therapy.html
+
+Resource: Mojar la cama (Enuresis nocturna)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/enuresis.html
+
+Resource: Monitoreo y pruebas del desarrollo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/act-early/es/about/developmental-monitoring-and-screening.html
+
+Resource: Orinarse en la cama
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000703.htm
+
+Resource: Problemas de control de la vejiga y de mojar la cama en los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/problemas-control-vejiga-enuresis-ninos
+
+Resource: Pruebas de evaluación del desarrollo y el comportamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-evaluacion-del-desarrollo-y-el-comportamiento/
+
+Resource: Rabietas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001922.htm
+
+Resource: Registro de acontecimientos importantes del desarrollo a los 5 años de edad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002016.htm
+
+Resource: Registro de los hitos del desarrollo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002002.htm
+
+Resource: Registro de los hitos del desarrollo a los 4 años de edad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002015.htm
+
+Resource: Timidez
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/shy.html
+
+Resource: Timidez en los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/gradeschool/paginas/shyness-in-children.aspx
+
+Resource: ¿Qué es un pediatra del desarrollo conductual?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-developmental-behavioral-pediatrician.aspx

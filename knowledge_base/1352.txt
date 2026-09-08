@@ -1,0 +1,209 @@
+Title: Critical Care
+
+Also Called:
+- ICU
+- Intensive care
+
+Summary:
+What is critical care?
+Critical care is medical care for people who have life-threatening injuries and illnesses. It usually takes place in an intensive care unit (ICU). A team of specially-trained health care providers gives you 24-hour care. This includes using machines to constantly monitor your
+vital signs
+. It also usually involves giving you specialized treatments.
+Who needs critical care?
+You need critical care if you have a life-threatening illness or injury, such as:
+Severe
+burns
+COVID-19
+Heart attack
+Heart failure
+Kidney failure
+People recovering from certain major surgeries
+Respiratory failure
+Sepsis
+Severe
+bleeding
+Serious
+infections
+Serious
+injuries
+, such as from car crashes,
+falls
+, and shootings
+Shock
+Stroke
+What happens in a critical care unit?
+In a critical care unit, health care providers use lots of different equipment, including:
+Catheters, flexible tubes used to get fluids into the body or to drain fluids from the body
+Dialysis
+machines ("artificial kidneys") for people with kidney failure
+Feeding tubes, which give you
+nutritional support
+Intravenous (IV) tubes to give you fluids and medicines
+Machines which check your vital signs and display them on monitors
+Oxygen therapy
+to give you extra oxygen to breathe in
+Tracheostomy tubes, which are breathing tubes. The tube is placed in a surgically made hole that goes through the front of the neck and into the windpipe.
+Ventilators (breathing machines), which move air in and out of your lungs. This is for people who have respiratory failure.
+These machines can help keep you alive, but many of them can also raise your risk of infection.
+Sometimes people in a critical care unit are not able to communicate. It's important that you have an
+advance directive
+in place. This can help your health care providers and family members make important decisions, including
+end-of-life decisions
+, if you are not able to make them.
+
+Groups:
+- Surgery and Rehabilitation
+
+MeSH Headings:
+- Critical Care
+
+Related Resources:
+
+Resource: Arterial Catheterization
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/arterial-catheterization.pdf
+
+Resource: Central Venous Catheter
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/central-venous-catheter.pdf
+
+Resource: Central venous catheter - dressing change
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000156.htm
+
+Resource: Central venous catheter - flushing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000157.htm
+
+Resource: Chest tube insertion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002947.htm
+
+Resource: Chest tube insertion - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100008_1.htm
+
+Resource: Chest Tube Thoracostomy
+Category: Treatments and Therapies
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/chest-tube-thoracostomy.pdf
+
+Resource: ClinicalTrials.gov: Intensive Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Intensive+Care%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Life Support Care
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Life+Support+Care%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tracheostomy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=tracheostomy&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ventilators, Mechanical
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=mechanical+ventilators&aggFilters=status:not%20rec
+
+Resource: Extracorporeal membrane oxygenation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007234.htm
+
+Resource: Implanted Ports
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/implanted-ports.html
+
+Resource: Mechanical ventilator - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007240.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: NICU consultants and support staff
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007249.htm
+
+Resource: Peripherally Inserted Central Catheter (PICC Line)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picc-lines.html
+
+Resource: Peripherally inserted central catheter - dressing change
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000462.htm
+
+Resource: Peripherally inserted central catheter - flushing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000159.htm
+
+Resource: Peripherally inserted central catheter - insertion
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000461.htm
+
+Resource: Critical care - adults
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Critical+Care%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Swan-Ganz - right heart catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003870.htm
+
+Resource: Tracheostomy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002955.htm
+
+Resource: Tracheostomy (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tracheostomy.html
+
+Resource: Tracheostomy - series -- Normal anatomy
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100043_1.htm
+
+Resource: Tracheostomy care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000076.htm
+
+Resource: Tunneled Central Lines
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cv-catheters.html
+
+Resource: What Is a Ventilator?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/ventilator
+
+Resource: When Your Baby's in the NICU (Neonatal Intensive Care Unit)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/nicu-caring.html
+
+Resource: When Your Child's in the Pediatric Intensive Care Unit
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picu.html

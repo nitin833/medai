@@ -1,0 +1,165 @@
+Title: Health Statistics
+
+Summary:
+Health statistics are numbers that summarize information related to health. Researchers and experts from government, private, and non-profit agencies and organizations collect health statistics. They use the statistics to learn about public health and health care. Some of the types of statistics include:
+How many people in the country have a disease or how many people got the disease within a certain period of time
+How many people of a certain group have a disease. The groups could be based on location, race, ethnic group, sex, age, profession, income level, or level of education. This can help identify
+health disparities
+.
+Whether a treatment is safe and effective
+How many people were born and died. These are known as vital statistics.
+How many people have access to and use health care
+The quality and efficiency of our health care system
+Health care costs, including how much the government, employers, and individuals pay for health care. It could include how poor health can affect the country economically
+The impact of government programs and policies on health
+Risk factors for different diseases. An example would be how
+air pollution
+can raise your risk of
+lung diseases
+Ways to lower risk for diseases, such as exercise and weight loss to lower the risk of getting
+type 2 diabetes
+Numbers on a graph or in a chart may seem straightforward, but that's not always the case. It's important to be critical and consider the source. If needed, ask questions to help you
+understand
+the statistics and what they are showing.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Statistics as Topic
+
+Related Resources:
+
+Resource: America's Children: Special Issue 2024, Maternal and Infant Health and Well-being
+Category: Children
+Organization: Federal Interagency Forum on Child and Family Statistics
+URL: https://www.childstats.gov/americaschildren/
+
+Resource: Bureau of the Census
+Category: Find an Expert
+Organization: Bureau of the Census
+URL: https://www.census.gov/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Death among children and adolescents
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001915.htm
+
+Resource: FastStats: A to Z
+Category: Start Here
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/
+
+Resource: FastStats: Adolescent Health
+Category: Teenagers
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/adolescent-health.htm
+
+Resource: FastStats: Child Health
+Category: Children
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/child-health.htm
+
+Resource: FastStats: Deaths and Mortality
+Category: Related Issues
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/deaths.htm
+
+Resource: FastStats: Leading Causes of Death
+Category: Related Issues
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
+
+Resource: FastStats: Life Expectancy
+Category: Related Issues
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/life-expectancy.htm
+
+Resource: FastStats: Men's Health
+Category: Men
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/mens-health.htm
+
+Resource: FastStats: Older Persons' Health
+Category: Older Adults
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/older-american-health.htm
+
+Resource: FastStats: Women's Health
+Category: Women
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/womens-health.htm
+
+Resource: Global Health Estimates: Life Expectancy and Leading Causes of Death and Disability
+Category: Related Issues
+Organization: World Health Organization
+URL: https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates
+
+Resource: Health, United States, 2018
+Category: Start Here
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/hus/index.htm
+
+Resource: Infant Mortality
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/maternal-infant-health/infant-mortality/
+
+Resource: Infant Mortality: Death Rates among Infants by Detailed Race and Hispanic Origin of Mother, Selected Years 1983-2020
+Category: Children
+Organization: Federal Interagency Forum on Child and Family Statistics
+URL: https://www.childstats.gov/americaschildren23/tables/health2.asp?popup=true
+
+Resource: Leading Health Indicators -- Healthy People 2030
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://odphp.health.gov/healthypeople/objectives-and-data/leading-health-indicators
+
+Resource: Measuring the Nation's Health
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nchs/about/measuring-the-nations-health.html
+
+Resource: Morbidity and Mortality Weekly Report (MMWR)
+Category: Reference Desk
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mmwr/
+
+Resource: National Center for Health Statistics
+Category: Find an Expert
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/
+
+Resource: National Healthcare Quality and Disparities Reports
+Category: Specifics
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/research/findings/nhqrdr/index.html
+
+Resource: National Vital Statistics System (NVSS) Birth Data
+Category: Related Issues
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/nvss/births.htm
+
+Resource: Health statistics
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Statistics+as+Topic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: State Health Facts
+Category: Related Issues
+Organization: KFF
+URL: https://www.kff.org/state-health-facts/
+
+Resource: Top 10 Causes of Death in the World
+Category: Related Issues
+Organization: World Health Organization
+URL: https://www.who.int/en/news-room/fact-sheets/detail/the-top-10-causes-of-death
+
+Resource: World Health Organization
+Category: Find an Expert
+Organization: World Health Organization
+URL: https://www.who.int/en/

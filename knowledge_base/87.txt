@@ -1,0 +1,323 @@
+Title: Chronic Lymphocytic Leukemia
+
+Also Called:
+- CLL
+
+Summary:
+What is leukemia?
+Leukemia
+is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets
+help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What is chronic lymphocytic leukemia (CLL)?
+Chronic lymphocytic leukemia (CLL) is a type of chronic leukemia. "Chronic" means that the leukemia usually gets worse slowly. In CLL, the bone marrow makes abnormal lymphocytes (a type of white blood cell). When the abnormal cells crowd out the healthy cells, it can lead to infection,
+anemia
+, and
+easy bleeding
+. The abnormal cells can also spread outside the blood to other parts of the body.
+CLL is one of the most common types of leukemia in adults. It often occurs during or after middle age. It is rare in
+children
+.
+What causes chronic lymphocytic leukemia (CLL)?
+CLL happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown, so it's hard to predict who might get CLL. There are a few factors that might raise your risk.
+Who is at risk for chronic lymphocytic leukemia (CLL)?
+It is hard to predict who will get CLL. There are a few factors that could raise your risk:
+Age - your risk goes up as you get older. Most people who are diagnosed with CLL are over 50.
+Family history of CLL and other
+blood
+and
+bone marrow
+diseases
+Racial/ethnic group - CLL is more common in whites than in people from other racial or ethnic groups
+Exposure to certain chemicals, including Agent Orange, a chemical that was used in the Vietnam War
+What are the symptoms of chronic lymphocytic leukemia (CLL)?
+In the beginning, CLL does not cause any symptoms. Later, you can have symptoms such as:
+Swollen lymph nodes - you may notice them as painless lumps in the neck, underarm, stomach, or groin
+Weakness or
+feeling tired
+Pain or a feeling of fullness below the ribs
+Fever
+and infection
+Easy
+bruising
+or
+bleeding
+Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
+Weight loss for no known reason
+Drenching night sweats
+How is chronic lymphocytic leukemia (CLL) diagnosed?
+Your health care provider may use many tools to diagnose CLL:
+A physical exam
+A medical history
+Blood tests, such as a
+complete blood count (CBC) with differential
+and blood chemistry tests. Blood chemistry tests measure different substances in the blood, including electrolytes, fats, proteins, glucose (sugar), and enzymes. Specific blood chemistry tests include a
+basic metabolic panel (BMP)
+, a
+comprehensive metabolic panel (CMP)
+,
+kidney function tests
+,
+liver function tests
+, and an
+electrolyte panel
+.
+Flow cytometry tests, which check for leukemia cells and identify which type of leukemia it is. The tests can be done on blood, bone marrow, or other tissue.
+Genetic tests
+to look for gene and chromosome changes
+If you are diagnosed with CLL, you may have additional tests to see whether the cancer has spread. These include
+imaging tests
+and
+bone marrow tests
+.
+What are the treatments for chronic lymphocytic leukemia (CLL)?
+Treatments for CLL include:
+Watchful waiting, which means that you don't get treatment right away. Your health care provider regularly checks to see if your signs or symptoms appear or change.
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+Chemotherapy
+Radiation therapy
+Immunotherapy
+Chemotherapy with
+bone marrow
+or
+stem cell
+transplant
+The goals of treatment are to slow the growth of the leukemia cells and to give you long periods of remission. Remission means that the signs and symptoms of cancer are reduced or have disappeared. The CLL may come back after remission, and you may need more treatment.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Blood, Heart and Circulation
+- Immune System
+
+MeSH Headings:
+- Leukemia, Lymphoid
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: B and T cell screen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003329.htm
+
+Resource: B-cell leukemia/lymphoma panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003518.htm
+
+Resource: Blood Cancer United
+Category: Find an Expert
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/
+
+Resource: Blood Count Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodcounttests.html
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Blood Transfusion
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone Marrow Transplantation: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bonemarrowtransplantation.html
+
+Resource: Bone-marrow transplant - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: Cancer Statistics: Chronic Lymphocytic Leukemia
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/clyl.html
+
+Resource: Childhood Leukemia: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodleukemia.html
+
+Resource: Choosing a Blood Cancer Specialist or a Treatment Center
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/choosing-blood-cancer-specialist-or-treatment-center
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Chronic B-Cell Leukemias and Agent Orange
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/conditions/bcell-leukemia.asp
+
+Resource: Chronic lymphocytic leukemia (CLL)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000532.htm
+
+Resource: Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)
+Category: Specifics
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/understanding-lymphoma/aboutlymphoma/cll/
+
+Resource: Clinical Trial Support Center (CTSC)
+Category: Clinical Trials
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/resources/patients/clinical-trial-support-center-ctsc
+
+Resource: ClinicalTrials.gov: Leukemia, Lymphoid
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Leukemia,+Lymphoid%22&aggFilters=status:not%20rec
+
+Resource: Cryoglobulins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003555.htm
+
+Resource: Do We Know What Causes Chronic Lymphocytic Leukemia?
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/causes-risks-prevention/what-causes.html
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: General Information about Chronic Lymphocytic Leukemia
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cll-treatment-pdq
+
+Resource: How Is Chronic Lymphocytic Leukemia Diagnosed?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Immunoelectrophoresis - blood
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003541.htm
+
+Resource: Immunotherapy
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/types-treatment/immunotherapy
+
+Resource: Integrative Medicine and Complementary Therapies
+Category: Treatments and Therapies
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/integrative-medicine-complementary-therapies
+
+Resource: Key Statistics for Chronic Lymphocytic Leukemia
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/about/key-statistics.html
+
+Resource: Lab and Imaging Tests
+Category: Diagnosis and Tests
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/lab-imaging-tests
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Chronic Lymphocytic Leukemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Leukemia%2C+Lymphoid%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Questions to Ask About Chronic Lymphocytic Leukemia
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/detection-diagnosis-staging/talking-with-doctor.html
+
+Resource: Stage Information for Chronic Lymphocytic Leukemia
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cll-treatment-pdq#_24
+
+Resource: Supportive or Palliative Care for Chronic Lymphocytic Leukemia
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/treating/supportive-care.html
+
+Resource: Treatment Option Overview (Chronic Lymphocytic Leukemia)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/leukemia/patient/cll-treatment-pdq#_48
+
+Resource: Typical Treatment of Chronic Lymphocytic Leukemia
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/treating/treatment-by-risk-group.html
+
+Resource: Understanding Lymphoma and Chronic Lymphocytic Leukemia (CLL): Cancer-Related Fatigue
+Category: Related Issues
+Organization: Lymphoma Research Foundation
+URL: https://lymphoma.org/wp-content/uploads/2025/08/Cancer-Related-Fatigue-copy.pdf
+
+Resource: What Are the Risk Factors for Chronic Lymphocytic Leukemia?
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/causes-risks-prevention/risk-factors.html
+
+Resource: What Is Chronic Lymphocytic Leukemia?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/about/what-is-cll.html
+
+Resource: What's New in Chronic Lymphocytic Leukemia Research and Treatment?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/chronic-lymphocytic-leukemia/about/new-research.html

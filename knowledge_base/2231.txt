@@ -1,0 +1,270 @@
+Title: Problemas de coagulación
+
+Also Called:
+- Problemas de coagulación de la sangre
+
+Summary:
+Normalmente, si se lastima, su cuerpo forma un
+coágulo de sangre
+para detener la
+hemorragia
+. Para que la sangre coagule, el organismo necesita células llamadas plaquetas y proteínas conocidas como factores de coagulación. Si tiene un trastorno de coagulación, significa que no tiene suficientes
+plaquetas
+o factores de coagulación o éstos no funcionan como deberían.
+Los problemas de coagulación pueden ocurrir por otras enfermedades, como
+enfermedades hepáticas
+severas o falta de
+vitamina K
+. También pueden ser hereditarios. La
+hemofilia
+es un trastorno de coagulación hereditario. Los trastornos de la coagulación también pueden ser causados por un efecto secundario de ciertas medicinas, como los
+anticoagulantes
+.
+Diversos análisis de sangre pueden detectar un trastorno de la coagulación. También se le realizará un examen físico y de historia médica. Los tratamientos dependen de la causa. Pueden incluir medicamentos y transfusiones de
+sangre
+, plaquetas o factor de coagulación.
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Acerca de los sangrados por deficiencia de vitamina K
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vitamin-k-deficiency/es/about/acerca-de-los-sangrados-por-deficiencia-de-vitamina-k.html
+
+Resource: Acerca de los trastornos hemorrágicos en las mujeres
+Category: Spanish/Español, Mujeres
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/female-blood-disorders/es/about/acerca-de-los-trastornos-hemorragicos-en-las-mujeres.html
+
+Resource: Anticoagulantes y antiplaquetarios: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/bloodthinners.html
+
+Resource: Análisis de productos de la degradación de la fibrina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003655.htm
+
+Resource: Análisis de sangre: Actividad del factor VIII
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-factor8.html
+
+Resource: Análisis de sangre: Actividad del factor von Willebrand (vWF) - cofactor ristocetina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-vwf.html
+
+Resource: Análisis de sangre: Tiempo de protrombina (TP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-pt.html
+
+Resource: Análisis de sangre: Tiempo de tromboplastina parcial (TTP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-ptt.html
+
+Resource: Análisis del factor II (protombina)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003674.htm
+
+Resource: Análisis del factor V
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003675.htm
+
+Resource: Análisis del factor VII
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003676.htm
+
+Resource: Análisis del factor X
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003680.htm
+
+Resource: Análisis del factor XII
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003681.htm
+
+Resource: Coagulación intravascular diseminada (CID)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000573.htm
+
+Resource: Deficiencia congénita de fibrinógeno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001313.htm
+
+Resource: Deficiencia de protrombina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000549.htm
+
+Resource: Deficiencia del factor V
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000550.htm
+
+Resource: Deficiencia del factor VII
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000548.htm
+
+Resource: Deficiencia del factor X
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000553.htm
+
+Resource: Deficiencia del factor XII (factor de Hageman)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000545.htm
+
+Resource: Deficiencias poco comunes de factores de la coagulación
+Category: Asuntos específicos, Spanish/Español
+Organization: Federación Mundial de Hemofilia
+URL: https://elearning.wfh.org/es/centros-de-aprendizaje/deficiencias-poco-comunes-de-factores-de-la-coagulacion/
+
+Resource: Electroforesis de proteínas en suero
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Enfermedad de von Willebrand
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13091/enfermedad-de-von-willebrand/
+
+Resource: Enfermedad de von Willebrand
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000544.htm
+
+Resource: Examen de fibrinógeno en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003650.htm
+
+Resource: Examen de hemoglobinuria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003363.htm
+
+Resource: Federación Mundial de Hemofilia
+Category: Spanish/Español, Especialistas
+Organization: Federación Mundial de Hemofilia
+URL: https://wfh.org/es/
+
+Resource: Fibrinopéptido A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003373.htm
+
+Resource: Fibrinólisis primaria o secundaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000577.htm
+
+Resource: Hematomas y sangrado
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/coagulaci%C3%B3n-de-la-sangre/hematomas-y-sangrado
+
+Resource: Proceso de coagulación de la sangre
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000011.htm
+
+Resource: Prueba de sangre de VPM
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-vpm/
+
+Resource: Prueba de tiempo de protrombina e INR (TP/INR)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tiempo-de-protrombina-e-inr-tpinr/
+
+Resource: Prueba del dímero D
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-del-dimero-d/
+
+Resource: Pruebas de los factores de la coagulación
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-los-factores-de-la-coagulacion/
+
+Resource: Sangrado dentro de la piel
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003235.htm
+
+Resource: Sangrado por deficiencia de vitamina K en recién nacidos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007320.htm
+
+Resource: Signos y síntomas de los trastornos hemorrágicos en las mujeres
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/female-blood-disorders/es/signs-symptoms/signos-y-sintomas-de-los-trastornos-hemorragicos-en-las-mujeres.html
+
+Resource: Telangiectasia hemorrágica hereditaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000837.htm
+
+Resource: Tiempo de protrombina (TP)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003652.htm
+
+Resource: Tiempo de sangría
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003656.htm
+
+Resource: Tiempo parcial de tromboplastina (TPT)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003653.htm
+
+Resource: Transfusiones de sangre
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/transfusions.html
+
+Resource: Trastornos hemorrágicos
+Category: Spanish/Español, Mujeres
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/bleeding-disorders
+
+Resource: Trastornos hemorrágicos
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001304.htm
+
+Resource: Tratamientos para trastornos sanguíneos
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sangre-y-medula-osea-tratamientos
+
+Resource: ¿Qué son las deficiencias poco comunes de factores de la coagulación?
+Category: Asuntos específicos, Spanish/Español
+Organization: Federación Mundial de Hemofilia
+URL: https://www1.wfh.org/publications/files/pdf-1338.pdf
+
+Resource: ¿Qué son los trastornos de la coagulación sanguínea?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-de-la-coagulacion-sanguinea

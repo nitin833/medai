@@ -1,0 +1,160 @@
+Title: Diálisis
+
+Also Called:
+- Diálisis peritoneal
+- Hemodiálisis
+
+Summary:
+Cuando los riñones están sanos, limpian su sangre. También producen hormonas que mantienen sus huesos fuertes y su sangre sana. Cuando los riñones fallan, es necesario un tratamiento para sustituir el trabajo que ellos realizaban. A menos que reciba un
+trasplante de riñón
+, necesitará de un tratamiento llamado diálisis.
+Existen dos tipos principales de diálisis. Ambos tipos filtran la sangre para eliminar los desechos peligrosos del cuerpo, exceso de sal y agua.:
+La hemodiálisis usa una máquina. A veces es llamada riñón artificial. Usted debe ir en forma frecuente a una clínica especial para recibir el tratamiento varias veces a la semana
+La diálisis peritoneal usa la membrana que recubre el abdomen, llamada membrana peritoneal, para filtrar la sangre
+Ambos tipos tienen riesgos y beneficios. También requieren que siga una dieta especial. El médico puede ayudarle a decidir el mejor tipo de diálisis para su caso.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+
+Related Resources:
+
+Resource: Acceso vascular para hemodiálisis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/acceso-vascular-para-hemodialisis/
+
+Resource: Alimentación adecuada con insuficiencia renal
+Category: Viviendo con..., Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/insuficiencia-renal/alimentacion-adecuada?dkrd=/health-information/informacion-de-la-salud/enfermedades-rinones/metodos-tratamiento-insuficiencia-renal-hemodialisis/sentirse-bien
+
+Resource: Alteración del metabolismo mineral óseo en la enfermedad renal crónica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/alteracion-metabolismo-mineral-oseo
+
+Resource: Anemia en la enfermedad renal crónica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/anemia
+
+Resource: Cambio de apósito para catéter venoso central
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000156.htm
+
+Resource: Cuidado de su acceso vascular para hemodiálisis
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000591.htm
+
+Resource: Cuidados personales del acceso vascular para hemodiálisis
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000705.htm
+
+Resource: Cómo hablar con su equipo de atención médica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Programa de Rehabilitación de Life Options
+URL: https://lifeoptions.org/assets/pdfs/just_the_facts_how_to_talk_to_your_healthcare_team_sp.pdf
+
+Resource: Dializador
+Category: Viviendo con..., Spanish/Español
+Organization: Programa de Rehabilitación de Life Options
+URL: https://lifeoptions.org/assets/pdfs/just_the_facts_the_dialysis_machine_sp.pdf
+
+Resource: Diálisis peritoneal
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/insuficiencia-renal/dialisis-peritoneal
+
+Resource: Diálisis peritoneal
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007434.htm
+
+Resource: Diálisis peritoneal (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/peritoneal-dialysis.html
+
+Resource: Diálisis renal: ¿Cuándo es hora de suspenderla?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/hemodialysis/expert-answers/kidney-dialysis/faq-20057914?p=1
+
+Resource: Diálisis y hemodiálisis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000707.htm
+
+Resource: Hemodiálisis
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/insuficiencia-renal/hemodialisis
+
+Resource: Hemodiálisis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nacional del Riñón
+URL: https://www.kidney.org/es/kidney-topics/hemodialisis
+
+Resource: Lavado del catéter venoso central
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000157.htm
+
+Resource: Peritonitis bacteriana espontánea
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000648.htm
+
+Resource: Peritonitis secundaria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000651.htm
+
+Resource: Problemas del cabello y de la piel por diálisis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Programa de Rehabilitación de Life Options
+URL: https://lifeoptions.org/assets/pdfs/just_the_facts_skin_and_hair_problems_on_dialysis_sp.pdf
+
+Resource: Procedimientos de acceso para hemodiálisis
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007641.htm
+
+Resource: Prueba de creatinina
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-creatinina/
+
+Resource: Puertos para catéteres venosos centrales
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000491.htm
+
+Resource: Qué se debe esperar en los centros para diálisis
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000706.htm
+
+Resource: Rehabilitación
+Category: Viviendo con..., Spanish/Español
+Organization: Programa de Rehabilitación de Life Options
+URL: https://lifeoptions.org/assets/pdfs/just_the_facts_rehabilitation_sp.pdf
+
+Resource: Riñones y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/rinones-funcionamiento
+
+Resource: Viajes con diálisis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Programa de Rehabilitación de Life Options
+URL: https://lifeoptions.org/assets/pdfs/just_the_facts_traveling_on_dialysis_sp.pdf
+
+Resource: ¿Cómo tratan los profesionales del cuidado de la salud la enfermedad renal en los niños?
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/ninos#cuidado-kd

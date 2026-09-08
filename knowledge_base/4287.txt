@@ -1,0 +1,217 @@
+Title: HIV Medicines
+
+Also Called:
+- ART
+- Antiretroviral therapy
+
+Summary:
+What is HIV?
+HIV
+stands for human immunodeficiency virus. It harms your immune system by destroying CD4 cells. These are a type of white blood cells that fight infection. The loss of these cells makes it hard for your body to fight off
+infections
+and certain HIV-related cancers.
+Without treatment, HIV can gradually destroy the immune system and advance to AIDS. AIDS stands for acquired immunodeficiency syndrome. It is the final stage of infection with HIV. Not everyone with HIV develops AIDS.
+What is antiretroviral therapy (ART)?
+The treatment of HIV with medicines is called antiretroviral therapy (ART). It involves taking a combination of medicines every day. ART is recommended for everyone who has HIV. The medicines do not cure HIV infection, but help people with HIV live longer, healthier lives. They also reduce the risk of spreading the virus to others.
+How do HIV medicines work?
+HIV medicines reduce the amount of HIV (viral load) in your body, which helps by:
+Giving your immune system a chance to recover. Even though there is still some HIV in your body, your immune system should be strong enough to fight off infections and certain HIV-related cancers.
+Reducing the risk that you will spread HIV to others.
+What are the types of HIV medicines?
+There are many different types (called classes) of HIV medicines. Some work by blocking or changing enzymes that HIV needs to make copies of itself. This prevents HIV from copying itself, which reduces the amount of HIV in the body. Several types of medicines do this:
+Nucleoside reverse transcriptase inhibitors (NRTIs)
+block an enzyme called reverse transcriptase
+Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+bind to and later change reverse transcriptase
+Integrase inhibitors
+, also called integrase strand transfer inhibitors (INSTIs), block an enzyme called integrase
+Protease inhibitors (PIs)
+block an enzyme called protease
+Some types of HIV medicines interfere with HIV's ability to infect CD4 immune system cells:
+Fusion inhibitors
+block HIV from entering the cells
+CCR5 antagonists and post-attachment inhibitors
+block different molecules on the CD4 cells. To infect a cell, HIV has to bind to two types of molecules on the cell's surface. Blocking either of these molecules prevents HIV from entering the cells.
+Attachment inhibitors
+bind to a specific protein on the outer surface of HIV. This prevents HIV from entering the cell.
+Pharmacokinetic enhancers
+are another type of medicine. They are sometimes taken along with certain other HIV medicines. Pharmacokinetic enhancers increase the effectiveness of the other medicine. They work by slowing the breakdown of the other medicine. This allows that medicine to stay in the body longer at a higher concentration.
+There are also
+multidrug combinations
+, which include a combination of two or more different types of HIV medicines.
+When do I need to start taking HIV medicines?
+It's important to start taking HIV medicines as soon as possible after your diagnosis, especially if you:
+Are
+pregnant
+Have AIDS
+Have certain HIV-related illnesses and infections
+Have an early HIV infection (the first 6 months after infection with HIV)
+What else do I need to know about taking HIV medicines?
+You and your health care provider will work together to come up with a personal treatment plan. This plan will be based on many factors, including:
+The possible side effects of HIV medicines
+Potential
+drug interactions
+with any other medicines you take
+How many medicines you will need to take every day
+Any other health problems you may have
+It's important to take your medicines every day, according to the instructions from your provider. If you miss doses or don't follow a regular schedule, your treatment may not work, and the HIV virus may become resistant to the medicines.
+HIV medicines can cause side effects. Most of these side effects are manageable, but a few can be serious. Tell your provider about any side effects that you are having. Don't stop taking your medicine without first talking to your provider. There may be steps you can take to help manage the side effects. In some cases, your provider may decide to change your medicines.
+What are HIV PrEP and PEP medicines?
+HIV medicines are not just used for treatment. Some people take them to
+prevent HIV
+. PrEP (pre-exposure prophylaxis) is for people who don't already have HIV but are at very high risk of getting it. PEP (post-exposure prophylaxis) is for people who have possibly been exposed to HIV.
+NIH: Office of AIDS Research
+
+Groups:
+- Immune System
+- Drug Therapy
+
+MeSH Headings:
+- HIV Infections
+- Antiretroviral Therapy, Highly Active
+- Anti-HIV Agents
+
+Related Resources:
+
+Resource: Clinicalinfo: Information on HIV/AIDS Treatment, Prevention, and Research
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en
+
+Resource: ClinicalTrials.gov: Highly Active Antiretroviral Therapy (HAART)
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Antiretroviral+Therapy,+Highly+Active%22+OR+HAART&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: HIV Medicines
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=HIV&intr=%28%28anti-hiv+OR+antiretroviral%29+AND+medicines%29&aggFilters=status:not%20rec
+
+Resource: Drug Database
+Category: Start Here
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en/drugs
+
+Resource: Drug Resistance
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/drug-resistance
+
+Resource: Drugs that Fight HIV
+Category: Learn More
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/sites/default/files/hivpillbrochure.pdf
+
+Resource: FDA-Approved HIV Medicines
+Category: Start Here, Patient Handouts
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/fda-approved-hiv-medicines
+
+Resource: Following an HIV Treatment Regimen: Steps to Take Before and After Starting HIV Medicines
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/following-hiv-treatment-regimen-steps-take-and-after-starting-hiv
+
+Resource: Get the Facts about HIV Medicines
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://www.nnlm.gov/sites/default/files/2021-10/NLM_HIV_Medicines_508c.pdf
+
+Resource: HIV and Diabetes
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-diabetes
+
+Resource: HIV and Hepatotoxicity
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-hepatotoxicity
+
+Resource: HIV and Lactic Acidosis
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lactic-acidosis
+
+Resource: HIV and Lipodystrophy
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-lipodystrophy
+
+Resource: HIV and Osteoporosis
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-osteoporosis
+
+Resource: HIV and Rash
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-rash
+
+Resource: HIV Medicines and Side Effects
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-medicines-and-side-effects
+
+Resource: HIV Treatment Adherence
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-treatment-adherence
+
+Resource: HIV Treatment: What is a Drug Interaction?
+Category: Specifics
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/what-drug-interaction
+
+Resource: HIV.gov
+Category: Find an Expert
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/
+
+Resource: HIV/AIDS Glossary
+Category: Reference Desk
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://clinicalinfo.hiv.gov/en/glossary
+
+Resource: HIV/AIDS Treatment Guidelines
+Category: Reference Desk
+Organization: HIV.gov
+URL: https://clinicalinfo.hiv.gov/en/guidelines
+
+Resource: HIV: PrEP and PEP: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hivprepandpep.html
+
+Resource: HIVinfo
+Category: Find an Expert
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/
+
+Resource: Making It Easier to Get HIV Treatment
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/making-it-easier-to-get-hiv-treatment
+
+Resource: Pharmacogenetic Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pharmacogenetic-tests/
+
+Resource: HIV Medicines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anti-HIV+Agents%22%5Bmajr%3Anoexp%5D+OR+%22HIV+Infections%2Fdrug+therapy%22%5Bmajr%3Anoexp%5D+OR+%22Antiretroviral+Therapy%2C+Highly+Active%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What is an Investigational HIV Drug?
+Category: Specifics
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/what-investigational-hiv-drug
+
+Resource: What to Start: Choosing an HIV Treatment Regimen
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/what-start-choosing-hiv-treatment-regimen
+
+Resource: When to Start HIV Medicines
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/when-start-hiv-medicines

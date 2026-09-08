@@ -1,0 +1,166 @@
+Title: CPR
+
+Also Called:
+- Cardiopulmonary resuscitation
+
+Summary:
+When someone's blood flow or breathing stops, seconds count. Permanent brain damage or death can happen quickly. If you know how to perform cardiopulmonary resuscitation (CPR), you could save a life. CPR is an emergency procedure for a person whose heart has stopped (called
+sudden cardiac arrest
+) or who is no longer breathing. CPR can maintain the blood flow breathing until
+emergency medical help
+arrives.
+Take these steps if someone is in sudden cardiac arrest:
+Call 911.
+If someone else is around, have them look for an automated external defibrillator (AED). An AED is a device that sends an electric shock to the heart to try to restore its normal rhythm. AEDs are available in many public places such as schools, businesses, and airports .
+Make sure that the person with sudden cardiac arrest is lying on their back on a firm surface.
+If you haven't had any CPR training, you can do "hands-only" CPR for a teen or adult whose heart has stopped beating ("hands-only" CPR isn't recommended for children). "Hands-only" CPR uses chest compressions to keep blood circulating. Chest compressions involve pushing hard and fast in the center of the chest.
+If you've had training, you can use chest compressions, clear the airway, and do rescue breathing. Rescue breathing helps get oxygen to the lungs for a person who has stopped breathing. To keep your skills up, repeat the CPR training every two years.
+Use the AED as soon as possible, if there is one available.
+
+Groups:
+- Blood, Heart and Circulation
+- Injuries and Wounds
+
+MeSH Headings:
+- Cardiopulmonary Resuscitation
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Breathing difficulties - first aid
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000007.htm
+
+Resource: Cardiopulmonary Resuscitation (CPR): First Aid
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: ClinicalTrials.gov: Cardiopulmonary Resuscitation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=cardiopulmonary+resuscitation&aggFilters=status:not%20rec
+
+Resource: CPR
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000010.htm
+
+Resource: CPR (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cpr.html
+
+Resource: CPR - adult - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100219_1.htm
+
+Resource: CPR - adult and child after onset of puberty
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000013.htm
+
+Resource: CPR - child 1 to 8 years old - series -- Check for responsiveness
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100215_1.htm
+
+Resource: CPR - infant
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000011.htm
+
+Resource: CPR - infant - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100216_1.htm
+
+Resource: CPR - young child (age 1 year to onset of puberty)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000012.htm
+
+Resource: CPR Facts and Stats
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://cpr.heart.org/en/resources/cpr-facts-and-stats
+
+Resource: CPR: A Real Lifesaver (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/cpr.html
+
+Resource: Empowered to Keep the Beat: Hands-Only CPR
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.empoweredtoserve.org/en/community-resources/health-lessons/hands-only-cpr
+
+Resource: Hands-Only CPR
+Category: Specifics
+Organization: American Heart Association
+URL: https://cpr.heart.org/en/cpr-courses-and-kits/hands-only-cpr
+
+Resource: How to Do Compression-Only CPR
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=VZqG-tcZvfE
+
+Resource: How to Give CPR to a Child
+Category: Videos and Tutorials
+Organization: American Heart Association
+URL: https://www.youtube.com/watch?v=lXK7IjyhbL0
+
+Resource: How to Perform Hands-Only CPR
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=6eRwgM2Pa4o
+
+Resource: How to Use an AED on an Adult
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=in8j2Q2z3HE
+
+Resource: How to Use an AED on Children and Infants
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=yp5gjJa2FxA
+
+Resource: Myocardial contusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000202.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: CPR
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cardiopulmonary+Resuscitation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Using an AED on a Pregnant Person
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=YCEywOo6Wbg
+
+Resource: What Is CPR?
+Category: Start Here
+Organization: American Heart Association
+URL: https://cpr.heart.org/en/resources/what-is-cpr
+
+Resource: What You Should Do Before Giving CPR
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.youtube.com/watch?v=ytMPHjwfcrI

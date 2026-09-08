@@ -1,0 +1,256 @@
+Title: Hepatitis B
+
+Also Called:
+- HBV
+
+Summary:
+What is hepatitis?
+Hepatitis
+is inflammation of the
+liver
+. Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
+What is hepatitis B?
+Hepatitis B is a type of viral hepatitis. It can cause an acute (short-term) or chronic (long-term) infection. People with an acute infection usually get better on their own without treatment. Some people with chronic hepatitis B will need treatment.
+Thanks to a vaccine, hepatitis B is not very common in the United States. It is more common in certain parts of the world, such as sub-Saharan Africa and parts of Asia.
+What causes hepatitis B?
+Hepatitis B is caused by the hepatitis B virus. The virus spreads through contact with blood, semen, or other body fluids from a person who has the virus.
+Who is at risk for hepatitis B?
+Anyone can get hepatitis B, but the risk is higher in:
+Infants born to mothers who have hepatitis B
+People who inject drugs or share needles, syringes, and other types of drug equipment
+Sex partners of people with hepatitis B, especially if they are not using latex or polyurethane condoms during sex
+Men who have sex with men
+People who live with someone who has hepatitis B, especially if they use the same razor, toothbrush, or nail clippers
+Health care and public-safety workers who are exposed to blood on the job
+Hemodialysis
+patients
+People who have lived in or traveled often to parts of the world where hepatitis B is common
+People who have
+diabetes
+,
+hepatitis C
+, or
+HIV
+What are the symptoms of hepatitis B?
+Often, people with hepatitis B don't have symptoms. Adults and children over 5 are more likely to have symptoms than younger children.
+Some people with acute hepatitis B have symptoms 2 to 5 months after infection. These symptoms can include:
+Dark yellow urine
+Diarrhea
+Fatigue
+Fever
+Gray- or clay-colored stools
+Joint pain
+Loss of appetite
+Nausea and/or vomiting
+Abdominal pain
+Yellowish eyes and skin, called
+jaundice
+If you have chronic hepatitis B, you may not have symptoms until complications develop. This could be decades after you were infected. For this reason, hepatitis B screening is important, even if you have no symptoms. Screening means that you are tested for a disease even though you don't have symptoms. If you are at high risk, your health care provider may suggest  screening.
+What other problems can hepatitis B cause?
+In rare cases, acute hepatitis B can cause liver failure.
+Chronic hepatitis B can develop into a serious disease that causes long-term health problems such as
+cirrhosis
+(scarring of the liver),
+liver cancer
+, and liver failure.
+If you have ever had hepatitis B, the virus may become active again, or reactivated, later in life. This could start to damage the liver and cause symptoms.
+How is hepatitis B diagnosed?
+To diagnose hepatitis B, your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+A physical exam
+Blood tests, including
+tests for viral hepatitis
+What are the treatments for hepatitis B?
+If you have acute hepatitis B, you probably don't need treatment. Some people with chronic hepatitis B don't need treatment. But if you have a chronic infection and blood tests show that hepatitis B could be damaging your liver, you may need to take antiviral medicines.
+Can hepatitis B be prevented?
+The best way to prevent hepatitis B is to get the hepatitis B vaccine.
+You can also reduce your chance of hepatitis B infection by:
+Not sharing drug needles or other drug materials
+Wearing gloves if you have to touch another person's blood or open sores
+Making sure your
+tattoo artist or body piercer
+uses sterile tools
+Not sharing personal items, such as toothbrushes, razors, or nail clippers
+Using a latex condom during sex. If your or your partner is
+allergic to latex
+, you can use polyurethane condoms.
+If you think you have been in contact with the hepatitis B virus, see your health care provider right away. Your provider may give you a dose of the hepatitis B vaccine to prevent infection. In some cases, your provider may also give you a medicine called hepatitis B immune globulin (HBIG). You need to get the vaccine and the HBIG (if needed) as soon as possible after coming into contact with the virus. It is best if you can get them within 24 hours.
+National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Infections
+
+MeSH Headings:
+- Hepatitis B
+
+Related Resources:
+
+Resource: Adults Living with Hepatitis B
+Category: Living With
+Organization: Hepatitis B Foundation
+URL: https://www.hepb.org/treatment-and-management/adults-with-hepatitis-b/
+
+Resource: Approved Drugs for Adults
+Category: Treatments and Therapies
+Organization: Hepatitis B Foundation
+URL: https://www.hepb.org/treatment-and-management/treatment/approved-drugs-for-adults/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Hepatitis B
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hepatitis+B%22&aggFilters=status:not%20rec
+
+Resource: FastStats: Viral Hepatitis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/hepatitis.htm
+
+Resource: Gianotti-Crosti syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001446.htm
+
+Resource: Hepatitis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/hepatitis.html
+
+Resource: Hepatitis B
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/std-hepatitis.html
+
+Resource: Hepatitis B
+Category: Start Here, Patient Handouts
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis/hepatitis-b
+
+Resource: Hepatitis B
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/hepatitis-b/
+
+Resource: Hepatitis B
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000279.htm
+
+Resource: Hepatitis B - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007671.htm
+
+Resource: Hepatitis B and C
+Category: Related Issues
+Organization: HIV.gov, National Institutes of Health, Office of AIDS Research
+URL: https://www.hiv.gov/hiv-basics/staying-in-hiv-care/other-related-health-issues/hepatitis-b-and-c/
+
+Resource: Hepatitis B Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-b/about/
+
+Resource: Hepatitis B Prevention and Control
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-b/prevention/
+
+Resource: Hepatitis B Vaccine Safety
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccine-safety/vaccines/hepatitis-b.html
+
+Resource: Hepatitis B Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/hep-b.pdf
+
+Resource: Hepatitis B: Patient's Guide
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/hbv/patient/index.asp
+
+Resource: Hepatitis D
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis/hepatitis-d
+
+Resource: Hepatitis D (Delta agent)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000216.htm
+
+Resource: Hepatitis Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hepatitis-panel/
+
+Resource: Hepatitis virus panel
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003558.htm
+
+Resource: HIV and Hepatitis B
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-hepatitis-b
+
+Resource: Infectious Diseases in Persons Who Inject Drugs
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/persons-who-inject-drugs/about/
+
+Resource: Know HBV: What Every Asian and Pacific Islander Should Know About Hepatitis B and Liver Cancer
+Category: Related Issues
+Organization: Asian Liver Center at Stanford University
+URL: https://med.stanford.edu/content/dam/sm/liver/documents/resources/brochures/KnowHBV-English-2018.pdf
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Preventing hepatitis B or C
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000401.htm
+
+Resource: Prevention Tips for Hepatitis B
+Category: Prevention and Risk Factors
+Organization: Hepatitis B Foundation
+URL: https://www.hepb.org/prevention-and-diagnosis/prevention-tips/
+
+Resource: Protect Yourself against Hepatitis A and B: A Guide for Gay and Bisexual Men
+Category: Men
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4115.pdf
+
+Resource: Hepatitis B
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hepatitis+B%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treatment Options for Hepatitis B
+Category: Treatments and Therapies
+Organization: Hepatitis B Foundation
+URL: https://www.hepb.org/treatment-and-management/treatment/
+
+Resource: Viral Hepatitis Surveillance Report: United States, 2020
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis-surveillance-2020/about/

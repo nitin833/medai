@@ -1,0 +1,188 @@
+Title: Hernia
+
+Summary:
+Las hernias se presentan cuando una parte de un órgano interno o tejido sobresale a través de un área muscular débil. La mayoría de las hernias ocurren en el abdomen.
+Existen varios tipos de hernias, entre ellos:
+Inguinal, en la ingle. Es la más común
+Umbilical, alrededor del ombligo
+Incisional, a través de una cicatriz
+Hiatal
+, una pequeña abertura en el diafragma que permite que la parte superior del estómago se desplace hacia el pecho
+Diafragmática congénita, un defecto de nacimiento que necesita cirugía
+Las hernias son comunes. Pueden afectar a hombres, mujeres y niños. La combinación de debilidad y esfuerzo, como  levantar cosas pesadas, puede contribuir a su aparición. Algunas personas nacen con músculos abdominales débiles y tienen más probabilidades de herniarse.
+El tratamiento consiste habitualmente en cirugía para reparar la apertura en la pared muscular. Las hernias no tratadas pueden causar dolor y problemas de salud.
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta tras hernia inguinal
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000274.htm
+
+Resource: Ecografía abdominal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Gastrosquisis
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000992.htm
+
+Resource: Gastrosquisis
+Category: Spanish/Español, Niños/as
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/birth-defects/es/about/gastrosquisis.html
+
+Resource: Hernia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000960.htm
+
+Resource: Hernia de la pared abdominal
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-gastrointestinales/urgencias-gastrointestinales/hernias-de-la-pared-abdominal
+
+Resource: Hernia diafragmática
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001135.htm
+
+Resource: Hernia femoral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001136.htm
+
+Resource: Hernia inguinal
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/hernia-inguinal
+
+Resource: Hernia inguinal en bebés y niños
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/abdominal/paginas/inguinal-hernia.aspx
+
+Resource: Hernia inguinal: Tratamiento y diagnóstico
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/inguinal-hernia/diagnosis-treatment/drc-20351553?p=1
+
+Resource: Hernia umbilical
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000987.htm
+
+Resource: Hernia umbilical
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/umbilical-hernia/symptoms-causes/syc-20378685?p=1
+
+Resource: Hernias
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hernias.html
+
+Resource: Hernias epigástricas (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/epigastric-hernias.html
+
+Resource: Hernias inguinales (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/inguinal-hernias.html
+
+Resource: Hernias umbilicales (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/umbilical-hernias.html
+
+Resource: Luchando contra una hernia abultada: No ignore su dolor en la ingle
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/luchando-contra-una-hernia-abultada
+
+Resource: Onfalocele
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000994.htm
+
+Resource: Onfalocele
+Category: Spanish/Español, Niños/as
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/birth-defects/es/about/onfalocele.html
+
+Resource: Protuberancia en el abdomen
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003277.htm
+
+Resource: Reparación de gastrosquisis
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002924.htm
+
+Resource: Reparación de hernia diafragmática congénita
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002936.htm
+
+Resource: Reparación de hernia femoral
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007399.htm
+
+Resource: Reparación de hernia inguinal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007406.htm
+
+Resource: Reparación de hernia umbilical
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002935.htm
+
+Resource: Reparación de onfalocele
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002938.htm
+
+Resource: Reparación de una hernia ventral
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007661.htm
+
+Resource: Reparación quirúrgica de la gastrosquisis
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100023_1.htm
+
+Resource: Reparación quirúrgica de onfalocele
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100033_1.htm
+
+Resource: Reparación quirúrgica de una hernia diafragmática
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100014_1.htm
+
+Resource: Reparación quirúrgica de una hernia inguinal
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100027_1.htm
+
+Resource: Reparación quirúrgica de una hernia umbilical
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100105_1.htm
+
+Resource: Tratamiento de una hernia inguinal indirecta (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/inguinal-hernia-animation.html

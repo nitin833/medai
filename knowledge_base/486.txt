@@ -1,0 +1,116 @@
+Title: Health Facilities
+
+Also Called:
+- Health care facilities
+
+Summary:
+Health facilities are places that provide health care. They include hospitals, clinics, outpatient care centers, and specialized care centers, such as birthing centers and psychiatric care centers.
+When you choose a health facility, you might want to consider:
+How close it is to where you live or work
+Whether your health insurance will pay for services there
+Whether your health care provider can treat you there
+The quality of the facility
+Quality is important.  Some facilities do a better job than others. One way to learn about the quality of a facility is to look at report cards developed by federal, state, and consumer groups.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Health Facilities
+- Hospitals
+
+Related Resources:
+
+Resource: Choosing a skilled nursing and rehabilitation facility
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000436.htm
+
+Resource: Fast Facts on U.S. Hospitals
+Category: Statistics and Research
+Organization: American Hospital Association
+URL: https://www.aha.org/statistics/fast-facts-us-hospitals
+
+Resource: FastStats: Ambulatory Care Use and Physician Office Visits
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/physician-visits.htm
+
+Resource: Find a Clinic
+Category: Find an Expert
+Organization: National Association of Free and Charitable Clinics
+URL: https://nafcclinics.org/find-clinic/
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Going to the Hospital
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/hospital.html
+
+Resource: Healthcare Cost and Utilization Project (HCUP) Statistical Briefs
+Category: Statistics and Research
+Organization: Agency for Healthcare Research and Quality
+URL: https://hcup-us.ahrq.gov/reports/statbriefs/sbtopic.jsp
+
+Resource: How to choose the best hospital for surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007497.htm
+
+Resource: Isolation precautions
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000446.htm
+
+Resource: Leaving the hospital - your discharge plan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000867.htm
+
+Resource: Medicare: Find and Compare Health Care Providers
+Category: Find an Expert
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.medicare.gov/care-compare/
+
+Resource: Preventing infections when visiting someone in the hospital
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000448.htm
+
+Resource: Health Facilities
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Health+Facilities%22%5Bmajr%3Anoexp%5D+OR+%22Hospitals%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: QuestionBuilder App
+Category: Health Check Tools
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/questions/question-builder/index.html
+
+Resource: Report a Patient Safety Concern or File a Complaint
+Category: Related Issues
+Organization: Joint Commission
+URL: https://www.jointcommission.org/en-us/contact-us/report-a-patient-safety-event
+
+Resource: School-Based Health Centers
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/school-based-health.html
+
+Resource: Skilled nursing or rehabilitation facilities
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000435.htm
+
+Resource: Where Should I Have My Baby?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/birth-centers-hospitals.html
+
+Resource: Wound care centers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000739.htm

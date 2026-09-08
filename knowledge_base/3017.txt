@@ -1,0 +1,159 @@
+Title: Syphilis
+
+Summary:
+Syphilis is a
+sexually transmitted infection
+(STI) caused by bacteria. It infects the genital area, lips, mouth, or anus of both men and women. You usually get syphilis from sexual contact with someone who has it. It can also pass from mother to baby during pregnancy.
+The early stage of syphilis usually causes a single, small, painless sore. Sometimes it causes swelling in nearby lymph nodes. If you do not treat it, syphilis usually causes a non-itchy skin rash, often on your hands and feet. Many people do not notice symptoms for years. Symptoms can go away and come back.
+The sores caused by syphilis make it easier to get or give someone
+HIV
+during sex. If you are pregnant, syphilis can cause complications, or you could lose your baby. In rare cases, syphilis causes serious health problems and even death.
+Syphilis is easy to cure with antibiotics if you catch it early. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading syphilis. If your or your partner is
+allergic to latex
+, you can use polyurethane condoms. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Sexual Health Issues
+- Female Reproductive System
+- Male Reproductive System
+
+MeSH Headings:
+- Syphilis
+
+Related Resources:
+
+Resource: About Syphilis
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/syphilis/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chlamydia, Gonorrhea, and Syphilis
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/chlamydia-gonorrhea-and-syphilis
+
+Resource: ClinicalTrials.gov: Syphilis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Syphilis%22&aggFilters=status:not%20rec
+
+Resource: Condom Use: An Overview
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/condom-use/
+
+Resource: Congenital syphilis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001344.htm
+
+Resource: CSF-VDRL test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003623.htm
+
+Resource: FTA-ABS blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003512.htm
+
+Resource: General paresis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000748.htm
+
+Resource: Gumma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000859.htm
+
+Resource: Interstitial keratitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001609.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Neurosyphilis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000703.htm
+
+Resource: Neurosyphilis
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/neurosyphilis
+
+Resource: Primary Syphilis
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/primary-syphilis/?Imiw9cApl=1
+
+Resource: Syphilis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Syphilis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: RPR test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003533.htm
+
+Resource: Syphilis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/syphilis/symptoms-causes/syc-20351756?p=1
+
+Resource: Syphilis
+Category: Statistics and Research
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/syphilis
+
+Resource: Syphilis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000861.htm
+
+Resource: Syphilis
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/syphilis
+
+Resource: Syphilis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/std-syphilis.html
+
+Resource: Syphilis in Pregnancy
+Category: Women
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/syphilis-pregnancy
+
+Resource: Syphilis Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/syphilis-tests/
+
+Resource: Syphilitic aseptic meningitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000724.htm
+
+Resource: Tabes dorsalis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000729.htm
+
+Resource: VDRL test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003515.htm

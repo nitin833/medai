@@ -1,0 +1,59 @@
+Title: Tornadoes
+
+Summary:
+Tornadoes are nature's most violent storms. They are rotating, funnel-shaped clouds that extend from a thunderstorm to the ground. Their whirling winds can reach 300 miles per hour. They can strike quickly with little or no warning, devastate a neighborhood in seconds, and leave a path of damage over a mile wide and 50 miles long.  Tornadoes can also accompany tropical storms and
+hurricanes
+as they move onto land.
+Although there are no guarantees of safety during a tornado, you can take actions to protect yourself.  You should have a
+disaster plan
+. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Tornadoes
+
+Related Resources:
+
+Resource: DisasterAssistance.gov
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: National Weather Service: Watch, Warning, Advisory Display
+Category: Learn More
+Organization: National Oceanic and Atmospheric Administration
+URL: https://www.spc.noaa.gov/products/wwa/
+
+Resource: Tornadoes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tornadoes%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: Safety Guidelines: After a Tornado
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tornadoes/safety/stay-safe-after-a-tornado-safety.html
+
+Resource: Safety Guidelines: During a Tornado
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/tornadoes/safety/stay-safe-during-a-tornado-safety.html
+
+Resource: Tornadoes
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/tornadoes
+
+Resource: Tornadoes, Hurricanes, and Children
+Category: Learn More
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/disasters-response/tornadoes-kids?partner=nlm

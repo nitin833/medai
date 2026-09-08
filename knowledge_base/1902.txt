@@ -1,0 +1,141 @@
+Title: Fiebre
+
+Also Called:
+- Calentura
+- Temperatura alta
+
+Summary:
+La fiebre es una temperatura del cuerpo más elevada de lo normal. Una temperatura normal puede variar de persona a persona, pero generalmente es alrededor de 98.6 ºF o 37 ºC. La fiebre no es una enfermedad. Por lo general, es una señal de que su cuerpo está tratando de combatir una enfermedad o infección.
+Las
+infecciones
+causan la mayoría de las fiebres. Tiene fiebre porque su cuerpo está tratando de matar el virus o las bacterias que causaron la infección. La mayoría de estas bacterias y virus sobreviven bien cuando su cuerpo está a su temperatura normal. Pero si tiene fiebre, es más difícil para ellos sobrevivir. La fiebre también activa el sistema inmunitario de su cuerpo.
+Otras causas de la fiebre incluyen:
+Medicinas, incluyendo
+antibióticos
+,
+medicinas para la presión arterial
+y medicinas anticonvulsivas
+Enfermedades por el calor
+Cánceres
+Enfermedades autoinmunes
+Algunas
+vacunas para niños
+El tratamiento depende de la causa de la fiebre. Si la fiebre es muy alta, su profesional de la salud puede recomendarle tomar medicinas de venta libre como el acetaminofén o el ibuprofén. Los adultos también pueden tomar aspirina, pero los niños con fiebre no deben tomar aspirina. También es importante beber suficientes líquidos para prevenir la
+deshidratación
+.
+
+Groups:
+- Infecciones
+- Síntomas
+
+Related Resources:
+
+Resource: Convulsiones febriles
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/convulsiones-febriles
+
+Resource: Cuando su bebé o lactante tenga fiebre
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000319.htm
+
+Resource: Cómo tomar la temperatura axilar (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/axillary-temperature.html
+
+Resource: Cómo tomar la temperatura oral (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/oral-temperature.html
+
+Resource: Cómo tomar la temperatura rectal (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/rectal-temperature.html
+
+Resource: Cómo tomarle la temperatura a su hijo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/take-temperature.html
+
+Resource: Fiebre
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/fever/symptoms-causes/syc-20352759?p=1
+
+Resource: Fiebre
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003090.htm
+
+Resource: Fiebre (temperatura alta) en niños (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/fever.html
+
+Resource: Fiebre / Hipertermia y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/la-hipertermia/pdf/
+
+Resource: Fiebre mediterránea familiar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000363.htm
+
+Resource: Fiebre mediterránea familiar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/familial-mediterranean-fever/symptoms-causes/syc-20372470?p=1
+
+Resource: Fiebre por garrapatas de Colorado
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000675.htm
+
+Resource: Fiebre sin temor
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/fever/paginas/fever-without-fear.aspx
+
+Resource: Fiebre: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-fever/basics/art-20056685?p=1
+
+Resource: Medición de la temperatura
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003400.htm
+
+Resource: Paracetamol y los niños: Por qué la dosis es importante
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/childrens-health/in-depth/acetaminophen/art-20046721?p=1
+
+Resource: Sofocos y sudores nocturnos (PDQ)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres/sofocos-pdq
+
+Resource: Síndrome de fiebre periódica, estomatitis aftosa, faringitis y adenitis cervical
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/sindrome-de-fiebre-periodica-estomatitis-aftosa-faringitis-y-adenitis-cervical
+
+Resource: Síndromes autoinflamatorios asociados a la criopirina
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/sindromes-autoinflamatorios-asociados-a-la-criopirina
+
+Resource: Termómetros: Comprender las opciones
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/fever/in-depth/thermometers/art-20046737?p=1
+
+Resource: Tratamiento para la fiebre: guía rápida para tratar la fiebre
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/fever/in-depth/fever/art-20050997?p=1

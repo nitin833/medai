@@ -1,0 +1,318 @@
+Title: Teen Mental Health
+
+Summary:
+Being a teenager is hard. You're under stress to be liked, do well in school, get along with your family, and make big decisions. You can't avoid most of these pressures, and worrying about them is normal. But feeling very sad, hopeless or worthless could be warning signs of a mental health problem.
+Mental health problems are real, painful, and sometimes severe. You might need help if you have the signs mentioned above, or if you:
+Often feel very angry or very worried
+Feel grief for a long time after a loss or death
+Think your mind is controlled or out of control
+Use
+alcohol
+or
+drugs
+Exercise,
+diet and/or binge-eat obsessively
+Hurt other people or destroy property
+Do reckless things that could harm you or others
+Feel
+depressed
+(sad and hopeless)
+Mental health problems can be treated. To find help, talk to your parents, school counselor, or health care provider.
+
+Groups:
+- Children and Teenagers
+- Mental Health and Behavior
+
+MeSH Headings:
+- Psychology, Adolescent
+- Adolescent Psychiatry
+
+Related Resources:
+
+Resource: 3 Ways to Increase Positive Emotions
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/positive-emotions.html
+
+Resource: 5 Ways to Know Your Feelings Better
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/emotional-awareness.html
+
+Resource: 988 Suicide and Crisis Lifeline
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://988lifeline.org/
+
+Resource: About Children's Mental Health
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/children-mental-health/about/
+
+Resource: Abuse: What If I Need Help Right Now?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/abuse-help.html
+
+Resource: Abusive Relationships
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/abuse.html
+
+Resource: American Academy of Child and Adolescent Psychiatry
+Category: Find an Expert
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/
+
+Resource: Antidepressants for Children and Teens
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/teen-depression/in-depth/antidepressants/art-20047502?p=1
+
+Resource: Anxiety: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/anxiety.html
+
+Resource: Bipolar Disorder in Children and Teens
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-children-and-teens
+
+Resource: Bipolar Disorder in Teens and Young Adults: Know the Signs
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/bipolar-disorder-in-teens-and-young-adults-know-the-signs
+
+Resource: Body Dysmorphic Disorder (BDD)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/body-image-problem.html
+
+Resource: Body Image and Self-Esteem
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/body-image.html
+
+Resource: Child and Adolescent Mental Health
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health
+
+Resource: ClinicalTrials.gov: Teen Mental Health
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22mental+health%22+AND+teen&aggFilters=status:not%20rec
+
+Resource: Comprehensive Psychiatric Evaluation
+Category: Diagnosis and Tests
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Comprehensive-Psychiatric-Evaluation-052.aspx
+
+Resource: Dealing with Difficult Emotions
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/stressful-feelings.html
+
+Resource: Dialectical Behavior Therapy (DBT) for Teens
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dialectical-therapy-teens.html
+
+Resource: Disruptive Mood Dysregulation Disorder
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/disruptive-mood-dysregulation-disorder-dmdd
+
+Resource: Fears and Phobias
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/phobias.html
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Going to a Therapist
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/therapist.html
+
+Resource: Guided Visualization: Dealing with Stress
+Category: Videos and Tutorials
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/news/media/2021/guided-visualization-dealing-with-stress
+
+Resource: Healthy Social Media Habits: How You Use it Matters
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/09/healthy-social-media-habits
+
+Resource: Helping Children and Adolescents Cope With Traumatic Events
+Category: Related Issues
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/helping-children-and-adolescents-cope-with-disasters-and-other-traumatic-events
+
+Resource: How Can I Feel Less Lonely?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/lonely-help.html
+
+Resource: How Can I Get Help in a Crisis?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/crisis-support.html
+
+Resource: How Can I Help a Friend Who Cuts?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/friend-cuts.html
+
+Resource: How Can I Stop Cutting?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/resisting-cutting.html
+
+Resource: How Can Social Connection Reduce Loneliness?
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/lonely.html
+
+Resource: How Negative Emotions Help
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/negative-emotions-help.html
+
+Resource: How to Heal After Trauma
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/heal-trauma.html
+
+Resource: How to Live a Happy Life
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/happy-life.html
+
+Resource: How's Your Self-Esteem? (Quiz)
+Category: Health Check Tools
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/self-esteem-quiz.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Media and Body Image
+Category: Related Issues
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/media-and-body-image
+
+Resource: Mental Health and Social Media Use: What Parents Can Do
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/mental-health-social-media.html
+
+Resource: Mental Health Emergency Care
+Category: Start Here
+Organization: Children's Hospitals and Clinics of Minnesota
+URL: https://www.childrensmn.org/services/care-specialties-departments/mental-health-program/emergency-care/
+
+Resource: Mental Health Medications
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/mental-health-medications
+
+Resource: Mental Health Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mental-health-screening/
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Obsessive-Compulsive Disorder (OCD)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/ocd.html
+
+Resource: Psychologist Locator
+Category: Find an Expert
+Organization: American Psychological Association
+URL: https://locator.apa.org/?partner=nlm
+
+Resource: Psychotherapy for Children and Adolescents: Different Types
+Category: Treatments and Therapies
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Psychotherapies-For-Children-And-Adolescents-086.aspx
+
+Resource: Teen mental health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Psychology%2C+Adolescent%22%5Bmajr%3Anoexp%5D+OR+%22Adolescent+Psychiatry%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Residential Treatment Programs
+Category: Treatments and Therapies
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Residential-Treatment-Programs-097.aspx
+
+Resource: Seasonal Affective Disorder (SAD)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/sad.html
+
+Resource: Social Anxiety
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/social-phobia.html
+
+Resource: Stress: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/stress.html
+
+Resource: Suicide: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/suicide.html
+
+Resource: Teen Brain: 7 Things to Know
+Category: Related Issues
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/the-teen-brain-7-things-to-know
+
+Resource: Teen Depression: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/teendepression.html
+
+Resource: Teen Mental Health: How to Know When Your Child Needs Help
+Category: Diagnosis and Tests
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/teen/pages/Mental-Health-and-Teens-Watch-for-Danger-Signs.aspx
+
+Resource: Teens Are Talking about Mental Health
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/teens-are-talking-about-mental-health
+
+Resource: Trichotillomania
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001517.htm
+
+Resource: Trichotillomania (Hair Pulling)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/trichotillomania.html
+
+Resource: Understanding Cliques
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/understanding-cliques.html
+
+Resource: When Children and Teens Self-Harm
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/when-children-and-teens-self-harm.aspx

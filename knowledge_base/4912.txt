@@ -1,0 +1,81 @@
+Title: Inhabilidad para conducir
+
+Summary:
+Conducir cuando no se está en condiciones de hacerlo es peligroso. Es la causa de más de la mitad de todos los choques de autos. Significa operar un vehículo motorizado bajo los efectos de:
+Alcohol
+Drogas ilegales o legales
+Sueño
+Distracciones, como usar un teléfono celular o enviar mensajes de texto
+Una condición médica que afecta su manera de conducir
+Por su seguridad y la seguridad de otros, no conduzca cuando no esté en condiciones de hacerlo. Pídale a otra persona que lo lleve o use transporte público cuando no pueda conducir. Si necesita hablar por teléfono o enviar un mensaje de texto, deténgase al costado del camino.
+Administración Nacional de Seguridad del Tráfico en las Carreteras
+
+Groups:
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Algunas medicinas y el volante no se mezclan
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/algunas-medicinas-y-el-volante-no-se-mezclan
+
+Resource: Algunos medicamentos para dormir pueden afectar su capacidad para conducir
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/algunos-medicamentos-para-dormir-pueden-afectar-su-capacidad-para-conducir
+
+Resource: Cinco maneras de evitar que alguien conduzca y escriba mensajes de texto a la vez
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/no-texting.html
+
+Resource: Conducir bajo el efecto de las drogas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional sobre el Abuso de Drogas
+URL: https://nida.nih.gov/es/publicaciones/drugfacts/conducir-bajo-el-efecto-de-drogas
+
+Resource: Conducir después de un ataque o derrame cerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana del Corazón
+URL: https://www.stroke.org/es/life-after-stroke/recovery/daily-living/driving-after-stroke
+
+Resource: Conducir distraído
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000818.htm
+
+Resource: Conducir distraído aumenta el riesgo de accidente
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/conducir-distraido-aumenta-el-riesgo-de-accidente
+
+Resource: Conductores de la tercera edad
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/conduccion-automoviles/conductores-tercera-edad
+
+Resource: Demencia y la conducción
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000028.htm
+
+Resource: Distracción al conducir: Administración Nacional de Seguridad en el Tráfico en las Carreteras
+Category: Comience aquí, Spanish/Español
+Organization: Administración Nacional de Seguridad del Tráfico en las Carreteras
+URL: https://www.nhtsa.gov/es/conducir-de-forma-riesgosa/distraccion-al-conducir
+
+Resource: Instituto Nacional del Abuso de Drogas
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Abuso de Drogas
+URL: https://nida.nih.gov/es
+
+Resource: Prueba de alcohol en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-alcohol-en-la-sangre/
+
+Resource: Prueba de alcoholemia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003632.htm

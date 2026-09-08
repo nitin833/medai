@@ -1,0 +1,48 @@
+Title: Anafilaxia
+
+Also Called:
+- Reacción anafiláctica
+- Shock anafiláctico
+
+Summary:
+La anafilaxia es una reacción alérgica grave. Puede comenzar muy rápidamente, y los síntomas pueden ser potencialmente mortales. Las causas más comunes son reacciones a los alimentos (especialmente al maní o cacahuate), medicamentos y picaduras de insectos. Otras causas incluyen el ejercicio y la exposición al látex. A veces no se puede encontrar una causa.
+Puede afectar a muchos órganos:
+Piel: Picazón, urticaria, enrojecimiento, hinchazón
+Nariz: Estornudos, congestión nasal, secreción nasal
+Boca: Picor, hinchazón de los labios o la lengua
+Garganta: Prurito, opresión, dificultad para tragar, inflamación de la parte posterior de la garganta
+Pecho: Falta de aliento, tos, sibilancias, dolor de pecho u opresión
+Corazón: Pulso débil, desmayo, shock
+Tracto gastrointestinal: Vómitos, diarrea, calambres
+Sistema nervioso: Mareos o desmayos
+Si alguien está teniendo una reacción alérgica grave, llame al 911. Si un autoinyector está disponible, aplicar a la persona la inyección de inmediato.
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Anafilaxia
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000844.htm
+
+Resource: Anafilaxia en los bebés y niños
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/injuries-emergencies/paginas/anaphylaxis.aspx
+
+Resource: Anafilaxia: Consejos para tener en cuenta
+Category: Más información, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/anafilaxia-consejos-para-tener-en-cuenta
+
+Resource: Anafilaxia: primeros auxilios
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-anaphylaxis/basics/art-20056608?p=1
+
+Resource: Reacción alérgica grave (anafilaxia) (para adolescentes)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/anaphylaxis.html

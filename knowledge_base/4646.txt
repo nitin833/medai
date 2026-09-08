@@ -1,0 +1,159 @@
+Title: Cáncer de la vesícula biliar
+
+Summary:
+La vesícula biliar es un órgano con forma de pera ubicado debajo del hígado. Almacena bilis, un líquido producido por el hígado para digerir las grasas. Cuando el estómago y el intestino digieren los alimentos, la vesícula biliar libera bilis a través de un tubo denominado conducto biliar común. Ese conducto conecta a la vesícula biliar y el hígado con el intestino delgado.
+El cáncer de la vesícula biliar es muy poco común. Ocurre más frecuente en mujeres e indios norteamericanos. Los síntomas incluyen:
+Ictericia (color amarillo de la piel y en las partes blancas de los ojos)
+Dolor más arriba del estomago
+Fiebre
+Náuseas y vómitos
+Hinchazón del abdomen
+Nódulos en el abdomen
+Es difícil de detectar el cáncer de la vesícula en sus etapas tempranas.  Los médicos suelen encontrarlo al extirpar la vesícula por causa de otra enfermedad. Las personas con cálculos en la vesícula biliar raramente presentan este cáncer. El cáncer de la vesícula puede ser difícil de tratar porque a menudo no se detecta hasta que ya se ha desarrollado.  Las opciones de tratamiento incluyen la cirugía, quimioterapia, radiación o una combinación de terapias.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Aspectos generales de las opciones de tratamiento (cáncer de vesícula biliar)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq#_105
+
+Resource: Braquiterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/braquiterapia
+
+Resource: Cirugía para el cáncer de vesícula biliar
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/tratamiento/cirugia.html
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del cáncer de vesícula biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq#_72
+
+Resource: Estadísticas importantes sobre el cáncer de vesícula biliar
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/acerca/estadisticas-clave.html
+
+Resource: Factores de riesgo para el cáncer de vesícula biliar
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/causas-riesgos-prevencion/factores-de-riesgo.html
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el cáncer de vesícula biliar
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq#_1
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Pruebas para diagnosticar el cáncer de vesícula biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/deteccion-diagnostico-clasificacion-por-etapas/diagnostico.html
+
+Resource: Pólipos de vesícula: ¿Pueden ser malignos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gallbladder-cancer/expert-answers/gallbladder-polyps/faq-20058450?p=1
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Terapia paliativa para cáncer de vesícula biliar
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/tratamiento/terapia-paliativa.html
+
+Resource: Tratamiento del cáncer de vesícula biliar irresecable, metastásico o recidivante
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq#_267
+
+Resource: Tratamiento del cáncer de vesícula biliar localizado y localmente avanzado
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/vesicula-biliar/paciente/tratamiento-vesicula-biliar-pdq#_263
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Vida después del diagnóstico de cáncer de vesícula biliar
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: ¿Qué es el cáncer de vesícula biliar?
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/acerca/que-es-cancer-de-vesicula-biliar.html
+
+Resource: ¿Se puede prevenir el cáncer de vesícula biliar?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-vesicula-biliar/causas-riesgos-prevencion/prevencion.html

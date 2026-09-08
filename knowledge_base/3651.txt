@@ -1,0 +1,119 @@
+Title: Lesiones y enfermedades del talón
+
+Also Called:
+- Enfermedades del calcañal
+- Problemas con el carcañal
+
+Summary:
+Los problemas en el talón son comunes y pueden ser dolorosos. Con frecuencia, resultan de un exceso de tensión en el hueso del talón y los tejidos que lo rodean. La tensión puede provenir de:
+Lesiones
+Hematomas que se adquieren al caminar, correr o saltar
+Uso de zapatos que no le quedan bien o no están bien hechos
+Sobrepeso
+Esto puede conducir a tendinitis, bursitis y fasciitis, que son tipos de inflamación de los tejidos que rodean el talón. Con el tiempo, la tensión puede causar espolones óseos y deformidades. Algunas enfermedades, como la artritis reumatoide y la gota, también pueden conducir a problemas en los talones. El tratamiento de los problemas en los talones puede incluir reposo, medicinas, ejercicio, uso de vendas y zapatos especiales. Rara vez se requiere cirugía.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Atrapamiento del nervio plantar medial y lateral
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-los-huesos-articulaciones-y-m%C3%BAsculos/problemas-en-los-pies-y-los-tobillos/atrapamiento-del-nervio-plantar-medial-y-lateral
+
+Resource: Bursitis retrocalcánea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001073.htm
+
+Resource: Coalición tarsal
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/tarsal-coalition?lang=es-MX
+
+Resource: Curación de los huesos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/bone-healing?lang=es-MX
+
+Resource: Deformidad de Haglund
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/haglund%E2%80%99s-deformity?lang=es-MX
+
+Resource: Dolor de talón y tendinitis de Aquiles: Cuidados posteriores
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000836.htm
+
+Resource: Dolor del talón
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003181.htm
+
+Resource: Dolor en las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-pain-in-the-foot?lang=es-MX
+
+Resource: Enfermedad de Sever
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/severs-disease.html
+
+Resource: Fascitis plantar
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007021.htm
+
+Resource: Fracturas del calcáneo (fracturas del hueso del talón)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/fractures-of-the-calcaneus-(heel-bone-fractures)?lang=es-MX
+
+Resource: Hinchazón de las articulaciones del pie
+Category: Spanish/Español, Síntomas
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/joint-swelling-in-the-foot?lang=es-MX
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Reparación del tendón de Aquiles
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007643.htm
+
+Resource: Ruptura del tendón de Aquiles
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/achilles-tendon-rupture?lang=es-MX
+
+Resource: Talones rajados
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/cracked-heels?lang=es-MX
+
+Resource: Tendinitis aquílea
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001072.htm
+
+Resource: Tendinitis de Aquiles
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/achilles.html
+
+Resource: Trastornos comunes del tendón de Aquiles
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/achilles-tendon-disorders?lang=es-MX
+
+Resource: Tratamiento posoperatorio para la ruptura del tendón de Aquiles
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000546.htm

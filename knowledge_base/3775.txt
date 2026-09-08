@@ -1,0 +1,181 @@
+Title: Skin Aging
+
+Summary:
+Your skin changes as you age. You might notice wrinkles, age spots and dryness. Your skin also becomes thinner and loses fat, making it less plump and smooth. It might take longer to heal, too.
+Sunlight
+is a major cause of skin aging. You can protect yourself by staying out of the sun when it is strongest, using sunscreen with an SPF of 15 or higher, wearing protective clothing, and avoiding sunlamps and tanning beds. Cigarette smoking also contributes to wrinkles. The wrinkling increases with the amount of cigarettes and number of years a person has smoked.
+Many products claim to revitalize aging skin or reduce wrinkles, but the Food and Drug Administration has approved only a few for sun-damaged or aging skin. Various treatments soothe dry skin and reduce the appearance of age spots.
+NIH: National Institute on Aging
+
+Groups:
+- Older Adults
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Skin Aging
+
+Related Resources:
+
+Resource: Aging changes in skin
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004014.htm
+
+Resource: American Academy of Dermatology
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/?NoAds
+
+Resource: American Society for Dermatologic Surgery
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net
+
+Resource: Bags under Eyes
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bags-under-eyes/symptoms-causes/syc-20369927?p=1
+
+Resource: Blepharoplasty
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/blepharoplasty
+
+Resource: Blepharoplasty - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100183_1.htm
+
+Resource: Botulinum Toxin (Botox) for Facial Wrinkles
+Category: Treatments and Therapies
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/treatments/what-is-botox-facial-wrinkles
+
+Resource: Botulinum Toxin Therapy: Overview
+Category: Treatments and Therapies
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/cosmetic/wrinkles/botulinum-toxin-overview?NoAds
+
+Resource: Chemical Peels
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/chemical-peels
+
+Resource: Chemical Peels: Overview
+Category: Treatments and Therapies
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/cosmetic/younger-looking/chemical-peels-overview?NoAds
+
+Resource: ClinicalTrials.gov: Skin Aging
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Skin+Aging%22&aggFilters=status:not%20rec
+
+Resource: Dermal Filler Do's and Don'ts for Wrinkles, Lips, and More
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/dermal-filler-dos-and-donts-wrinkles-lips-and-more
+
+Resource: Dermal Fillers (Soft Tissue Fillers)
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/dermal-fillers-soft-tissue-fillers
+
+Resource: Eldercare at Home: Skin Problems
+Category: Related Issues
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/caregiver-guide-skin-problems
+
+Resource: Eyelid lift
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002977.htm
+
+Resource: Facelift
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002989.htm
+
+Resource: Facelift - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100186_1.htm
+
+Resource: Find a Dermatologic Surgeon
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/find-a-dermatologic-surgeon/advanced/true
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Forehead lift
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002990.htm
+
+Resource: Forehead lift - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100020_1.htm
+
+Resource: How to Select Anti-Aging Skin Care Products
+Category: Living With
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/everyday-care/skin-care-secrets/anti-aging/selecting-anti-aging-products?NoAds
+
+Resource: Laser Skin Renewal
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/laser-skin-renewal/?Imiw9cApl=1
+
+Resource: Liver spots
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001141.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: National Institute on Aging
+Category: Find an Expert
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/
+
+Resource: Neuromodulators for Aging Skin
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/neuromodulators/neuromodulators-for-aging-skin
+
+Resource: Skin Aging
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Skin+Aging%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sagging Skin
+Category: Specifics
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-conditions/sagging-skin
+
+Resource: Skin Care and Aging
+Category: Start Here
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/skin-care/skin-care-and-aging
+
+Resource: Wrinkle Creams: Your Guide to Younger Looking Skin
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/wrinkles/in-depth/wrinkle-creams/art-20047463?p=1
+
+Resource: Wrinkle Treatments and Other Anti-aging Products
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/cosmetics/cosmetic-products/wrinkle-treatments-and-other-anti-aging-products
+
+Resource: Wrinkles
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003252.htm

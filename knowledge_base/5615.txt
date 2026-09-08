@@ -1,0 +1,100 @@
+Title: Giant Cell Arteritis
+
+Summary:
+Giant cell arteritis is a disorder that causes inflammation of your arteries, usually in the scalp, neck, and arms. It narrows the arteries, which keeps blood from flowing well. Giant cell arteritis often occurs with another disorder called
+polymyalgia rheumatica
+. Both are more common in women than in men. They almost always affect people over the age of 50.
+Early symptoms of giant cell arteritis resemble the flu:  fatigue, loss of appetite, and fever. Other symptoms include:
+Headaches
+Pain and tenderness over the temples
+Double vision or visual loss, dizziness
+Problems with coordination and balance
+Pain in your jaw and tongue
+Your doctor will make the diagnosis based on your medical history, symptoms, and a physical exam. There is no specific test for giant cell arteritis, but you may have tests that measure inflammation.
+Treatment is usually with
+corticosteroids
+. Early treatment is important; otherwise there is a risk of permanent vision loss or stroke.  However, when properly treated, giant cell arteritis rarely comes back.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Blood, Heart and Circulation
+- Immune System
+
+MeSH Headings:
+- Giant Cell Arteritis
+
+Related Resources:
+
+Resource: American College of Rheumatology
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/
+
+Resource: C-Reactive Protein (CRP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/c-reactive-protein-crp-test/
+
+Resource: ClinicalTrials.gov: Giant Cell Arteritis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Giant+Cell+Arteritis%22&aggFilters=status:not%20rec
+
+Resource: Erythrocyte Sedimentation Rate (ESR)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/erythrocyte-sedimentation-rate-esr/
+
+Resource: ESR
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003638.htm
+
+Resource: Giant cell arteritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000448.htm
+
+Resource: Giant Cell Arteritis
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/giant-cell-arteritis
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Polymyalgia Rheumatica and Giant Cell Arteritis
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/polymyalgia-rheumatica-giant-cell-arteritis
+
+Resource: Giant cell arteritis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Giant+Cell+Arteritis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rheumatology Provider Directory
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://my.rheumatology.org/rheumatology-provider-directory
+
+Resource: Temporal Arteritis
+Category: Specifics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/9615/giant-cell-arteritis
+
+Resource: Vasculitis in the Nervous System
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/vasculitis-nervous-system
+
+Resource: What Is Giant Cell Arteritis?
+Category: Related Issues
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-giant-cell-arteritis
+
+Resource: What is Vasculitis?
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/vasculitis

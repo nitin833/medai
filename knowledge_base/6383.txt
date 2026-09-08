@@ -1,0 +1,355 @@
+Title: Pruebas y exámenes para los riñones
+
+Also Called:
+- Pruebas renales
+- Tests para los riñones
+
+Summary:
+Usted tiene dos riñones, órganos del tamaño de un puño ubicados a cada lado de la columna vertebral un poco más arriba de su cintura. Sus riñones filtran y limpian su sangre, eliminando los productos de desecho y produciendo la orina. Las pruebas renales se usan para ver qué tan bien están funcionando sus riñones. Estas incluyen pruebas de sangre,
+orina
+y de
+imagen
+.
+Por lo general, la
+enfermedad renal
+en etapa temprana no muestra signos o síntomas. Las pruebas son la única forma de saber cómo están funcionando sus riñones. Es importante que se haga un chequeo por enfermedad renal si tiene los principales factores de riesgo: diabetes, presión arterial alta, enfermedades del corazón o una historia familiar de insuficiencia renal.
+Las pruebas renales específicas incluyen:
+Tasa de filtración glomerular
+: Uno de los análisis de sangre más comunes para la
+enfermedad renal crónica
+. Muestra qué tan bien filtran sus riñones
+Prueba de creatinina en sangre y orina
+: Chequea los niveles de creatinina, un producto de desecho que sus riñones eliminan de la sangre
+Análisis de albúmina en orina: Busca la presencia de albúmina, una proteína que puede aparecer en la orina si los riñones están dañados
+Pruebas de imagen como una
+ecografía
+: Proporciona imágenes de los riñones, las que ayudan al médico a visualizar el tamaño y forma de los riñones, y ver si hay algo inusual
+Biopsia
+de riñón: Consiste en tomar una pequeña muestra de tejido del riñón para analizarla en un microscopio. Comprueba la causa de la enfermedad renal y qué tan dañados están sus riñones.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Amilasa en orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003607.htm
+
+Resource: Anticuerpos antimembrana basal glomerular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003524.htm
+
+Resource: Análisis de cálculos renales
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-de-calculos-renales/
+
+Resource: Análisis de orina: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/urinalysis.html
+
+Resource: Arteriografía renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003781.htm
+
+Resource: Biopsia renal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003907.htm
+
+Resource: Calcio en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003603.htm
+
+Resource: Calcio ionizado
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003486.htm
+
+Resource: Cilindros urinarios
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003586.htm
+
+Resource: Cintigrafía renal (del riñón)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/Renal
+
+Resource: Cistoscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003903.htm
+
+Resource: Cistoscopia y ureteroscopia
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/cistoscopia-ureteroscopia
+
+Resource: Electroforesis de proteínas en suero
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Electroforesis de proteínas por inmunofijación en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electroforesis-de-proteinas-por-inmunofijacion-en-sangre/
+
+Resource: Examen con tira reactiva de proteína en la orina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003580.htm
+
+Resource: Examen de albúmina en sangre (sérica)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003480.htm
+
+Resource: Examen de calcio en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003477.htm
+
+Resource: Examen de CO2 en sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003469.htm
+
+Resource: Examen de electroforesis de proteínas en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003589.htm
+
+Resource: Examen de fósforo en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003478.htm
+
+Resource: Examen de glóbulos rojos en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003582.htm
+
+Resource: Examen de hemoglobinuria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003363.htm
+
+Resource: Examen de microalbuminuria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003591.htm
+
+Resource: Examen de nitrógeno ureico en la sangre (BUN)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003474.htm
+
+Resource: Examen de nitrógeno ureico en sangre (NUS)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-nitrogeno-ureico-en-sangre-nus/
+
+Resource: Examen de potasio en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003600.htm
+
+Resource: Examen de sodio en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003599.htm
+
+Resource: Examen de TBG en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003374.htm
+
+Resource: Examen del cloruro en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003601.htm
+
+Resource: Examen del nitrógeno ureico en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003605.htm
+
+Resource: Excreción fraccionada de sodio
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003602.htm
+
+Resource: Gammagrafía de perfusión renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003831.htm
+
+Resource: Gammagrafía renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003790.htm
+
+Resource: Grupo de pruebas metabólicas básicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003462.htm
+
+Resource: Inmunoelectroforesis en orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003592.htm
+
+Resource: Panel metabólico básico
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-basico/
+
+Resource: Panel metabólico completo (PMC)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-metabolico-completo-pmc/
+
+Resource: Pielografía intravenosa (PIV)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pielografia-intravenosa-pm/
+
+Resource: Pielograma intravenoso (PIV)
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ivp
+
+Resource: Proteína en orina de 24 horas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003622.htm
+
+Resource: Proteína total
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003483.htm
+
+Resource: Proteínas totales y relación albúmina/globulina (A/G)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/proteinas-totales-y-relacion-albumina-globulinaa-g/
+
+Resource: Prueba de albúmina en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-albumina-en-la-sangre/
+
+Resource: Prueba de calcio en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-la-sangre/
+
+Resource: Prueba de calcio en orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-calcio-en-orina/
+
+Resource: Prueba de cloruro en sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cloruro-en-sangre/
+
+Resource: Prueba de creatinina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-creatinina/
+
+Resource: Prueba de fosfato en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-fosfato-en-la-orina/
+
+Resource: Prueba de fosfato en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-fosfato-en-la-sangre/
+
+Resource: Prueba de magnesio en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-magnesio-en-la-sangre/
+
+Resource: Prueba de sobrecarga ácida (pH)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003615.htm
+
+Resource: Prueba de tasa de filtración glomerular (TFG)
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-tasa-de-filtracion-glomerular-tfg/
+
+Resource: Prueba del ácido cítrico en orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003618.htm
+
+Resource: Pruebas de detección de la enfermedad renal
+Category: Comience aquí, Spanish/Español
+Organization: Fondo Estadounidense sobre los Riñones
+URL: https://www.kidneyfund.org/es/todo-sobre-los-rinones/las-pruebas-de-deteccion-de-la-enfermedad-renal
+
+Resource: Pruebas y diagnóstico de la enfermedad de los riñones
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/informacion-general/diagnostico
+
+Resource: Punción abdominal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Resonancia magnética del abdomen
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Tasa de filtración glomerular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007305.htm
+
+Resource: Tomografía computarizada del abdomen
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003789.htm
+
+Resource: Ultrasonido abdominal
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Venografía renal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003770.htm
+
+Resource: Volumen urinario en 24 horas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003425.htm
+
+Resource: Ácido úrico en la orina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003616.htm
+
+Resource: Ácido úrico en la sangre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003476.htm

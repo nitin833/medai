@@ -1,0 +1,151 @@
+Title: Acne
+
+Also Called:
+- Pimples
+- Zits
+
+Summary:
+Acne is a common skin disease that causes pimples. Pimples form when hair follicles 
+under your skin clog up. Most pimples form on the face, neck, back, chest, and shoulders. Anyone can get acne, but 
+it is common in teenagers and young adults. It is not serious, but it can cause
+scars
+.
+No one knows exactly what causes acne. Hormone changes, such as those during the teenage 
+years and pregnancy, probably play a role. There are many myths about what causes acne. Chocolate and greasy foods are often 
+blamed, but there is little evidence that foods have much effect on acne in most people. 
+Another common myth is that dirty skin causes acne; however, blackheads and pimples are not 
+caused by dirt. Stress doesn't cause acne, but stress can make it worse.
+If you have acne:
+Clean your skin gently
+Try not to touch your skin
+Avoid the sun
+Treatments for acne include medicines and creams.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin 
+Diseases
+
+Groups:
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Acne Vulgaris
+
+Related Resources:
+
+Resource: Acne
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/acne.html
+
+Resource: Acne
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/acne.html
+
+Resource: Acne
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000873.htm
+
+Resource: Acne
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/acne
+
+Resource: Acne (Acne Vulgaris)
+Category: Start Here
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/acne-vulgaris/?Imiw9cApl=1
+
+Resource: Acne - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000750.htm
+
+Resource: Acne Excoriée
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/acne-excoriee/teen/?Imiw9cApl=1
+
+Resource: Acne Keloidalis Nuchae
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/acne-keloidalis-nuchae/?Imiw9cApl=1
+
+Resource: Acne Scars: Overview
+Category: Related Issues
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/acne/derm-treat/scars?NoAds
+
+Resource: Acne: Tips for Managing
+Category: Living With
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/acne/skin-care/tips?NoAds
+
+Resource: Baby Acne (Neonatal Acne)
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/neonatal-acne-benign-cephalic-pustulosis/?Imiw9cApl=1
+
+Resource: Can Acne Scars Be Removed?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/acne-scars.html
+
+Resource: ClinicalTrials.gov: Acne Vulgaris
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Acne+Vulgaris%22&aggFilters=status:not%20rec
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: Isotretinoin and Other Retinoids during Pregnancy
+Category: Women
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/isotretinoin-and-other-retinoids-during-pregnancy
+
+Resource: Laser Acne Treatment
+Category: Treatments and Therapies
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/laser-acne-treatment/?Imiw9cApl=1
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Nonprescription Acne Treatment: Which Products Work Best?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/acne/in-depth/acne-treatments/art-20045814?p=1
+
+Resource: Pregnancy Acne: What's the Best Treatment?
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/expert-answers/pregnancy-acne/faq-20058045?p=1
+
+Resource: Acne
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Acne+Vulgaris%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Teen Acne: How to Treat and Prevent This Common Skin Condition
+Category: Teenagers
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/What-Causes-Acne.aspx
+
+Resource: Topical Acne Treatments and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/topical-acne-treatments-pregnancy/
+
+Resource: What Can I Do About Acne?
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/prevent-acne.html
+
+Resource: What Is Acne?
+Category: Start Here
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/acne

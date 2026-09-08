@@ -1,0 +1,75 @@
+Title: Electrical Injuries
+
+Also Called:
+- Electric shock
+- Electrical burn
+
+Summary:
+When you come in direct contact with electricity, it can pass through your body and cause injuries. These electrical injuries can be external or internal. You may have one or both types. External injuries are skin
+burns
+. Internal injuries include damage to your organs, bones, muscles, and nerves. You could also have
+abnormal heart rhythms
+and
+sudden cardiac arrest
+(SCA).
+How bad your injuries are depends on how strong the electric current was, what type of current it was, how it moved through your body, and how long you were exposed. Other factors include how healthy you are, and how quickly you get treatment.
+Causes of electrical injuries include:
+Lightning strikes
+Faulty electrical appliances
+Work-related exposures
+Contact with household wiring or power lines
+Accidents in small children, when they bite or suck on electrical cords, or stick objects in outlets
+If you get an electrical injury, you should see a doctor. You may have internal damage and not realize it.
+
+Groups:
+- Injuries and Wounds
+
+MeSH Headings:
+- Burns, Electric
+- Electric Injuries
+
+Related Resources:
+
+Resource: Electric Shock Injuries in Children
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Electric-Shock.aspx
+
+Resource: Electrical Burns: First Aid
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-electrical-burns/basics/art-20056687?p=1
+
+Resource: Electrical injury
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000053.htm
+
+Resource: Electrical Shock: First Aid
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-electrical-shock/basics/art-20056695?p=1
+
+Resource: Lightning and Your Safety
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/lightning/about/
+
+Resource: Lightning Injuries
+Category: Learn More
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/electrical-and-lightning-injuries/lightning-injuries
+
+Resource: Lightning Safety Tips and Resources
+Category: Learn More
+Organization: National Weather Service
+URL: https://www.weather.gov/safety/lightning
+
+Resource: Electrical Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Burns%2C+Electric%22%5Bmajr%3Anoexp%5D+OR+%22Electric+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What to Do to Protect Yourself from Electrical Hazards
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html

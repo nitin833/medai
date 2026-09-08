@@ -1,0 +1,230 @@
+Title: Lipid Metabolism Disorders
+
+Summary:
+Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Chemicals in your digestive system (enzymes) break the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body tissues. If you have a
+metabolic disorder
+, something goes wrong with this process.
+Lipid metabolism disorders, such as
+Gaucher disease
+and
+Tay-Sachs disease
+, involve lipids. Lipids are fats or fat-like substances. They include oils, fatty acids, waxes, and cholesterol. If you have one of these disorders, you may not have enough enzymes to break down lipids. Or the enzymes may not work properly and your body can't convert the fats into energy. They cause a harmful amount of lipids to build up in your body. Over time, that can damage your cells and tissues, especially in the brain, peripheral nervous system, liver, spleen, and bone marrow. Many of these disorders can be very serious, or sometimes even fatal.
+These disorders are inherited. Newborn babies get
+screened
+for some of them, using blood tests. If there is a family history of one of these disorders, parents can get
+genetic testing
+to see whether they carry the gene. Other genetic tests can tell whether the fetus has the disorder or carries the gene for the disorder.
+Enzyme replacement therapies can help with a few of these disorders. For others, there is no treatment. Medicines, blood transfusions, and other procedures may help with complications.
+
+Groups:
+- Metabolic Problems
+
+MeSH Headings:
+- Lipid Metabolism, Inborn Errors
+- Lipid Metabolism Disorders
+
+Related Resources:
+
+Resource: 3-hydroxyacyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-hydroxyacyl-coa-dehydrogenase-deficiency
+
+Resource: Bassen-Kornzweig syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001666.htm
+
+Resource: Carnitine palmitoyltransferase I deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-i-deficiency/
+
+Resource: Carnitine palmitoyltransferase II deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-palmitoyltransferase-ii-deficiency/
+
+Resource: Carnitine-acylcarnitine translocase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/carnitine-acylcarnitine-translocase-deficiency/
+
+Resource: Cerebrotendinous xanthomatosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cerebrotendinous-xanthomatosis
+
+Resource: Chanarin-Dorfman syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/chanarin-dorfman-syndrome
+
+Resource: Chylomicronemia syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000405.htm
+
+Resource: ClinicalTrials.gov: Lipid Metabolism Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Lipid+Metabolism+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Combined malonic and methylmalonic aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/combined-malonic-and-methylmalonic-aciduria/
+
+Resource: Fabry disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/fabry-disease/
+
+Resource: Familial hypercholesterolemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hypercholesterolemia
+
+Resource: Familial hypobetalipoproteinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hypobetalipoproteinemia
+
+Resource: Familial lipoprotein lipase deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000408.htm
+
+Resource: Familial lipoprotein lipase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-lipoprotein-lipase-deficiency
+
+Resource: Farber lipogranulomatosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/farber-lipogranulomatosis
+
+Resource: Gaucher Disease: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/gaucherdisease.html
+
+Resource: Genetic Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetictesting.html
+
+Resource: Lipid Storage Diseases
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lipid-storage-diseases
+
+Resource: Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/long-chain-3-hydroxyacyl-coa-dehydrogenase-deficiency
+
+Resource: Lysosomal acid lipase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lysosomal-acid-lipase-deficiency
+
+Resource: Malonyl-CoA decarboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/malonyl-coa-decarboxylase-deficiency/
+
+Resource: Medium-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+
+Resource: MEGDEL syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/megdel-syndrome/
+
+Resource: Methylmalonic acid blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003565.htm
+
+Resource: Methylmalonic acidemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001162.htm
+
+Resource: Methylmalonic acidemia with homocystinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methylmalonic-acidemia-with-homocystinuria
+
+Resource: Methylmalonic acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methylmalonic-acidemia
+
+Resource: Mucolipidosis type IV: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucolipidosis-type-iv/
+
+Resource: Neutral lipid storage disease with myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neutral-lipid-storage-disease-with-myopathy
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Niemann-Pick disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001207.htm
+
+Resource: Niemann-Pick disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/niemann-pick-disease/
+
+Resource: Primary carnitine deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-carnitine-deficiency
+
+Resource: Lipid Metabolism Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Lipid+Metabolism%2C+Inborn+Errors%22%5Bmajr%3Anoexp%5D+OR+%22Lipid+Metabolism+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rhizomelic chondrodysplasia punctata: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rhizomelic-chondrodysplasia-punctata
+
+Resource: Short-chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-chain-acyl-coa-dehydrogenase-deficiency
+
+Resource: Sitosterolemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sitosterolemia
+
+Resource: Smith-Lemli-Opitz syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/smith-lemli-opitz-syndrome
+
+Resource: Tay-Sachs Disease: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/taysachsdisease.html
+
+Resource: Xanthoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001447.htm

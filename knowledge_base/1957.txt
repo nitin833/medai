@@ -1,0 +1,174 @@
+Title: Lesiones y enfermedades de la cadera
+
+Summary:
+La cadera es la articulación donde se une el hueso del muslo (fémur) con el de la pelvis. Tiene dos partes principales: Una bola en el extremo del fémur, que se encaja en la cavidad de la pelvis. Su cadera es conocida como una articulación esférica, esto es porque tiene una bola al final del fémur que calza dentro de la cavidad de la pelvis. Esto hace que las caderas sean muy estables y permiten un amplio rango de movimiento. Cuando están sanas, es necesaria mucha fuerza para lastimarlas. Sin embargo, algunas veces hacer deportes, correr, el uso excesivo o las caídas pueden llevar a lesiones en las caderas como:
+Distensiones
+Bursitis
+Dislocaciones
+Fracturas
+(huesos rotos)
+Algunas enfermedades también pueden conducir a lesiones o problemas con las caderas. La
+osteoartritis
+puede causar dolor y limitar los movimientos. La
+osteoporosis
+en la cadera causa que se debiliten los huesos y se rompan fácilmente. Ambos son comunes en personas mayores.
+Otro problema es la displasia de cadera, donde la bola al final del fémur está suelta en la cavidad de la cadera. Puede causar dislocación de cadera. Los bebés que tienen displasia de cadera generalmente nacen con ella, pero a veces la desarrollan más tarde.
+El tratamiento de los problemas de las caderas puede incluir reposo, medicinas, fisioterapia o cirugía, incluyendo
+reemplazo de cadera
+.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Alistar la casa en caso de cirugía de rodilla o de cadera
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000167.htm
+
+Resource: Alta tras fractura de cadera
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000168.htm
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Artrografía directa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Artroscopia de la cadera
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007500.htm
+
+Resource: Atención postratamiento para una distensión muscular de los flexores de la cadera
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000682.htm
+
+Resource: Cirugía por fractura de cadera
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007386.htm
+
+Resource: Controle el dolor por una fractura de cadera: Guía para adultos y personas que ayudan con el cuidado
+Category: Viviendo con..., Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://effectivehealthcare.ahrq.gov/products/hip-fracture-pain/espanol
+
+Resource: Contusión de cadera
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hip-pointer.html
+
+Resource: Desgarro del labrum de la cadera
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hip-labral-tear/symptoms-causes/syc-20354873?p=1
+
+Resource: Deslizamiento de la epífisis de la cabeza femoral
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000972.htm
+
+Resource: Displasia del desarrollo de la cadera
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000971.htm
+
+Resource: Dolor de cadera
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003179.htm
+
+Resource: Dolor de cadera
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/hip-pain/basics/definition/SYM-20050684?p=1
+
+Resource: Ecografía: De cadera en los lactantes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-hip.html
+
+Resource: Enfermedad de Legg-Calve-Perthes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001264.htm
+
+Resource: Enfermedad de Legg-Calvé-Perthes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/legg-calve-perthes-disease/symptoms-causes/syc-20374343?p=1
+
+Resource: Enfermedad de Legg-Calvé-Perthes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/perthes-disease.html
+
+Resource: Fractura de cadera
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hip-fracture/symptoms-causes/syc-20373468?p=1
+
+Resource: Inyección de articulación de la cadera
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007633.htm
+
+Resource: Radiografía de la pelvis
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003809.htm
+
+Resource: Radiografía: Cadera (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-hip.html
+
+Resource: Rayos X óseos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bonerad
+
+Resource: Reemplazo de cadera: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hipreplacement.html
+
+Resource: RMN musculoesquelética
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/muscmr
+
+Resource: Sinovitis tóxica
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000981.htm
+
+Resource: Síndrome de la banda iliotibial (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/iliotibial-band-syndrome.html
+
+Resource: Síndrome doloroso del trocánter mayor
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000777.htm
+
+Resource: Ultrasonido de cadera
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/us-hip
+
+Resource: Ultrasonido musculoesquelético
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/musculous

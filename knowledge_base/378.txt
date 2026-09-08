@@ -1,0 +1,172 @@
+Title: Pulmonary Fibrosis
+
+Also Called:
+- IPF
+- Idiopathic pulmonary fibrosis
+
+Summary:
+Pulmonary fibrosis is a condition in which the tissue deep in your lungs becomes scarred over time.  This tissue gets thick and stiff.  That makes it hard for you to catch your breath, and your blood may not get enough oxygen.
+Causes of pulmonary fibrosis include environmental pollutants, some medicines, some connective tissue diseases, and interstitial lung disease.
+Interstitial lung disease
+is the name for a large group of diseases that inflame or scar the lungs. In most cases, the cause cannot be found.  This is called idiopathic pulmonary fibrosis.
+Symptoms include:
+Shortness of breath
+A dry, hacking cough that doesn't get better
+Fatigue
+Weight loss for no known reason
+Aching muscles and joints
+Clubbing, which is the widening and rounding of the tips of the fingers or toes
+Your doctor may use your medical history, imaging tests, a biopsy, and lung function tests to diagnose pulmonary fibrosis. There is no cure. Treatments can help with symptoms and improve your quality of life. They include medicines, oxygen therapy, pulmonary rehabilitation, or a lung transplant.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Lungs and Breathing
+
+MeSH Headings:
+- Pulmonary Fibrosis
+
+Related Resources:
+
+Resource: ACE blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003567.htm
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Arterial Blood Gas (ABG) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-oxygen-level/
+
+Resource: Blood gases
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003855.htm
+
+Resource: Bronchoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003857.htm
+
+Resource: Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bronchoscopy-and-bronchoalveolar-lavage-bal/
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: ClinicalTrials.gov: Pulmonary Fibrosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pulmonary+Fibrosis%22&aggFilters=status:not%20rec
+
+Resource: Familial Pulmonary Fibrosis
+Category: Specifics
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/interstitial-lung-disease-ild-center/what-is-ild/what-is-fpf
+
+Resource: Hermansky-Pudlak syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hermansky-pudlak-syndrome/
+
+Resource: How the Lungs Work
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs
+
+Resource: Idiopathic pulmonary fibrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000069.htm
+
+Resource: Idiopathic Pulmonary Fibrosis
+Category: Specifics
+Organization: Pulmonary Fibrosis Foundation
+URL: https://www.pulmonaryfibrosis.org/understanding-pff/types-of-pulmonary-fibrosis/idiopathic-pulmonary-fibrosis
+
+Resource: Idiopathic pulmonary fibrosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/idiopathic-pulmonary-fibrosis
+
+Resource: Introduction to Pulmonary Fibrosis
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/pulmonary-fibrosis/introduction
+
+Resource: Living Well with Pulmonary Fibrosis
+Category: Living With
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/pulmonary-fibrosis/patients/living-well-with-pulmonary-fibrosis
+
+Resource: Living with Pulmonary Fibrosis FAQ
+Category: Living With
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/pulmonary-fibrosis/patients/living-well-with-pulmonary-fibrosis/faq
+
+Resource: Lung diffusion testing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003854.htm
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Maintain Your Health
+Category: Living With
+Organization: Pulmonary Fibrosis Foundation
+URL: https://www.pulmonaryfibrosis.org/patients-caregivers/education-resources/maintain-your-health
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pulmonary Fibrosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pulmonary+Fibrosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary Fibrosis Foundation
+Category: Find an Expert
+Organization: Pulmonary Fibrosis Foundation
+URL: https://www.pulmonaryfibrosis.org/
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Pulmonary Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/pulmonaryrehabilitation.html
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/spirometry
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: What Is Idiopathic Pulmonary Fibrosis?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/idiopathic-pulmonary-fibrosis
+
+Resource: What Is Pulmonary Fibrosis?
+Category: Start Here
+Organization: Pulmonary Fibrosis Foundation
+URL: https://www.pulmonaryfibrosis.org/understanding-pff/about-pulmonary-fibrosis/what-is-pulmonary-fibrosis

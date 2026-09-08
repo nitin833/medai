@@ -1,0 +1,104 @@
+Title: Meniere's Disease
+
+Summary:
+Meniere's disease is a disorder of the inner ear. It can cause severe
+dizziness
+, a roaring sound in your ears called
+tinnitus
+, hearing loss that comes and goes and the feeling of ear pressure or pain. It usually affects just one ear. It is a common cause of hearing loss.
+Attacks of dizziness may come on suddenly or after a short period of tinnitus or muffled hearing. Some people have single attacks of dizziness once in a while. Others may have many attacks close together over several days. Some people with Meniere's disease have "drop attacks" during which the  dizziness is so bad they lose their balance and fall.
+Scientists don't yet know the cause. They think that it has to do with the fluid levels or the mixing of fluids in the canals of your inner ear.  Doctors diagnose it based on a physical exam and your symptoms. A hearing test can check to see how it has affected your hearing.
+There is no cure. Treatments include medicines to control dizziness, limiting salt in your diet, and taking water pills. A device that fits into the outer ear and delivers air pulses to the middle ear can help. Severe cases may require surgery.
+NIH: National Institute on Deafness and Other Communication Disorders
+
+Groups:
+- Ear, Nose and Throat
+
+MeSH Headings:
+- Meniere Disease
+
+Related Resources:
+
+Resource: Balance Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/balance-tests/
+
+Resource: Caloric stimulation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003429.htm
+
+Resource: ClinicalTrials.gov: Meniere Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Meniere+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Vestibular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Vestibular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Directory of Organizations
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/directory
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Glossary
+Category: Reference Desk
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/glossary
+
+Resource: Meniere's Disease
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/menieres-disease/symptoms-causes/syc-20374910?p=1
+
+Resource: Meniere's Disease
+Category: Start Here
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/menieres-disease/
+
+Resource: Ménière disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000702.htm
+
+Resource: Ménière disease - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000709.htm
+
+Resource: Ménière disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/meniere-disease
+
+Resource: Ménière's Disease
+Category: Start Here
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov/health/menieres-disease
+
+Resource: National Institute on Deafness and Other Communication Disorders
+Category: Find an Expert
+Organization: National Institute on Deafness and Other Communication Disorders
+URL: https://www.nidcd.nih.gov
+
+Resource: Meniere's Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Meniere+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Support Group Directory
+Category: Find an Expert
+Organization: Vestibular Disorders Association
+URL: https://vestibular.org/support-groups/
+
+Resource: Videonystagmography (VNG)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/videonystagmography-vng/

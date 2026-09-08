@@ -1,0 +1,94 @@
+Title: Scabies
+
+Summary:
+Scabies is an itchy skin condition caused by the microscopic mite Sarcoptes scabei. It is common all over the world, and can affect anyone. Scabies spreads quickly in crowded conditions where there is frequent skin-to-skin contact between people. Hospitals, child-care centers, and nursing homes are examples. Scabies can easily infect sex partners and other household members. Sharing clothes, towels, and bedding can sometimes spread scabies.  This can happen much more easily when the infested person has crusted scabies. You cannot get scabies from a pet. Pets get a different mite infection called mange.
+Symptoms are:
+Pimple-like irritations or a rash
+Intense itching, especially at night
+Sores caused by scratching
+Your health care provider diagnoses scabies by looking at the skin rash and finding burrows in the skin.
+Several lotions are available to treat scabies. The infected person's clothes, bedding and towels should be washed in hot water and dried in a hot dryer. Treatment is also recommended for household members and sexual partners.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Scabies
+
+Related Resources:
+
+Resource: About Scabies
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/scabies/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Scabies
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Scabies%22&aggFilters=status:not%20rec
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Preventing Scabies
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/scabies/prevention/
+
+Resource: Scabies
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Scabies%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scabies
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000830.htm
+
+Resource: Scabies
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/scabies/?Imiw9cApl=1
+
+Resource: Scabies
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/scabies/symptoms-causes/syc-20377378?p=1
+
+Resource: Scabies (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/scabies.html
+
+Resource: Scabies: A Very Itchy but Curable Rash
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Scabies.aspx
+
+Resource: Scabies: Overview
+Category: Start Here
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/scabies-overview?NoAds
+
+Resource: Symptoms of Scabies
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/scabies/signs-symptoms/
+
+Resource: Treatment of Scabies
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/scabies/treatment/

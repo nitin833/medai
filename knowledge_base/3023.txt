@@ -1,0 +1,124 @@
+Title: Malformaciones del cerebro
+
+Summary:
+La mayoría de las malformaciones cerebrales comienza mucho antes del nacimiento de un bebé. Algo daña el sistema nervioso en desarrollo o provoca un desarrollo anormal. A veces el problema es genético. En otras, la exposición a ciertas
+medicinas
+,
+infecciones
+o radiación durante el embarazo interfiere con el desarrollo del cerebro. Partes del cerebro pueden estar ausentes, ser anormalmente grandes o pequeñas, o no desarrollarse en su totalidad.
+El tratamiento depende del problema. En muchos casos, el tratamiento sólo ayuda con los síntomas. Puede incluir medicamentos anticonvulsivos, válvulas para drenar líquido del cerebro y terapia física.
+Existen malformaciones de la cabeza que no involucran al cerebro. Las
+anomalías craneofaciales
+son resultado del crecimiento anormal del tejido blando y los huesos de la cara y la cabeza. Es común que los bebés recién nacidos tengan la cabeza ligeramente torcida, pero los padres deben vigilar la forma de la cabeza del niño para detectar posibles problemas.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Agenesia del cuerpo calloso
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11869/agenesia-del-cuerpo-calloso/
+
+Resource: Alta tras cirugía del cerebro
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Bisturí de rayos gamma: Gamma Knife
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/gamma_knife
+
+Resource: Cerebro y sistema nervioso (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/brain.html
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Crecer después del Zika
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://www.nichd.nih.gov/newsroom/digital-media/infographics/092116_zika_spanish
+
+Resource: Ecografía: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-head.html
+
+Resource: Glosario hablado de términos genéticos
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/genetics-glossary
+
+Resource: Incremento del perímetro cefálico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003305.htm
+
+Resource: Microcefalia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003272.htm
+
+Resource: Microcefalia
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/birth-defects/es/about/microcefalia.html
+
+Resource: Radiografía de cráneo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003802.htm
+
+Resource: Reconstrucción cráneofacial
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100058_1.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: Suturas separadas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003307.htm
+
+Resource: Síndrome de Aicardi
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001664.htm
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: TC pediátrica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/pedia-ct
+
+Resource: Ultrasonido de cráneo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ultrasound-cranial

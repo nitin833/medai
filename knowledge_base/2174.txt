@@ -1,0 +1,223 @@
+Title: Infecciones por estreptococo
+
+Summary:
+El estreptococo es un tipo de bacteria. Existen varios tipos. Dos de ellos causan la mayoría de infecciones por estreptococo en las personas: Grupo A y grupo B.
+El estreptococo del grupo A causa:
+Infección en la garganta: Una garganta irritada y adolorida. Sus
+amígdalas
+pueden estar hinchadas y tener manchas blancas
+Escarlatina: Una enfermedad que ocurre después de la faringitis estreptocócica. Provoca una erupción roja en el cuerpo
+Impétigo
+: Una infección en la piel
+Síndrome del shock tóxico
+Celulitis
+y fascitis necrotizante (enfermedad necrotizante)
+El estreptococo del grupo B puede causar infecciones de la sangre, neumonía y meningitis en los recién nacidos. Una prueba durante el embarazo puede indicar si la tiene. Si es así, antibióticos vía intravenosa durante el parto pueden salvar la vida de su bebé.
+Los adultos también pueden contraer infecciones por estreptococos del grupo B, especialmente si son mayores de 65 años o si tienen problemas de salud. El estreptococo grupo B puede causar en adultos infecciones del tracto urinario, la sangre y la piel; y neumonía.
+Para tratar las infecciones por estreptococos se utilizan antibióticos.
+
+Groups:
+- Infecciones
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Acerca de la enfermedad por estreptococos del grupo B
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-b-strep/es/about/acerca-de-la-enfermedad-por-estreptococos-del-grupo-b.html
+
+Resource: Acerca de la infección de garganta por estreptococos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/about/acerca-de-la-infeccion-de-garganta-por-estreptococos.html
+
+Resource: Acerca de las infecciones por estreptococos del grupo A
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/about/acerca-de-las-infecciones-por-estreptococos-del-grupo-a.html
+
+Resource: Amigdalitis estreptocócica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000639.htm
+
+Resource: Amigdalitis estreptocócica recurrente: cuándo se recomienda la amigdalectomía
+Category: Spanish/Español, Niños/as
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/strep-throat/expert-answers/recurring-strep-throat/faq-20058360?p=1
+
+Resource: Análisis estreptocócico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003745.htm
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Celulitis estreptocócica perianal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001346.htm
+
+Resource: Corea de Sydenham
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001358.htm
+
+Resource: Cultivo de muestra faríngea
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003746.htm
+
+Resource: Ectima
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000864.htm
+
+Resource: Erisipela
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000618.htm
+
+Resource: Escarlatina
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/scarlet-fever.html
+
+Resource: Estreptococos del grupo B en el embarazo
+Category: Mujeres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000511.htm
+
+Resource: Examen de sangre de Anti-DNasa B
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003537.htm
+
+Resource: Factores de riesgo de la enfermedad por estreptococos del grupo B
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-b-strep/es/risk-factors/factores-de-riesgo-de-la-enfermedad-por-estreptococos-del-grupo-b.html
+
+Resource: Faringoamigdalitis estreptocócica (Para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/strep-throat.html
+
+Resource: Fiebre escarlatina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000974.htm
+
+Resource: Fiebre reumática
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003940.htm
+
+Resource: Fiebre reumática
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/fiebre-reumatica/
+
+Resource: Gangrena gaseosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000620.htm
+
+Resource: Glomerulonefritis (GN) posestreptocócica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000503.htm
+
+Resource: Glomerulonefritis (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/glomerulonephritis.html
+
+Resource: Infecciones por estreptococo: No son A ni B
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/infections/paginas/streptococcal-infections-not-a-or-b.aspx
+
+Resource: Infecciones por estreptococos del grupo A
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/group-a-strep.html
+
+Resource: Infección necrosante de tejidos blandos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001443.htm
+
+Resource: Obtención de un exudado faríngeo
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-strep.html
+
+Resource: PANS y PANDAS: Preguntas y respuestas
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/pandas-preguntas-y-respuestas
+
+Resource: Prevención de la infección por estreptococos del grupo A
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/prevention/prevencion-de-la-infeccion-por-estreptococos-del-grupo-a.html
+
+Resource: Prueba de estreptococos A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estreptococos-a/
+
+Resource: Prueba de estreptococos del grupo B
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estreptococos-del-grupo-b/
+
+Resource: Prueba estreptocócica: Cultivo de exudado faríngeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest11.html
+
+Resource: Prueba estreptocócica: Prueba rápida
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/test-rapid-strep.html
+
+Resource: Septicemia (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sepsis-es.html
+
+Resource: Septicemia neonatal por estreptococos del grupo B
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001366.htm
+
+Resource: Síndrome de shock tóxico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000653.htm
+
+Resource: Síndrome de shock tóxico
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/toxic-shock.html
+
+Resource: Síndrome de shock tóxico
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/tss.html
+
+Resource: Síntomas de la escarlatina
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/about/sintomas-de-la-escarlatina.html
+
+Resource: Título de antiestreptolisina O
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003522.htm

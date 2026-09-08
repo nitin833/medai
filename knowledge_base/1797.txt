@@ -1,0 +1,87 @@
+Title: Envenenamiento con monóxido de carbono
+
+Also Called:
+- Inhalación de monóxido de carbono
+- Intoxicación con monóxido de carbono
+
+Summary:
+El monóxido de carbono (CO) es un gas sin olor ni color pero muy peligroso. Puede causar súbitamente una enfermedad y la muerte. El CO se encuentra en el humo de la combustión, como lo es el expulsado por automóviles y camiones, candelabros, estufas, fogones de gas y sistemas de calefacción. El CO proveniente de estos humos puede acumularse en lugares que no tienen una buena circulación de aire fresco. Una persona puede envenenarse al respirarlos. Los síntomas más comunes de envenenamiento por CO son:
+Dolor de cabeza
+Mareos
+Debilidad
+Náusea
+Vómitos
+Dolor en el pecho
+Confusión
+Suele ser difícil decir si alguien está envenenado con CO, ya que los síntomas pueden parecerse a los de otras enfermedades. Las personas que están dormidas o intoxicadas pueden morir de envenenamiento por CO antes de presentar síntomas. Un detector de CO puede advertirle si tiene altos niveles de CO en su hogar.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cuando encienda un calentador, asegúrese de que no emane gas tóxico
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/carbon-monoxide/media/pdfs/CO_Furnace_Safety_Spanish.pdf
+
+Resource: Cómo proteger a su familia del envenenamiento por monóxido de carbono
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/all-around/paginas/how-to-prevent-carbon-monoxide-poisoning.aspx
+
+Resource: Derivados de la hemoglobina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003371.htm
+
+Resource: Impacto del monóxido de carbono en la calidad del aire de los interiores
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/cai/impacto-del-monoxido-de-carbono-en-la-calidad-del-aire-de-los-interiores
+
+Resource: Información básica sobre la intoxicación por monóxido de carbono
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/carbon-monoxide/es/about/informacion-basica-sobre-la-intoxicacion-por-monoxido-de-carbono.html
+
+Resource: Intoxicación con monóxido de carbono
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002804.htm
+
+Resource: Monóxido de carbono
+Category: Comience aquí, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/cai/monoxido-de-carbono
+
+Resource: Monóxido de carbono
+Category: Comience aquí, Spanish/Español
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://www.cpsc.gov/es/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center
+
+Resource: Monóxido de carbono y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/monoxido-de-carbono/
+
+Resource: Oxigenoterapia hiperbárica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002375.htm
+
+Resource: Prevención de intoxicación por monóxido de carbono (CO)
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/nceh/especiales/envenenamientoco/index.html
+
+Resource: Tormentas invernales hacen que los consumidores recurran a calefacción suplementaria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://www.cpsc.gov/es/Newsroom/News-Releases/2007/Winter-Storms-Causing-Consumers-to-Reach-for-Supplemental-HeatingCPSC-Warns-of-Deadly-Fire-and-CO-Dangers

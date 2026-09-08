@@ -1,0 +1,126 @@
+Title: Genetic Counseling
+
+Summary:
+Genetic counseling provides information and support to people who have, or may be at risk for,
+genetic disorders
+. A genetic counselor meets with you to discuss genetic risks. The counseling may be for yourself or a family member. Or you may get it when you are planning or expecting a baby. You may follow up with
+genetic testing
+.
+There are many reasons to seek genetic counseling. You may consider it if you :
+Have a personal or family history of a genetic condition or birth defect
+Are pregnant or planning to be pregnant after age 35
+Already have a child with a genetic disorder or birth defect
+Have had two or more pregnancy losses or a baby who died
+Have had ultrasound or screening tests that suggest a possible problem
+
+Groups:
+- Pregnancy and Reproduction
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Genetic Counseling
+
+Related Resources:
+
+Resource: About Genetic Counselors
+Category: Related Issues
+Organization: National Society of Genetic Counselors
+URL: https://www.aboutgeneticcounselors.com/
+
+Resource: ClinicalTrials.gov: Genetic Counseling
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Genetic+Counseling%22&aggFilters=status:not%20rec
+
+Resource: Do You Know Your Family Health History?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/do-you-know-your-family-health-history
+
+Resource: Find a Genetic Counselor
+Category: Find an Expert
+Organization: National Society of Genetic Counselors
+URL: https://findageneticcounselor.nsgc.org
+
+Resource: Genetic Counseling
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/genomics-and-health/counseling-testing/genetic-counseling.html
+
+Resource: Genetic Counseling
+Category: Women
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/planning-baby/genetic-counseling
+
+Resource: Genetic Counseling (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/genetic-counseling.html
+
+Resource: Genetic Counseling FAQ
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/FAQ/Genetic-Counseling
+
+Resource: Genetic Counseling for Congenital Heart Defects
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/understand-your-risk-for-congenital-heart-defects/genetic-counseling-for-congenital-heart-defects
+
+Resource: Genetic Counseling for Hereditary Breast and Ovarian Cancer
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bring-your-brave/take-action/genetic-counseling-testing.html
+
+Resource: Genetic Testing for Cancer Risk
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/genetics/genetic-testing-for-cancer-risk.html
+
+Resource: Genetics: MedlinePlus Genetics
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/
+
+Resource: How Do Geneticists Analyze DNA?
+Category: Specifics
+Organization: American Society of Human Genetics
+URL: https://www.ashg.org/wp-content/uploads/2022/09/DiscoverGenetics-FactSheet-AnalyzingDNA.pdf
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: National Human Genome Research Institute
+Category: Find an Expert
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/
+
+Resource: Prenatal genetic counseling
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000510.htm
+
+Resource: Genetic Counseling
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Genetic+Counseling%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Talking Glossary of Genomic and Genetic Terms
+Category: Reference Desk
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/genetics-glossary
+
+Resource: What happens during a genetic consultation?: MedlinePlus Genetics
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/understanding/consult/expectations/
+
+Resource: What Is a Pediatric Geneticist?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Geneticist.aspx
+
+Resource: What Is Genetics?
+Category: Related Issues
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2024/04/what-is-genetics

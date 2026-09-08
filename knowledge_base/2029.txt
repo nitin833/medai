@@ -1,0 +1,120 @@
+Title: Memoria
+
+Summary:
+Cada día, usted vive diferentes experiencias y aprende cosas nuevas. Su cerebro no puede almacenar toda esa información, por lo que tiene que decidir qué vale la pena recordar. La memoria es el proceso de almacenamiento para luego recordar esta información. Hay diferentes tipos de memoria. La memoria de corto plazo almacena información por unos pocos segundos o minutos. La memoria de largo plazo la almacena por un período más largo de tiempo.
+La memoria no funciona siempre a la perfección. A medida que envejece, puede tomar más tiempo para recordar las cosas.
+Es normal olvidar cosas de vez en cuando. Todos nos hemos olvidado un nombre, donde dejamos las llaves o si cerramos la puerta principal. Si usted es una persona mayor que olvida las cosas con más frecuencia que otras de su misma edad, es posible que tenga un
+deterioro cognitivo leve
+. Olvidar cómo utilizar su teléfono o encontrar su camino a casa pueden ser signos de un problema más grave, como:
+Enfermedad de Alzheimer
+Otros tipos de
+demencia
+Ataque cerebral
+Depresión
+Alcoholismo
+Lesiones en la cabeza
+Coágulos de sangre
+o
+tumores
+en el cerebro
+Problemas de
+riñones
+, de
+hígado
+o de la
+tiroides
+Reacciones a ciertos medicamentos
+Si usted está preocupado por sus problemas de memoria, consulte a su proveedor de atención médica.
+NIH: Instituto Nacional sobre el Envejecimiento
+
+Groups:
+- Salud mental y conducta
+- Personas mayores
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Amnesia global transitoria
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/transient-global-amnesia/symptoms-causes/syc-20378531?p=1
+
+Resource: Ayudas para la memoria
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002046.htm
+
+Resource: Cuidado de los adultos con trastornos cognitivos y de la memoria
+Category: Personas mayores, Spanish/Español
+Organization: Alianza Familiar de Personas que Cuidan Enfermos
+URL: https://www.caregiver.org/es/resource/el-cuidado-de-los-adultos-con-trastornos-cognitivos-y-de-la-memoria-caring-adults-cognitive/
+
+Resource: Evaluación del estado mental
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003326.htm
+
+Resource: Información en español sobre la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/topics/espanol
+
+Resource: Instituto Nacional Sobre el Envejecimiento
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol
+
+Resource: Lesión del hemisferio cerebral derecho
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Estadounidense del Habla, Lenguaje y Audición
+URL: https://www.asha.org/public/speech/Spanish/Lesion-del-Hemisferio-Cerebral-Derecho/
+
+Resource: Mantener la salud cognitiva
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/una-mente-bien-envejecida
+
+Resource: Memoria importa
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/memory.html
+
+Resource: Memoria, olvido y envejecimiento
+Category: Personas mayores, Spanish/Español
+Organization: Instituto Nacional sobre el Envejecimiento
+URL: https://www.nia.nih.gov/espanol/memoria/memoria-olvido-envejecimiento
+
+Resource: Proteína puede revertir la pérdida de memoria relacionada con la edad
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/la-proteina-puede-revertir-la-perdida-de-memoria
+
+Resource: Pruebas cognitivas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-cognitivas/
+
+Resource: Pérdida de la memoria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003257.htm
+
+Resource: Pérdida de memoria: Cuándo se debe buscar ayuda
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/alzheimers-disease/in-depth/memory-loss/art-20046326?p=1
+
+Resource: Pérdida de memoria: Siete consejos para mejorar la memoria
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/healthy-aging/in-depth/memory-loss/art-20046518?p=1
+
+Resource: Quimioterapia en el cerebro
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chemo-brain/symptoms-causes/syc-20351060?p=1
+
+Resource: Trastornos disociativos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dissociative-disorders/symptoms-causes/syc-20355215?p=1

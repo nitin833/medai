@@ -1,0 +1,138 @@
+Title: Enfermedades infecciosas
+
+Also Called:
+- Infecciones
+
+Summary:
+¿Qué son las enfermedades infecciosas?
+Los gérmenes o microbios se encuentran en todas partes, en el aire, el suelo y el agua. También hay gérmenes en su piel y en su cuerpo. Muchos de ellos son inofensivos y algunos incluso pueden ser beneficiosos. Pero algunos de ellos pueden enfermarle. Las enfermedades infecciosas son causadas por gérmenes.
+¿Cuáles son los diferentes tipos de gérmenes que causan enfermedades infecciosas?
+Hay cuatro tipos principales de gérmenes:
+Bacterias
+: Gérmenes unicelulares que se multiplican rápidamente. Pueden liberar toxinas, sustancias químicas nocivas que pueden enfermarle. La
+faringitis estreptocócica
+y las
+infecciones de las vías urinarias
+son infecciones bacterianas comunes
+Virus
+: Pequeñas partículas que contienen material genético. Invaden las células para que puedan multiplicarse. Esto puede matar, dañar o cambiar las células y enfermarle. Las infecciones virales incluyen el
+VIH
+y el
+resfriado común
+Hongos
+: Organismos primitivos parecidos a las plantas, como moho, mildiu y levaduras. El
+pie de atleta
+y las
+infecciones por cándida
+son infecciones fúngicas comunes
+Parásitos
+: Animales o plantas que sobreviven viviendo sobre o dentro de otros seres vivos. La
+malaria
+y los
+piojos
+son infecciones causadas por parásitos
+¿Cómo se propagan las enfermedades infecciosas?
+Hay muchas formas diferentes de contraer una enfermedad infecciosa, dependiendo del tipo de germen. Esto puede incluir:
+A través del contacto directo con una persona que está enferma. Esto incluye besarse, tocarse, estornudar, toser y tener contacto sexual. Si está
+embarazada
+, también puede transmitir algunos gérmenes a su feto.
+A través del contacto indirecto, cuando toca algo que tiene gérmenes. Por ejemplo, podría estar en contacto con gérmenes si alguien que está enfermo tocó el picaporte de una puerta y luego usted lo toca
+A través de picaduras de
+insectos
+o
+animales
+A través de la
+contaminación de alimentos
+, agua, suelo o plantas
+¿Cuáles son los síntomas de las enfermedades infecciosas?
+Las enfermedades infecciosas pueden causar muchos síntomas diferentes. Algunos son tan leves que es posible que ni siquiera los note, mientras que otros pueden ser potencialmente mortales.
+¿Cuáles son los tratamientos para las enfermedades infecciosas?
+Existen tratamientos para algunas enfermedades infecciosas, como antibióticos y medicinas antivirales, antifúngicos y antiparasitarios. Pero para otras infecciones, como algunas causadas por virus, solo puede tratar sus síntomas mientras su sistema inmunitario combate contra los gérmenes.
+¿Se pueden prevenir las enfermedades infecciosas?
+Usted puede tomar medidas para ayudar a prevenir muchas enfermedades infecciosas, como:
+Vacunarse
+Lavarse las manos
+con frecuencia
+Prestar atención a la
+seguridad con los alimentos
+Evitar el contacto con animales salvajes
+Usar un condón de látex cada vez que tenga relaciones sexuales. Si usted o su pareja es
+alérgico al látex
+, puede usar condones de poliuretano
+No compartir elementos como cepillos de dientes, peines y pajillas
+
+Groups:
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: A al Zika: Comprensión de enfermedades emergentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/de-la-a-al-zika
+
+Resource: Conteo de células en LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003625.htm
+
+Resource: Enfermedades infecciosas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/infectious-diseases/symptoms-causes/syc-20351173?p=1
+
+Resource: Gérmenes e higiene: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/germsandhygiene.html
+
+Resource: Infecciones bacterianas frente a infecciones virales: ¿En qué se diferencian?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098?p=1
+
+Resource: Infecciones en personas con cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/efectos-secundarios/infections.html
+
+Resource: Información general sobre las enfermedades infecciosas
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/infections/paginas/overview-of-infectious-diseases.aspx
+
+Resource: Microbios: Infórmese sobre los virus, las bacterias y las infecciones, y protéjase de ellos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/infectious-diseases/in-depth/germs/art-20045289?p=1
+
+Resource: Prueba de aglutinación en látex
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003334.htm
+
+Resource: Pruebas de PCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-pcr/
+
+Resource: Pruebas rápidas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-rapidas/
+
+Resource: Recurrencia de infecciones puede indicar inmunodeficiencias
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-inmunodeficiencias/la-recurrencia-de-infecciones-puede-indicar-inmuno
+
+Resource: Resistencia a los antibióticos: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/antibioticresistance.html
+
+Resource: ¿Cuál es la diferencia entre infeccioso y contagioso?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/contagious.html

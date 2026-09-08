@@ -1,0 +1,141 @@
+Title: Enfermedades del sistema endocrino
+
+Also Called:
+- Enfermedades endocrinas
+- Trastornos endocrinos
+
+Summary:
+Su sistema endocrino incluye ocho glándulas principales distribuidas por todo el cuerpo. Estas glándulas producen
+hormonas
+. Las hormonas son mensajeros químicos. Viajan a través del torrente sanguíneo hacia los tejidos y órganos. Las hormonas trabajan lentamente y afectan los procesos corporales desde la cabeza hasta los pies. Entre esos procesos se encuentran:
+Crecimiento y desarrollo
+Metabolismo: digestión, eliminación, respiración, circulación sanguínea y mantenimiento de la temperatura corporal
+Función sexual
+Reproducción
+Estado de ánimo
+Si los niveles hormonales están demasiado elevados o disminuidos, es posible que tenga un trastorno hormonal. Las enfermedades hormonales también ocurren si el cuerpo no responde a las hormonas como debería hacerlo. El estrés, las infecciones y los cambios en el
+equilibrio de líquidos y electrolitos
+de la sangre también pueden afectar los niveles hormonales.
+En los Estados Unidos, la enfermedad endocrina más común es la
+diabetes
+. Existen muchas otras. El tratamiento suele consistir en controlar la cantidad de hormonas que produce el organismo. Si el problema es la falta de niveles suficientes de hormonas, los suplementos hormonales pueden ayudar.
+
+Groups:
+- Sistema endocrino
+
+Related Resources:
+
+Resource: Aparato endocrino
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/endocrine.html
+
+Resource: Diferencias del desarrollo sexual
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001669.htm
+
+Resource: Examen de la respuesta de la LH a la GnRH
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003709.htm
+
+Resource: Examen de sangre de glucagón
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003716.htm
+
+Resource: Exámen de sangre para gastrina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003697.htm
+
+Resource: Glándulas endocrinas
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000048.htm
+
+Resource: Glándulas endocrinas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002351.htm
+
+Resource: Hiperinsulinemia: ¿Es diabetes?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/type-2-diabetes/expert-answers/hyperinsulinemia/faq-20058488?p=1
+
+Resource: Hipogonadismo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001195.htm
+
+Resource: Hipogonadismo hipogonadotrópico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000390.htm
+
+Resource: Hipogonadismo masculino
+Category: Hombres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/male-hypogonadism/symptoms-causes/syc-20354881?p=1
+
+Resource: Neoplasia endocrina múltiple (NEM) I
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000398.htm
+
+Resource: Neoplasia endocrina múltiple (NEM) II
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000399.htm
+
+Resource: Sistema endocrino
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/endocrine.html
+
+Resource: Sistema endocrino
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/endocrine.html
+
+Resource: Síndrome de McCune-Albright
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11861/sindrome-de-mccune-albright/
+
+Resource: Síndrome de McCune-Albright
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001217.htm
+
+Resource: Síndrome de neoplasia endocrina múltiple infantil de tipo 1
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/neoplasia-endocrina-multiple/nem-infantil-tipo-1
+
+Resource: Síndrome de neoplasia endocrina múltiple infantil de tipo 2
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/neoplasia-endocrina-multiple/nem-infantil-tipo-2
+
+Resource: Síndrome de secreción inadecuada de la hormona antidiurética
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000314.htm
+
+Resource: Síndrome de Zollinger-Ellison
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000325.htm
+
+Resource: Síndromes de neoplasia endocrina múltiple (NEM)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/neoplasia-endocrina-multiple
+
+Resource: ¿Qué es un endocrinólogo pediátrico?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/pediatric-specialists/paginas/what-is-a-pediatric-endocrinologist.aspx

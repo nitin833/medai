@@ -1,0 +1,401 @@
+Title: Blood Clots
+
+Also Called:
+- Hypercoagulability
+
+Summary:
+What is a blood clot?
+A blood clot is a mass of blood that forms when
+platelets
+, proteins, and cells in the blood stick together. When you get hurt, your body forms a blood clot to stop the
+bleeding
+.  After the bleeding stops and healing takes place, your body usually breaks down and removes the blood clot. But sometimes the blood clots form where they shouldn't, your body makes too many blood clots or abnormal blood clots, or the blood clots don't break down like they should. These blood clots can be dangerous and may cause other health problems.
+Blood clots can form in, or travel to, the blood vessels in the limbs, lungs, brain, heart, and kidneys. The types of problems blood clots can cause will depend on where they are:
+Deep vein thrombosis
+(DVT) is a blood clot in a deep vein, usually in the lower leg, thigh, or pelvis. It can block a vein and cause damage to your leg.
+A
+pulmonary embolism
+(PE) can happen when a DVT breaks off and travels through the bloodstream to the lungs. A PE, especially if it is large, can damage your lungs and prevent your other organs from getting enough oxygen.
+Cerebral venous sinus thrombosis (CVST) is a rare blood clot in the venous sinuses in your brain. Normally the venous sinuses drain blood from your brain. CVST blocks the blood from draining and can cause a
+hemorrhagic stroke
+.
+Blood clots in other parts of the body can cause problems such as an
+ischemic stroke
+, a
+heart attack
+,
+kidney problems
+,
+kidney failure
+, and
+pregnancy-related problems
+.
+Who is more likely to develop blood clots?
+Certain factors can raise your risk of developing blood clots:
+Atherosclerosis
+Atrial fibrillation
+Being overweight or having
+obesity
+Cancer and cancer treatments
+Certain
+genetic disorders
+Certain surgeries
+COVID-19
+Diabetes
+Family history of blood clots
+Overweight and
+obesity
+Pregnancy
+and
+giving birth
+Serious
+injuries
+Some medicines, including
+birth control pills
+Smoking
+Staying in one position for a long time, such as being in the hospital or taking a long car or plane ride
+What are the symptoms of blood clots?
+The symptoms for blood clots can be different, depending on where the blood clot is:
+In the abdomen:
+Abdominal pain
+,
+nausea and vomiting
+In an arm or leg: Sudden or gradual pain, swelling, tenderness, and warmth
+In the lungs: Shortness of breath, pain with deep breathing, rapid breathing, and increased heart rate
+In the brain:
+Trouble speaking
+,
+vision problems
+,
+seizures
+, weakness on one side of the body, and sudden severe
+headache
+In the heart:
+Chest pain
+, sweating, shortness of breath, and pain in the left arm
+How are blood clots diagnosed?
+To find out if you have one or more blood clots, your health care provider:
+Will do a physical exam.
+Will take your medical history, which includes asking about your symptoms.
+May order blood tests, including a
+D-dimer test
+.
+May order
+imaging tests
+, such as
+Ultrasound
+.
+X-rays
+of the veins (venography) or blood vessels (angiography) that are taken after you get an injection of special dye. The dye shows up on the x-ray and allows the provider to see how the blood flows.
+CT Scan
+.
+What are the treatments for blood clots?
+Treatments for blood clots depend on where the blood clot is located and how severe it is. Treatments may include:
+Blood thinners
+.
+Other medicines, including thrombolytics. Thrombolytics are medicines that dissolve blood clots. They are usually used where the blood clots are severe.
+Surgery and other procedures to remove the blood clots
+Can blood clots be prevented?
+You may be able to help prevent blood clots by:
+Moving around as soon as possible after having been confined to your bed, such as after surgery, illness, or injury
+Getting up and moving around every few hours when you have to sit for long periods of time, for example if you are on a long flight or car trip
+Wearing compression stockings after surgery or during a long flight
+Regular physical activity
+Not smoking
+Staying at a healthy weight
+Some people at high risk may need to take blood thinners to prevent blood clots.
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Thrombosis
+
+Related Resources:
+
+Resource: An Almost Perfect Storm
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/an-almost-perfect-storm
+
+Resource: Antiphospholipid Syndrome (APS)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/antiphospholipid-syndrome
+
+Resource: Antiphospholipid syndrome - APS
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000547.htm
+
+Resource: Antithrombin III blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003661.htm
+
+Resource: Arterial embolism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001102.htm
+
+Resource: Basics of Blood Clots: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/the-basics-of-blood-clots-what-you-need-to-know
+
+Resource: Blood clots
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001124.htm
+
+Resource: Blood Clots
+Category: Start Here
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bloodclot
+
+Resource: Blood Clots
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/blood-clots/basics/definition/SYM-20050850?p=1
+
+Resource: Blood Clots
+Category: Start Here
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/blood-clots
+
+Resource: Blood Clots and Pregnancy
+Category: Women
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/pregnancy/blood-clots-and-pregnancy
+
+Resource: Blood Clots Explained: Clearing Blockages in the System
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/05/blood-clots-explained
+
+Resource: Blood clotting
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000011.htm
+
+Resource: Blood Thinners: Can I Still Get Blood Clots?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/deep-vein-thrombosis/expert-answers/blood-thinners/faq-20058261?p=1
+
+Resource: Blood Thinners: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodthinners.html
+
+Resource: Catheter-Directed Thrombolysis
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/thrombo
+
+Resource: Cavernous sinus thrombosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001628.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Cerebral Venous Sinus Thrombosis (CVST)
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/cerebral-venous-sinus-thrombosis
+
+Resource: ClinicalTrials.gov: Thrombophlebitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thrombophlebitis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thrombosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thrombosis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Venous Thrombosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Venous+Thrombosis%22&aggFilters=status:not%20rec
+
+Resource: Coagulation Factor Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/coagulation-factor-tests/
+
+Resource: Congenital antithrombin III deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000558.htm
+
+Resource: Congenital protein C or S deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000559.htm
+
+Resource: D-dimer test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007620.htm
+
+Resource: D-Dimer Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/d-dimer-test/
+
+Resource: Disseminated intravascular coagulation (DIC)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000573.htm
+
+Resource: Disseminated Intravascular Coagulation (DIC)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/disseminated-intravascular-coagulation
+
+Resource: Factor V Leiden thrombophilia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-v-leiden-thrombophilia
+
+Resource: Fibrin degradation products blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003655.htm
+
+Resource: Fibrinogen blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003650.htm
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: Find a Hematologist
+Category: Find an Expert
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/find-a-hematologist
+
+Resource: Hereditary antithrombin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-antithrombin-deficiency
+
+Resource: How Does Blood Clot?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/clotting-disorders/how-blood-clots
+
+Resource: Learning about Factor V Leiden Thrombophilia
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Factor-V-Leiden-Thrombophilia
+
+Resource: MPV Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mpv-blood-test/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Partial thromboplastin time (PTT)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003653.htm
+
+Resource: Partial Thromboplastin Time (PTT) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/partial-thromboplastin-time-ptt-test/
+
+Resource: Protein C and Protein S Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/protein-c-and-protein-s-tests/
+
+Resource: Protein C blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003659.htm
+
+Resource: Protein C deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/protein-c-deficiency
+
+Resource: Protein S blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003660.htm
+
+Resource: Protein S deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/protein-s-deficiency
+
+Resource: Prothrombin thrombophilia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prothrombin-thrombophilia
+
+Resource: Prothrombin time (PT)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003652.htm
+
+Resource: Prothrombin Time Test and INR (PT/INR)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
+
+Resource: Blood Clots
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Thrombosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Renal vein thrombosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000513.htm
+
+Resource: Stop the Clot, Spread the Word® Campaign Resources
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/blood-clots/stoptheclotspreadtheword/
+
+Resource: Superficial thrombophlebitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000199.htm
+
+Resource: Thrombophlebitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/thrombophlebitis/symptoms-causes/syc-20354607?p=1
+
+Resource: Thrombophlebitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001108.htm
+
+Resource: Thrombotic Thrombocytopenic Purpura (TTP)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/thrombotic-thrombocytopenic-purpura
+
+Resource: Understanding Your Risk for Blood Clots with Travel
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/blood-clots/risk-factors/travel.html
+
+Resource: What Is Excessive Blood Clotting (Hypercoagulability)?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/venous-thromboembolism/what-is-excessive-blood-clotting-hypercoagulation

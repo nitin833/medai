@@ -1,0 +1,287 @@
+Title: Testicular Disorders
+
+Summary:
+Testicles, or testes, make male hormones and sperm. They are two egg-shaped organs inside the scrotum, the loose sac of skin behind the penis. It's easy to injure your testicles because they are not protected by bones or muscles. Men and boys should wear athletic supporters when they play sports.
+You should examine your testicles monthly and seek medical attention for lumps, redness, pain or other changes. Testicles can get inflamed or infected. They can also develop cancer.
+Testicular cancer
+is rare and highly treatable. It usually happens between the ages of 15 and 40.
+
+Groups:
+- Endocrine System
+- Men
+- Sexual Health Issues
+- Male Reproductive System
+
+MeSH Headings:
+- Testicular Diseases
+
+Related Resources:
+
+Resource: Anorchia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001185.htm
+
+Resource: Blood in Semen
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/blood-in-semen/basics/definition/SYM-20050603?p=1
+
+Resource: Blood in the semen
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003163.htm
+
+Resource: ClinicalTrials.gov: Cryptorchidism
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cryptorchidism%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Genital Diseases, Male
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Genital+Diseases,+Male%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Testicular Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Testicular+Diseases%22&aggFilters=status:not%20rec
+
+Resource: DHEA Sulfate Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/dhea-sulfate-test/
+
+Resource: Discolored Semen: What Does It Mean?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/mens-health/expert-answers/discolored-semen/faq-20058363?p=1
+
+Resource: Epididymitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/epididymitis/symptoms-causes/syc-20363853?p=1
+
+Resource: Genital Problems in Men
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/genital-problems-in-men/
+
+Resource: Hydrocele
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000518.htm
+
+Resource: Hydrocele
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hydrocele/symptoms-causes/syc-20363969?p=1
+
+Resource: Hydrocele repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002999.htm
+
+Resource: Hydrocele repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100163_1.htm
+
+Resource: Hypogonadotropic hypogonadism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000390.htm
+
+Resource: LH response to GnRH blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003709.htm
+
+Resource: Luteinizing hormone (LH) blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003708.htm
+
+Resource: Male Hypogonadism
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/male-hypogonadism/symptoms-causes/syc-20354881?p=1
+
+Resource: Orchitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001280.htm
+
+Resource: Orchitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/orchitis/symptoms-causes/syc-20375860?p=1
+
+Resource: Testicular Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Testicular+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retractile Testicle
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/retractile-testicle/symptoms-causes/syc-20377197?p=1
+
+Resource: Scrotal Masses
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/scrotal-masses/symptoms-causes/syc-20352604?p=1
+
+Resource: Scrotal masses
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001283.htm
+
+Resource: Scrotal swelling
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003161.htm
+
+Resource: Scrotal Swelling in Children: What Is a Hydrocele?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Communicating-Hydrocele.aspx
+
+Resource: Scrotal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003780.htm
+
+Resource: Spermatocele
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spermatocele/symptoms-causes/syc-20377829?p=1
+
+Resource: Testicle lump
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003162.htm
+
+Resource: Testicle Pain
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/testicle-pain/basics/definition/SYM-20050942?p=1
+
+Resource: Testicle pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003160.htm
+
+Resource: Testicular biopsy
+Category: Diagnosis and Tests
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003908.htm
+
+Resource: Testicular Exams
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/testicles.html
+
+Resource: Testicular failure
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000395.htm
+
+Resource: Testicular Injuries
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/testicular-injuries.html
+
+Resource: Testicular self-exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003909.htm
+
+Resource: Testicular Self-Exam
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/testicular-exam/about/pac-20385252?p=1
+
+Resource: Testicular Torsion
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/testicular-torsion/symptoms-causes/syc-20378270?p=1
+
+Resource: Testicular torsion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000517.htm
+
+Resource: Testicular Torsion (For Parents)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/torsion.html
+
+Resource: Testicular torsion repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002994.htm
+
+Resource: Testicular torsion repair - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100187_1.htm
+
+Resource: Testosterone Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/testosterone-levels-test/
+
+Resource: Transillumination
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003389.htm
+
+Resource: Ultrasound -- Scrotum
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-scrotal
+
+Resource: Undescended testicle
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000973.htm
+
+Resource: Undescended testicle repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003002.htm
+
+Resource: Undescended Testicles (Cryptorchidism) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cryptorchidism.html
+
+Resource: Varicocele
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/varicocele/symptoms-causes/syc-20378771?p=1
+
+Resource: Varicocele
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001284.htm
+
+Resource: Varicocele (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/varicocele.html
+
+Resource: Varicocele Embolization
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/Varicocele
+
+Resource: What Is a Pediatric Urologist?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Urologist.aspx
+
+Resource: What's a Hydrocele?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hydrocele-animation.html

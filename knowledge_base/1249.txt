@@ -1,0 +1,126 @@
+Title: Porphyria
+
+Summary:
+Porphyrias are a group of genetic disorders caused by problems with how your body makes a substance called heme. Heme is found throughout the body, especially in your blood and bone marrow, where it carries oxygen.
+There are two main types of porphyrias. One affects the skin and the other affects the nervous system. People with the skin type develop blisters, itching, and swelling of their skin when it is exposed to sunlight. The nervous system type is called acute porphyria. Symptoms include pain in the chest, abdomen, limbs, or back; muscle numbness, tingling, paralysis, or cramping; vomiting; constipation; and personality changes or mental disorders. These symptoms come and go.
+Certain triggers can cause an attack, including some medicines, smoking, drinking alcohol, infections, stress, and sun exposure. Attacks develop over hours or days. They can last for days or weeks.
+Porphyria can be hard to diagnose. It requires blood, urine, and stool tests. Each type of porphyria is treated differently. Treatment may involve avoiding triggers, receiving heme through a vein, taking medicines to relieve symptoms, or having blood drawn to reduce iron in the body. People who have severe attacks may need to be hospitalized.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Porphyrias
+
+Related Resources:
+
+Resource: Acute Intermittent Porphyria (AIP)
+Category: Specifics
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/types-of-porphyria/aip/
+
+Resource: American Porphyria Foundation
+Category: Find an Expert
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/
+
+Resource: ClinicalTrials.gov: Porphyrias
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Porphyrias%22&aggFilters=status:not%20rec
+
+Resource: Delta-ALA urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003457.htm
+
+Resource: Diet and Nutrition in Porphyria
+Category: Living With
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/diet-and-nutrition/
+
+Resource: Glucose Effect in Acute Porphyrias
+Category: Related Issues
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/diet-and-nutrition/the-glucose-effect-in-acute-porphyrias/
+
+Resource: Learning about Porphyria
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Porphyria
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: PBG urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003596.htm
+
+Resource: Porphyria
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/porphyria/symptoms-causes/syc-20356066?p=1
+
+Resource: Porphyria
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/porphyria
+
+Resource: Porphyria
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001208.htm
+
+Resource: Porphyria Cutanea Tarda and Agent Orange
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/conditions/porphyria-cutanea-tarda.asp
+
+Resource: Porphyria Treatment Options
+Category: Treatments and Therapies
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/about-porphyria/treatment-options/
+
+Resource: Porphyria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/porphyria
+
+Resource: Porphyrin Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/porphyrin-tests/
+
+Resource: Porphyrins and Porphyria Diagnosis
+Category: Diagnosis and Tests
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/about-porphyria/testing-for-porphyria/diagnosis/
+
+Resource: Porphyrins blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003372.htm
+
+Resource: Porphyrins urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003614.htm
+
+Resource: Porphyria
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Porphyrias%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: TBG blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003374.htm
+
+Resource: Weight Loss and Acute Porphyria
+Category: Living With
+Organization: American Porphyria Foundation
+URL: https://porphyriafoundation.org/for-patients/diet-and-nutrition/weight-loss-acute-porphyria/

@@ -1,0 +1,137 @@
+Title: Sífilis
+
+Summary:
+La sífilis es una
+infección de transmisión sexual
+causada por una bacteria. Infecta el área genital, los labios, la boca o el ano y afecta tanto a los hombres como a las mujeres. Por lo general se adquiere por contacto sexual con una persona que la tiene. También puede pasar de la madre al bebé durante el embarazo.
+La etapa temprana de la sífilis suele causar una llaga única, pequeña e indolora. Algunas veces, causa inflamación de los ganglios linfáticos cercanos. Si no se trata, generalmente causa una erupción cutánea que no pica, frecuentemente en manos y pies. Muchas personas no notan los síntomas durante años. Los síntomas pueden desaparecer y aparecer nuevamente.
+Las llagas causadas por la sífilis facilitan adquirir o contagiar el
+VIH
+durante las relaciones sexuales. Si está embarazada, la sífilis puede causar complicaciones. En casos raros, la sífilis causa problemas de salud serios e incluso la muerte.
+Si se detecta a tiempo, la enfermedad se cura fácilmente con antibióticos. El uso correcto de preservativos de látex disminuye enormemente, aunque no elimina, el riesgo de adquirir y contagiarse la sífilis. Si usted o su pareja es
+alérgica al látex
+, puede usar condones de poliuretano. La forma más confiable de evitar la infección es no tener sexo anal, vaginal u oral.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+- Asuntos de salud sexual
+- Sistema reproductor femenino
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Acerca de la sífilis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/syphilis/es/about/acerca-de-la-sifilis.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Colocación del condón
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100109_1.htm
+
+Resource: Examen de reagina plasmática rápida (RPR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003533.htm
+
+Resource: Examen FTA-ABS
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003512.htm
+
+Resource: Examen VDRL en LCR
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003623.htm
+
+Resource: Goma
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000859.htm
+
+Resource: Hágase la prueba: Encuentre Lugares para hacerse la Prueba de VIH, ITS y Hepatitis Cerca de Usted
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://gettested.cdc.gov/es
+
+Resource: Meningitis aséptica sifilítica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000724.htm
+
+Resource: Mielopatía sifilítica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000729.htm
+
+Resource: Neurosífilis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000703.htm
+
+Resource: Parálisis general
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000748.htm
+
+Resource: Prueba de la sífilis: Preguntas para el doctor
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://odphp.health.gov/espanol/myhealthfinder/problemas-salud/infeccion-vih-otras-enfermedades-transmision-sexual/prueba-sifilis-preguntas-doctor
+
+Resource: Prueba serológica para la sífilis (VDRL)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003515.htm
+
+Resource: Pruebas de sífilis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-sifilis/
+
+Resource: Queratitis intersticial
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001609.htm
+
+Resource: Sífilis
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/sifilis/
+
+Resource: Sífilis
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/syphilis/symptoms-causes/syc-20351756?p=1
+
+Resource: Sífilis
+Category: Mujeres, Spanish/Español
+Organization: Oficina para la Salud de la Mujer en el Departamento de Salud y Servicios Humanos de los EE. UU
+URL: https://espanol.womenshealth.gov/a-z-topics/syphilis
+
+Resource: Sífilis congénita
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001344.htm
+
+Resource: Sífilis en el embarazo
+Category: Mujeres, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/la-sifilis-en-el-embarazo.aspx
+
+Resource: Sífilis primaria
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000861.htm
+
+Resource: Uso del condón: información general
+Category: Folletos para el paciente, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/condom-use/es/uso-del-condon-informacion-general.html

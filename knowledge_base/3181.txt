@@ -1,0 +1,272 @@
+Title: COVID-19 (Coronavirus Disease 2019)
+
+Also Called:
+- COVID-19
+- Coronavirus
+
+Summary:
+COVID-19 (coronavirus disease 2019) is an illness caused by a virus. This virus is a coronavirus called SARS-CoV-2. It spreads when a person who has the infection breathes out droplets and very small particles that contain the virus. On this page, you'll find links to resources on important issues such as symptoms, risks, and how you can protect yourself and your family.
+We also have pages on:
+COVID-19 testing
+COVID-19 vaccines
+Post-COVID conditions (long COVID)
+
+Groups:
+- Infections
+- Lungs and Breathing
+
+MeSH Headings:
+- COVID-19
+
+Related Resources:
+
+Resource: About MIS (Multisystem Inflammatory Syndrome)
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mis/about/
+
+Resource: About Reinfection Covid-19
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/about/reinfection.html
+
+Resource: Community Respirators and Masks
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/ppe/php/community-respirators-masks/?CDC_AAref_Val=https://www.cdc.gov/niosh/topics/publicppe/community-ppe.html
+
+Resource: Coronavirus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007767.htm
+
+Resource: Coronavirus (COVID-19): What to Do If Your Child Is Sick
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coronavirus-child-is-sick.html
+
+Resource: Coronavirus and Your Health Coverage: Get the Basics
+Category: Related Issues
+Organization: Centers for Medicare & Medicaid Services
+URL: https://www.cms.gov/files/document/c2c-covid-overview.pdf
+
+Resource: Coronavirus Disease 2019 (COVID-19)
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/
+
+Resource: Coronavirus disease 2019 (COVID-19)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007768.htm
+
+Resource: COVID-19
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coronavirus.html
+
+Resource: COVID-19 - what to do when you are sick
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000975.htm
+
+Resource: COVID-19 and Breastfeeding
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/covid-19.html
+
+Resource: COVID-19 and face masks
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000974.htm
+
+Resource: COVID-19 and Multisystem Inflammatory Syndrome in Children (MIS-C)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pmis.html
+
+Resource: COVID-19 symptoms
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007770.htm
+
+Resource: COVID-19 Symptoms and Complementary Approaches: What You Need To Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/covid-19-symptoms-and-complementary-approaches-what-you-need-to-know
+
+Resource: COVID-19 Testing: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/covid19testing.html
+
+Resource: COVID-19 vaccine - what you need to know
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007804.htm
+
+Resource: COVID-19 Vaccines: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/covid19vaccines.html
+
+Resource: COVID-19: How to Protect Yourself and Others
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/prevention/
+
+Resource: COVID-19: Pregnancy FAQs
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coronavirus-pregnancy.html
+
+Resource: COVID-19: What Are Variants?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/covid-delta-variant.html
+
+Resource: COVID-19: What People with Cancer Should Know
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coronavirus/coronavirus-cancer-patient-information
+
+Resource: Debunking COVID-19 (Coronavirus) Myths
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coronavirus/in-depth/coronavirus-myths/art-20485720?p=1
+
+Resource: Getting an Accurate Read on Pulse Oximeters
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/getting-an-accurate-read-on-pulse-oximeters
+
+Resource: HIV and COVID-19
+Category: Related Issues
+Organization: National Institutes of Health, Office of AIDS Research
+URL: https://hivinfo.nih.gov/understanding-hiv/fact-sheets/hiv-and-covid-19
+
+Resource: How to protect yourself and others from COVID-19
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000973.htm
+
+Resource: Is It a Cold, the Flu, an RSV Infection, or COVID-19?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/flu-vs-cold.html
+
+Resource: Is It Flu, COVID-19, Allergies, or a Cold?
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/01/it-flu-covid-19-allergies-or-cold
+
+Resource: Is it Safe to Breastfeed if I Have COVID-19?
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coronavirus-breastfeeding.html
+
+Resource: Ivermectin and COVID-19
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/ivermectin-and-covid-19
+
+Resource: Know Your Treatment Options for COVID-19
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/know-your-treatment-options-covid-19
+
+Resource: Middle East Respiratory Syndrome (MERS)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000723.htm
+
+Resource: Mild to moderate COVID-19 - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000976.htm
+
+Resource: Multisystem Inflammatory Syndrome in Children
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/multisystem-inflammatory-syndrome-in-children
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: People at Increased Risk for Severe Respiratory Illnesses
+Category: Older Adults
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/respiratory-viruses/risk-factors/index.html#cdc_risk_factors_impact-people-with-disabilities
+
+Resource: People with Certain Medical Conditions and COVID-19 Risk Factors
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/risk-factors/
+
+Resource: Post-COVID Conditions (Long COVID): MedlinePlus Health Topic
+Category: Symptoms
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/postcovidconditionslongcovid.html
+
+Resource: Preventing Respiratory Viruses
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/respiratory-viruses/prevention/
+
+Resource: Preventing Spread of Respiratory Viruses When You're Sick
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/respiratory-viruses/prevention/precautions-when-sick.html
+
+Resource: COVID-19 (Coronavirus Disease 2019)
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22COVID-19%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse Oximetry
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pulse-oximetry/
+
+Resource: Respiratory Viruses and Pregnancy
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/respiratory-viruses/risk-factors/pregnancy.html
+
+Resource: Risk Factors for Severe Illness from Respiratory Viruses
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/respiratory-viruses/risk-factors/
+
+Resource: Severe acute respiratory syndrome (SARS)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007192.htm
+
+Resource: Severe COVID-19 - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000978.htm
+
+Resource: Symptoms of COVID-19
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/signs-symptoms/
+
+Resource: Treatment Locator: Find COVID-19 Medications
+Category: Treatments and Therapies
+Organization: Administration for Strategic Preparedness and Response
+URL: https://treatments.hhs.gov/
+
+Resource: Types of COVID-19 Treatment
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/covid/treatment/index.html
+
+Resource: United States COVID-19 Deaths, Emergency Department (ED) Visits, and Test Positivity by Geographic Area
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://covid.cdc.gov/covid-data-tracker/#maps_percent-covid-deaths
+
+Resource: Your COVID-19 Glossary
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/your-covid-19-glossary

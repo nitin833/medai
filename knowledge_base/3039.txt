@@ -1,0 +1,126 @@
+Title: Estomas
+
+Summary:
+Una ostomía es una abertura artificial (estoma) creada quirúrgicamente desde el cuerpo hacia afuera para permitir el paso de orina y heces. Se usa para tratar ciertas enfermedades de los sistemas digestivos o urinarios. Puede ser permanente como cuando se extirpa un órgano o temporario como cuando un órgano necesita sanar. En general, se realiza en el intestino delgado, el colon, el recto o la vejiga.
+Existen muchos tipos distintos de estomas. Algunos ejemplos son:
+Ileostomía: la última parte del intestino delgado (ileum) se une al estoma evitando así el colon, recto y ano
+Colostomía: el colon es unido al estoma evitando así el recto y el ano
+Urostomía: los tubos que llevan la orina a la vejiga (uréteres) se unen al estoma evitando así la vejiga
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+- Riñones y sistema urinario
+- Cirugía y rehabilitación
+
+Related Resources:
+
+Resource: Alta tras ileostomía
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000074.htm
+
+Resource: Cambio de la bolsa de ileostomía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000072.htm
+
+Resource: Cambio de la bolsa de ostomía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000204.htm
+
+Resource: Colostomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100011_1.htm
+
+Resource: Colostomía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002942.htm
+
+Resource: Cuidado de su estoma en caso de ileostomía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000071.htm
+
+Resource: Derivación urinaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/derivacion-urinaria
+
+Resource: Dieta baja en fibra y residuos
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000200.htm
+
+Resource: Guía de colostomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/ostomias/colostomia.html
+
+Resource: Guía de ileostomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/ostomias/ileostomia.html
+
+Resource: Guía de urostomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/ostomias/urostomia.html
+
+Resource: Ileostomía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007378.htm
+
+Resource: Ileostomía y su dieta
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000070.htm
+
+Resource: Ileostomía y su hijo
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000069.htm
+
+Resource: Ileostomía: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000227.htm
+
+Resource: Ostomía: Adaptarse a la vida después de una colostomía, ileostomía o urostomía
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/colon-cancer/in-depth/ostomy/art-20045825?p=1
+
+Resource: Ostomías
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/ostomias.html
+
+Resource: Proctocolectomía total con ileostomía
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007381.htm
+
+Resource: Tipos de ileostomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000073.htm
+
+Resource: Urostomía: Cuidado de la piel y del estoma
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000477.htm
+
+Resource: Vida con una ostomía
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/cuidados-de-apoyo/ostomias/estomas-u-ostomias.html
+
+Resource: Vivir con su ileostomía
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000075.htm

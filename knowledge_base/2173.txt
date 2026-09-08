@@ -1,0 +1,199 @@
+Title: Enfermedades del estómago
+
+Also Called:
+- Enfermedades estomacales
+
+Summary:
+El estómago es un órgano que se encuentra entre el esófago y el intestino delgado. En él comienza la digestión de las proteínas. El estómago cumple con tres funciones. Almacena la comida deglutida. Mezcla la comida con los ácidos gástricos. Luego envía la mezcla hacia el intestino delgado.
+Probablemente ya tuvo un problema en el estómago alguna vez. La
+indigestión
+y la
+acidez
+son problemas comunes. Es posible aliviar algunos problemas gástricos con medicinas sin receta médica y cambios en el estilo de vida, tales como evitar las comidas grasosas o comer más lentamente. Otros problemas como las
+úlcera pépticas
+o la enfermedad por reflujo gastroesofágico o
+ERGE
+necesitan atención médica.
+Debe ver a un médico si tiene alguno de los siguientes síntomas:
+Presencia de sangre en las heces
+Dolor abdominal
+severo
+Acidez que no mejora con los antiácidos
+Pérdida de peso no intencional
+Vómitos o diarrea persistentes
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Alta tras una esofagogastroduodenoscopia
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000898.htm
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/digestive-system.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Bezoar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001582.htm
+
+Resource: Cultivo y biopsia de tejido gástrico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003728.htm
+
+Resource: Cómo tratar el dolor de estómago
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stomachaches-sheet.html
+
+Resource: Dolores de estómago (para adolescentes)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stomachaches.html
+
+Resource: Endoscopia gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-gastrointestinal-superior?dkrd=/health-information/informacion-de-la-salud/pruebas-diagnosticas/endoscopia-esofagogastroduodenal
+
+Resource: Estenosis pilórica
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pyloric-stenosis.html
+
+Resource: Estenosis pilórica en bebés
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000970.htm
+
+Resource: Estenosis pilórica infantil
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100095_1.htm
+
+Resource: Estudio del tránsito esofagogastroduodenal
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-uppergi.html
+
+Resource: Examen de anticuerpos anticélulas parietales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003351.htm
+
+Resource: Examen de sangre en heces con reactivo desechable
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007007.htm
+
+Resource: Exámen de sangre para gastrina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003697.htm
+
+Resource: Gastrectomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100022_1.htm
+
+Resource: Gastrectomía
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002945.htm
+
+Resource: Gastritis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001150.htm
+
+Resource: Gastritis y gastropatía
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/gastritis-gastropatia
+
+Resource: Gastroparesia
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000297.htm
+
+Resource: Gastroparesia
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Gastroenterología
+URL: https://gi.org/patients/recursos-en-espanol/gastroparesia/
+
+Resource: Gastroparesia
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/gastroparesia
+
+Resource: Piloroplastia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002922.htm
+
+Resource: Pruebas de vaciamiento gástrico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-vaciamiento-gastrico/
+
+Resource: Pólipos gástricos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/stomach-polyps/symptoms-causes/syc-20377992?p=1
+
+Resource: Rayos X del sistema gastrointestinal superior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/uppergi
+
+Resource: Succión gástrica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003882.htm
+
+Resource: Síndrome de evacuación gástrica rápida
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dumping-syndrome/symptoms-causes/syc-20371915?p=1
+
+Resource: Tránsito esofagogastroduodenal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/transito-esofagogastroduodenal/
+
+Resource: Tránsito esofagogastroduodenal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003816.htm
+
+Resource: Tránsito gastrointestinal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-esofagogastroduodenal
+
+Resource: ¿Por qué eructo?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/burp.html
+
+Resource: ¿Qué es el vómito?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/puke.html

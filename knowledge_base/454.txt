@@ -1,0 +1,314 @@
+Title: Viral Infections
+
+Summary:
+What are viruses?
+Viruses are very tiny germs. They are made of genetic material (either
+DNA
+or RNA) inside of a protein coating. There are a huge number of viruses on earth. Only a small number of them can infect humans. Those viruses can infect our cells, which may cause disease. Some of the diseases that viruses can cause include the
+common cold
+, the
+flu
+,
+COVID-19
+, and
+HIV
+.
+How are viruses spread?
+Viruses can be spread in different ways:
+Through droplets and particles that are breathed out by someone who has the infection. You might breathe in the droplets or particles, or they could land on your mouth, nose, or eyes.
+By touching surfaces or objects that have the virus on them and then touching your mouth, nose, or eyes.
+From the pregnant parent to the baby
+during pregnancy
+.
+Through
+contaminated food or water
+.
+By being bitten by an infected
+insect
+or animal.
+Through
+sexual contact
+(usually vaginal, anal and oral sex) with someone who has the infection.
+How do viruses cause disease?
+Viruses are like hijackers. They invade living, normal cells. They then use those cells to multiply (make copies of themselves). This process is also called replication. The process can kill, damage, or change the infected cells. Sometimes this can make you sick. The symptoms can range from mild to very severe. Other times, your
+immune system
+may be able to fight it off and you may not have any symptoms.
+Each different virus usually only infects one type of cell in your body. For example,
+hepatitis
+viruses affect the cells in the liver. HIV infects a certain type of immune system cell.
+What are the treatments for viral infections?
+For most viral infections, treatments can only help with symptoms while you wait for your immune system to fight off the virus. There are antiviral medicines to treat some viral infections.
+Antibiotics
+do not work for viral infections.
+Can viral infections be prevented?
+Vaccines
+can help prevent you from getting many viral diseases. You may be able to prevent some viral infections by:
+Proper
+hand washing
+.
+Paying attention to
+food safety
+.
+Cleaning surfaces
+that may be infected with germs.
+Avoiding contact with wild animals.
+Preventing insect bites by using insect repellent when you go outdoors. If you travel to an area that has a high risk of diseases from insect bites, also wear long pants, shirts, and socks.
+Practicing safe sex (using a condom every time you have anal, vaginal, or oral sex).
+Avoiding close contact with people who are sick.
+
+Groups:
+- Infections
+- Immune System
+
+MeSH Headings:
+- Virus Diseases
+
+Related Resources:
+
+Resource: A New Vaccine is Here to Protect You and Your Loved Ones from RSV This Winter
+Category: Related Issues
+URL: https://magazine.medlineplus.gov/article/a-new-vaccine-is-here-to-protect-you-and-your-loved-ones-from-rsv-this-winter
+
+Resource: About Adenovirus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/adenovirus/about/
+
+Resource: About Enterovirus D68
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/non-polio-enterovirus/about/about-enterovirus-d68.html
+
+Resource: About Hand, Foot, and Mouth Disease
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hand-foot-mouth/about/
+
+Resource: About Human Metapneumovirus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/human-metapneumovirus/about/index.html
+
+Resource: About Human Parainfluenza Viruses (HPIVs)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parainfluenza/about/
+
+Resource: Adenovirus
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/adenovirus.html
+
+Resource: Bacterial vs. Viral Infections: How Do They Differ?
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098?p=1
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Clearing the Air: All About Airborne Viruses
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/12/clearing-air
+
+Resource: ClinicalTrials.gov: Adenoviridae Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Adenoviridae+Infections%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Coxsackievirus Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Coxsackievirus+Infections%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Enterovirus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Enterovirus%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hand, Foot and Mouth Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hand,+Foot+and+Mouth+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Virus Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Virus+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Coxsackievirus Infections (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/coxsackie.html
+
+Resource: ECHO virus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001340.htm
+
+Resource: ELISA blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003332.htm
+
+Resource: Enterovirus D68
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000782.htm
+
+Resource: Enterovirus Infections (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/enteroviruses.html
+
+Resource: Genomics and Virology
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Genomics-and-Virology
+
+Resource: Germs and Hygiene: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/germsandhygiene.html
+
+Resource: Hand, Foot, and Mouth Disease
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/hand-foot-and-mouth-disease/infant/?Imiw9cApl=1
+
+Resource: Hand-foot-mouth disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000965.htm
+
+Resource: Herpangina
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000969.htm
+
+Resource: HTLV-1-Associated Myelopathy (HAM)/Tropical Spastic Paraparesis (TSP)
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/htlv-1-associated-myelopathy-hamtropical-spastic-paraparesis-tsp
+
+Resource: Human Metapneumovirus (hMPV)
+Category: Specifics
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/human-metapneumovirus-hmpv
+
+Resource: Immunoglobulins Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/immunoglobulins-blood-test/
+
+Resource: Infection Control Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/infection-control/about/
+
+Resource: Infection Control: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/infectioncontrol.html
+
+Resource: Lymph node culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003737.htm
+
+Resource: Molluscum Contagiosum
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/molluscum-contagiosum/?Imiw9cApl=1
+
+Resource: Molluscum Contagiosum
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/molluscum-contagiosum/about/
+
+Resource: Molluscum contagiosum
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000826.htm
+
+Resource: National Foundation for Infectious Diseases
+Category: Find an Expert
+Organization: National Foundation for Infectious Diseases
+URL: https://www.nfid.org/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Non-Polio Enterovirus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/non-polio-enterovirus/
+
+Resource: Overview of Viral Infections
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/infections/overview-of-viral-infections/overview-of-viral-infections
+
+Resource: Parainfluenza
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001370.htm
+
+Resource: Parechovirus (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/parechovirus.html
+
+Resource: PCR Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pcr-tests
+
+Resource: Viral Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Virus+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rapid Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/rapid-tests/
+
+Resource: Respiratory Pathogens Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/respiratory-pathogens-panel/
+
+Resource: Roseola
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000968.htm
+
+Resource: Roseola (Sixth Disease)
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/roseola-sixth-disease/infant/?Imiw9cApl=1
+
+Resource: Subacute thyroiditis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000375.htm
+
+Resource: Viral Exanthem
+Category: Children
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/viral-exanthem/infant/?Imiw9cApl=1
+
+Resource: Viral Exanthem
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/viral-exanthem/?Imiw9cApl=1
+
+Resource: Viruses that Can Lead to Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/infections/infections-that-can-lead-to-cancer/viruses.html

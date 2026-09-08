@@ -1,0 +1,57 @@
+Title: Enfermedad de Gaucher
+
+Summary:
+La enfermedad de Gaucher es una enfermedad hereditaria poco frecuente en donde una persona no tiene una cantidad suficiente de una enzima llamada glucocerebrosidasa. Esto causa una acumulación de sustancias grasosas en el bazo, hígado, pulmones, huesos y, a veces, en el cerebro.
+Existen tres tipos:
+Tipo 1: Esta es la forma más común y causa un agrandamiento del hígado y el bazo, dolor y
+fracturas
+(huesos rotos) y, a veces, problemas en los
+pulmones
+y
+riñones
+. No afecta al cerebro. Puede ocurrir a cualquier edad
+Tipo 2: Este tipo causa daño cerebral grave y aparece en recién nacidos. La mayoría de los niños fallece antes de los dos años
+Tipo 3: En este tipo puede haber agrandamiento del hígado y bazo. El cerebro se ve afectado poco a poco. En general, comienza en la niñez o adolescencia
+La enfermedad de Gaucher no tiene cura. Las opciones de tratamiento para los tipos 1 y 3 incluyen medicinas y terapia de sustitución de las hormonas, que suele ser muy eficaz. No hay un buen tratamiento para el daño cerebral causado en los tipos 2 y 3.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Genética y defectos congénitos
+- Problemas del metabolismo
+
+Related Resources:
+
+Resource: Enfermedad de Gaucher
+Category: Comience aquí, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13400/enfermedad-de-gaucher/
+
+Resource: Enfermedad de Gaucher
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000564.htm
+
+Resource: Enfermedad de Gaucher y el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/la-enfermedad-de-gaucher/
+
+Resource: Enfermedad de Gaucher: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gauchers-disease/diagnosis-treatment/drc-20355551?p=1
+
+Resource: Enfermedad de Gaucher: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gauchers-disease/symptoms-causes/syc-20355546?p=1
+
+Resource: Examen de ECA en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003567.htm
+
+Resource: ¿Cómo hablo con mi familia sobre Gaucher?
+Category: Viviendo con..., Spanish/Español
+Organization: Alianza Genética
+URL: https://www.ncbi.nlm.nih.gov/books/NBK115578/pdf/Bookshelf_NBK115578.pdf

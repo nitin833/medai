@@ -1,0 +1,265 @@
+Title: Amino Acid Metabolism Disorders
+
+Summary:
+Metabolism is the process your body uses to make energy from the food you eat. Food is made up of proteins, carbohydrates, and fats. Your digestive system breaks the food parts down into sugars and acids, your body's fuel. Your body can use this fuel right away, or it can store the energy in your body. If you have a
+metabolic disorder
+, something goes wrong with this process.
+One group of these disorders is amino acid metabolism disorders. They include
+phenylketonuria
+(PKU) and maple syrup urine disease. Amino acids are "building blocks" that join together to form proteins. If you have one of these disorders, your body may have trouble breaking down certain amino acids. Or there may be a problem getting the amino acids into your cells. These problems cause a buildup of harmful substances in your body. That can lead to serious, sometimes life-threatening, health problems.
+These disorders are usually inherited. A baby who is born with one may not have any symptoms right away. Because the disorders can be so serious, early diagnosis and treatment are critical. Newborn babies get
+screened
+for many of them, using blood tests.
+Treatments may include special diets, medicines, and supplements.  Some babies may also need additional treatments if there are complications.
+
+Groups:
+- Metabolic Problems
+
+MeSH Headings:
+- Amino Acid Metabolism, Inborn Errors
+
+Related Resources:
+
+Resource: 3-hydroxy-3-methylglutaryl-CoA lyase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-hydroxy-3-methylglutaryl-coa-lyase-deficiency/
+
+Resource: 3-methylcrotonyl-CoA carboxylase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylcrotonyl-coa-carboxylase-deficiency/
+
+Resource: 3-methylglutaconyl-CoA hydratase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/3-methylglutaconyl-coa-hydratase-deficiency/
+
+Resource: Alkaptonuria
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001200.htm
+
+Resource: Alkaptonuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alkaptonuria
+
+Resource: Amino acids
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002222.htm
+
+Resource: Aminoacylase 1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aminoacylase-1-deficiency/
+
+Resource: Arginase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arginase-deficiency/
+
+Resource: Arginine:glycine amidinotransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arginineglycine-amidinotransferase-deficiency/
+
+Resource: Argininosuccinic aciduria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/argininosuccinic-aciduria/
+
+Resource: Asparagine synthetase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/asparagine-synthetase-deficiency
+
+Resource: Beta-ketothiolase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beta-ketothiolase-deficiency/
+
+Resource: ClinicalTrials.gov: Amino Acid Metabolism, Inborn Errors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Amino+Acid+Metabolism,+Inborn+Errors%22&aggFilters=status:not%20rec
+
+Resource: Dihydrolipoamide dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dihydrolipoamide-dehydrogenase-deficiency/
+
+Resource: Fatty Acid Oxidation Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/hereditary-metabolic-disorders/fatty-acid-oxidation-disorders
+
+Resource: Glutamate formiminotransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutamate-formiminotransferase-deficiency/
+
+Resource: Glutaric acidemia type I: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glutaric-acidemia-type-i/
+
+Resource: Guanidinoacetate methyltransferase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/guanidinoacetate-methyltransferase-deficiency/
+
+Resource: Hartnup disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hartnup-disease
+
+Resource: Hartnup disorder
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001201.htm
+
+Resource: Histidinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/histidinemia
+
+Resource: Homocystinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/homocystinuria
+
+Resource: Hyperlysinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperlysinemia
+
+Resource: Hypermethioninemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypermethioninemia/
+
+Resource: Hyperprolinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperprolinemia/
+
+Resource: Isobutyryl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isobutyryl-coa-dehydrogenase-deficiency
+
+Resource: Isolated sulfite oxidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-sulfite-oxidase-deficiency
+
+Resource: Isovaleric acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isovaleric-acidemia/
+
+Resource: Lesch-Nyhan syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lesch-nyhan-syndrome
+
+Resource: Maple Syrup Urine Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/msud.html
+
+Resource: Maple syrup urine disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/maple-syrup-urine-disease
+
+Resource: Methylmalonic Acid (MMA) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/methylmalonic-acid-mma-test/
+
+Resource: Methylmalonic acid blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003565.htm
+
+Resource: Methylmalonic acidemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001162.htm
+
+Resource: Methylmalonic acidemia with homocystinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methylmalonic-acidemia-with-homocystinuria
+
+Resource: Methylmalonic acidemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/methylmalonic-acidemia
+
+Resource: Newborn Screening: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/newbornscreening.html
+
+Resource: Nonketotic hyperglycinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nonketotic-hyperglycinemia/
+
+Resource: Overview of Amino Acid Metabolism Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/hereditary-metabolic-disorders/overview-of-amino-acid-metabolism-disorders
+
+Resource: Oxalosis and Hyperoxaluria Foundation
+Category: Find an Expert
+Organization: Oxalosis and Hyperoxaluria Foundation
+URL: https://ohf.org
+
+Resource: Phenylketonuria (PKU) (In Pregnancy or While Breastfeeding)
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/maternal-pku-pregnancy/
+
+Resource: Phosphoglycerate dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-dehydrogenase-deficiency/
+
+Resource: Plasma amino acids
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003361.htm
+
+Resource: Primary hyperoxaluria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-hyperoxaluria/
+
+Resource: Prolidase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prolidase-deficiency/
+
+Resource: Amino Acid Metabolism Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Amino+Acid+Metabolism%2C+Inborn+Errors%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Short/branched chain acyl-CoA dehydrogenase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency/
+
+Resource: Tyrosinemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/tyrosinemia
+
+Resource: Understanding Hyperoxaluria
+Category: Specifics
+Organization: Oxalosis and Hyperoxaluria Foundation
+URL: https://ohf.org/understanding-hyperoxaluria/

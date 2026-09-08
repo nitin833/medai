@@ -1,0 +1,175 @@
+Title: Gallstones
+
+Also Called:
+- Cholelithiasis
+
+Summary:
+Your gallbladder is a pear-shaped organ under your liver. It stores bile, a fluid made by your liver to digest fat. As your stomach and intestines digest food, your gallbladder releases bile through a tube called the common bile duct. The duct connects your gallbladder and liver to your small intestine.
+Your gallbladder is most likely to give you trouble if something blocks the flow of bile through the
+bile ducts
+. That is usually a  gallstone. Gallstones form when substances in bile harden. Gallstone attacks usually happen after you eat. Signs of a gallstone attack may include nausea, vomiting, or pain in the abdomen, back, or just under the right arm.
+Gallstones are most common among older adults, women, overweight people, Native Americans and Mexican Americans.
+Gallstones are often found during imaging tests for other health conditions. If you do not have symptoms, you usually do not need treatment. The most common treatment is removal of the gallbladder. Fortunately, you can live without a gallbladder.  Bile has other ways to reach your small intestine.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Cholelithiasis
+
+Related Resources:
+
+Resource: Abdominal exploration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002928.htm
+
+Resource: Abdominal exploration - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100049_1.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: Abdominal ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003777.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: Biliary Tract Disorders, Gallbladder Disorders, and Gallstone Pancreatitis
+Category: Specifics
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/biliary-tract-disorders-gallbladder-disorders-and-gallstone-pancreatitis/
+
+Resource: Cholecystectomy
+Category: Treatments and Therapies
+Organization: American College of Surgeons
+URL: https://www.facs.org/for-patients/the-day-of-your-surgery/cholecystectomy/
+
+Resource: Cholecystitis
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cholecystitis/symptoms-causes/syc-20364867?p=1
+
+Resource: Choledocholithiasis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000274.htm
+
+Resource: Chronic Diarrhea: A Concern after Gallbladder Removal?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/cholecystectomy/expert-answers/gallbladder-removal/faq-20058481?p=1
+
+Resource: ClinicalTrials.gov: Choledocholithiasis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Choledocholithiasis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Cholelithiasis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Cholelithiasis%22&aggFilters=status:not%20rec
+
+Resource: Dieting and Gallstones
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones/dieting
+
+Resource: Endoscopic retrograde cholangio pancreatography (ERCP) - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100180_1.htm
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: ERCP
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007479.htm
+
+Resource: Fecal fat
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003588.htm
+
+Resource: Gallbladder Cleanse: A "Natural" Remedy for Gallstones?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gallstones/expert-answers/gallbladder-cleanse/faq-20058134?p=1
+
+Resource: Gallbladder removal - laparoscopic - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000117.htm
+
+Resource: Gallbladder removal - open - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000118.htm
+
+Resource: Gallbladder removal - Series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100021_1.htm
+
+Resource: Gallstones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000273.htm
+
+Resource: Gallstones
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gallstones/symptoms-causes/syc-20354214?p=1
+
+Resource: Gallstones
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gallstones
+
+Resource: Gallstones - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000196.htm
+
+Resource: Gallstones in Women
+Category: Women
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/gallstones-in-women/
+
+Resource: HIDA Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/hida-scan/about/pac-20384701?p=1
+
+Resource: Laparoscopic gallbladder removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007371.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Open gallbladder removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002930.htm
+
+Resource: Gallstones
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cholelithiasis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

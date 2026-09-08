@@ -1,0 +1,95 @@
+Title: Centros de salud
+
+Also Called:
+- Clínicas
+- Hospitales
+- Sanatorios
+
+Summary:
+Los centros de salud son lugares que brindan cuidados para la salud. Incluyen hospitales, clínicas, centros de cuidados ambulatorios y centros de cuidados especializados, tales como las maternidades y los centros psiquiátricos.
+Al elegir un centro de salud, usted puede considerar:
+La cercanía a donde vive o trabaja
+Si su seguro médico paga los servicios en ese centro
+Si su médico puede atenderlo allí
+La calidad del establecimiento
+La calidad es importante. Algunos centros trabajan mejor que otros. Una forma de saber acerca de la calidad de un centro es revisar los informes realizados por el gobierno federal, estatal y grupos de consumidores.
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Applicación QuestionBuilder en español
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Agencia para la Investigación y Calidad de la Atención Médica
+URL: https://www.ahrq.gov/es/questions/question-builder/index.html
+
+Resource: Buscar y comparar proveedores cerca de usted.
+Category: Spanish/Español, Especialistas
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/care-compare/
+
+Resource: Centros de maternidad y servicios de maternidad hospitalarios
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/birth-centers-hospitals.html
+
+Resource: Centros de salud escolares
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/school-based-health.html
+
+Resource: Centros especializados de enfermería o rehabilitación
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000435.htm
+
+Resource: Centros oncológicos para niños
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000841.htm
+
+Resource: Centros para el cuidado de heridas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000739.htm
+
+Resource: Cómo escoger el mejor hospital para su cirugía
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007497.htm
+
+Resource: Encuentre un hospital
+Category: Comience aquí, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/care-compare/?providerType=Hospital
+
+Resource: Ir al hospital
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/hospital.html
+
+Resource: Millones de personas que viven en Estados Unidos tienen problemas de salud mental y de uso de sustancias. Encuentre tratamiento aquí.
+Category: Spanish/Español, Especialistas
+Organization: Administración de Servicios de la Salud Mental y Abuso de Sustancias
+URL: https://findtreatment.gov/es
+
+Resource: Momento de dejar el hospital: Su plan para el alta médica
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000867.htm
+
+Resource: Precauciones de aislamiento
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000446.htm
+
+Resource: Prevenir infecciones al realizar visitas a alguien en el hospital
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000448.htm
+
+Resource: Selección de los centros especializados de enfermería y rehabilitación
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000436.htm

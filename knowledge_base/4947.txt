@@ -1,0 +1,84 @@
+Title: Conjuntivitis
+
+Also Called:
+- Inflamación de la conjuntiva
+
+Summary:
+La conjuntivitis causa hinchazón, picazón, ardor, lagrimeo y enrojecimiento de la conjuntiva, la membrana delgada y translúcida que recubre la parte blanca del ojo y el interior de los párpados. Las causas pueden ser:
+Infección bacteriana o viral
+Alergias
+Sustancias que causan irritación
+Productos que se usan para los lentes de contacto, gotas para los ojos o ungüentos.
+La conjuntivitis, en general, no afecta la vista. La conjunctivitis infecciosa se contagia fácilmente de persona a persona. La infección desaparece por sí sola sin tratamiento, pero la conjuntivitis bacteriana necesita tratamiento con gotas o ungüentos antibióticos.
+NIH: Instituto Nacional del Ojo
+
+Groups:
+- Ojos y visión
+- Infecciones
+
+Related Resources:
+
+Resource: Alergia ocular
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/alergias/alergia-ocular
+
+Resource: Conjuntivitis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/conjunctivitis.html
+
+Resource: Conjuntivitis aguda
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/conjuntivitis-aguda
+
+Resource: Conjuntivitis alérgica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001031.htm
+
+Resource: Conjuntivitis infecciosa
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-conjuntiva-y-la-escler%C3%B3tica/conjuntivitis-infecciosa
+
+Resource: Conjuntivitis neonatal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001606.htm
+
+Resource: Conjuntivitis primaveral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001390.htm
+
+Resource: Conjuntivitis u ojo rosado
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001010.htm
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Gotas para los ojos
+Category: Spanish/Español, Niños/as
+Organization: Hospitales y Clínicas de Niños de Minnesota
+URL: https://www.childrensmn.org/educationmaterials/childrensmn/article/17120/gotas-para-los-ojos/
+
+Resource: Ojo rosado (conjuntivitis)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pink-eye/symptoms-causes/syc-20376355?p=1
+
+Resource: Quemosis
+Category: Spanish/Español, Síntomas
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003038.htm

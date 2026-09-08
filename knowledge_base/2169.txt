@@ -1,0 +1,204 @@
+Title: Problemas y lesiones causados por los deportes
+
+Summary:
+El ejercicio es bueno para usted, pero algunas veces puede lastimarse cuando practica deportes o se ejercita. Los accidentes, mala forma al ejercitarse o el uso de ropa y equipo inadecuado pueden ser algunas de las causas. Algunas personas se lastiman porque no están en forma. La falta de calentamiento o estirar los músculos también puede causar lesiones.
+Las lesiones deportivas más comunes son:
+Torceduras y distensiones
+Lesiones de rodilla
+Inflamación muscular
+Traumatismos en el tendón de Aquiles
+Dolor en el hueso de la tibia
+Lesiones del
+manguito rotatorio del hombro
+Fracturas
+(huesos rotos)
+Dislocaciones
+Si se lastima, deje de practicar deportes o ejercitarse. Continuar jugando o seguir ejercitándose puede causarle más daño. El tratamiento suele comenzar con el método RICE, por sus siglas en inglés (reposo, hielo, compresión y elevación) para aliviar el dolor, reducir la inflamación y acelerar la curación. Otros tratamientos posibles incluyen analgésicos, inmovilizar el área lesionada, rehabilitación y, algunas veces, cirugía.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Lesiones y heridas
+- Bienestar y estilo de vida
+- Aptitud física y ejercicio
+
+Related Resources:
+
+Resource: Acidosis láctica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000391.htm
+
+Resource: Codo de tenista
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000449.htm
+
+Resource: Conmoción
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000034.htm
+
+Resource: Contusión de cadera
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hip-pointer.html
+
+Resource: Cuidados personales para el dolor en las espinillas
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000654.htm
+
+Resource: Cómo afrontar las lesiones deportivas
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/sports-injuries.html
+
+Resource: Cómo evitar lesiones relacionadas con el ejercicio
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000859.htm
+
+Resource: Deportes y las conmociones cerebrales
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/concussions-sports.html
+
+Resource: Desgarro de cuádriceps
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/quad-contusions.html
+
+Resource: Dolor de espalda y los deportes
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000519.htm
+
+Resource: Encefalopatía traumática crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921?p=1
+
+Resource: Enfermedad de Osgood-Schlatter
+Category: Adolescentes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001258.htm
+
+Resource: Enfermedad de Sever
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/severs-disease.html
+
+Resource: Epicondilitis medial (codo de golfista)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007638.htm
+
+Resource: Esguinces
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sprains/symptoms-causes/syc-20377938?p=1
+
+Resource: Esguinces de tobillo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/ankle-sprains.html
+
+Resource: Exámenes físicos deportivos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/sports-physicals.html
+
+Resource: Fracturas por sobrecarga
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/stress-fractures/symptoms-causes/syc-20354057?p=1
+
+Resource: HEADS UP para entrenadores deportivos juveniles
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/heads-up/es/training/youth-sports.html
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Lesiones de oído
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ear-injuries.html
+
+Resource: Lesiones deportivas
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/lesiones-deportivas
+
+Resource: Lesiones en los testículos
+Category: Hombres, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/testicular-injuries.html
+
+Resource: Lesiones por sobrecarga
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/rsi.html
+
+Resource: Lesión en los músculos isquiotibiales
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hamstring-injury/symptoms-causes/syc-20372985?p=1
+
+Resource: Mal agudo de montaña
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000133.htm
+
+Resource: Periostitis tibial
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/shin-splints/symptoms-causes/syc-20354105?p=1
+
+Resource: Problemas con el manguito de los rotadores
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000438.htm
+
+Resource: Reconstrucción del ligamento cruzado anterior (LCA)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007208.htm
+
+Resource: Reparación del tendón de Aquiles
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007643.htm
+
+Resource: Retornar a los deportes después de una lesión en la espalda
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000518.htm
+
+Resource: Rodilla del saltador (para Padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/jumpers-knee.html
+
+Resource: Seguridad en los deportes: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/sportssafety.html
+
+Resource: Síndrome compartimental crónico por ejercicio
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chronic-exertional-compartment-syndrome/symptoms-causes/syc-20350830?p=1
+
+Resource: Tiempo de recuperación para las concusiones en el deporte
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/tiempo-de-recuperacion-para-las-concusiones-en-el-deporte
+
+Resource: ¿Qué es un hifema?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/que-es-un-hifema

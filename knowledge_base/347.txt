@@ -1,0 +1,234 @@
+Title: Occupational Health
+
+Summary:
+Occupational health problems occur at work or because of the kind of work you do. These problems can include:
+Cuts,
+fractures
+(broken bones), and
+sprains and strains
+Loss of limbs
+Repetitive motion disorders
+Hearing problems
+caused by exposure to
+noise
+Vision problems
+Illness caused by breathing, touching, or swallowing unsafe substances
+Illness caused by
+exposure to radiation
+Exposure to germs in
+health care settings
+Good job safety and prevention practices can reduce your risk of these problems. Try to stay fit, reduce stress, set up your
+work area
+properly, and use the right equipment and gear.
+
+Groups:
+- Wellness and Lifestyle
+- Safety Issues
+
+MeSH Headings:
+- Accidents, Occupational
+- Occupational Stress
+- Occupational Injuries
+- Occupational Diseases
+- Occupational Exposure
+
+Related Resources:
+
+Resource: About Skin Exposures and Effects
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/skin-exposure/about/
+
+Resource: Back pain - returning to work
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000517.htm
+
+Resource: Byssinosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001089.htm
+
+Resource: ClinicalTrials.gov: Accidents, Occupational
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Accidents,+Occupational%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Occupational Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Occupational+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Occupational Exposure
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Occupational+Exposure%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Occupational Stress
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Occupational+Stress%22&aggFilters=status:not%20rec
+
+Resource: Coal worker's pneumoconiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000130.htm
+
+Resource: Coal Workers' Health Surveillance Program
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/cwhsp/about/
+
+Resource: Computer Workstations eTool: Desks
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/etools/computer-workstations/components/desks
+
+Resource: Do You Have Work-Related Asthma? A Guide for You and Your Doctor
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/OSHA3707.pdf
+
+Resource: Falls in the Workplace
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/falls/about/index.html
+
+Resource: Guide to Controlling Asthma at Work
+Category: Specifics
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/managing-asthma/workplace
+
+Resource: Heat Stress and Workers
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/heat-stress/about/
+
+Resource: Hypersensitivity pneumonitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000109.htm
+
+Resource: Industrial bronchitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000072.htm
+
+Resource: Job Burnout: How to Spot It and Take Action
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/burnout/art-20046642?p=1
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: NIOSH Health Hazard Evaluation (HHE) Program
+Category: Prevention and Risk Factors
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/hhe/about/?CDC_AAref_Val=https://www.cdc.gov/niosh/hhe/
+
+Resource: Noise and Hearing Loss
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/niosh/noise/
+
+Resource: Occupational asthma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000110.htm
+
+Resource: Occupational Health: Why the Environment Matters
+Category: Specifics
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/sites/default/files/health/materials/occupational_health_why_the_environment_matters_508.pdf
+
+Resource: Occupational hearing loss
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001048.htm
+
+Resource: Occupational Injuries, Illnesses and Fatalities
+Category: Statistics and Research
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/iif/home.htm
+
+Resource: Occupational Noise Exposure
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/noise
+
+Resource: Occupational Safety and Health Administration
+Category: Find an Expert
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/
+
+Resource: Pregnancy and work
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000609.htm
+
+Resource: Preventing Heat-Related Illness or Death of Outdoor Workers
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/wp-solutions/2013-143/pdfs/2013-143.pdf
+
+Resource: Occupational health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Occupational+Stress%22%5Bmajr%3Anoexp%5D+OR+%22Accidents%2C+Occupational%22%5Bmajr%3Anoexp%5D+OR+%22Occupational+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Occupational+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Occupational+Exposure%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Respiratory Protection
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/respiratory-protection
+
+Resource: Rheumatoid pneumoconiosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000137.htm
+
+Resource: Rural Agricultural Health and Safety
+Category: Specifics
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/agricultural-health-and-safety
+
+Resource: Signs of Unhealthy Indoor Air
+Category: Specifics
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/indoor-air/signs-unhealthy-indoor-air
+
+Resource: Silicosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000134.htm
+
+Resource: State Occupational Injuries, Illnesses, and Fatalities
+Category: Statistics and Research
+Organization: Bureau of Labor Statistics
+URL: https://www.bls.gov/iif/state-data.htm
+
+Resource: Suspension Trauma / Orthostatic Intolerance
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/SHIB032404.pdf
+
+Resource: Working in the Cold
+Category: Specifics
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/cold-stress/about/
+
+Resource: Workplace Safety and Health Topics: Industries and Occupations
+Category: Start Here
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/topics/industries.html
+
+Resource: Workplace Safety and Health Topics: Safety and Prevention
+Category: Start Here
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/topics/safety.html
+
+Resource: Workplace Violence
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/FACTSHEET-WORKPLACE-VIOLENCE.pdf

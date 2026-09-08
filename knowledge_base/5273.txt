@@ -1,0 +1,141 @@
+Title: Amyloidosis
+
+Summary:
+Amyloidosis occurs when abnormal proteins called amyloids build up and form deposits. The deposits can collect in organs such as the kidney and heart. This can cause the organs to become stiff and unable to work the way they should.
+There are three main types of amyloidosis:
+Primary - with no known cause
+Secondary - caused by another disease, including some types of cancer
+Familial - passed down through genes
+Symptoms can vary, depending upon which organs are affected. Treatment depends on the type of amyloidosis you have.  The goal is to help with symptoms and limit the production of proteins. If another disease is the cause, it needs to be treated.
+
+Groups:
+- Metabolic Problems
+
+MeSH Headings:
+- Amyloidosis
+
+Related Resources:
+
+Resource: Abdominal wall fat pad biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003841.htm
+
+Resource: AL Amyloidosis and Agent Orange
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/conditions/al_amyloidosis.asp
+
+Resource: Amyloidosis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/amyloidosis/symptoms-causes/syc-20353178?p=1
+
+Resource: Amyloidosis and Kidney Disease
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis
+
+Resource: Amyloidosis Foundation
+Category: Find an Expert
+Organization: Amyloidosis Foundation
+URL: https://www.amyloidosis.org
+
+Resource: Amyloidosis: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/amyloidosis/diagnosis-treatment/drc-20353183?p=1
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: Cardiac amyloidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000193.htm
+
+Resource: Cardiac Amyloidosis: Better Detection and New Treatments
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/heart-health/cardiac-amyloidosis-better-detection-and-new-treatments
+
+Resource: Carpal tunnel biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003925.htm
+
+Resource: Cerebral amyloid angiopathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000719.htm
+
+Resource: ClinicalTrials.gov: Amyloidosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Amyloidosis%22&aggFilters=status:not%20rec
+
+Resource: Diagnosis of Amyloidosis
+Category: Diagnosis and Tests
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/amyloidosis/amyloidosis#Diagnosis_v28335685
+
+Resource: Free Light Chains
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/free-light-chains/
+
+Resource: General Information about Plasma Cell Neoplasms (Including Multiple Myeloma)
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/myeloma/patient/myeloma-treatment-pdq#_3
+
+Resource: Hereditary amyloidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000368.htm
+
+Resource: Hereditary cerebral amyloid angiopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-cerebral-amyloid-angiopathy
+
+Resource: Lattice corneal dystrophy type II: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lattice-corneal-dystrophy-type-ii
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Primary amyloidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000533.htm
+
+Resource: Primary localized cutaneous amyloidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/primary-localized-cutaneous-amyloidosis
+
+Resource: Amyloidosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Amyloidosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Secondary systemic amyloidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000585.htm
+
+Resource: Think Amyloid: A Guide for Understanding Amyloidosis
+Category: Start Here
+Organization: American Society of Nuclear Cardiology
+URL: https://www.asnc.org/wp-content/uploads/2024/07/Think-Amyloid-Patient-Pocket-Guide.pdf
+
+Resource: Transthyretin amyloidosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/transthyretin-amyloidosis

@@ -1,0 +1,569 @@
+Title: Anemia
+
+Also Called:
+- Iron poor blood
+
+Summary:
+If you have anemia, your blood does not carry enough oxygen to the rest of your body.  The most common cause of anemia is not having enough
+iron
+. Your body needs iron to make hemoglobin. Hemoglobin is an iron-rich protein that gives the red color to blood. It carries oxygen from the lungs to the rest of the body.
+Anemia has three main causes: blood loss, lack of red blood cell production, and high rates of red blood cell destruction.
+Conditions that may lead to anemia include:
+Heavy periods
+Pregnancy
+Ulcers
+Colon polyps or colon cancer
+Inherited disorders
+A diet that does not have enough iron,
+folic acid
+or
+vitamin B12
+Blood disorders such as
+sickle cell anemia
+and
+thalassemia
+, or cancer
+Aplastic anemia
+, a condition that can be inherited or acquired
+G6PD deficiency
+, a metabolic disorder
+Anemia can make you feel tired, cold, dizzy, and irritable. You may be short of breath or have a headache.
+Your doctor will diagnose anemia with a physical exam and blood tests. Treatment depends on the kind of anemia you have.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Anemia
+
+Related Resources:
+
+Resource: Aase syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001662.htm
+
+Resource: Anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000560.htm
+
+Resource: Anemia
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/anemia
+
+Resource: Anemia
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/anemia/
+
+Resource: Anemia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/anemia.html
+
+Resource: Anemia and Pregnancy
+Category: Women
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/anemia/pregnancy
+
+Resource: Anemia caused by low iron - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007134.htm
+
+Resource: Anemia caused by low iron - infants and toddlers
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007618.htm
+
+Resource: Anemia Causes and Risk Factors
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/causes
+
+Resource: Anemia Diagnosis
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/diagnosis
+
+Resource: Anemia Due to Excessive Bleeding
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/anemia/anemia-due-to-excessive-bleeding
+
+Resource: Anemia in Chronic Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/anemia
+
+Resource: Anemia in the Newborn
+Category: Children
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/blood-problems-in-newborns/anemia-in-the-newborn
+
+Resource: Anemia of chronic disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000565.htm
+
+Resource: Anemia of Inflammation or Chronic Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/blood-diseases/anemia-inflammation-chronic-disease
+
+Resource: Anemia Prevalence: United States, August 2021-August 2023
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/nchs/products/databriefs/db519.htm
+
+Resource: Anemia Symptoms
+Category: Symptoms
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/symptoms
+
+Resource: Anemia Treatment and Management
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/treatment
+
+Resource: Antiparietal cell antibody test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003351.htm
+
+Resource: Blood Smear
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-smear/
+
+Resource: Blood Tests
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-tests
+
+Resource: Bone marrow biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003934.htm
+
+Resource: Bone Marrow Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-marrow-tests/
+
+Resource: ClinicalTrials.gov: Anemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Anemia, Iron-Deficiency
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Anemia,+Iron-Deficiency%22&aggFilters=status:not%20rec
+
+Resource: Complete Blood Count (CBC)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/complete-blood-count-cbc/
+
+Resource: Congenital dyserythropoietic anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-dyserythropoietic-anemia
+
+Resource: Craving and Chewing Ice: A Sign of Anemia?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/iron-deficiency-anemia/expert-answers/chewing-ice/faq-20057982?p=1
+
+Resource: Diamond-Blackfan Anemia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diamond-blackfan-anemia.html
+
+Resource: Diamond-Blackfan anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/diamond-blackfan-anemia
+
+Resource: Donath-Landsteiner test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003668.htm
+
+Resource: Drug-induced immune hemolytic anemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000578.htm
+
+Resource: Erythropoietin test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003683.htm
+
+Resource: FastStats: Anemia or Iron Deficiency
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/anemia.htm
+
+Resource: Febrile (warm) and cold agglutinins
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003549.htm
+
+Resource: Ferritin blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003490.htm
+
+Resource: Ferritin Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ferritin-blood-test/
+
+Resource: Folate-deficiency anemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000551.htm
+
+Resource: Ghosal hematodiaphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ghosal-hematodiaphyseal-dysplasia
+
+Resource: Glucose phosphate isomerase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glucose-phosphate-isomerase-deficiency
+
+Resource: Haptoglobin (HP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/haptoglobin-hp-test/
+
+Resource: Haptoglobin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003634.htm
+
+Resource: Hemoglobin C disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000572.htm
+
+Resource: Hemoglobin C, S-C, and E Diseases
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/anemia/hemoglobin-c-s-c-and-e-diseases
+
+Resource: Hemoglobin electrophoresis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003639.htm
+
+Resource: Hemoglobin Electrophoresis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hemoglobin-electrophoresis/
+
+Resource: Hemolytic Anemia
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/hemolytic-anemia
+
+Resource: Hemolytic anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000571.htm
+
+Resource: Hemolytic anemia caused by chemicals and toxins
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000590.htm
+
+Resource: Hemolytic crisis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003270.htm
+
+Resource: Hereditary folate malabsorption: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-folate-malabsorption/
+
+Resource: Hereditary spherocytic anemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000530.htm
+
+Resource: Hereditary Spherocytosis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hereditary-spherocytosis.html
+
+Resource: Hereditary spherocytosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-spherocytosis
+
+Resource: Hypochromic microcytic anemia with iron overload: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypochromic-microcytic-anemia-with-iron-overload
+
+Resource: Imerslund-Gräsbeck syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/imerslund-grasbeck-syndrome
+
+Resource: Immune hemolytic anemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000576.htm
+
+Resource: Iron
+Category: Treatments and Therapies
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Iron-Consumer/
+
+Resource: Iron deficiency anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000584.htm
+
+Resource: Iron Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/iron-tests/
+
+Resource: Iron-Deficiency Anemia
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/iron-deficiency-anemia
+
+Resource: Iron-Deficiency Anemia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ida.html
+
+Resource: Iron-Deficiency Anemia
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/iron-deficiency-anemia
+
+Resource: Iron-refractory iron deficiency anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/iron-refractory-iron-deficiency-anemia
+
+Resource: Lactate Dehydrogenase (LDH) Isoenzymes Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-isoenzymes-test/
+
+Resource: Lactate Dehydrogenase (LDH) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-test/
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: LDH isoenzyme blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003499.htm
+
+Resource: Majeed syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/majeed-syndrome
+
+Resource: Managing Anemia When You Have Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/low-blood-counts/anemia.html
+
+Resource: Mucolipidosis type IV: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mucolipidosis-type-iv/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Paroxysmal cold hemoglobinuria (PCH)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000557.htm
+
+Resource: Paroxysmal nocturnal hemoglobinuria (PNH)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000534.htm
+
+Resource: Paroxysmal Nocturnal Hemoglobinuria (PNH)
+Category: Specifics
+Organization: Aplastic Anemia and MDS International Foundation
+URL: https://www.aamds.org/pnh
+
+Resource: Paroxysmal nocturnal hemoglobinuria: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/paroxysmal-nocturnal-hemoglobinuria
+
+Resource: Pernicious anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000569.htm
+
+Resource: Phosphoglycerate kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/phosphoglycerate-kinase-deficiency/
+
+Resource: Plummer-Vinson syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001158.htm
+
+Resource: Anemia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pyruvate kinase blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003357.htm
+
+Resource: Pyruvate kinase deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001197.htm
+
+Resource: Pyruvate Kinase Deficiency (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pyruvate-kinase-deficiency.html
+
+Resource: Pyruvate kinase deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pyruvate-kinase-deficiency
+
+Resource: Red Blood Cell (RBC) Indices
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/red-blood-cell-rbc-indices/
+
+Resource: Reticulocyte Count
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/reticulocyte-count/
+
+Resource: Schilling test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003572.htm
+
+Resource: Serum free hemoglobin test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003677.htm
+
+Resource: Serum iron test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003488.htm
+
+Resource: Stool guaiac test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003393.htm
+
+Resource: Subacute combined degeneration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000723.htm
+
+Resource: Sugar-water hemolysis test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003673.htm
+
+Resource: Thiamine-responsive megaloblastic anemia syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/thiamine-responsive-megaloblastic-anemia-syndrome
+
+Resource: Total iron binding capacity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003489.htm
+
+Resource: Treatments for Blood Disorders
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: TRNT1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/trnt1-deficiency
+
+Resource: Vitamin B Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vitamin-b-test/
+
+Resource: Vitamin B12
+Category: Treatments and Therapies
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminB12-Consumer/
+
+Resource: Vitamin B12 deficiency anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000574.htm
+
+Resource: Vitamin B12 level
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003705.htm
+
+Resource: Vitamin B12-Deficiency Anemia
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia
+
+Resource: Vitamin Deficiency Anemia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: What Is Anemia?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia
+
+Resource: X-linked sideroblastic anemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-sideroblastic-anemia
+
+Resource: Your Guide to Anemia
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/your-guide-anemia

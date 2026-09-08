@@ -1,0 +1,82 @@
+Title: Organ Donation
+
+Summary:
+Organ donation takes healthy organs and tissues from one person for
+transplantation
+into another. Experts say that the organs from one donor can save or help as many as 50 people. Organs you can donate include:
+Internal organs: Kidneys, heart, liver, pancreas, intestines, lungs
+Skin
+Bone and bone marrow
+Cornea
+Most organ and tissue donations occur after the donor has died. But some organs and tissues can be donated while the donor is alive.
+People of all ages and background can be organ donors. If you are under age 18, your parent or guardian must give you permission to become a donor. If you are 18 or older you can show you want to be a donor by signing a donor card. You should also let your family know your wishes.
+Health Resources and Services Administration
+
+Groups:
+- Transplantation and Donation
+
+MeSH Headings:
+- Unrelated Donors
+- Living Donors
+- Tissue Donors
+
+Related Resources:
+
+Resource: Can I Donate My Blood or Organs if I've Had Cancer?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/survivorship/can-i-donate-my-organs-or-blood.html
+
+Resource: ClinicalTrials.gov: Living Donors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22Living+Donors%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tissue Donors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tissue+Donors%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Unrelated Donors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Unrelated+Donors%22&aggFilters=status:not%20rec
+
+Resource: How Organ Allocation Works
+Category: Specifics
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/organ-transplants/how-organ-allocation-works
+
+Resource: How Organ Donation Works
+Category: Related Issues
+Organization: Health Resources and Services Administration
+URL: https://www.organdonor.gov/learn/process
+
+Resource: How You Can Help Medical Research: Donating Your Blood, Tissue, and Other Samples
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/help-research-donate-tissue
+
+Resource: Living Donation
+Category: Learn More
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/organ-donation/living-donation
+
+Resource: Organ Donation FAQ
+Category: Start Here
+Organization: Health Resources and Services Administration
+URL: https://www.organdonor.gov/learn/faq
+
+Resource: Organ Donation: Don't Let These Myths Confuse You
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/organ-donation/art-20047529?p=1
+
+Resource: Organ Donation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Living+Donors%22%5Bmajr%3Anoexp%5D+OR+%22Tissue+Donors%22%5Bmajr%3Anoexp%5D+OR+%22Unrelated+Donors%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Who Can Donate?
+Category: Start Here
+Organization: Health Resources and Services Administration
+URL: https://www.organdonor.gov/learn/who-can-donate

@@ -1,0 +1,44 @@
+Title: Islet Cell Transplantation
+
+Summary:
+Islets are cells found in clusters throughout the
+pancreas
+. They are made up of several types of cells. One of these is beta cells, which make insulin. Insulin is a hormone that helps the body use glucose for energy. Islet cell transplantation transfers cells from an organ donor into the body of another person. It is an experimental treatment for
+type 1 diabetes
+.
+In type 1 diabetes, the beta cells of the pancreas no longer make insulin. A person who has type 1 diabetes must take insulin daily to live. Transplanted islet cells, however, can take over the work of the destroyed cells. The beta cells in these islets will begin to make and release insulin. Researchers hope islet transplantation will help people with type 1 diabetes live without daily insulin injections.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Endocrine System
+- Transplantation and Donation
+
+MeSH Headings:
+- Islets of Langerhans Transplantation
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Islet Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=islet+transplantation&aggFilters=status:not%20rec
+
+Resource: Deceased Donor Islet Cell Transplantation 101
+Category: Learn More
+Organization: Breakthrough T1D
+URL: https://www.breakthrought1d.org/news-and-updates/deceased-donor-islet-cell-transplantation-101/
+
+Resource: Pancreatic Islet Transplantation
+Category: Learn More
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments/pancreatic-islet-transplantation
+
+Resource: Islet Cell Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Islets+of+Langerhans+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers for Transplant Candidates about Pancreas, Pancreas-Kidney, and Islet Allocation
+Category: Learn More
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/resources/pancreas/questions-and-answers-for-transplant-candidates-about-pancreas-pancreas-kidney-islet-allocation

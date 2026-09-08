@@ -1,0 +1,102 @@
+Title: Lágrimas
+
+Also Called:
+- Trastornos del conducto nasolagrimal
+
+Summary:
+Usted quizás piense que las lágrimas son esas gotas saladas que salen de sus ojos cuando llora. En realidad, las lágrimas limpian sus ojos cada vez que usted parpadea. Las lágrimas también ayudan a mantener sus ojos húmedos, lo cual es importante para su vista.
+Las lágrimas son producidas por las glándulas lagrimales y el conducto lagrimal lleva estas lágrimas a los ojos. Los problemas con el sistema nasolagrimal incluyen la producción de demasiadas o de pocas lágrimas o problemas con los conductos lagrimales. El tratamiento depende de la causa.
+
+Groups:
+- Ojos y visión
+
+Related Resources:
+
+Resource: Canaliculitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/canaliculitis
+
+Resource: Cirugía para abrir un conducto lagrimal obstruido
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tear-duct-obstruct-surgery.html
+
+Resource: Dacrioadenitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001625.htm
+
+Resource: Dacriocistitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-los-p%C3%A1rpados-y-de-las-l%C3%A1grimas/dacriocistitis
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Lagrimal bloqueado
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/blocked-tear-duct/symptoms-causes/syc-20351369?p=1
+
+Resource: Obstrucción del conducto lagrimal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001016.htm
+
+Resource: Obstrucción del conducto lagrimal: Masajes en el conducto lagrimal (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tear_duct_massage_animation.html
+
+Resource: Ojos llorosos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003036.htm
+
+Resource: Perspectiva de un médico: La vida con ojo seco
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/la-perspectiva-de-un-medico-la-vida-con-ojo-seco
+
+Resource: Prueba de Schirmer
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003501.htm
+
+Resource: Síndrome del ojo seco
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/enfermedades-y-afecciones-de-los-ojos/sindrome-del-ojo-seco
+
+Resource: Síndrome del ojo seco
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000426.htm
+
+Resource: Tapones lagrimales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/tratamientos/tapones-lagrimales
+
+Resource: Tratamiento de las obstrucciones del conducto lagrimal con una sonda (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/tear_duct_probe_animation.html
+
+Resource: Tumor de las glándulas lagrimales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001611.htm
+
+Resource: ¿Qué es el ojo seco?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/ojo-seco
+
+Resource: ¿Tiene los ojos cansados y adoloridos?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/tiene-los-ojos-cansados-y-adoloridos

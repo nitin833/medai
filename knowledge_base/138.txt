@@ -1,0 +1,355 @@
+Title: Anatomy
+
+Summary:
+Anatomy is the science that studies the structure of the body. On this page, you'll find links to 
+descriptions and pictures of the human body's parts and organ systems from head to toe.
+
+Groups:
+- Digestive System
+- Blood, Heart and Circulation
+- Eyes and Vision
+- Bones, Joints and Muscles
+- Kidneys and Urinary System
+- Brain and Nerves
+- Lungs and Breathing
+- Ear, Nose and Throat
+- Mouth and Teeth
+- Skin, Hair and Nails
+- Pregnancy and Reproduction
+- Immune System
+- Endocrine System
+- Male Reproductive System
+
+MeSH Headings:
+- Anatomy
+
+Related Resources:
+
+Resource: About the Body Basics Library
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/body-basics.html
+
+Resource: About the Eye
+Category: Children
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/nei-for-kids/about-eye
+
+Resource: All About Your Brain & Nervous System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/brain-nervous-system.html
+
+Resource: Anatomy Videos
+Category: Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/anatomyvideos.html
+
+Resource: Appendicular Skeleton
+Category: Images
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/skeletal/divisions/appendicular.html
+
+Resource: Axial Skeleton
+Category: Images
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/skeletal/divisions/axial.html
+
+Resource: Biological Pathways
+Category: Specifics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Biological-Pathways-Fact-Sheet
+
+Resource: Blood
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/blood.html
+
+Resource: Brain
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/brain/tumors/anatomy/brain.html
+
+Resource: Brain Basics: The Life and Death of a Neuron
+Category: Related Issues
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-life-and-death-neuron
+
+Resource: Cell Structure
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/cells_tissues_membranes/cells/structure.html
+
+Resource: Chromosomes
+Category: Specifics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/about-genomics/fact-sheets/Chromosomes-Fact-Sheet
+
+Resource: Classification & Structure of Blood Vessels
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/cardiovascular/blood/classification.html
+
+Resource: Components of the Urinary System
+Category: Images
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/urinary/components/
+
+Resource: Ears
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ears.html
+
+Resource: Endocrine System
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/endocrine.html
+
+Resource: Female Reproductive System
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/female-reproductive-system.html
+
+Resource: Female Reproductive System
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/reproductive/female/
+
+Resource: Female Reproductive System (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/female-repro.html
+
+Resource: Get Excited about the Brain!
+Category: Children
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/get-excited-about-the-brain
+
+Resource: Hair, Skin, and Nails
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/skin-hair-nails.html
+
+Resource: How the Eyes Work
+Category: Images
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/how-eyes-work
+
+Resource: How the Heart Works
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: How the Lungs Work
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs
+
+Resource: How Your Body Controls Breathing
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lungs/body-controls-breathing
+
+Resource: Introduction to the Human Body
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/body/
+
+Resource: Introduction to the Lymphatic System
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/
+
+Resource: Larynx and Trachea
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/respiratory/passages/larynx.html
+
+Resource: Layers of the Skin
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/melanoma/anatomy/layers.html
+
+Resource: Lymph Nodes
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/nodes.html
+
+Resource: Male Reproductive System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/male-repro.html
+
+Resource: Mouth
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/digestive/regions/mouth.html
+
+Resource: Mouth and Teeth (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/mouth-teeth.html
+
+Resource: Muscles of the Head and Neck
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/groups/head_neck.html
+
+Resource: Muscles of the Lower Extremity
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/groups/lower.html
+
+Resource: Muscles of the Trunk
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/groups/trunk.html
+
+Resource: Muscles of the Upper Extremity
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/muscular/groups/upper.html
+
+Resource: Nose, Nasal Cavities & Paranasal Sinuses
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/respiratory/passages/nose.html
+
+Resource: Overview of the Immune System
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/research/immune-system-overview
+
+Resource: Pancreas Basics
+Category: Specifics
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/basics
+
+Resource: Pharynx
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/respiratory/passages/pharynx.html
+
+Resource: Pineal and Pituitary Glands
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/brain/tumors/anatomy/glands.html
+
+Resource: Anatomy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anatomy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Regions of the Digestive System
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/digestive/regions/
+
+Resource: Small & Large Intestine
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/digestive/regions/intestine.html
+
+Resource: Spleen
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/spleen.html
+
+Resource: Stomach
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/digestive/regions/stomach.html
+
+Resource: Structure of the Heart
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/cardiovascular/heart/structure.html
+
+Resource: The Immune System
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/immune.html
+
+Resource: Thymus
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/thymus.html
+
+Resource: Tonsils
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/lymphatic/components/tonsils.html
+
+Resource: Urinary Bladder
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://training.seer.cancer.gov/anatomy/urinary/components/bladder.html
+
+Resource: Your Bones
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/bones.html
+
+Resource: Your Digestive System
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/digestive-system.html
+
+Resource: Your Digestive System and How It Works
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works
+
+Resource: Your Ears (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/ears.html
+
+Resource: Your Eyes
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/eyes.html
+
+Resource: Your Kidneys
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/kidneys.html
+
+Resource: Your Kidneys and How They Work
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work
+
+Resource: Your Lungs and Respiratory System
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/lungs.html
+
+Resource: Your Muscles
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/muscles.html
+
+Resource: Your Nails
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/your-nails.html
+
+Resource: Your Nose
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/nose.html
+
+Resource: Your Skin
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/skin.html
+
+Resource: Your Teeth
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/teeth.html
+
+Resource: Your Tongue
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/tongue.html

@@ -1,0 +1,112 @@
+Title: Bereavement
+
+Also Called:
+- Grief
+
+Summary:
+Bereavement is the period of grief and mourning after a death. When you grieve, it's part of the normal process of reacting to a loss. You may experience grief as a mental, physical, social or emotional reaction. Mental reactions can include anger, guilt, anxiety, sadness and despair. Physical reactions can include sleeping problems, changes in appetite, physical problems or illness.
+How long bereavement lasts can depend on how close you were to the person who died, if the person's death was expected and other factors. Friends, family and faith may be sources of support. Grief counseling or grief therapy is also helpful to some people.
+NIH: National Cancer Institute
+
+Groups:
+- Mental Health and Behavior
+- Social/Family Issues
+
+MeSH Headings:
+- Bereavement
+
+Related Resources:
+
+Resource: 5 Ways to Cope When a Loved One Dies
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/coping-grief.html
+
+Resource: Bereavement and Grief
+Category: Start Here
+Organization: Mental Health America
+URL: https://mhanational.org/resources/bereavement-and-grief/
+
+Resource: Children and grief
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000749.htm
+
+Resource: ClinicalTrials.gov: Bereavement
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Bereavement%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Grief
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Grief%22&aggFilters=status:not%20rec
+
+Resource: Compassionate Friends
+Category: Find an Expert
+Organization: Compassionate Friends
+URL: https://www.compassionatefriends.org/
+
+Resource: Complicated Grief
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/complicated-grief/symptoms-causes/syc-20360374?p=1
+
+Resource: Coping With Grief and Loss
+Category: Related Issues
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/grief-and-mourning/coping-grief-and-loss
+
+Resource: Coping with Grief: Life after Loss
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/10/coping-grief
+
+Resource: Coping with the Loss of a Loved One
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/end-of-life-care/grief-and-loss.html
+
+Resource: Grief
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/someone-died.html
+
+Resource: Grief
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001530.htm
+
+Resource: Grief and Children
+Category: Children
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-And-Grief-008.aspx
+
+Resource: Grief and Loss as Alzheimer's Progresses
+Category: Older Adults
+Organization: Alzheimer's Association
+URL: https://www.alz.org/help-support/caregiving/caregiver-health/grief-loss-as-alzheimers-progresses
+
+Resource: Grief, Bereavement, and Loss
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/advanced-cancer/caregivers/planning/bereavement-pdq
+
+Resource: Helping Your Child Deal with Death
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/death.html
+
+Resource: How to Prepare a Child or Teen for the Death of a Parent or Loved One
+Category: Children
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/end-of-life-care/helping-children.html
+
+Resource: Bereavement
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bereavement%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Suicide Grief
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/complicated-grief/in-depth/suicide/art-20044900?p=1

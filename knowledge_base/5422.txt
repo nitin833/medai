@@ -1,0 +1,111 @@
+Title: Toddler Nutrition
+
+Summary:
+Food provides the energy and nutrients that young children need to be healthy. Toddlers are learning to feed themselves and to eat new foods.  They should eat a variety of foods from all of the food groups.
+Each day, toddlers need enough nutrients, including:
+7 milligrams of iron
+700 milligrams of calcium
+600 IU of vitamin D
+
+Groups:
+- Children and Teenagers
+- Food and Nutrition
+
+MeSH Headings:
+- Child Nutritional Physiological Phenomena
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Toddler Nutrition
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=toddler+nutrition&aggFilters=status:not%20rec
+
+Resource: Cow's milk and children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001973.htm
+
+Resource: Dietary Supplements for Toddlers
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/toddler/nutrition/pages/Dietary-Supplements-for-Toddlers.aspx
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Feeding patterns and diet - children 6 months to 2 years
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000713.htm
+
+Resource: Feeding Your 1- to 2-Year-Old
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/feed12yr.html
+
+Resource: Food and Nutrition Service Programs Contacts by State
+Category: Find an Expert
+Organization: Food and Nutrition Administration
+URL: https://www.fns.usda.gov/contacts/contact-map
+
+Resource: Healthy Food Choices for Your Family
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/gradeschool/nutrition/Pages/Making-Healthy-Food-Choices.aspx
+
+Resource: Infant and Toddler Nutrition
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/infant-toddler-nutrition/index.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Nutrition Guide for Toddlers
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toddler-food.html
+
+Resource: Preschooler Nutrition
+Category: Specifics
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/wellness-and-prevention/preschooler-nutrition
+
+Resource: Toddler Nutrition
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Child+Nutritional+Physiological+Phenomena%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Serving Sizes for Toddlers
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/toddler/nutrition/Pages/Serving-Sizes-for-Toddlers.aspx
+
+Resource: Snacks for Toddlers
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toddler-snacks.html
+
+Resource: Stopping the Bottle
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/no-bottles.html
+
+Resource: Toddlers at the Table: Avoiding Power Struggles
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toddler-meals.html
+
+Resource: Weaning Your Child
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/weaning.html
+
+Resource: What To Do When Your Toddler Won't Eat
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/what-to-do-when-your-toddler-wont-eat/

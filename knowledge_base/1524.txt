@@ -1,0 +1,133 @@
+Title: Klinefelter Syndrome
+
+Also Called:
+- XXY male
+
+Summary:
+What is Klinefelter syndrome (KS)?
+Klinefelter syndrome (KS) is a
+genetic condition
+that happens when a male is born with an extra copy of the X chromosome. KS can affect different stages of physical, language, and social development. It also usually causes
+infertility
+.
+What causes Klinefelter syndrome (KS)?
+KS is not inherited. It's caused by a random error that happens when a sperm or egg is formed. This error causes a male to be born with an extra X chromosome.
+Chromosomes are tiny "packages" in your cells that contain your genes. Genes carry information, called DNA, that controls what you look like and how your body works. Normally, you're born with a set of 46 chromosomes in each cell, two of which are the sex chromosomes. Females usually have two X chromosomes (XX), and males usually have one X and one Y (XY). In KS, the male usually has two X chromosomes and one Y (XXY).
+In rare cases, a male could have XY in some cells and XXY in other cells. This is called mosaic Klinefelter syndrome. Males with mosaic Klinefelter syndrome may have fewer symptoms, depending on the number of XY cells they have in their bodies and where those cells are located.
+What are the symptoms of Klinefelter syndrome (KS)?
+Some males with KS may have no symptoms or very mild symptoms. So they might not know that they have KS, or they might not get diagnosed with it right away. In other cases, the symptoms can be more severe.
+Boys with KS may be taller than other boys their age, with more fat around the belly. After puberty, they may have:
+Smaller testes and penis
+Breast growth (called gynecomastia)
+Less facial and body hair
+Reduced muscle tone
+Narrower shoulders and wider hips
+Weaker bones
+Decreased sexual interest
+Lower energy
+Many of these symptoms happen because of low testosterone in the body. Testosterone is the main male sex
+hormone
+.
+Boys with KS may also have
+learning
+or
+language
+problems. These problems may affect them socially, so they may be shy and quiet and can have trouble fitting in.
+Most males with KS are infertile because they make little or no sperm.
+How is Klinefelter syndrome (KS) diagnosed?
+A genetic test called a
+karyotype test
+can diagnose KS. This test can show if there are abnormal chromosomes, including if there is an extra X chromosome.
+What are the treatments for Klinefelter syndrome (KS)?
+There is no cure for KS, but treatments are available. The sooner the treatment is started, the better.  If treatment is started by early puberty, it will likely help in reducing the symptoms.
+Treatments for KS may include:
+Testosterone replacement therapy
+Surgery to remove or reduce breasts
+Physical, speech, behavioral, and occupational therapy
+In some cases,
+fertility treatments
+may help men with KS father children.
+NIH: National Institute of Child Health and Human Development
+
+Groups:
+- Genetics/Birth Defects
+- Men
+
+MeSH Headings:
+- Klinefelter Syndrome
+
+Related Resources:
+
+Resource: 48,XXXY syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/48xxxy-syndrome
+
+Resource: 49,XXXXY syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/49xxxxy-syndrome
+
+Resource: About Klinefelter Syndrome
+Category: Learn More
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Klinefelter-Syndrome
+
+Resource: About Klinefelter Syndrome
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/klinefelter/conditioninfo
+
+Resource: ClinicalTrials.gov: Klinefelter Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Klinefelter+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: How Do Health Care Providers Diagnose Klinefelter Syndrome (KS)?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/klinefelter/conditioninfo/diagnosed
+
+Resource: Karyotyping
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003935.htm
+
+Resource: Klinefelter Syndrome
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/klinefelter-syndrome/symptoms-causes/syc-20353949?p=1
+
+Resource: Klinefelter syndrome
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000382.htm
+
+Resource: Klinefelter Syndrome (For Teens)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/klinefelter.html
+
+Resource: Klinefelter syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/klinefelter-syndrome
+
+Resource: Other Klinefelter Syndrome (KS) FAQs
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/klinefelter/more_information/other-faqs
+
+Resource: Klinefelter Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Klinefelter+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Are Common Symptoms of Klinefelter Syndrome (KS)?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/klinefelter/conditioninfo/symptoms
+
+Resource: What Are the Treatments for Symptoms in Klinefelter Syndrome (KS)?
+Category: Learn More
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/klinefelter/conditioninfo/treatments

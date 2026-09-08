@@ -1,0 +1,380 @@
+Title: Migraine
+
+Summary:
+What are migraines?
+Migraines are a recurring type of headache. They cause moderate to severe pain that is throbbing or pulsing. The pain is often on one side of your head. You may also have other symptoms, such as nausea and weakness. You may be sensitive to light and sound.
+What causes migraines?
+Researchers believe that migraine has a genetic cause. There are also a number of factors that can trigger a migraine. These factors vary from person to person, and they include:
+Stress
+Anxiety
+Hormonal changes in women
+Bright or flashing lights
+Loud noises
+Strong smells
+Medicines
+Too much or not enough sleep
+Sudden changes in weather or environment
+Overexertion (too much physical activity)
+Tobacco
+Caffeine
+or caffeine withdrawal
+Skipped meals
+Medication overuse (taking medicine for migraines too often)
+Some people have found that certain foods or ingredients can trigger headaches, especially when they are combined with other triggers. These foods and ingredients include:
+Alcohol
+Chocolate
+Aged cheeses
+Monosodium glutamate (MSG)
+Some fruits and nuts
+Fermented or pickled goods
+Yeast
+Cured or processed meats
+Who is at risk for migraines?
+About 12% of Americans get migraines. They can affect anyone, but you are more likely to have them if you:
+Are a woman.
+Women are three times more likely than men to get migraines.
+Have a family history of migraines.
+Most people with migraines have family members who have migraines.
+Have other medical conditions,
+such as
+depression
+,
+anxiety
+,
+bipolar disorder
+,
+sleep disorders
+, and
+epilepsy
+.
+What are the symptoms of migraines?
+There are four different phases of migraines. You may not always go through every phase each time you have a migraine.:
+Prodome.
+This phase starts up to 24 hours before you get the migraine. You have early signs and symptoms, such as food cravings, unexplained mood changes, uncontrollable yawning, fluid retention, and increased urination.
+Aura.
+If you have this phase, you might see flashing or bright lights or zig-zag lines. You may have muscle weakness or feel like you are being touched or grabbed. An aura can happen just before or during a migraine.
+Headache.
+A migraine usually starts gradually and then becomes more severe. It typically causes throbbing or pulsing pain, which is often on one side of your head. But sometimes you can have a migraine without a headache. Other migraine symptoms may include
+Increased sensitivity to light, noise, and odors
+Nausea and vomiting
+Worsened pain when you move, cough, or sneeze
+Postdrome
+(following the headache). You may feel exhausted, weak, and confused after a migraine. This can last up to a day.
+Migraines are more common in the morning; people often wake up with them. Some people have migraines at predictable times, such as before menstruation or on weekends following a stressful week of work.
+How are migraines diagnosed?
+To make a diagnosis, your health care provider will:
+Take your medical history
+Ask about your symptoms
+Do a physical and neurological exam
+An important part of diagnosing migraines is to rule out other medical conditions which could be causing the symptoms. So you may also have blood tests, an
+MRI
+or
+CT
+scan, or other tests.
+How are migraines treated?
+There is no cure for migraines. Treatment focuses on relieving symptoms and preventing additional attacks.
+There are different types of medicines to relieve symptoms. They include triptan drugs, ergotamine drugs, and
+pain relievers
+. The sooner you take the medicine, the more effective it is.
+There are also other things you can do to feel better:
+Resting with your eyes closed in a quiet, darkened room
+Placing a cool cloth or ice pack on your forehead
+Drinking fluids
+There are some lifestyle changes you can make to prevent migraines:
+Stress management strategies, such as exercise, relaxation techniques, and biofeedback, may reduce the number and severity of migraines. Biofeedback uses electronic devices to teach you to control certain body functions, such as your heartbeat, blood pressure, and muscle tension.
+Make a log of what seems to trigger your migraines. You can learn what you need to avoid, such as certain foods and medicines. It also help you figure out what you should do, such as establishing a consistent sleep schedule and eating regular meals.
+Hormone therapy may help some women whose migraines seem to be linked to their
+menstrual cycle
+If you have
+obesity
+,
+losing weight
+may also be helpful
+If you have frequent or severe migraines, you may need to take medicines to prevent further attacks. Talk with your health care provider about which drug would be right for you.
+Certain natural treatments, such as riboflavin (vitamin B2) and coenzyme Q10, may help prevent migraines. If your magnesium level is low, you can try taking magnesium. There is also an herb, butterbur, which some people take to prevent migraines. But butterbur may not be safe for long-term use. Always check with your health care provider before taking any supplements.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Migraine Disorders
+
+Related Resources:
+
+Resource: 10 Common Migraine Triggers and How to Cope with Them
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/10-common-migraine-triggers-and-how-to-cope-with-them
+
+Resource: Abdominal Migraine
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/abdominal-migraine.html
+
+Resource: Abuse, Maltreatment and PTSD and Their Relationship to Migraine
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/abuse-maltreatment-and-ptsd-and-their-relationship-to-migraine/
+
+Resource: Acute Therapy: Why Not Over-The-Counter or Other Nonspecific Options?
+Category: Treatments and Therapies
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/acute-therapy-why-not-otc-options/
+
+Resource: Alcohol and Migraine
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/alcohol-and-migraine/
+
+Resource: Butterbur
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/butterbur
+
+Resource: Caffeine and Migraine
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/caffeine-and-migraine/
+
+Resource: Chronic Pain and Complementary Health Approaches
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/chronic-pain-and-complementary-health-approaches-usefulness-and-safety
+
+Resource: ClinicalTrials.gov: Migraine Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Migraine+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Commonly Used Acute Migraine Treatments
+Category: Treatments and Therapies
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/acute-migraine-treatments/
+
+Resource: Cyclic vomiting syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cyclic-vomiting-syndrome
+
+Resource: Diet and Headache Control
+Category: Living With
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/diet/
+
+Resource: Do I Need an MRI for My Migraine?
+Category: Diagnosis and Tests
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/do-i-need-an-mri-for-my-migraine/
+
+Resource: Familial hemiplegic migraine: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-hemiplegic-migraine
+
+Resource: Feverfew
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/feverfew
+
+Resource: Find a Migraine and Headache Specialist
+Category: Find an Expert
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/find-a-doctor/
+
+Resource: Headache
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/headache
+
+Resource: Headache Hygiene -- What Is It?
+Category: Living With
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/what-is-headache-hygiene/
+
+Resource: Headache Tests
+Category: Diagnosis and Tests
+Organization: National Headache Foundation
+URL: https://headaches.org/resources/headache-tests/
+
+Resource: Headaches: What You Need to Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/headaches-what-you-need-to-know
+
+Resource: Helping Friends and Family Understand Migraines
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/helping-friends-and-family-understand-migraines
+
+Resource: How Aura May Trigger Migraine Pain
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/09/how-aura-may-trigger-migraine-pain
+
+Resource: How to Know If You Have Migraine or Sinus Headache
+Category: Diagnosis and Tests
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/sinus-headache/
+
+Resource: Kristin Chenoweth Wants to Put Migraine Awareness Center Stage
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/kristin-chenoweth-wants-to-put-migraine-awareness-center-stage
+
+Resource: Link Between Migraine, Depression and Anxiety
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/link-between-migraine-depression-anxiety/
+
+Resource: Low-Tyramine Diet for Individuals with Headache or Migraine
+Category: Living With
+Organization: National Headache Foundation
+URL: https://headaches.org/resources/low-tyramine-diet-for-individuals-with-headache-or-migraine/
+
+Resource: Managing migraines at home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000420.htm
+
+Resource: Migraine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000709.htm
+
+Resource: Migraine
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/migraine
+
+Resource: Migraine
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/migraine
+
+Resource: Migraine
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/symptoms-causes/syc-20360201?p=1
+
+Resource: Migraine and Common Comorbidities
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/migraine-comorbidities/
+
+Resource: Migraine Headaches
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/migraines.html
+
+Resource: Migraine Medications and Antidepressants: A Risky Mix?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/expert-answers/migraine-medications/faq-20058166?p=1
+
+Resource: Migraine Studies Look at Impact of Lifestyle Changes
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/migraine-studies-look-at-impact-of-lifestyle-changes
+
+Resource: Migraine Variants in Children
+Category: Children
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/migraine-variants-in-children/
+
+Resource: Migraine with Aura
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-with-aura/symptoms-causes/syc-20352072?p=1
+
+Resource: Migraine: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/migraine
+
+Resource: Migraine: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/migraine-what-you-need-to-know
+
+Resource: Migraines and Gastrointestinal Problems: Is There a Link?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/expert-answers/migraines/faq-20058268?p=1
+
+Resource: Migraines: Are They Triggered by Weather Changes?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/expert-answers/migraine-headache/faq-20058505?p=1
+
+Resource: Migraines: Simple Steps to Head Off the Pain
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/in-depth/migraines/art-20047242?p=1
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Not All Headaches Are the Same
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/not-all-headaches-are-the-same
+
+Resource: Ocular Migraine: When to Seek Help
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/migraine-headache/expert-answers/ocular-migraine/faq-20058113?p=1
+
+Resource: Migraine
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Migraine+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Relaxation Techniques: What You Need to Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know
+
+Resource: Serotonin syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007272.htm
+
+Resource: Sporadic hemiplegic migraine: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sporadic-hemiplegic-migraine
+
+Resource: Stress and Migraine
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/stress-migraine/
+
+Resource: Tips for Starting Yoga in Adults with Migraines
+Category: Treatments and Therapies
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/understanding-migrainetips-for-starting-yoga-in-adults-with-migraines/
+
+Resource: Treating Migraines: Ways to Fight the Pain with Medication
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/treating-migraines-ways-fight-pain-medication
+
+Resource: Visual Disturbances: Related to Migraine or Not?
+Category: Diagnosis and Tests
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/visual-disturbances-migraine/
+
+Resource: What Is Allodynia: Causes, Symptoms and Treatments
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/what-is-allodynia/
+
+Resource: What to Know about Allodynia
+Category: Related Issues
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/what-to-know-about-allodynia/
+
+Resource: When Migraine Turns Chronic
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/when-migraine-turns-chronic
+
+Resource: When to Go to the Emergency Room for a Headache or Migraine
+Category: Diagnosis and Tests
+Organization: American Migraine Foundation
+URL: https://americanmigrainefoundation.org/resource-library/when-to-go-to-the-er-for-headache-migraine/

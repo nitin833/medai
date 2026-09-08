@@ -1,0 +1,120 @@
+Title: Diabetic Nerve Problems
+
+Also Called:
+- Diabetic neuropathy
+
+Summary:
+If you have
+diabetes
+, your blood glucose, or
+blood sugar
+, levels are too high.  Over time, this can damage the covering on your nerves or the blood vessels that bring oxygen to your nerves. Damaged nerves may stop sending messages, or may send messages slowly or at the wrong times.
+This damage is called diabetic neuropathy.  Over half of people with diabetes get it.  Symptoms may include:
+Numbness in your hands, legs, or
+feet
+Shooting pains, burning, or tingling
+Nausea, vomiting, constipation, or diarrhea
+Problems with sexual function
+Urinary problems
+Dizziness when you change positions quickly
+Your doctor will diagnose diabetic neuropathy with a physical exam and nerve tests. Controlling your blood sugar can help prevent nerve problems, or keep them from getting worse. Treatment may include pain relief and other medicines.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Brain and Nerves
+- Endocrine System
+- Diabetes Mellitus
+
+MeSH Headings:
+- Diabetic Neuropathies
+
+Related Resources:
+
+Resource: Additional Types of Neuropathy
+Category: Specifics
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/complications/neuropathy/additional-types-neuropathy
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Autonomic Neuropathy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/autonomic-neuropathy/symptoms-causes/syc-20369829?p=1
+
+Resource: Autonomic Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/autonomic-testing/
+
+Resource: ClinicalTrials.gov: Diabetic Neuropathies
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Diabetic+Neuropathies%22&aggFilters=status:not%20rec
+
+Resource: Cranial mononeuropathy III - diabetic type
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000692.htm
+
+Resource: Diabetes and nerve damage
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000693.htm
+
+Resource: Diabetes, Sexual, and Bladder Problems
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/sexual-bladder-problems
+
+Resource: Gastroparesis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gastroparesis
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Nerve Damage (Diabetic Neuropathies)
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/nerve-damage-diabetic-neuropathies
+
+Resource: Nerve damage from diabetes - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000326.htm
+
+Resource: Peripheral Neuropathy
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/peripheral-neuropathy
+
+Resource: Diabetic Nerve Problems
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diabetic+Neuropathies%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Symptoms of Peripheral Neuropathy
+Category: Symptoms
+Organization: Foundation for Peripheral Neuropathy
+URL: https://www.foundationforpn.org/symptoms/
+
+Resource: Therapies for Treating Diabetic Nerve Pain
+Category: Treatments and Therapies
+Organization: American Academy of Neurology
+URL: https://www.aan.com/Guidelines/home/GetGuidelineContent/481
+
+Resource: Your Feet and Diabetes
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-feet.html

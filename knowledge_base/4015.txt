@@ -1,0 +1,124 @@
+Title: Mesotelioma
+
+Summary:
+El tejido que recubre los pulmones, el estómago, el corazón y otros órganos se llama mesotelio. El mesotelioma, también conocido como mesotelioma maligno, es un cáncer que afecta a ese tejido. Suele comenzar en los pulmones, pero también puede comenzar en el abdomen u otros órganos.
+El mesotelioma es raro pero serio. La mayoría de las personas que lo padece ha vivido y trabajado en lugares donde inhalaron partículas de
+asbesto
+. Tras haber sido expuesto al asbesto, en general toma mucho tiempo para que la enfermedad aparezca.
+Los síntomas incluyen:
+Problemas para respirar
+Tos
+Dolor debajo de la caja torácica
+Dolor, hinchazón o bultos en el abdomen
+Pérdida de peso sin causa aparente
+Coágulos de sangre
+Estreñimiento
+Fatiga
+A veces, es difícil reconocer la diferencia entre el mesotelioma maligno y el cáncer de pulmón. Para saber si tiene mesotelioma, su profesional de la salud probablemente usará un examen físico,
+pruebas de imágenes
+y una
+biopsia
+.
+Con frecuencia, el mesotelioma maligno se detecta cuando ya está avanzado. Esto lo hace más difícil de tratar. Las opciones de tratamiento incluyen
+Cirugía
+Radioterapia
+Quimioterapia
+Inmunoterapia
+Terapia dirigida, la que usa medicamentos u otras sustancias para combatir células cancerosas específicas con menor daño a las células normales
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Alta después de una quimioterapia
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000012.htm
+
+Resource: Alta tras radiación abdominal
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000054.htm
+
+Resource: Alta tras radiación en el tórax
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000057.htm
+
+Resource: Enteritis por radiación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000300.htm
+
+Resource: Estadios del mesotelioma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mesotelioma/estadios
+
+Resource: Exposición al asbesto y el riesgo de cáncer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/asbesto/hoja-informativa-asbesto
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Mesotelioma
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mesothelioma/symptoms-causes/syc-20375022?p=1
+
+Resource: Mesotelioma benigno y fibroso
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000116.htm
+
+Resource: Mesotelioma infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mesotelioma/infantil
+
+Resource: Mesotelioma maligno
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000115.htm
+
+Resource: Mesotelioma maligno
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/mesotelioma-maligno.html
+
+Resource: Quimioterapia para tratar el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/quimioterapia
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Rayos X del tórax
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/chestrad
+
+Resource: Si usted tiene mesotelioma maligno
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/mesotelioma-maligno/si-usted-tiene-mesotelioma-maligno.html
+
+Resource: Tratamiento del mesotelioma
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mesotelioma/tratamiento
+
+Resource: ¿Qué es el mesotelioma?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/mesotelioma/que-es-mesotelioma

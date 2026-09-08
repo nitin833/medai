@@ -1,0 +1,141 @@
+Title: Potassium
+
+Summary:
+Potassium is a
+mineral
+that your body needs to work properly. It is a type of
+electrolyte
+. It helps your nerves to function and muscles to contract. It helps your heartbeat stay regular. It also helps move nutrients into cells and waste products out of cells. A diet rich in potassium helps to offset some of
+sodium's
+harmful effects on blood pressure.
+Many people get all the potassium they need from what they eat and drink. Sources of potassium in the diet include:
+Leafy greens, such as spinach and collards
+Fruit from vines, such as grapes and blackberries
+Root vegetables, such as carrots and potatoes
+Citrus fruits, such as oranges and grapefruit
+Your kidneys help to keep the right amount of potassium in your body. If you have
+chronic kidney disease
+, your kidneys may not remove extra potassium from the blood. Some medicines also can raise your potassium level. You may need a special diet to lower the amount of potassium that you eat.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Potassium, Dietary
+- Potassium
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Hyperkalemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperkalemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hypokalemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypokalemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Potassium
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Potassium%22&aggFilters=status:not%20rec
+
+Resource: Diuretics: A Cause of Low Potassium?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058432?p=1
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: High Potassium (Hyperkalemia)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/hyperkalemia/basics/definition/SYM-20050776?p=1
+
+Resource: High potassium level
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001179.htm
+
+Resource: How Potassium Can Help Prevent or Treat High Blood Pressure
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/how-potassium-can-help-control-high-blood-pressure
+
+Resource: Hypokalemic periodic paralysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000312.htm
+
+Resource: Low blood potassium
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000479.htm
+
+Resource: Low Potassium (Hypokalemia)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/low-potassium/basics/definition/SYM-20050632?p=1
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Potassium
+Category: Related Issues
+Organization: Harvard School of Public Health
+URL: https://nutritionsource.hsph.harvard.edu/potassium/
+
+Resource: Potassium
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Potassium-Consumer/
+
+Resource: Potassium Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/potassium-blood-test/
+
+Resource: Potassium in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002413.htm
+
+Resource: Potassium in Your CKD Diet
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/potassium-your-ckd-diet
+
+Resource: Potassium test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003484.htm
+
+Resource: Potassium urine test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003600.htm
+
+Resource: Potassium
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Potassium%2C+Dietary%22%5Bmajr%3Anoexp%5D+OR+%22Potassium%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What is Potassium?
+Category: Start Here
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/essential-nutrients/minerals/what-is-potassium

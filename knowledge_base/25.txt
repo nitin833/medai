@@ -1,0 +1,699 @@
+Title: Cancer
+
+Also Called:
+- Carcinoma
+- Malignancy
+- Neoplasms
+- Tumor
+
+Summary:
+What is cancer?
+Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
+Tumors can be benign or malignant.
+Benign tumors
+aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.
+What are the types of cancer?
+There are more than 100 different types of cancer. Cancer can start almost anywhere in your body. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast.
+Cancer may also be described by the type of cell that formed it, such as sarcoma if cancer begins in your bone and soft tissue. Carcinoma is the most common type of cancer. It is formed by epithelial cells, the cells that cover the inside and outside surfaces of your body.
+How does cancer develop?
+Cancer is a
+genetic
+disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.
+Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:
+Exposure to
+ultraviolet (UV) rays from the sun
+Smoking
+Your
+diet
+Physical inactivity
+What are the symptoms of cancer?
+Cancer symptoms depend on the type of cancer. For example, some of the symptoms that cancer may cause can include:
+A lump in your breast
+Blood in your urine (pee) or stool (poop)
+Bleeding
+or
+bruising
+for no known reason
+A sore that doesn't heal
+Trouble swallowing
+A new mole or a change to a mole you already have
+Cancer may cause various symptoms but often doesn't cause pain. Don't wait until you're having pain before seeing your health care provider. See your provider if you have symptoms that don't get better in a few weeks.
+How is cancer diagnosed?
+There is no single test that can diagnose cancer. The tests ordered are usually based on your symptoms. Your provider may:
+Ask about your
+medical history
+Ask about your
+family health history
+, including relatives who have had cancer
+Do a
+physical exam
+Do a
+screening test
+such as a
+mammogram
+,
+colonoscopy
+, or a
+Pap test
+Order blood tests or
+imaging tests
+To find out if you have cancer, your provider may order a
+biopsy
+. A biopsy is the procedure of removing and examining tissue, cells, or fluids from your body.
+What are the treatments for cancer?
+Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery,
+radiation
+, and/or
+chemotherapy
+. Some may involve hormone therapy,
+immunotherapy
+or other types of biological therapy, or
+stem cell transplantation
+.
+Can cancer be prevented?
+It's usually not possible to know exactly why cancer develops in some people but not others. There are some things that you can't control which may increase or decrease your risk of getting cancer, such as inheriting certain genes or your age. But some lifestyle habits may increase your risk of certain types of cancer. Avoid or reduce lifestyle habits such as:
+Smoking and tobacco use
+Having too much sun exposure
+Drinking too much
+alcohol
+Not getting enough physical activity
+Having
+obesity
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+
+MeSH Headings:
+- Neoplasms
+
+Related Resources:
+
+Resource: A to Z List of Cancer Drugs
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs
+
+Resource: About Cancer Clinical Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/about-cancer-clinical-research
+
+Resource: Adjusting to Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer
+
+Resource: Adjuvant Therapy: Treatment to Keep Cancer from Returning
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/adjuvant-therapy/art-20046687?p=1
+
+Resource: Adolescents and Young Adults with Cancer
+Category: Teenagers
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/aya
+
+Resource: Advance Directives
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/managing-care/advance-directives
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Angiogenesis Inhibitors
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/immunotherapy/angiogenesis-inhibitors-fact-sheet
+
+Resource: Antioxidants and Cancer Prevention
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet
+
+Resource: BAP1 tumor predisposition syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bap1-tumor-predisposition-syndrome
+
+Resource: Biopsy: Types of Biopsy Procedures Used to Diagnose Cancer
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/biopsy/art-20043922?p=1
+
+Resource: Bloom syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bloom-syndrome
+
+Resource: Cancer
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/cancer/
+
+Resource: Cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001289.htm
+
+Resource: Cancer Alternative Therapies: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/canceralternativetherapies.html
+
+Resource: Cancer and lymph nodes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000824.htm
+
+Resource: Cancer and Men
+Category: Men
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/features/cancer-and-men.html
+
+Resource: Cancer and Women
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/features/cancer-and-women.html
+
+Resource: Cancer Causes: Popular Myths about the Causes of Cancer
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer-causes/art-20044714?p=1
+
+Resource: Cancer Chemotherapy: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cancerchemotherapy.html
+
+Resource: Cancer Clinical Trials at the National Institutes of Health Clinical Center
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/clinical-center
+
+Resource: Cancer Clusters
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/cancer-clusters-fact-sheet
+
+Resource: Cancer Data and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/data/
+
+Resource: Cancer Immunotherapy: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cancerimmunotherapy.html
+
+Resource: Cancer in Children: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cancerinchildren.html
+
+Resource: Cancer Prevention Overview
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/patient-prevention-overview-pdq
+
+Resource: Cancer prevention: take charge of your lifestyle
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000825.htm
+
+Resource: Cancer Screening Overview
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq
+
+Resource: Cancer Staging
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/staging
+
+Resource: Cancer Statistics
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/understanding/statistics
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Cancer Surgery: Physically Removing Cancer
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer-surgery/art-20044171?p=1
+
+Resource: Cancer treatment - early menopause
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000912.htm
+
+Resource: Cancer treatment - preventing infection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000913.htm
+
+Resource: Cancer treatments
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000901.htm
+
+Resource: Cancer--Living with Cancer: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cancerlivingwithcancer.html
+
+Resource: Carcinoma of Unknown Primary Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/unknown-primary/patient/unknown-primary-treatment-pdq
+
+Resource: CEA blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003574.htm
+
+Resource: Chemicals in Meat Cooked at High Temperatures and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cooked-meats-fact-sheet
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: Clinical Trials Information for Patients and Caregivers
+Category: Clinical Trials
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials
+
+Resource: ClinicalTrials.gov: Carcinoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carcinoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Common Cancer Myths and Misconceptions
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/myths
+
+Resource: Computed Tomography (CT) Scans and Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/ct-scans-fact-sheet
+
+Resource: Cowden syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cowden-syndrome
+
+Resource: CSF analysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003369.htm
+
+Resource: CSF cell count
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003625.htm
+
+Resource: DICER1 syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dicer1-syndrome
+
+Resource: Diet and cancer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002096.htm
+
+Resource: Drugs Approved for Solid Tumors Anywhere in the Body
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/solid-tumors
+
+Resource: Emotions and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/feelings
+
+Resource: Exams and Tests for Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests.html
+
+Resource: Extragonadal Germ Cell Tumors Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/extragonadal-germ-cell/patient/extragonadal-treatment-pdq
+
+Resource: Finding Cancer Care
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/managing-care/finding-cancer-care
+
+Resource: Fine Needle Aspiration
+Category: Diagnosis and Tests
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/fine-needle-aspiration/
+
+Resource: Genetic testing and your cancer risk
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000842.htm
+
+Resource: Genetic Testing for Cancer Risk
+Category: Genetics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/genetics/genetic-testing-for-cancer-risk.html
+
+Resource: Genetic Testing for Inherited Cancer Risk
+Category: Genetics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet
+
+Resource: Genetics of Cancer
+Category: Genetics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/genetics
+
+Resource: Hair Dyes, Other Hair Products, and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/hair-dyes-fact-sheet
+
+Resource: How Cancer Is Diagnosed
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis
+
+Resource: How to research cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000927.htm
+
+Resource: How to tell your child that you have cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000934.htm
+
+Resource: Hyperthermia for treating cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000904.htm
+
+Resource: Hyperthermia to Treat Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/hyperthermia
+
+Resource: Immunotherapy to Treat Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/immunotherapy
+
+Resource: Informal Caregivers in Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq
+
+Resource: Karyotype Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/karyotype-genetic-test/
+
+Resource: Lactate Dehydrogenase (LDH) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-dehydrogenase-ldh-test/
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: Laser therapy for cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000905.htm
+
+Resource: Lasers to Treat Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/surgery/lasers
+
+Resource: Lowering Your Cancer Risk: Healthy Living for Cancer Prevention
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/02/lowering-your-cancer-risk
+
+Resource: Lymphangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003798.htm
+
+Resource: Malignant teratoma of the mediastinum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001316.htm
+
+Resource: Metastatic Cancer: When Cancer Spreads
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/metastatic-cancer
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Cancer Institute News
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI's Clinical Trials Programs and Initiatives
+Category: Clinical Trials
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/clinical-trials
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Nuclear Medicine Scans for Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/diagnosis-staging/tests/imaging-tests/nuclear-medicine-scans-for-cancer.html
+
+Resource: Obesity and Cancer
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/risk-factors/obesity.html
+
+Resource: Obesity and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/obesity-fact-sheet
+
+Resource: Pathology Reports
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet
+
+Resource: Peutz-Jeghers syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000244.htm
+
+Resource: Peutz-Jeghers syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/peutz-jeghers-syndrome/
+
+Resource: Photodynamic therapy for cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000906.htm
+
+Resource: Physical Activity and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/obesity/physical-activity-fact-sheet
+
+Resource: Pleural fluid analysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003624.htm
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radiation Therapy: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/radiationtherapy.html
+
+Resource: Recurrent Cancer: When Cancer Comes Back
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/recurrent-cancer
+
+Resource: Rhabdoid tumor predisposition syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/rhabdoid-tumor-predisposition-syndrome
+
+Resource: Sentinel Lymph Node Biopsy
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/staging/sentinel-node-biopsy-fact-sheet
+
+Resource: Statistics and Graphs: Cancer Survivorship
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://cancercontrol.cancer.gov/ocs/statistics
+
+Resource: Stay Away from Tobacco
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/tobacco.html
+
+Resource: Stress and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/feelings/stress-fact-sheet
+
+Resource: Syndrome of inappropriate antidiuretic hormone secretion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000314.htm
+
+Resource: Talking with a child about a parent's terminal illness
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000848.htm
+
+Resource: Targeted therapies for cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000902.htm
+
+Resource: Targeted therapy: questions to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000829.htm
+
+Resource: Tobacco
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://canceratlas.cancer.org/risk-factors/tobacco/
+
+Resource: Tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001310.htm
+
+Resource: Tumor Grade
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-grade
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Tumor Markers
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet
+
+Resource: Understanding Cancer Prognosis
+Category: Videos and Tutorials
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/diagnosis-staging/prognosis
+
+Resource: Understanding cancer staging
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000850.htm
+
+Resource: Understanding your cancer prognosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000926.htm
+
+Resource: Upper airway biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003856.htm
+
+Resource: Vaccinations and Flu Shots for People with Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/infections/vaccination-during-cancer-treatment.html
+
+Resource: Vitamin D and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/vitamin-d-fact-sheet
+
+Resource: Werner syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/werner-syndrome
+
+Resource: What if cancer comes back?
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000833.htm
+
+Resource: What Is Cancer?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+
+Resource: When Cancer Spreads: Improving Treatments for Metastasis
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/08/when-cancer-spreads
+
+Resource: When your cancer treatment stops working
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000851.htm
+
+Resource: Your cancer care team
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000929.htm
+
+Resource: Your cancer diagnosis - Do you need a second opinion?
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000930.htm

@@ -1,0 +1,121 @@
+Title: Antioxidants
+
+Summary:
+Antioxidants are man-made or natural substances that may prevent or delay some types of cell damage. Antioxidants are found in many foods, including fruits and vegetables. They are also available as dietary supplements. Examples of antioxidants include:
+Beta-carotene
+Lutein
+Lycopene
+Selenium
+Vitamin A
+Vitamin C
+Vitamin E
+Vegetables and fruits are rich sources of antioxidants. There is good evidence that eating a diet with lots of vegetables and fruits is healthy and lowers risks of certain diseases. But it isn't clear whether this is because of the antioxidants, something else in the foods, or other factors.
+High-dose supplements of antioxidants may be linked to health risks in some cases. For example, high doses of beta-carotene may increase the risk of lung cancer in smokers. High doses of vitamin E may increase risks of prostate cancer and one type of stroke. Antioxidant supplements may also interact with some medicines. To minimize risk, tell your health care providers about any antioxidants you use.
+NIH: National Center for Complementary and Integrative Health
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Antioxidants
+
+Related Resources:
+
+Resource: Antioxidant Supplements: What You Need To Know
+Category: Start Here
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/antioxidant-supplements-what-you-need-to-know
+
+Resource: Antioxidants
+Category: Start Here
+Organization: Harvard School of Public Health
+URL: https://www.hsph.harvard.edu/nutritionsource/antioxidants/
+
+Resource: Antioxidants and Cancer Prevention
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet
+
+Resource: Antioxidants: Protecting Healthy Cells
+Category: Start Here
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/essential-nutrients/vitamins/antioxidants-protecting-healthy-cells
+
+Resource: ClinicalTrials.gov: Antioxidants
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=antioxidants&aggFilters=status:not%20rec
+
+Resource: Coenzyme Q10
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/coenzyme-q10-pdq
+
+Resource: Cranberry
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/cranberry
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Grape Seed Extract
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/grape-seed-extract
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Noni
+Category: Specifics
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/noni
+
+Resource: Antioxidants
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Antioxidants%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Red Wine and Resveratrol: Good for Your Heart?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/heart-disease/in-depth/red-wine/art-20048281?p=1
+
+Resource: Selenium
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Selenium-Consumer/
+
+Resource: Sweet on chocolate? It's what's inside - cocoa powder - that counts
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/news/2024/01/10/sweet-on-chocolate-its-whats-inside-cocoa-powder-that-counts
+
+Resource: Vitamin A and Carotenoids
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminA-Consumer/
+
+Resource: Vitamin C
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminC-Consumer/
+
+Resource: Vitamin E
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminE-Consumer/
+
+Resource: Zinc
+Category: Specifics
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Zinc-Consumer/

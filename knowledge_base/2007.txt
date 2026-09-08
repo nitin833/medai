@@ -1,0 +1,73 @@
+Title: Infecciones por Listeria
+
+Also Called:
+- Listeria
+- Listeriosis
+
+Summary:
+La listeriosis es una
+enfermedad transmitida por alimentos
+causada por la listeria monocytogenes, una bacteria que se encuentra en la tierra y el agua. Puede encontrarse en una variedad de alimentos crudos, así como en alimentos procesados y hechos con leche no pasteurizada. La listeria es distinta a muchos otros gérmenes porque puede crecer incluso dentro de las temperaturas frías de un refrigerador.
+Los síntomas incluyen fiebre y escalofríos, dolor de cabeza, malestar estomacal y vómitos.  El tratamiento es con antibióticos.
+Cualquiera puede contraer la enfermedad. Pero es más probable que afecte a las mujeres embarazadas, fetos, personas de edad avanzada y personas con el sistema inmunitario debilitado. Para reducir el riesgo:
+Use los alimentos precocidos y las comidas listas para consumir lo antes que pueda
+Evite la leche y los productos lácteos sin pasteurizar
+Caliente los alimentos listos para consumir y las sobras hasta que les salga vapor
+Lave las frutas frescas y las verduras
+Evite las carnes y los mariscos ahumados poco cocidos
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cómo prevenir la infección por Listeria
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/listeria/es/prevention/prevention.html
+
+Resource: Historia de Maribel (video de una fotonovela)
+Category: Interactivos y videos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.youtube.com/watch?v=l9gM83X3wRI
+
+Resource: Infección por listeria (listeriosis)
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/listeriosis/
+
+Resource: Intoxicación alimentaria durante el embarazo
+Category: Spanish/Español, Mujeres
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/intoxicacion-alimentaria-durante-el-embarazo.aspx
+
+Resource: Listeria: Seguridad alimentaria para futuras mamás
+Category: Mujeres, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/food/people-risk-foodborne-illness/listeria-seguridad-alimentaria-para-futuras-mamas
+
+Resource: Listeriosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001380.htm
+
+Resource: Listeriosis (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/listeria.html
+
+Resource: Manipulación especial para alimentos refrigerados listos para consumir
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/media/78644/download
+
+Resource: Síntomas (de la listeria)
+Category: Spanish/Español, Síntomas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/listeria/symptoms.html

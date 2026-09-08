@@ -1,0 +1,131 @@
+Title: Shock
+
+Summary:
+Shock happens when not enough blood and oxygen can get to your organs and tissues.  It causes very low blood pressure and may be life-threatening. It often happens along with a serious injury.
+There are several kinds of shock. Hypovolemic shock happens when you lose a lot of blood or fluids. Causes include internal or external bleeding, dehydration, burns, and severe vomiting and/or diarrhea. Septic shock is caused by infections in the bloodstream. A severe allergic reaction can cause
+anaphylactic shock
+. An insect bite or sting might cause it. Cardiogenic shock happens when the heart cannot pump blood effectively. This may happen after a heart attack. Neurogenic shock is caused by damage to the nervous system.
+Symptoms of shock include:
+Confusion or lack of alertness
+Loss of consciousness
+Sudden and ongoing rapid heartbeat
+Sweating
+Pale skin
+A weak pulse
+Rapid breathing
+Decreased or no urine output
+Cool hands and feet
+Shock is a life-threatening medical emergency and it is important to get help right away. Treatment of shock depends on the cause.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Shock
+
+Related Resources:
+
+Resource: American College of Emergency Physicians
+Category: Find an Expert
+Organization: American College of Emergency Physicians
+URL: https://www.acep.org/
+
+Resource: Anaphylaxis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000844.htm
+
+Resource: Anaphylaxis in Infants and Children: Responding to Severe Allergic Reactions
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Anaphylaxis.aspx
+
+Resource: Anaphylaxis-Like Reactions
+Category: Related Issues
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/anaphylaxis/reactions?modal=1
+
+Resource: Anaphylaxis: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-anaphylaxis/basics/art-20056608?p=1
+
+Resource: Cardiogenic shock
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000185.htm
+
+Resource: ClinicalTrials.gov: Shock
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Shock%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Shock, Septic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Shock,+Septic%22&aggFilters=status:not%20rec
+
+Resource: Hypovolemic shock
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000167.htm
+
+Resource: Lactate Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lactate-test/
+
+Resource: Procalcitonin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/procalcitonin-test/
+
+Resource: Shock
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Shock%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sepsis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/sepsis/symptoms-causes/syc-20351214?p=1
+
+Resource: Septic shock
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000668.htm
+
+Resource: Serious Allergic Reactions (Anaphylaxis)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/anaphylaxis.html
+
+Resource: Shock
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000039.htm
+
+Resource: Shock
+Category: Treatments and Therapies
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/know-when-to-go/shock
+
+Resource: Shock: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-shock/basics/art-20056620?p=1
+
+Resource: Toxic Shock Syndrome
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/toxic-shock-syndrome/symptoms-causes/syc-20355384?p=1
+
+Resource: Toxic Shock Syndrome (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/tss.html
+
+Resource: What Is Cardiogenic Shock?
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/cardiogenic-shock

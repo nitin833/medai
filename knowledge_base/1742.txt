@@ -1,0 +1,297 @@
+Title: Anatomía
+
+Summary:
+Anatomía es la ciencia que estudia la estructura del cuerpo. En esta página, encontrará enlaces a descripciones e imágenes de partes del cuerpo humano y sistemas de órganos de la cabeza a los pies.
+
+Groups:
+- Sistema digestivo
+- Sangre, corazón y circulación
+- Ojos y visión
+- Huesos, articulaciones y músculos
+- Riñones y sistema urinario
+- Cerebro y nervios
+- Pulmón y vías respiratorias
+- Oído, nariz y garganta
+- Salud oral y dental
+- Piel, cabello y uñas
+- Embarazo y reproducción
+- Sistema inmunitario
+- Sistema endocrino
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Acerca de la Biblioteca de aspectos básicos del cuerpo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/body-basics.html
+
+Resource: Anatomía del corazón
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon/
+
+Resource: Anatomía del corazón y del aparato cardiovascular
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/anatomia-del-corazon-y-del-aparato-cardiovascular/
+
+Resource: Aparato digestivo
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/digest.html
+
+Resource: Aparato digestivo
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/digestive-system.html
+
+Resource: Aparato digestivo y su funcionamiento
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/aparato-digestivo-funcionamiento
+
+Resource: Aparato endocrino
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/endocrine.html
+
+Resource: Aparato reproductor femenino
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/female-repro.html
+
+Resource: Aparato reproductor femenino
+Category: Spanish/Español, Mujeres
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/female-reproductive-system.html
+
+Resource: Aparato reproductor masculino
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/male-repro.html
+
+Resource: Aparato urinario (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/pee.html
+
+Resource: Bazo y sistema linfático
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/spleen.html
+
+Resource: Boca y los dientes
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/mouth-teeth.html
+
+Resource: Boca y los dientes
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/mouth-teeth.html
+
+Resource: Cerebro y sistema nervioso (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/brain.html
+
+Resource: Cromosomas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Cromosomas
+
+Resource: Cómo funciona el corazón
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/corazon
+
+Resource: Cómo funcionan los ojos
+Category: Spanish/Español, Imágenes
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/como-funcionan-los-ojos
+
+Resource: Cómo funcionan los pulmones
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: El cerebro y el sistema nervioso
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/brain-nervous-system.html
+
+Resource: Huesos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/bones.html
+
+Resource: Huesos, los músculos y las articulaciones
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/bones-muscles-joints.html
+
+Resource: Hígado
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/liver.html
+
+Resource: La sangre
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/blood.html
+
+Resource: Lengua (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/tongue.html
+
+Resource: Los riñones y las vías urinarias
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/kidneys.html
+
+Resource: Ojos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/eyes.html
+
+Resource: Ojos
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/eyes.html
+
+Resource: Ojos (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/eye.html
+
+Resource: Oído (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ears.html
+
+Resource: Pelo (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/hair-nosw.html
+
+Resource: Piel, el cabello y las uñas
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/skin-hair-nails.html
+
+Resource: Pulmones y el sistema respiratorio
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/lungs.html
+
+Resource: Riñones
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/kidneys.html
+
+Resource: Riñones y su funcionamiento
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-rinones/rinones-funcionamiento
+
+Resource: Sistema endocrino
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/endocrine.html
+
+Resource: Sistema endocrino
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/endocrine.html
+
+Resource: Sistema inmunitario
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/immune.html
+
+Resource: Sistema inmunitario (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/immune.html
+
+Resource: Sistema linfático
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spleen-lymphatic.html
+
+Resource: Sistema nervioso
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/brain-nervous-system.html
+
+Resource: Tu nariz
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/nose.html
+
+Resource: Tu piel
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/skin.html
+
+Resource: Tus dientes
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/teeth.html
+
+Resource: Tus músculos (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/muscles.html
+
+Resource: Tus oídos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/ear.html
+
+Resource: Tus pulmones y tu sistema respiratorio
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/lungs.html
+
+Resource: Uñas (para niños)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/nails-nosw.html
+
+Resource: Videos de anatomía
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/anatomyvideos.html
+
+Resource: Vías biológicas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación del Genoma Humano
+URL: https://www.genome.gov/es/about-genomics/fact-sheets/Vias-Biologicas
+
+Resource: Vías urinarias y cómo funcionan
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/aparato-urinario-funciona
+
+Resource: ¡El emocionante mundo del cerebro!
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/el-emocionante-mundo-del-cerebro
+
+Resource: ¿Por qué tengo un ombligo?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/navel.html
+
+Resource: ¿Qué son las papilas gustativas?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/taste-buds.html
+
+Resource: ¿Qué son los reflejos?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/reflexes.html

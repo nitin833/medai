@@ -1,0 +1,157 @@
+Title: Lesiones y enfermedades del cuello
+
+Summary:
+Cualquier parte del cuello: músculos, huesos, articulaciones, tendones, ligamentos o nervios puede ocasionar problemas y dolor en el cuello. El dolor también puede provenir del hombro, la mandíbula, la cabeza o los brazos.
+Las distensiones musculares o la tensión suelen causar dolor en el cuello. El problema suele ser el exceso de uso, como ocurre al sentarse durante demasiado tiempo frente a una computadora. Algunas veces, los músculos del cuello pueden torcerse por dormir en posiciones incómodas o por excederse en el ejercicio. Las caídas o los accidentes, incluyendo los accidentes automovilísticos, son otra causa común de dolor en el cuello. El latigazo cervical, una lesión de los tejidos blandos del cuello, también se denomina distensión o torcedura del cuello.
+El tratamiento depende de la causa, pero puede incluir hielo, analgésicos, fisioterapia o un collarín cervical. Raras veces se requiere cirugía.
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Artrodesis vertebral
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002968.htm
+
+Resource: Bulto en el cuello
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003098.htm
+
+Resource: Cirugía de la columna cervical
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100133_1.htm
+
+Resource: Cómo tratar un cuello rígido
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stiff-neck-sheet.html
+
+Resource: Disección del cuello
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007573.htm
+
+Resource: Distonía cervical
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cervical-dystonia/symptoms-causes/syc-20354123?p=1
+
+Resource: Dolor cervical
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003025.htm
+
+Resource: Dolor de cuello
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/neck-pain/symptoms-causes/syc-20375581?p=1
+
+Resource: Dolor de cuello
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/dolor-de-cuello
+
+Resource: Dolor de cuello: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/neck-pain/diagnosis-treatment/drc-20375587?p=1
+
+Resource: Espasmos o dolor cervical: Cuidados personales
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000802.htm
+
+Resource: Espondilosis cervical
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000436.htm
+
+Resource: Fusión espinal
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100121_1.htm
+
+Resource: Hiperextensión cervical
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/whiplash/symptoms-causes/syc-20378921?p=1
+
+Resource: Inclinación de la cabeza
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/cleft-craniofacial/paginas/head-tilt.aspx
+
+Resource: Joroba detrás de los hombros (grasa dorsocervical)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003112.htm
+
+Resource: Mareo cervicogénico
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/cervicogenic_dizziness_spanish.pdf
+
+Resource: Neurotomía por radiofrecuencia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/radiofrequency-neurotomy/about/pac-20394931?p=1
+
+Resource: Quiropráctica: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/chiropractic.html
+
+Resource: Quiste branquiógeno
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001396.htm
+
+Resource: Radiculopatía cervical (nervio pinzado)
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Cirujanos Ortopédicos
+URL: https://orthoinfo.aaos.org/es/diseases--conditions/radiculopatia-cervical-nervio-pinzado-cervical-radiculopathy
+
+Resource: Radiografía de cuello
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003805.htm
+
+Resource: Radiografía: Cuello (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-neck.html
+
+Resource: Resonancia magnética cervical
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007354.htm
+
+Resource: Tomografía computada: Cuello
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/scan-neck.html
+
+Resource: Tomografía computarizada de la columna cervical
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007351.htm
+
+Resource: Tortícolis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/torticollis-kids.html
+
+Resource: Tortícolis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000749.htm
+
+Resource: Tracción cervical con halo
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/halo-gravity-traction.html

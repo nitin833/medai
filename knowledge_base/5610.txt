@@ -1,0 +1,250 @@
+Title: Body Weight
+
+Summary:
+What is body weight?
+Body weight is the total mass of your body. Keeping track of your weight is one way to check for changes in your health, but it can't tell you the whole story. That's because your weight includes muscle, bone, fat, and water. Also, everyday factors can play a role in your weight, such as your:
+Diet
+Activity level
+Stress level
+Sleep habits
+Family history and genetics
+Age
+What factors help determine a healthy body weight?
+A healthy weight is more than just a number on the scale. It's about feeling good, having energy, and lowering your risk of disease. Your health care provider can help you determine a healthy body weight based on several factors. These include your:
+Body Mass Index (BMI).
+BMI is a measure of how much you weigh compared to how tall you are. The higher your BMI, the higher your risk for certain diseases. BMI does not distinguish between fat, muscle, and bone mass. It also may overestimate body fat in athletes or those with a muscular build, or underestimate body fat in older persons or others who have lost muscle.
+Waist circumference.
+If most of your body fat is around your abdomen (belly) rather than your hips, you may be at a higher risk for
+heart disease
+and
+type 2 diabetes
+.
+Health history.
+Your health care provider will likely consider your risk factors for diseases and health conditions, such as having
+high cholesterol
+, in determining your healthy body weight.
+What are body weight ranges?
+Having a healthy body weight may lower your chance of developing certain health problems. Carrying too much or too little weight can affect your health. Ranges of body weight include:
+Underweight.
+Your weight is lower than it should be for your health.
+Normal.
+Your weight is within a healthy range.
+Overweight.
+Your weight is greater than it should be for your health.
+Obese
+.
+Your body fat is greater than it should be for your health.
+Body weight needs can be different at different ages. For
+children, weight and growth
+are tracked over time based on their age.  For
+older adults
+, keeping muscle and strength is key, and sudden weight loss should always be checked by your provider.
+What if I have a sudden gain or loss of weight?
+Talk to your provider if you're losing or gaining weight without trying. A sudden, unexpected change in weight can be a sign of a medical problem.
+Causes for sudden
+weight loss
+can include:
+Thyroid problems
+Cancer
+Infectious diseases
+Digestive diseases
+Certain medicines
+Causes for sudden
+weight gain
+can include:
+Certain medicines
+Thyroid problems
+Heart failure
+Kidney disease
+Liver disease
+How can I maintain a healthy body weight?
+Maintaining a healthy body weight can improve energy, sleep, and overall wellbeing. Talk to your provider about what a healthy weight would be for you. If they recommend that you gain or
+lose weight
+, they might refer you to a dietician for support. A dietician is a professional who has special training to help you learn the best way to eat.
+Good nutrition and exercise can help in
+losing weight
+. Even a small change in weight can lower your risk of developing certain diseases.
+Eating extra calories within a well-balanced diet and treating any underlying medical problems can help you
+gain weight
+.
+Focus on your health, not just the number on the scale. With daily healthy habits and self-compassion, you can support lasting improvements in your overall wellbeing.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Food and Nutrition
+- Metabolic Problems
+
+MeSH Headings:
+- Body Weight Changes
+- Body Weight
+
+Related Resources:
+
+Resource: About Body Mass Index (BMI)
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/about/
+
+Resource: Adult BMI Calculator
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/adult-calculator/index.html
+
+Resource: Antidepressants and Weight Gain: What Causes It?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depression/expert-answers/antidepressants-and-weight-gain/faq-20058127?p=1
+
+Resource: Beta Blockers: Do They Cause Weight Gain?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/beta-blockers/faq-20058385?p=1
+
+Resource: Birth Weight: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/birthweight.html
+
+Resource: BMI Frequently Asked Questions
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/faq/
+
+Resource: Body Image and Mental Health
+Category: Related Issues
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/mental-health/body-image-and-mental-health
+
+Resource: Body mass index
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007196.htm
+
+Resource: Calculate Your BMI
+Category: Health Check Tools
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/calculate-your-bmi
+
+Resource: Child and Teen BMI Categories
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bmi/child-teen-calculator/bmi-categories.html
+
+Resource: ClinicalTrials.gov: Body Mass Index
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Body+Mass+Index%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Body Weight
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Body+Weight%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Body Weight Changes
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Body+Weight+Changes%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Overweight
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Overweight%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Thinness
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Thinness%22&aggFilters=status:not%20rec
+
+Resource: FastStats: Obesity and Overweight
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/obesity-overweight.htm
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Growth chart
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001910.htm
+
+Resource: Health Risks of Overweight and Obesity
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/health-risks
+
+Resource: Healthy Lifestyles for Healthy Older Adults
+Category: Older Adults
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/wellness/healthful-habits/healthy-weights-for-healthy-older-adults
+
+Resource: Heart-Healthy Living - Aim for a Healthy Weight
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-healthy-living/healthy-weight
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Overweight
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003101.htm
+
+Resource: Overweight and Obesity
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/overweight-obesity.html?ref=
+
+Resource: Overweight and Obesity Statistics
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity
+
+Resource: Body Weight
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Body+Weight%22%5Bmajr%3Anoexp%5D+OR+%22Body+Weight+Changes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Staying at a Healthy Weight (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/healthy-weight.html
+
+Resource: Thyroid and Weight
+Category: Related Issues
+Organization: American Thyroid Association
+URL: https://www.thyroid.org/thyroid-and-weight/
+
+Resource: Tips for Maintaining Healthy Weight
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-weight-growth/about/tips-for-balancing-food-activity.html
+
+Resource: Unexplained Weight Loss
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/unexplained-weight-loss/basics/definition/SYM-20050700?p=1
+
+Resource: Weight gain - unintentional
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003084.htm
+
+Resource: Weight loss - unintentional
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003107.htm
+
+Resource: What Being Overweight Means
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/overweight.html
+
+Resource: What's the Right Weight for My Height? (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/weight-height.html

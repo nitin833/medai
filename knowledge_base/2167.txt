@@ -1,0 +1,117 @@
+Title: Enfermedades del bazo
+
+Summary:
+El bazo es un órgano que se encuentra en su costado izquierdo, por arriba del estómago y debajo de las costillas. Tiene el tamaño aproximado de su puño. El bazo forma parte del
+sistema linfático
+, que combate las infecciones y mantiene el equilibrio de los líquidos del cuerpo. Contiene los glóbulos blancos que luchan contra los gérmenes. El bazo también ayuda a controlar la cantidad de sangre del organismo y destruye las células envejecidas y dañadas.
+Algunas enfermedades pueden provocar una inflamación del bazo. Los traumatismos también pueden lesionar o romper el bazo, especialmente si ya está inflamado. Si el bazo se encuentra muy afectado, es posible que sea necesaria una extirpación quirúrgica. Se puede vivir sin el bazo. Otros órganos, como el hígado, harán algunas de las funciones del bazo. Sin embargo, sin el bazo, el cuerpo perderá parte de su capacidad para combatir las infecciones.
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Alta tras esplenectomía abierta en adultos
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000287.htm
+
+Resource: Alta tras esplenectomía en niños
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000277.htm
+
+Resource: Alta tras esplenectomía laparoscópica en adultos
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000286.htm
+
+Resource: Bazo (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spleen.html
+
+Resource: Bazo dilatado (esplenomegalia): Diagnóstico y tratamiento
+Category: Asuntos específicos, Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/enlarged-spleen/diagnosis-treatment/drc-20354331?p=1
+
+Resource: Bazo y sistema linfático
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/spleen.html
+
+Resource: Complicaciones posteriores a la esplenectomía
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001290.htm
+
+Resource: Ecografía abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Esplenectomía
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/splenectomy/about/pac-20395066?p=1
+
+Resource: Esplenectomía (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/splenectomies.html
+
+Resource: Esplenomegalia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003276.htm
+
+Resource: Extirpación del bazo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002944.htm
+
+Resource: Extirpación quirúrgica del bazo
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100040_1.htm
+
+Resource: Gammagrafía del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003825.htm
+
+Resource: Hiperesplenismo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001314.htm
+
+Resource: Introducción al bazo
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/trastornos-espl%C3%A9nicos/introducci%C3%B3n-al-bazo
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Rotura de bazo
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/ruptured-spleen/symptoms-causes/syc-20352317?p=1
+
+Resource: Secuestro esplénico (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/splenic-sequestration.html
+
+Resource: Sistema linfático
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spleen-lymphatic.html
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus

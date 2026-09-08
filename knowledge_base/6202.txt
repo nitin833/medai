@@ -1,0 +1,154 @@
+Title: Ebola
+
+Also Called:
+- Ebola disease
+- Ebola hemorrhagic fever
+- Ebola virus disease
+
+Summary:
+What is Ebola?
+Ebola, also known as Ebola virus disease (EVD), is a type of
+hemorrhagic fever
+. It is a rare and often deadly disease. It can be caused by several different types of Ebola viruses. There are occasional outbreaks of Ebola, and they mostly occur in Africa.
+How does Ebola spread?
+Researchers believe that the virus first spreads from an infected animal to a human. Ebola can then spread from human to human through direct contact with:
+Blood or body fluids of a person who is sick with or has died from Ebola.
+Objects (such as clothes, bedding, needles, and medical equipment) contaminated with body fluids from a person who is sick with or has died from Ebola.
+Semen (through oral, vaginal, or anal sex) from a man who has recovered from Ebola. The virus can remain in semen and other body fluids, even if the person no longer has symptoms.
+When people become infected with Ebola, they do not start developing signs or symptoms right away. They cannot spread Ebola to others until after they develop symptoms.
+What are the symptoms of Ebola?
+The symptoms of Ebola may appear anywhere from 2 to 21 days after exposure to the virus. The average is about 8 to 10 days. The symptoms usually include:
+Fever
+Headache
+Joint and muscle aches
+Weakness and
+fatigue
+Sore throat
+Gastrointestinal symptoms including
+abdominal (belly) pain
+,
+diarrhea
+, and
+vomiting
+Loss of appetite
+Unexplained
+bleeding
+or
+bruising
+Other symptoms may include a
+rash
+, red eyes, and hiccups.
+How is Ebola diagnosed?
+The early symptoms of Ebola are similar to other more common diseases. This makes it difficult to diagnose Ebola in someone who has been infected for only a few days. If a person has the symptoms of Ebola and may have been exposed to the virus, the health care provider can do a blood test for Ebola. It can take a few days after the symptoms start before Ebola shows up in the blood test.
+What are the treatments for Ebola?
+In the United States, there are two approved medicines to treat Ebola that is caused by one specific type of virus (
+Zaire ebolavirus
+). These medicines have not been evaluated to treat Ebola caused by other types of Ebola viruses. The medicines are monoclonal antibodies, which are immune system proteins that are created in the lab.
+Whether or not there are medicines to treat a case of Ebola, there is supportive care. This type of care can improve the chances of survival, especially when given early. Supportive care includes:
+Giving
+fluids and electrolytes
+Giving medicines to support blood pressure, reduce vomiting and diarrhea, and to manage fever and pain
+Giving oxygen
+Treating any other complications or infections
+People who recover may still have side effects afterwards, such as fatigue, muscle aches, eye and
+vision problems
+, and stomach pain.
+Can Ebola be prevented?
+In the United States, there is one vaccine that has been approved to prevent Ebola caused by one specific type of Ebola virus (
+Zaire ebolavirus
+). It may be given to health care providers who will be or may be treating Ebola patients and people who work with live Ebola virus in labs.
+If you live in or plan to travel to a region where Ebola virus may be present, you can help protect yourself by avoiding contact with:
+Blood and body fluids of people who are sick
+Semen from a man who has recovered from Ebola, until testing shows that the virus is gone from his semen
+Items that could be contaminated with blood or body fluids from someone who has Ebola
+Bats, forest antelopes, and nonhuman primates (such as monkeys and chimpanzees), including their blood, fluids, or meat
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Ebolavirus
+- Ebola Vaccines
+- Hemorrhagic Fever, Ebola
+
+Related Resources:
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Ebola Vaccines
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ebola+Vaccines%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Ebolavirus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ebolavirus%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hemorrhagic Fever, Ebola
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hemorrhagic+Fever,+Ebola%22&aggFilters=status:not%20rec
+
+Resource: Ebola (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ebola.html
+
+Resource: Ebola Disease
+Category: Start Here
+Organization: World Health Organization
+URL: https://www.who.int/news-room/fact-sheets/detail/ebola-disease
+
+Resource: Ebola Disease Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ebola/about/
+
+Resource: Ebola Transmission: Can Ebola Spread Through the Air?
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/infectious-diseases/expert-answers/can-ebola-spread-through-air/faq-20115575?p=1
+
+Resource: Ebola Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/ebola.pdf
+
+Resource: Ebola virus disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001339.htm
+
+Resource: Facts about Ebola in the U.S.
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ebola/hcp/communication-resources/facts-about-ebola-in-the-u-s.html
+
+Resource: How Ebola Disease Spreads
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ebola/causes/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Outbreak History
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ebola/outbreaks/
+
+Resource: Ebola
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hemorrhagic+Fever%2C+Ebola%22%5Bmajr%3Anoexp%5D+OR+%22Ebola+Vaccines%22%5Bmajr%3Anoexp%5D+OR+%22Ebolavirus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Signs and Symptoms of Ebola Disease
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ebola/signs-symptoms/

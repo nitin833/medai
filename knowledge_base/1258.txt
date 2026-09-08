@@ -1,0 +1,115 @@
+Title: Giardia Infections
+
+Summary:
+Giardiasis is an illness caused by a parasite called Giardia intestinalis. It lives in soil, food, and water. It may also be on surfaces that have been contaminated with waste. You can become infected if you swallow the parasite. You can also get it if you're exposed to human feces (poop) through sexual contact.
+The risk of getting giardia is higher for travelers to countries where it is common, people in child care settings, and those who drink untreated water.
+Diarrhea is the main symptom of giardia infection. Others include:
+Passing gas
+Greasy stools
+Stomach cramps
+Upset stomach or nausea
+These symptoms may lead to weight loss and loss of body fluids. Some people have no symptoms at all. Symptoms of infection often last two to six weeks. Stool sample tests can diagnose it. You often need to collect several samples to test. Doctors use several drugs to treat it.
+The best way to prevent giardia infection is to practice good hygiene, including frequent hand washing. You should not drink water that may be contaminated. You should also peel or wash fresh fruit and vegetables before eating.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Giardiasis
+
+Related Resources:
+
+Resource: About Giardia
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/giardia/about/
+
+Resource: About Giardia and Pets
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/giardia/about/about-giardia-and-pets.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Giardiasis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Giardiasis%22&aggFilters=status:not%20rec
+
+Resource: Diagnosis of Parasitic Diseases
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parasites/testing-diagnosis/
+
+Resource: Germs That Can Contaminate Tap Water
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/drinking-water/causes/germs-that-can-contaminate-tap-water.html
+
+Resource: Giardia Infection (Giardiasis)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/giardia-infection/symptoms-causes/syc-20372786?p=1
+
+Resource: Giardia Infection Prevention and Control
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/giardia/prevention/
+
+Resource: Giardiasis
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/giardiasis/
+
+Resource: Giardiasis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000288.htm
+
+Resource: Giardiasis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/giardiasis.html
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Ova and Parasite Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ova-and-parasite-test/
+
+Resource: Giardia Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Giardiasis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stool ova and parasites exam
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003756.htm
+
+Resource: String test for intestinal parasites
+Category: Diagnosis and Tests
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003735.htm
+
+Resource: Symptoms of Giardia Infection
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/giardia/signs-symptoms/
+
+Resource: Treatment of Giardia Infection
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/giardia/treatment/
+
+Resource: Water Disinfection for Travelers
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/water-disinfection-for-travelers.html

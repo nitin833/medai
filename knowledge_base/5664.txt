@@ -1,0 +1,128 @@
+Title: Pericardial Disorders
+
+Summary:
+The pericardium is a membrane, or sac, that surrounds your heart. It holds the heart in place and helps it work properly.  Problems with the pericardium include:
+Pericarditis - an inflammation of the sac. It can be from a virus or other infection, a heart attack, heart surgery, other medical conditions, injuries, and certain medicines.
+Pericardial effusion - the  buildup of fluid in the sac
+Cardiac tamponade - a serious problem in which buildup of fluid in the sac causes problems with the function of the heart
+Symptoms of pericardial problems include chest pain, rapid heartbeat, and difficulty breathing. Fever is a common symptom of acute pericarditis. Your doctor may use a physical exam, imaging tests, and heart tests to make a diagnosis. Treatment depends on the cause.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Pericarditis
+- Pericardial Effusion
+- Cardiac Tamponade
+
+Related Resources:
+
+Resource: Acute Pericarditis
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/pericardial-disease-and-myocarditis/acute-pericarditis
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Cardiac tamponade
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000194.htm
+
+Resource: Chronic Pericarditis
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/heart-and-blood-vessel-disorders/pericardial-disease-and-myocarditis/chronic-pericarditis
+
+Resource: ClinicalTrials.gov: Pericardial Effusion
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pericardial+Effusion%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pericarditis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pericarditis%22&aggFilters=status:not%20rec
+
+Resource: Dressler Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dresslers-syndrome/symptoms-causes/syc-20371811?p=1
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Inflammation
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-inflammation
+
+Resource: Malignant Pericardial Effusion
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/cardiopulmonary-pdq#_132
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Pericardial Effusion
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pericardial-effusion/symptoms-causes/syc-20353720?p=1
+
+Resource: Pericardial fluid culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003720.htm
+
+Resource: Pericardial fluid Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003719.htm
+
+Resource: Pericardiocentesis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003872.htm
+
+Resource: Pericarditis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000182.htm
+
+Resource: Pericarditis
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/pericarditis-2/
+
+Resource: Pericarditis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pericarditis/symptoms-causes/syc-20352510?p=1
+
+Resource: Pericarditis - after heart attack
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000166.htm
+
+Resource: Pericarditis - constrictive
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001103.htm
+
+Resource: Pericardial Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pericarditis%22%5Bmajr%3Anoexp%5D+OR+%22Pericardial+Effusion%22%5Bmajr%3Anoexp%5D+OR+%22Cardiac+Tamponade%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recurrent Pericarditis
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/pericarditis/what-is-pericarditis/recurrent-pericarditis

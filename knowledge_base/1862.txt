@@ -1,0 +1,159 @@
+Title: Preparativos y recuperación ante un desastre
+
+Summary:
+La preparación para un desastre puede disminuir el miedo, la ansiedad y las pérdidas que puede causar el desastre. Un desastre puede ser un desastre natural, como un
+huracán
+, un
+tornado
+, una
+inundación
+o un
+terremoto
+. También puede ser provocado por el hombre, como un
+ataque terrorista
+o un
+derrame de sustancias químicas
+. Debe conocer los signos de riesgo y peligro de los distintos tipos de desastres. También debe tener un plan ante un desastre. Asegúrese de evacuar su casa y saber cómo tratar problemas médicos básicos. Asegúrese también de tener el seguro que necesita, inclusive algunos tipos especiales, como el seguro contra inundaciones.
+Independientemente del tipo de desastre que ocurra, siempre provoca un
+disturbio emocional
+. La recuperación después de un desastre puede llevar cierto tiempo. Manténgase en contacto con sus familiares y amigos durante ese período.
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Agencia Federal para el Manejo de Emergencias
+Category: Spanish/Español, Especialistas
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.fema.gov/es
+
+Resource: Alerta de emergencia móvil (WEA)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión Federal de Comunicaciones
+URL: https://www.fcc.gov/consumers/guides/alerta-de-emergencia-movil-wea
+
+Resource: Apagones
+Category: Asuntos específicos, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/apagones
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Consejos de FCC/FEMA para comunicarse durante casos de emergencias
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión Federal de Comunicaciones
+URL: https://www.fcc.gov/emergencia
+
+Resource: Consejos para los dispositivos médicos durante desastres de huracanes de la FDA
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/medical-devices/emergency-situations-medical-devices/consejos-para-los-dispositivos-medicos-durante-desastres-de-huracanes-de-la-fda
+
+Resource: Consejos para regresar a casa de manera segura después de un desastre
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.fema.gov/es/fact-sheet/tips-returning-home-safely-after-disaster
+
+Resource: Contactar y ubicar a los seres queridos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Cruz Roja Americana
+URL: https://www.redcross.org/cruz-roja/obtener-ayuda/contactar-y-ubicar-a-los-seres-queridos.html
+
+Resource: Cruz Roja Americana
+Category: Spanish/Español, Especialistas
+Organization: Cruz Roja Americana
+URL: https://www.redcross.org/cruz-roja.html
+
+Resource: Desinfección de agua potable en situaciones de emergencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/desinfeccion-de-agua-potable-en-situaciones-de-emergencia
+
+Resource: Directrices para la limpieza de hogares inundados
+Category: Asuntos específicos, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/hogares-inundados
+
+Resource: Enfermedades crónicas en tiempos de incertidumbre: Prepárese y planifique con anticipación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-enfermedades-cronicas-en-tiempos-de-incertidumbre
+
+Resource: Evacuación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/evacuacion
+
+Resource: Experto en desastre
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/kids/games/data/dm-spanish/
+
+Resource: Haga un plan
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/haga-un-plan
+
+Resource: Información sobre el almacenamiento de insulina y el cambio entre productos durante una emergencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/drugs/emergency-preparedness-drugs/informacion-sobre-el-almacenamiento-de-insulina-y-el-cambio-entre-productos-durante-una-emergencia
+
+Resource: Listo niños
+Category: Spanish/Español, Niños/as
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/kids
+
+Resource: Listo.gov
+Category: Comience aquí, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es
+
+Resource: Lo que necesita saber en caso de un corte inesperado de la electricidad
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/poweroutage/needtoknow.html
+
+Resource: Mantenga los alimentos seguros después de un desastre o una emergencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/food-safety/es/foods/mantenga-los-alimentos-seguros-despues-de-un-desastre-o-una-emergencia.html
+
+Resource: Personas con discapacidades
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/personas-con-discapacidades
+
+Resource: Prevenga las lesiones después de un desastre
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/es/disasters/injury/facts.html
+
+Resource: Primeros auxilios de heridas después de un desastre natural
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/disasters/00_images/woundcare/wound-care-spanish-508.pdf
+
+Resource: Proteja su propiedad contra los terremotos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.fema.gov/sites/default/files/documents/fema_proteja-su-propiedad-terremotos_2023.pdf
+
+Resource: Refugio
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/refugio
+
+Resource: Tormentas eléctricas y rayos
+Category: Asuntos específicos, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/tormentas-electricas-y-rayos
+
+Resource: ¿Necesita ayuda después de un desastre?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Departamento de Seguridad Nacional
+URL: https://www.disasterassistance.gov/es

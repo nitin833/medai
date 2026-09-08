@@ -1,0 +1,257 @@
+Title: Imágenes por resonancia magnética
+
+Also Called:
+- RMN
+- Resonancia magnética nuclear
+
+Summary:
+¿Qué son los estudios con imágenes por resonancia magnética?
+Las imágenes por resonancias magnéticas (IRM) son
+pruebas de con imágenes
+usualmente indoloras y que usan imanes, ondas de radio y una computadora para crear una imagen detallada del interior de su cuerpo.  Las resonancias magnéticas muestran los órganos y tejidos de forma clara y pueden diferenciar en muchos casos si un tejido está sano o no.
+¿Quién necesita una resonancia magnética?
+Las resonancias magnéticas se utilizan con frecuencia para diagnosticar condiciones que afectan los tejidos blandos y también para monitorear tratamientos.
+Las resonancias pueden usarse para evaluar:
+El cerebro, la médula espinal y los nervios
+Los músculos, ligamentos y tendones
+Las articulaciones, como la rodilla o el hombro
+Las resonancias magnéticas no utilizan
+rayos X
+u otra
+radiación
+. Por ello, pueden ser utilizadas cuando se requieren imágenes repetidas.
+¿Cómo prepararse para una resonancia magnética?
+Las máquinas de resonancia magnética utilizan imanes poderosos. Por ello, los objetos de metal o implantes pueden interferir con el estudio y ser peligrosos no ser seguros.
+Antes de iniciar el estudio, necesitará quitarse objetos como:
+Joyería y relojes
+Horquillas o ganchos para el cabello
+Audífonos
+Antes de su resonancia, dígale a su proveedor de servicios de salud si usted:
+Está embarazada
+Está
+amamantando
+, especialmente si puede recibir material de contraste. El contraste es una sustancia que ayuda a que se muestren con más claridad algunas partes de su cuerpo
+Siente ansiedad en espacios cerrados (
+claustrofobia
+)
+Tiene
+problemas renales
+Tiene metal en su cuerpo como balas, esquirlas u otros fragmentos metálicos
+Tiene dispositivos metálicos o electrónicos en su cuerpo, como
+marcapasos
+, articulaciones artificiales u otros implantes
+Tiene
+tatuajes o maquillaje permanente
+, ya que ciertas tintas oscuras pueden contener metal
+¿Cómo se realiza una resonancia magnética?
+Por lo general se pondrá una bata de hospital. En ocasiones,antes de la prueba, podría recibir contraste, generalmente por una vena (vía intravenosa).
+Durante el estudio, permanecerá acostado en una camilla que se desliza dentro de una máquina grande con forma de túnel. Algunos centros utilizan una máquina de resonancia abierta, la cual es menos enclaustrada. La máquina realiza un ruido fuerte a medida que toma las imágenes, por lo que podrían ofrecerle tapones de oídos o audífonos.
+El procedimiento toma tiempo, dependiendo de la parte del cuerpo que se examine. Usted necesitará permanecer muy quieto durante el estudio.
+¿Qué se puede esperar después de una resonancia magnética?
+Usted podrá reanudar sus actividades normales de inmediato después de la mayoría de las resonancias magnéticas. Si le administraron medicamentos para relajarse, necesitará que alguien lo lleve a casa.
+Un especialista, llamado radiólogo, revisará las imágenes y compartirá los resultados con su proveedor.
+
+Groups:
+- Pruebas de diagnóstico
+
+Related Resources:
+
+Resource: Angiografía de resonancia magnética (ARM)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/angiomr
+
+Resource: Angiografía por resonancia magnética
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007269.htm
+
+Resource: Biopsia de seno guiada por RM
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología
+URL: https://www.radiologyinfo.org/es/info/breastbimr
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Defecografía por RM
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/defecography-mri
+
+Resource: Dispositivos Médicos Robóticos y Biónicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Imágenes Biomédicas y Bioingeniería
+URL: https://www.nibib.nih.gov/espanol/temas-cientificos/dispositivos-medicos-roboticos-y-bionicos
+
+Resource: Enterografía por RMN
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/MRenterography
+
+Resource: Glosario de términos
+Category: Información de referencia, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/glossary-index
+
+Resource: Materiales de contraste
+Category: Spanish/Español, Asuntos relacionados
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-contrast
+
+Resource: Obtención de una resonancia magnética, RM
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/video-mri.html
+
+Resource: Pruebas cardíacas
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/estudios-cardiacos
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: RadiologyInfo
+Category: Spanish/Español, Especialistas
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es
+
+Resource: Resonancia magnética
+Category: Comience aquí, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003335.htm
+
+Resource: Resonancia magnética cardíaca (RM cardíaca)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/resonancia-magnetica-cardiaca-rm/
+
+Resource: Resonancia magnética cervical
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007354.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: Resonancia magnética de la pelvis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007355.htm
+
+Resource: Resonancia magnética de la pierna
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007357.htm
+
+Resource: Resonancia magnética de la región lumbar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007352.htm
+
+Resource: Resonancia magnética del abdomen
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: Resonancia magnética del brazo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007358.htm
+
+Resource: Resonancia magnética del corazón
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003795.htm
+
+Resource: Resonancia magnética del tórax
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003794.htm
+
+Resource: Resonancia magnética pediátrica
+Category: Spanish/Español, Niños/as
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/pediatric-mri
+
+Resource: Resonancia magnética y el lumbago
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007493.htm
+
+Resource: Resonancia magnética: ¿El gadolinio es seguro para las personas con problemas renales?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chronic-kidney-disease/expert-answers/gadolinium/faq-20057772?p=1
+
+Resource: RM funcional (fRM)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: RMN de cuerpo
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bodymr
+
+Resource: RMN de la columna
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: RMN de la próstata
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mr_prostate
+
+Resource: RMN de la rodilla
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/kneemr
+
+Resource: RMN del cerebro
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: RMN del hombro
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/shouldermr
+
+Resource: RMN del piso pélvico
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dynamic-pelvic-floor-mri
+
+Resource: RMN del seno (mama)
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/breastmr
+
+Resource: RMN musculoesquelética
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/muscmr
+
+Resource: Seguridad de la RM
+Category: Comience aquí, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-mr
+
+Resource: Seguridad de la RM durante el embarazo
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/safety-mri-pregnancy
+
+Resource: Urografía
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/urography

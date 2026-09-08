@@ -1,0 +1,58 @@
+Title: Earthquakes
+
+Summary:
+An earthquake happens when two blocks of the earth suddenly slip past one another.  Earthquakes strike suddenly, violently, and without warning at any time of the day or night. If an earthquake occurs in a populated area, it may cause property damage, injuries, and even deaths. If you live in a coastal area, there is the possibility of a
+tsunami
+. Damage from earthquakes can also lead to
+floods
+or
+fires
+.
+Although there are no guarantees of safety during an earthquake, you can take actions to protect yourself.  You should have a
+disaster plan
+. Being prepared can help reduce fear, anxiety, and losses. If you do experience a disaster, it is normal to feel stressed. You may need help in finding
+ways to cope
+.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Earthquakes
+
+Related Resources:
+
+Resource: DisasterAssistance.gov
+Category: Learn More
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Earthquake Hazards Program
+Category: Learn More
+Organization: U.S. Geological Survey
+URL: https://www.usgs.gov/programs/earthquake-hazards
+
+Resource: Earthquakes: Before, During, and After
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/earthquakes/about/
+
+Resource: Federal Emergency Management Agency
+Category: Learn More
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: Landslides and Mudslides and Your Safety
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/landslides-and-mudslides/about/
+
+Resource: Earthquakes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Earthquakes%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What Is it about an Earthquake that Causes a Tsunami?
+Category: Learn More
+Organization: U.S. Geological Survey
+URL: https://www.usgs.gov/faqs/what-it-about-earthquake-causes-a-tsunami

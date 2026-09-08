@@ -1,0 +1,361 @@
+Title: Mental Disorders
+
+Also Called:
+- Mental illness
+
+Summary:
+What are mental disorders?
+Mental disorders (or mental illnesses) are conditions that affect your thinking, feeling, mood, and behavior. They may happen over a short period of time or come and go. Some can be chronic (long-lasting). They can affect your ability to relate to others and function each day..
+What are some types of mental disorders?
+There are many different types of mental disorders. Some common ones include:
+Anxiety disorders
+, including
+panic disorder
+,
+obsessive-compulsive disorder
+, and
+phobias
+Depression
+,
+bipolar disorder
+, and other
+mood disorders
+Eating disorders
+Personality disorders
+Post-traumatic stress disorder
+(PTSD)
+Psychotic disorders
+, including
+schizophrenia
+What causes mental disorders?
+There is no single cause for mental illness. A number of factors can contribute to risk for mental illness, such as:
+Your genes and family history
+Your life experiences, such as stress or a history of abuse, especially if they happen in childhood
+Biological factors such as chemical imbalances in the brain
+A
+traumatic brain injury
+(TBI)
+Prenatal (before birth) exposure to
+viruses
+,
+toxic chemicals
+, or
+other substances
+such as alcohol and drugs.
+Use of
+alcohol
+or
+recreational drugs
+Having a serious medical condition like cancer
+Having few friends, and feeling lonely or isolated
+Mental disorders are not caused by character flaws. They have nothing to do with being lazy or weak.
+Who is at risk for mental disorders?
+Mental disorders are common. Many Americans will be diagnosed with a mental disorder at some time in their life.
+How are mental disorders diagnosed?
+The steps to getting a diagnosis include:
+A medical history
+A physical exam and possibly lab tests, if your provider thinks that other medical conditions could be causing your symptoms
+A
+psychological evaluation
+. You will answer questions about your thinking, feelings, and behaviors.
+What are the treatments for mental disorders?
+Treatment depends on which mental disorder you have and how serious it is. You and your provider will work on a treatment plan just for you. It usually involves some type of therapy. You may also take medicines. Some people also need social support and education on managing their condition.
+In some cases, you may need more intensive treatment. You may need to go to a psychiatric hospital.  This could be because your mental illness is severe. Or it could be because you are at risk of hurting yourself or someone else. In the hospital, you will get counseling, group discussions, and activities with mental health professionals and other patients.
+
+Groups:
+- Mental Health and Behavior
+
+MeSH Headings:
+- Mental Disorders
+- Psychiatric Rehabilitation
+
+Related Resources:
+
+Resource: Adjustment disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000932.htm
+
+Resource: American Psychiatric Association
+Category: Find an Expert
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/
+
+Resource: Body Dysmorphic Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/body-dysmorphic-disorder/symptoms-causes/syc-20353938?p=1
+
+Resource: Brain Stimulation Therapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
+
+Resource: Child Mental Health: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childmentalhealth.html
+
+Resource: Clinical Research Trials and You: Questions and Answers
+Category: Clinical Trials
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/clinical-research-trials-and-you-questions-and-answers
+
+Resource: Clinical Trials -- Information for Participants
+Category: Clinical Trials
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/trials
+
+Resource: ClinicalTrials.gov: Mental Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mental+Disorders%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Trichotillomania
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Trichotillomania%22&aggFilters=status:not%20rec
+
+Resource: Depersonalization-Derealization Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/depersonalization-derealization-disorder/symptoms-causes/syc-20352911?p=1
+
+Resource: Dissociative Disorders
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dissociative-disorders/symptoms-causes/syc-20355215?p=1
+
+Resource: Electroconvulsive therapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007474.htm
+
+Resource: Factitious Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/factitious-disorder/symptoms-causes/syc-20356028?p=1
+
+Resource: FastStats: Mental Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/mental-health.htm
+
+Resource: Find Your Local NAMI
+Category: Find an Expert
+Organization: NAMI
+URL: https://www.nami.org/find-your-local-nami/
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Functional Neurologic Disorder
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/functional-neurologic-disorder
+
+Resource: Functional neurological disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000954.htm
+
+Resource: Help for Mental Illnesses
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/find-help
+
+Resource: How to Choose a Psychologist
+Category: Treatments and Therapies
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/psychotherapy/choose-therapist?partner=nlm
+
+Resource: Illness Anxiety Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/illness-anxiety-disorder/symptoms-causes/syc-20373782?p=1
+
+Resource: Illness anxiety disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001236.htm
+
+Resource: Intermittent Explosive Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/intermittent-explosive-disorder/symptoms-causes/syc-20373921?p=1
+
+Resource: Key Substance Use and Mental Health Indicators in the United States: Results from the 2024 National Survey on Drug Use and Health
+Category: Statistics and Research
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/data/sites/default/files/reports/rpt56287/2024-nsduh-annual-national-report.pdf
+
+Resource: Kleptomania
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/kleptomania/symptoms-causes/syc-20364732?p=1
+
+Resource: Meditation and Mindfulness: Effectiveness and Safety
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety
+
+Resource: Mental Health Data Channel
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/mental-health/about-data/index.html
+
+Resource: Mental Health Medications
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/mental-health-medications
+
+Resource: Mental Health Providers: Tips on Finding One
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mental-illness/in-depth/mental-health-providers/art-20045530?p=1
+
+Resource: Mental Health Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mental-health-screening/
+
+Resource: Mental Health Screening Center
+Category: Health Check Tools
+Organization: Depression and Bipolar Support Alliance
+URL: https://www.dbsalliance.org/education/mental-health-screening-center/
+
+Resource: Mental Health: Overcoming the Stigma of Mental Illness
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mental-illness/in-depth/mental-health/art-20046477?p=1
+
+Resource: Mental Health: What's Normal, What's Not
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/mental-health/art-20044098?p=1
+
+Resource: Mental Illness
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mental-illness/symptoms-causes/syc-20374968?p=1
+
+Resource: Mental Illness and the Family: Recognizing Warning Signs and How to Cope
+Category: Living With
+Organization: Mental Health America
+URL: https://mhanational.org/resources/recognizing-warning-signs-and-how-to-cope/
+
+Resource: Mental Illness Statistics
+Category: Statistics and Research
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/statistics
+
+Resource: Munchausen syndrome by proxy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001555.htm
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Older Adult Mental Health
+Category: Older Adults
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/olderadultmentalhealth.html
+
+Resource: Perry syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/perry-syndrome
+
+Resource: Psychiatric Advance Directives
+Category: Related Issues
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/psychiatric-advance-directives-1
+
+Resource: Psychologist Locator
+Category: Find an Expert
+Organization: American Psychological Association
+URL: https://locator.apa.org/?partner=nlm
+
+Resource: Psychotherapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+
+Resource: Mental Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Psychiatric+Rehabilitation%22%5Bmajr%3Anoexp%5D+OR+%22Mental+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rural Mental Health
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/mental-health
+
+Resource: Somatic symptom disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000955.htm
+
+Resource: Somatic Symptom Disorder
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/somatic-symptom-and-related-disorders/
+
+Resource: State by State Info (Psychiatric Advance Directives)
+Category: Find an Expert
+Organization: National Resource Center on Psychiatric Advance Directives
+URL: https://nrc-pad.org/states/
+
+Resource: Substance Abuse and Mental Health Services Administration
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/
+
+Resource: Tardive Dyskinesia
+Category: Related Issues
+Organization: NAMI
+URL: https://www.nami.org/treatments-and-approaches/mental-health-medications/tardive-dyskinesia/
+
+Resource: Technology and the Future of Mental Health Treatment
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/technology-and-the-future-of-mental-health-treatment
+
+Resource: Teen Mental Health: MedlinePlus Health Topic
+Category: Teenagers
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/teenmentalhealth.html
+
+Resource: Trichotillomania
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001517.htm
+
+Resource: Trichotillomania (Hair Pulling)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/trichotillomania.html
+
+Resource: Warning Signs of Mental Illnesses
+Category: Start Here
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/warning-signs-of-mental-illness
+
+Resource: What Is Psychiatry?
+Category: Treatments and Therapies
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/what-is-psychiatry
+
+Resource: What to Know Before Stopping Medications (Medication Discontinuation)
+Category: Living With
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/resource/patients/med-discontinuation
+
+Resource: Women and Mental Health
+Category: Women
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/women-and-mental-health

@@ -1,0 +1,67 @@
+Title: Dietary Proteins
+
+Summary:
+Protein is in every cell in the body. Our bodies need protein from the foods we eat to build and maintain bones, muscles and skin. We get proteins in our diet from meat, dairy products, nuts, and certain grains and beans. Proteins from meat and other animal products are complete proteins. This means they supply all of the amino acids the body can't make on its own. Most plant proteins are incomplete. You should eat different types of plant proteins every day to get all of the amino acids your body needs.
+It is important to get enough dietary protein. You need to eat protein every day, because your body doesn't store it the way it stores fats or carbohydrates.  How much you need depends on your age, sex, health, and level of physical activity. Most Americans eat enough protein in their diet.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Dietary Proteins
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Dietary Proteins
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=%22dietary+proteins%22&aggFilters=status:not%20rec
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: High-Protein Diets: Are They Safe?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/high-protein-diets/faq-20058207?p=1
+
+Resource: High-protein foods: The best protein sources to include in a healthy diet
+Category: Specifics
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/diet-and-nutrition/high-protein-foods-the-best-protein-sources-to-include-in-a-healthy-diet
+
+Resource: Kwashiorkor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001604.htm
+
+Resource: Picking Healthy Proteins
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/healthy-living/healthy-eating/eat-smart/nutrition-basics/picking-healthy-proteins
+
+Resource: Protein
+Category: Specifics
+Organization: Harvard School of Public Health
+URL: https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/
+
+Resource: Protein
+Category: Start Here
+Organization: Harvard School of Public Health
+URL: https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/
+
+Resource: Protein in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002467.htm
+
+Resource: Dietary Proteins
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Dietary+Proteins%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

@@ -1,0 +1,306 @@
+Title: Veterans and Military Health
+
+Summary:
+Military service members and veterans have made sacrifices to our country, and they may face lots of different health issues. Some of the most common health problems they may have include
+chronic pain
+,
+sleep disorders
+, and
+mental health disorders
+.
+But they may also face some different health risks than civilians. Serving to protect our country is a special job, and along with it comes some special risks and job hazards. These include different types of injuries and health problems from exposures.
+What types of injuries do service members face?
+During their service, members are at risk for various injuries. These injuries can happen during training or while in combat. Sometimes the injuries are life-threatening or serious enough to cause
+disability
+. Others may not be as serious, but they may be painful and can affect daily life.
+Some of the specific types of injuries that service members may face include:
+Sprains and strains
+, especially in the
+ankles
+and
+knees
+. These injuries are often caused by exercise and running.
+Back
+and
+shoulder
+injuries, often from lifting and carrying.
+Tinnitus
+and
+hearing loss
+, typically from exposure to
+noise
+.
+Head injuries
+and
+traumatic brain injuries
+(TBIs).
+Shrapnel and gunshot wounds.
+Lost limbs
+.
+What other special health problems do service members face?
+There may also be a risk of health problems from exposure to environmental hazards, such as contaminated water, chemicals, infections, and burn pits. Sometimes the health problems caused by exposures don't develop until years later.
+Some service members experience military sexual trauma (MST). This includes
+sexual assault
+and sexual harassment.
+What mental health issues do service members and veterans face?
+Being in combat and being separated from your family can be stressful. So can readjusting to civilian life after the military. All of this
+stress
+can put service members and veterans at risk for mental health problems, including:
+Depression
+Post-traumatic stress disorder
+(PTSD)
+Anxiety
+Alcohol
+and
+drug use
+disorders
+There is also a risk of
+suicide
+. Veterans who are in crisis can get help from the Veteran's Crisis line by:
+Calling 988 and then pressing 1
+Texting to 838255
+Chatting
+with them online
+What health care services are available to service members and veterans?
+There are health care services especially for service members and veterans through:
+TRICARE, which is the Department of Defense's health care program. It has insurance plans and other services for uniformed service members, retirees, and their families around the world.
+The Veterans Health Administration, which is part of the Department of Veterans Affairs (VA). It provides medical and social support services to eligible veterans.
+The VA 's expanded health care and benefits for veterans exposed to burn pits, Agent Orange, and other toxic substances.
+To better understand and treat the health needs of veterans in the future, the VA created the Million Veteran Program (MVP). This research program is looking at how genes, lifestyle, military experiences, and exposures affect health and wellness in veterans.
+
+Groups:
+- Health System
+- Population Groups
+
+MeSH Headings:
+- Prisoners of War
+- War Exposure
+- Veterans Health
+- War-Related Injuries
+- Military Personnel
+
+Related Resources:
+
+Resource: Abuse, Trauma, and Mental Health
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/mental-health/abuse-trauma-and-mental-health
+
+Resource: Agent Orange
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/agentorange/
+
+Resource: Airborne Hazards and Burn Pit Exposures
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/burnpits/
+
+Resource: Airborne Hazards and Open Burn Pit Registry
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/burnpits/registry.asp
+
+Resource: Alcohol Use Disorders Identification Test (AUDIT-C)
+Category: Health Check Tools
+Organization: Department of Veterans Affairs
+URL: https://www.mentalhealth.va.gov/coe/cih-visn2/Documents/Provider_Education_Handouts/AUDIT-C_Version_3.pdf
+
+Resource: Center for Women Veterans
+Category: Women
+Organization: Center for Women Veterans
+URL: https://department.va.gov/center-for-women-veterans/
+
+Resource: Check for Depression Symptoms
+Category: Health Check Tools
+Organization: Department of Veterans Affairs
+URL: https://www.mirecc.va.gov/visn19/treatmentworksforvets/depression/check-for-symptoms.asp
+
+Resource: Check for Substance Use Disorder Symptoms
+Category: Health Check Tools
+Organization: Department of Veterans Affairs
+URL: https://www.mirecc.va.gov/visn19/treatmentworksforvets/substance-use/check-for-symptoms.asp
+
+Resource: ClinicalTrials.gov: Military Personnel
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Military+Personnel%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Persian Gulf Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Persian+Gulf+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Veterans
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Veterans%22&aggFilters=status:not%20rec
+
+Resource: Department of Veterans Affairs
+Category: Find an Expert
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/
+
+Resource: Diseases and Conditions
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/diseases-conditions.asp
+
+Resource: Find a Doctor
+Category: Find an Expert
+Organization: Defense Health Agency
+URL: https://www.tricare.mil/GettingCare/FindDoctor
+
+Resource: How to File a VA Disability Claim
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/disability/how-to-file-claim/
+
+Resource: Infectious Diseases -- Diseases Related to Gulf War, Iraq, and Afghanistan Service
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/infectious-diseases/index.asp
+
+Resource: Make the Connection: Videos and Info for Military Veterans
+Category: Videos and Tutorials
+Organization: Department of Veterans Affairs
+URL: https://www.maketheconnection.net/
+
+Resource: Medically Unexplained Symptoms
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.warrelatedillness.va.gov/WARRELATEDILLNESS/education/factsheets/medically-unexplained-symptoms.pdf
+
+Resource: Mental Health Concerns: Service Members and Veterans
+Category: Specifics
+Organization: NAMI
+URL: https://www.nami.org/service-members-and-veterans/
+
+Resource: Military Exposures
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.publichealth.va.gov/exposures/
+
+Resource: Military Sexual Trauma
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.mentalhealth.va.gov/docs/mst_general_factsheet.pdf
+
+Resource: Military Sexual Trauma
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.mentalhealth.va.gov/msthome/index.asp
+
+Resource: Million Veteran Program
+Category: Statistics and Research
+Organization: Department of Veterans Affairs
+URL: https://www.mvp.va.gov/pwa/
+
+Resource: MyHealtheVet (VA's personal health record)
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.myhealth.va.gov/mhv-portal-web/home
+
+Resource: National Center for Health Promotion and Disease Prevention
+Category: Prevention and Risk Factors
+Organization: Department of Veterans Affairs
+URL: https://www.prevention.va.gov/
+
+Resource: PACT Act and Your VA benefits
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/resources/the-pact-act-and-your-va-benefits/
+
+Resource: Patient rights
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://department.va.gov/vha/patient-rights/
+
+Resource: Post-Traumatic Stress Disorder: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/posttraumaticstressdisorder.html
+
+Resource: Print Out Your VA Welcome Kit
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/welcome-kit/
+
+Resource: Prosthetic and Sensory Aids Service (PSAS)
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.prosthetics.va.gov/psas/index.asp
+
+Resource: Psychological Health Center of Excellence
+Category: Find an Expert
+Organization: Defense Health Agency
+URL: https://health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence
+
+Resource: Veteran's health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22War+Exposure%22%5Bmajr%3Anoexp%5D+OR+%22Veterans+Health%22%5Bmajr%3Anoexp%5D+OR+%22Military+Personnel%22%5Bmajr%3Anoexp%5D+OR+%22War-Related+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Prisoners+of+War%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Service Dog Veterinary Health Benefit
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.prosthetics.va.gov/serviceandguidedogs.asp
+
+Resource: Sleep
+Category: Videos and Tutorials
+Organization: Defense Health Agency
+URL: https://www.health.mil/Military-Health-Topics/Mental-Health/Mental-Health-Topics/Sleep
+
+Resource: Substance Use and Military Life
+Category: Statistics and Research
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/publications/drugfacts/substance-use-military-life
+
+Resource: Suicide Prevention
+Category: Prevention and Risk Factors
+Organization: Department of Veterans Affairs
+URL: https://www.mentalhealth.va.gov/suicide_prevention/
+
+Resource: Traumatic Brain Injury: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/traumaticbraininjury.html
+
+Resource: VA Resource Navigator
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.prevention.va.gov/PCL/PCL-VA-Navigator.asp
+
+Resource: Veterans Crisis Line
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.veteranscrisisline.net/
+
+Resource: Veterans Health Administration
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://department.va.gov/vha/
+
+Resource: Videos - PTSD: National Center for PTSD
+Category: Videos and Tutorials
+Organization: Department of Veterans Affairs
+URL: https://www.ptsd.va.gov/appvid/video/index.asp
+
+Resource: Viral Hepatitis and Liver Disease
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/
+
+Resource: Women Veterans Health Care: Frequently Asked Questions
+Category: Women
+Organization: Veterans Health Administration
+URL: https://www.womenshealth.va.gov/faq.asp
+
+Resource: Women Veterans Health Care: Military Sexual Trauma
+Category: Women
+Organization: Department of Veterans Affairs
+URL: https://www.womenshealth.va.gov/WOMENSHEALTH/topics/military-sexual-trauma.asp
+
+Resource: Your VA Primary Care Provider and PACT Team
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.va.gov/resources/your-va-primary-care-provider-and-PACT-team/

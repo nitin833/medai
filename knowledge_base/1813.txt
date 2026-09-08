@@ -1,0 +1,116 @@
+Title: Seguridad del niño
+
+Summary:
+Como padres, queremos que nuestros hijos estén alejados del peligro. Tome las medidas necesarias para mantener a su hijo seguro:
+Instale el asiento de seguridad adecuado para el niño en su
+automóvil
+Enseñe a los niños a cruzar las calles con seguridad
+Asegúrese de que usan la ropa y el equipamiento correcto para hacer
+deportes
+Instale y pruebe las alarmas de humo
+Guarde los medicamentos, los limpiadores y otras
+sustancias peligrosas
+en armarios cerrados con llave
+Haga que su casa sea segura para los bebés
+No deje a los niños pequeños sin vigilancia
+
+Groups:
+- Niños y adolescentes
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Ambientes saludables para los niños
+Category: Comience aquí, Spanish/Español
+Organization: Organización Panamericana de la Salud
+URL: https://www.paho.org/es/documentos/libro-actividades-monica-ambientes-saludables-para-ninos
+
+Resource: Compartir la cama con su bebé
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cosleeping.html
+
+Resource: Consejos de seguridad para el Día de las Brujas: disfraces, dulces, lentes de colores
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/consejos-de-seguridad-para-el-dia-de-las-brujas-disfraces-dulces-lentes-de-colores
+
+Resource: Cunas y su seguridad
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000542.htm
+
+Resource: Cómo prevenir las lesiones por caídas y por intentos de treparse a muebles o de agarrar objetos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-falls.html
+
+Resource: Cómo pueden los juguetes magnéticos de alta potencia causar daño a los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/at-home/paginas/dangers-of-magnetic-toys-and-fake-piercings.aspx
+
+Resource: De 2 a 4 años: La seguridad de su hijo
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/toddler/Paginas/Safety-for-Your-Child-2-to-4-Years.aspx
+
+Resource: En mi centro de enseñanza alguien lleva un arma ¿Cómo debo actuar?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/weapon-school.html
+
+Resource: Juguetes láser: Cómo mantener seguros a los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-juguetes-laser-como-mantener-seguros-los-ninos
+
+Resource: Lesiones del ojo en los niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/consejos/los-ninos
+
+Resource: Mantenerse seguro cerca de los animales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/animals.html
+
+Resource: Mochilas seguras (para padres)
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/backpack.html
+
+Resource: Niño curioso sobre la seguridad del juguete
+Category: Interactivos y videos, Spanish/Español
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://onsafety.cpsc.gov/es/2016/11/15/la-lista-de-juguetes-debe-empezar-por-la-seguridad/
+
+Resource: Niños y teléfonos móviles
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión Federal de Comunicaciones
+URL: https://consumidor.ftc.gov/articulos/ninos-y-telefonos-moviles
+
+Resource: Prevención de traumatismos craneales en los niños
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000130.htm
+
+Resource: Primeros auxilios y seguridad
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/firstaid-safe/
+
+Resource: Seguridad en el baño para los niños
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000154.htm
+
+Resource: Sillas de seguridad para niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000670.htm
+
+Resource: ¡Asegúrelos!
+Category: Asuntos específicos, Spanish/Español
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://www.anchorit.gov/espanol/

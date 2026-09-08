@@ -1,0 +1,288 @@
+Title: Growth Disorders
+
+Summary:
+Does your child seem much shorter - or much taller - than other kids his or her age? It could be normal. Some children may be small for their age but still be developing normally. Some children are short or tall because their parents are.
+But some children have growth disorders.  Growth disorders are problems that prevent children from developing normal height, weight, sexual maturity or other features.
+Very slow or very fast growth can sometimes signal a
+gland problem
+or disease.
+The pituitary gland makes growth hormone, which stimulates the growth of bone and other tissues. Children who have too little of it may be very short. Treatment with growth hormone can stimulate growth.
+People can also have too much growth hormone.  Usually the cause is a pituitary gland tumor, which is not cancer.  Too much growth hormone can cause gigantism in children, where their bones and their body grow too much.  In adults, it can cause acromegaly, which makes the hands, feet and face larger than normal. Possible treatments include surgery to remove the tumor, medicines, and radiation therapy.
+
+Groups:
+- Children and Teenagers
+- Endocrine System
+
+MeSH Headings:
+- Growth Disorders
+
+Related Resources:
+
+Resource: Acromegaly
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/acromegaly
+
+Resource: Acromegaly
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000321.htm
+
+Resource: Beckwith-Wiedemann syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001186.htm
+
+Resource: Beckwith-Wiedemann syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/beckwith-wiedemann-syndrome
+
+Resource: ClinicalTrials.gov: Acromegaly
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Acromegaly%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Failure to Thrive
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Failure+to+Thrive%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Growth Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Growth+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Cockayne syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cockayne-syndrome
+
+Resource: Delayed growth
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003021.htm
+
+Resource: Delayed Puberty (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/delayed-puberty.html
+
+Resource: DNMT3A overgrowth syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dnmt3a-overgrowth-syndrome
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Failure to Thrive
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/failure-thrive.html
+
+Resource: Faltering weight
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000991.htm
+
+Resource: FastStats: Body Measurements
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/body-measurements.htm
+
+Resource: Find an Endocrinologist
+Category: Find an Expert
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/find-an-endocrinologist-directory
+
+Resource: Floating-Harbor syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/floating-harbor-syndrome
+
+Resource: Geleophysic dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/geleophysic-dysplasia
+
+Resource: Gigantism
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001174.htm
+
+Resource: Growth chart
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001910.htm
+
+Resource: Growth Charts (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/growth-charts.html
+
+Resource: Growth Failure in Children with Chronic Kidney Disease
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/helping-child-adapt-life-chronic-kidney-disease/growth-failure-chronic-kidney-disease
+
+Resource: Growth Hormone Deficiency
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/growth-hormone-deficiency
+
+Resource: Growth hormone deficiency - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001176.htm
+
+Resource: Growth hormone stimulation test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003377.htm
+
+Resource: Growth hormone suppression test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003376.htm
+
+Resource: Growth hormone test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003706.htm
+
+Resource: Growth Hormone Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/growth-hormone-tests
+
+Resource: Growth Problems
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/growth-hormone.html
+
+Resource: Health Alert: Adrenal Crisis Causes Death in Some People Who Were Treated with hGH
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/national-hormone-pituitary-program/health-alert-adrenal-crisis-causes-death-people-treated-hgh
+
+Resource: Human Growth Hormone (HGH): Does It Slow Aging?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/healthy-aging/in-depth/growth-hormone/art-20045735?p=1
+
+Resource: IGF-1 (Insulin-like Growth Factor 1) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/igf-1-insulin-like-growth-factor-1-test/
+
+Resource: Information for People Treated with Pituitary Human Growth Hormone
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/endocrine-diseases/national-hormone-pituitary-program
+
+Resource: Isolated growth hormone deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/isolated-growth-hormone-deficiency
+
+Resource: Laron syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/laron-syndrome
+
+Resource: McCune-Albright syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001217.htm
+
+Resource: Mosaic variegated aneuploidy syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mosaic-variegated-aneuploidy-syndrome
+
+Resource: Noonan Syndrome (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/noonan-syndrome.html
+
+Resource: Noonan syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/noonan-syndrome
+
+Resource: Precocious Puberty
+Category: Children
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/precocious-puberty/symptoms-causes/syc-20351811?p=1
+
+Resource: Growth Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Growth+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Russell-Silver syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/silver-russell-syndrome
+
+Resource: Short stature
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003271.htm
+
+Resource: Short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/short-stature-hyperextensibility-hernia-ocular-depression-rieger-anomaly-and-teething-delay
+
+Resource: Silver-Russell syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001209.htm
+
+Resource: Sotos syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/sotos-syndrome
+
+Resource: Stature-for-Age and Weight-for-Age Percentiles: Boys, 2 to 20 Years
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/growthcharts/data/set1clinical/cj41c021.pdf
+
+Resource: Stature-for-Age and Weight-for-Age Percentiles: Girls 2 to 20 Years
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/growthcharts/data/set1clinical/cj41c022.pdf
+
+Resource: Warsaw breakage syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/warsaw-breakage-syndrome
+
+Resource: Weaver syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/weaver-syndrome
+
+Resource: Wiedemann-Rautenstrauch syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wiedemann-rautenstrauch-syndrome
+
+Resource: X-linked acrogigantism: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-acrogigantism
+
+Resource: X-linked spondyloepiphyseal dysplasia tarda: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/x-linked-spondyloepiphyseal-dysplasia-tarda
+
+Resource: X-Ray Exam: Bone Age Study (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-bone-age.html

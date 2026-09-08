@@ -1,0 +1,97 @@
+Title: Transfusión y donación de sangre
+
+Summary:
+Cada año, millones de personas reciben transfusiones sanguíneas que les salvan la vida.
+Durante una transfusión, usted recibe sangre completa o partes de la sangre, tales como:
+Glóbulos rojos: Células que transportan oxígeno hacia y desde los tejidos y órganos
+Plaquetas: Células que forman coágulos para controlar el sangrado
+Plasma: Parte líquida de la sangre que ayuda a la coagulación. Se puede necesitar cuando una persona tiene quemaduras graves, falla del hígado o una infección severa
+La mayoría de las transfusiones se realiza sin problemas. Algunos agentes infecciosos, como el VIH, pueden sobrevivir en la sangre e infectar a la persona que está recibiendo la transfusión. Para mantener la sangre segura, los bancos de sangre analizan la sangre donada. El riesgo de contraer un virus a raíz de una transfusión es bajo.
+A veces, es posible obtener una transfusión de su propia sangre. Durante una cirugía es posible perder sangre y necesitar reemplazarla. Si usted va a tener una cirugía que puede programar por adelantado, su doctor puede preguntarle si usted desea usar su propia sangre en lugar de una donada. Si es así, será necesario que le saquen sangre una o más veces antes de la cirugía. Un banco de sangre la almacenará para su uso.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Sangre, corazón y circulación
+- Transplantes y donaciones
+
+Related Resources:
+
+Resource: Cruz Roja Americana
+Category: Spanish/Español, Especialistas
+Organization: Cruz Roja Americana
+URL: https://www.redcross.org/cruz-roja.html
+
+Resource: Donación de sangre
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/blood-donation/about/pac-20385144?p=1
+
+Resource: Donación de sangre antes de la cirugía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000367.htm
+
+Resource: Exanguinotransfusión
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002923.htm
+
+Resource: Grupos sanguíneos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/blood-types.html
+
+Resource: Incompatibilidad ABO
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001306.htm
+
+Resource: Mitos y verdades: La donación de células progenitoras sanguíneas
+Category: Asuntos específicos, Spanish/Español
+Organization: NMDP
+URL: https://www.nmdp.org/es-us/get-involved/join-the-registry/myths-and-facts-about-blood-stem-cell-donation
+
+Resource: Precauciones y reacciones adversas durante una transfusión de sangre
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-sangre/transfusi%C3%B3n-de-sangre/precauciones-y-reacciones-adversas-durante-una-transfusi%C3%B3n-de-sangre
+
+Resource: Prueba de anticuerpos contra los glóbulos rojos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-anticuerpos-contra-los-globulos-rojos/
+
+Resource: Reacción transfusional hemolítica
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001303.htm
+
+Resource: Serie de la exanguinotransfusión
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100018_1.htm
+
+Resource: Transfusiones de sangre
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000431.htm
+
+Resource: Transfusiones de sangre
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/transfusions.html
+
+Resource: Tratamientos para trastornos sanguíneos
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/sangre-y-medula-osea-tratamientos
+
+Resource: ¿Cómo puede usted contribuir a la investigación médica? Done su sangre, sus tejidos y otras muestras
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/educacion-para-pacientes/como-contribuir-a-la-investigacion-medica
+
+Resource: ¿Ha donado sangre últimamente?
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/ha-donado-sangre-ultimamente

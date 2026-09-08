@@ -1,0 +1,136 @@
+Title: Bone Marrow Transplantation
+
+Summary:
+Bone marrow is the spongy tissue inside some of your bones, such as your hip and thigh bones. It contains immature cells, called stem cells. The stem cells can develop into red blood cells, which carry oxygen throughout the body, white blood cells, which fight infections, and platelets, which help the blood to clot.
+A bone marrow transplant is a procedure that replaces a person's faulty bone marrow stem cells. Doctors use these transplants to treat people with certain diseases, such as:
+Leukemia
+Severe blood diseases such as
+thalassemias
+,
+aplastic anemia
+, and
+sickle cell anemia
+Multiple myeloma
+Certain immune deficiency diseases
+Before you have a transplant, you need to get high doses of chemotherapy and possibly radiation. This destroys the faulty stem cells in your bone marrow. It also suppresses your body's immune system so that it won't attack the new stem cells after the transplant.
+In some cases, you can donate your own bone marrow stem cells in advance. The cells are saved and then used later on. Or you can get cells from a donor. The donor might be a family member or unrelated person.
+Bone marrow transplantation has serious risks. Some complications can be life-threatening. But for some people, it is the best hope for a cure or a longer life.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Immune System
+- Transplantation and Donation
+
+MeSH Headings:
+- Bone Marrow Transplantation
+
+Related Resources:
+
+Resource: About Transplantation -- Blood Stem Cell
+Category: Start Here
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/transplant-basics/about-transplantation
+
+Resource: Becoming a Blood Stem Cell Donor
+Category: Videos and Tutorials
+Organization: National Cancer Institute
+URL: https://www.youtube.com/watch?v=mnTnkR7I0zk
+
+Resource: Bone marrow (stem cell) donation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000839.htm
+
+Resource: Bone marrow transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003009.htm
+
+Resource: Bone marrow transplant - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000010.htm
+
+Resource: Bone marrow transplant in children - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000938.htm
+
+Resource: Bone-marrow transplant - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100112_1.htm
+
+Resource: ClinicalTrials.gov: Bone Marrow Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=bone+marrow+transplantation&aggFilters=status:not%20rec
+
+Resource: Donating Stem Cells and Bone Marrow
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/donors.html
+
+Resource: Donation and Transplantation Statistics
+Category: Statistics and Research
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/data/donation-and-transplantation-statistics
+
+Resource: Finding a Blood Stem Cell Donor
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant/finding-a-donor
+
+Resource: Getting a Stem Cell or Bone Marrow Transplant
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/process.html
+
+Resource: Graft-versus-host disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001309.htm
+
+Resource: How to Prevent Graft-Versus-Host Disease (GVHD)
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/patients/transplant-support/life-after-transplant/physical-recovery/graft-versus-host-disease
+
+Resource: Life After Bone Marrow or Blood Stem Cell Transplant
+Category: Living With
+Organization: NMDP
+URL: https://www.nmdp.org/patients/transplant-support/life-after-transplant
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Planning for a Transplant -- Blood Stem Cell
+Category: Related Issues
+Organization: Health Resources and Services Administration
+URL: https://bloodstemcell.hrsa.gov/transplant-basics/planning-transplant
+
+Resource: Bone Marrow Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Bone+Marrow+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stem Cell or Bone Marrow Transplant Side Effects
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/stem-cell-transplant/transplant-side-effects.html
+
+Resource: Treatment ​Steps B​efore​ a​ ​B​lood ​S​tem ​C​ell ​T​ransplant
+Category: Related Issues
+Organization: NMDP
+URL: https://www.nmdp.org/patients/transplant-support/preparing-for-transplant/treatment-before-transplant
+
+Resource: Treatments for Blood Disorders
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: What Is a Bone Marrow or Blood Stem Cell Transplant
+Category: Start Here
+Organization: NMDP
+URL: https://www.nmdp.org/patients/understanding-transplant

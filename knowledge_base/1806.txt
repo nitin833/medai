@@ -1,0 +1,63 @@
+Title: Enfermedad de Charcot-Marie-Tooth
+
+Also Called:
+- Disfunción del nervio peroneo
+
+Summary:
+La enfermedad de Charcot-Marie-Tooth (CMT, por sus siglas en inglés) es un grupo de trastornos nerviosos genéticos. Su nombre se debe a los tres médicos que la identificaron por primera vez. En los Estados Unidos, la CMT afecta aproximadamente a 1 de cada 2.500 personas.
+La enfermedad CMT afecta los
+nervios periféricos
+. Los nervios periféricos conducen las señales de movimiento y de sensaciones entre el cerebro, la médula espinal y el resto del cuerpo. Los síntomas suelen comenzar durante la adolescencia. Los problemas en los pies, tales como el pie arqueado (arco pronunciado) o los dedos en martillo, pueden ser los primeros síntomas. A medida que la CMT avanza, la parte inferior de las piernas puede debilitarse. Más adelante, las manos también pueden debilitarse.
+Los médicos diagnostican esta enfermedad mediante un examen neurológico, pruebas genéticas o biopsias de los nervios. No existe una cura. La enfermedad puede ser tan leve que no perciba que la tiene o ser lo suficientemente severa para debilitarlo. La fisioterapia, la terapia ocupacional, los aparatos ortopédicos y otros dispositivos y, en algunos casos, la cirugía pueden ayudarlo.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Electromiografía
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Electromiograma (EMG)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emg.html
+
+Resource: Enfermedad de Charcot-Marie-Tooth
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/enfermedad-de-charcot-marie-tooth
+
+Resource: Enfermedad de Charcot-Marie-Tooth
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000727.htm
+
+Resource: Enfermedad de Charcot-Marie-Tooth
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/11876/enfermedad-de-charcot-marie-tooth/
+
+Resource: Enfermedades musculares: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/muscledisorders.html
+
+Resource: Enfermedades neurodegenerativas: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/degenerativenervediseases.html
+
+Resource: Neuropatía periférica
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/neuropatia-periferica

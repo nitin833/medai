@@ -1,0 +1,215 @@
+Title: Prediabetes
+
+Summary:
+What is prediabetes?
+Prediabetes means that your blood glucose, or
+blood sugar
+, levels are higher than normal but not high enough to be called
+diabetes
+. Glucose comes from the foods you eat. Too much glucose in your blood can damage your body over time.
+If you have prediabetes, you are more likely to develop
+type 2 diabetes
+,
+heart disease
+, and
+stroke
+. But if you make some lifestyle changes now, you may be able to delay or prevent type 2 diabetes.
+What causes prediabetes?
+Prediabetes usually happens when your body has a problem with insulin. Insulin is a hormone that helps the glucose get into your cells to give them energy. A problem with insulin could be:
+Insulin resistance, a condition in which the body can't use its insulin properly. It makes it hard for your cells to get glucose from your blood. This can cause your blood sugar levels to rise.
+Your body can't make enough insulin to keep your blood sugar levels at a healthy level
+Researchers think that being overweight and not getting regular physical activity are major factors in causing prediabetes.
+Who is at risk for prediabetes?
+About 1 out of every 3 adults has prediabetes. It is more common in people who:
+Are overweight or have
+obesity
+Are age 45 or older
+Have a parent, brother, or sister with diabetes
+Are African American, Alaska Native, American Indian, Asian American, Hispanic/Latino, Native Hawaiian, or Pacific Islander American
+Are not physically active
+Have health conditions such as
+high blood pressure
+and
+high cholesterol
+Have had
+gestational diabetes
+(diabetes in pregnancy)
+Have a history of heart disease or stroke
+Have
+metabolic syndrome
+Have
+polycystic ovary syndrome
+(PCOS)
+What are the symptoms of prediabetes?
+Most people don't know they have prediabetes because usually there are no symptoms.
+Some people with prediabetes may have darkened skin in the armpit or on the back and sides of the neck. They may also have many small skin growths in those same areas.
+How is prediabetes diagnosed?
+There are a few different blood tests that can diagnose prediabetes. The most common ones are:
+Fasting plasma glucose
+(FPG) test, which measures your blood sugar at a single point in time. You need to fast (not eat or drink) for at least 8 hours before the test. The results of the test are given in mg/dL (milligrams per deciliter):
+A normal level is 99 or below
+Prediabetes is 100 to 125
+Type 2 diabetes is 126 and above
+A1C test
+, which measures your average blood sugar over the past 3 months. The results of an A1C test are given as a percentage. The higher the percentage, the higher your blood sugar levels have been.
+A normal level is below 5.7%
+Prediabetes is between 5.7 to 6.4%
+Type 2 diabetes is above 6.5%
+If I have prediabetes, will I get diabetes?
+If you have prediabetes, you may be able to delay or
+prevent
+type 2 diabetes through lifestyle changes:
+Losing weight
+, if you are overweight
+Getting
+regular physical activity
+Following a healthy, reduced-calorie eating plan
+In some cases, your health care provider may also recommend taking
+diabetes medicines
+.
+Can prediabetes be prevented?
+If you are at risk for prediabetes, those same lifestyle changes (losing weight, regular physical activity, and a healthy eating plan) may prevent you from getting it.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Endocrine System
+- Diabetes Mellitus
+
+MeSH Headings:
+- Prediabetic State
+
+Related Resources:
+
+Resource: A1C: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/a1c.html
+
+Resource: About Prediabetes
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/diabetes/about-diabetes/about-prediabetes
+
+Resource: All about Insulin Resistance
+Category: Related Issues
+Organization: American Diabetes Association
+URL: https://professional.diabetes.org/sites/default/files/media/All_about_Insulin_Resistance.pdf
+
+Resource: American Diabetes Association
+Category: Find an Expert
+Organization: American Diabetes Association
+URL: https://diabetes.org/
+
+Resource: Blood Glucose Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/blood-glucose-test/
+
+Resource: Blood sugar test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003482.htm
+
+Resource: ClinicalTrials.gov: Insulin Resistance
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Insulin+Resistance%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Prediabetic State
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Prediabetic+State%22&aggFilters=status:not%20rec
+
+Resource: Diabetes Complications and Risks
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/diabetes/diabetes-complications-and-risks
+
+Resource: Diabetes Diagnosis and Tests
+Category: Diagnosis and Tests
+Organization: American Diabetes Association
+URL: https://diabetes.org/about-diabetes/diagnosis
+
+Resource: Diabetes Risk Factors
+Category: Prevention and Risk Factors
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/diabetes/understand-your-risk-for-diabetes
+
+Resource: Diabetes Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/diabetes-tests/
+
+Resource: Diabetes Tests and Diagnosis
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis
+
+Resource: Diabetes, Heart Disease, and Stroke
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke
+
+Resource: Do I Have Prediabetes?
+Category: Health Check Tools
+Organization: Centers for Disease Control and Prevention
+URL: https://doihaveprediabetes.org/take-the-risk-test#/
+
+Resource: Glucose tolerance test - non-pregnant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003466.htm
+
+Resource: How to Prevent Diabetes: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/howtopreventdiabetes.html
+
+Resource: Insulin Resistance and Prediabetes
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/prediabetes-insulin-resistance
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Prediabetes
+Category: Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/prediabetes/
+
+Resource: Prediabetes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000778.htm
+
+Resource: Prediabetes -- Your Chance to Prevent Type 2 Diabetes
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html
+
+Resource: Prediabetes Diet
+Category: Treatments and Therapies
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/wellness-and-prevention/prediabetes-diet
+
+Resource: Prediabetes in US Adolescents
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://usdss.cdc.gov/diabetes/spotlight.html
+
+Resource: Prediabetes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Prediabetic+State%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Surprising Truth about Prediabetes
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/prevention-type-2/truth-about-prediabetes.html
+
+Resource: Weight Management to Prevent or Reverse Prediabetes
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://doihaveprediabetes.org/reverse-prediabetes/manage-weight

@@ -1,0 +1,344 @@
+Title: Bleeding Disorders
+
+Also Called:
+- Clotting disorders
+
+Summary:
+Normally, if you get hurt, your body forms a
+blood clot
+to stop the
+bleeding
+. For blood to clot, your body needs cells called platelets and proteins known as clotting factors. If 
+you have a bleeding disorder, you either do not have enough
+platelets
+or clotting factors 
+or they don't work the way they should.
+Bleeding disorders can be the result of other diseases, such as severe
+liver disease
+or a lack of
+vitamin K
+. They can also be inherited.
+Hemophilia
+is an inherited bleeding disorder. Bleeding disorders can also be a side effect of medicines such as
+blood thinners
+.
+Various blood tests can check for a bleeding disorder. You will also have a physical exam and history. Treatments depend on the cause. They may include medicines and transfusions of
+blood
+, platelets, or clotting factor.
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Blood Coagulation Disorders
+
+Related Resources:
+
+Resource: About Vitamin K Deficiency Bleeding
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vitamin-k-deficiency/about/
+
+Resource: Bernard-Soulier syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bernard-soulier-syndrome
+
+Resource: Bleeding disorders
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001304.htm
+
+Resource: Bleeding Disorders
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/bleeding-disorders
+
+Resource: Bleeding into the skin
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003235.htm
+
+Resource: Bleeding time
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003656.htm
+
+Resource: Blood clotting
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000011.htm
+
+Resource: Blood Test: Factor VIII Activity
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-factor8.html
+
+Resource: Blood Test: Prothrombin Time (PT)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/test-pt.html
+
+Resource: Blood Thinners: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodthinners.html
+
+Resource: Blood Transfusions (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/transfusions.html
+
+Resource: Bruising and Bleeding
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/blood-clotting-process/bruising-and-bleeding
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Blood Coagulation Disorders
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Blood+Coagulation+Disorders%22&aggFilters=status:not%20rec
+
+Resource: Coagulation Factor Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/coagulation-factor-tests/
+
+Resource: Complete plasminogen activator inhibitor 1 deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/complete-plasminogen-activator-inhibitor-1-deficiency
+
+Resource: Congenital fibrinogen deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001313.htm
+
+Resource: D-Dimer Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/d-dimer-test/
+
+Resource: Disseminated intravascular coagulation (DIC)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000573.htm
+
+Resource: Disseminated Intravascular Coagulation (DIC)
+Category: Specifics
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/disseminated-intravascular-coagulation
+
+Resource: Factor II (prothrombin) assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003674.htm
+
+Resource: Factor V assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003675.htm
+
+Resource: Factor V deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000550.htm
+
+Resource: Factor V deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-v-deficiency
+
+Resource: Factor VII assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003676.htm
+
+Resource: Factor VII deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000548.htm
+
+Resource: Factor VII deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-vii-deficiency
+
+Resource: Factor X assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003680.htm
+
+Resource: Factor X deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000553.htm
+
+Resource: Factor X deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-x-deficiency
+
+Resource: Factor XI deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-xi-deficiency
+
+Resource: Factor XII (Hageman factor) deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000545.htm
+
+Resource: Factor XII assay
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003681.htm
+
+Resource: Factor XIII deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/factor-xiii-deficiency
+
+Resource: Fibrin degradation products blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003655.htm
+
+Resource: Fibrinogen blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003650.htm
+
+Resource: Fibrinolysis - primary or secondary
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000577.htm
+
+Resource: Fibrinopeptide A blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003373.htm
+
+Resource: Find a Hematologist
+Category: Find an Expert
+Organization: American Society of Hematology
+URL: https://www.hematology.org/education/patients/find-a-hematologist
+
+Resource: Glycoprotein VI deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/glycoprotein-vi-deficiency
+
+Resource: Hemoglobinuria test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003363.htm
+
+Resource: Hereditary hemorrhagic telangiectasia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000837.htm
+
+Resource: MPV Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/mpv-blood-test/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Partial thromboplastin time (PTT)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003653.htm
+
+Resource: Prekallikrein deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prekallikrein-deficiency
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Prothrombin deficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000549.htm
+
+Resource: Prothrombin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/prothrombin-deficiency
+
+Resource: Prothrombin time (PT)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003652.htm
+
+Resource: Prothrombin Time Test and INR (PT/INR)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
+
+Resource: Bleeding disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Blood+Coagulation+Disorders%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rare Clotting Factor Deficiencies
+Category: Specifics
+Organization: World Federation of Hemophilia
+URL: https://elearning.wfh.org/elearning-centres/rare-clotting-factor-deficiencies/
+
+Resource: Signs and Symptoms of Bleeding Disorders in Women
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/female-blood-disorders/signs-symptoms/
+
+Resource: Stormorken syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stormorken-syndrome
+
+Resource: Thrombocytopenia-absent radius syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/thrombocytopenia-absent-radius-syndrome
+
+Resource: Treatments for Blood Disorders
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: Vitamin K deficiency bleeding of the newborn
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007320.htm
+
+Resource: What Are Bleeding Disorders
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/bleeding-disorders
+
+Resource: What Are Blood Clotting Disorders?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/clotting-disorders
+
+Resource: Where to Donate Blood
+Category: Find an Expert
+Organization: Association for the Advancement of Blood & Biotherapies
+URL: https://www.aabb.org/for-donors-patients/give-blood
+
+Resource: Wiskott-Aldrich syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/wiskott-aldrich-syndrome

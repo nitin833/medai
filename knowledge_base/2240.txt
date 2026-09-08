@@ -1,0 +1,155 @@
+Title: Enfermedades de la boca
+
+Also Called:
+- Enfermedades bucales
+
+Summary:
+La boca es una de las partes más importantes de su cuerpo. Cumple muchas funciones diferentes. Le permite:
+Consumir alimentos y líquidos
+Inhalar y exhalar aire
+Comenzar la digestión, con sus dientes masticando la comida y sus glándulas salivales produciendo saliva que ayuda a ablandar los alimentos
+Hablar y cantar
+Demostrar emociones, como sonreír o hacer pucheros
+Cualquier problema que afecte la boca puede dificultarle comer, beber o hasta sonreír. Algunos problemas comunes de la boca son:
+Herpes labial
+: Llagas dolorosas en los labios y alrededor de la boca causadas por un virus
+Aftas bucales
+: Úlceras dolorosas en la boca, causadas por bacterias o virus
+Muguet o candidiasis oral:
+Infección por cándida
+que causa manchas blancas en la boca
+Leucoplaquia: Parches blancos formados por exceso de crecimiento celular en la mucosa de las mejillas, las encías o la lengua, común en los fumadores
+Boca seca
+: Falta de suficiente saliva, causada por algunas medicinas y enfermedades
+Problemas en las
+encías
+o los
+dientes
+Mal aliento
+El tratamiento de los trastornos de la boca varía dependiendo del problema. Si el problema de la boca es causado por otra afección, tratar esa enfermedad puede ayudar. Es importante mantener la boca limpia mediante el cepillado y el uso del hilo dental en forma frecuente, y evitar el tabaco.
+
+Groups:
+- Oído, nariz y garganta
+- Salud oral y dental
+
+Related Resources:
+
+Resource: Atrofia hemifacial progresiva
+Category: Spanish/Español, Asuntos relacionados
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13462/atrofia-hemifacial-progresiva
+
+Resource: Babeo
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003048.htm
+
+Resource: Biopsia de la encía
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003852.htm
+
+Resource: Biopsia de lesión orofaríngea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003850.htm
+
+Resource: Boca y los dientes
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/mouth-teeth.html
+
+Resource: Boca y los dientes
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/mouth-teeth.html
+
+Resource: Candidiasis bucal en niños y adultos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000626.htm
+
+Resource: Candidosis oral
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/oral-thrush/symptoms-causes/syc-20353533?p=1
+
+Resource: Dermatitis perioral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001455.htm
+
+Resource: Herpangina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000969.htm
+
+Resource: Importancia de la saliva
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/una-sorpresa-que-le-hara-salivar
+
+Resource: Instituto Nacional de Investigación Dental y Craneofacial
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol
+
+Resource: Leucoplasia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001046.htm
+
+Resource: Liquen plano
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000867.htm
+
+Resource: Llagas en la boca a causa del tratamiento contra el cáncer: Cómo afrontarlas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cancer/in-depth/mouth-sores/art-20045486?p=1
+
+Resource: Mioclono palatino
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001637.htm
+
+Resource: Mucositis oral: Cuidados personales
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000047.htm
+
+Resource: Muguet (candidiasis oral)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/thrush.html
+
+Resource: Quiste mucoso oral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001639.htm
+
+Resource: Síndrome de la boca ardiente
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/sindrome-boca-ardiente
+
+Resource: Tumores bucales
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-bucales-y-dentales/s%C3%ADntomas-de-los-trastornos-orales-y-dentales/tumores-bucales
+
+Resource: VIH/sida y la salud oral
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Investigación Dental y Craneofacial
+URL: https://www.nidcr.nih.gov/espanol/temas-de-salud/vih-sida-y-la-salud-oral
+
+Resource: Úlceras bucales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003059.htm
+
+Resource: Úlceras bucales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001448.htm

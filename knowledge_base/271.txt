@@ -1,0 +1,342 @@
+Title: Traumatic Brain Injury
+
+Also Called:
+- Acquired brain injury
+- TBI
+
+Summary:
+What is traumatic brain injury (TBI)?
+Traumatic brain injury (TBI) is a sudden injury that causes damage to the brain. It may happen when there is a blow, bump, or jolt to the head. This is a closed head injury. A TBI can also happen when an object penetrates the skull. This is a penetrating injury.
+Symptoms of a TBI can be mild, moderate, or severe.
+Concussions
+are a type of mild TBI. The effects of a concussion can sometimes be serious, but most people completely recover in time. More severe TBI can lead to serious physical and psychological symptoms,
+coma
+, and even death.
+What causes traumatic brain injury (TBI)?
+The main causes of TBI depend on the type of
+head injury
+:
+Some of the common causes of a closed head injury include
+Falls
+. This is the most common cause in adults age 65 and older.
+Motor vehicle crashes. This is the most common cause in young adults.
+Sports injuries
+Being struck by an object
+Child abuse
+. This is the most common cause in children under age 4.
+Blast injuries due to explosions
+Some of the common causes of a penetrating injury include
+Being hit by a bullet or shrapnel
+Being hit by a weapon such as a hammer, knife, or baseball bat
+A head injury that causes a bone fragment to penetrate the skull
+Some accidents such as explosions, natural disasters, or other extreme events can cause both closed and penetrating TBI in the same person.
+Who is at risk for traumatic brain injury (TBI)?
+Certain groups are at higher risk of TBI:
+Men are more likely to get a TBI than women. They are also more likely to have serious TBI.
+Adults aged 65 and older are at the greatest risk for being hospitalized and dying from a TBI
+What are the symptoms of traumatic brain injury (TBI)?
+The symptoms of TBI depend on the type of injury and how serious the brain damage is.
+The symptoms of
+mild TBI
+can include:
+A brief loss of consciousness in some cases. However, many people with mild TBI remain conscious after the injury.
+Headache
+Confusion
+Lightheadedness
+Dizziness
+Blurred vision or tired eyes
+Ringing in the ears
+Bad taste in the mouth
+Fatigue
+or lethargy
+A change in sleep patterns
+Behavioral or mood changes
+Trouble with memory, concentration, attention, or thinking
+If you have a moderate or severe TBI, you may have those same symptoms. You may also have other symptoms such as:
+A headache that gets worse or does not go away
+Repeated
+vomiting or nausea
+Convulsions or
+seizures
+Not being able to wake up from sleep
+Larger than normal pupil (dark center) of one or both eyes. This is called dilation of the pupil.
+Slurred speech
+Weakness or numbness in the arms and legs
+Loss of coordination
+Increased confusion, restlessness, or agitation
+How is traumatic brain injury (TBI) diagnosed?
+If you have a head injury or other trauma that may have caused a TBI, you need to get medical care as soon as possible. To make a diagnosis, your health care provider:
+Will ask about your symptoms and the details of your injury
+Will do a
+neurologic exam
+May do
+imaging tests
+, such as a
+CT scan
+or
+MRI
+May use a tool such as the Glasgow coma scale to determine how severe the TBI is. This scale measures your ability to open your eyes, speak, and move.
+May do neuropsychological tests to check how your brain is functioning
+What are the treatments for traumatic brain injury (TBI)?
+The treatments for TBI depend on many factors, including the size, severity, and location of the brain injury.
+For mild TBI
+, the main treatment is rest. If you have a headache, you can try taking over-the-counter
+pain relievers
+. It is important to follow your health care provider's instructions for complete rest and a gradual return to your normal activities. If you start doing too much too soon, it may take longer to recover. Contact your provider if your symptoms are not getting better or if you have new symptoms.
+For moderate to severe TBI
+, the first thing health care providers will do is stabilize you to prevent further injury. They will manage your blood pressure, check the pressure inside your skull, and make sure that there is enough blood and oxygen getting to your brain.
+Once you are stable, the treatments may include:
+Surgery
+to reduce additional damage to your brain, for example to
+Remove hematomas (clotted blood)
+Get rid of damaged or dead brain tissue
+Repair skull fractures
+Relieve pressure in the skull
+Medicines
+to treat the symptoms of TBI and to lower some of the risks associated with it, such as
+Anti-anxiety medication to lessen feelings of nervousness and fear
+Anticoagulants
+to prevent
+blood clots
+Anticonvulsants to prevent seizures
+Antidepressants
+to treat symptoms of
+depression
+and mood instability
+Muscle relaxants to reduce muscle spasms
+Stimulants to increase alertness and attention
+Rehabilitation therapies
+, which can include therapies for physical, emotional, and cognitive difficulties:
+Physical therapy, to build physical strength, coordination, and flexibility
+Occupational therapy, to help you learn or relearn how to perform daily tasks, such as getting dressed, cooking, and bathing
+Speech therapy, to help you to with
+speech and other communication
+skills and treat
+swallowing disorders
+Psychological counseling, to help you learn coping skills, work on relationships, and improve your emotional well-being
+Vocational counseling, which focuses on your ability to return to work and deal with workplace challenges
+Cognitive therapy, to improve your memory, attention, perception, learning, planning, and judgment
+Some people with TBI may have permanent
+disabilities
+. A TBI can also put you at risk for other health problems such as
+anxiety
+, depression, and
+post-traumatic stress disorder
+. Treating these problems can improve your quality of life.
+Can traumatic brain injury (TBI) be prevented?
+There are steps you can take to prevent head injuries and TBIs:
+Always wear your seatbelt and use car seats and booster seats for children
+Never drive
+under the influence of drugs or alcohol
+Wear a properly fitting helmet when riding a bicycle, skateboarding, and playing sports like hockey and football
+Prevent falls by
+Making your house safer. For example, you can install railings on the stairs and grab bars in the tub, get rid of tripping hazards, and use window guards and stair safety gates for young children.
+Improving your balance and strength with regular physical activity
+
+Groups:
+- Brain and Nerves
+- Injuries and Wounds
+
+MeSH Headings:
+- Brain Injuries, Traumatic
+
+Related Resources:
+
+Resource: About Moderate and Severe TBI
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/about/moderate-severe-tbi.html
+
+Resource: About Traumatic Brain Injury (TBI)
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/tbi/conditioninfo
+
+Resource: Abusive Head Trauma (Shaken Baby Syndrome)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/shaken.html
+
+Resource: Blood-based Biomarker Can Detect, Predict Severity of Traumatic Brain Injury
+Category: Statistics and Research
+Organization: National Institutes of Health, Clinical Center
+URL: https://www.nih.gov/news-events/news-releases/blood-based-biomarker-can-detect-predict-severity-traumatic-brain-injury
+
+Resource: Brain Basics: The Life and Death of a Neuron
+Category: Statistics and Research
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-life-and-death-neuron
+
+Resource: Brain components
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000016.htm
+
+Resource: Brain Contusions and Lacerations
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/injuries-and-poisoning/head-injuries/brain-contusions-and-lacerations
+
+Resource: Brain herniation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001421.htm
+
+Resource: Brain injury - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000163.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Cerebral Hypoxia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#cerebral-hypoxia
+
+Resource: Cerebral hypoxia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001435.htm
+
+Resource: Chronic subdural hematoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000781.htm
+
+Resource: Chronic Traumatic Encephalopathy
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-traumatic-encephalopathy/symptoms-causes/syc-20370921?p=1
+
+Resource: ClinicalTrials.gov: Brain Injuries, Traumatic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Injuries,+Traumatic%22&aggFilters=status:not%20rec
+
+Resource: CPK isoenzymes test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003504.htm
+
+Resource: CSF leak
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001068.htm
+
+Resource: EEG
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003931.htm
+
+Resource: Epidural hematoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001412.htm
+
+Resource: Facts About TBI
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/data-research/facts-stats/
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: Head CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: Head injury - first aid
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000028.htm
+
+Resource: Head Trauma: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-head-trauma/basics/art-20056626?p=1
+
+Resource: How Do Health Care Providers Diagnose Traumatic Brain Injury (TBI)?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/tbi/conditioninfo/diagnose
+
+Resource: Intracranial Hematoma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/intracranial-hematoma/symptoms-causes/syc-20356145?p=1
+
+Resource: Intracranial pressure monitoring
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003411.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Preventing TBI
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/prevention/
+
+Resource: Traumatic brain injury
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Injuries%2C+Traumatic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shaken baby syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007578.htm
+
+Resource: Skull x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Subdural hematoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000713.htm
+
+Resource: TBI Data
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/traumatic-brain-injury/data-research/
+
+Resource: Traumatic Brain Injury (TBI)
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/traumatic-brain-injury-tbi
+
+Resource: Traumatic Brain Injury Resources for Service Members, Families, and Caregivers
+Category: Related Issues
+Organization: Defense Health Agency
+URL: https://health.mil/Military-Health-Topics/Centers-of-Excellence/Traumatic-Brain-Injury-Center-of-Excellence/Patient-and-Family-Resources
+
+Resource: What Are Common Symptoms of Traumatic Brain Injury (TBI)?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/tbi/conditioninfo/symptoms
+
+Resource: What Is Shaken Baby Syndrome?
+Category: Children
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/shaken-baby-syndrome

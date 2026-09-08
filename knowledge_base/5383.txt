@@ -1,0 +1,168 @@
+Title: Vitamin D
+
+Also Called:
+- Cholecalciferol
+- Ergocalciferol
+
+Summary:
+Why do I need vitamin D?
+Vitamins
+are substances that your body needs to grow and develop normally. Vitamin D is important to your body because:
+It helps your body absorb
+calcium
+. Calcium is one of the main building blocks of bone.
+A lack of vitamin D
+can lead to bone diseases such as
+osteoporosis
+or
+rickets
+.
+It also has a role in your nerve, muscle, and
+immune
+systems:
+Your muscles need it to move
+Your nerves need it to carry messages between your brain and your body
+Your immune system needs vitamin D to fight off bacteria and viruses
+How do I get vitamin D?
+You can get vitamin D in three ways: through your skin, from your diet, and from supplements. Your body forms vitamin D naturally after
+exposure to sunlight
+. However, too much sun exposure can lead to
+skin aging
+and
+skin cancer
+. So many people try to get their vitamin D from other sources.
+Very few foods naturally contain vitamin D. Most people get vitamin D in their diet from foods that are fortified. This means that vitamin D is added to the food. These foods may include milk, cereal, and yogurt. Foods that naturally have vitamin D include egg yolks, saltwater fish, and liver.
+Vitamin D is available in supplements. It is also included in many multivitamins. The two forms of vitamin D in supplements are D2 and D3. Both types increase vitamin D in your blood, but D3 might raise it higher and for longer than D2. Vitamin D is fat soluble. You can absorb it better when you take your supplements with a meal or snack that includes some fat.
+How much vitamin D do I need?
+The amount of vitamin D you need each day depends on your age. The recommended amounts, in international units (IU), are:
+Birth to 12 months: 400 IU
+Children 1-13 years: 600 IU
+Teens 14-18 years: 600 IU
+Adults 19-70 years: 600 IU
+Adults 71 years and older: 800 IU
+If you are pregnant or breastfeeding: 600 IU
+But certain people may need extra vitamin D, such as:
+Older adults
+Breastfed infants
+People with dark skin
+People with  certain conditions that limit the absorption of fat, such as
+Crohn's disease
+,
+celiac disease
+, and
+ulcerative colitis
+People who have
+obesity
+or have had
+gastric bypass surgery
+Check with your health care provider to see if you need to take vitamin D supplements, and if so, how much you should take. Your provider may want to first do a
+vitamin D test
+to see if you are getting enough of it.
+NIH: National Institutes of Health Office of Dietary Supplements
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Vitamin D
+
+Related Resources:
+
+Resource: 25-hydroxy vitamin D test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003569.htm
+
+Resource: Calcium and Vitamin D: Important for Bone Health
+Category: Related Issues
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/calcium-and-vitamin-d-important-bone-health
+
+Resource: Calcium, vitamin D, and your bones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000490.htm
+
+Resource: ClinicalTrials.gov: Vitamin D
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Vitamin+D%22&aggFilters=status:not%20rec
+
+Resource: Digging Into Vitamin D: All About the "Sunshine" Vitamin
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/04/digging-into-vitamin-d
+
+Resource: Find a Nutrition Expert
+Category: Find an Expert
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/find-a-nutrition-expert
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food and Nutrition Information Center
+Category: Find an Expert
+Organization: Food and Nutrition Information Center
+URL: https://www.nal.usda.gov/programs/fnic
+
+Resource: Hypervitaminosis D
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001594.htm
+
+Resource: National Institutes of Health, Office of Dietary Supplements
+Category: Find an Expert
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/
+
+Resource: Vitamin D
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Vitamin+D%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Test Your Bone-Health Diet Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000490_11.htm
+
+Resource: Vitamin D
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/VitaminD-Consumer/
+
+Resource: Vitamin D
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vitamin-d.html
+
+Resource: Vitamin D
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002405.htm
+
+Resource: Vitamin D and Breastfeeding
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html
+
+Resource: Vitamin D and Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/vitamin-d-fact-sheet
+
+Resource: Vitamin D and MS: Is There Any Connection?
+Category: Statistics and Research
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/multiple-sclerosis/expert-answers/vitamin-d-and-ms/faq-20058258?p=1
+
+Resource: Vitamin D Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vitamin-d-test/
+
+Resource: Vitamin D Toxicity: What If You Get Too Much?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/vitamin-d-toxicity/faq-20058108?p=1

@@ -1,0 +1,171 @@
+Title: Myositis
+
+Summary:
+Myositis means inflammation of the muscles that you use to move your body. An injury, infection, or
+autoimmune disease
+can cause it. Two specific kinds are polymyositis and dermatomyositis. Polymyositis causes muscle weakness, usually in the muscles closest to the trunk of your body. Dermatomyositis causes muscle weakness, plus a skin rash.
+Other symptoms of myositis may include:
+Fatigue after walking or standing
+Tripping or falling
+Trouble swallowing or breathing
+Doctors may use a physical exam, lab tests, imaging tests and a muscle biopsy to diagnose myositis. There is no cure for these diseases, but you can treat the symptoms. Polymyositis and dermatomyositis are first treated with high doses of a
+corticosteroid
+. Other options include medications, physical therapy, exercise, heat therapy, assistive devices, and rest.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Myositis
+
+Related Resources:
+
+Resource: ANA (Antinuclear Antibody) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ana-antinuclear-antibody-test/
+
+Resource: ClinicalTrials.gov: Dermatomyositis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Dermatomyositis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Myositis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Myositis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Polymyositis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Polymyositis%22&aggFilters=status:not%20rec
+
+Resource: Collagen vascular disease
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001223.htm
+
+Resource: Creatine phosphokinase test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003503.htm
+
+Resource: Dermatomyositis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000839.htm
+
+Resource: Dermatomyositis
+Category: Start Here
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6263/dermatomyositis
+
+Resource: Dermatomyositis (DM)
+Category: Specifics
+Organization: American Osteopathic College of Dermatology
+URL: https://www.aocd.org/page/Dermatomyositis?
+
+Resource: Dermatomyositis (Juvenile)
+Category: Children
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/dermatomyositis-juvenile
+
+Resource: Dermatomyositis: Diagnosis
+Category: Diagnosis and Tests
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/dermatomyositis/diagnosis
+
+Resource: Dermatomyositis: Signs and Symptoms
+Category: Symptoms
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/dermatomyositis/signs-and-symptoms
+
+Resource: Dermatomysitis: Medical Management
+Category: Treatments and Therapies
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/dermatomyositis/medical-management
+
+Resource: Electromyography (EMG) and Nerve Conduction Studies
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/electromyography-emg-and-nerve-conduction-studies/
+
+Resource: Idiopathic inflammatory myopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/idiopathic-inflammatory-myopathy
+
+Resource: Inclusion Body Myositis
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/inclusion-body-myositis
+
+Resource: Inclusion-Body Myositis: Diagnosis
+Category: Diagnosis and Tests
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/inclusion-body-myositis/diagnosis
+
+Resource: Inflammatory Myopathies
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/inflammatory-myopathies
+
+Resource: Juvenile Dermatomyositis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jdm.html
+
+Resource: Metabolic Myopathies
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/metabolic-myopathies
+
+Resource: Myoglobin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003663.htm
+
+Resource: Myoglobin urine test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003664.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Polymyositis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/polymyositis/symptoms-causes/syc-20353208?p=1
+
+Resource: Polymyositis (PM): Medical Management
+Category: Treatments and Therapies
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/polymyositis/medical-management
+
+Resource: Polymyositis - adult
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000428.htm
+
+Resource: Polymyositis: Diagnosis
+Category: Diagnosis and Tests
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/disease/polymyositis/diagnosis
+
+Resource: Myositis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Myositis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rheumatology Provider Directory
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://my.rheumatology.org/rheumatology-provider-directory

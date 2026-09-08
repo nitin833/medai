@@ -1,0 +1,118 @@
+Title: Rural Health Concerns
+
+Summary:
+Around 15% of people in the United States live in rural areas. There are many different reasons why you might choose to live in a rural community. You may want a lower cost of living and a slower pace of life. You may enjoy having access to big, open spaces for recreation. Rural areas are less crowded and can offer more privacy. You may choose a rural area so that you can live near your family and friends.
+But there are also challenges to living in a rural area, including when it comes to taking care of your health.  Compared to urban areas, rural communities tend to have:
+Higher poverty rates.
+A higher percentage of older adults, who are more likely to have chronic health problems.
+More residents without health insurance.
+Less access to health care. For example, clinics and hospitals may be far away.
+Higher rates of certain substance use, such as
+cigarette smoking
+and
+opioid
+and
+methamphetamine
+misuse.
+Higher rates of chronic health problems such as
+high blood pressure
+and
+obesity
+.
+More exposure to environmental hazards, such as chemicals used for farming.
+There are solutions to deal with these problems. A few examples include:
+Clinics offering
+telehealth
+to provide care for people who live far away from specialists or can't easily get to their providers' offices.
+Local public health agencies working with their communities to promote healthy living. They can provide wellness and exercise classes and start a farmer's market.
+Local governments adding bike lanes and trails to encourage people to bike and walk.
+Rural schools can offer counseling and mental health services for their students.
+
+Groups:
+- Health System
+
+MeSH Headings:
+- Rural Health Services
+- Rural Population
+- Rural Health
+
+Related Resources:
+
+Resource: Community Supports for Rural Aging in Place and Independent Living
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/community-living
+
+Resource: Critical Access Hospitals (CAH)
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/critical-access-hospitals
+
+Resource: Find a Health Center
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://findahealthcenter.hrsa.gov/
+
+Resource: Health in Rural America: Connecting to Care
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/03/health-rural-america
+
+Resource: Oral Health in Rural Communities
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/oral-health
+
+Resource: Rural Health Concerns
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Rural+Health+Services%22%5Bmajr%3Anoexp%5D+OR+%22Rural+Health%22%5Bmajr%3Anoexp%5D+OR+%22Rural+Population%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rural Agricultural Health and Safety
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/agricultural-health-and-safety
+
+Resource: Rural Emergency Medical Services (EMS) and Trauma
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/emergency-medical-services
+
+Resource: Rural Health Clinics (RHCs)
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/rural-health-clinics
+
+Resource: Rural Health Disparities
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/rural-health-disparities
+
+Resource: Rural Health Policy
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/rural-health-policy
+
+Resource: Rural Health Promotion and Disease Prevention Toolkit
+Category: Prevention and Risk Factors
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/toolkits/health-promotion
+
+Resource: Substance Use and Misuse in Rural Areas
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/substance-use
+
+Resource: Telehealth: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/telehealth.html
+
+Resource: Violence and Abuse in Rural America
+Category: Related Issues
+Organization: Rural Health Information Hub
+URL: https://www.ruralhealthinfo.org/topics/violence-and-abuse
+
+Resource: What Is Rural?
+Category: Start Here
+Organization: Rural Information Center
+URL: https://www.nal.usda.gov/rural-development-communities/what-is-rural

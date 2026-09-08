@@ -1,0 +1,265 @@
+Title: Enfermedades de la vejiga
+
+Also Called:
+- Enfermedades vesicales
+
+Summary:
+La vejiga es un órgano hueco en la parte inferior del abdomen donde se almacena la orina. Hay muchas afecciones que pueden afectar la función de la vejiga. Entre los más comunes se encuentran:
+Cistitis: una inflamación de la vejiga, en general, causada por una
+infección
+Incontinencia urinaria
+: pérdida del control de la vejiga
+Vejiga hiperactiva
+: una afección que causa que la vejiga expulse orina cuando no tiene que hacerlo
+Cistitis intersticial
+: un problema crónico que causa dolor en la vejiga y urgencia de orinar
+Cáncer de vejiga
+Los médicos diagnostican las enfermedades de la vejiga mediante distintas pruebas. Estas incluyen
+análisis de orina
+, radiografías y exámenes de la pared de la vejiga con un instrumento llamado cistoscopio. El tratamiento depende de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía.
+NIH: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+
+Groups:
+- Riñones y sistema urinario
+
+Related Resources:
+
+Resource: Autosondaje en hombres
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000143.htm
+
+Resource: Autosondaje en mujeres
+Category: Spanish/Español, Mujeres, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000144.htm
+
+Resource: Biopsia de vejiga
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003902.htm
+
+Resource: Bolsas de drenaje de orina
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000142.htm
+
+Resource: Cistitis no infecciosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000514.htm
+
+Resource: Cistocele
+Category: Spanish/Español, Mujeres
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/cistocele
+
+Resource: Cistografía con radionúclidos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003832.htm
+
+Resource: Cistografía retrógrada
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003783.htm
+
+Resource: Cistoscopia
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003903.htm
+
+Resource: Cistoscopia y ureteroscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/cistoscopia-ureteroscopia
+
+Resource: Cistouretrograma miccional
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003784.htm
+
+Resource: Cistouretrograma miccional pediátrico (VCUG)
+Category: Spanish/Español, Niños/as
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/voidcysto
+
+Resource: Color de la orina
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/urine-color/symptoms-causes/syc-20367333?p=1
+
+Resource: Cuidado de sonda permanente
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000140.htm
+
+Resource: Cuidado de sonda suprapúbica
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000145.htm
+
+Resource: Cuidados personales con los ejercicios de Kegel
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000141.htm
+
+Resource: Cuidados personales con productos para la incontinencia urinaria
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000146.htm
+
+Resource: Cálculos en la vejiga
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001275.htm
+
+Resource: Derivación urinaria
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/derivacion-urinaria
+
+Resource: Diagnóstico por la imagen (imagenología) de las vías urinarias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/imagen-vias-urinarias
+
+Resource: Ecografía: Renal (riñones, uréteres y vejiga)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/renal-ultrasound.html
+
+Resource: Estudio cistométrico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003904.htm
+
+Resource: Fistula enterovesical
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12537/fistula-enterovesical/
+
+Resource: Hidronefrosis en recién nacidos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/hidronefrosis-recien-nacidos
+
+Resource: Lesión traumática de la vejiga y la uretra
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001063.htm
+
+Resource: Litotricia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007113.htm
+
+Resource: Micción dolorosa
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003145.htm
+
+Resource: Micción urgente o frecuente
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003140.htm
+
+Resource: Obstrucción de la salida de la vejiga
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002238.htm
+
+Resource: Obstrucción de la salida de la vejiga: ¿Cuáles son sus causas en los hombres?
+Category: Hombres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/benign-prostatic-hyperplasia/expert-answers/bladder-outlet-obstruction/faq-20058537?p=1
+
+Resource: Orina con sangre
+Category: Síntomas, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003138.htm
+
+Resource: Pielografía intravenosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003782.htm
+
+Resource: Pielografía intravenosa (PIV)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pielografia-intravenosa-pm/
+
+Resource: Pielograma intravenoso (PIV)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/ivp
+
+Resource: Reflujo vesicoureteral
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vesicoureteral-reflux.html
+
+Resource: Reparación de la extrofia vesical
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002997.htm
+
+Resource: Reparación del uraco permeable
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002993.htm
+
+Resource: Retención urinaria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/retencion-urinaria
+
+Resource: Sangre en la orina (hematuria)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hematuria.html
+
+Resource: Sondas vesicales
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003981.htm
+
+Resource: Sondas vesicales: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000230.htm
+
+Resource: Tomografía computarizada de la pelvis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007362.htm
+
+Resource: Ultrasonido de pelvis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/pelvus
+
+Resource: Ultrasonido: Vejiga
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-bladder.html
+
+Resource: Uraco persistente
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100130_1.htm
+
+Resource: Urostomía: Cuidado de la piel y del estoma
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000477.htm
+
+Resource: Vejiga neurógena
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000754.htm
+
+Resource: Vías urinarias y cómo funcionan
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/aparato-urinario-funciona

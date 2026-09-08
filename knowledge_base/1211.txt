@@ -1,0 +1,176 @@
+Title: Blood Transfusion and Donation
+
+Summary:
+Every year, millions of people in the United States receive life-saving blood transfusions.  During a transfusion, you receive whole blood or parts of blood such as:
+Red blood cells - cells that carry oxygen to and from tissues and organs
+Platelets - cells that form clots to control bleeding
+Plasma - the liquid part of the blood that helps clotting. You may need it if you have been badly burned, have liver failure or a severe infection.
+Most blood transfusions go very smoothly.  Some infectious agents, such as HIV, can survive in blood and infect the person receiving the blood transfusion. To keep blood safe, blood banks carefully screen donated blood. The risk of catching a virus from a blood transfusion is low.
+Sometimes it is possible to have a transfusion of your own blood. During surgery, you may need a blood transfusion because of blood loss. If you are having a surgery that you're able to schedule months in advance, your doctor may ask whether you would like to use your own blood, instead of donated blood. If so, you will need to have blood drawn one or more times before the surgery. A blood bank will store your blood for your use.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Transplantation and Donation
+
+MeSH Headings:
+- Blood Transfusion
+- Blood Safety
+- Blood Donors
+- Transfusion Reaction
+
+Related Resources:
+
+Resource: ABO incompatibility
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001306.htm
+
+Resource: About Blood Donation
+Category: Start Here
+Organization: Association for the Advancement of Blood & Biotherapies
+URL: https://www.aabb.org/for-donors-patients/about-blood-donation
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Blood Donation
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/blood-donation/about/pac-20385144?p=1
+
+Resource: Blood donation before surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000367.htm
+
+Resource: Blood Donation FAQs
+Category: Start Here
+Organization: America's Blood Centers
+URL: https://americasblood.org/for-donors/blood-donation-faqs/
+
+Resource: Blood Donation Process
+Category: Start Here
+Organization: American Red Cross
+URL: https://www.redcrossblood.org/donate-blood/blood-donation-process/donation-process-overview.html
+
+Resource: Blood Facts and Statistics
+Category: Statistics and Research
+Organization: American Red Cross
+URL: https://www.redcrossblood.org/donate-blood/how-to-donate/how-blood-donations-help/blood-needs-blood-supply.html
+
+Resource: Blood Transfusion
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/blood-transfusion/about/pac-20385168?p=1
+
+Resource: Blood Transfusion
+Category: Specifics
+Organization: Blood Cancer United
+URL: https://bloodcancerunited.org/blood-cancer-care/adults/types-blood-cancer-treatment/blood-transfusion
+
+Resource: Blood Transfusions
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/supportive-care/blood-transfusions.html
+
+Resource: Blood transfusions
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000431.htm
+
+Resource: Blood Transfusions (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/transfusions.html
+
+Resource: ClinicalTrials.gov: Blood Donors
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Blood+Donors%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Blood Substitutes and Alternatives
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22blood+substitutes%22+OR+%22plasma+substitutes%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Blood Transfusion
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=blood+transfusion&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Transfusion Reaction
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Transfusion+Reaction%22&aggFilters=status:not%20rec
+
+Resource: Diversity in Blood Types
+Category: Related Issues
+Organization: American Red Cross
+URL: https://www.redcrossblood.org/donate-blood/blood-types/diversity.html
+
+Resource: Eligibility Requirements
+Category: Prevention and Risk Factors
+Organization: American Red Cross
+URL: https://www.redcrossblood.org/donate-blood/how-to-donate/eligibility-requirements.html
+
+Resource: Exchange transfusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002923.htm
+
+Resource: Exchange transfusion - series
+Category: Specifics, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100018_1.htm
+
+Resource: Facts About Blood and Blood Types
+Category: Related Issues
+Organization: American Red Cross
+URL: https://www.redcrossblood.org/donate-blood/blood-types.html?icid=rdrt-blood-types&imed=direct&isource=drupal
+
+Resource: Hemolytic transfusion reaction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001303.htm
+
+Resource: How You Can Help Medical Research: Donating Your Blood, Tissue, and Other Samples
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/help-research-donate-tissue
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Precautions and Adverse Reactions during Blood Transfusion
+Category: Related Issues
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/blood-disorders/blood-transfusion/precautions-and-adverse-reactions-during-blood-transfusion
+
+Resource: Blood transfusion
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Transfusion+Reaction%22%5Bmajr%3Anoexp%5D+OR+%22Blood+Safety%22%5Bmajr%3Anoexp%5D+OR+%22Blood+Donors%22%5Bmajr%3Anoexp%5D+OR+%22Blood+Transfusion%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions about Blood
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/vaccines-blood-biologics/blood-blood-products/questions-about-blood
+
+Resource: Red Blood Cell Antibody Screen
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/red-blood-cell-antibody-screen/
+
+Resource: Treatments for Blood Disorders
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/blood-bone-marrow-treatments
+
+Resource: Where to Donate Blood
+Category: Find an Expert
+Organization: Association for the Advancement of Blood & Biotherapies
+URL: https://www.aabb.org/for-donors-patients/give-blood

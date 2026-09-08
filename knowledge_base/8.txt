@@ -1,0 +1,506 @@
+Title: Stroke
+
+Also Called:
+- Brain attack
+- CVA
+- Cerebrovascular Accident
+
+Summary:
+What is a stroke?
+A stroke happens when there is a loss of blood flow to part of the brain. Your brain cells cannot get the oxygen and nutrients they need from blood, and they start to die within a few minutes. This can cause lasting brain damage, long-term disability, or even death.
+If you think that you or someone else is having a stroke, call 911 right away. Immediate treatment may save someone's life and increase the chances for successful rehabilitation and recovery.
+What are the types of stroke?
+There are two types of stroke:
+Ischemic stroke
+is caused by a
+blood clot
+that blocks or plugs a blood vessel in the brain. This is the most common type; about 80% of strokes are ischemic.
+Hemorrhagic stroke
+is caused by a blood vessel that breaks and bleeds into the brain.
+Another condition that's similar to a stroke is a
+transient ischemic attack
+(TIA). It's sometimes called a "mini-stroke." TIAs happen when the blood supply to the brain is blocked for a short time. The damage to the brain cells isn't permanent, but having a TIA puts you at much higher risk of having a stroke.
+Who is at risk for a stroke?
+Certain factors can raise your risk of a stroke. The major risk factors include:
+High blood pressure
+.
+This is the primary risk factor for a stroke.
+Diabetes
+.
+Heart diseases
+.
+Atrial fibrillation
+and other heart diseases can cause blood clots that lead to stroke.
+Smoking
+.
+When you smoke, you damage your blood vessels and raise your blood pressure.
+A personal or family history of stroke or TIA
+Age.
+Your risk of stroke increases as you get older.
+Race and ethnicity.
+People who are African American or Hispanic have a higher risk of stroke.
+There are also other factors that are linked to a higher risk of stroke, such as:
+Alcohol and illegal drug use
+Not getting enough physical activity
+High
+cholesterol
+Unhealthy diet
+Having
+obesity
+What are the symptoms of a stroke?
+The symptoms of a stroke often happen quickly. They include:
+Sudden numbness or weakness of the face, arm, or leg (especially on one side of the body)
+Sudden confusion, trouble speaking, or understanding speech
+Sudden trouble seeing in one or both eyes
+Sudden difficulty walking, dizziness, loss of balance or coordination
+Sudden severe headache with no known cause
+The F.A.S.T. test can help you remember what to look for if you think someone is having a stroke. Think "FAST" and look for:
+F
+ace drooping on one side when smiling.
+A
+rm weakness occurs when the arms are raised, and one arm drifts downward.
+S
+peech is slurred or strange.
+T
+ime to call 911.
+If you think that you or someone else is having a stroke, call 911 right away. Every minute counts during a stroke.
+How are strokes diagnosed?
+To make a diagnosis, your health care provider will:
+Ask about your symptoms and medical history
+Do a physical exam, including a check of:
+Your mental alertness
+Your coordination and balance
+Any numbness or weakness in your face, arms, and legs
+Any trouble speaking and seeing clearly
+Run some tests, which may include:
+Diagnostic imaging
+of the brain, such as a
+CT scan
+or
+MRI
+.
+Heart tests
+, which can help detect heart problems or blood clots that may have led to a stroke. Possible tests include an
+electrocardiogram
+(EKG) and an echocardiography.
+What are the treatments for stroke?
+Treatments for stroke include medicines, surgery, and rehabilitation. Which treatments you get depend on the type of stroke and the stage of treatment. The different stages are:
+Acute treatment
+, to try to stop a stroke while it is happening
+Post-stroke rehabilitation
+, to overcome the disabilities caused by the stroke
+Prevention
+, to prevent a first stroke or, if you have already had one, prevent another stroke
+Acute treatments for ischemic stroke are usually medicines:
+You may get tPA, (tissue plasminogen activator), a medicine to dissolve the blood clot. You can only get this medicine within 4 hours of when your symptoms started. The sooner you can get it, the better your chance of recovery.
+If you cannot get that medicine, you may get medicine that helps stop platelets from clumping together to form blood clots. Or you may get a
+blood thinner
+to keep existing clots from getting bigger.
+If you have carotid artery disease, you may also need a procedure to open your blocked carotid artery.
+Acute treatments for hemorrhagic stroke focus on stopping the bleeding. The first step is to find the cause of bleeding in the brain. The next step is to control it:
+If high blood pressure is the cause of bleeding, you may be given
+blood pressure medicines
+.
+If an
+aneurysm
+is the cause, you may need aneurysm clipping or coil embolization. These are surgeries to prevent further leaking of blood from the aneurysm. They also can help prevent the aneurysm from bursting again.
+If an
+arteriovenous malformation
+(AVM) is the cause of a stroke, you may need an AVM repair. An AVM is a tangle of faulty arteries and veins that can rupture within the brain. An AVM repair may be done through:
+Surgery
+Injecting a substance into the blood vessels of the AVM to block blood flow
+Radiation to shrink the blood vessels of the AVM
+Stroke rehabilitation
+can help you relearn skills you lost because of the damage. The goal is to help you become as independent as possible and have the best possible quality of life.
+Prevention of another stroke is also important, since having a stroke increases the risk of getting another one. Prevention may include heart-healthy lifestyle changes and medicines.
+Can strokes be prevented?
+If you have already had a stroke or are at risk of having a stroke, you can make some
+heart-healthy lifestyle changes
+to try to prevent a future stroke:
+Eating a heart-healthy diet
+Aiming for a healthy weight
+Managing
+stress
+Getting regular
+physical activity
+Quitting smoking
+Managing your
+blood pressure
+and
+cholesterol levels
+If these changes aren't enough, you may need medicine to control your risk factors.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Older Adults
+- Blood, Heart and Circulation
+- Brain and Nerves
+
+MeSH Headings:
+- Stroke
+
+Related Resources:
+
+Resource: 15 Things Caregivers Should Know After a Loved One Has Had a Stroke
+Category: Living With
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/help-and-support/for-family-caregivers/15-things-caregivers-should-know-after-a-loved-one-has-had-a-stroke
+
+Resource: About the Atlas of Heart Disease and Stroke
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-disease-stroke-atlas/about/
+
+Resource: Agnosia
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/glossary-neurological-terms#agnosia
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: American Stroke Association
+Category: Find an Expert
+Organization: American Stroke Association
+URL: https://www.stroke.org/
+
+Resource: Atherosclerosis and Stroke
+Category: Related Issues
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/stroke-risk-factors/atherosclerosis-and-stroke
+
+Resource: BAER - brainstem auditory evoked response
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003926.htm
+
+Resource: Brain Basics: Preventing Stroke
+Category: Prevention and Risk Factors
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-preventing-stroke
+
+Resource: Brain herniation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001421.htm
+
+Resource: Brain surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003018.htm
+
+Resource: Brain surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000124.htm
+
+Resource: Carotid Ultrasound Imaging
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-carotid
+
+Resource: Catheter Angiography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocath
+
+Resource: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/
+
+Resource: ClinicalTrials.gov: Stroke
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Stroke%22&aggFilters=status:not%20rec
+
+Resource: Controlling Post-Stroke Seizures
+Category: Related Issues
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/effects-of-stroke/physical-effects/post-stroke-seizures
+
+Resource: Cranial Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/ultrasound-cranial
+
+Resource: Craniotomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100048_1.htm
+
+Resource: CT Perfusion Imaging of the Head
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/perfusionheadct
+
+Resource: Diabetes, Heart Disease, and Stroke
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/heart-disease-stroke
+
+Resource: EEG
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003931.htm
+
+Resource: FastStats: Cerebrovascular Disease or Stroke
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/stroke.htm
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Halting Heart Attack and Stroke
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/12/halting-heart-attack-stroke
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: Heart and Stroke Statistics
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-and-stroke-association-statistics
+
+Resource: Heart Attack, Stroke and Cardiac Arrest Symptoms
+Category: Symptoms
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms
+
+Resource: Hemorrhagic Stroke: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hemorrhagicstroke.html
+
+Resource: High Blood Pressure, Atrial Fibrillation, and Your Risk of Stroke
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/atrial-fibrillation/why-atrial-fibrillation-af-or-afib-matters/high-blood-pressure-afib-and-your-risk-of-stroke
+
+Resource: How Is Stroke Diagnosed?
+Category: Diagnosis and Tests
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/heart-disease-and-stroke/stroke/stroke-treatment-and-recovery/how-stroke-diagnosed
+
+Resource: Ischemic Stroke: MedlinePlus Health Topic
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/ischemicstroke.html
+
+Resource: Lactate dehydrogenase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003471.htm
+
+Resource: Lateral Medullary Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/lateral-medullary-syndrome
+
+Resource: LDH isoenzyme blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003499.htm
+
+Resource: Let's Talk about Carotid Endarterectomy
+Category: Prevention and Risk Factors
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/help-and-support/resource-library/lets-talk-about-stroke/carotid-endarterectomy
+
+Resource: Let's Talk about Lifestyle Changes to Prevent Stroke
+Category: Prevention and Risk Factors
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/help-and-support/resource-library/lets-talk-about-stroke/lifestyle-changes
+
+Resource: Life after Stroke
+Category: Living With
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/life-after-stroke
+
+Resource: Lipoprotein (a) Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lipoprotein-a-blood-test/
+
+Resource: Lipoprotein-a
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007262.htm
+
+Resource: Magnetic resonance angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007269.htm
+
+Resource: Mind Your Risks
+Category: Prevention and Risk Factors
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/mind-your-risks
+
+Resource: Mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Nearly Everyone Has at Least One Risk Factor Before a Heart Attack, Heart Failure, or Stroke
+Category: Statistics and Research
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/heart-health/nearly-everyone-has-at-least-one-risk-factor-before-a-heart-attack-heart-failure-or-stroke
+
+Resource: Pediatric Stroke
+Category: Children
+Organization: Children's Hemiplegia and Stroke Association
+URL: https://chasa.org/medical/pediatric-stroke/
+
+Resource: Preventing stroke
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000678.htm
+
+Resource: Preventing Stroke
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/stroke/prevention/
+
+Resource: Diagnosis & causes of stroke
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Stroke%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safe Use of Aspirin
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/understanding-over-counter-medicines/safe-use-aspirin
+
+Resource: Spinal Cord Infarction
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/spinal-cord-infarction
+
+Resource: Stroke
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000726.htm
+
+Resource: Stroke
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/stroke
+
+Resource: Stroke
+Category: Women
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/heart-disease-and-stroke/stroke
+
+Resource: Stroke
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/stroke
+
+Resource: Stroke - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000132.htm
+
+Resource: Stroke Connection e-news
+Category: Reference Desk
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/stroke-connection
+
+Resource: Stroke Facts
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/stroke/data-research/facts-stats/
+
+Resource: Stroke Overview
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/stroke/stroke-overview
+
+Resource: Stroke Recovery Timeline
+Category: Living With
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke/stroke-recovery-timeline
+
+Resource: Stroke Signs and Symptoms
+Category: Symptoms
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/stroke/signs-and-symptoms
+
+Resource: Stroke Symptoms and Warning Signs
+Category: Symptoms
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/stroke-symptoms
+
+Resource: Stroke: First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-stroke/basics/art-20056602?p=1
+
+Resource: Survived a Stroke? How to Heal in the First 90 Days
+Category: Videos and Tutorials
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/house-calls/recovering-from-a-stroke-what-to-do-in-the-first-90-days
+
+Resource: Transcranial Doppler ultrasound
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007759.htm
+
+Resource: Treatment and Intervention for Stroke
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/stroke/treatment/
+
+Resource: Types of Stroke and Treatment
+Category: Start Here
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/types-of-stroke
+
+Resource: Vertebrobasilar circulatory disorders
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001423.htm
+
+Resource: What Are Some Common Outcomes of Stroke and Some Common Treatments for These Outcomes?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/stroke/conditioninfo/treatment
+
+Resource: What Is a Stroke?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/stroke
+
+Resource: What New Guidelines Say to Do to Prevent a Stroke
+Category: Prevention and Risk Factors
+Organization: American Heart Association
+URL: https://www.heart.org/en/news/2024/10/21/what-new-guidelines-say-to-do-to-prevent-a-stroke
+
+Resource: What the Latest Heart Disease and Stroke Numbers Mean for Your Health
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/news/2026/01/21/what-the-latest-heart-disease-and-stroke-numbers-mean-for-your-health
+
+Resource: Women and Stroke
+Category: Women
+Organization: American Stroke Association
+URL: https://www.stroke.org/en/about-stroke/stroke-risk-factors/women-have-a-higher-risk-of-stroke

@@ -1,0 +1,209 @@
+Title: Antibiotics
+
+Summary:
+What are antibiotics?
+Antibiotics are medicines that fight
+bacterial infections
+in people and animals. They work by killing the bacteria or by making it hard for the bacteria to grow and multiply.
+Antibiotics can be taken in different ways:
+Orally (by mouth). This could be pills, capsules, or liquids.
+Topically. This might be a cream, spray, or ointment that you put on your skin. It could also be eye ointment, eye drops, or ear drops.
+Through an injection or intravenously (IV). This is usually for more serious infections.
+What do antibiotics treat?
+Antibiotics only treat certain bacterial infections, such as strep throat,
+urinary tract infections
+, and
+E. coli
+.
+You may not need to take antibiotics for some bacterial infections. For example, you might not need them for many sinus infections or some
+ear infections
+. Taking antibiotics when they're not needed won't help you, and they can have side effects. Your health care provider can decide the best treatment for you when you're sick. Don't ask your provider to prescribe an antibiotic for you.
+Do antibiotics treat viral infections?
+Antibiotics
+do not
+work on viral infections. For example, you shouldn't take antibiotics for:
+Colds
+and runny noses, even if the mucus is thick, yellow, or green
+Most
+sore throats
+(except strep throat)
+Flu
+Most cases of
+bronchitis
+What are the side effects of antibiotics?
+The side effects of antibiotics range from minor to very severe. Some of the common side effects include:
+Rash
+Nausea
+Diarrhea
+Yeast infections
+More serious side effects can include:
+C. diff infections
+, which cause diarrhea that can lead to severe colon damage and sometimes even death
+Severe and life-threatening
+allergic reactions
+Antibiotic resistance infections
+Call your health care provider if you develop any side effects while taking your antibiotic.
+Why is it important to take antibiotics only when they're needed?
+You should only take antibiotics when they are needed because they can cause side effects and can contribute to
+Antibiotic resistance infections
+. Antibiotic resistance happens when the bacteria change and become able to resist the effects of an antibiotic. This means that the bacteria continue to grow.
+How do I use antibiotics correctly?
+When you take antibiotics, it is important that you take them responsibly:
+Always follow the directions carefully. Finish your medicine even if you feel better. If you stop taking them too soon, some bacteria may survive and re-infect you.
+Don't save your antibiotics for later.
+Don't share your antibiotic with others.
+Don't take antibiotics prescribed for someone else. This may delay the best treatment for you, make you even sicker, or cause side effects.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+- Drug Therapy
+
+MeSH Headings:
+- Anti-Bacterial Agents
+
+Related Resources:
+
+Resource: Antibiotic Resistance: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antibioticresistance.html
+
+Resource: Antibiotic Use and Antimicrobial Resistance Facts
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/data-research/facts-stats/
+
+Resource: Antibiotic-Associated Diarrhea
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/antibiotic-associated-diarrhea/symptoms-causes/syc-20352231?p=1
+
+Resource: Antibiotics (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/antibiotics.html
+
+Resource: Antibiotics Aren't Always the Answer
+Category: Patient Handouts
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/Arent-Always-The-Answer-FS-508.pdf
+
+Resource: Antibiotics vs. Bacteria: Fighting the Resistance
+Category: Videos and Tutorials
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/medlineplus-videos/antibiotics-vs-bacteria-fighting-the-resistance/
+
+Resource: Bacitracin overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002563.htm
+
+Resource: Bacitracin zinc overdose
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002569.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chest Cold (Acute Bronchitis) Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/acute-bronchitis/about/
+
+Resource: ClinicalTrials.gov: Anti-Bacterial Agents
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Anti-Bacterial+Agents%22&aggFilters=status:not%20rec
+
+Resource: Danger of Antibiotic Overuse (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/antibiotic-overuse.html
+
+Resource: Ear Infection Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ear-infection/about/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Glossary (Antibiotics)
+Category: Reference Desk
+Organization: Alliance for the Prudent Use of Antibiotics
+URL: https://apua.org/glossary
+
+Resource: Healthy Habits: Antibiotic Do's and Don'ts
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/about/index.html
+
+Resource: Know When and How to Use Antibiotics, and When to Skip Them
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/know-when-and-how-use-antibiotics-and-when-skip-them
+
+Resource: Manage Common Cold
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/common-cold/treatment/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Penicillin Allergy
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/penicillin-allergy/symptoms-causes/syc-20376222?p=1
+
+Resource: Penicillin Allergy (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/penicillin-allergy.html
+
+Resource: Preventing and Treating Skin Infections
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/Skin-Infection-FS-508.pdf
+
+Resource: Pseudomembranous colitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000259.htm
+
+Resource: Antibiotics
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Anti-Bacterial+Agents%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sensitivity analysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003741.htm
+
+Resource: Sinus Infection Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/sinus-infection/about/
+
+Resource: Therapeutic Drug Monitoring
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/therapeutic-drug-monitoring/
+
+Resource: Urinary Tract Infection Basics
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/uti/about/
+
+Resource: Vaccines & Antibiotics: A Safe Combo?
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vaccines-and-antibiotics.html

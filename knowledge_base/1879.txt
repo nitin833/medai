@@ -1,0 +1,128 @@
+Title: Edema
+
+Also Called:
+- Hinchazón
+
+Summary:
+Edema significa hinchazón causada por la acumulación de líquido en los tejidos del cuerpo. Suele ocurrir en los pies, los tobillos y las piernas, pero puede afectar todo el cuerpo.
+Las causas de edema incluyen:
+Consumir demasiada sal
+Quemaduras de sol
+Insuficiencia cardíaca
+Enfermedades de los riñones
+Problemas hepáticos por
+cirrosis
+Embarazo
+Problemas con los
+ganglios linfáticos
+, especialmente después de una
+mastectomía
+Algunas medicinas
+Permanecer mucho tiempo de pie o sentado cuando hace calor
+Para disminuir el edema, el médico puede recomendarle mantener sus piernas elevadas cuando se siente, usar medias elásticas, limitar el consumo de sal o tomar medicamentos llamados diuréticos.
+
+Groups:
+- Sangre, corazón y circulación
+- Síntomas
+
+Related Resources:
+
+Resource: Abdomen hinchado
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003122.htm
+
+Resource: Angioedema
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000846.htm
+
+Resource: Cuando las partes del cuerpo se hinchan
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/cuando-las-partes-del-cuerpo-se-hinchan
+
+Resource: Diuréticos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/diureticos/
+
+Resource: Edema
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/edema/symptoms-causes/syc-20366493?p=1
+
+Resource: Edema pulmonar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000140.htm
+
+Resource: Edema pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pulmonary-edema/symptoms-causes/syc-20377009?p=1
+
+Resource: Edema: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/edema/diagnosis-treatment/drc-20366532?p=1
+
+Resource: Hidropesía fetal
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007308.htm
+
+Resource: Hinchazón
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003103.htm
+
+Resource: Hinchazón de las manos durante el ejercicio: ¿Debería preocuparme?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/edema/expert-answers/hand-swelling/faq-20058255?p=1
+
+Resource: Hinchazón de los pies durante viajes en avión: ¿Debería preocuparme?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/edema/expert-answers/foot-swelling/faq-20057828?p=1
+
+Resource: Hinchazón de pierna
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/symptoms/leg-swelling/basics/definition/sym-20050910?p=1
+
+Resource: Hinchazón de tobillos, pies y piernas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003104.htm
+
+Resource: Hinchazón facial
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003105.htm
+
+Resource: Inhibidor de C1 esterasa
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003353.htm
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Urticaria y angioedema
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hives-and-angioedema/symptoms-causes/syc-20354908?p=1
+
+Resource: ¿Cuál es la causa de la hinchazón en los tobillos durante el embarazo?
+Category: Mujeres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/pregnancy-week-by-week/expert-answers/swelling-during-pregnancy/faq-20058467?p=1
+
+Resource: ¿Qué es un edema macular?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/edema-macular

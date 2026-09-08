@@ -1,0 +1,59 @@
+Title: Siringomielia
+
+Summary:
+La siringomielia es un trastorno raro que causa la formación de un quiste en la
+médula espinal
+. Con el transcurso del tiempo, el quiste, llamado syrinx, se hace más grande y largo y destruye parte de la médula espinal. Las lesiones en la médula espinal por el quiste puede causar éstos síntomas:
+Dolor y debilidad en la espalda, los hombros, los brazos o las piernas
+Dolores de cabeza
+Incapacidad para sentir frío o calor
+Los síntomas varían según el tamaño y la ubicación del quiste. Suelen comenzar en la edad adulta.
+Por lo general, la siringomielia resulta de una anomalía en el cráneo denominada
+malformación de Chiari
+. Un tumor, una meningitis o un traumatismo físico también pueden ocasionarla. El principal tratamiento para este trastorno es la cirugía. Algunas personas también necesitan un drenaje del quiste. Medicinas pueden ayudar a reducir el dolor. En algunos casos no se presentan síntomas, por lo que no es necesario tratarla.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Mielografía
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/myelography
+
+Resource: Resonancia magnética de la región lumbar
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007352.htm
+
+Resource: RMN de la columna
+Category: Más información, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinemr
+
+Resource: Siringomielia
+Category: Más información, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12668/siringomielia/
+
+Resource: Siringomielia
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001398.htm
+
+Resource: Siringomielia de la médula o del tallo cerebral
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-de-la-m%C3%A9dula-espinal/siringomielia-de-la-m%C3%A9dula-o-del-tallo-cerebral
+
+Resource: Siringomielia: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/syringomyelia/diagnosis-treatment/drc-20354775?p=1
+
+Resource: TC de la columna
+Category: Más información, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/spinect

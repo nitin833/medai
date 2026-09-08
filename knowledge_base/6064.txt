@@ -1,0 +1,54 @@
+Title: Trastornos del estado de ánimo
+
+Summary:
+Algunas personas se sienten tristes o irritables de vez en cuando y pueden decir que están de mal humor. Los trastornos del estado de ánimo son diferentes porque afectan a diario el estado emocional de la persona. Aproximadamente, una de cada 10 personas mayores de 18 años, tiene un trastorno del estado de ánimo. Estos trastornos incluyen
+depresión
+y
+trastorno bipolar
+(también conocido como depresión maníaca)
+Los trastornos del estado de ánimo pueden incrementar los riesgos de enfermedades del corazón, diabetes y otras enfermedades en una persona. Los tratamientos incluyen medicinas, psicoterapia o la combinación de los dos. La mayoría de las personas con trastornos del estado de ánimo pueden llevar una vida productiva con el tratamiento adecuado.
+
+Groups:
+- Salud mental y conducta
+
+Related Resources:
+
+Resource: Ayuda para la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/find-help/ayuda-para-la-salud-mental
+
+Resource: Ciclotimia (trastorno ciclotímico)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cyclothymia/symptoms-causes/syc-20371275?p=1
+
+Resource: En búsqueda de ayuda: Cómo elegir un psicoterapeuta
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Asociación Psiquiátrica Americana
+URL: https://www.apa.org/topics/psychotherapy/elegir?partner=nlm
+
+Resource: Entendiendo la psicoterapia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Asociación Psiquiátrica Americana
+URL: https://www.apa.org/topics/psychotherapy/entendiendo-la-psicoterapia?partner=nlm
+
+Resource: Información en español sobre la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/topics/espanol
+
+Resource: Millones de personas que viven en Estados Unidos tienen problemas de salud mental y de uso de sustancias. Encuentre tratamiento aquí.
+Category: Spanish/Español, Especialistas
+Organization: Administración de Servicios de la Salud Mental y Abuso de Sustancias
+URL: https://findtreatment.gov/es
+
+Resource: Trastorno ciclotímico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001550.htm
+
+Resource: Trastornos del estado de ánimo
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mood-disorders/symptoms-causes/syc-20365057?p=1

@@ -1,0 +1,52 @@
+Title: Vitiligo
+
+Summary:
+El vitiligo causa manchas blancas en la piel. También afecta sus ojos, boca y nariz. Ocurre cuando se destruyen las células que dan color a la piel. No se conoce la causa de la destrucción celular. Es más común entre las personas con enfermedades autoinmunes y puede tener una tendencia familiar. Suele comenzar antes de los 40 años.
+Las manchas blancas son más comunes donde la piel está expuesta al sol. En algunos casos, las manchas se diseminan. El vitiligo puede provocar la aparición anticipada de canas. Si tiene la piel oscura, puede perder color dentro de la boca.
+El uso de bloqueadores solares lo ayudará a proteger su piel y los cosméticos pueden cubrir las manchas. El tratamiento del vitiligo incluye medicinas, fototerapia y cirugía. No todos los tratamientos son adecuados para todas las personas. Muchos tienen efectos secundarios. Algunos necesitan un largo tiempo. Algunos no siempre surten efecto.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Piel con manchas: Vitíligo explicado
+Category: Más información, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/piel-con-manchas
+
+Resource: Trastornos de pigmentación de la piel: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/skinpigmentationdisorders.html
+
+Resource: Vitiligo
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000831.htm
+
+Resource: Vitiligo: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vitiligo/diagnosis-treatment/drc-20355916?p=1
+
+Resource: Vitiligo: Síntomas y causas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vitiligo/symptoms-causes/syc-20355912?p=1
+
+Resource: Vitíligo (para adolescentes)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/vitiligo.html
+
+Resource: Vitíligo (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vitiligo.html
+
+Resource: ¿Qué es el vitíligo?
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/vitiligo

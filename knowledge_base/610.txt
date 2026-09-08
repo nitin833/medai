@@ -1,0 +1,215 @@
+Title: Caregivers
+
+Summary:
+A caregiver gives care to someone who needs help taking care of themselves. The person who needs help may be a child, an adult, or an older adult. They may need help because of an injury or
+disability
+.  Or they may have a chronic illness such as
+Alzheimer's disease
+or cancer.
+Some caregivers are informal caregivers. They are usually family members or friends. Other caregivers are paid professionals. Caregivers may give care at home or in a hospital or other health care setting. Sometimes they are caregiving from a distance. The types of tasks that caregivers do may include:
+Helping with daily tasks like bathing, eating, or taking medicine
+Doing housework and cooking
+Running errands such as shopping for food and clothes
+Driving the person to appointments
+Providing company and emotional support
+Arranging activities and medical care
+Making health and financial decisions
+Caregiving can be rewarding. It may help to strengthen connections to a loved one. You may feel fulfillment from helping someone else. But caregiving may also be stressful and sometimes even overwhelming. You may be "on call" for 24 hours a day. You may also be working outside the home and taking care of children. So you need to make sure that you are not ignoring your own needs. You have to
+take care of your own physical and mental health
+as well. Because when you feel better, you can take better care of your loved one. It will also be easier to focus on the rewards of caregiving.
+Dept. of Health and Human Services Office on Women's Health
+
+Groups:
+- Social/Family Issues
+- Health System
+
+MeSH Headings:
+- Caregivers
+
+Related Resources:
+
+Resource: 'Look for Joy and Happiness in Little Things': Actor and Writer Steve Guttenberg Shares How He Cared for His Father at the End of His Life
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/look-for-joy-and-happiness-in-little-things
+
+Resource: AAAs (Area Agencies on Aging) & Title VI Aging Programs
+Category: Find an Expert
+Organization: USAging
+URL: https://www.usaging.org/ourmembers
+
+Resource: Adult Day Care
+Category: Related Issues
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/Adult_Day_Care_1.pdf
+
+Resource: Bathing a patient in bed
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000427.htm
+
+Resource: Brushing: Information for Caregivers
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2023-12/oral-health-aging-brushing.pdf
+
+Resource: Caregiver Action Network
+Category: Find an Expert
+Organization: Caregiver Action Network
+URL: https://www.caregiveraction.org/
+
+Resource: Caregiver Health
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/caregiverhealth.html
+
+Resource: Caregiver Statistics: Demographics
+Category: Statistics and Research
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/caregiver-statistics-demographics/
+
+Resource: Caregiver Support
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/caregiver-support
+
+Resource: Caregiving - resources - older adults
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000954.htm
+
+Resource: Caregiving 101: Worksheets, Resources, and Suggestions from the National Institute on Aging
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/caregiving-101-worksheets-resources-and-suggestions-from-the-national-institute-on-aging
+
+Resource: Caregiving and Sibling Relationships: Challenges and Opportunities
+Category: Related Issues
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/caregiving-and-sibling-relationships-challenges-and-opportunities/
+
+Resource: Caregiving at Home: A Guide to Community Resources
+Category: Related Issues
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/caregiving-home-guide-community-resources/
+
+Resource: Caring for a Seriously or Chronically Ill Child
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/system/ill/
+
+Resource: Caring for Siblings of Kids with Disabilities
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/siblings-special-needs.html
+
+Resource: ClinicalTrials.gov: Caregivers
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=caregivers+OR+caregiving&aggFilters=status:not%20rec
+
+Resource: Dry Mouth and Older Adults: Information for Caregivers
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2019-09/dry-mouth-and-older-adults.pdf
+
+Resource: Family Care Navigator: State-by-State Help for Family Caregivers
+Category: Find an Expert
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/connecting-caregivers/services-by-state/
+
+Resource: Family Caregivers and Transportation: A Few Survival Tips (Healthy Living Tips)
+Category: Specifics
+Organization: Administration for Community Living
+URL: https://acl.gov/sites/default/files/news%202017-03/HealthyLivingTips_Transport_SurvivalTips.pdf
+
+Resource: Finding Low-Cost Dental Care: Information for Caregivers
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2021-11/finding-low-cost-dental-care-EN.pdf
+
+Resource: Flossing: Information for Caregivers
+Category: Specifics
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2019-09/flossing-info-for-caregivers_1.pdf
+
+Resource: Guide for Support Partners
+Category: Specifics
+Organization: National Multiple Sclerosis Society
+URL: https://cdn.sanity.io/files/y936aps5/production/aecdc13c9d92b721ef4b0be3dc8d14f20f5868f6.pdf
+
+Resource: Guidelines for Better Communication with Brain Impaired Adults
+Category: Related Issues
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/guidelines-better-communication-brain-impaired-adults/
+
+Resource: Hands-On Skills for Caregivers
+Category: Start Here
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/hands-skills-caregivers/
+
+Resource: Home Health Care
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/age-friendly-healthcare-you/care-settings/home-health-care
+
+Resource: Home Sweet Home: Supporting a Loved One Aging in Place
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/home-sweet-home-supporting-a-loved-one-aging-in-place
+
+Resource: Hospital Discharge Planning: A Guide for Families and Caregivers
+Category: Specifics
+Organization: Family Caregiver Alliance
+URL: https://www.caregiver.org/resource/hospital-discharge-planning-guide-families-and-caregivers/
+
+Resource: Informal Caregivers in Cancer
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq
+
+Resource: Long-Distance Caregiving
+Category: Related Issues
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/long-distance-caregiving
+
+Resource: MDA Resources for Caregivers
+Category: Specifics
+Organization: Muscular Dystrophy Association
+URL: https://www.mda.org/care/resource-list/caregiver-resources
+
+Resource: Moving a patient from bed to a wheelchair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000428.htm
+
+Resource: National Institute on Aging
+Category: Find an Expert
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/
+
+Resource: Caregivers
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Caregivers%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulling a patient up in bed
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000429.htm
+
+Resource: Taking Care of Yourself When You're a Cancer Caregiver
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/caregivers/what-a-caregiver-does/taking-care-of-yourself.html
+
+Resource: Turning patients over in bed
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000426.htm
+
+Resource: VA Caregiver Support Program
+Category: Related Issues
+Organization: Veterans Health Administration
+URL: https://www.caregiver.va.gov/
+
+Resource: What is Long-Distance Caregiving?
+Category: Related Issues
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/long-distance-caregiving/what-long-distance-caregiving

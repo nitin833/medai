@@ -1,0 +1,80 @@
+Title: Infecciones por Norovirus
+
+Also Called:
+- Norovirus
+
+Summary:
+Los Norovirus son un grupo de virus relacionados. La infección con el Norovirus provoca una enfermedad llamada
+gastroenteritis
+, que es la inflamación del estómago y los intestinos. Las personas pueden contagiarse unas a otras o por medio del agua o alimentos contaminados. También se puede adquirir el Norovirus si se toca una superficie contaminada. Estas infecciones pueden ser graves, sobre todo para niños pequeños y personas mayores.
+Los síntomas más comunes de una infección por Norovirus son:
+Diarrea
+Náuseas y vómitos
+Dolor de estómago
+Otros síntomas pueden ser: fiebre, dolor de cabeza o dolor general en el cuerpo.
+El tratamiento incluye descanso y beber muchos líquidos para prevenir la
+deshidratación
+. No hay un medicamento específico para tratar las infecciones por Norovirus.
+Estas infecciones pueden prevenirse con un adecuado lavado de manos y un manejo apropiado de los alimentos cuando se cocinan.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Sistema digestivo
+- Infecciones
+
+Related Resources:
+
+Resource: Acerca de los norovirus
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/norovirus/es/about/acerca-de-los-norovirus.html
+
+Resource: Análisis de heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/labtest8.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Infección del virus de Norwalk (calicivirus)
+Category: Asuntos específicos, Spanish/Español
+Organization: Departamento de Salud del Estado de Nueva York
+URL: https://www.health.ny.gov/es/diseases/communicable/norwalk/fact_sheet.htm
+
+Resource: Infección por norovirus
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/norovirus/symptoms-causes/syc-20355296?p=1
+
+Resource: Infección por norovirus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/norovirus/diagnosis-treatment/drc-20355302?p=1
+
+Resource: Lavado de manos: Lo que se debe y lo que no se debe hacer
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/adult-health/in-depth/hand-washing/art-20046253?p=1
+
+Resource: Norovirus
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/norovirus.html
+
+Resource: Norovirus en el hospital
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000475.htm
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Recolección de una muestra de heces para analizar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stool-tests-done.html

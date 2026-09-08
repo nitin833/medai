@@ -1,0 +1,109 @@
+Title: Fístulas
+
+Summary:
+Una fístula es una conexión anormal entre dos partes internas del cuerpo. Pueden desarrollarse entre distintos órganos, como entre el esófago y la tráquea o entre el intestino y la vagina. También pueden formarse entre dos vasos sanguíneos, como una arteria y una vena o entre dos arterias.
+Algunas personas nacen con una fístula. Otras causas comunes son:
+Complicaciones después de una cirugía
+Lesiones
+Infecciones
+Enfermedades como la de
+Crohn
+o
+colitis ulcerativa
+El tratamiento depende de la causa, dónde está ubicada y cuán grave es. Algunas fístulas cierran por sí solas. Otras necesitan antibióticos y/o cirugías.
+
+Groups:
+- Sistema digestivo
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Absceso anal y la fístula
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Estadounidense de Cirujanos de Colon y Recto
+URL: https://fascrs.org/Web/Web/Patients/Diseases-and-Conditions/A-Z/Absceso-Anal-y-La-Fistula.aspx
+
+Resource: Atresia esofágica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000961.htm
+
+Resource: Embolizaciones cerebrales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/dc-embol
+
+Resource: Enterografía por RMN
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/MRenterography
+
+Resource: Enterografía por TC (Tomografía Computarizada)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/CTenterography
+
+Resource: Fistula enterovesical
+Category: Asuntos específicos, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12537/fistula-enterovesical/
+
+Resource: Fistulograma/sinograma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fistulogram-sinogram
+
+Resource: Fístula
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002365.htm
+
+Resource: Fístula arteriovenosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/arteriovenous-fistula/symptoms-causes/syc-20369567?p=1
+
+Resource: Fístula arteriovenosa pulmonar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001090.htm
+
+Resource: Fístula gastrointestinal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001129.htm
+
+Resource: Fístula rectovaginal
+Category: Spanish/Español, Mujeres
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rectovaginal-fistula/symptoms-causes/syc-20377108?p=1
+
+Resource: Fístula vaginal
+Category: Mujeres, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/vaginal-fistulas/symptoms-causes/syc-20355762?p=1
+
+Resource: Problemas anatómicos de la parte inferior del aparato digestivo
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-digestivas/problemas-anatomicos-parte-inferior-del-aparato-digestivo
+
+Resource: Reparación de fístula traqueoesofágica y atresia esofágica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002934.htm
+
+Resource: Reparación quirúrgica de una fístula traqueosofágica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100103_1.htm
+
+Resource: Tratamientos vasculares endocraneales
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/IntracranialVasc
+
+Resource: Tránsito gastrointestinal inferior
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/transito-gastrointestinal-inferior

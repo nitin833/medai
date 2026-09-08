@@ -1,0 +1,402 @@
+Title: Enfermedades del hígado
+
+Also Called:
+- Enfermedades hepáticas
+- Hepatopatías
+
+Summary:
+El hígado es el órgano de mayor tamaño dentro del cuerpo. Ayuda al organismo a digerir los alimentos, almacena energía y elimina toxinas.
+Existen muchos tipos de enfermedades hepáticas:
+Enfermedades causadas por virus, como la
+hepatitis A
+, la
+hepatitis B
+y la
+hepatitis C
+Enfermedades causadas por drogas, venenos o toxinas o por ingerir demasiado alcohol. Los ejemplos incluyen
+enfermedad por hígado graso
+y
+cirrosis
+Cáncer de hígado
+Enfermedades hereditarias, como
+hemocromatosis
+y la
+enfermedad de Wilson
+Los síntomas de la enfermedad hepática pueden variar, pero a menudo incluyen hinchazón del abdomen y las piernas, tener moretones con facilidad, cambios en el color de las heces y la orina, y piel y ojos amarillentos o
+ictericia
+. A veces no hay síntomas. Las pruebas de imagen o de función hepática pueden comprobar si hay daño en el hígado o ayudar a diagnosticar enfermedades del hígado.
+
+Groups:
+- Sistema digestivo
+
+Related Resources:
+
+Resource: 5'-Nucleotidasa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003575.htm
+
+Resource: Absceso hepático amebiano
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000211.htm
+
+Resource: Absceso hepático piógeno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000261.htm
+
+Resource: Anticuerpo antimitocondrial
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003529.htm
+
+Resource: Ascitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000286.htm
+
+Resource: Atresia biliar (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/biliary-atresia.html
+
+Resource: Bilirrubina en orina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003595.htm
+
+Resource: Biopsia con aguja
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/needle-biopsy/about/pac-20394749?p=1
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/biopsia-higado
+
+Resource: Biopsia del hígado
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003895.htm
+
+Resource: Biopsia hepática
+Category: Spanish/Español, Niños/as
+Organization: Asociación Norteamericana de Gastroenterología, Hepatología y Nutrición Pediátricas
+URL: https://gikids.org/biopsie-du-foie/?lang=es
+
+Resource: Capacidad total de fijación del hierro
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003489.htm
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: Colangitis biliar primaria (CBP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/liver-diseases/autoimmune-liver-diseases/primary-biliary-cholangitis-pbc/
+
+Resource: Colangitis esclerosante primaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-higado/colangitis-esclerosante-primaria
+
+Resource: Cómo comprender la CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana para Endoscopia Gastrointestinal
+URL: https://www.asge.org/home/for-patients/patient-information/c%C3%B3mo-comprender-la-cpre
+
+Resource: Cómo reconocer la ictericia
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/como-reconocer-la-ictericia
+
+Resource: Daño hepático causado por fármacos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-h%C3%ADgado-y-de-la-ves%C3%ADcula-biliar/f%C3%A1rmacos-e-h%C3%ADgado/da%C3%B1o-hep%C3%A1tico-causado-por-f%C3%A1rmacos
+
+Resource: Degeneración hepatocerebral
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001393.htm
+
+Resource: Derivación portocava
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007336.htm
+
+Resource: Derivación portosistémica intrahepática transyugular (DPIT)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007210.htm
+
+Resource: Desvío portosistémico intrahepático transyugular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/tips
+
+Resource: Dieta para la enfermedad hepática
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002441.htm
+
+Resource: Ecografía abdominal
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003777.htm
+
+Resource: Elastografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/elastografia/
+
+Resource: Electroforesis de proteínas en suero
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003540.htm
+
+Resource: Encefalopatía hepática
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000302.htm
+
+Resource: Encefalopatía hepática
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/enfermedades-del-HIGADO/complicaciones-de-la-enfermedad-hep%C3%A1tica/encefalopat%C3%ADa-hep%C3%A1tica/
+
+Resource: Enfermedad de hígado graso no alcohólico
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007657.htm
+
+Resource: Enfermedad hepática
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000205.htm
+
+Resource: Enfermedad hepática
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/liver-problems/symptoms-causes/syc-20374502?p=1
+
+Resource: Enfermedad hepática alcohólica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000281.htm
+
+Resource: Enfermedad por almacenamiento de glucógeno tipo 1 (von Gierke)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/enfermedades-del-HIGADO/centro-de-informaci%C3%B3n-hep%C3%A1tica-pedi%C3%A1trica/enfermedad-hep%C3%A1tica-pedi%C3%A1trica/enfermedad-por-almacenamiento-de-gluc%C3%B3geno-tipo-1-de-von-gierke/
+
+Resource: Examen de aldolasa en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003566.htm
+
+Resource: Examen de deshidrogenasa láctica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003471.htm
+
+Resource: Examen de ferritina en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003490.htm
+
+Resource: Examen de fósforo en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003478.htm
+
+Resource: Examen de isoenzimas de la fosfatasa alcalina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003497.htm
+
+Resource: Examen de isoenzimas de la lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-isoenzimas-de-la-lactato-deshidrogenasa-ldh/
+
+Resource: Examen de nefelometría cuantitativa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003545.htm
+
+Resource: Examen de sangre para fosfatasa alcalina
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003470.htm
+
+Resource: Examen de TBG en la sangre
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003374.htm
+
+Resource: Galactosemia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/galactosemia/
+
+Resource: Gammagrafía del hígado
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003825.htm
+
+Resource: Hemangioma hepático
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000243.htm
+
+Resource: Hipertensión portal
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-h%C3%ADgado-y-de-la-ves%C3%ADcula-biliar/manifestaciones-cl%C3%ADnicas-de-las-enfermedades-hep%C3%A1ticas/hipertensi%C3%B3n-portal
+
+Resource: Hígado agrandado
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003275.htm
+
+Resource: Insuficiencia hepática aguda
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/acute-liver-failure/symptoms-causes/syc-20352863?p=1
+
+Resource: Isoenzimas de la DHL prueba de sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003499.htm
+
+Resource: Isquemia hepática
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000214.htm
+
+Resource: Leucina aminopeptidasa en orina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003617.htm
+
+Resource: Luchar contra el hígado graso
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/luchar-contra-el-higado-graso
+
+Resource: Obstrucción de la vena hepática (Budd-Chiari)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000239.htm
+
+Resource: Peritonitis bacteriana espontánea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000648.htm
+
+Resource: Peritonitis secundaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000651.htm
+
+Resource: Proteínas totales y relación albúmina/globulina (A/G)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/proteinas-totales-y-relacion-albumina-globulinaa-g/
+
+Resource: Prueba de amoníaco en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003506.htm
+
+Resource: Prueba de cloruro en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cloruro-en-sangre/
+
+Resource: Prueba de gamma-glutamil transferasa (GGT)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-gamma-glutamil-transferasa-ggt/
+
+Resource: Prueba de lactato deshidrogenasa (LDH)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-lactato-deshidrogenasa-ldh/
+
+Resource: Pruebas analíticas para hepatopatía autoinmunitaria
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003328.htm
+
+Resource: Pruebas funcionales hepáticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-funcionales-hepaticas/
+
+Resource: Punción abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003896.htm
+
+Resource: Quistes hepáticos: ¿Causan dolor abdominal?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/liver-problems/expert-answers/liver-cysts/faq-20058440?p=1
+
+Resource: Resonancia magnética del abdomen
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: RMN de cuerpo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bodymr
+
+Resource: Síndrome de Alagille
+Category: Spanish/Español, Niños/as
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/liver-diseases/pediatric-liver-information-center/pediatric-liver-disease/alagille-syndrome/
+
+Resource: Síndrome de Alagille
+Category: Spanish/Español, Niños/as
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13396/sindrome-de-alagille
+
+Resource: Síndrome de Gilbert
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gilberts-syndrome/symptoms-causes/syc-20372811?p=1
+
+Resource: Trasplante de hígado: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/livertransplantation.html
+
+Resource: Tumores hepáticos benignos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Americana del Hígado
+URL: https://liverfoundation.org/es/enfermedades-del-HIGADO/complicaciones-de-la-enfermedad-hep%C3%A1tica/tumores-hep%C3%A1ticos-benignos/
+
+Resource: Ultrasonido abdominal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/abdominus
+
+Resource: Várices esofágicas sangrantes
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000268.htm

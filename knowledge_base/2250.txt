@@ -1,0 +1,86 @@
+Title: Moretones
+
+Also Called:
+- Contusión
+- Equimoma
+- Golpe
+- Magulladura
+- Moradura
+- Morete
+
+Summary:
+Un moretón o hematoma es una marca en la piel causada por la presencia de sangre atrapada debajo de la superficie de la piel. Ocurre cuando una lesión rompe los vasos sanguíneos pequeños, pero no rompe la piel. Estos vasos se abren y dejan salir la sangre por debajo de la piel.
+Los moretones o hematomas suelen ser dolorosos e hinchados. Los hematomas pueden ser en la piel, un músculo o un hueso. Los hematomas óseos son los más serios.
+La desaparición de un hematoma puede llevar meses, pero la mayoría dura aproximadamente dos semanas. Comienzan de un color rojizo, luego se tornan azul violáceo y amarillo verdoso; antes de volver a la coloración normal. Para reducir los hematomas, coloque hielo sobre el área lesionada y elévela por arriba del nivel del corazón. Consulte a su médico si considera que tiene hematomas sin motivo o si parece haber una infección.
+
+Groups:
+- Piel, cabello y uñas
+- Lesiones y heridas
+- Síntomas
+
+Related Resources:
+
+Resource: Cicatrización del hematoma
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100207_1.htm
+
+Resource: Hematoma
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007213.htm
+
+Resource: Hemorragia subconjuntival
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/subconjunctival-hemorrhage.html
+
+Resource: Moretones (Hematomas)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/bruises.html
+
+Resource: Ojo morado: Primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-black-eye/basics/art-20056675?p=1
+
+Resource: Ojos morados
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/black-eyes.html
+
+Resource: Qué son los moretones, por qué y cómo se producen
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/preguntas-sobre-moretones
+
+Resource: Sangrado dentro de la piel
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003235.htm
+
+Resource: Tendencia a la formación de hematomas: Frecuente a medida que envejece
+Category: Personas mayores, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/healthy-aging/in-depth/easy-bruising/art-20045762?p=1
+
+Resource: Trombocitopenia inmunitaria (ITP)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trombocitopenia-inmunitaria
+
+Resource: Trombocitopenia inmunitaria (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/immune-thrombocytopenia.html
+
+Resource: ¿Qué es un moretón?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/bruise.html
+
+Resource: ¿Qué es un ojo morado?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/ojo-negro

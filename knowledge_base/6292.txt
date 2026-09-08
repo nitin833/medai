@@ -1,0 +1,80 @@
+Title: Croup
+
+Also Called:
+- Spasmodic croup
+- Viral croup
+
+Summary:
+Croup is an inflammation of the vocal cords (larynx) and windpipe (trachea). It causes difficulty breathing, a barking cough, and a hoarse voice. The cause is usually a virus, often
+parainfluenza virus
+. Other causes include
+allergies
+and
+reflux
+.
+Croup often starts out like a cold. But then the vocal cords and windpipe become swollen, causing the hoarseness and the cough. There may also be a fever and high-pitched noisy sounds when breathing. The symptoms are usually worse at night, and last for about three to five days.
+Children between the ages of 6 months and 3 years have the highest risk of getting croup. They may also have more severe symptoms. Croup is more common in the fall and winter.
+Most cases of viral croup are mild and can be treated at home.  Rarely, croup can become serious and interfere with your child's breathing. If you are worried about your child's breathing, call your health care provider right away.
+
+Groups:
+- Children and Teenagers
+- Lungs and Breathing
+
+MeSH Headings:
+- Croup
+
+Related Resources:
+
+Resource: About Human Parainfluenza Viruses (HPIVs)
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parainfluenza/about/
+
+Resource: ClinicalTrials.gov: Croup
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Croup%22&aggFilters=status:not%20rec
+
+Resource: Croup
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000959.htm
+
+Resource: Croup
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/croup/symptoms-causes/syc-20350348?p=1
+
+Resource: Croup
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/croup.html
+
+Resource: Croup - discharge
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000994.htm
+
+Resource: Croup in Young Children
+Category: Learn More
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/chest-lungs/Pages/Croup-Treatment.aspx
+
+Resource: Laryngitis
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001385.htm
+
+Resource: Parainfluenza
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001370.htm
+
+Resource: Croup
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Croup%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What to Do about Croup
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/croup-sheet.html

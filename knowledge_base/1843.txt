@@ -1,0 +1,175 @@
+Title: Fibrosis quística
+
+Summary:
+La fibrosis quística es una enfermedad hereditaria de las glándulas mucosas y sudoríparas. Afecta principalmente los pulmones, el páncreas, el hígado, los intestinos, los senos paranasales y los órganos sexuales. La fibrosis quística hace que la mucosidad sea espesa y pegajosa. Esta mucosidad tapa los pulmones, causando problemas para respirar y facilitando el crecimiento de bacterias. Esto puede provocar infecciones pulmonares repetidas y daños pulmonares.
+Los síntomas y la severidad de la fibrosis quística pueden variar. Algunas personas tienen problemas serios desde el nacimiento. Otras pueden tener un tipo más leve de la enfermedad que no se manifiesta hasta la adolescencia o al inicio de la edad adulta. A veces se tienen pocos síntomas, pero más tarde es posible tener más.
+La fibrosis quística se diagnostica a través de varias pruebas, tales como genes, sangre y pruebas de sudor. No existe cura, pero los tratamientos han mejorado mucho en los últimos años. En el pasado, la mayoría de las muertes por fibrosis quística eran niños y adolescentes. Hoy en día, con la mejora de los tratamientos, algunas personas con fibrosis quística viven pasados los cuarenta, cincuenta años o más. Los tratamientos pueden incluir terapia física para el pecho, terapias nutricionales y
+respiratorias
+, medicinas y ejercicio.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Pulmón y vías respiratorias
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Consejos dietéticos para adolescentes con fibrosis quística
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/cystic-fibrosis-dietary-tips.html
+
+Resource: Consejos dietéticos para niños con fibrosis quística
+Category: Viviendo con..., Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cystic-fibrosis-dietary-tips.html
+
+Resource: Consideraciones nutricionales para la fibrosis quística
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002437.htm
+
+Resource: Cribado respiratorio para la fibrosis quística: Esputo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cf-screen.html
+
+Resource: Cómo respirar cuando le falta el aliento
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000053.htm
+
+Resource: Drenaje postural
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000051.htm
+
+Resource: Elastasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/elastasa-fecal/
+
+Resource: Examen de estimulación de secretina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003892.htm
+
+Resource: Examen de tripsinógeno
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003560.htm
+
+Resource: Fibrosis quística
+Category: Comience aquí, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/complicaciones/fibrosis-quistica.aspx
+
+Resource: Fibrosis quística
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000107.htm
+
+Resource: Fibrosis quística
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/chronic/paginas/cystic-fibrosis.aspx
+
+Resource: Fibrosis quística
+Category: Comience aquí, Spanish/Español
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/12467/fibrosis-quistica/
+
+Resource: Fibrosis quística (para padres)
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cf.html
+
+Resource: Fibrosis quística: Análisis de cloruro en el sudor
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sweat-test.html
+
+Resource: Fundación de Niños con Defectos de Nacimiento / March of Dimes
+Category: Spanish/Español, Especialistas
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Investigación acerca de la fibrosis quística
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/cystic-fibrosis
+
+Resource: Las maravillas de la mucosidad y la flema
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/las-maravillas-de-la-mucosidad-y-la-flema
+
+Resource: Prueba de detección para fibrosis quística neonatal
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003409.htm
+
+Resource: Prueba de electrolitos en el sudor
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003630.htm
+
+Resource: Prueba de portador de fibrosis quística
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/embarazo/prueba-de-portador-de-fibrosis-quistica.aspx
+
+Resource: Prueba de sudor
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sudor/
+
+Resource: Quimotripsina en heces
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/quimotripsina-en-heces/
+
+Resource: Rehabilitación pulmonar: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pulmonaryrehabilitation.html
+
+Resource: Seguridad con el oxígeno
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000049.htm
+
+Resource: Tripsina y quimotripsina en las heces
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003594.htm
+
+Resource: Uso del oxígeno en el hogar
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000048.htm
+
+Resource: Uso del oxígeno en el hogar: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000251.htm
+
+Resource: Viajar con problemas respiratorios
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000066.htm
+
+Resource: ¿Qué es la bronquiectasia?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/bronquiectasias
+
+Resource: ¿Qué es la fibrosis quística?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/fibrosis-quistica

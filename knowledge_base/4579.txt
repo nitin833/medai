@@ -1,0 +1,59 @@
+Title: Disparidades de la salud
+
+Summary:
+Las disparidades de la salud son diferencias de diferentes grupos de personas. Estas diferencias de la salud pueden incluir:
+Cuántas personas tienen ciertas enfermedades
+Qué tan severas son estas enfermedades
+Cuántas personas tienen complicaciones por estas enfermedades
+Cuántas personas mueren por estas enfermedades
+Si las personas tienen acceso a atención de salud
+Cuántas personas se someten a exámenes de diagnóstico
+Estos grupos pueden estar basados en:
+Raza
+Etnicidad
+Estado inmigratorio
+Discapacidad
+Sexo o género
+Orientación sexual
+Geografía
+Ingresos
+Nivel educacional
+NIH: Instituto Nacional de Salud de las Minorías y Disparidades en la Salud
+
+Groups:
+- Sistemas de salud
+- Grupos especiales
+
+Related Resources:
+
+Resource: Equidad en la salud relacionada con el cáncer
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/health-equity/index.html
+
+Resource: Estadísticas interesantes: Disparidades en salud de los embarazos
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/estadisticas-interesantes-disparidades-en-salud-de-los-embarazos
+
+Resource: Los investigadores están exponiendo las preocupantes consecuencias de la contaminación ambiental
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/los-investigadores-estan-exponiendo-las-preocupantes-consecuencias-de-la-contaminacion-ambiental
+
+Resource: Mortalidad materna
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/maternal-mortality
+
+Resource: Se identifican desigualdades en supervivencia de jóvenes afroamericanos con cáncer colorrectal
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/noticias/temas-y-relatos-blog/2016/colorrectal-supervivencia-desigualdades
+
+Resource: Tuberculosis y las personas de raza negra o afroamericanas
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/tb/es/health-equity/personas-de-raza-negra-o-afroamericanas.html
+
+Resource: ¡¿Por qué no puedo dormir?!
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/por-que-no-puedo-dormir

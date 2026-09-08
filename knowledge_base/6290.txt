@@ -1,0 +1,78 @@
+Title: E-Cigarettes
+
+Also Called:
+- E-Cigs
+- Electronic Cigarettes
+- Personal Vaporizer
+
+Summary:
+E-cigarettes, or electronic cigarettes, are battery-operated smoking devices.  They often look like cigarettes, but work differently.  Using an e-cigarette is called vaping. The user puffs on the mouthpiece of a cartridge. This causes a vaporizer to heat the liquid inside the cartridge. The liquid contains nicotine, flavorings, and other chemicals. The heated liquid turns into the vapor that is inhaled.
+Some people think that e-cigarettes are safer than cigarettes, and that they can be used to help people quit smoking.  But not much is known about the health risks of using them, or whether they do help people quit smoking.  However we do know about some dangers of e-cigarettes:
+They contain nicotine, which is addictive
+They contain other potentially harmful chemicals
+There is a link between e-cigarette use and tobacco cigarette use in teens
+The liquid in e-cigarettes can cause nicotine poisoning if someone drinks, sniffs, or touches it
+NIH: National Institute on Drug Abuse
+
+Groups:
+- Substance Use and Disorders
+- Lungs and Breathing
+
+MeSH Headings:
+- Electronic Nicotine Delivery Systems
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Electronic Nicotine Delivery Systems
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Electronic+Nicotine+Delivery+Systems%22&aggFilters=status:not%20rec
+
+Resource: E-cigarettes and E-hookahs
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000761.htm
+
+Resource: E-Cigarettes and Pregnancy
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/maternal-infant-health/pregnancy-substance-abuse/e-cigarettes.html
+
+Resource: How to Properly Store E-Liquids and Prevent Accidental Exposure of E-Liquids to Children
+Category: Learn More
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/how-properly-store-e-liquids-and-prevent-accidental-exposure-e-liquids-children
+
+Resource: E-Cigarettes
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Electronic+Nicotine+Delivery+Systems%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quit Vaping
+Category: Learn More
+Organization: National Cancer Institute, Tobacco Control Research Branch
+URL: https://smokefree.gov/quit-vaping-resources
+
+Resource: Risks of Vaping: A Look at Safety
+Category: Learn More
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2020/05/risks-vaping
+
+Resource: Secondhand Smoke and Electronic-Cigarette Aerosols
+Category: Learn More
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/indoor-air-quality-iaq/secondhand-smoke-and-electronic-cigarette-aerosols
+
+Resource: Tobacco Smoke, Vaping, and Asthma
+Category: Learn More
+Organization: Asthma and Allergy Foundation of America
+URL: https://aafa.org/asthma/asthma-triggers-causes/secondhand-smoke-environmental-tobacco-asthma/
+
+Resource: Vaping Devices (Electronic Cigarettes) DrugFacts
+Category: Learn More
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/publications/drugfacts/vaping-devices-electronic-cigarettes
+
+Resource: Vaping: What Parents Should Know
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/e-cigarettes.html

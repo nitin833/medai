@@ -1,0 +1,257 @@
+Title: Infecciones virales
+
+Also Called:
+- Infecciones causadas por virus
+
+Summary:
+¿Qué son los virus?
+Los virus son gérmenes muy pequeños. Están hechos de material 
+genético (ya sea
+ADN
+o ARN) dentro de un recubrimiento de proteína. 
+Hay una gran cantidad de virus en la tierra. Solo un pequeño número 
+de ellos puede infectar a los humanos. Estos virus pueden infectar 
+nuestras células, lo que puede causar enfermedades. Algunas de las 
+enfermedades que pueden causar los virus incluyen el
+resfrío común
+, la
+influenza
+, el
+COVID-19
+y el
+VIH
+.
+¿Cómo se propagan los virus?
+Los virus se pueden propagar de diferentes maneras:
+A través de gotitas y partículas exhaladas por una persona con la 
+infección. Es posible que inhale las gotitas o partículas, o que caigan 
+en su boca, nariz u ojos
+Al tocar superficies u objetos que tienen el virus y luego tocarse la 
+boca, la nariz o los ojos
+De la persona embarazada al bebé
+durante el embarazo
+A través de
+alimentos o agua contaminados
+Al ser picado por un
+insecto
+o animal infectado
+A través del
+contacto sexual
+(generalmente sexo vaginal, anal y 
+oral) con alguien con la infección
+¿Cómo los virus causan enfermedades?
+Los virus son como secuestradores. Invaden células vivas y 
+normales. Luego usan esas células para multiplicarse (hacer copias de 
+sí mismos). Este proceso también se llama replicación. El proceso 
+puede matar, dañar o cambiar las células infectadas. A veces esto 
+puede enfermarle. Los síntomas pueden variar de leves a muy severos. 
+Otras veces, su
+sistema inmunitario
+puede combatirlo y es posible que no tenga ningún síntoma.
+En general, cada virus diferente solo infecta un tipo de célula en su 
+cuerpo. Por ejemplo, los virus de la
+hepatitis
+afectan las células del 
+hígado. El VIH infecta cierto tipo de célula del sistema inmunitario.
+¿Cuáles son los tratamientos para las infecciones virales?
+Para la mayoría de las infecciones virales, los tratamientos solo 
+pueden ayudar con los síntomas mientras espera que su sistema 
+inmunitario combata el virus. Existen medicamentos antivirales para 
+tratar algunas infecciones virales. Los
+antibióticos
+no funcionan para las 
+infecciones virales.
+¿Se pueden prevenir las infecciones virales?
+Las
+vacunas
+pueden ayudar a prevenir que contraiga muchas 
+enfermedades virales. Es posible que pueda prevenir algunas 
+infecciones virales al:
+Lavarse las manos bien
+Seguir medidas de
+seguridad con los alimentos
+Limpiar superficies
+que puedan estar infectadas con gérmenes
+Evitar el contacto con animales salvajes
+Prevenir las picaduras de insectos usando repelente de insectos al 
+salir al aire libre. Si viaja a un área que tiene un alto riesgo de 
+enfermedades por picaduras de insectos, use también pantalones 
+largos, camisas y calcetines
+Practicar sexo seguro (usar condón cada vez que tenga sexo anal, 
+vaginal u oral)
+Evitar el contacto cercano con personas enfermas
+
+Groups:
+- Infecciones
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Acerca de la enfermedad de manos, pies y boca
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/hand-foot-mouth/es/about/acerca-de-la-enfermedad-de-manos-pies-y-boca.html
+
+Resource: Acerca de los virus de parainfluenza humana (HPIV)
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/parainfluenza/es/about/acerca-de-los-virus-de-parainfluenza-humana-hpiv.html
+
+Resource: Acerca del metaneumovirus humano
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/human-metapneumovirus/es/about/acerca-del-metaneumovirus-humano.html
+
+Resource: Aclarando el aire: Todo sobre los virus de transmisión aérea
+Category: Asuntos específicos, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/aclarando-el-aire
+
+Resource: Adenovirus
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/adenovirus.html
+
+Resource: CDC en español
+Category: Spanish/Español, Especialistas
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Crup: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/croup.html
+
+Resource: Cultivo de ganglio linfático
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003737.htm
+
+Resource: Enfermedad del virus del Zika
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007666.htm
+
+Resource: Enterovirus D68
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000782.htm
+
+Resource: Enterovirus: Lo que los padres deben saber
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/infections/Paginas/Reports-of-a-Severe-Respiratory-Illness-on-the-Rise.aspx
+
+Resource: Examen de sangre ELISA
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003332.htm
+
+Resource: Exantema vírico de boca-manos-pies
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000965.htm
+
+Resource: Gérmenes e higiene: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/germsandhygiene.html
+
+Resource: Herpangina
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000969.htm
+
+Resource: Infecciones bacterianas frente a infecciones virales: ¿En qué se diferencian?
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/infectious-diseases/expert-answers/infectious-disease/faq-20058098?p=1
+
+Resource: Infecciones por el virus de coxsackie
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/coxsackie.html
+
+Resource: Infecciones por enterovirus (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/enteroviruses.html
+
+Resource: Infecciones virales
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/introducci%c3%b3n-a-las-infecciones-virales/introducci%c3%b3n-a-las-infecciones-virales
+
+Resource: Medidas para el control de infecciones: Tema de salud de MedlinePlus
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/infectioncontrol.html
+
+Resource: Mielitis flácida aguda: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/acuteflaccidmyelitis.html
+
+Resource: Molusco contagioso
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000826.htm
+
+Resource: Molusco contagioso
+Category: Adolescentes, Spanish/Español
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/molusco-contagioso/
+
+Resource: Panel de patógenos respiratorios
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/panel-de-patogenos-respiratorios/
+
+Resource: Parainfluenza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001370.htm
+
+Resource: Parechovirus
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/parechovirus.html
+
+Resource: Preguntas y respuestas sobre el virus Oropouche
+Category: Asuntos específicos, Spanish/Español
+Organization: Organización Panamericana de la Salud
+URL: https://www.paho.org/es/noticias/24-7-2024-preguntas-respuestas-sobre-virus-oropouche
+
+Resource: Prueba de sangre de inmunoglobulinas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-inmunoglobulinas/
+
+Resource: Pruebas de PCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-pcr/
+
+Resource: Pruebas rápidas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-rapidas/
+
+Resource: Roséola
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000968.htm
+
+Resource: Tiroiditis subaguda
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000375.htm
+
+Resource: Una nueva vacuna contra el VSR les confiere protección a usted y a sus seres queridos durante esta temporada de invierno
+Category: Spanish/Español, Asuntos relacionados
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/una-nueva-vacuna-contra-el-vsr-les-confiere-proteccion-a-usted-y-a-sus-seres-queridos-durante-esta-temporada-de-invierno
+
+Resource: Virus ECHO
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001340.htm

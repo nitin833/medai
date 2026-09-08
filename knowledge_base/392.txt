@@ -1,0 +1,133 @@
+Title: Schizophrenia
+
+Summary:
+Schizophrenia is a serious brain illness. People who have it may hear voices that aren't there. They may think other people are trying to hurt them. Sometimes they don't make sense when they talk. The disorder makes it hard for them to keep a job or take care of themselves.
+Symptoms of schizophrenia usually start between ages 16 and 30. Men often develop symptoms at a younger age than women. People usually do not get schizophrenia after age 45. There are three types of symptoms:
+Psychotic symptoms distort a person's thinking.  These include hallucinations (hearing or seeing things that are not there), delusions (beliefs that are not true), trouble organizing thoughts, and strange movements.
+"Negative" symptoms make it difficult to show emotions and to function normally. A person may seem depressed and withdrawn.
+Cognitive symptoms affect the thought process.  These include trouble using information, making decisions, and paying attention.
+No one is sure what causes schizophrenia.  Your genes, environment, and brain chemistry may play a role.
+There is no cure. Medicine can help control many of the symptoms. You may need to try different medicines to see which works best. You should stay on your medicine for as long as your doctor recommends. Additional treatments can help you deal with your illness from day to day.  These include therapy, family education, rehabilitation, and skills training.
+NIH: National Institute of Mental Health
+
+Groups:
+- Mental Health and Behavior
+
+MeSH Headings:
+- Schizophrenia
+
+Related Resources:
+
+Resource: Brain Stimulation Therapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies
+
+Resource: ClinicalTrials.gov: Schizophrenia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Schizophrenia%22&aggFilters=status:not%20rec
+
+Resource: FindTreatment.gov
+Category: Find an Expert
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Hallucinations
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003258.htm
+
+Resource: Help for Mental Illnesses
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/find-help
+
+Resource: Managing Life with Serious Mental Illness
+Category: Living With
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/mental-health/serious-mental-illness/managing-life
+
+Resource: Mental Health Medications
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/mental-health-medications
+
+Resource: Mental Health Providers: Tips on Finding One
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/mental-illness/in-depth/mental-health-providers/art-20045530?p=1
+
+Resource: Mental status testing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003326.htm
+
+Resource: NAMI
+Category: Find an Expert
+Organization: NAMI
+URL: https://www.nami.org/
+
+Resource: National Institute of Mental Health
+Category: Find an Expert
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/
+
+Resource: Psychosis and Schizophrenia Test
+Category: Health Check Tools
+Organization: Mental Health America
+URL: https://screening.mhanational.org/screening-tools/psychosis/
+
+Resource: Psychotherapies
+Category: Treatments and Therapies
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+
+Resource: Schizophrenia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Schizophrenia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Schizoaffective Disorder
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/schizoaffective-disorder/symptoms-causes/syc-20354504?p=1
+
+Resource: Schizoaffective disorder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000930.htm
+
+Resource: Schizophrenia
+Category: Start Here
+Organization: NAMI
+URL: https://www.nami.org/About-Mental-Illness/Mental-Health-Conditions/Schizophrenia/
+
+Resource: Schizophrenia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000928.htm
+
+Resource: Schizophrenia
+Category: Start Here
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/schizophrenia
+
+Resource: Schizophrenia
+Category: Start Here
+Organization: American Psychiatric Association
+URL: https://www.psychiatry.org/patients-families/schizophrenia
+
+Resource: Schizophrenia in Children, Teens and Young Adults
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/emotional-problems/Pages/Schizophrenia.aspx
+
+Resource: Schizophrenia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/schizophrenia
+
+Resource: Understanding Psychosis
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/publications/understanding-psychosis

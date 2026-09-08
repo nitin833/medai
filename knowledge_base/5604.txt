@@ -1,0 +1,240 @@
+Title: Interacciones y efectos secundarios de los medicamentos
+
+Summary:
+La mayoría de las veces, los medicamentos hacen que nuestras vidas sean mejores. Reducen dolores y molestias, combaten infecciones y controlan problemas como la presión arterial alta o la diabetes. Pero también pueden causar reacciones no deseadas, como interacciones entre medicamentos, efectos secundarios y alergias.
+¿Qué es una interacción de medicamentos?
+Una interacción de medicamentos es un cambio en la forma en que un medicamento actúa en el cuerpo cuando se toma con otras medicinas, alimentos o suplementos; o cuando se toma mientras tiene ciertas afecciones médicas. Por ejemplo, entre:
+Dos medicamentos, como aspirina y
+anticoagulantes
+Medicamentos y alimentos, como
+estatinas
+y pomelo
+Medicamentos y suplementos, como ginkgo y anticoagulantes
+Medicamentos y afecciones médicas, como aspirina y
+úlceras pépticas
+Las interacciones podrían hacer que un medicamento sea más o menos efectivo, causar efectos secundarios o cambiar la forma en que funcionan uno o ambos medicamentos.
+¿Qué son los efectos secundarios?
+Los efectos secundarios son efectos no deseados, generalmente desagradables, causados por medicamentos. La mayoría son leves, como dolor de estómago,
+boca seca
+o somnolencia, y desaparecen al dejar de tomar el medicamento. Otros pueden ser más graves. En ocasiones, un medicamento puede interactuar con una enfermedad que tiene y causar un efecto secundario. Por ejemplo, si tiene una afección cardíaca, ciertos descongestionantes pueden hacer que tenga latidos cardíacos rápidos.
+¿Qué son las alergias a medicamentos?
+Las alergias a medicamentos son otro tipo de reacción. Pueden variar de leves a potencialmente mortales. Las reacciones cutáneas, como
+urticaria
+y
+sarpullido
+, son el tipo más común. La
+anafilaxia
+, una reacción alérgica grave, es menos común.
+¿Cómo mantenerme seguro cuando tomo medicamentos?
+Cuando empiece a tomar un nuevo medicamento recetado o de venta libre, asegúrese de entender cómo
+tomarlo correctamente
+. Sepa qué otros medicamentos, alimentos y suplementos debe evitar. Siempre hable con su profesional de la salud o farmacéutico si tiene preguntas sobre sus medicamentos.
+
+Groups:
+- Tratamiento con medicamentos
+
+Related Resources:
+
+Resource: Alergia a la aspirina: ¿Cuáles son los síntomas?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/drug-allergy/expert-answers/aspirin-allergy/faq-20058225?p=1
+
+Resource: Alergia a la penicilina
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/penicillin-allergy/symptoms-causes/syc-20376222?p=1
+
+Resource: Alergia a la penicilina (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/penicillin-allergy.html
+
+Resource: Alergia a sulfamidas: ¿Qué medicamentos debo evitar?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/drug-allergy/expert-answers/sulfa-allergy/faq-20057970?p=1
+
+Resource: Alergias a los medicamentos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/drug-allergy/symptoms-causes/syc-20371835?p=1
+
+Resource: Alergias a medicamentos: ¿Qué buscar?
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/alergias-a-medicamentos
+
+Resource: Alergias farmacológicas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000819.htm
+
+Resource: Anafilaxia: primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-anaphylaxis/basics/art-20056608?p=1
+
+Resource: Anafilaxia: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/anaphylaxis.html
+
+Resource: Angioedema
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000846.htm
+
+Resource: Conozca la ciencia: Cómo pueden interactuar los medicamentos y los suplementos
+Category: Comience aquí, Spanish/Español
+Organization: Centro Nacional de Salud Complementaria e Integral
+URL: https://www.nccih.nih.gov/health/espanol/conozca-la-ciencia/interaccion-de-medicamentos-y-suplementos
+
+Resource: Daño hepático causado por fármacos
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-h%C3%ADgado-y-de-la-ves%C3%ADcula-biliar/f%C3%A1rmacos-e-h%C3%ADgado/da%C3%B1o-hep%C3%A1tico-causado-por-f%C3%A1rmacos
+
+Resource: Diarrea medicamentosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000293.htm
+
+Resource: Diez medicamentos que las personas mayores de 65 años deben evitar o usar con precaución
+Category: Personas mayores, Spanish/Español
+Organization: SAG Fundación para la Salud en Envejecimiento
+URL: https://www.healthinaging.org/sites/default/files/media/pdf/HIA-TipSheet-10%20Meds-Avoid-Spanish%20Jan%202019.pdf
+
+Resource: Enfermedad del suero
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000820.htm
+
+Resource: Eritema multiforme
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000851.htm
+
+Resource: Erupción cutánea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003220.htm
+
+Resource: Farmacogenética
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007794.htm
+
+Resource: Farmacogenética: Cómo las pruebas genéticas pueden guiar las decisiones que se toman sobre medicamentos (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/pharmacogenomics.html
+
+Resource: Farmacéuticos de la FDA ayudan a los consumidores a usar los medicamentos de una manera segura
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/los-farmaceuticos-de-la-fda-ayudan-los-consumidores-usar-los-medicamentos-de-una-manera-segura
+
+Resource: Hinchazón
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003103.htm
+
+Resource: Interacciones de medicamentos: Lo que usted debe saber
+Category: Comience aquí, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/drugs/resources-drugs/interacciones-de-medicamentos-lo-que-usted-debe-saber
+
+Resource: Jugo de toronja y algunos medicamentos son una mala combinación
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/el-jugo-de-toronja-y-algunos-medicamentos-son-una-mala-combinacion
+
+Resource: MedlinePlus: Medicinas, hierbas y suplementos
+Category: Información de referencia, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/druginformation.html
+
+Resource: Mezclar medicamentos y suplementos dietéticos puede poner en peligro su salud
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/mezclar-medicamentos-y-suplementos-dieteticos-puede-poner-en-peligro-su-salud
+
+Resource: Minuto de MedWatch: Los consumidores pueden reportar efectos secundarios inesperados, eventos adversos u otros problemas con productos regulados a través del programa MedWatch de la FDA
+Category: Interactivos y videos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.youtube.com/watch?v=w1vdMyQUdAI&feature=youtu.be
+
+Resource: Monitorización de fármacos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/monitorizacion-de-farmacos/
+
+Resource: Náuseas y vómito en adultos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003117.htm
+
+Resource: Piénselo muy bien: Una guía para el control de los beneficios y riesgos de las medicinas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/drugs/publicaciones-en-espanol-medicamentos/pienselo-muy-bien-una-guia-para-el-control-de-los-beneficios-y-riesgos-de-las-medicinas
+
+Resource: Prueba de alergias en la piel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-alergias-en-la-piel/
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas/
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007795.htm
+
+Resource: Reacciones adversas al mezclar bebidas alcohólicas con medicamentos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional sobre el Abuso de Alcohol y Alcoholismo
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/reacciones-adversas
+
+Resource: Reacciones alérgicas a medicamentos y fármacos
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/tools-for-the-public/biblioteca-de-condiciones/biblioteca-de-alergia/reacciones-alergicas-a-medicamentos-y-farmacos-con
+
+Resource: Rinorrea o congestión nasal en adultos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003049.htm
+
+Resource: Sibilancias
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003070.htm
+
+Resource: Síndrome de la serotonina
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/serotonin-syndrome/symptoms-causes/syc-20354758?p=1
+
+Resource: Temblor inducido por fármacos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000765.htm
+
+Resource: Tomar múltiples medicinas de manera segura
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000883.htm
+
+Resource: Urticaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000845.htm
+
+Resource: ¿Sabía usted que los suplementos y los medicamentos pueden interactuar de formas inesperadas?
+Category: Spanish/Español, Asuntos relacionados
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/sabia-usted-que-los-suplementos-y-los-medicamentos-pueden-interactuar-de-formas-inesperadas

@@ -1,0 +1,205 @@
+Title: Salud mental del niño
+
+Summary:
+Es importante reconocer y tratar los trastornos mentales de los niños desde el comienzo. Una vez que el trastorno mental se desarrolla, se vuelve una parte habitual de la conducta de su hijo. Esto lo hace más difícil de tratar.
+Pero no siempre es fácil saber si su hijo tiene un problema serio. Las tensiones diarias pueden causar cambios en el comportamiento de su hijo. Por ejemplo, la llegada de un nuevo hermano o hermana o ir a una nueva escuela puede causar problemas pasajeros de comportamiento. Las señales de aviso de cuándo podría ser un problema más serio incluyen:
+Problemas en más de un entorno (en la escuela, en casa, con sus compañeros)
+Cambios en el apetito o el sueño
+Aislamiento social o miedo a cosas que antes no le causaba temor
+Volver a portarse como un niño pequeño, por ejemplo orinarse en la cama
+Señales de estar molesto, como tristeza o llanto
+Signos de hacerse daño a sí mismo, como golpearse la cabeza o de repente herirse a menudo
+Pensamientos repetitivos sobre la muerte
+Para diagnosticar problemas de salud mental, el profesional de la salud o especialista en salud mental presta atención a las señales y síntomas de su hijo, su historia clínica y familiar. Los tratamientos incluyen medicamentos y terapia de conversación.
+NIH: Instituto Nacional de la Salud Mental
+
+Groups:
+- Niños y adolescentes
+- Salud mental y conducta
+
+Related Resources:
+
+Resource: Aliviando el estrés infantil
+Category: Spanish/Español, Asuntos relacionados
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/aliviando-el-estres-infantil
+
+Resource: Ansiedad de separación
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/separation-anxiety.html
+
+Resource: Ayuda para la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/find-help/ayuda-para-la-salud-mental
+
+Resource: Ayudar a los niños cuando se preocupan
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/worrying.html
+
+Resource: Consejos para la familia sobre el sueño y la salud mental
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/healthy-living/sleep/paginas/sleep-and-mental-health.aspx
+
+Resource: Cómo afrontar la tristeza
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/sadness.html
+
+Resource: Cómo ayudar a los niños y adolescentes a superar los acontecimientos catastróficos y otras experiencias traumáticas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/como-ayudar-los-ninos
+
+Resource: Cómo hablar con los niños sobre las tragedias y otras malas noticias
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/media/paginas/talking-to-children-about-tragedies-and-other-news-events.aspx
+
+Resource: En búsqueda de ayuda: Cómo elegir un psicoterapeuta
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Asociación Psiquiátrica Americana
+URL: https://www.apa.org/topics/psychotherapy/elegir?partner=nlm
+
+Resource: Enfermedad mental en los niños: Infórmate sobre los signos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/childrens-health/in-depth/mental-illness-in-children/art-20046577?p=1
+
+Resource: Entendamos el estrés traumático infantil
+Category: Asuntos específicos, Spanish/Español
+Organization: Red Nacional para el Estrés Traumático Infantil
+URL: https://www.nctsn.org/sites/default/files/resources//understanding_child_traumatic_stress_sp.pdf
+
+Resource: Entendiendo la psicoterapia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Asociación Psiquiátrica Americana
+URL: https://www.apa.org/topics/psychotherapy/entendiendo-la-psicoterapia?partner=nlm
+
+Resource: Espacios verdes podrían mejorar la salud mental de los niños
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/los-espacios-verdes-podrian-mejorar-la-salud-mental-de-los
+
+Resource: Estrés en la niñez
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002059.htm
+
+Resource: Estrés infantil: Cómo pueden ayudar los padres
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stress.html
+
+Resource: Estrés por las tormentas: Ayudar a los niños a mantener la calma
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/storms-calm.html
+
+Resource: Evaluación de salud mental
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/evaluacion-de-salud-mental/
+
+Resource: Eventos traumáticos y los niños
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000588.htm
+
+Resource: Experiencias adversas en la infancia: manejo del estrés y desarrollo de resiliencia
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/healthy-living/emotional-wellness/building-resilience/paginas/aces-adverse-childhood-experiences.aspx
+
+Resource: Hablar sobre los sentimientos
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/talk-feelings.html
+
+Resource: Información en español sobre la salud mental
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/topics/espanol
+
+Resource: Ir a terapia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/going-to-therapist.html
+
+Resource: Llevar a su hijo a un terapeuta
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/finding-therapist.html
+
+Resource: Miedos y preocupaciones de la infancia
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/anxiety.html
+
+Resource: Niños y el duelo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000749.htm
+
+Resource: Niños y la salud mental: ¿Es solo una etapa?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/los-ninos-y-la-salud-mental
+
+Resource: Trastorno bipolar en niños y adolescentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/el-trastorno-bipolar-en-los-ninos-y-los-adolescentes
+
+Resource: Trastorno de ansiedad generalizada en niños
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007687.htm
+
+Resource: Trastorno de desregulación disruptiva del estado de ánimo: Conceptos básicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/trastorno-de-desregulacion-disruptive
+
+Resource: Trastorno de movimientos estereotípicos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001548.htm
+
+Resource: Trastorno de vinculación reactiva de la lactancia o la primera infancia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001547.htm
+
+Resource: Trastornos emocionales
+Category: Comience aquí, Spanish/Español
+Organization: Centro de Recursos Informativos para Padres
+URL: https://www.parentcenterhub.org/emocional/
+
+Resource: Tres maneras de ayudar a un niño cuando se siente solo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/help-lonely-child.html
+
+Resource: ¡Entusiásmate con las investigaciones sobre la salud mental!
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/sites/default/files/documents/health/publications/entusiasmate-con-las-investigaciones-sobre-salud-mental.pdf
+
+Resource: ¡Hazle frente al estrés! (libro para colorear)
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Salud Mental
+URL: https://www.nimh.nih.gov/health/publications/espanol/hazle-frente-al-estres
+
+Resource: ¿Cómo ayudar a los niños a desarrollar resiliencia en tiempos de incertidumbre?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/healthy-living/emotional-wellness/building-resilience/paginas/how-to-help-children-build-resilience-in-uncertain-times.aspx
+
+Resource: ¿Cómo puede la conexión social ayudar a los niños y adolescentes a sentirse menos solos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/social-connection.html

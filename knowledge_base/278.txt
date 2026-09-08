@@ -1,0 +1,117 @@
+Title: Heart Transplantation
+
+Summary:
+A heart transplant removes a damaged or diseased heart and replaces it with a healthy one. The healthy heart comes from a donor who has died. It is the last resort for people with
+heart failure
+when all other treatments have failed. The heart failure might have been caused by coronary heart disease, damaged heart valves or heart muscles, congenital heart defects, or viral infections of the heart.
+Although heart transplant surgery is a life-saving measure, it has many risks. Careful monitoring, treatment, and regular medical care can prevent or help manage some of these risks.
+After the surgery, most heart transplant patients can return to their normal levels of activity. However, fewer than 30% return to work for many different reasons.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Transplantation and Donation
+
+MeSH Headings:
+- Heart Transplantation
+
+Related Resources:
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Cardiac Rehabilitation: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cardiacrehabilitation.html
+
+Resource: ClinicalTrials.gov: Heart Transplantation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22heart+transplantation%22&aggFilters=status:not%20rec
+
+Resource: Getting a New Heart
+Category: Start Here
+Organization: American Society of Transplantation
+URL: https://www.myast.org/uploads/files/general/Getting-a-new-heart.pdf
+
+Resource: Heart
+Category: Related Issues
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn/patients/resources/heart
+
+Resource: Heart Anatomy
+Category: Reference Desk
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/heart-anatomy/
+
+Resource: Heart transplant
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003003.htm
+
+Resource: Heart transplant - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100086_1.htm
+
+Resource: Heart Treatments
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-treatments-procedures
+
+Resource: Heart-lung transplant - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100147_1.htm
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: Myocardial biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003873.htm
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: OPTN/SRTR Annual Data Report
+Category: Statistics and Research
+Organization: Scientific Registry of Transplant Recipients
+URL: https://srtr.hrsa.gov/transplant-professionals/optnsrtr-annual-data-report/
+
+Resource: Organ Procurement and Transplantation Network
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://www.hrsa.gov/optn
+
+Resource: Heart Transplantation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Heart+Transplantation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Ventricular assist device
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007268.htm
+
+Resource: Ventricular Assist Device (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vad.html
+
+Resource: Ventricular Assist Devices (VADS)
+Category: Related Issues
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/ventricular-assist-devices/
+
+Resource: What Is a Total Artificial Heart?
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/total-artificial-heart

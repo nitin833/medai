@@ -1,0 +1,241 @@
+Title: Seizures
+
+Summary:
+Seizures are symptoms of a brain problem. They happen because of sudden, abnormal 
+electrical activity in the brain. When people think of seizures, they often think of convulsions in which a person's body 
+shakes rapidly and uncontrollably. Not all seizures cause convulsions. There are many types 
+of seizures and some have mild symptoms. Seizures fall into two main groups. Focal 
+seizures, also called partial seizures, happen in just one part of the brain. Generalized 
+seizures are a result of abnormal activity on both sides of the brain.
+Most seizures last from 30 seconds to 2 minutes and do not cause lasting harm. However, 
+it is a medical emergency if seizures last longer than 5 minutes or if a person has many 
+seizures and does not wake up between them. Seizures can have many causes, including 
+medicines, high fevers, head injuries and certain diseases.  People who have recurring 
+seizures due to a brain disorder have
+epilepsy
+.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Seizures
+
+Related Resources:
+
+Resource: 15q13.3 microdeletion: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/15q133-microdeletion
+
+Resource: Absence seizure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000696.htm
+
+Resource: Absence Seizure (Petit Mal Seizure)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/petit-mal-seizure/symptoms-causes/syc-20359683?p=1
+
+Resource: Alpers-Huttenlocher syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpers-huttenlocher-syndrome
+
+Resource: Ataxia neuropathy spectrum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ataxia-neuropathy-spectrum
+
+Resource: Benign familial neonatal seizures: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/benign-familial-neonatal-seizures
+
+Resource: Bilateral tonic-clonic seizure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000695.htm
+
+Resource: Childhood absence epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/childhood-absence-epilepsy
+
+Resource: ClinicalTrials.gov: Seizures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Seizures%22&aggFilters=status:not%20rec
+
+Resource: Convulsions - first aid - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100212_1.htm
+
+Resource: CPK isoenzymes test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003504.htm
+
+Resource: EEG
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003931.htm
+
+Resource: EEG (Electroencephalogram)
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/eeg/about/pac-20393875?p=1
+
+Resource: Epilepsy and Seizures
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/epilepsy-and-seizures
+
+Resource: Epilepsy of infancy with migrating focal seizures: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/epilepsy-of-infancy-with-migrating-focal-seizures
+
+Resource: Epilepsy or seizures - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000128.htm
+
+Resource: Familial focal epilepsy with variable foci: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/familial-focal-epilepsy-with-variable-foci
+
+Resource: Febrile Seizures
+Category: Children
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/febrile-seizures
+
+Resource: Febrile seizures
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000980.htm
+
+Resource: Febrile seizures - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000223.htm
+
+Resource: Find a Doctor
+Category: Find an Expert
+Organization: American Epilepsy Society
+URL: https://my.aesnet.org/FindaDoctor
+
+Resource: First Aid for Seizures
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/epilepsy/first-aid-for-seizures/
+
+Resource: Focal Aware Seizures (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/focal-aware-seizures.html
+
+Resource: Focal Impaired Awareness Seizures (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/focal-impaired-aware-seizures.html
+
+Resource: Focal seizure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000697.htm
+
+Resource: Frontal Lobe Seizures
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/frontal-lobe-seizures/symptoms-causes/syc-20353958?p=1
+
+Resource: Generalized Tonic-Clonic Seizures (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tonic-clonic-seizures.html
+
+Resource: Genetic epilepsy with febrile seizures plus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/genetic-epilepsy-with-febrile-seizures-plus
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: How to Handle a Seizure
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/seizures-sheet.html
+
+Resource: How to Help Someone Who Is Having a Seizure
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/how-to-help-someone-who-is-having-a-seizure
+
+Resource: Juvenile myoclonic epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-myoclonic-epilepsy
+
+Resource: Molybdenum cofactor deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/molybdenum-cofactor-deficiency/
+
+Resource: Myoclonic epilepsy myopathy sensory ataxia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/myoclonic-epilepsy-myopathy-sensory-ataxia/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: One Family's Journey to Find Epilepsy Answers
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/one-familys-journey-to-find-epilepsy-answers
+
+Resource: Non-epileptic seizures
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Seizures%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pyridoxine-dependent epilepsy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pyridoxine-dependent-epilepsy
+
+Resource: Seizures
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003200.htm
+
+Resource: Temporal Lobe Seizure
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/temporal-lobe-seizure/symptoms-causes/syc-20378214?p=1
+
+Resource: Tonic-Clonic (Grand Mal) Seizure
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/grand-mal-seizure/symptoms-causes/syc-20363458?p=1
+
+Resource: Understanding Different Kinds of Seizures
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/understanding-different-kinds-of-seizures
+
+Resource: Vagus Nerve Stimulation
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/vagus-nerve-stimulation/about/pac-20384565?p=1
+
+Resource: Vagus nerve stimulation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007854.htm

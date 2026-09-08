@@ -1,0 +1,159 @@
+Title: Enfermedades del sistema linfático
+
+Also Called:
+- Enfermedades linfáticas
+
+Summary:
+El sistema linfático es una red de tejidos y órganos. Está formado principalmente por:
+Linfa: Un líquido que contiene glóbulos blancos que defienden al cuerpo de los gérmenes
+Vasos linfáticos: Son los vasos que transportan la linfa por todo el cuerpo, y son distintos a los vasos sanguíneos
+Ganglios linfáticos: Son glándulas que se encuentran por todos los vasos linfáticos
+Junto al
+bazo
+, estos ganglios son donde los glóbulos blancos luchan contra las infecciones.
+La médula ósea y el timo producen las células que se encuentran en la linfa. Ambos también son parte de este sistema.
+El sistema linfático elimina la infección y mantiene el equilibrio de los líquidos del cuerpo. Si no funciona en forma adecuada, el líquido se acumula en los tejidos y causa una hinchazón llamada
+linfedema
+. Otros problemas del sistema linfático pueden incluir infecciones, bloqueos y
+cáncer
+.
+
+Groups:
+- Sistema inmunitario
+
+Related Resources:
+
+Resource: Ascitis quilosa
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/chylous-ascites.html
+
+Resource: Bazo y sistema linfático
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/spleen.html
+
+Resource: Biopsia de ganglio linfático centinela
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/diagnostico-estadificacion/estadificacion/hoja-informativa-ganglio-centinela
+
+Resource: Biopsia de los ganglios linfáticos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003933.htm
+
+Resource: Bulto en el cuello
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003098.htm
+
+Resource: Conteo de células T
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003516.htm
+
+Resource: Cáncer y los ganglios linfáticos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000824.htm
+
+Resource: Disección del cuello
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007573.htm
+
+Resource: Enfermedad de Castleman
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/castleman-disease/symptoms-causes/syc-20543017?p=1
+
+Resource: Ganglios linfáticos inflamados
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/swollen-lymph-nodes/symptoms-causes/syc-20353902?p=1
+
+Resource: Ganglios linfáticos inflamados
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003097.htm
+
+Resource: Higroma quístico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000148.htm
+
+Resource: Hiperplasia linfofolicular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001377.htm
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Introducción al sistema linfático
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-coraz%C3%B3n-y-los-vasos-sangu%C3%ADneos/trastornos-del-sistema-linf%C3%A1tico/introducci%C3%B3n-al-sistema-linf%C3%A1tico
+
+Resource: Linfadenitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001301.htm
+
+Resource: Linfadenitis mesentérica
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/mesenteric-lymphadenitis/symptoms-causes/syc-20353799?p=1
+
+Resource: Linfangiograma
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003798.htm
+
+Resource: Linfangitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007296.htm
+
+Resource: Linfogammagrafía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/lympho
+
+Resource: Malformaciones linfáticas (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/lymphatic-malformations.html
+
+Resource: Nódulos linfáticos
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000083.htm
+
+Resource: Protuberancia axilar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003099.htm
+
+Resource: Sistema linfático
+Category: Información de referencia, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002247.htm
+
+Resource: Sistema linfático
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/spleen-lymphatic.html
+
+Resource: Tumor inguinal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003100.htm
+
+Resource: ¿Qué es la LAM (linfangioleiomiomatosis)?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/lam

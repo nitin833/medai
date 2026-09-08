@@ -1,0 +1,36 @@
+Title: Trasplante de páncreas
+
+Summary:
+El páncreas es una glándula localizada detrás del estómago y por delante de la columna. Produce jugos que ayudan a descomponer los alimentos y hormonas que ayudan a controlar los niveles de azúcar en la sangre. El trasplante de páncreas es una cirugía para colocar un páncreas sano de un donante en una persona con un páncreas enfermo. Este trasplante es más común en personas con
+diabetes tipo 1
+grave y permite que las personas con esta enfermedad no dependan de las inyecciones de insulina. Un procedimiento experimental llamado
+trasplante de células de los islotes
+trasplanta sólo las partes del páncreas que producen la insulina.
+Las personas a quienes se les hace un trasplante deben tomar medicamentos el resto de sus vidas para impedir que sus cuerpos rechacen el páncreas nuevo. También deben visitar al médico regularmente para su cuidado. Debido a los riesgos, no es un tratamiento común para la diabetes 1.
+
+Groups:
+- Sistema digestivo
+- Sistema endocrino
+- Transplantes y donaciones
+
+Related Resources:
+
+Resource: Preguntas y respuestas sobre asignación de páncreas, páncreas y riñón simultáneamente e islotes para candidatos a trasplantes
+Category: Más información, Spanish/Español
+Organization: Administración de Servicios y Recursos de la Salud
+URL: https://www.hrsa.gov/sites/default/files/hrsa/optn/preguntas-y-respuestas-sobre-asignacio-n-de-pa-ncreas-pa-ncreas-y-rin-o-n-simulta-neamente-e-islotes-para-candidatos-a-trasplantes.pdf
+
+Resource: Trasplante de páncreas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/pancreas-transplant/about/pac-20384783?p=1
+
+Resource: Trasplante de páncreas
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003007.htm
+
+Resource: Trasplante de páncreas
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100129_1.htm

@@ -1,0 +1,79 @@
+Title: Gangrena
+
+Summary:
+La gangrena es la muerte de los tejidos en su cuerpo. Ocurre cuando el suministro de sangre no llega a una parte de su cuerpo. La gangrena puede ocurrir en la superficie del cuerpo, como la piel o al interior del cuerpo, como en los músculos o los órganos. Las causas incluyen:
+Lesiones graves
+Problemas con la circulación de la sangre, como la
+aterosclerosis
+y la
+enfermedad arterial periférica
+Diabetes
+Los síntomas en la piel pueden incluir manchas de un color azul o negro, dolor, entumecimiento y úlceras que producen una secreción con mal olor. Si la gangrena es interna, es posible que tenga fiebre, malestar y la zona pueda estar hinchada y ser dolorosa.
+La gangrena es un problema serio. Necesita atención de urgencia. El tratamiento incluye cirugía, antibióticos y terapia de oxígeno. En los casos graves, una
+amputación
+puede ser necesaria.
+
+Groups:
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Acerca de la fascitis necrosante
+Category: Asuntos específicos, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/group-a-strep/es/about/acerca-de-la-fascitis-necrosante.html
+
+Resource: Antibióticos: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/antibiotics.html
+
+Resource: Arteriopatía periférica
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-coraz%C3%B3n-y-los-vasos-sangu%C3%ADneos/trastornos-de-las-arterias-perif%C3%A9ricas/arteriopat%C3%ADa-perif%C3%A9rica
+
+Resource: Diabetes y los problemas de los pies
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/prevenir-problemas/pies-piel
+
+Resource: Gangrena
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/gangrene/symptoms-causes/syc-20352567?p=1
+
+Resource: Gangrena
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007218.htm
+
+Resource: Gangrena gaseosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000620.htm
+
+Resource: Gangrena gaseosa
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/skin/paginas/gas-gangrene.aspx
+
+Resource: Infecciones necrosantes de la piel
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-de-la-piel/infecciones-bacterianas-de-la-piel/infecciones-necrosantes-de-la-piel
+
+Resource: Infección necrosante de tejidos blandos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001443.htm
+
+Resource: Oxigenoterapia hiperbárica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/hyperbaric-oxygen-therapy/about/pac-20394380?p=1
+
+Resource: Shock séptico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000668.htm

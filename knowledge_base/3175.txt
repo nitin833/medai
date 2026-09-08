@@ -1,0 +1,45 @@
+Title: Emergencias químicas
+
+Summary:
+Cuando un químico peligroso es liberado al ambiente, puede dañar la salud de las personas. La liberación de químicos puede ser un accidente. También puede ser planificado, como en el caso de un ataque terrorista con armas químicas.
+Algunos químicos peligrosos han sido desarrollados por organizaciones militares para su uso en la guerra. Algunos ejemplos son los agentes o gases nerviosos como el sarín y el VX. Muchos productos químicos peligrosos son usados en la industria, por ejemplo el cloro, amoníaco, y benceno. Algunos se pueden hacer de artículos de uso diario, tales como limpiadores para el hogar.
+Aunque no existen garantías de seguridad durante una emergencia química, puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal que se sienta estresado. Es posible que necesite ayuda para encontrar maneras de
+enfrentarlo.
+Centros para el Control y Prevención de Enfermedades
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: A quién notificar y cómo estar preparado en caso de una emergencia ambiental
+Category: Más información, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/quien-notificar-y-como-estar-preparado-en-caso-de-una-emergencia-ambiental
+
+Resource: Cómo evitar y estar preparado para la exposición a productos químicos
+Category: Más información, Spanish/Español
+Organization: Asociación Estadounidense de Salud Pública
+URL: https://www.apha.org/getcontentasset/5b8c3020-70ed-45fc-8eea-92107571f993/7ca0dc9d-611d-46e2-9fd3-26a4c03ddcbb/chemical_exposures_spanish.pdf?language=en
+
+Resource: Emergencias con productos químicos en el hogar
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/emergencias-con-productos-quimicos-en-el-hogar
+
+Resource: Hoja informativa sobre respiradores
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de la Seguridad y la Salud Ocupacional
+URL: https://www.cdc.gov/niosh/publications/es/numbered/2003-144sp.html
+
+Resource: Neumonitis por químicos
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000143.htm
+
+Resource: Índice alfabético de ToxFAQs™
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.atsdr.cdc.gov/es/toxfaqs/es_toxfaqs_index.html

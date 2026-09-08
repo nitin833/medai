@@ -1,0 +1,152 @@
+Title: Men's Health
+
+Summary:
+Most men need to pay more attention to their health. Compared to women, men are more likely to:
+Smoke and drink
+Make unhealthy or risky choices
+Put off regular checkups and medical care
+There are also health conditions that only affect men, such as
+prostate cancer
+and low testosterone. Many of the major health risks that men face - like
+colon cancer
+or
+heart disease
+- can be prevented and treated with early diagnosis. Screening tests can find diseases early, when they are easier to treat. It's important to get the screening tests you need.
+
+Groups:
+- Men
+- Population Groups
+
+MeSH Headings:
+- Men's Health
+
+Related Resources:
+
+Resource: Agency for Healthcare Research and Quality
+Category: Find an Expert
+Organization: Agency for Healthcare Research and Quality
+URL: https://www.ahrq.gov/
+
+Resource: Aging changes in the male reproductive system
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004017.htm
+
+Resource: AMA Find a Doctor
+Category: Find an Expert
+Organization: American Medical Association
+URL: https://find-doctor.ama-assn.org/
+
+Resource: Belly Fat in Men: Why Weight Loss Matters
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/mens-health/in-depth/belly-fat/art-20045685?p=1
+
+Resource: Cancer and Men
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cancer/features/cancer-and-men.html
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Could you have low testosterone?
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000722.htm
+
+Resource: FastStats: Men's Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/mens-health.htm
+
+Resource: Health screenings for men age 65 and older
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007466.htm
+
+Resource: Health screenings for men ages 18 to 39
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007464.htm
+
+Resource: Health screenings for men ages 40 to 64
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007465.htm
+
+Resource: Hypogonadism in Men
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/hypogonadism
+
+Resource: Low Testosterone Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/003707_27.htm
+
+Resource: Men and Mental Health
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/men-and-mental-health
+
+Resource: Men's Reproductive Health
+Category: Specifics
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/menshealth
+
+Resource: Men: Take Charge of Your Health
+Category: Start Here
+Organization: Office of Disease Prevention and Health Promotion
+URL: https://odphp.health.gov/myhealthfinder/doctor-visits/regular-checkups/men-take-charge-your-health
+
+Resource: Osteoporosis in Men
+Category: Specifics
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/health-topics/osteoporosis-men
+
+Resource: Men's Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Men%27s+Health%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Screening Tests for Men Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/007465_19.htm
+
+Resource: Sex and Gender: How Being Male or Female Can Affect Your Health
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2016/05/sex-gender
+
+Resource: Supplements and Men's Health
+Category: Related Issues
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/essential-nutrients/supplements/supplements-and-mens-health
+
+Resource: Testosterone
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003707.htm
+
+Resource: Testosterone Levels Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/testosterone-levels-test/
+
+Resource: Testosterone Therapy: Potential Benefits and Risks as You Age
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/sexual-health/in-depth/testosterone-therapy/art-20045728?p=1
+
+Resource: Tips for Good Health in Later Life for Older Men
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/tools-and-tips/tip-sheet-good-health-later-life-older-men
+
+Resource: Understanding Prostate Changes: A Health Guide for Men
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/prostate/understanding-prostate-changes

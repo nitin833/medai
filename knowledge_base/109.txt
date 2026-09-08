@@ -1,0 +1,280 @@
+Title: Hepatitis
+
+Summary:
+What is hepatitis?
+Hepatitis is inflammation of the
+liver
+. Inflammation is swelling that happens when tissues of the body are injured or infected. It can damage your liver. This swelling and damage can affect how well your liver functions.
+Hepatitis can be an acute (short-term) infection or a chronic (long-term) infection. Some types of hepatitis cause only acute infections. Other types can cause both acute and chronic infections.
+What causes hepatitis?
+There are different types of hepatitis, with different causes:
+Viral hepatitis is the most common type. It is caused by one of several viruses -- hepatitis viruses
+A
+,
+B
+,
+C
+, D, and E. In the United States, A, B, and C are the most common.
+Alcoholic hepatitis is caused by
+heavy alcohol use
+Toxic hepatitis can be caused by certain poisons, chemicals, medicines, or supplements
+Autoimmune hepatitis is a chronic type in which your body's immune system attacks your liver. The cause is not known, but genetics and your environment may play a role.
+How is viral hepatitis spread?
+Hepatitis A and hepatitis E usually spread through contact with
+food
+or water that was contaminated with an infected person's stool. You can also get hepatitis E by eating undercooked pork, deer, or shellfish.
+Hepatitis B, hepatitis C, and hepatitis D spread through contact with the blood of someone who has the disease. Hepatitis B and D may also spread through contact with other body fluids. This can happen in many ways, such as sharing drug needles or having unprotected sex.
+Who is at risk for hepatitis?
+The risks are different for the different types of hepatitis. For example, with most of the viral types, your risk is higher if you have unprotected sex.  People who drink a lot over long periods of time are at risk for alcoholic hepatitis.
+What are the symptoms of hepatitis?
+Some people with hepatitis do not have symptoms and do not know they are infected. If you do have symptoms, they may include:
+Fever
+Fatigue
+Loss of appetite
+Nausea and/or vomiting
+Abdominal pain
+Dark urine
+Clay-colored bowel movements
+Joint pain
+Jaundice
+, yellowing of your skin and eyes
+If you have an acute infection, your symptoms can start anywhere between 2 weeks to 6 months after you got infected. If you have a chronic infection, you may not have symptoms until many years later.
+What other problems can hepatitis cause?
+Chronic hepatitis can lead to complications such as
+cirrhosis
+(scarring of the liver), liver failure, and
+liver cancer
+. Early diagnosis and treatment of chronic hepatitis may prevent these complications.
+How is hepatitis diagnosed?
+To diagnose hepatitis, your health care provider:
+Will ask about your symptoms and medical history
+Will do a physical exam
+Will likely do blood tests, including
+tests for viral hepatitis
+Might do
+imaging tests
+, such as an
+ultrasound
+,
+CT scan
+, or
+MRI
+May need to do a liver
+biopsy
+to get a clear diagnosis and check for liver damage
+What are the treatments for hepatitis?
+Treatment for hepatitis depends on which type you have and whether it is acute or chronic. Acute viral hepatitis often goes away on its own. To feel better, you may just need to rest and get enough fluids. But in some cases, it may be more serious. You might even need treatment in a hospital.
+There are different medicines to treat the different chronic types of hepatitis. Possible other treatments may include surgery and other medical procedures. People who have alcoholic hepatitis need to stop drinking. If your chronic hepatitis leads to liver failure or liver cancer, you may need a
+liver transplant
+.
+Can hepatitis be prevented?
+There are different ways to prevent or lower your risk for hepatitis, depending on the type of hepatitis. For example, not drinking too much alcohol can prevent alcoholic hepatitis. There are vaccines to prevent hepatitis A and B. Autoimmune hepatitis cannot be prevented.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Infections
+
+MeSH Headings:
+- Hepatitis
+
+Related Resources:
+
+Resource: 5'-nucleotidase
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003575.htm
+
+Resource: Alcoholic Hepatitis (Alcohol-Associated Hepatitis)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/alcoholic-hepatitis/symptoms-causes/syc-20351388?p=1
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: ALT Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alt-blood-test/
+
+Resource: American Liver Foundation
+Category: Find an Expert
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/
+
+Resource: Anti-smooth muscle antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003531.htm
+
+Resource: Antibody Serology Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/antibody-serology-tests/
+
+Resource: AST Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ast-test/
+
+Resource: At-Home Medical Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/at-home-medical-tests/
+
+Resource: Autoimmune hepatitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000245.htm
+
+Resource: Autoimmune Hepatitis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/autoimmune-hepatitis
+
+Resource: Bloodborne pathogens
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000453.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Hepatitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hepatitis%22&aggFilters=status:not%20rec
+
+Resource: Drug-induced liver injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000226.htm
+
+Resource: FastStats: Viral Hepatitis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/hepatitis.htm
+
+Resource: Gamma-glutamyl transpeptidase (GGT) blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003458.htm
+
+Resource: Hepatitis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hepatitis.html
+
+Resource: Hepatitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001154.htm
+
+Resource: Hepatitis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/hepatitis.html
+
+Resource: Hepatitis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hepatitis.html
+
+Resource: Hepatitis (Viral)
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis
+
+Resource: Hepatitis A, B, and C: Learn the Differences
+Category: Related Issues
+Organization: Immunization Action Coalition
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4075.pdf
+
+Resource: Hepatitis D
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis/hepatitis-d
+
+Resource: Hepatitis D (Delta agent)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000216.htm
+
+Resource: Hepatitis E
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/viral-hepatitis/hepatitis-e
+
+Resource: Hepatitis Panel
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hepatitis-panel/
+
+Resource: Hepatocerebral degeneration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001393.htm
+
+Resource: How Do Children Get Hepatitis?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Hepatitis.aspx
+
+Resource: Infectious Diseases in Persons Who Inject Drugs
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/persons-who-inject-drugs/about/
+
+Resource: Leucine aminopeptidase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003617.htm
+
+Resource: Liver biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003895.htm
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Hepatitis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hepatitis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Smooth Muscle Antibody (SMA) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/smooth-muscle-antibody-sma-test/
+
+Resource: Thyroid peroxidase antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003556.htm
+
+Resource: Toxic Hepatitis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/toxic-hepatitis/symptoms-causes/syc-20352202?p=1
+
+Resource: Viral Hepatitis
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/viral-hepatitis
+
+Resource: Viral Hepatitis Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/hepatitis/about/

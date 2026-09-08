@@ -1,0 +1,339 @@
+Title: Cuidado del recién nacido y del bebé
+
+Summary:
+Irse a casa con un nuevo bebé es emocionante, pero también puede causarle ciertos temores. Los recién nacidos tienen muchas necesidades, como alimentarlos y cambiarles frecuentemente el pañal. Los bebés pueden tener
+problemas de salud
+distintos a los de los niños de más edad o los adultos, como irritación por los pañales sucios y la costra láctea.
+El bebé pasará por muchos
+cambios
+durante el primer año de vida. Es posible que al principio se sienta incómoda. Si la necesita, pídale ayuda a un profesional de la salud.
+
+Groups:
+- Niños y adolescentes
+
+Related Resources:
+
+Resource: Alimentando a su recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/feednewborn.html
+
+Resource: Alivie el dolor de la dentición de los bebés y los niños de una manera segura
+Category: Asuntos específicos, Spanish/Español
+Organization: Administración de Alimentos y Medicamentos
+URL: https://www.fda.gov/consumers/articulos-para-el-consumidor-en-espanol/alivie-el-dolor-de-la-denticion-de-los-bebes-y-los-ninos-de-una-manera-segura
+
+Resource: Bañar a un bebé
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000020.htm
+
+Resource: Cambiar los pañales a su bebé
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/diapering.html
+
+Resource: Cambios en el recién nacido al momento de nacer
+Category: Información de referencia, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002395.htm
+
+Resource: Chupetes: ¿Son buenos para tu bebé?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/in-depth/pacifiers/art-20048140?p=1
+
+Resource: Compartir la cama con su bebé
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cosleeping.html
+
+Resource: Comprar y cuidar biberones y tetinas
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000804.htm
+
+Resource: Comunicación y su recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cnewborn.html
+
+Resource: Conceptos básicos de baño para bebés: Guía para padres
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20044438?p=1
+
+Resource: Conocer a su recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/newborn-variations.html
+
+Resource: Consejos de seguridad para mantener abrigados a los niños en el invierno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/safety-prevention/at-play/Paginas/Winter-Safety.aspx
+
+Resource: Crear lazos afectivos con el recién nacido
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000677.htm
+
+Resource: Cuidado de las uñas en recién nacidos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001914.htm
+
+Resource: Cuidado de su bebé al nacer
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/bebe/el-cuidado-de-su-bebe-al-nacer.aspx
+
+Resource: Cuidado del cordón umbilical en recién nacidos
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001926.htm
+
+Resource: Cuidados personales para el llanto y los cólicos
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000753.htm
+
+Resource: Cuidados personales para la regurgitación
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000754.htm
+
+Resource: Cunas y su seguridad
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000542.htm
+
+Resource: Cómo darle el biberón a su bebé
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/bottle-feed-video.html
+
+Resource: Cómo elegir un pediatra
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/family-life/health-management/Paginas/How-To-Choose-A-Pediatrician.aspx
+
+Resource: Cómo mantener seguro a su bebé cuando duerme
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/sleep/paginas/a-parents-guide-to-safe-sleep.aspx
+
+Resource: Dentición
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002045.htm
+
+Resource: Dentición en los niños
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/teething.html
+
+Resource: Dentición y cuidado de los dientes
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/baby/teething-tooth-care/Paginas/default.aspx
+
+Resource: Dermatitis del pañal
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000964.htm
+
+Resource: Elegir a un pediatra para su bebé recién nacido
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/find-ped.html
+
+Resource: Elegir productos seguros para bebés
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/products.html
+
+Resource: Encuentre un pediatra o un pediatra especialista
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/tips-tools/find-pediatrician/paginas/pediatrician-referral-service.aspx
+
+Resource: Estoy amamantando a mi bebé y sus heces son amarillas y blandas. ¿Es normal?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/expert-answers/baby-poop/faq-20057971?p=1
+
+Resource: Forma de la cabeza del bebé: ¿Causa de preocupación?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20045964?p=1
+
+Resource: Guía para padres primerizos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/guide-parents.html
+
+Resource: Hacer eructar a su bebé
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/burping.html
+
+Resource: Hábitos a la hora de acostarse para bebés y niños
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002392.htm
+
+Resource: Información sobre cómo criar niños sanos para los padres de bebés y niños pequeños (0-3 años de edad)
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/parents/spanish/infants/healthy_children.html
+
+Resource: La regurgitación en los bebés: Lo que es esperable y lo que no
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/in-depth/healthy-baby/art-20044329?p=1
+
+Resource: Lavado de las prendas de su bebé
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/laundry.html
+
+Resource: Llanto en la lactancia
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002397.htm
+
+Resource: Llanto excesivo en bebés
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003023.htm
+
+Resource: Llanto y cólico
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/baby/crying-colic/Paginas/default.aspx
+
+Resource: Milios
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001367.htm
+
+Resource: Moldeamiento de la cabeza de un recién nacido
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002270.htm
+
+Resource: Niño irritable o melindroso
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003214.htm
+
+Resource: Niños y el sueño
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sleep.html
+
+Resource: No tengo planes de circuncidar a mi bebé recién nacido. ¿Cómo debo cuidarle el pene no circuncidado?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/expert-answers/uncircumcised-penis/faq-20058327?p=1
+
+Resource: Portabebés: mochilas traseras, mochilas delanteras y arneses
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/on-the-go/paginas/baby-carriers.aspx
+
+Resource: Primer día de vida
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/first-day.html
+
+Resource: Reflejo de Babinski
+Category: Información de referencia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003294.htm
+
+Resource: Reflejo de Moro
+Category: Información de referencia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003293.htm
+
+Resource: Reflejos en los bebés
+Category: Información de referencia, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003292.htm
+
+Resource: Salud y cuidado infantil
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/infantcare/informacion
+
+Resource: Salud y cuidado infantil: Otras preguntas frecuentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/infantcare/informacion/preguntas
+
+Resource: Seguro al dormir: Cunas y productos para bebés
+Category: Spanish/Español, Asuntos relacionados
+Organization: Comisión  de Seguridad de los Productos para el Consumidor
+URL: https://www.cpsc.gov/es/SafeSleep
+
+Resource: Signos en la piel de los recién nacidos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002301.htm
+
+Resource: Sobre la atención piel con piel: Método Canguro
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/preemie/paginas/about-skin-to-skin-care.aspx
+
+Resource: Sueño
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/baby/sleep/Paginas/default.aspx
+
+Resource: Sueño y los recién nacidos
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sleepnewborn.html
+
+Resource: Suministros que se necesitan para el bebé
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000541.htm
+
+Resource: Suturas craneales
+Category: Información de referencia, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002320.htm
+
+Resource: Traer a su bebé a casa: Cómo prepararse para la llegada de su recién nacido
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/ages-stages/prenatal/delivery-beyond/Paginas/bringing-baby-home.aspx
+
+Resource: ¡Los bebés también necesitan pasar tiempo boca abajo!
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/actividades-proyectos/sts/tiempo-boca-abajo
+
+Resource: ¿Cuáles son los síntomas del estreñimiento en un bebé? ¿Cuál es la mejor manera de tratarlo?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/infant-and-toddler-health/expert-answers/infant-constipation/faq-20058519?p=1
+
+Resource: ¿Cuándo puedo sacar a mi recién nacido a lugares públicos?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/newborn-out.html
+
+Resource: ¿Cómo se puede promover la seguridad de los niños en un coche?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/infantcare/informacion/coche
+
+Resource: ¿Qué cuidados reciben los recién nacidos en el hospital?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/infantcare/informacion/hospital

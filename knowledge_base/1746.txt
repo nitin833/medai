@@ -1,0 +1,161 @@
+Title: Angina de pecho
+
+Summary:
+La angina es un
+dolor o molestia en el pecho
+que se siente cuando no hay suficiente irrigación sanguínea al músculo cardiaco. Este músculo cardiaco necesita el oxigeno que transporta la sangre. La angina puede sentirse como una presión o un dolor opresivo en el pecho. Puede parecerse a una indigestión. También puede haber dolor en los hombros, los brazos, el cuello, la mandíbula o la espalda.
+La angina es un síntoma de la
+enfermedad de las arterias coronarias
+, la enfermedad cardiaca más común. Esta ocurre cuando una sustancia llamada placa se acumula en las arterias que llevan la sangre al corazón, reduciendo el flujo sanguíneo.
+Hay tres tipos de angina:
+Angina estable es la más común. Ocurre cuando el corazón trabaja más fuerte que lo usual. La angina estable tiene un patrón regular. Se trata con descanso y medicinas.
+Angina inestable es la más peligrosa. No sigue un patrón y puede ocurrir sin hacer algún esfuerzo físico. No desaparece espontáneamente con el reposo o las medicinas. Es una señal de que podría ocurrir un infarto luego.
+La angina variable es la menos común. Ocurre cuando está descansando. Se trata con medicinas.
+No todas las molestias o los dolores en el pecho son angina. Si se le presenta un dolor torácico, debe consultar a un profesional de la salud.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Personas mayores
+- Sangre, corazón y circulación
+
+Related Resources:
+
+Resource: Alta tras angina
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000089.htm
+
+Resource: Angina cuando se presenta dolor torácico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000088.htm
+
+Resource: Angina de pecho
+Category: Comience aquí, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/angina-de-pecho/
+
+Resource: Angina estable
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000198.htm
+
+Resource: Angina inestable
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000201.htm
+
+Resource: Angina: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000207.htm
+
+Resource: Angiografía coronaria
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003876.htm
+
+Resource: Apolipoproteína B100
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003502.htm
+
+Resource: Apolipoproteína CII
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003505.htm
+
+Resource: Betabloqueantes
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/betabloqueantes/
+
+Resource: Bloqueadores de los canales de calcio
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/high-blood-pressure/in-depth/calcium-channel-blockers/art-20047605?p=1
+
+Resource: Bloqueantes cálcicos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/bloqueantes-calcicos/
+
+Resource: Dolor en el pecho
+Category: Síntomas, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/chest-pain/symptoms-causes/syc-20370838?p=1
+
+Resource: Ecocardiografía
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003869.htm
+
+Resource: Ecocardiografía de esfuerzo
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007150.htm
+
+Resource: Electrocardiograma
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003868.htm
+
+Resource: Espasmo de la arteria coronaria
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/espasmo-de-la-arteria-coronaria/
+
+Resource: Espasmo de la arteria coronaria: ¿Un motivo para preocuparse?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/angina/expert-answers/coronary-artery-spasm/faq-20058316?p=1
+
+Resource: Espasmo de las arterias coronarias
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000159.htm
+
+Resource: Glosario de terminología cardiovascular
+Category: Información de referencia, Spanish/Español
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/glosario-de-terminologia-cardiovascular/
+
+Resource: Nitratos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/nitratos/
+
+Resource: Obtención de un ECG (electrocardiograma)
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-ekg.html
+
+Resource: Prueba de troponina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-troponina/
+
+Resource: Pruebas para la salud del corazón: Tema de salud de MedlinePlus
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/hearthealthtests.html
+
+Resource: Revascularización transmiocárdica con láser (RTML)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto del Corazón de Texas
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/revascularizacion-transmiocardica-con-laser-rtml/
+
+Resource: Síndrome coronario agudo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007639.htm
+
+Resource: Vivir con cardiopatía y angina
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000576.htm
+
+Resource: ¿Qué es la angina?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/angina

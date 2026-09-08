@@ -1,0 +1,88 @@
+Title: Dolor de garganta
+
+Also Called:
+- Faringitis
+
+Summary:
+Su garganta es un tubo que lleva la comida al esófago y el aire a su laringe, donde se encuentran las cuerdas vocales. Técnicamente, a la garganta se le llama faringe.
+Se puede tener dolor de garganta por varias razones. A menudo, la causa es un
+resfrío
+y una
+gripe
+. Otras causas incluyen:
+Alergias
+Mononucleosis
+Fumar
+Inflamación estreptocócica
+Amigdalitis
+El tratamiento depende de la causa. Chupar caramelos, tomar mucho líquido y hacer gárgaras puede aliviar el dolor. Analgésicos de venta libre pueden también ayudar, pero los niños no deben tomar aspirina.
+
+Groups:
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Amigdalitis: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/tonsillitis.html
+
+Resource: Cultivo de muestra faríngea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003746.htm
+
+Resource: Diferencia entre un dolor de garganta, faringitis y amigdalitis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/ear-nose-throat/Paginas/The-Difference-Between-a-Sore-Throat-Strep-and-Tonsillitis.aspx
+
+Resource: Dolor de garganta: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sore-throat/diagnosis-treatment/drc-20351640?p=1
+
+Resource: Dolor de garganta: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/sore-throat/symptoms-causes/syc-20351635?p=1
+
+Resource: Faringitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000655.htm
+
+Resource: Faringitis viral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001392.htm
+
+Resource: Información básica sobre el dolor de garganta
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/sore-throat/es/about/informacion-basica-sobre-el-dolor-de-garganta.html
+
+Resource: Obtención de un exudado faríngeo
+Category: Interactivos y videos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/video-strep.html
+
+Resource: Prueba de estreptococos A
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-estreptococos-a/
+
+Resource: ¿Cuándo es un dolor de garganta una infección más grave?
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/ear-nose-throat/paginas/when-a-sore-thoat-is-a-more-serious-infection.aspx
+
+Resource: ¿Dolor y picazón en la garganta?: Calmar el dolor causado por una enfermedad o alergia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/dolor-y-picazon-en-la-garganta
+
+Resource: ¿Qué hacer con el dolor de garganta?
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/sore-throat-sheet.html

@@ -1,0 +1,63 @@
+Title: Aspergilosis
+
+Summary:
+La aspergilosis es una enfermedad causada por un hongo (o moho) llamado aspergillus. Este hongo es bastante común tanto en ambientes exteriores como interiores. La mayoría de la gente respira las esporas del hongo todos los días sin ser afectada. Pero algunas personas contraen la enfermedad. En general ocurre en personas con enfermedades pulmonares o sistemas inmunitarios debilitados.
+Hay diferentes tipos de aspergilosis. Uno de ellos es la aspergilosis alérgica broncopulmonar (ABPA, por sus siglas en inglés). Los síntomas de esta incluyen sibilancias y tos. La aspergilosis alérgica broncopulmonar puede afectar a personas sanas, pero es más común en personas con asma o fibrosis quística.
+Otro tipo es la aspergilosis invasiva, que daña los tejidos del cuerpo. Por lo general, afecta a los pulmones. A veces puede causar infección en otros órganos y extenderse por todo el cuerpo. Afecta a quienes tienen problemas con el sistema inmunitario, como las personas que han tenido un trasplante, toman altas dosis de esteroides o están recibiendo quimioterapia para algunos tipos de cáncer.
+Su médico puede hacer una variedad de pruebas para el diagnóstico, incluyendo una radiografía de tórax, tomografía computarizada de los pulmones o examinar los tejidos para detectar signos del hongo. El tratamiento es con medicamentos antimicóticos. Si tiene esta afección, también puede tomar esteroides.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Aspergiloma pulmonar
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000127.htm
+
+Resource: Aspergilosis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001326.htm
+
+Resource: Aspergilosis
+Category: Comience aquí, Spanish/Español
+Organization: Sociedad Torácica Estadounidense
+URL: https://www.thoracic.org/patients/patient-resources/resources/spanish/aspergillosis.pdf
+
+Resource: Aspergilosis
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/aspergillosis/symptoms-causes/syc-20369619?p=1
+
+Resource: Aspergilosis
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/infections/paginas/aspergillosis.aspx
+
+Resource: Aspergilosis broncopulmonar alérgica
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Estadounidense de Alergias, Asma e Inmunología
+URL: https://www.aaaai.org/conditions-treatments/afecciones-y-tratamientos/afecciones-relacionadas/aspergilosis-broncopulmonar-alergica-(abpa)
+
+Resource: Aspergilosis: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/aspergillosis/diagnosis-treatment/drc-20369623?p=1
+
+Resource: Información básica sobre la aspergilosis
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/aspergillosis/es/about/informacion-basica-sobre-la-aspergilosis.html
+
+Resource: Precipitinas para aspergilosis
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003532.htm
+
+Resource: Prueba de cultivo fúngico
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-fungico/

@@ -1,0 +1,48 @@
+Title: Mareo (Cinetosis)
+
+Summary:
+El mareo por movimiento o cinetosis es un problema común entre las personas que
+viajan
+en automóvil, tren, avión, y especialmente, en barco. Cualquier persona puede tenerla, pero es más común en niños, mujeres embarazadas y personas que toman ciertas medicinas. La cinetosis puede suceder repentinamente, con una sensación de mareos y sudores fríos. Eso puede conducir a
+vértigo
+,
+náusea y vómitos
+.
+El cerebro siente el movimiento al recibir las señales provenientes del oído interno, los ojos, los músculos y las articulaciones. Cuando recibe señales que no coinciden, puede surgir el mareo por movimiento. Por ejemplo, si está leyendo en su teléfono mientras viaja en el autobús, sus ojos están enfocados en algo que no está en movimiento. Sin embargo, el oído interno percibe el movimiento.
+El lugar donde se siente puede hacer una diferencia. El asiento delantero del automóvil, los vagones de un tren, la cubierta de un barco o los asientos cercanos a las alas de un avión son los más adecuados para viajar. Mantener la vista fija en el horizonte, en lugar de intentar leer o ver algo dentro del vehículo, también puede ayudar. Existen medicinas que pueden prevenir o trata el mareo por movimiento, pero por lo general causan somnolencia.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Síntomas
+
+Related Resources:
+
+Resource: Malestar en el auto
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/head-neck-nervous-system/paginas/car-sickness.aspx
+
+Resource: Mareo
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003093.htm
+
+Resource: Mareos por movimiento: Primeros auxilios
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-motion-sickness/basics/art-20056697?p=1
+
+Resource: Síndrome de mal de debarcación (SMDD)
+Category: Más información, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/mal_de_debarquement_spanish.pdf
+
+Resource: ¿Cuál es la causa del mareo producido por el movimiento del automóvil y cómo puedo prevenirlo?
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/childrens-health/expert-answers/car-sickness-in-children/faq-20057876?p=1
+
+Resource: ¿Puede una persona marearse al jugar con videojuegos?
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/simulator-sickness.html

@@ -1,0 +1,188 @@
+Title: Varicose Veins
+
+Summary:
+Varicose veins are swollen, twisted veins that you can see just under the skin. They usually occur in the legs, but also can form in other parts of the body.
+Hemorrhoids
+are a type of varicose vein.
+Your veins have one-way valves that help keep blood flowing toward your heart. If the valves are weak or damaged, blood can back up and pool in your veins. This causes the veins to swell, which can lead to varicose veins.
+Varicose veins are very common. You are more at risk if you are older, are female, have obesity, don't exercise, or have a family history of varicose veins. They can also be more common in pregnancy.
+Doctors often diagnose varicose veins from a physical exam. Sometimes you may need additional tests.
+Exercising, losing weight, elevating your legs when resting, and not crossing them when sitting can help keep varicose veins from getting worse. Wearing loose clothing and avoiding long periods of standing can also help. If varicose veins are painful or you don't like the way they look, your doctor may recommend procedures to remove them.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Varicose Veins
+
+Related Resources:
+
+Resource: Ambulatory Phlebectomy
+Category: Treatments and Therapies
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-treatments/ambulatory-phlebectomy
+
+Resource: American Society for Dermatologic Surgery
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net
+
+Resource: Bulging Veins: What to Do about Varicose Veins
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2019/08/bulging-veins
+
+Resource: Chronic Venous Insufficiency
+Category: Related Issues
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/conditions-and-diseases/chronic-venous-insufficiency
+
+Resource: ClinicalTrials.gov: Telangiectasis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Telangiectasis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Varicose Veins
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Varicose+Veins%22&aggFilters=status:not%20rec
+
+Resource: Doctor Finder (Database of Interventional Radiologists)
+Category: Find an Expert
+Organization: Society of Interventional Radiology
+URL: https://www.sirweb.org/doctor-finder/
+
+Resource: Find a Dermatologic Surgeon
+Category: Find an Expert
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/find-a-dermatologic-surgeon/advanced/true
+
+Resource: Horse Chestnut
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/horse-chestnut
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Varicose Veins
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Varicose+Veins%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sclerotherapy of Varicose Veins and Spider Veins
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/Sclerotherapy
+
+Resource: Spider Veins
+Category: Specifics
+Organization: American Society for Dermatologic Surgery
+URL: https://www.asds.net/skin-experts/skin-conditions/spider-veins
+
+Resource: Telangiectasia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003284.htm
+
+Resource: Telangiectasia (Spider Veins)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/telangiectasia/?Imiw9cApl=1
+
+Resource: Varicocele
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/varicocele/symptoms-causes/syc-20378771?p=1
+
+Resource: Varicocele
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001284.htm
+
+Resource: Varicocele (For Teens)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/varicocele.html
+
+Resource: Varicocele Embolization
+Category: Men
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/Varicocele
+
+Resource: Varicose and other vein problems - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000615.htm
+
+Resource: Varicose vein - noninvasive treatment
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007395.htm
+
+Resource: Varicose vein stripping
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002952.htm
+
+Resource: Varicose Vein Treatment (Endovenous Ablation of Varicose Veins)
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/varicoseabl
+
+Resource: Varicose veins
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001109.htm
+
+Resource: Varicose Veins
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/varicose-veins
+
+Resource: Varicose Veins (Varicosities)
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/varicosities/?Imiw9cApl=1
+
+Resource: Varicose veins - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000256.htm
+
+Resource: Varicose Veins and Spider Veins
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/varicose-veins-and-spider-veins
+
+Resource: Varicose Veins: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/varicose-veins/diagnosis-treatment/drc-20350649?p=1
+
+Resource: Venography -- Blood Flow Examination of Veins
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/venography
+
+Resource: Venous insufficiency
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000203.htm
+
+Resource: Venous Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/venousus
+
+Resource: What Are Varicose Veins? (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/varicose-veins.html
+
+Resource: Why Do Some Pregnant Women Get Varicose Veins?
+Category: Women
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/veins.html

@@ -1,0 +1,61 @@
+Title: Cat Scratch Disease
+
+Also Called:
+- CSD
+- Cat scratch fever
+
+Summary:
+Cat scratch disease (CSD) is an illness caused by the bacterium Bartonella henselae. Almost half of all cats carry the infection at some point. The infection does not make cats sick. However, the scratch or
+bite
+of an infected cat can cause symptoms in people, including :
+Swollen
+lymph nodes
+, especially around the head, neck, and upper limbs
+Fever
+Headache
+Fatigue
+Poor appetite
+For people with weak immune systems, CSD may cause more serious problems. The best way to avoid CSD is to avoid rough play with cats that could lead to scratches or bites. If you do get a scratch or bite, wash it well with soap and water. If the bite or scratch gets infected or if you have symptoms of CSD, call your doctor.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Cat-Scratch Disease
+
+Related Resources:
+
+Resource: About Bartonella
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/bartonella/about/
+
+Resource: Cat scratch disease
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001614.htm
+
+Resource: Cat Scratch Disease (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cat-scratch.html
+
+Resource: Cat-Scratch Disease (Cat-Scratch Fever)
+Category: Learn More
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/cat-scratch-disease-cat-scratch-fever/
+
+Resource: Cats
+Category: Learn More
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/cats.htmL
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Learn More
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Cat Scratch Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Cat-Scratch+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

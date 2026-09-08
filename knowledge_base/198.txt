@@ -1,0 +1,702 @@
+Title: Congenital Heart Defects
+
+Summary:
+What are congenital heart defects?
+Congenital heart defects (CHDs) are problems with the structure of the heart. "Congenital" means that that the problems are present at birth. These defects happen when a fetus's heart doesn't develop normally during pregnancy. Congenital heart defects are the most common type of
+birth defect
+.
+Congenital heart defects can change the way the heart pumps blood. They may make blood flow too slowly, go the wrong way, or block it completely.
+There are many types of congenital heart defects. They can happen in one or more parts of the heart. The most common types are:
+Septal defects
+("hole in the heart") - openings in the wall between the left and right sides of the heart
+Heart valve
+defects
+- problems with the valves that control the flow of blood through the heart
+Defects in the large blood vessels
+that carry blood in and out of the heart
+Congenital heart defects can range from very mild problems that never need treatment to life-threatening problems at birth. The most serious congenital heart defects are called
+critical congenital heart disease
+. Babies with these defects usually need surgery in the first year of life. But the symptoms of milder heart defects may not show up until childhood or adulthood.
+What causes congenital heart defects?
+Researchers often don't know what causes congenital heart defects. They do know that changes in a baby's genes sometimes cause a heart defect. The changed genes may come from the parents, or the changes may happen during pregnancy.
+Who is more likely to have a baby with a congenital heart defect?
+Several things may increase the chance that your baby has a congenital heart defect, such as:
+Your health before and during pregnancy
+, including:
+Having
+diabetes
+before pregnancy or developing it in the first 3 months of
+pregnancy
+(diabetes that develops later in pregnancy isn't a major risk for heart defects). Carefully controlling your
+blood glucose
+, also called blood sugar, before and during pregnancy can lower your baby's risk of congenital heart defects.
+Having
+phenylketonuria
+(PKU), a rare inherited disorder that affects how the body uses a protein in foods. If you have PKU, eating a low-protein diet before getting pregnant can lower your baby's risk of having a congenital heart defect.
+Having
+rubella
+(German measles) during pregnancy.
+Your contact with certain substances during pregnancy
+, including:
+Smoking
+or
+secondhand smoke
+(breathing smoke from another smoker).
+Certain
+medicines
+, such as angiotensin-converting (ACE) inhibitors for high blood pressure and retinoic acids for acne. If you're pregnant or plan to get pregnant, talk with your health care provider about all the medicines you take.
+Your family history and genetics.
+In most cases, congenital heart defects don't run in families. But your chance of having a baby with a congenital heart defect does go up if you or the other parent has a congenital heart defect, or if you already have a child with a congenital heart defect.
+What are the symptoms of congenital heart defects?
+Congenital heart defects don't cause pain. The signs and symptoms are different, depending on the type and number of defects and how serious they are.
+Common signs and symptoms of congenital heart defects include:
+Cyanosis - a bluish color to the skin, lips, and fingernails. It happens when there isn't enough oxygen in the blood.
+Fatigue
+- your baby may be unusually sleepy and may become very tired during feedings.
+Poor blood flow.
+Fast or difficult breathing.
+Heart murmur - an unusual sound between heartbeats.
+What other problems do congenital heart defects cause?
+Congenital heart defects don't always cause other problems. If they do, which problems you have would depend on the type and number of defects and how serious the defects are.
+Children with congenital heart defects are more likely to:
+Be smaller than other children
+Have problems or delays in mental, and emotional growth, and behavior, such as:
+Speech and language problems
+Attention deficit hyperactivity disorder (ADHD)
+People with congenital heart defects may develop other health conditions, including:
+Endocarditis
+- an infection of lining of the heart and valves
+Arrhythmia
+- a problem with the rate or rhythm of your heartbeat
+Heart failure
+- when your heart can't pump enough blood to the body
+Pulmonary hypertension
+- high blood pressure in your lungs
+Kidney
+and
+liver disease
+How are congenital heart defects diagnosed?
+Before a baby is born
+, your provider may use
+ultrasound
+pictures of the fetus's heart to look for heart defects. This is called a fetal echocardiogram. It's done between weeks 18 and 22 of pregnancy.
+During the first few days after birth
+, all newborns are checked for congenital heart defects. A
+pulse oximeter
+is clipped to your baby's hands or feet to measure blood oxygen. If it shows low levels of blood oxygen, more tests will be needed to find out if your baby has a heart defect.
+To diagnose congenital heart defects in babies, children, and adults
+, a provider may use many tools, including:
+A physical exam.
+Certain
+heart tests
+to see how the heart is working.
+Genetic testing
+to see if certain gene problems caused the defect.
+What are the treatments for congenital heart defects?
+Treatment depends on the type of congenital heart defect and how serious it is. Possible treatments include:
+Cardiac catheterization
+to repair simple defects, such as a small hole in the inside wall of the heart. A catheterization uses a thin tube guided through a vein and into the heart.
+Heart surgery
+may be needed to:
+Repair defects in the heart and blood vessels.
+Repair or replace a heart valve.
+Place a device in the chest to help the heart pump blood.
+Do a
+heart transplant
+Medicine is often used if your baby has a specific type of congenital heart defect called patent ductus arteriosus.
+All children and adults who have congenital heart defects need regular follow-up care from a cardiologist (a doctor who specializes in heart diseases) throughout their life, even if their defect was repaired.
+Some people may need several heart surgeries or catheterizations over the years. They may also need to take medicines to help their hearts work as well as possible.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Blood, Heart and Circulation
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Heart Defects, Congenital
+
+Related Resources:
+
+Resource: 22q11.2 Deletion Syndrome (DiGeorge Syndrome) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/22q11-deletion.html
+
+Resource: 22q11.2 deletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/22q112-deletion-syndrome
+
+Resource: Aarskog syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001654.htm
+
+Resource: About Atrial Septal Defect (ASD)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/atrial-septal-defect.html
+
+Resource: About Atrioventricular Septal Defect (AVSD)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/atrioventricular-septal-defect.html
+
+Resource: About Coarctation of the Aorta
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/coarctation-of-the-aorta.html
+
+Resource: About Congenital Heart Defects
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/
+
+Resource: About Congenital Heart Defects
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/about-congenital-heart-defects
+
+Resource: About dextro-Transposition of the Great Arteries (d-TGA)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/d-tga.html
+
+Resource: About Hypoplastic Left Heart Syndrome (HLHS)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/hypoplastic-left-heart-syndrome.html
+
+Resource: About Pulmonary Atresia
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/pulmonary-atresia.html
+
+Resource: About Tetralogy of Fallot
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/tetralogy-of-fallot.html
+
+Resource: About Total Anomalous Pulmonary Venous Return (TAPVR)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/tapvr.html
+
+Resource: About Truncus Arteriosus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/truncus-arteriosus.html
+
+Resource: About Ventricular Septal Defect
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/about/ventricular-septal-defect.html
+
+Resource: Absent pulmonary valve
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007314.htm
+
+Resource: Alagille syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alagille-syndrome/
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Anomalous left coronary artery from the pulmonary artery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007323.htm
+
+Resource: Aortic Valve Stenosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/aortic-stenosis/symptoms-causes/syc-20353139?p=1
+
+Resource: Aortopulmonary window
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007319.htm
+
+Resource: Arteriohepatic Dysplasia
+Category: Genetics
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/804/alagille-syndrome
+
+Resource: Atrial septal defect (ASD)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000157.htm
+
+Resource: Atrial Septal Defect (ASD) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/asd.html
+
+Resource: Atrioventricular Canal Defect
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/atrioventricular-canal-defect/symptoms-causes/syc-20361492?p=1
+
+Resource: Atrioventricular Canal Defect (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/av-canal-defect.html
+
+Resource: Bicuspid aortic valve
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007325.htm
+
+Resource: Cantú syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cantu-syndrome
+
+Resource: Cardiac Catheterizations for Heart Defects
+Category: Treatments and Therapies
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/cardiac-catheterizations-for-heart-defects
+
+Resource: Cardiofaciocutaneous syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cardiofaciocutaneous-syndrome
+
+Resource: Care and Treatment for Congenital Heart Defects
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects
+
+Resource: Challenges Faced by Parents of Children with Congenital Heart Disease
+Category: Living With
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/health-issues/conditions/heart/pages/challenges-faced-by-parents-of-children-with-congenital-heart-disease.aspx
+
+Resource: Char syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/char-syndrome
+
+Resource: CHARGE syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/charge-syndrome
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: ClinicalTrials.gov: Heart Defects, Congenital
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Heart+Defects,+Congenital%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Heart Murmurs
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Heart+Murmurs%22&aggFilters=status:not%20rec
+
+Resource: Coarctation of the Aorta
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/coarctation-of-the-aorta/symptoms-causes/syc-20352529?p=1
+
+Resource: Coarctation of the aorta
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000191.htm
+
+Resource: Congenital heart defect - corrective surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002948.htm
+
+Resource: Congenital Heart Defects (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/if-heart-defect.html
+
+Resource: Congenital Heart Defects and Critical CHDs
+Category: Start Here
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/find-support/topics/planning-baby/congenital-heart-defects-and-critical-chds
+
+Resource: Congenital Heart Defects and Physical Activity
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/congenital-heart-defects-and-physical-activity
+
+Resource: Congenital Heart Defects: Data and Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/data/
+
+Resource: Congenital heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001114.htm
+
+Resource: Congenitally Corrected Transposition of the Great Arteries (CCTGA)
+Category: Specifics
+Organization: Adult Congenital Heart Association
+URL: https://www.achaheart.org/your-heart/educational-qas/types-of-heart-defects/cctga/
+
+Resource: Coronary Artery Anomalies
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/coronary-artery-anomalies/
+
+Resource: Coronary artery fistula
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007315.htm
+
+Resource: Critical congenital heart disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/critical-congenital-heart-disease
+
+Resource: Cyanosis
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/cyanosis/
+
+Resource: Cyanotic heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001104.htm
+
+Resource: Dextrocardia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007326.htm
+
+Resource: Double aortic arch
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007316.htm
+
+Resource: Double inlet left ventricle
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007327.htm
+
+Resource: Double outlet right ventricle
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007328.htm
+
+Resource: Double Outlet Right Ventricle
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/double-outlet-right-ventricle/
+
+Resource: Double Outlet Right Ventricle (DORV)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/dorv.html
+
+Resource: Ebstein anomaly
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007321.htm
+
+Resource: Echocardiogram - children
+Category: Patient Handouts
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007669.htm
+
+Resource: Eisenmenger syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007317.htm
+
+Resource: Endocardial cushion defect
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007324.htm
+
+Resource: Feeding Tips for Your Baby with CHD
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/care-and-treatment-for-congenital-heart-defects/feeding-tips-for-your-baby-with-chd
+
+Resource: Genetic Counseling for Congenital Heart Defects
+Category: Genetics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/understand-your-risk-for-congenital-heart-defects/genetic-counseling-for-congenital-heart-defects
+
+Resource: Glenn Procedure
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/glenn.html
+
+Resource: Heart and Stroke Statistics
+Category: Statistics and Research
+Organization: American Heart Association
+URL: https://www.heart.org/en/about-us/heart-and-stroke-association-statistics
+
+Resource: Heart Conditions and Pregnancy: Know the Risks
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20045977?p=1
+
+Resource: Heart Health Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hearthealthtests.html
+
+Resource: Heart Murmurs
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/heart-murmurs/symptoms-causes/syc-20373171?p=1
+
+Resource: Heart murmurs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003266.htm
+
+Resource: Heart Murmurs (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/heart-murmurs.html
+
+Resource: Heart Murmurs and Your Child (For Parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/murmurs.html
+
+Resource: Heart Treatments
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart-treatments-procedures
+
+Resource: Holt-Oram syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/holt-oram-syndrome
+
+Resource: How the Heart Works
+Category: Reference Desk
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/heart
+
+Resource: Hypoplastic left heart syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001106.htm
+
+Resource: Infective Endocarditis
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/infective-endocarditis
+
+Resource: Learning about Velocardiofacial Syndrome
+Category: Specifics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Velocardiofacial-Syndrome
+
+Resource: Left heart catheterization
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003871.htm
+
+Resource: Levo-Transposition of the Great Arteries (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/l-tga.html
+
+Resource: Living with a Congenital Heart Defect (CHD)
+Category: Living With
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/heart-defects/living-with/
+
+Resource: McKusick-Kaufman syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mckusick-kaufman-syndrome
+
+Resource: MED13L syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/med13l-syndrome/
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: Noonan Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/noonan-syndrome.html
+
+Resource: Noonan syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/noonan-syndrome
+
+Resource: Oculofaciocardiodental syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/oculofaciocardiodental-syndrome
+
+Resource: Patent ductus arteriosus
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001560.htm
+
+Resource: Patent Foramen Ovale
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/patent-foramen-ovale/symptoms-causes/syc-20353487?p=1
+
+Resource: Patent foramen ovale
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001113.htm
+
+Resource: Pediatric heart surgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007363.htm
+
+Resource: Pediatric heart surgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000015.htm
+
+Resource: Congenital Heart Defects
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Heart+Defects%2C+Congenital%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary atresia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001091.htm
+
+Resource: Pulmonary Atresia
+Category: Specifics
+Organization: Texas Heart Institute
+URL: https://www.texasheart.org/heart-health/heart-information-center/topics/pulmonary-atresia/
+
+Resource: Pulmonary Valve Stenosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pulmonary-valve-stenosis/symptoms-causes/syc-20377034?p=1
+
+Resource: Pulmonic valve stenosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001096.htm
+
+Resource: Recombinant 8 syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/recombinant-8-syndrome
+
+Resource: Single Ventricle Defects (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/single-vent-defects.html
+
+Resource: Supravalvular aortic stenosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/supravalvular-aortic-stenosis
+
+Resource: Tetralogy of Fallot
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001567.htm
+
+Resource: Timothy syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/timothy-syndrome
+
+Resource: Total anomalous pulmonary venous return
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001115.htm
+
+Resource: Transposition of the great arteries
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001568.htm
+
+Resource: Tricuspid atresia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001110.htm
+
+Resource: Tricuspid Atresia
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tricuspid-atresia/symptoms-causes/syc-20368392?p=1
+
+Resource: Tricuspid Atresia
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/tricuspid-atresia.html
+
+Resource: Truncus arteriosus
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001111.htm
+
+Resource: Vascular ring
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007318.htm
+
+Resource: Ventricular septal defect
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001099.htm
+
+Resource: Ventricular Septal Defect (VSD)
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/ventricular-septal-defect/symptoms-causes/syc-20353495?p=1
+
+Resource: Ventricular Septal Defect (VSD) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vsd.html
+
+Resource: What Are Congenital Heart Defects?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/congenital-heart-defects
+
+Resource: What Is a Pediatric Heart Surgeon?
+Category: Children
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/Pages/What-is-a-Pediatric-Heart-Surgeon.aspx
+
+Resource: What's an Atrial Septal Defect (ASD)?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/atrial_septal_defect_animation.html
+
+Resource: What's Hypoplastic Left Heart Syndrome (HLHS)? (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hypoplastic-hlhs-animation.html
+
+Resource: Williams Syndrome (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/williams-syndrome.html
+
+Resource: Women and Congenital Heart Defects
+Category: Women
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/congenital-heart-defects/the-impact-of-congenital-heart-defects/chds-impact-on-females

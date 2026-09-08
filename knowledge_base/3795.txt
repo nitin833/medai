@@ -1,0 +1,62 @@
+Title: Ataxia Telangiectasia
+
+Summary:
+Ataxia-telangiectasia (A-T) is a rare, inherited disease. It affects the nervous system, immune system, and other body systems.  Symptoms appear in young children, usually before age 5. They include:
+Ataxia - trouble coordinating
+movements
+Poor balance
+Slurred speech
+Tiny, red spider veins, called telangiectasias, on the skin and eyes
+Lung infections
+Delayed physical and sexual development
+People with A-T have an increased risk of developing diabetes and cancers, especially lymphoma and leukemia. Although it affects the brain, people with A-T usually have normal or high intelligence.
+A-T has no cure. Treatments might improve some symptoms. They include injections to strengthen the immune system, physical and speech therapy, and high-dose vitamins.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Ataxia Telangiectasia
+
+Related Resources:
+
+Resource: Ataxia - telangiectasia
+Category: Learn More
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001394.htm
+
+Resource: Ataxia Telangiectasia
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/ataxia-telangiectasia
+
+Resource: Ataxia-Telangiectasia (For Parents)
+Category: Learn More
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ataxia-telangiectasia.html
+
+Resource: Ataxia-telangiectasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ataxia-telangiectasia
+
+Resource: ClinicalTrials.gov: Ataxia Telangiectasia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Ataxia+Telangiectasia%22&aggFilters=status:not%20rec
+
+Resource: Learn About A-T
+Category: Learn More
+Organization: Ataxia-Telangiectasia Children's Project
+URL: https://atcp.org/learn-about-a-t/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Learn More
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Ataxia Telangiectasia
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ataxia+Telangiectasia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+

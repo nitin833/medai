@@ -1,0 +1,139 @@
+Title: Over-the-Counter Medicines
+
+Also Called:
+- Non-prescription drugs
+- OTC medicines
+
+Summary:
+Over-the-counter (OTC) medicines are drugs you can buy without a prescription. Some OTC medicines relieve aches, pains, and itches. Some prevent or cure diseases, like tooth decay and athlete's foot. Others help manage recurring problems, like migraines and allergies.
+In the United States, the Food and Drug Administration decides whether a medicine is
+safe
+and effective enough to sell over-the-counter. This allows you to take a more active role in your health care. But you also need to be careful to avoid
+mistakes
+. Make sure to follow the instructions on the drug label. If you don't understand the instructions, ask your pharmacist or health care provider.
+Also keep in mind that that there are still
+risks
+to taking OTC medicines:
+The medicine you are taking could interact with other medicines, supplements, foods, or drinks
+Some medicines are not right for people with certain medical conditions. For example, people with high blood pressure should not take certain decongestants.
+Some people are allergic to certain medicines
+Many medicines are not safe
+during pregnancy
+. If you are pregnant, check with your health care provider before taking any medicine.
+Be careful when giving medicines to
+children
+. Make sure that you give your child the correct dose. If you are giving your child a liquid medicine, don't use a kitchen spoon. Instead use a measuring spoon or a dosing cup marked in teaspoons.
+If you have been taking an OTC medicine but your symptoms don't go away, contact your health care provider. You should not take OTC medicines longer or in higher doses than the label recommends.
+Food and Drug Administration
+
+Groups:
+- Drug Therapy
+
+MeSH Headings:
+- Nonprescription Drugs
+
+Related Resources:
+
+Resource: Acetaminophen Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/acetaminophen-level/
+
+Resource: Cough and Cold Medicine Abuse (For Parents)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cough-cold-medicine-abuse.html
+
+Resource: Cough Medicine: Understanding Your OTC Options
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/cough-medicine-understanding-your-otc-options/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Generic Drugs: Questions and Answers
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/generic-drugs/generic-drugs-questions-answers
+
+Resource: Harmful Interactions: Mixing Alcohol with Medicines
+Category: Related Issues
+Organization: National Institute on Alcohol Abuse and Alcoholism
+URL: https://www.niaaa.nih.gov/publications/brochures-and-fact-sheets/harmful-interactions-mixing-alcohol-with-medicines
+
+Resource: How and when to get rid of unused medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000943.htm
+
+Resource: Medicines in My Home: Information for Adults on Using Over-the-Counter Medicines Safely
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/78537/download
+
+Resource: MedlinePlus: Drugs, Herbs, and Supplements
+Category: Start Here
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/druginformation.html
+
+Resource: Over-the-Counter (OTC) Medicines DrugFacts
+Category: Start Here
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/publications/drugfacts/over-counter-medicines
+
+Resource: Over-the-Counter Drug Facts Label
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/understanding-over-counter-medicines/over-counter-drug-facts-label
+
+Resource: Over-the-counter medicines
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002208.htm
+
+Resource: Over-the-Counter Medicines: What's Right for You?
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/understanding-over-counter-medicines/over-counter-medicines-whats-right-you
+
+Resource: Over-the-Counter Medicines
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Nonprescription+Drugs%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions and Answers on Unapproved Chelation Products
+Category: Specifics
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/drugs/medication-health-fraud/questions-and-answers-unapproved-chelation-products
+
+Resource: Salicylates Level
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/salicylates-level/
+
+Resource: Storing your medicines
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000534.htm
+
+Resource: Taking medicines - what to ask your provider
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000535.htm
+
+Resource: Use Medicines Wisely
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health/use-medicines-wisely
+
+Resource: Using over-the-counter medicines safely
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000882.htm
+
+Resource: What is Pharmacology?
+Category: Statistics and Research
+Organization: National Institute of General Medical Sciences
+URL: https://nigms.nih.gov/biobeat/2023/08/what-is-pharmacology

@@ -1,0 +1,166 @@
+Title: Epilepsia
+
+Summary:
+La epilepsia es un trastorno cerebral que hace que las personas tengan
+convulsiones
+recurrentes. Las convulsiones ocurren cuando los grupos de células nerviosas (neuronas) del cerebro envían señales erróneas. Las personas pueden tener sensaciones y emociones extrañas o comportarse de una manera rara. Pueden tener espasmos musculares violentos o perder el conocimiento.
+La epilepsia tiene muchas causas posibles, que incluyen las enfermedades, lesiones cerebrales y el desarrollo cerebral anormal. A pesar de eso, en muchos casos se desconoce la causa.
+Los médicos usan estudios cerebrales y otras pruebas para diagnosticar la epilepsia. Es importante iniciar el tratamiento de inmediato. No existe una cura para la epilepsia, pero en la mayoría de los casos las medicinas pueden controlar las convulsiones. Cuando los medicamentos no funcionan bien, la cirugía o los dispositivos implantados, como los estimuladores vagales, pueden ayudar. Las dietas especiales pueden ayudar a ciertos niños epilépticos.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Alta de niños con epilepsia
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000127.htm
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Alta tras epilepsia o convulsiones
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000128.htm
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Cirugía para tratar la epilepsia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/epilepsy-surgery.html
+
+Resource: Cirugía para tratar la epilepsia
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/epilepsy-surgery/about/pac-20393981?p=1
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Cómo ayudar a alguien que está teniendo una convulsión
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-ayudar-a-alguien-que-esta-teniendo-una-convulsion
+
+Resource: Electroencefalograma
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003931.htm
+
+Resource: Epilepsia
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/epilepsy.html
+
+Resource: Epilepsia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/kids/epilepsy.html
+
+Resource: Epilepsia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000694.htm
+
+Resource: Epilepsia
+Category: Spanish/Español, Niños/as
+Organization: Centro de Recursos Informativos para Padres
+URL: https://www.parentcenterhub.org/epilepsia/
+
+Resource: Epilepsia en adultos: Qué preguntarle al médico
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000221.htm
+
+Resource: Epilepsia en niños
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007681.htm
+
+Resource: Epilepsia en niños: Qué preguntarle al médico
+Category: Spanish/Español, Niños/as
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000222.htm
+
+Resource: Epilepsia y convulsiones
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/epilepsia-y-convulsiones
+
+Resource: Epilepsia y embarazo: Todo lo que debe saber
+Category: Spanish/Español, Mujeres
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/pregnancy-week-by-week/in-depth/pregnancy/art-20048417?p=1
+
+Resource: Epilepsia: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/epilepsy/diagnosis-treatment/drc-20350098?p=1
+
+Resource: Epilepsia: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/epilepsy/symptoms-causes/syc-20350093?p=1
+
+Resource: Estimulación del nervio vago
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007854.htm
+
+Resource: Estimulador del nervio vago para tratar la epilepsia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/vagus-nerve-stimulator.html
+
+Resource: Observando la epilepsia: Estallidos eléctricos en el cerebro
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/observando-la-epilepsia
+
+Resource: Pruebas farmacogenéticas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-farmacogeneticas/
+
+Resource: Recorrido de una familia para encontrar respuestas a la epilepsia
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/artículo/recorrido-de-una-familia-para-encontrar-respuestas-a-la-epilepsia
+
+Resource: RM funcional (fRM)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/fmribrain
+
+Resource: Síndrome de West
+Category: Spanish/Español, Niños/as
+Organization: Centro de Información sobre Enfermedades Genéticas y Raras
+URL: https://rarediseases.info.nih.gov/espanol/13300/sindrome-de-west/
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: Tomografía computada: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ct-head.html
+
+Resource: Tomografía por emisión de positrones (TEP) del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007341.htm
+
+Resource: Ícono de la moda Camila Coelho habla sobre su diagnóstico de epilepsia
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/icono-de-la-moda-camila-coelho-habla-sobre-su-diagnostico-de-epilepsia

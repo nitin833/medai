@@ -1,0 +1,142 @@
+Title: Choking
+
+Summary:
+Food or small objects can cause choking if they get caught in your throat and block your airway. This keeps oxygen from getting to your lungs and brain. If your brain goes without oxygen for more than four minutes, you could have brain damage or die.
+Young children are at an especially high risk of choking. They can choke on foods like hot dogs, nuts and grapes, and on small objects like toy pieces and coins. Keep hazards out of their reach and supervise them when they eat.
+When someone is choking, quick action can be lifesaving. Learn how to do back blows, the Heimlich maneuver (abdominal thrusts), and
+CPR
+.
+
+Groups:
+- Lungs and Breathing
+- Injuries and Wounds
+- Symptoms
+
+MeSH Headings:
+- Airway Obstruction
+
+Related Resources:
+
+Resource: Abdominal thrusts
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000047.htm
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Blockage of upper airway
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000067.htm
+
+Resource: Cardiopulmonary Resuscitation (CPR): First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-cpr/basics/art-20056600?p=1
+
+Resource: Choking - adult or child over 1 year
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000049.htm
+
+Resource: Choking - infant under 1 year
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000048.htm
+
+Resource: Choking - unconscious adult or child over 1 year
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000051.htm
+
+Resource: Choking -- Heimlich Maneuver
+Category: Start Here
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/health--safety-tips/choking--heimlich-manuever
+
+Resource: Choking and Strangulation Prevention Tips
+Category: Prevention and Risk Factors
+Organization: Safe Kids Worldwide
+URL: https://www.safekids.org/tip/choking-and-strangulation-prevention-tips
+
+Resource: Choking first aid - adult or child over 1 year - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100222_1.htm
+
+Resource: Choking first aid - infant under 1 year - series -- Part 1
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100221_1.htm
+
+Resource: Choking Prevention and Rescue Tips
+Category: Start Here
+Organization: National Safety Council
+URL: https://www.nsc.org/community-safety/safety-topics/choking
+
+Resource: Choking Prevention for Babies and Children: What Every Parent Needs to Know
+Category: Prevention and Risk Factors
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx
+
+Resource: Choking: First Aid
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-choking/basics/art-20056637?p=1
+
+Resource: Choosing Safe Toys
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/safe-toys.html
+
+Resource: CPR for a Baby or Child
+Category: Treatments and Therapies
+Organization: American Red Cross
+URL: https://www.redcross.org/take-a-class/cpr/performing-cpr/child-baby-cpr
+
+Resource: CPR for Infants and Children
+Category: Treatments and Therapies
+Organization: American College of Emergency Physicians
+URL: https://www.emergencyphysicians.org/article/pediatrics/cpr-for-children
+
+Resource: CPR: A Real Lifesaver (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/cpr.html
+
+Resource: Emergency airway puncture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003017.htm
+
+Resource: Emergency airway puncture - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100113_1.htm
+
+Resource: Foreign object - inhaled or swallowed
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000036.htm
+
+Resource: Heimlich maneuver on self
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001983.htm
+
+Resource: Household Safety: Preventing Choking
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/safety-choking.html
+
+Resource: Choking
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Airway+Obstruction%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: What to Do About Choking
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/choking-sheet.html

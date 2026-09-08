@@ -1,0 +1,79 @@
+Title: Homelessness and Health
+
+Summary:
+What are the causes of homelessness?
+Each night, hundreds of thousands of people experience homelessness in the United States. Some of these people experience chronic homelessness, while others have temporarily lost their shelter. The reasons why they are homelessness are complex. They can include a combination of factors such as:
+Poverty
+Unemployment
+Lack of affordable housing
+Mental
+and
+substance use disorders
+Trauma and violence
+Intimate partner violence
+Justice-system involvement
+Sudden serious illness
+Divorce
+Death of a partner or parent
+Disabilities
+What is the link between homelessness and health?
+Poor health can contribute to homelessness. And being homeless can contribute to poor health. Many of the problems that people experiencing homelessness face can make their health worse, including:
+Limited access to health care
+Problems getting enough food
+Trouble staying safe
+Violence
+Stress
+Unsanitary living conditions
+Exposure to severe weather
+What are some of the common health problems that people experiencing homelessness have?
+Some of the common health problems that people experiencing homelessness may have include:
+HIV
+Lung diseases
+, including
+bronchitis
+,
+tuberculosis
+, and
+pneumonia
+Malnutrition
+Mental health problems
+Substance use problems
+Wounds
+and
+skin infections
+Many people experiencing homelessness are dealing with trauma. They may have been abused or assaulted. This includes children, who are at risk for emotional and
+behavioral problems
+.
+Contact your local homelessness assistance agency to get the help you need, such as access to shelters, health centers, and free meals.
+
+Groups:
+- Social/Family Issues
+
+MeSH Headings:
+- Ill-Housed Persons
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Homelessness
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=homelessness&aggFilters=status:not%20rec
+
+Resource: Find a Health Center
+Category: Find an Expert
+Organization: Health Resources and Services Administration
+URL: https://findahealthcenter.hrsa.gov/
+
+Resource: Homelessness Assistance Programs
+Category: Start Here
+Organization: Department of Housing and Urban Development
+URL: https://www.hudexchange.info/homelessness-assistance/
+
+Resource: Homeless adult health issues
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Ill-Housed+Persons%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Running Away
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/running-away.html

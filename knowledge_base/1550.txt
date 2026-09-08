@@ -1,0 +1,150 @@
+Title: Biodefense and Bioterrorism
+
+Summary:
+A bioterrorism attack is the deliberate release of viruses, bacteria, or other germs to cause illness or death. These germs are often found in nature. But they can sometimes be made more harmful by increasing their ability to cause disease, spread, or resist medical treatment.
+Biological agents spread through the air, water, or in food. Some can also spread from person to person. They can be very hard to detect. They don't cause illness for several hours or days. Scientists worry that
+anthrax
+,
+botulism
+,
+Ebola
+and other
+hemorrhagic fever
+viruses,
+plague
+, or
+smallpox
+could be used as biological agents.
+Biodefense uses medical measures to protect people against bioterrorism. This includes medicines and vaccinations. It also includes medical research and preparations to defend against bioterrorist attacks.
+Centers for Disease Control and Prevention
+
+Groups:
+- Poisoning, Toxicology, Environmental Health
+- Disasters
+
+MeSH Headings:
+- Bioterrorism
+- Biological Warfare
+- Chemical Warfare Agents
+- Chemical Warfare
+
+Related Resources:
+
+Resource: Abrin
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/abrin.html
+
+Resource: Arsine
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/arsine.html
+
+Resource: Biohazard Exposure
+Category: Start Here
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/biohazard
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chlorine
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/chlorine.html
+
+Resource: Cyanide
+Category: Specifics
+Organization: Johns Hopkins Bloomberg School of Public Health
+URL: https://centerforhealthsecurity.org/sites/default/files/2023-02/cyanide.pdf
+
+Resource: Department of Homeland Security
+Category: Find an Expert
+Organization: Department of Homeland Security
+URL: https://www.dhs.gov/
+
+Resource: In the Event of Bioterrorism: Protecting Families from Deadly Diseases
+Category: Start Here
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/infections/Pages/Bioterrorism.aspx
+
+Resource: Lewisite
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/lewisite.html
+
+Resource: Mustard Gas
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/mustard-gas.html
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Nitrogen Mustards
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/nitrogen-mustard.html
+
+Resource: Phosgene
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/phosgene.html
+
+Resource: Biodefense and Bioterrorism
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Biological+Warfare%22%5Bmajr%3Anoexp%5D+OR+%22Bioterrorism%22%5Bmajr%3Anoexp%5D+OR+%22Chemical+Warfare%22%5Bmajr%3Anoexp%5D+OR+%22Chemical+Warfare+Agents%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Respirator Fact Sheet
+Category: Related Issues
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/docs/2003-144/
+
+Resource: Ricin
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/ricin.html
+
+Resource: Riot Control Agents
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/riot-control-agents.html
+
+Resource: Sarin: Chemical Fact Sheet
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/sarin.html
+
+Resource: Sodium Azide
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/sodium-azide.html
+
+Resource: Soman
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/soman.html
+
+Resource: Strategic National Stockpile (SNS)
+Category: Related Issues
+Organization: Department of Health and Human Services
+URL: https://aspr.hhs.gov/SNS/Pages/default.aspx
+
+Resource: Strychnine
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/strychnine.html
+
+Resource: Tabun
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/tabun.html
+
+Resource: VX
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/chemical-emergencies/chemical-fact-sheets/vx.html

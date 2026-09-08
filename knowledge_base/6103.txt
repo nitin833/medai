@@ -1,0 +1,102 @@
+Title: Norovirus Infections
+
+Also Called:
+- Norwalk virus infections
+
+Summary:
+Noroviruses are a group of related viruses. Infection with these viruses causes an illness called
+gastroenteritis
+, an inflammation of the stomach and intestines.  It can spread from person to person, or through contaminated food or water.  You can also get it if you touch a contaminated surface. Norovirus can be serious, especially for young children and older adults.
+The most common symptoms of norovirus infection are:
+Diarrhea
+Nausea and vomiting
+Stomach pain
+Other symptoms may include fever, headache or body aches.
+Treatment includes bed rest and lots of liquids to prevent
+dehydration
+. There is no specific medicine to treat norovirus infections.
+Proper hand washing and safe food preparation may help prevent infections.
+Centers for Disease Control and Prevention
+
+Groups:
+- Digestive System
+- Infections
+
+MeSH Headings:
+- Norovirus
+
+Related Resources:
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Gastroenteritis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Gastroenteritis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Norovirus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Norovirus%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Cruise Ship Illness Frequently Asked Questions
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vessel-sanitation/faq/
+
+Resource: Hand Washing: Do's and Dont's
+Category: Prevention and Risk Factors
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/hand-washing/art-20046253?p=1
+
+Resource: How to Prevent Norovirus
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/norovirus/prevention/
+
+Resource: Norovirus
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/norovirus/
+
+Resource: Norovirus (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/norovirus.html
+
+Resource: Norovirus - hospital
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000475.htm
+
+Resource: Norovirus Facts and Stats
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/norovirus/data-research/
+
+Resource: Norovirus Infection
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/norovirus/symptoms-causes/syc-20355296?p=1
+
+Resource: Norovirus Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Norovirus%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stool Tests (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html

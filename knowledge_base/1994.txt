@@ -1,0 +1,246 @@
+Title: Lesiones y enfermedades de la rodilla
+
+Summary:
+La articulación de la rodilla se compone de hueso, cartílago, ligamentos y líquidos. Los músculos y los tendones ayudan a que la rodilla se mueva en su articulación. Cuando alguna de estas estructuras se lastima o se enferma, surgen problemas. Los problemas en las rodillas pueden provocar dolor y dificultades para caminar.
+Los problemas en las rodillas son muy comunes y pueden ocurrir a cualquier edad. Pueden interferir con muchas actividades, desde la práctica de deportes hasta poder levantarse de una silla y caminar. Pueden tener un gran impacto en su vida.
+La enfermedad más común que afecta los huesos de las rodillas es la
+artritis
+. El cartílago de la rodilla se desgasta gradualmente y provoca dolor e inflamación.
+Las lesiones en los ligamentos y tendones también causan problemas con la rodilla. Una lesión común se produce en el ligamento cruzado anterior (LCA). Estas lesiones frecuentemente suelen ocurrir por un movimiento de torsión repentino. Las lesiones del LCA y otras son
+lesiones deportivas
+comunes.
+El tratamiento de los problemas con la rodilla depende de la causa. En algunos casos, el médico puede recomendar un
+reemplazo de rodilla
+.
+NIH: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+
+Groups:
+- Huesos, articulaciones y músculos
+- Lesiones y heridas
+
+Related Resources:
+
+Resource: Alistar la casa en caso de cirugía de rodilla o de cadera
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000167.htm
+
+Resource: Alta tras artroscopia de rodilla
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000199.htm
+
+Resource: Alta tras reconstrucción del ligamento cruzado anterior (LCA)
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000189.htm
+
+Resource: Aparatos para movilidad asistida: Tema de salud de MedlinePlus
+Category: Viviendo con..., Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/mobilityaids.html
+
+Resource: Artrografía directa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/arthrog
+
+Resource: Artroscopia de rodilla
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100117_1.htm
+
+Resource: Artroscopia de rodilla
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002972.htm
+
+Resource: Atención postratamiento de rupturas de menisco
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000684.htm
+
+Resource: Atención postratamiento de síndrome de la banda iliotibial
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000683.htm
+
+Resource: Atención postratamiento de una lesión del ligamento lateral (LL)
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000671.htm
+
+Resource: Atención postratamiento por lesión del ligamento cruzado anterior (LCA)
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000681.htm
+
+Resource: Cirugía mediante microfracturas de la rodilla
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007255.htm
+
+Resource: Cuestionario sobre mitos y realidades del dolor de rodilla
+Category: Pruebe su conocimiento, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/quiz/003187_92.htm
+
+Resource: Cuidados después del tratamiento de una lesión del ligamento cruzado posterior (LCP)
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000680.htm
+
+Resource: Desgarros del ligamento cruzado anterior
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/acl-injuries.html
+
+Resource: Desgarros del ligamento cruzado anterior (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/acl-injuries.html
+
+Resource: Dolor anterior de rodilla
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000452.htm
+
+Resource: Dolor de rodilla
+Category: Spanish/Español, Síntomas, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003187.htm
+
+Resource: Enfermedad de Osgood-Schlatter
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001258.htm
+
+Resource: Enfermedad de Osgood-Schlatter
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/osgood.html
+
+Resource: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/portal-en-espanol
+
+Resource: Lesiones de rodilla (para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/knee-injuries.html
+
+Resource: Lesiones del ligamento colateral medial
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/mcl-injuries.html
+
+Resource: Lesión del ligamento cruzado anterior (LCA)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001074.htm
+
+Resource: Ligamento cruzado anterior: Reparación
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100230_1.htm
+
+Resource: Osteocondritis disecante (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/osteochondritis-dissecans.html
+
+Resource: Osteotomía de la rodilla
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007499.htm
+
+Resource: Osteotomía de la tibia
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100223_1.htm
+
+Resource: Quiste de Baker
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001222.htm
+
+Resource: Radiografía: Rodilla (para padres)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/xray-knee.html
+
+Resource: Reconstrucción del ligamento cruzado anterior (LCA)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007208.htm
+
+Resource: Reemplazo de rodilla: Tema de salud de MedlinePlus
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/kneereplacement.html
+
+Resource: Resonancia magnética de la rodilla
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007361.htm
+
+Resource: RMN de la rodilla
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/kneemr
+
+Resource: RMN musculoesquelética
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/muscmr
+
+Resource: Rodilla del saltador (para Padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/jumpers-knee.html
+
+Resource: Rodilla hinchada
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/swollen-knee/symptoms-causes/syc-20378129?p=1
+
+Resource: Rodillas valgas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001263.htm
+
+Resource: Síndrome de dolor patelofemoral (rodilla del corredor)(para padres)
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/runners-knee.html
+
+Resource: Tendinitis rotuliana
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/patellar-tendinitis/symptoms-causes/syc-20376113?p=1
+
+Resource: Tomografía computarizada de la rodilla
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007345.htm
+
+Resource: Trasplante de aloinjerto meniscal
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007209.htm
+
+Resource: Tratamiento poshospitalario para la luxación rotuliana
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000585.htm
+
+Resource: Tratamiento poshospitalario para una fractura de la rótula
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000582.htm
+
+Resource: Ultrasonido musculoesquelético
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/musculous

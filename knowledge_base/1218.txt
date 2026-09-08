@@ -1,0 +1,99 @@
+Title: Huntington's Disease
+
+Also Called:
+- HD
+- Huntington's chorea
+
+Summary:
+Huntington's disease (HD) is an inherited disease that causes certain nerve cells in the brain to waste away. People are born with the defective gene, but symptoms usually don't appear until middle age. Early symptoms of HD may include uncontrolled movements, clumsiness, and balance problems. Later, HD can take away the ability to walk, talk, and swallow. Some people stop recognizing family members. Others are aware of their environment and are able to express emotions.
+If one of your parents has Huntington's disease, you have a 50% chance of getting it. A blood test can tell you if have the HD gene and will develop the disease. Genetic counseling can help you weigh the risks and benefits of taking the test.
+There is no cure.  Medicines can help manage some of the symptoms, but cannot slow down or stop the disease.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Huntington Disease
+
+Related Resources:
+
+Resource: About Huntington's Disease
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Huntingtons-Disease
+
+Resource: Brain Basics: The Life and Death of a Neuron
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-life-and-death-neuron
+
+Resource: ClinicalTrials.gov: Huntington Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Huntington+Disease%22&aggFilters=status:not%20rec
+
+Resource: Huntington disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000770.htm
+
+Resource: Huntington Disease
+Category: Learn More
+Organization: Genetic and Rare Diseases Information Center
+URL: https://rarediseases.info.nih.gov/diseases/6677/huntington-disease
+
+Resource: Huntington's Disease
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/huntingtons-disease
+
+Resource: Huntington's Disease (HD): Genetic Testing and Family Planning
+Category: Diagnosis and Tests
+Organization: Huntington's Disease Society of America
+URL: https://hdsa.org/what-is-hd/history-and-genetics-of-huntingtons-disease/genetic-testing-family-planning/
+
+Resource: Huntington's Disease Society of America
+Category: Find an Expert
+Organization: Huntington's Disease Society of America
+URL: https://hdsa.org/
+
+Resource: Huntington's disease-like: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/huntingtons-disease-like
+
+Resource: Huntington's disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/huntingtons-disease
+
+Resource: Juvenile Onset HD
+Category: Teenagers
+Organization: Huntington's Disease Society of America
+URL: https://hdsa.org/what-is-hd/history-and-genetics-of-huntingtons-disease/juvenile-onset-hd/
+
+Resource: Long Term Care
+Category: Related Issues
+Organization: Huntington's Disease Society of America
+URL: https://hdsa.org/find-help/healthcare-and-future-planning/long-term-care/
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Overview of Huntington's Disease
+Category: Start Here
+Organization: Huntington's Disease Society of America
+URL: https://hdsa.org/what-is-hd/overview-of-huntingtons-disease/
+
+Resource: Huntington's Disease
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Huntington+Disease%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Swallowing problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000065.htm

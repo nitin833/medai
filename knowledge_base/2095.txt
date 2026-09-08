@@ -1,0 +1,316 @@
+Title: Envenenamiento
+
+Also Called:
+- Intoxicación
+
+Summary:
+Un veneno o toxina es cualquier sustancia peligrosa para el cuerpo. Es posible tragarlo, inhalarlo, inyectarlo o absorberlo a través de la piel. Cualquier sustancia puede ser un veneno si se ingiere demasiado de ella. Entre los venenos se encuentran:
+Medicinas a la venta con y sin receta médica en dosis demasiado altas
+Sobredosis de drogas ilegales
+Monóxido de carbono
+de quemadores de gas en el hogar
+Productos de uso en el hogar
+, tales como el jabón en polvo para lavar la ropa o lustre para muebles
+Pesticidas
+Plantas para interiores y exteriores
+Metales como el
+plomo
+y el
+mercurio
+Los efectos del envenenamiento o la intoxicación varían de enfermedades de corta duración hasta lesión cerebral, coma y muerte. Para prevenir los envenenamientos es importante usar y guardar los productos exactamente como lo indican las etiquetas. Mantenga los productos alejados del alcance de los niños. El tratamiento de un envenenamiento depende del tipo de veneno. Si sospecha que alguien ha sido envenenado llame al centro de control de envenenamientos local al 1-800-222-1222 de inmediato.
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+- Asuntos de seguridad
+
+Related Resources:
+
+Resource: Comer tierra
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002840.htm
+
+Resource: Consejos de prevención
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Administración de Servicios y Recursos de la Salud
+URL: https://poisonhelp.hrsa.gov/es/recursos/consejos-prevencion
+
+Resource: Consejos para la prevención y el tratamiento de envenenamientos
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/safety-prevention/all-around/paginas/poison-prevention.aspx
+
+Resource: Derivados de la hemoglobina
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003371.htm
+
+Resource: Encontrar un centro de información toxicológica
+Category: Spanish/Español, Especialistas
+Organization: Administración de Servicios y Recursos de la Salud
+URL: https://poisonhelp.hrsa.gov/es/centros-informacion-toxicologica/encontrar-centro
+
+Resource: Envenenamiento con etilenglicol
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000774.htm
+
+Resource: Examen de etilenglicol en la sangre
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003564.htm
+
+Resource: Examen de metanol
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003563.htm
+
+Resource: Examen toxicológico
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003578.htm
+
+Resource: Exposición a la flor de pascua
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002885.htm
+
+Resource: Intoxicación
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000718.htm
+
+Resource: Intoxicación con adelfa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002884.htm
+
+Resource: Intoxicación con ambientadores y limpiadores de inodoros
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002743.htm
+
+Resource: Intoxicación con amoníaco
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002759.htm
+
+Resource: Intoxicación con arisema
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002870.htm
+
+Resource: Intoxicación con destapadores de drenajes
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002780.htm
+
+Resource: Intoxicación con detergentes
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002777.htm
+
+Resource: Intoxicación con dieffenbachia
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002866.htm
+
+Resource: Intoxicación con digital
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002878.htm
+
+Resource: Intoxicación con dulcámara
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002888.htm
+
+Resource: Intoxicación con el cerezo de Jerusalén
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002871.htm
+
+Resource: Intoxicación con estramonio o chamico
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002881.htm
+
+Resource: Intoxicación con etanol
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002644.htm
+
+Resource: Intoxicación con filodendro
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002872.htm
+
+Resource: Intoxicación con gasolina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002806.htm
+
+Resource: Intoxicación con hierba carmín
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002874.htm
+
+Resource: Intoxicación con hierba mora
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002887.htm
+
+Resource: Intoxicación con hojas de ruibarbo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002876.htm
+
+Resource: Intoxicación con la planta caladio
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002863.htm
+
+Resource: Intoxicación con limpiadores de drenajes
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002779.htm
+
+Resource: Intoxicación con limpiahornos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002800.htm
+
+Resource: Intoxicación con lirio de los valles
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002882.htm
+
+Resource: Intoxicación con los brotes y tubérculos verdes de la papa (patata)
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002875.htm
+
+Resource: Intoxicación con líquido para encendedores
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002833.htm
+
+Resource: Intoxicación con malatión
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002834.htm
+
+Resource: Intoxicación con muérdago
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002883.htm
+
+Resource: Intoxicación con nicotina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002510.htm
+
+Resource: Intoxicación con paradiclorobenceno
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002902.htm
+
+Resource: Intoxicación con querosén
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002807.htm
+
+Resource: Intoxicación con repelentes de insectos en aerosol
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002763.htm
+
+Resource: Intoxicación con tejo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002877.htm
+
+Resource: Intoxicación con tetrahidrozolina
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002590.htm
+
+Resource: Intoxicación con yodo
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002658.htm
+
+Resource: Intoxicación con zinc
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002570.htm
+
+Resource: Intoxicación por alcohol
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/alcohol-poisoning/symptoms-causes/syc-20354386?p=1
+
+Resource: Intoxicación por cobre
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002496.htm
+
+Resource: Intoxicación por oreja de elefante
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002867.htm
+
+Resource: Intoxicación por paraquat
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007834.htm
+
+Resource: Intoxicación: primeros auxilios
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/first-aid/first-aid-poisoning/basics/art-20056657?p=1
+
+Resource: Introducción a las intoxicaciones o envenenamientos
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/intoxicaciones-o-envenenamientos/introducci%C3%B3n-a-las-intoxicaciones-o-envenenamientos
+
+Resource: Lirio de agua
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002864.htm
+
+Resource: Lista para la prevención del envenenamiento por pesticidas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/sites/default/files/2015-10/documents/roombyroom-spanish.pdf
+
+Resource: Neumonía por hidrocarburos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001083.htm
+
+Resource: Prevenga los envenenamientos en su hogar
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/prevenga-los-envenenamientos-en-su-hogar
+
+Resource: Primeros auxilios en casos de envenenamiento o intoxicación
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007579.htm
+
+Resource: Seguridad en casa: Cómo prevenir las intoxicaciones
+Category: Prevención y factores de riesgo, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/safety-poisoning.html
+
+Resource: Sobredosis de aceite de ricino
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002768.htm
+
+Resource: Succión gástrica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003882.htm

@@ -1,0 +1,183 @@
+Title: Trastornos pleurales
+
+Also Called:
+- Trastornos del pleura
+
+Summary:
+La pleura es una membrana delgada que recubre el exterior de los pulmones y reviste el interior de la cavidad torácica. Entre las membranas de la pleura existe un pequeño espacio que, normalmente,  está  lleno de una pequeña cantidad de líquido. Éste líquido ayuda a las dos membranas de la pleura a deslizarse suavemente una contra otra cuando los pulmones inhalan y exhalan.
+Los problemas de la pleura incluyen:
+Pleuresía: inflamación de la pleura que causa un dolor agudo al respirar
+Derrame pleural: exceso de líquido en la pleura
+Neumotórax: acumulación de aire o gases en la pleura
+Hemotórax: acumulación de sangre en la pleura
+Los problemas pleurales pueden ser causados por diversas afecciones. Las infecciones virales son una de las causas más comunes. La
+insuficiencia cardiaca congestiva
+es la causa más común del derrame pleural. Las enfermedades de los pulmones como la
+enfermedad de obstrucción pulmonar crónica
+(EPOC), tuberculosis y una lesión pulmonar aguda, causan neumotórax. La causa más  común del hemotórax es una lesión en el pecho. El tratamiento se centra en la eliminación de líquido, aire, sangre del espacio pleural, aliviar los síntomas y el tratamiento de la afección subyacente.
+NIH: Instituto Nacional del Corazón, los Pulmones y la Sangre
+
+Groups:
+- Pulmón y vías respiratorias
+
+Related Resources:
+
+Resource: Alta tras cirugía del pulmón
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000242.htm
+
+Resource: Análisis del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003624.htm
+
+Resource: Análisis del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-pleural/
+
+Resource: Biopsia pleural abierta
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003863.htm
+
+Resource: Biopsia pleural con aguja
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003862.htm
+
+Resource: Causas y factores de los trastornos pleurales
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-pleurales/causas
+
+Resource: Cirugía de pulmón
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002956.htm
+
+Resource: Colapso pulmonar (neumotórax)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000087.htm
+
+Resource: Colapso pulmonar: Tema de salud de MedlinePlus
+Category: Asuntos específicos, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/collapsedlung.html
+
+Resource: Cultivo de líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003725.htm
+
+Resource: Cómo funcionan los pulmones
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones
+
+Resource: Derrame pleural
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000086.htm
+
+Resource: Derrame pleural maligno
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/cardiopulmonares-pdq#_210
+
+Resource: Empiema
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000123.htm
+
+Resource: Examen citológico del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003866.htm
+
+Resource: Frotis de líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003721.htm
+
+Resource: Hemotórax
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000126.htm
+
+Resource: https://www.nhlbi.nih.gov/es/salud/trastornos-pleurales
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/trastornos-pleurales
+
+Resource: Inserción de sonda pleural
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002947.htm
+
+Resource: Inserción de una sonda torácica
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100008_1.htm
+
+Resource: Neumotórax
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/pneumothorax/symptoms-causes/syc-20350367?p=1
+
+Resource: Pleuresía
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001371.htm
+
+Resource: Pruebas para las enfermedades pulmonares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pruebas-pulmonares
+
+Resource: Quilotórax (para padres)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/chylothorax.html
+
+Resource: Radiografía torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003804.htm
+
+Resource: Resonancia magnética del tórax
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003794.htm
+
+Resource: Síndromes cardiopulmonares (PDQ)
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/efectos-secundarios/cardiopulmonares-pdq
+
+Resource: TC torácica
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003788.htm
+
+Resource: Tinción de Gram del líquido pleural
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003722.htm
+
+Resource: Toracocentesis
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003420.htm
+
+Resource: Trastornos pleurales y del mediastino
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-del-pulm%C3%B3n-y-las-v%C3%ADas-respiratorias/trastornos-pleurales-y-del-mediastino/introducci%C3%B3n-a-los-trastornos-pleurales-y-del-mediastino
+
+Resource: Tumor pleural metastásico
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000117.htm

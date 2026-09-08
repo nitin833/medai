@@ -1,0 +1,211 @@
+Title: Meningitis
+
+Summary:
+La meningitis es la inflamación del tejido delgado que rodea el cerebro y la médula espinal, llamada meninge. Existen varios tipos de meningitis. La más común es la meningitis viral, que ocurre cuando un virus penetra en su organismo a través de la nariz o la boca y se traslada al cerebro. La meningitis bacteriana es rara, pero puede ser mortal. Suele comenzar con bacterias que causan infecciones parecidas a la gripe. Puede causar un
+ataque cerebral
+,
+sordera
+y lesiones cerebrales. También puede dañar otros órganos. Las
+infecciones por neumococo
+y las
+infecciones meningocócicas
+pueden causar meningitis bacteriana.
+Cualquier persona puede contraer meningitis, pero es más común en las personas con sistemas inmunitarios débiles. La meningitis puede agravarse muy rápido. Debe buscar atención médica de inmediato si presenta:
+Una fiebre súbita
+Dolor de cabeza fuerte
+Rigidez en el cuello
+Náuseas o vómitos
+El tratamiento temprano puede ayudar a prevenir problemas graves, incluyendo la muerte. Los exámenes para diagnosticar la meningitis incluyen análisis de sangre, pruebas de imágenes y una punción espinal para examinar el fluido cerebroespinal. Los antibióticos pueden tratar la meningitis bacteriana. Las medicinas antivirales pueden ayudar con algunos tipos de meningitis virales. Otras medicinas pueden ayudar a tratar otros síntomas.
+Existen vacunas para prevenir algunas de las infecciones bacterianas que causan meningitis.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Infecciones
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/analisis-del-liquido-cefalorraquideo/
+
+Resource: Análisis del líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003369.htm
+
+Resource: Araqunoiditis
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/araqunoiditis
+
+Resource: Cerebro inflamado: Reconocer la encefalitis y la meningitis
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-cerebro-inflamado
+
+Resource: Conteo de células en LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003625.htm
+
+Resource: Cultivo de líquido cefalorraquídeo
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003769.htm
+
+Resource: Derrame subdural
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001422.htm
+
+Resource: Ecografía: Cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/ultrasound-head.html
+
+Resource: Encefalitis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/encefalitis
+
+Resource: Frotis de LCR
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003768.htm
+
+Resource: Hisopado nasal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/hisopado-nasal/
+
+Resource: Meningitis
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/meningitis.html
+
+Resource: Meningitis
+Category: Comience aquí, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/meningitis
+
+Resource: Meningitis
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/meningitis
+
+Resource: Meningitis
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000680.htm
+
+Resource: Meningitis
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/meningitis.html
+
+Resource: Meningitis aséptica sifilítica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000724.htm
+
+Resource: Meningitis criptocócica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000642.htm
+
+Resource: Meningitis meningocócica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000608.htm
+
+Resource: Meningitis neumocócica
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000607.htm
+
+Resource: Meningitis por estafilococos
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000613.htm
+
+Resource: Meningitis por Gram negativas
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000610.htm
+
+Resource: Meningitis por H. influenzae
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000612.htm
+
+Resource: Meningitis subaguda y crónica
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/meningitis/meningitis-subaguda-y-cr%C3%B3nica
+
+Resource: Meningitis tuberculosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000650.htm
+
+Resource: Prueba de cultivo de bacterias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-cultivo-de-bacterias/
+
+Resource: Prueba de procalcitonina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-procalcitonina/
+
+Resource: Pruebas de la enfermedad meningocócica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-de-la-enfermedad-meningococica/
+
+Resource: Radiografía de los senos paranasales
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003803.htm
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Síndrome de Waterhouse-Friderichsen
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000609.htm
+
+Resource: Vacuna antimeningocócica ACWY: Lo que usted necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_meningococcal.pdf
+
+Resource: Vacuna conjugada neumocócica: Lo que necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/pdf/spanish_pcv.pdf
+
+Resource: Vacuna contra el Hib (Haemophilus influenzae tipo b)
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_hib.pdf
+
+Resource: Vacuna neumocócica polisacárida: Lo que necesita saber
+Category: Spanish/Español, Prevención y factores de riesgo, NON-DISPLAY (Patient Handout)
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/vis/spanish_ppsv.pdf
+
+Resource: Vacunación e implantes cocleares
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cochlear-immunizations.html
+
+Resource: Vacunas antimeningocócicas
+Category: Spanish/Español, Mujeres
+Organization: Organización de Especialistas de Información Teratológica
+URL: https://mothertobaby.org/es/hojas-informativas/vacuna-contra-la-enfermedad-megingococica-meningitis-bacteriana/

@@ -1,0 +1,100 @@
+Title: Células madre
+
+Summary:
+Las células madre tienen el potencial de convertirse en muchos tipos diferentes de células en el cuerpo. Ellas sirven como un sistema de reparación para el organismo. Hay dos tipos principales de células madre: las células madre embrionarias y células madre adultas
+Las células madre se diferencian de las otras células del cuerpo en tres maneras:
+Pueden dividirse y renovarse a sí mismas durante un largo tiempo
+No son especializadas, por lo que no pueden cumplir funciones específicas en el cuerpo
+Tienen el potencial de convertirse en células especializadas, como las células musculares, células de la sangre y las células del cerebro
+Los médicos y los científicos están entusiasmados sobre las células madre porque podrían  ayudar en muchas áreas diferentes de la salud y la investigación médica. El estudio de las células madre puede ayudar a explicar cómo ocurren enfermedades graves como el cáncer y defectos de nacimiento. Algún día se podrían utilizar las células madre para crear células y tejidos para el tratamiento de muchas enfermedades. Ejemplos incluyen la enfermedad de Parkinson, enfermedad de Alzheimer, lesión de la médula espinal, enfermedades del corazón, diabetes y artritis.
+NIH: Institutos Nacionales de la Salud
+
+Groups:
+- Transplantes y donaciones
+
+Related Resources:
+
+Resource: Bancos de sangre de cordón umbilical
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cord-blood.html
+
+Resource: Células madre: Qué son y qué hacen
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/bone-marrow-transplant/in-depth/stem-cells/art-20048117?p=1
+
+Resource: Donación de células madre sanguíneas periféricas
+Category: Spanish/Español, Asuntos relacionados
+Organization: NMDP
+URL: https://www.nmdp.org/es-us/get-involved/join-the-registry/donate-pbsc
+
+Resource: Donación de células madre y médula ósea
+Category: Spanish/Español, Asuntos relacionados
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/trasplante-de-celulas-madre/proceso.html
+
+Resource: Donación de médula ósea (células madre)
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000839.htm
+
+Resource: Donación de sangre del cordón umbilical del recién nacido
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/prenatal/decisions-to-make/paginas/should-we-store-our-newborns-cord-blood.aspx
+
+Resource: Efectos secundarios de trasplante de células madre o médula ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/trasplante-de-celulas-madre/donantes.html
+
+Resource: Enfermedad injerto contra huésped
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001309.htm
+
+Resource: Mitos y verdades: La donación de células progenitoras sanguíneas
+Category: Spanish/Español, Asuntos relacionados
+Organization: NMDP
+URL: https://www.nmdp.org/es-us/get-involved/join-the-registry/myths-and-facts-about-blood-stem-cell-donation
+
+Resource: Proceso de donación de sangre del cordón umbilical y FAQ
+Category: Asuntos específicos, Spanish/Español
+Organization: NMDP
+URL: https://www.nmdp.org/es-us/get-involved/join-the-registry/donate-cord-blood/cord-blood-donation-process
+
+Resource: Proceso de un trasplante de células madre o médula ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/como-sobrellevar-el-cancer/tipos-de-tratamiento/trasplante-de-celulas-madre/efectos-secundarios-del-trasplante.html
+
+Resource: Pruebas y bancos de sangre del cordón umbilical
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-y-bancos-de-sangre-del-cordon-umbilical/
+
+Resource: Sangre del cordón umbilical
+Category: Comience aquí, Spanish/Español
+Organization: Fundación de Niños con Defectos de Nacimiento March of Dimes
+URL: https://nacersano.marchofdimes.org/parto-y-nacimiento/la-sangre-del-cordon-umbilical.aspx
+
+Resource: Trasplante de células madre sanguíneas y de médula ósea
+Category: Asuntos específicos, Spanish/Español
+Organization: Blood Cancer United
+URL: https://llsorg.widen.net/view/pdf/wwxaxksbp7/booklet_ES_BloodMarrow_ps40s.pdf
+
+Resource: Trasplantes de células madre
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/stem-cells.html
+
+Resource: Trasplantes de células madre (para adolescentes)
+Category: Adolescentes, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/stem-cells.html
+
+Resource: Trasplantes de células madre en el tratamiento del cáncer
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/trasplante-de-celulas-madre

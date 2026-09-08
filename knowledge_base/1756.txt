@@ -1,0 +1,41 @@
+Title: Arsénico
+
+Summary:
+El arsénico es un elemento natural que se encuentra en la tierra y entre los minerales. Los componentes del arsénico se usan para preservar la madera, como plaguicidas y en ciertas industrias. El arsénico forma parte del aire, el agua y la tierra a través del polvo que se lleva el viento. También puede penetrar en el agua debido a los desbordamientos.
+Usted puede quedar expuesto al arsénico por:
+Ingerirlo en pequeñas cantidades en los alimentos, el agua o el aire
+Inhalar aserrín o humo al quemarse las maderas tratadas con arsénico
+Vivir en un área con altos niveles de arsénico en la roca
+Tener un trabajo en el que se produzca o se use arsénico
+La exposición al arsénico puede causar muchos problemas de salud. La exposición por tiempo prolongado a niveles bajos puede cambiar el color de la piel. Puede causar callos y pequeñas verrugas. La exposición a niveles elevados de arsénico puede provocar la muerte.
+Agencia para Sustancias Tóxicas y el Registro de Enfermedades
+
+Groups:
+- Envenenamientos, toxicología y salud ambiental
+
+Related Resources:
+
+Resource: Arsénico
+Category: Más información, Spanish/Español
+Organization: Agencia para Sustancias Tóxicas y el Registro de Enfermedades
+URL: https://www.atsdr.cdc.gov/es/toxfaqs/es_tfacts2.html
+
+Resource: Arsénico
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/arsenic
+
+Resource: Arsénico (y riesgo de cáncer)
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/causas-prevencion/riesgo/sustancias/arsenico
+
+Resource: Consejos para reducir el arsénico en la dieta de su bebé
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/baby/feeding-nutrition/paginas/reduce-arsenic.aspx
+
+Resource: Prueba de sangre de metales pesados
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-sangre-de-metales-pesados/

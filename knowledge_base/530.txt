@@ -1,0 +1,236 @@
+Title: Disaster Preparation and Recovery
+
+Summary:
+Preparing for a disaster can reduce the fear, anxiety and losses that disasters cause. A disaster can be a  natural disaster, like a
+hurricane
+,
+tornado
+,
+flood
+or
+earthquake
+. It might also be  man-made, like a
+bioterrorist attack
+or
+chemical spill
+. You should know the risks and danger signs of different types of disasters. You should also have a disaster plan. Be ready to evacuate your home, and know how to treat basic medical problems. Make sure you have the insurance you need, including special types, like flood insurance.
+No matter what kind of disaster you experience, it causes
+emotional distress
+. After a disaster, recovery can take time. Stay connected to your family and friends during this period.
+Federal Emergency Management Agency
+
+Groups:
+- Disasters
+
+MeSH Headings:
+- Rescue Work
+- Disasters
+- Disaster Planning
+- Disaster Victims
+- Relief Work
+
+Related Resources:
+
+Resource: American Red Cross
+Category: Find an Expert
+Organization: American Red Cross
+URL: https://www.redcross.org/
+
+Resource: Are You Looking for Food for Yourself or Your Family After a Disaster?
+Category: Related Issues
+Organization: Food and Nutrition Administration
+URL: https://www.fna.usda.gov/disaster/individuals
+
+Resource: Be Prepared: Pet Safety in Emergencies
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/emergency-preparedness/
+
+Resource: Build a Kit
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/kit
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Children and Specific Disasters or Emergencies
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/children-and-school-preparedness/about/specific-emergencies.html
+
+Resource: ClinicalTrials.gov: Disasters
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Disasters%22&aggFilters=status:not%20rec
+
+Resource: Department of Homeland Security
+Category: Find an Expert
+Organization: Department of Homeland Security
+URL: https://www.dhs.gov/
+
+Resource: Disaster Preparedness and Recovery for Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/safety/disaster-preparedness-and-recovery-older-adults
+
+Resource: DisasterAssistance.gov
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.disasterassistance.gov/
+
+Resource: Emergency Communications Tips
+Category: Related Issues
+Organization: Federal Communications Commission
+URL: https://www.fcc.gov/emergency
+
+Resource: Emergency Disinfection of Drinking Water
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/ground-water-and-drinking-water/emergency-disinfection-drinking-water
+
+Resource: Evacuation
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/evacuation
+
+Resource: FDA Offers Tips about Medical Devices and Natural Disasters
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/medical-devices/emergency-situations-medical-devices/fda-offers-tips-about-medical-devices-and-natural-disasters
+
+Resource: Federal Emergency Management Agency
+Category: Find an Expert
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/
+
+Resource: Flood Preparedness and Response
+Category: Specifics
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/flood/response
+
+Resource: Games: Test Your Know-How in a Wide Range of Emergencies
+Category: Test Your Knowledge
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/kids/games
+
+Resource: Get Prepared Before a Disaster or Emergency Strikes (Financial Plan)
+Category: Related Issues
+Organization: Consumer Financial Protection Bureau
+URL: https://www.consumerfinance.gov/consumer-tools/disasters-and-emergencies/get-prepared-before-disaster-emergency-strikes/
+
+Resource: Guidelines for Cleaning Safely after a Disaster
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/safety/
+
+Resource: Guidelines for Staying Safe at a Disaster Shelter
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/safety/staying-safe-at-a-disaster-shelter.html
+
+Resource: How to Make Water Safe in an Emergency
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/water-emergency/about/index.html
+
+Resource: Keep Food Safe after a Disaster or Emergency
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+
+Resource: Make a Plan
+Category: Start Here
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/plan
+
+Resource: Managing Chronic Conditions after a Natural Disaster
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/media/pdfs/2024/managing-chronic-conditions-after-natural-disaster-508.pdf
+
+Resource: People with Disabilities (Disaster Preparation)
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/people-disabilities
+
+Resource: Play the Disaster Game (Disaster Mind)
+Category: Teenagers
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/about/regions/region-8/disaster-mind-game
+
+Resource: Power Outages
+Category: Specifics
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/power-outages
+
+Resource: Protect Children's Health: Natural Disasters and Emergencies
+Category: Children
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/children/protect-childrens-health-natural-disasters-and-emergencies
+
+Resource: Disaster planning
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Disaster+Victims%22%5Bmajr%3Anoexp%5D+OR+%22Rescue+Work%22%5Bmajr%3Anoexp%5D+OR+%22Relief+Work%22%5Bmajr%3Anoexp%5D+OR+%22Disasters%22%5Bmajr%3Anoexp%5D+OR+%22Disaster+Planning%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recovering from a Disaster
+Category: Start Here
+Organization: General Services Administration
+URL: https://www.usa.gov/disaster
+
+Resource: Red Cross Mobile Apps
+Category: Videos and Tutorials
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/mobile-apps.html
+
+Resource: Reunification of Family in the US and US Territories (Disaster Aid)
+Category: Related Issues
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/disaster-relief-and-recovery-services/contact-and-locate-loved-ones.html
+
+Resource: Safety Messages for Pregnant, Postpartum, and Breastfeeding Women During Natural Disasters and Severe Weather
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/reproductive-health/emergency-preparation-response/safety-messages.html
+
+Resource: Shelter
+Category: Related Issues
+Organization: Department of Homeland Security
+URL: https://www.ready.gov/shelter
+
+Resource: Teen Activity Book
+Category: Teenagers
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/communication-resources/teen-activity.html
+
+Resource: Teen Emergency Kit Checklist
+Category: Teenagers
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/communication-resources/teen-emergency-kit.html
+
+Resource: Teen Shelter Safety Factsheet
+Category: Teenagers
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/communication-resources/teen-shelter-safety.html
+
+Resource: Tips for Returning Home Safely after a Disaster
+Category: Related Issues
+Organization: Federal Emergency Management Agency
+URL: https://www.fema.gov/fact-sheet/tips-returning-home-safely-after-disaster-0
+
+Resource: What to Do to Protect Yourself during a Power Outage
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html
+
+Resource: Which Natural Disasters Should You Prepare For?
+Category: Start Here
+Organization: American Red Cross
+URL: https://www.redcross.org/get-help/how-to-prepare-for-emergencies/common-natural-disasters-across-us.html
+
+Resource: Wireless Emergency Alerts (WEA)
+Category: Related Issues
+Organization: Federal Communications Commission
+URL: https://www.fcc.gov/consumers/guides/wireless-emergency-alerts

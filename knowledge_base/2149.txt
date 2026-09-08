@@ -1,0 +1,214 @@
+Title: Cáncer de piel
+
+Summary:
+El cáncer de piel es la forma de cáncer más común en los Estados Unidos. Los dos tipos más comunes son el cáncer de células basales y el cáncer de células escamosas. Por lo general, se forman en la cabeza, la cara, el cuello, las manos y los brazos. Otro tipo de cáncer de piel, el
+melanoma
+, es más peligroso pero menos común.
+Cualquier persona puede desarrollar cáncer de piel, pero es más común entre quienes:
+Pasan mucho tiempo bajo el
+sol
+o sufrieron quemaduras por el sol
+Tienen piel, cabello y ojos claros
+Tienen un familiar con cáncer de piel
+Tienen más de 50 años de edad
+Debe hacer que un médico revise cualquier indicio sospechoso en la piel y cualquier cambio en el aspecto de su piel. El tratamiento tiene más probabilidades de surtir mejor efecto cuando el cáncer se detecta con anticipación. Cuando no se tratan, ciertos tipos de cáncer de piel pueden diseminarse a otros tejidos y órganos.
+Los tratamientos incluyen cirugía, radioterapia, quimioterapia, terapia fotodinámica (PDT, por sus siglas en inglés) y terapia biológica. La terapia fotodinámica utiliza un medicamento y un tipo de luz láser para eliminar las células cancerosas. La terapia biológica aumenta la propia capacidad del cuerpo para combatir el cáncer.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Aspectos generales de las opciones de tratamiento (carcinoma de células de Merkel)
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq#_46
+
+Resource: Autoexamen de piel
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000711.htm
+
+Resource: Biopsia de lesión de piel
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003840.htm
+
+Resource: Carcinoma de células basales
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000824.htm
+
+Resource: Cirugía de Mohs
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007634.htm
+
+Resource: Crioterapia para tratar el cáncer
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/cirugia/crioterapia
+
+Resource: Cualquier persona puede padecer cáncer de piel
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/cualquiera-padecer-cancer-piel
+
+Resource: Cáncer de la piel: Tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-piel-pdq
+
+Resource: Cáncer de piel
+Category: Comience aquí, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/skin-cancer/es/about/index.html
+
+Resource: Cáncer de piel de células basales y de células escamosas
+Category: Asuntos específicos, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-piel-de-celulas-basales-y-escamosas.html
+
+Resource: Cáncer de piel escamocelular
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000829.htm
+
+Resource: Cómo reducir el riesgo de cáncer de piel
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/skin-cancer/es/prevention/
+
+Resource: Cómo se ve el cáncer de piel
+Category: Spanish/Español, Asuntos relacionados
+Organization: Academia Estadounidense de Dermatología
+URL: https://www.aad.org/public/diseases/skin-cancer/espanol/types?NoAds
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Detección del cáncer de piel: Consejos del Instituto Nacional del Cáncer
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/deteccion-del-cancer-de-piel-consejos-del-instituto-nacional-del-cancer
+
+Resource: Diagnóstico de cáncer de piel destaca la importancia de exámenes anuales
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/diagnostico-de-cancer-de-piel-destaca-la-importancia-de-examenes-anuales
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del carcinoma de células de Merkel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq#_22
+
+Resource: Estadios del cáncer de piel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-piel-pdq#_29
+
+Resource: Estadísticas del melanoma cutáneo
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/skin-cancer/es/statistics/index.html
+
+Resource: Examen de cáncer de piel
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-cancer-de-piel/
+
+Resource: Exámenes de detección del cáncer de piel (PDQ)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/deteccion-piel-pdq
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Información general sobre el carcinoma de células de Merkel
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-celulas-de-merkel-pdq
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Pasos a tomar para protegerse del sol
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Agencia de Protección Ambiental
+URL: https://espanol.epa.gov/espanol/pasos-tomar-para-protegerse-del-sol
+
+Resource: Prevención del cáncer de piel
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/prevencion-piel-pdq#section/all
+
+Resource: Prevención del cáncer empieza en la niñez
+Category: Spanish/Español, Niños/as
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cancer/es/features/cancer-prevention-starts-in-childhood.html
+
+Resource: Pruebas para los cánceres de piel de células basales y de células escamosas
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-piel-de-celulas-basales-y-escamosas/deteccion-diagnostico-clasificacion-por-etapas/como-se-diagnostica.html
+
+Resource: Queratosis actínica
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000827.htm
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Riesgos de los exámenes de detección del cáncer de piel
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/deteccion-piel-pdq#section/_32
+
+Resource: Síndrome del carcinoma basocelular congénito
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001452.htm
+
+Resource: Tome medidas para prevenir el cáncer de piel
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Oficina de Prevención de Enfermedades y Promoción de la Salud
+URL: https://odphp.health.gov/espanol/myhealthfinder/problemas-salud/cancer/tome-medidas-prevenir-cancer-piel
+
+Resource: Tratamiento de la queratosis actínica
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-piel-pdq#_100
+
+Resource: Tratamiento del carcinoma de células basales y el carcinoma de células escamosas de piel infantil
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/piel/paciente/tratamiento-piel-infantil-pdq
+
+Resource: Vida después del tratamiento del cáncer de piel de células basales o de células escamosas
+Category: Viviendo con..., Spanish/Español
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-piel-de-celulas-basales-y-escamosas/despues-del-tratamiento/cuidado-de-seguimiento.html
+
+Resource: ¿Protector solar en invierno?
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/protector-solar-en-invierno
+
+Resource: ¿Qué avances hay en las investigaciones sobre los cánceres de piel de células basales y de células escamosas?
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/tipos/cancer-de-piel-de-celulas-basales-y-escamosas/acerca/nuevas-investigaciones.html

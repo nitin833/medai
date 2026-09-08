@@ -1,0 +1,226 @@
+Title: Malnutrition
+
+Summary:
+What is malnutrition?
+Malnutrition means that your body isn't getting enough calories or the right balance of
+nutrients
+to stay healthy. This can happen if you don't get enough
+protein
+,
+carbohydrates
+, and
+fats
+, eat too much unhealthy food, or don't get the
+vitamins
+and
+minerals
+your body needs.
+Malnutrition can affect people of all ages, but children, older adults, and people with chronic (long-term) health problems have a higher risk.
+What are the types of malnutrition?
+Most people think of undernutrition with malnutrition. But malnutrition can refer to undernutrition, overnutrition, or an imbalance of nutrients.
+Types of malnutrition include:
+Protein-energy undernutrition
+, also called macronutrient undernutrition, happens when your body doesn't get enough protein or calories from food. Two serious forms of this are kwashiorkor and marasmus.
+An imbalanced nutritional status
+occurs when you are not getting the right mix of nutrients. You may get enough calories, but not enough vitamins or minerals.
+Vitamin deficiency diseases
+happen when your body doesn't get enough of certain vitamins. Without the right vitamins, your body cannot stay healthy and may develop specific diseases. For example, scurvy can develop from too little
+vitamin C
+,
+rickets
+from too little
+vitamin D
+, and
+anemia
+from too little
+iron
+or vitamin
+B12
+.
+Failure to thrive
+occurs when children don't gain weight or
+grow as expected
+. This may be due to not getting enough food, trouble
+absorbing nutrients
+, or other health problems.
+Overnutrition
+can occur when your body gets too many calories or nutrients. This may lead to
+obesity
+or other health issues.
+What causes malnutrition?
+Malnutrition may occur for many reasons, including:
+An unbalanced diet that lacks variety or specific nutrients.
+Some medical issues, which could include malabsorption syndromes,
+dementia
+,
+eating disorders
+,
+depression
+,
+alcohol use disorder (AUD)
+, or
+cancer
+.
+Problems with swallowing, digestion, or dental issues.
+Certain medicines that affect how food tastes and smells.
+Not being able to get food or cook due to things such as chronic illness, mobility issues, or low income.
+Who is at risk for developing malnutrition?
+Malnutrition can affect anyone, but some people have a higher risk than others. This includes people who:
+Don't have enough knowledge about nutrition
+Don't have access to a variety of food
+Are
+older adults
+or children
+Have a low income
+Have a chronic (long-term) illness
+What are the symptoms of malnutrition?
+The symptoms of malnutrition can vary. You may have no symptoms, but if you do, they may include:
+Fatigue
+and weakness
+Dizziness
+Losing weight without trying
+Low
+body weight
+Slow growth or development in children
+Frequent infections or slow healing
+Dry skin or brittle hair and nails
+Swelling in the legs, feet, or belly
+How is malnutrition diagnosed?
+To check for malnutrition, your provider may:
+Do a nutritional screening
+, which may include questions about weight loss, changes in your appetite, and your ability to eat.
+Do a physical exam and order blood tests
+to check for signs that you don't have enough nutrients.
+Refer you to other providers
+that specialize in nutrition, such as a dietician.
+What are the treatments for malnutrition?
+Treatment for malnutrition may include improving your diet, replacing missing nutrients, and treating the underlying cause.
+Can malnutrition be prevented?
+To help prevent malnutrition, eat a healthy diet with many different foods. Talk with your provider if you are worried about your diet, weight loss, or your child's growth.
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Malnutrition
+
+Related Resources:
+
+Resource: 10 Ways Malnutrition Can Impact Your Health--and 6 Steps to Prevent It
+Category: Prevention and Risk Factors
+Organization: National Council on Aging
+URL: https://www.ncoa.org/article/10-ways-malnutrition-can-impact-your-health-and-6-steps-to-prevent-it/
+
+Resource: Albumin Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/albumin-blood-test/
+
+Resource: Beriberi
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000339.htm
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chymotrypsin in Stool
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chymotrypsin-in-stool/
+
+Resource: ClinicalTrials.gov: Malnutrition
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Malnutrition%22&aggFilters=status:not%20rec
+
+Resource: Failure to Thrive
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/failure-thrive.html
+
+Resource: How an RDN Can Help with Malnutrition
+Category: Treatments and Therapies
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/health-conditions/malnutrition-and-deficiencies/how-an-rdn-can-help-with-malnutrition
+
+Resource: How to Spot and Talk about Symptoms That Could Mean You're Malnourished
+Category: Symptoms
+Organization: American Society for Parenteral & Enteral Nutrition
+URL: https://nutritioncare.org/wp-content/uploads/2024/12/How-to-Spot-and-Talk-About-Symptoms-That-Could-Mean-Youre-Malnourished.pdf
+
+Resource: Is Your Body Trying to Tell You Something? Common Nutrient Inadequacies and Deficiencies
+Category: Specifics
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/health-conditions/malnutrition-and-deficiencies/is-your-body-trying-to-tell-you-something-common-nutrient-inadequacies-and-deficiencies
+
+Resource: Kwashiorkor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001604.htm
+
+Resource: Malnutrition
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000404.htm
+
+Resource: Pellagra
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000342.htm
+
+Resource: Phosphorus blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003478.htm
+
+Resource: Pica
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001538.htm
+
+Resource: Prealbumin Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/prealbumin-blood-test/
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Malnutrition
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Malnutrition%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Scurvy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000355.htm
+
+Resource: Undernutrition
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/disorders-of-nutrition/undernutrition/undernutrition
+
+Resource: Vitamin B12-Deficiency Anemia
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia
+
+Resource: Vitamin Deficiency Anemia
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/vitamin-deficiency-anemia/symptoms-causes/syc-20355025?p=1
+
+Resource: Weight Changes, Malnutrition, and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss
+
+Resource: What Is Malnutrition?
+Category: Start Here
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/health-conditions/malnutrition-and-deficiencies/what-is-malnutrition

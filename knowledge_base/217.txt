@@ -1,0 +1,261 @@
+Title: Down Syndrome
+
+Also Called:
+- Trisomy 21
+
+Summary:
+What is Down syndrome?
+Down syndrome is a condition in which a person has an extra chromosome or an extra piece of a chromosome. This extra copy changes how a baby's body and brain develop. It can cause both mental and physical challenges during their lifetime. Even though people with Down syndrome might act and look similar, each person has different abilities.
+What causes Down syndrome?
+Chromosomes
+are tiny "packages" in your cells that contain your genes. Genes carry information, called DNA, that controls what you look like and how your body works. People with Down syndrome have an extra copy of chromosome 21.  In some cases, they may have an extra copy of part of the chromosome. Having an extra copy of a chromosome is called trisomy. So sometimes Down syndrome is also called trisomy 21.
+Down syndrome is usually not inherited. It happens by chance, as an error when cells are dividing during early
+development of the fetus
+. It is not known for sure why Down syndrome occurs or how many different factors play a role.
+One factor that increases the risk of having a baby with Down syndrome is the age of the mother. Women ages 35 and older are more likely to have a baby with Down syndrome.
+What are the symptoms of Down syndrome?
+The symptoms of Down syndrome are different in each person. And people with Down syndrome may have different problems at different times of their lives. They usually have mild to moderate intellectual disabilities. Their
+development is often delayed
+. For example, they may
+start talking later
+than other children.
+Some of the common physical signs of Down syndrome include:
+A flat face
+Eyes that slant up
+A short neck
+Small hands and feet
+Poor muscle tone
+Loose joints
+What other problems does Down syndrome cause?
+Many people with Down syndrome have the common physical signs and have healthy lives. But some people with Down syndrome might have one or more birth defects or other health problems. Some of the more common ones include:
+Hearing loss
+Sleep apnea
+(a disorder that causes you to repeatedly stop breathing during sleep)
+Ear infections
+Eye diseases
+Congenital heart defects
+(heart defects that are present at birth)
+Digestive problems
+Problems with the upper part of the spine
+Obesity
+How is Down syndrome diagnosed?
+Health care providers can check for Down syndrome during pregnancy or after a child is born.
+There are two basic types of
+tests that help find Down syndrome during pregnancy
+:
+Prenatal screening tests
+can show whether your unborn baby has a higher or lower chance of having Down syndrome. If a screening test shows that your baby could have Down syndrome, you'll need another test to find out for sure.
+Prenatal diagnostic tests
+can diagnose or rule out Down syndrome by checking the chromosomes in a sample of cells. These tests have a small risk of causing a miscarriage, so they're often done after a screening test shows that an unborn baby could have Down syndrome.
+After a baby is born, the provider may make an initial diagnosis of Down syndrome based on the physical signs of the syndrome. The provider can use a
+karyotype genetic test
+to confirm the diagnosis. The test can check for extra chromosomes in a sample of the baby's blood.
+What are the treatments for Down syndrome?
+There is no single, standard treatment for Down syndrome. Treatments are based on each person's physical and intellectual needs, strengths, and limitations.
+Services early in life focus on helping children with Down syndrome develop to their full potential. These services include speech, occupational, and physical therapies. They are typically offered through early intervention programs in each state. Children with Down syndrome may also need extra help or attention in school, although many children are included in regular classes.
+Since people with Down syndrome can have birth defects and other health problems, they will need regular medical care. They may need to have certain extra
+health screenings
+to check for problems that happen more often in people with Down syndrome.
+Centers for Disease Control and Prevention
+
+Groups:
+- Genetics/Birth Defects
+
+MeSH Headings:
+- Down Syndrome
+
+Related Resources:
+
+Resource: About Down Syndrome
+Category: Genetics
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/Genetic-Disorders/Down-Syndrome
+
+Resource: About Down Syndrome
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo
+
+Resource: About Down Syndrome
+Category: Start Here
+Organization: National Down Syndrome Society
+URL: https://ndss.org/about
+
+Resource: ADHD and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/adhd-down-syndrome
+
+Resource: Alpha-Fetoprotein (AFP) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/alpha-fetoprotein-afp-test/
+
+Resource: Alzheimer's Disease in People with Down Syndrome
+Category: Related Issues
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/alzheimers-disease-people-down-syndrome
+
+Resource: Blood Diseases and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/blood-diseases-syndrome
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Down Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Down+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Dentistry and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/dentistry-down-syndrome
+
+Resource: Down Syndrome
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/birth-defects/about/down-syndrome.html
+
+Resource: Down syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000997.htm
+
+Resource: Down Syndrome (For Kids)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/down-syndrome.html
+
+Resource: Down Syndrome (For Parents)
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/down-syndrome.html
+
+Resource: Down Syndrome Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/down-syndrome-tests/
+
+Resource: Down Syndrome: Eye Problems
+Category: Related Issues
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/down-syndrome
+
+Resource: Down syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/down-syndrome
+
+Resource: DS-Connect: The Down Syndrome Registry
+Category: Statistics and Research
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://ds-connect.org/
+
+Resource: Dual Diagnosis of Down Syndrome and Autism
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/dual-diagnosis-syndrome-autism
+
+Resource: Duodenal atresia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001131.htm
+
+Resource: Ear, Nose, and Throat (ENT) and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/ear-nose-throat-ent-down-syndrome
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Gastrointestinal System and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/gastrointestinal-tract-syndrome
+
+Resource: How Do Health Care Providers Diagnose Down Syndrome?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/diagnosis
+
+Resource: Karyotyping
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003935.htm
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Mental Health and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/mental-health-down-syndrome
+
+Resource: National Down Syndrome Society
+Category: Find an Expert
+Organization: National Down Syndrome Society
+URL: https://ndss.org/
+
+Resource: Nuchal translucency test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007561.htm
+
+Resource: Down Syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Down+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Q&A for Kids
+Category: Children
+Organization: National Down Syndrome Society
+URL: https://ndss.org/qa-kids
+
+Resource: Sleep and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/sleep-down-syndrome
+
+Resource: Surgery and Down Syndrome
+Category: Related Issues
+Organization: National Down Syndrome Society
+URL: https://ndss.org/resources/surgery-down-syndrome
+
+Resource: Welcome to the Down Syndrome Consortium
+Category: Statistics and Research
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://downsyndrome.nih.gov/
+
+Resource: What Are Common Treatments for Down Syndrome?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/treatments
+
+Resource: What Are the Symptoms of Down Syndrome?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/symptoms
+
+Resource: What Causes Down Syndrome?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/causes
+
+Resource: What Conditions or Disorders Are Commonly Associated with Down Syndrome?
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/associated
+
+Resource: Who Is at Risk for Down Syndrome?
+Category: Statistics and Research
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/down/conditioninfo/Risks

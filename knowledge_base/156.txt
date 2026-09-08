@@ -1,0 +1,129 @@
+Title: Back Injuries
+
+Summary:
+Your back is made of bones, muscles, and other tissues extending from your neck to your pelvis. Back injuries can result from sports injuries, work around the house or in the garden, or a sudden jolt such as a car accident. The lower back is the most common site of back injuries and
+back pain
+. Common back injuries include :
+Sprains and strains
+Herniated disks
+Fractured
+(broken) vertebrae
+These injuries can cause pain and limit your movement. Treatments vary but might include medicines, icing, bed rest, physical therapy, or surgery. You might be able to prevent some back injuries by maintaining a healthy weight, lifting objects with your legs, and using lower-back support when you sit.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Back Injuries
+
+Related Resources:
+
+Resource: Back pain - returning to work
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000517.htm
+
+Resource: Back pain and sports
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000519.htm
+
+Resource: Back Surgery: When Is It a Good Idea?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/back-surgery/art-20048274?p=1
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: ClinicalTrials.gov: Back Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Back+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Compression fractures of the back
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000443.htm
+
+Resource: CT Scan of the Spine
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinect
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Find a Physical Therapist Near You
+Category: Find an Expert
+Organization: American Physical Therapy Association
+URL: https://www.choosept.com/find-a-pt
+
+Resource: Fractures of the Thoracic and Lumbar Spine
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/fractures-of-the-thoracic-and-lumbar-spine/
+
+Resource: Lifting and bending the right way
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000414.htm
+
+Resource: Lumbosacral spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003807.htm
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Office Ergonomics: Your How-To Guide
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/office-ergonomics/art-20046169?p=1
+
+Resource: Prevention: Strengthening
+Category: Videos and Tutorials
+Organization: North American Spine Society
+URL: https://www.spine.org/KnowYourBack/Prevention/Exercise/Strengthening
+
+Resource: Back Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Back+Injuries%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Returning to sports after a back injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000518.htm
+
+Resource: Spinal fusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002968.htm
+
+Resource: Spinal fusion - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100121_1.htm
+
+Resource: Spine MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinemr
+
+Resource: Spine Rehabilitation Exercises
+Category: Living With
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/recovery/spine-conditioning-program/spine-conditioning-program-pdf/
+
+Resource: Vertebroplasty - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100204_1.htm

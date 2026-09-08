@@ -1,0 +1,371 @@
+Title: Cervical Cancer
+
+Summary:
+What is cervical cancer?
+Cervical cancer is
+cancer
+that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal).
+Cervical cancer usually develops slowly. Before cervical cells become cancer, they start to look abnormal. These cells are called "precancers." If they aren't destroyed or removed, they may become cancer cells that grow out of control and spread to other parts of your body.
+Screening tests for cervical cancer
+can help find abnormal cells so you can get treatment to prevent cervical cancer. These tests can also find cervical cancer early when it's usually easier to treat.
+What causes cervical cancer?
+Almost all cervical cancers are caused by a long-lasting infection with a virus called
+human papillomavirus (HPV)
+. There are many types of HPV. The types that cause cancer are called "high-risk HPV." High-risk HPV is very common. It can be passed from one person to another through close skin-to-skin touching, usually during vaginal, anal, or oral sex. Most people who are infected have no symptoms and don't know they have it.
+If you're infected with high-risk HPV, usually your immune system will get rid of it within a year or two. But if your immune system can't control the infection, it may last for many years. Over time, HPV can turn normal cervical cells into abnormal cells. Without treatment, these cells may keep changing until they become cervical cancer.
+Who is more likely to develop cervical cancer?
+Cervical cancer is most common in people over age 30. If you have a high-risk HPV infection in your cervix, you're more likely to develop cervical cancer if you:
+Have a weakened
+immune system
+because you:
+Have a disease that harms your immune system, such as
+HIV
+.
+Take medicine to control your immune system, such as certain medicines to treat cancer or
+autoimmune diseases
+Smoke
+tobacco or breathe
+secondhand smoke
+.
+Use
+birth control
+pills or have given birth to many children.
+Have
+obesity
+.
+Were exposed to a medicine called DES (diethylstilbestrol) before you were born. Between 1940-1971, DES was sometimes prescribed during
+pregnancy
+to prevent
+miscarriages
+. DES was later linked to health problems, including cervical cancer.
+What are the symptoms of cervical cancer?
+Cervical cancer usually doesn't cause symptoms when it first starts to grow. But when it does cause symptoms, they may include:
+Vaginal bleeding
+that's not normal for you, such as bleeding after sex or between
+menstrual periods
+Vaginal discharge (fluid) that's watery and has a strong odor or contains blood
+Pelvic pain
+or pain during sex
+If cervical cancer spreads to other parts of your body, symptoms may include:
+Unusual vaginal bleeding or discharge
+Pelvic pain or pain during sex
+Difficult or painful bowel movements (poops) or bleeding from the rectum when having a bowel movement
+Difficult or painful urination (peeing) or blood in your urine (pee)
+Dull backache
+Swollen
+legs
+Abdominal (belly) pain
+Fatigue
+How is cervical cancer diagnosed?
+If you have symptoms or had an abnormal result on a screening test for cervical cancer, your health care provider will do more tests to find out if you have cervical cancer. They will:
+Ask about your medical history and your
+family health history
+Do a
+pelvic exam
+Suggest tests to diagnose or rule out cervical cancer, including:
+Colposcopy
+, a procedure using a device called a colposcope, which helps your provider examine your cervix for abnormal areas
+Cervical
+biopsy
+, a procedure to remove a tissue sample from your cervix so that it can be examined under a microscope to look for signs of cancer. Most biopsies can be done in your provider's office
+What are the treatments for cervical cancer?
+Different treatments are available for cervical cancer. The best treatment for you depends on your health, how much cancer you have, whether it has spread, and which treatment you prefer. You may have more than one treatment, including:
+Surgery
+to remove the cancer.
+Radiation therapy
+, which uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. The therapy may use radiation from a machine, or a radioactive substance may be placed in your body near the cancer.
+Chemotherapy
+(chemo), which uses special medicines to shrink or kill the cancer. The medicine may be pills, or it may be given through a vein (by IV). Sometimes, both types of chemo are used.
+Targeted therapy
+, which uses special medicines to block the growth and spread of cancer cells.
+Immunotherapy
+, which helps your immune system fight cancer cells.
+Can cervical cancer be prevented?
+Almost all cervical cancer can be prevented by:
+HPV
+vaccination
+.
+HPV vaccines provide the most protection if you get them before you're exposed to HPV. So, it's best to get vaccinated before you become sexually active.  Medical experts recommend vaccinating children between ages 9 and 12.
+Routine cervical cancer screening.
+Two types of screening tests may be part of your routine health checkup. Both tests use a sample of cervical cells that your provider collects with a swab:
+A
+Pap smear
+checks for abnormal cells so they can be treated before they become cancer
+An
+HPV test
+checks for high-risk HPV infections that can cause cancer.
+Getting the right follow-up treatment
+if a screening test finds abnormal cells and/or high-risk HPV.
+You can lower your risk for cervical cancer by not smoking. Using condoms correctly during sex lowers your risk of getting an HPV infection, but doesn't prevent it completely.  Condom use has been linked to fewer cases of cervical cancer. If you or your partner is allergic to latex, you can use polyurethane condoms.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Women
+- Female Reproductive System
+
+MeSH Headings:
+- Uterine Cervical Neoplasms
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Brachytherapy to Treat Cancer
+Category: NON-DISPLAY (Patient Handout)
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/radiation-therapy/brachytherapy
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Cervical cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000893.htm
+
+Resource: Cervical cancer - screening and prevention
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000419.htm
+
+Resource: Cervical Cancer Basics
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cervical-cancer/about/
+
+Resource: Cervical Cancer Causes, Risk Factors, and Prevention
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/causes-risk-prevention
+
+Resource: Cervical Cancer Diagnosis
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/diagnosis
+
+Resource: Cervical Cancer Prognosis and Survival Rates
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/survival
+
+Resource: Cervical Cancer Screening: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/cervicalcancerscreening.html
+
+Resource: Cervical Cancer Stages
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/stages
+
+Resource: Cervical Cancer Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cervical-cancer/statistics/index.html
+
+Resource: Cervical Cancer Survivor Urges Young People to Get HPV Vaccine
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/cervical-cancer-survivor-urges-young-people-to-get-hpv-vaccine
+
+Resource: Cervical Cancer Symptoms
+Category: Symptoms
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/symptoms
+
+Resource: Cervical Cancer Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/treatment
+
+Resource: Cervical Cancer Treatment by Stage
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/treatment/by-stage
+
+Resource: Cervical Cancer Treatment during Pregnancy
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/treatment/cancer-treatment-during-pregnancy
+
+Resource: Cervical dysplasia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001491.htm
+
+Resource: Cervical dysplasia - series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100080_1.htm
+
+Resource: Cervical Dysplasia: Is It Cancer?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cervical-cancer/expert-answers/cervical-dysplasia/faq-20058142?p=1
+
+Resource: Cervix cryosurgery
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002917.htm
+
+Resource: Childhood Cervical and Vaginal Cancers
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/childhood-cervical-vaginal-cancer
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Uterine Cervical Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Uterine+Cervical+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Colposcopy - directed biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003913.htm
+
+Resource: Cone biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003910.htm
+
+Resource: Coping with Cervical Cancer
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/coping
+
+Resource: Cryosurgery to Treat Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/surgery/cryosurgery
+
+Resource: Diethylstilbestrol (DES) Exposure and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/des-fact-sheet
+
+Resource: Drugs Approved for Cervical Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/cervical
+
+Resource: Find a Screening Program Near You
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breast-cervical-cancer-screening/about/screenings.html
+
+Resource: How Fashion Designer Liz Lange Beat Cervical Cancer
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/how-fashion-designer-liz-lange-beat-cervical-cancer
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: HPV and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer
+
+Resource: HPV and Cervical Cancer: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/hpv-and-cervical-cancer-what-you-need-to-know
+
+Resource: HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical/screening/abnormal-hpv-pap-test-results
+
+Resource: Human Papillomavirus (HPV) Vaccines
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet
+
+Resource: Key Statistics for Cervical Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/cervical-cancer/about/key-statistics.html
+
+Resource: Loop Electrosurgical Excision Procedure (LEEP)
+Category: Diagnosis and Tests
+Organization: Johns Hopkins Medicine
+URL: https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/loop-electrosurgical-excision-procedure-leep
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Oral Contraceptives and Cancer Risk
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet
+
+Resource: Pelvic CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: Pelvic radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000059.htm
+
+Resource: Pelvis MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007355.htm
+
+Resource: Cervical Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Uterine+Cervical+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Risk Factors for Cervical Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/cervical-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Surgery for Cervical Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/cervical-cancer/treating/surgery.html
+
+Resource: Tests for Cervical Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/cervical-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: What Is Cervical Cancer?
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cervical
+
+Resource: What's New in Cervical Cancer Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/cervical-cancer/about/new-research.html

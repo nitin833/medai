@@ -1,0 +1,195 @@
+Title: Mareo y vértigo
+
+Summary:
+Cuando se siente mareado, puede sentirse aturdido, confundido o desorientado. Si siente que la habitación está girando, tiene vértigo. Ambas sensaciones pueden hacerle perder el
+equilibrio
+.
+El mareo puede tener muchas causas diferentes. Una caída brusca de la
+presión arterial
+o estar
+deshidratado
+puede hacer que se sienta mareado. Muchas personas se sienten mareadas si se levantan demasiado rápido cuando están sentadas o acostadas. Las medicinas pueden causar mareos o problemas en el
+oído
+. La
+cinetosis
+también puede provocar mareos. A veces, el mareo puede ser un síntoma de otras enfermedades.
+A medida que las personas envejecen, pueden tener más problemas de salud y tomar más medicamentos. Esto los hace más propensos a tener problemas de mareos y o del equilibrio.
+Por lo general, los mareos se mejoran por sí mismos o se tratan fácilmente. Si siente mareos con frecuencia, debe consultar a su médico para conocer la causa.
+NIH: Institutos Nacionales de la Salud
+
+Groups:
+- Cerebro y nervios
+- Oído, nariz y garganta
+- Síntomas
+
+Related Resources:
+
+Resource: Alimentos detonadores de una migraña
+Category: Viviendo con..., Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/migraine_diet_triggers_spanish.pdf
+
+Resource: Atención postratamiento para el mareo y el vértigo
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000692.htm
+
+Resource: Atención postratamiento para el vértigo postural benigno
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000745.htm
+
+Resource: Atención postratamiento para la laberintitis
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000716.htm
+
+Resource: Dehiscencia del canal superior
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/superior_canal_dehisence_spanish.pdf
+
+Resource: Después de reposicionar por BPPV: Vértico posicional paroxístico benigno
+Category: Viviendo con..., Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/after_bppv_repositioning_spanish.pdf
+
+Resource: Electronistagmografía
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003448.htm
+
+Resource: Envejecer y el mareo
+Category: Personas mayores, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/aging_and_dizziness_spanish.pdf
+
+Resource: Estimulación calórica
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003429.htm
+
+Resource: Hipofunción bilateral del aparato vestibular
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/bilateral_vestibular_loss_or_hypofunction_spanish.pdf
+
+Resource: Implantes cocleares y trastornos vestibulares
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/cochlear_implants_spanish.pdf
+
+Resource: Laberintitis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001054.htm
+
+Resource: Laberintitis
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/labyrinthitis_spanish.pdf
+
+Resource: Maniobra de Epley
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007662.htm
+
+Resource: Maniobra de reposicionamiento canalicular
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/canalith-repositioning-procedure/about/pac-20393315?p=1
+
+Resource: Mareo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003093.htm
+
+Resource: Mareo asociado a la migraña
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/migraine_associated_dizziness_spanish.pdf
+
+Resource: Mareo cervicogénico
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/cervicogenic_dizziness_spanish.pdf
+
+Resource: Mareo por ansiedad
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/anxiety_dizziness_spanish.pdf
+
+Resource: Mareo y caídas
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/dizziness-and-falls-spanish.pdf
+
+Resource: Mareos
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dizziness/symptoms-causes/syc-20371787?p=1
+
+Resource: Mareos y problemas de equilibrio en los niños
+Category: Spanish/Español, Niños/as
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/mareos-y-problemas-de-equilibrio-en-los-ninos
+
+Resource: Mareos: Diagnóstico y tratamientos
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/dizziness/diagnosis-treatment/drc-20371792?p=1
+
+Resource: Otosclerosis
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Sordera y otros Trastornos de la Comunicación
+URL: https://www.nidcd.nih.gov/es/espanol/otosclerosis
+
+Resource: Pruebas comunes de funcionamiento vestibular
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/common_vestibular_function_tests_spanish.pdf
+
+Resource: Pruebas del equilibrio
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/pruebas-del-equilibrio/
+
+Resource: Sobrellevar los mareos: Obtener ayuda para un trastorno del equilibrio
+Category: Viviendo con..., Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/sobrellevar-los-mareos
+
+Resource: Trastornos asociados con el vértigo
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001432.htm
+
+Resource: Trastornos del equilibrio
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/balance-disorders.html
+
+Resource: Traumatismo y problemas del oído interno
+Category: Spanish/Español, Asuntos relacionados
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/trauma_and_inner_ear_problems_spanish.pdf
+
+Resource: Videonistagmografía (VNG)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/videonistagmografia-vng/
+
+Resource: Vértigo posicional paroxístico benigno ¿Por qué yo?
+Category: Asuntos específicos, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/benign_paroxysmal_positional_vertigo_why_me_spanish.pdf
+
+Resource: Vértigo postural benigno
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001420.htm
+
+Resource: ¿Qué es el vértigo?
+Category: Comience aquí, Spanish/Español
+Organization: Asociación Americana de Fisioterapia
+URL: https://www.neuropt.org/docs/default-source/vestibular-sig/vsig-spanish-pt-fact-sheets/what_is_vertigo_spanish.pdf

@@ -1,0 +1,102 @@
+Title: Tubal Ligation
+
+Summary:
+Tubal ligation (getting your "tubes tied") is a type of surgery. It prevents a woman from getting pregnant. It is a permanent form of
+birth control
+, and is effective right away.
+The surgery cuts, ties, or seals the fallopian tubes. This blocks the path between the ovaries and the uterus. The sperm cannot reach the egg to fertilize it, and the egg cannot reach the uterus. You get the surgery in a hospital or outpatient surgical center. It usually takes about 30 minutes. Almost all women go home the same day. They can return to most normal activities within a few days.
+Tubal ligation can sometimes be reversed. The reversal is major surgery, and does not always work.
+
+Groups:
+- Women
+- Pregnancy and Reproduction
+- Female Reproductive System
+
+MeSH Headings:
+- Sterilization, Tubal
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Reproductive Sterilization
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22Sterilization,+Reproductive%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Sterilization, Tubal
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Sterilization,+Tubal%22&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Female Sterilization (Tubal Ligation)
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/tubal-ligation/
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: Hysteroscopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/hysteroscopy/
+
+Resource: Hysteroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007571.htm
+
+Resource: Laparoscopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/laparoscopy/
+
+Resource: Tubal Ligation
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Sterilization%2C+Tubal%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sterilization by Laparoscopy
+Category: Start Here
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/faqs/sterilization-by-laparoscopy
+
+Resource: Sterilization surgery - making a decision
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002138.htm
+
+Resource: Tubal Ligation
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/tubal-ligation/about/pac-20388360?p=1
+
+Resource: Tubal ligation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002913.htm
+
+Resource: Tubal ligation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000288.htm
+
+Resource: Tubal ligation - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100044_1.htm
+
+Resource: Tubal ligation reversal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007651.htm

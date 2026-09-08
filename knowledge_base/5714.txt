@@ -1,0 +1,123 @@
+Title: Pneumococcal Infections
+
+Also Called:
+- Streptococcus pneumoniae infections
+
+Summary:
+Pneumococci are a type of
+streptococcus
+bacteria. The bacteria spread through contact with people who are ill or by healthy people who carry the bacteria in the back of their nose. Pneumococcal infections can be mild or severe. The most common types of infections are:
+Ear infections
+Sinus infections
+Pneumonia
+Sepsis
+Meningitis
+How the diagnosis is made depends upon where the infection is. Your doctor will do a physical exam and ask about your medical history.  Possible tests may include blood, imaging, or lab tests. Treatment is with antibiotics. Vaccines can prevent pneumococcal infections. There are two vaccines. One is for infants and young children.  The other is for people at high risk, including those who are over 65 years old, have chronic illnesses or weak immune systems, smoke, have asthma, or live in long-term care facilities.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Pneumococcal Infections
+
+Related Resources:
+
+Resource: About Pneumococcal Disease
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pneumococcal/about/
+
+Resource: Antibiotics: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/antibiotics.html
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chest x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: ClinicalTrials.gov: Pneumococcal Infections
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pneumococcal+Infections%22&aggFilters=status:not%20rec
+
+Resource: National Foundation for Infectious Diseases
+Category: Find an Expert
+Organization: National Foundation for Infectious Diseases
+URL: https://www.nfid.org/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Pneumococcal Conjugate Vaccine: What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/pcv.pdf
+
+Resource: Pneumococcal Disease Surveillance and Trends
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pneumococcal/php/surveillance/
+
+Resource: Pneumococcal Disease Symptoms and Complications
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pneumococcal/signs-symptoms/
+
+Resource: Pneumococcal Disease Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pneumococcal-disease-tests/
+
+Resource: Pneumococcal Disease: Causes and How It Spreads
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pneumococcal/causes/
+
+Resource: Pneumococcal meningitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000607.htm
+
+Resource: Pneumococcal Polysaccharide Vaccine (PPSV23): What You Need to Know
+Category: Patient Handouts, Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/ppv.pdf
+
+Resource: Pneumococcal Vaccination
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/pneumococcal/vaccines/
+
+Resource: Pneumococcal Infections
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pneumococcal+Infections%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sputum Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003765.htm
+
+Resource: Tests for Lung Disease
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/lung-tests
+
+Resource: Your Child's Vaccines: Pneumococcal Vaccines (PCV, PPSV)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pneumococcal-vaccine.html

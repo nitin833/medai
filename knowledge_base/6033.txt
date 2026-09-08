@@ -1,0 +1,83 @@
+Title: Bad Breath
+
+Also Called:
+- Halitosis
+
+Summary:
+There are many reasons why you might have bad breath.  You can get it if you don't brush and floss regularly. Bacteria that build up in your mouth and between your teeth produce the bad odor. Other problems in your mouth, such as
+gum disease
+,
+dry mouth
+, or
+cavities
+, may also cause it.
+Sinusitis
+or problems with your nose may be to blame. You can also have bad breath if you eat some foods, like raw onions, garlic, or cabbage. And of course
+smoking
+causes its own bad smell. Some diseases and medicines can cause a specific breath odor.
+Having good
+dental habits
+, like brushing and flossing regularly, help fight bad breath. Mouthwashes, mints or chewing gum may make your breath fresher. If you have a disease that causes the bad breath, treating the disease may help give you fresher breath.
+
+Groups:
+- Mouth and Teeth
+- Symptoms
+
+MeSH Headings:
+- Halitosis
+
+Related Resources:
+
+Resource: Bad Breath
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/bad-breath.html
+
+Resource: Bad Breath
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bad-breath/symptoms-causes/syc-20350922?p=1
+
+Resource: Bad Breath (Halitosis)
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/bad-breath/
+
+Resource: Bad Breath: Diagnosis and Treatment
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bad-breath/diagnosis-treatment/drc-20350925?p=1
+
+Resource: Breath odor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003058.htm
+
+Resource: ClinicalTrials.gov: Halitosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Halitosis%22&aggFilters=status:not%20rec
+
+Resource: Dental care - adult
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001957.htm
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Bad Breath
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Halitosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Smelling Sickness: Body Odor May Be Sign of Disease
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/09/smelling-sickness
+
+Resource: What Causes Bad Breath?
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/halitosis.html

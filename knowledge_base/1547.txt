@@ -1,0 +1,221 @@
+Title: Toddler Health
+
+Summary:
+Most young children get sick. It is hard for parents to know what is serious. You can learn what the common warning signs are. In the end, trust your intuition. If you are worried about your toddler, call your health care provider right away.
+Well-child visits are important to your toddler's health. Toddlers will get their recommended
+vaccines
+during these visits. Routine exams and screenings help you and your kids prevent and treat health problems as well as chart their
+growth and development
+.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Child, Preschool
+
+Related Resources:
+
+Resource: AAP (American Academy of Pediatrics) Schedule of Well-Child Care Visits
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pages/Well-Child-Care-A-Check-Up-for-Success.aspx
+
+Resource: Anemia caused by low iron - infants and toddlers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007618.htm
+
+Resource: Antibiotics Aren't Always the Answer
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/antibiotic-use/media/pdfs/Arent-Always-The-Answer-FS-508.pdf
+
+Resource: Bedtime habits for infants and children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002392.htm
+
+Resource: Chest Pain in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/chest-pain-in-infants-and-children/
+
+Resource: Common Childhood Orthopedic Conditions
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/common-ortho.html
+
+Resource: Coughing (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/childs-cough.html
+
+Resource: Elimination Problems or Constipation in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/elimination-problems-or-constipation-in-infants-and-children/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: FastStats: Child Health
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/child-health.htm
+
+Resource: Febrile Seizures
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/febrile-seizures
+
+Resource: Feeding Problems in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/feeding-problems-in-infants-and-children/
+
+Resource: Fever (High Temperature) In Kids
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/fever.html
+
+Resource: Fever in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/fever-in-infants-and-children/
+
+Resource: Find a Pediatrician or Pediatric Specialist
+Category: Find an Expert
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx
+
+Resource: Getting the Most From a Doctor's Visit
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/talk-doctor.html
+
+Resource: Hearing Tests (For Parents)
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hear.html
+
+Resource: How to Give Your Child Medicine
+Category: Treatments and Therapies
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/how-to-give-your-child-medicine/
+
+Resource: How to Take a Rectal Temperature
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/rectal-temperature.html
+
+Resource: How to Take an Axillary (Armpit) Temperature
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/axillary-temperature.html
+
+Resource: How to Take an Oral Temperature
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/oral-temperature.html
+
+Resource: In-Toeing
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/gait.html
+
+Resource: Infants & Toddlers: Raising Healthy Children
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/parents/infants/healthy-children.html
+
+Resource: Intussusception - children
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000958.htm
+
+Resource: Kids and Sleep (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sleep.html
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Medical Care and Your 1- to 2-Year-Old
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/med12yr.html
+
+Resource: Medical Care and Your 2- to 3-Year-Old
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/medical-care-2-3.html
+
+Resource: Mouth Problems in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/mouth-problems-in-infants-and-children/
+
+Resource: Nausea and Vomiting in Infants and Children
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/nausea-and-vomiting-in-infants-and-children/
+
+Resource: Out-Toeing
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/out-toeing.html
+
+Resource: Toddler Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=Child%2C+Preschool+%5Bmajr%5D+AND+english%5Bla%5D+AND+%22last+5+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Repeated Infections in Children
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/repeated-infections-in-children/
+
+Resource: Taking Your Child's Temperature
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/take-temperature.html
+
+Resource: Toddler Nutrition: MedlinePlus Health Topic
+Category: Related Issues
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/toddlernutrition.html
+
+Resource: Toe Walking
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toe-walking.html
+
+Resource: Treating Vomiting: What to Do When Your Child is Throwing Up
+Category: Treatments and Therapies
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/abdominal/pages/Treating-Vomiting.aspx
+
+Resource: When Your Child's in the Pediatric Intensive Care Unit
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picu.html
+
+Resource: Your baby and the flu
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007444.htm
+
+Resource: Your Child's First Vaccines: What You Need to Know
+Category: Patient Handouts, Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vaccines/hcp/current-vis/downloads/multi.pdf
+
+Resource: Your Child's Vision
+Category: Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/vision.html

@@ -1,0 +1,235 @@
+Title: Paralysis
+
+Also Called:
+- Hemiplegia
+- Palsy
+- Paraplegia
+- Quadriplegia
+
+Summary:
+Paralysis is the loss of muscle function in part of your body. It happens when something goes wrong with the way messages pass between your brain and muscles. Paralysis can be complete or partial. It can occur on one or both sides of your body. It can also occur in just one area, or it can be widespread. Paralysis of the lower half of your body, including both legs, is called paraplegia. Paralysis of the arms and legs is quadriplegia.
+Most paralysis is due to
+strokes
+or injuries such as
+spinal cord injury
+or a broken neck. Other causes of paralysis include:
+Nerve diseases such as
+amyotrophic lateral sclerosis
+Autoimmune diseases such as
+Guillain-Barre syndrome
+Bell's palsy
+, which affects muscles in the face
+Polio
+used to be a cause of paralysis, but polio no longer occurs in the U.S.
+
+Groups:
+- Brain and Nerves
+
+MeSH Headings:
+- Paralysis
+
+Related Resources:
+
+Resource: Alternating hemiplegia of childhood: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alternating-hemiplegia-of-childhood/
+
+Resource: Bedsores (Pressure Ulcers)
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bed-sores/symptoms-causes/syc-20355893?p=1
+
+Resource: Brown-Sequard Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brown-sequard-syndrome
+
+Resource: Causes of Paralysis
+Category: Start Here
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/health/causes-of-paralysis/
+
+Resource: ClinicalTrials.gov: Hemiplegia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hemiplegia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Paralysis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Paralysis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Paraplegia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Paraplegia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Quadriplegia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Quadriplegia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Spinal Cord Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Cord+Injuries%22&aggFilters=status:not%20rec
+
+Resource: Emergency Preparedness for People with Paralysis
+Category: Related Issues
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/get-support/emergencypreparedness/
+
+Resource: Facial paralysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003028.htm
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Find a Rehab Center
+Category: Find an Expert
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/rehabilitation/living-with-paralysis-rehabilitation-find-a-rehab-center/
+
+Resource: Hereditary Spastic Paraplegia
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/hereditary-spastic-paraplegia
+
+Resource: How to Cope with Injury Depression
+Category: Living With
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/newly-paralyzed/how-do-i-deal-with-depression-and-adjustment-to-my-sci/
+
+Resource: Hyperkalemic periodic paralysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000316.htm
+
+Resource: Hyperkalemic periodic paralysis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperkalemic-periodic-paralysis/
+
+Resource: Hypokalemic periodic paralysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000312.htm
+
+Resource: Hypokalemic periodic paralysis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypokalemic-periodic-paralysis/
+
+Resource: Juvenile primary lateral sclerosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/juvenile-primary-lateral-sclerosis/
+
+Resource: Life After Paralysis
+Category: Living With
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/lifestyle/
+
+Resource: Living with Paralysis
+Category: Living With
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/
+
+Resource: Locked-in Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/locked-syndrome
+
+Resource: Muscle function loss
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003190.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Newly Diagnosed: What Do I Do Next? (For Parents)
+Category: Children
+Organization: Children's Hemiplegia and Stroke Association
+URL: https://chasa.org/newly-diagnosed/what-do-i-do-next/
+
+Resource: Newly Paralyzed Support
+Category: Start Here
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/newly-paralyzed/
+
+Resource: Parenting
+Category: Children
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/for-parents/
+
+Resource: Pregnancy and Paralysis
+Category: Women
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/health/sexual-health/pregnancy-and-paralysis/
+
+Resource: Paralysis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Paralysis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Raise Your Voice: Succeeding through Self-Advocacy
+Category: Videos and Tutorials
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/community/about-us/press-releases/raise-your-voice/
+
+Resource: Secondary Conditions
+Category: Related Issues
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/health/secondary-conditions/
+
+Resource: Spastic paraplegia type 2: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-2/
+
+Resource: Spastic paraplegia type 31: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-31/
+
+Resource: Spastic paraplegia type 4: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-4/
+
+Resource: Spastic paraplegia type 7: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spastic-paraplegia-type-7/
+
+Resource: Spinal Cord Injury Prevalence in the U.S.
+Category: Statistics and Research
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/paralysis-help-overview/stats-about-paralysis/
+
+Resource: Spinal Cord Injury Rehabilitation
+Category: Living With
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/rehabilitation/
+
+Resource: Stay Healthy on the Road
+Category: Related Issues
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/lifestyle/how-to-stay-healthy-on-the-road/
+
+Resource: Troyer syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/troyer-syndrome/
+
+Resource: Wheelchairs For Spinal Cord Injuries
+Category: Related Issues
+Organization: Christopher and Dana Reeve Foundation National Paralysis Resource Center
+URL: https://www.christopherreeve.org/todays-care/living-with-paralysis/lifestyle/wheelchairs/

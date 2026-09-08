@@ -1,0 +1,85 @@
+Title: Síndrome de Rett
+
+Summary:
+El síndrome de Rett es una rara enfermedad genética que causa problemas en el desarrollo y en el sistema nervioso, la mayoría en niñas. Se relaciona con el
+trastorno del espectro autista
+. Al principio, las bebés con síndrome de Rett parecen crecer y desarrollarse con normalidad. Sin embargo, entre los tres meses y los tres años detienen su desarrollo e inclusive pueden perder algunas habilidades. Los síntomas incluyen:
+Pérdida del habla
+Pérdida de los movimientos de las manos, tales como agarrar las cosas
+Movimientos compulsivos como retorcerse las manos
+Problemas de equilibrio
+Problemas respiratorios
+Problemas de conducta
+Problemas de aprendizaje o
+discapacidad intelectual
+El síndrome de Rett no tiene cura. Algunos síntomas pueden tratarse con medicinas, cirugía y fisioterapia o terapia del lenguaje. La mayoría de las personas con síndrome de Rett vive hasta la edad madura o más. Suelen necesitar cuidados durante toda su vida.
+NIH: Instituto Nacional de Salud Infantil y Desarrollo Humano
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Cómo enfrentar un trastorno infantil raro
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/como-enfrentar-un-trastorno-infantil-raro
+
+Resource: Espasmos del llanto
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000967.htm
+
+Resource: Síndrome de Rett
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001536.htm
+
+Resource: Síndrome de Rett
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/sindrome-de-rett
+
+Resource: Síndrome de Rett: Diagnóstico y tratamiento
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rett-syndrome/diagnosis-treatment/drc-20377233?p=1
+
+Resource: Síndrome de Rett: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/rett-syndrome/symptoms-causes/syc-20377227?p=1
+
+Resource: Síndrome de Rett: una visión general de este raro trastorno genético
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/sindrome-de-rett-una-vision-general-de-este-raro-trastorno-genetico
+
+Resource: ¿Cuáles son los síntomas del síndrome de Rett?
+Category: Spanish/Español, Síntomas
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/sintomas
+
+Resource: ¿Cuáles son los tipos de síndrome de Rett y sus fases?
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/tipos
+
+Resource: ¿Cuáles son los tratamientos para el síndrome de Rett?
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/tratamientos
+
+Resource: ¿Cuántas personas tienen el síndrome de Rett o corren riesgo de tenerlo?
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/riesgo
+
+Resource: ¿Cómo diagnostican los proveedores de servicios médicos el síndrome de Rett?
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/diagnostica
+
+Resource: ¿Qué causa el síndrome de Rett?
+Category: Spanish/Español, Genética
+Organization: Instituto Nacional de Salud Infantil y Desarrollo Humano
+URL: https://espanol.nichd.nih.gov/salud/temas/rett/informacion/causas

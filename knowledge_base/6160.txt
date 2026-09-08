@@ -1,0 +1,33 @@
+Title: Artritis psoriásica
+
+Summary:
+La
+psoriasis
+es una enfermedad de la piel que causa picazón o parches dolorosos de piel que se ha engrosado y enrojecido con escamas plateadas. Suele aparecer en los hombros, las rodillas, el cuero cabelludo, la espalda, la cara, las palmas de las manos y las plantas de los pies, pero también puede presentarse en otras partes del cuerpo.
+Algunas personas con esta afección desarrollan artritis psoriásica. Esto genera dolor, rigidez e hinchazón en las articulaciones. Generalmente es leve pero a veces puede ser grave y afectar varias articulaciones a la vez. Estos problemas y los de la piel quizás no sucedan al mismo tiempo.
+Su doctor hará un examen físico y de imágenes para diagnosticar la enfermedad. No existe una cura, pero los medicamentos pueden ayudar a controlar la inflamación y el dolor. En raras ocasiones, se puede necesitar cirugía para reparar o reemplazar las articulaciones dañadas.
+
+Groups:
+- Huesos, articulaciones y músculos
+
+Related Resources:
+
+Resource: Artritis psoriásica
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000413.htm
+
+Resource: Artritis psoriásica
+Category: Más información, Spanish/Español
+Organization: Colegio Estadounidense de Reumatología
+URL: https://rheumatology.org/patients/artritis-psoriasica
+
+Resource: Artritis psoriásica: Diagnóstico y tratamiento
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/psoriatic-arthritis/diagnosis-treatment/drc-20354081?p=1
+
+Resource: ¿Qué es la artritis psoriásica?
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional de Artritis y Enfermedades Musculoesqueléticas y de la Piel
+URL: https://www.niams.nih.gov/es/informacion-de-salud/artritis-psoriasica

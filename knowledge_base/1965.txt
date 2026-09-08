@@ -1,0 +1,129 @@
+Title: Hidrocefalia
+
+Also Called:
+- Agua en el cerebro
+
+Summary:
+La hidrocefalia es la acumulación de una cantidad excesiva de líquido cefalorraquídeo en el cerebro. Normalmente, este fluido protege y amortigua el cerebro. Sin embargo, demasiado líquido ejerce una presión dañina para el cerebro.
+La hidrocefalia puede ser congénita, que se presenta al nacer. Sus causas incluyen problemas genéticos y problemas que se desarrollan en el feto durante el embarazo. El principal signo de la hidrocefalia congénita es una cabeza con un tamaño fuera de lo normal.
+La hidrocefalia también puede presentarse después de nacer. Esto se llama hidrocefalia adquirida. Puede ocurrir a cualquier edad. Las causas pueden incluir traumatismos en la cabeza, derrames cerebrales, infecciones, tumores y hemorragia cerebral.
+Los síntomas de la hidrocefalia pueden incluir:
+Dolor de cabeza
+Vómitos y náusea
+Visión borrosa
+Problemas de equilibrio
+Problemas para controlar la vejiga
+Problemas con el pensamiento y la memoria
+La hidrocefalia puede causar daños permanentes en el cerebro y provocar problemas con el desarrollo físico y mental. Cuando no se trata, suele ser mortal. Con tratamiento, muchas personas llevan una vida normal, con ciertas limitaciones. El tratamiento suele incluir una cirugía para implantar una derivación. Una derivación es un tubo flexible pero robusto. Este desvía el flujo del líquido cefalorraquídeo a otra zona del cuerpo donde pueda ser absorbido. Las medicinas y la rehabilitación también pueden ayudar.
+NIH: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+
+Groups:
+- Cerebro y nervios
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Alta tras cirugía del cerebro
+Category: Viviendo con..., Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000124.htm
+
+Resource: Alta tras derivación ventriculoperitoneal
+Category: Viviendo con..., Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000149.htm
+
+Resource: Cirugía del cerebro
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003018.htm
+
+Resource: Cisternografía con radionúclidos
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003823.htm
+
+Resource: Craneotomía
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100048_1.htm
+
+Resource: Derivación ventriculoperitoneal
+Category: Spanish/Español, Tratamientos y terapias, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003019.htm
+
+Resource: Entendiendo la hidrocefalia
+Category: Comience aquí, Spanish/Español
+Organization: Asociación de Hidrocefalia
+URL: https://www.hydroassoc.org/la-hidrocefalia/
+
+Resource: Fontanelas abultadas
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003310.htm
+
+Resource: Hernia cerebral
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001421.htm
+
+Resource: Hidrocefalia
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/hidrocefalia
+
+Resource: Hidrocefalia
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100123_1.htm
+
+Resource: Hidrocefalia
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001571.htm
+
+Resource: Hidrocefalia
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hydrocephalus/symptoms-causes/syc-20373604?p=1
+
+Resource: Hidrocefalia
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/hydrocephalus.html
+
+Resource: Hidrocefalia normotensiva
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000752.htm
+
+Resource: Hidrocefalia: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/hydrocephalus/diagnosis-treatment/drc-20373609?p=1
+
+Resource: Recolección de líquido cefalorraquídeo (LCR)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003428.htm
+
+Resource: Resonancia magnética de la cabeza
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003791.htm
+
+Resource: RMN del cerebro
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mri-brain
+
+Resource: TC de cabeza
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/headct
+
+Resource: Transiluminación
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003389.htm

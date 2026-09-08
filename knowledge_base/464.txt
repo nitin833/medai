@@ -1,0 +1,337 @@
+Title: Cancer Chemotherapy
+
+Summary:
+What is cancer chemotherapy?
+Cancer chemotherapy is a type of cancer treatment. It uses medicines to destroy cancer cells.
+Normally, your body forms new cells as needed, replacing old cells that die.
+Cancer
+cells keep growing without control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor. Chemotherapy works by killing the cancer cells, stopping them from spreading, or slowing their growth.
+Chemotherapy is used to:
+Treat cancer
+by curing the cancer, lessening the chance it will return, or stopping or slowing its growth.
+Ease cancer symptoms
+by shrinking tumors that are causing pain and other problems.
+What are the side effects of chemotherapy?
+Chemotherapy does not just destroy cancer cells. It can also harm some healthy cells, which causes side effects.
+You may have a lot of side effects, some side effects, or none at all. It depends on the type and amount of chemotherapy you get and how your body reacts.
+Some common side effects are:
+Mouth sores
+Fatigue
+Nausea and vomiting
+Pain
+Hair loss
+There are ways to prevent or control some side effects. Talk with your health care provider about how to manage them. Healthy cells usually recover after chemotherapy is over, so most side effects go away over time.
+What can I expect when getting chemotherapy?
+You may get chemotherapy in a hospital, at home, at your provider's office, or a medical clinic. You might be given the medicines by mouth, in a shot, as a cream, through a catheter (a thin tube), or intravenously (by IV).
+Your treatment plan will depend on the type of cancer you have, which chemotherapy medicines are used, the treatment goals, and how your body responds to the medicines.
+Chemotherapy may be given alone or with other treatments. You may get treatment every day, every week, or every month. You may have breaks between treatments so that your body has a chance to build new healthy cells.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Drug Therapy
+
+MeSH Headings:
+- Antineoplastic Agents
+- Neoplasms
+
+Related Resources:
+
+Resource: A to Z List of Cancer Drugs
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Anemia: Cancer Treatment Side Effect
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/anemia
+
+Resource: Bleeding and Bruising (Thrombocytopenia) and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/bleeding-bruising
+
+Resource: Cancer Fatigue
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/fatigue
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Cancer Therapy Interactions with Foods and Dietary Supplements
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq
+
+Resource: Cancer Treatments & Oral Health
+Category: Related Issues
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/cancer-treatments
+
+Resource: Central Lines (Central Venous Catheters)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/central-lines.html
+
+Resource: Central venous catheter - dressing change
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000156.htm
+
+Resource: Central venous catheter - flushing
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000157.htm
+
+Resource: Central venous catheters - ports
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000491.htm
+
+Resource: Chemo Brain
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chemo-brain/symptoms-causes/syc-20351060?p=1
+
+Resource: Chemotherapy
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/chemotherapy.html
+
+Resource: Chemotherapy
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/chemo.html
+
+Resource: Chemotherapy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002324.htm
+
+Resource: Chemotherapy - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000185.htm
+
+Resource: Chemotherapy and Hair Loss: What to Expect during Treatment
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/chemotherapy/in-depth/hair-loss/art-20046920?p=1
+
+Resource: Chemotherapy and Sex: Is Sexual Activity OK during Treatment?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/chemotherapy/expert-answers/chemotherapy-and-sex/faq-20058287?p=1
+
+Resource: Chemotherapy and You: Support for People with Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/chemo-and-you
+
+Resource: Chemotherapy Side Effects: A Cause of Heart Disease?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/expert-answers/chemotherapy-side-effects/faq-20058319?p=1
+
+Resource: Chemotherapy to Treat Cancer
+Category: Start Here, Patient Handouts
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/types/chemotherapy
+
+Resource: Cholesterol Drug May Help Protect the Heart during Chemotherapy for Lymphoma
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2023/lymphoma-statin-reduces-chemo-heart-damage
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Cancer Chemotherapy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=cancer&intr=chemotherapy&aggFilters=status:not%20rec
+
+Resource: Constipation and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/constipation
+
+Resource: Diarrhea and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/diarrhea
+
+Resource: Eating Hints: Before, during, and after Cancer Treatment
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/eating-hints
+
+Resource: Edema (Swelling) and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/edema
+
+Resource: Getting Oral Chemotherapy
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/chemotherapy/oral-chemotherapy.html
+
+Resource: Getting Topical Chemotherapy
+Category: Specifics
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/treatment-types/chemotherapy/topical-chemotherapy.html
+
+Resource: Hair Loss (Alopecia) and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/hair-loss
+
+Resource: Implanted Ports
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/implanted-ports.html
+
+Resource: Infection and Neutropenia during Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/infection
+
+Resource: Low Blood Cell Counts: Side Effects of Cancer Treatment
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/cancer/in-depth/cancer-treatment/art-20046192?p=1
+
+Resource: Low white blood cell count and cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000675.htm
+
+Resource: Managing Cancer-Related Side Effects
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects.html
+
+Resource: Memory or Concentration Problems and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/memory
+
+Resource: Midline venous catheters - infants
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007744.htm
+
+Resource: Mouth and Throat Problems: Cancer Treatment Side Effects
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: Nausea and Vomiting and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/nausea-vomiting
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Nerve Problems (Peripheral Neuropathy) and Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/nerve-problems
+
+Resource: Off-Label Drug Use in Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/off-label
+
+Resource: Oral Complications of Cancer Therapies
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq
+
+Resource: Oral mucositis - self-care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000047.htm
+
+Resource: Pain and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/pain
+
+Resource: Peripherally Inserted Central Catheter (PICC Line)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/picc-lines.html
+
+Resource: Peripherally inserted central catheter - flushing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000159.htm
+
+Resource: Cancer Chemotherapy
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Antineoplastic+Agents%2Ftherapeutic+use%22%5Bmajr%3Anoexp%5D+OR+%22Neoplasms%2Fdrug+therapy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Side Effects of Chemotherapy and Radiation (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/side-effects.html
+
+Resource: Skin and Nail Changes during Cancer Treatment
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/skin-nail-changes
+
+Resource: TACE Cancerous Tumor Therapy
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/chemoembol
+
+Resource: Test Your Chemotherapy Knowledge
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/002324_10.htm
+
+Resource: Tunneled Central Lines
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cv-catheters.html
+
+Resource: Types of chemotherapy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000910.htm
+
+Resource: Urinary and Bladder Problems
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/urination-changes

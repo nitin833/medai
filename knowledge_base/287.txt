@@ -1,0 +1,267 @@
+Title: Hip Injuries and Disorders
+
+Summary:
+Your hip is the joint where your femur (thigh bone) meets your pelvis (hip bone). There are two main parts: a ball at the end of the femur, which fits in a socket in the pelvis. Your hip is known as a ball-and-socket joint. This is because you have a ball at the end of your femur, and it fits into a socket in your pelvis. This makes your hips very stable and allows for a wide range of motion. When they are healthy, it takes great force to hurt them. However, playing sports, running, overuse, or falling can sometimes lead to hip injuries such as:
+Strains
+Bursitis
+Dislocations
+Fractures
+(broken bones)
+Certain diseases also lead to hip injuries or problems.
+Osteoarthritis
+can cause pain 
+and limited motion.
+Osteoporosis
+of the hip causes weak bones that break easily. Both of 
+these are common in older people.
+Another problem is hip dysplasia, where the ball at the end of the femur is loose in the hip socket. It can cause hip dislocation. Babies who have hip dysplasia are usually born with it, but sometimes they develop it later.
+Treatment for hip disorders may include rest, medicines, physical therapy, or surgery, including
+hip replacement
+.
+
+Groups:
+- Bones, Joints and Muscles
+- Injuries and Wounds
+
+MeSH Headings:
+- Pelvic Bones
+- Hip Dislocation
+- Hip Fractures
+- Hip Injuries
+- Femoral Neck Fractures
+
+Related Resources:
+
+Resource: Bone X-Ray
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Femoral Neck Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Femoral+Neck+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hip Dislocation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hip+Dislocation%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hip Fractures
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hip+Fractures%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Hip Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hip+Injuries%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pelvis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pelvis%22&aggFilters=status:not%20rec
+
+Resource: Developmental Dislocation (Dysplasia) of the Hip (DDH)
+Category: Children
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/developmental-dislocation-dysplasia-of-the-hip-ddh/
+
+Resource: Developmental dysplasia of the hip
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000971.htm
+
+Resource: Direct Arthrography
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/arthrog
+
+Resource: Femoroacetabular Impingement
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/femoroacetabular-impingement/
+
+Resource: Find a Doctor in American Association of Hip and Knee Surgeons
+Category: Find an Expert
+Organization: American Association of Hip and Knee Surgeons
+URL: https://findadoctor.aahks.net
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Fracture after Total Hip Replacement
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/fracture-after-total-hip-replacement/
+
+Resource: Getting your home ready - knee or hip surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000167.htm
+
+Resource: Greater trochanteric pain syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000777.htm
+
+Resource: Hip arthroscopy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007500.htm
+
+Resource: Hip flexor strain -- aftercare
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000682.htm
+
+Resource: Hip Fracture
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hip-fracture/symptoms-causes/syc-20373468?p=1
+
+Resource: Hip fracture - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000168.htm
+
+Resource: Hip fracture surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007386.htm
+
+Resource: Hip joint injection
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007633.htm
+
+Resource: Hip Labral Tear
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/hip-labral-tear/symptoms-causes/syc-20354873?p=1
+
+Resource: Hip Pain
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/symptoms/hip-pain/basics/definition/SYM-20050684?p=1
+
+Resource: Hip pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003179.htm
+
+Resource: Hip Problems
+Category: Diagnosis and Tests, Start Here
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/hip-problems/
+
+Resource: Hip Problems in Infants
+Category: Children
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/hip-problems-in-infants/
+
+Resource: Hip Rehabilitation Exercises
+Category: Living With
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/recovery/hip-conditioning-program/hip-pdf/
+
+Resource: Hip Replacement: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/hipreplacement.html
+
+Resource: Hip Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/us-hip
+
+Resource: Iliotibial Band Syndrome (For Parents)
+Category: Treatments and Therapies, Symptoms
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/iliotibial-band-syndrome.html
+
+Resource: Inflammatory Arthritis of the Hip
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/inflammatory-arthritis-of-the-hip
+
+Resource: Legg-Calve-Perthes disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001264.htm
+
+Resource: Legg-Calvé-Perthes Disease (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/perthes-disease.html
+
+Resource: Mobility Aids: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mobilityaids.html
+
+Resource: Musculoskeletal MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/muscmr
+
+Resource: Musculoskeletal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/musculous
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Pelvic X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-pelvis.html
+
+Resource: Pelvis x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003809.htm
+
+Resource: Preventing Falls and Hip Fractures
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/falls/prevention/
+
+Resource: Hip Injuries and Disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Femoral+Neck+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Hip+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Hip+Injuries%22%5Bmajr%3Anoexp%5D+OR+%22Hip+Fractures%22%5Bmajr%3Anoexp%5D+OR+%22Hip+Dislocation%22%5Bmajr%3Anoexp%5D+OR+%22Pelvic+Bones%2Finjuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Slipped capital femoral epiphysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000972.htm
+
+Resource: Slipped Capital Femoral Epiphysis
+Category: Teenagers
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/slipped-capital-femoral-epiphysis/
+
+Resource: Toxic synovitis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000981.htm
+
+Resource: Ultrasound: Infant Hip
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ultrasound-hip.html
+
+Resource: X-Ray Exam: Hip (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-hip.html

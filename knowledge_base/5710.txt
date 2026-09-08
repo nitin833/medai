@@ -1,0 +1,91 @@
+Title: Cólera
+
+Also Called:
+- Vibrio cholerae
+
+Summary:
+El cólera es una infección bacteriana que causa
+diarrea
+. Por lo general, la bacteria del cólera se encuentra en el agua o los alimentos que han sido contaminados por heces (excremento). El cólera es raro en los Estados Unidos. Puede infectarse si viaja a partes del mundo con pobre tratamiento del agua y de aguas residuales. Los brotes también pueden ocurrir después de un desastre. No es probable que la enfermedad se propague directamente de persona a persona.
+A menudo, las infecciones de cólera son leves. Algunas personas no presentan síntomas. Si tiene síntomas, generalmente comienzan de dos a tres días después de la infección. El síntoma más común es la diarrea acuosa.
+En algunos casos, la infección puede ser grave y causar mucha diarrea acuosa, vómitos y calambres en las piernas. Debido a que pierde fluidos corporales rápidamente, corre el riesgo de sufrir
+deshidratación
+y
+shock
+. Sin tratamiento, podría morir en cuestión de horas. Si cree que podría tener cólera, debe recibir atención médica de inmediato.
+Los médicos diagnostican el cólera con una muestra de materia fecal o hisopado rectal. Se trata reemplazando los líquidos y las sales que perdió por la diarrea, usualmente al beber sales de rehidratación. Las personas con casos severos pueden necesitar una sonda intravenosa para reemplazar los fluidos. Algunas de ellas también pueden necesitar
+antibióticos
+. La mayoría de las personas que obtiene de inmediato un reemplazo de líquidos se recupera.
+Existen vacunas para prevenir el cólera. Uno de ellas está disponible para adultos en los EE. UU. Muy pocos estadounidenses la necesitan, porque la mayoría de las personas no visita áreas con un brote de cólera activo.
+También hay pasos simples que puede seguir para ayudar a prevenir la infección del cólera:
+Use solo agua embotellada o purificada para beber, lavar platos, hacer cubos de hielo y cepillarse los dientes
+Si usa agua del grifo, hiérvala o use tabletas de yodo
+Lávese las manos a menudo con jabón y agua limpia
+Asegúrese de que la comida que consuma esté completamente cocinada y servida caliente
+Evite las frutas y verduras crudas sin lavar o sin pelar
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+
+Related Resources:
+
+Resource: Cólera
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/infecciones-bacterianas-bacterias-gramnegativas/c%C3%B3lera
+
+Resource: Cólera
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/about/index.html
+
+Resource: Cólera
+Category: Más información, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/cholera
+
+Resource: Cólera
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/abdominal/paginas/cholera.aspx
+
+Resource: Cólera
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000303.htm
+
+Resource: Cólera (para padres)
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/cholera.html
+
+Resource: Cólera: causas y cómo se propaga
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/causes/index.html
+
+Resource: Cólera: Síntomas y causas
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/cholera/symptoms-causes/syc-20355287?p=1
+
+Resource: Cómo prevenir el cólera
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/prevention/index.html
+
+Resource: El cólera en los Estados Unidos
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/about/about-cholera-in-the-united-states.html
+
+Resource: Signos y síntomas del cólera
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/signs-symptoms/index.html
+
+Resource: Tratamiento del cólera
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/cholera/es/treatment/index.html

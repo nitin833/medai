@@ -1,0 +1,110 @@
+Title: Enfermedades neurodegenerativas
+
+Also Called:
+- Enfermedades degenerativas del sistema nervioso
+
+Summary:
+Las enfermedades neurodegenerativas afectan varias actividades que el cuerpo realiza, como el equilibrio, movimiento, hablar, respirar y funciones del corazón. Muchas de estas enfermedades son genéticas. Las causas pueden ser alcoholismo, un tumor o un ataque cerebrovascular (ACV). Otras causas incluyen toxinas, químicos y virus. Otras veces, las causas se desconocen.
+Algunas enfermedades neurodegenerativas son:
+Enfermedad de Alzheimer
+Esclerosis lateral amiotrófica
+Ataxia de Friedreich
+Enfermedad de Huntington
+Demencia con cuerpos de Lewy
+Enfermedad de Parkinson
+Atrofia muscular espinal
+Las enfermedades neurodegenerativas pueden ser serias o poner la vida en peligro. Depende del tipo. La mayoría de ellas no tiene cura. El tratamiento puede ayudar a mejorar los síntomas, aliviar el dolor y aumentar la movilidad.
+
+Groups:
+- Cerebro y nervios
+
+Related Resources:
+
+Resource: 4 descubrimientos más allá del cerebro
+Category: Spanish/Español, NIH Revista MedlinePlus Salud
+URL: https://magazine.medlineplus.gov/es/art%C3%ADculo/4-descubrimientos-mas-alla-del-cerebro
+
+Resource: Atrofia multisistémica
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/atrofia-multisistemica
+
+Resource: Atrofia multisistémica (tipo parkinsoniano)
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000757.htm
+
+Resource: Atrofia multisistémica tipo cerebelosa
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000758.htm
+
+Resource: Conducción nerviosa
+Category: Interactivos y videos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000089.htm
+
+Resource: Disautonomía familiar
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001387.htm
+
+Resource: Disfunción de los ganglios basales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001069.htm
+
+Resource: Electromiografía
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/tests-procedures/emg/about/pac-20393913?p=1
+
+Resource: Electromiografía y estudios de conducción nerviosa
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/electromiografia-y-estudios-de-conduccion-nerviosa/
+
+Resource: Electromiograma (EMG)
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/emg.html
+
+Resource: Enfermedades de las neuronas motoras
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/enfermedades-de-las-neuronas-motoras
+
+Resource: Kuru
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001379.htm
+
+Resource: Leucoencefalopatía multifocal progresiva
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000674.htm
+
+Resource: Lipofuscinosis neuronal ceroidea
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001613.htm
+
+Resource: Mioclono
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/mioclono
+
+Resource: Parkinsonismo secundario
+Category: Asuntos específicos, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000759.htm
+
+Resource: Sistema nervioso
+Category: Información de referencia, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/brain-nervous-system.html
+
+Resource: Trastornos mitocondriales
+Category: Asuntos específicos, Spanish/Español
+Organization: Instituto Nacional de Trastornos Neurológicos y Accidentes Cerebrovasculares
+URL: https://www.ninds.nih.gov/es/health-information/disorders/trastornos-mitocondriales

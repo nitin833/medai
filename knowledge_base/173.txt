@@ -1,0 +1,328 @@
+Title: Brain Tumors
+
+Summary:
+A brain tumor is a growth of abnormal cells in the tissues of the brain. Brain tumors can be benign, with no cancer cells, or malignant, with cancer cells that grow quickly.  Some are primary brain tumors, which start in the brain. Others are metastatic, and they start somewhere else in the body and move to the brain.
+Brain tumors can cause many symptoms. Some of the most common are:
+Headaches, often in the morning
+Nausea and vomiting
+Changes in your ability to talk, hear, or see
+Problems with balance or walking
+Problems with thinking or memory
+Feeling weak or sleepy
+Changes in your mood or behavior
+Seizures
+Doctors diagnose brain tumors by doing a neurologic exam and tests including an MRI, CT scan, and biopsy. Treatment options include watchful waiting, surgery, radiation therapy, chemotherapy, and targeted therapy. Targeted therapy uses drugs or other substances that attack cancer cells with less harm to normal cells. Many people get a combination of treatments.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Brain and Nerves
+
+MeSH Headings:
+- Brain Neoplasms
+
+Related Resources:
+
+Resource: Adult Brain Tumor Causes, Risk Factors, and Prevention
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults/causes-risks-prevention.html
+
+Resource: Adult Brain Tumor Early Detection, Diagnosis, and Testing
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults/detection-diagnosis-staging.html
+
+Resource: Adult Central Nervous System Tumors Treatment
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/patient/adult-brain-treatment-pdq
+
+Resource: Advances in Brain and Spinal Cord Tumor Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/brain/research
+
+Resource: After chemotherapy - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Assisted Care Options
+Category: Treatments and Therapies
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/treatments-side-effects/assisted-care-options/
+
+Resource: Brain and Spinal Cord Tumors
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/brain-and-spinal-cord-tumors
+
+Resource: Brain components
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000016.htm
+
+Resource: Brain CT Scan
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/brain-ct-scan/about/pac-20587837?p=1
+
+Resource: Brain herniation
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001421.htm
+
+Resource: Brain MRI (Head MRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mri-brain
+
+Resource: Brain PET scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007341.htm
+
+Resource: Brain radiation - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000055.htm
+
+Resource: Brain surgery
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003018.htm
+
+Resource: Brain surgery - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000124.htm
+
+Resource: Brain tumor - primary -- adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007222.htm
+
+Resource: Brain Tumor Support Groups
+Category: Living With
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/supportgroups/
+
+Resource: Brain Tumor Types
+Category: Specifics
+Organization: National Brain Tumor Society
+URL: https://braintumor.org/brain-tumors/about-brain-tumors/brain-tumor-types/
+
+Resource: Brain Tumors Signs & Symptoms
+Category: Symptoms
+Organization: National Brain Tumor Society
+URL: https://braintumor.org/brain-tumors/diagnosis-treatment/signs-symptoms/
+
+Resource: Cancer Stat Facts: Brain and Other Nervous System Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/brain.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Cell Phones and Cancer Risk
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/cell-phones-fact-sheet
+
+Resource: Cerebral spinal fluid (CSF) collection
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003428.htm
+
+Resource: Cerebrospinal Fluid (CSF) Analysis
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/cerebrospinal-fluid-csf-analysis/
+
+Resource: Childhood Brain Tumors: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/childhoodbraintumors.html
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Brain Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Brain+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Glioma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Glioma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Meningioma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Meningioma%22&aggFilters=status:not%20rec
+
+Resource: Constitutional mismatch repair deficiency syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/constitutional-mismatch-repair-deficiency-syndrome
+
+Resource: Craniotomy - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100048_1.htm
+
+Resource: Drugs Approved for Brain Tumors
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/brain
+
+Resource: Electromagnetic Fields and Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet
+
+Resource: Encephalocraniocutaneous lipomatosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/encephalocraniocutaneous-lipomatosis
+
+Resource: End of Life Care (Brain Tumors)
+Category: Treatments and Therapies
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/treatments-side-effects/end-of-life-care/
+
+Resource: Functional MRI (fMRI)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/fmribrain
+
+Resource: Head CT (Computed Tomography, CAT Scan)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/headct
+
+Resource: Head CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003786.htm
+
+Resource: Head MRI
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003791.htm
+
+Resource: Hypothalamic tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001211.htm
+
+Resource: Liquid Biopsy Detects Brain Cancer and Early-Stage Kidney Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/news-events/cancer-currents-blog/2020/liquid-biopsy-kidney-brain-cancer
+
+Resource: Meningioma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/meningioma/symptoms-causes/syc-20355643?p=1
+
+Resource: Metastatic brain tumor
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000769.htm
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Neuro-Oncology Branch
+Category: Find an Expert
+Organization: National Cancer Institute, National Institute of Neurological Disorders and Stroke
+URL: https://ccr.cancer.gov/neuro-oncology-branch
+
+Resource: Newly Diagnosed (Brain Tumor)
+Category: Diagnosis and Tests
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/newly-diagnosed/
+
+Resource: Posterior fossa tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001404.htm
+
+Resource: Primary Brain Tumors
+Category: Specifics
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/brain-tumor-types/primary-brain-tumors/
+
+Resource: Primary lymphoma of the brain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000734.htm
+
+Resource: Brain Tumors
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Brain+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recurrence (of Brain Tumors)
+Category: Related Issues
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/recurrence/
+
+Resource: Signs and Symptoms (of a Brain Tumor)
+Category: Symptoms
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/about-brain-tumors/brain-tumor-diagnosis/brain-tumor-signs-symptoms/
+
+Resource: Skull x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Spotlight on Brain Tumors: Do You Know the Symptoms?
+Category: Symptoms
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2017/10/spotlight-brain-tumors
+
+Resource: Stereotactic radiosurgery - discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000131.htm
+
+Resource: Stereotactic radiosurgery - Gamma Knife
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007577.htm
+
+Resource: Steroids
+Category: Treatments and Therapies
+Organization: American Brain Tumor Association
+URL: https://www.abta.org/wp-content/uploads/2018/03/steroids-brochure.pdf
+
+Resource: Types of Brain and Spinal Cord Tumors in Adults
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/brain-spinal-cord-tumors-adults.html

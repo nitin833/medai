@@ -1,0 +1,375 @@
+Title: Pancreatic Cancer
+
+Summary:
+The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control
+blood sugar
+levels. Pancreatic cancer usually begins in the cells that produce the juices. Some risk factors for developing pancreatic cancer include:
+Smoking
+Long-term diabetes
+Chronic pancreatitis
+Certain hereditary disorders
+Pancreatic cancer is hard to catch early. It doesn't cause symptoms right away. When you do get symptoms, they are often vague or you may not notice them. They include yellowing of the skin and eyes, pain in the abdomen and back, weight loss and fatigue. Also, because the pancreas is hidden behind other organs, health care providers cannot see or feel the tumors during routine exams. Doctors use a physical exam, blood tests, imaging tests, and a biopsy to diagnose it.
+Because it is often found late and it spreads quickly, pancreatic cancer can be hard to treat.  Possible treatments include surgery, radiation, chemotherapy, and targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Digestive System
+- Endocrine System
+
+MeSH Headings:
+- Pancreatic Neoplasms
+
+Related Resources:
+
+Resource: 7 Physical Challenges Supportive Care Can Help
+Category: Living With
+Organization: Pancreatic Cancer Action Network
+URL: https://pancan.org/news/7-physical-challenges-supportive-care-can-help/
+
+Resource: Abdominal CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003789.htm
+
+Resource: Abdominal exploration
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002928.htm
+
+Resource: Abdominal exploration - series
+Category: Diagnosis and Tests, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100049_1.htm
+
+Resource: Abdominal MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003796.htm
+
+Resource: About Familial Pancreatic Cancer: Pancreatic Cancer Can Be Hereditary
+Category: Genetics
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/familial/about
+
+Resource: Acupuncture for Pancreatic Cancer Patients
+Category: Treatments and Therapies
+Organization: Pancreatic Cancer Action Network
+URL: https://pancan.org/news/acupuncture-for-pancreatic-cancer-patients/
+
+Resource: Advances in Pancreatic Cancer Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/research
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Amylase - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003607.htm
+
+Resource: Amylase Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/amylase-test/
+
+Resource: ASGE: Find a Doctor
+Category: Find an Expert
+Organization: American Society for Gastrointestinal Endoscopy
+URL: https://www.asge.org/find-a-doctor-results
+
+Resource: Biopsy - biliary tract
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003894.htm
+
+Resource: CA 19-9 Blood Test (Pancreatic Cancer)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ca-19-9-blood-test-pancreatic-cancer/
+
+Resource: Can Pancreatic Cancer Be Found Early?
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/detection-diagnosis-staging/detection.html
+
+Resource: Cancer Stat Facts: Pancreatic Cancer
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/pancreas.html
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Childhood Pancreatic Cancer Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/child-pancreatic-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Carcinoma, Islet Cell
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Carcinoma,+Islet+Cell%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pancreatic Neoplasms
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pancreatic+Neoplasms%22&aggFilters=status:not%20rec
+
+Resource: Diet After Pancreatic Surgery
+Category: Living With
+Organization: Pancreatic Cancer Action Network
+URL: https://pancan.org/facing-pancreatic-cancer/living-with-pancreatic-cancer/diet-and-nutrition/after-a-whipple-procedure/
+
+Resource: Drugs Approved for Pancreatic Cancer
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/pancreatic
+
+Resource: Endoscopic Retrograde Cholangiopancreatography (ERCP)
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/endoscopic-retrograde-cholangiopancreatography
+
+Resource: Fecal fat
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003588.htm
+
+Resource: Gastrin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003697.htm
+
+Resource: General Information about Pancreatic Cancer
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq#_110
+
+Resource: General Information about Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq#_1
+
+Resource: Glucagon Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/glucagon-blood-test/
+
+Resource: Glucagonoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000326.htm
+
+Resource: Insulinoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000387.htm
+
+Resource: Key Statistics for Pancreatic Cancer
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/about/key-statistics.html
+
+Resource: Lipase test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003465.htm
+
+Resource: Living as a Pancreatic Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/after-treatment/follow-up.html
+
+Resource: Managing Risk for Cancers Related to Lynch Syndrome
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/colorectal-cancer-hereditary/managing-risk/index.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: New Pancreatic Cancer Research May Improve Detection and Treatment
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/new-pancreatic-cancer-research-may-improve-detection-and-treatment
+
+Resource: Pain Management
+Category: Living With
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/treatment/pain-management
+
+Resource: Pain Treatment and Management
+Category: Treatments and Therapies
+Organization: National Pancreas Foundation
+URL: https://pancreasfoundation.org/patient-resources/pain-management/
+
+Resource: Pancreas Basics
+Category: Reference Desk
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/basics
+
+Resource: Pancreatic cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000236.htm
+
+Resource: Pancreatic Cancer Risk Factors
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Pancreatic Cancer: What You Need to Know
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/pancreatic-cancer-what-you-need-to-know
+
+Resource: Pancreatic Enzymes and Supplements
+Category: Living With
+Organization: Pancreatic Cancer Action Network
+URL: https://pancan.org/facing-pancreatic-cancer/living-with-pancreatic-cancer/diet-and-nutrition/pancreatic-enzymes/
+
+Resource: Pancreatic islet cell tumor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000393.htm
+
+Resource: Pancreatic Cancer
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Pancreatic+Neoplasms%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Quality of Life
+Category: Living With
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/quality-life
+
+Resource: Questions to Ask About Pancreatic Cancer
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/detection-diagnosis-staging/talking-with-doctor.html
+
+Resource: Secretin stimulation test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003892.htm
+
+Resource: Stage and Grade
+Category: Diagnosis and Tests
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/stage-grade
+
+Resource: Stages of Pancreatic Cancer
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq#_139
+
+Resource: Stages of Pancreatic Neuroendocrine Tumors
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq#_24
+
+Resource: Surgery for Pancreatic Cancer
+Category: Treatments and Therapies
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/treating/surgery.html
+
+Resource: Surgery for pancreatic cancer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007649.htm
+
+Resource: Surgery for pancreatic cancer -- discharge
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000820.htm
+
+Resource: Surgical Treatment
+Category: Treatments and Therapies
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/treatment/surgical-treatment
+
+Resource: Tests for Pancreatic Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment Option Overview (Pancreatic Cancer)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pancreatic-treatment-pdq#_162
+
+Resource: Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/pancreatic/patient/pnet-treatment-pdq#_42
+
+Resource: Trypsinogen test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003560.htm
+
+Resource: Tumor Marker Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/tumor-marker-tests/
+
+Resource: Vasoactive intestinal peptide test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003508.htm
+
+Resource: VIPoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000228.htm
+
+Resource: What Is Pancreatic Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/about/what-is-pancreatic-cancer.html
+
+Resource: What Questions Should I Ask My Doctor?
+Category: Related Issues
+Organization: Johns Hopkins University, Department of Pathology
+URL: https://pathology.jhu.edu/pancreas/questions-to-ask
+
+Resource: What's New in Pancreatic Cancer Research?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/pancreatic-cancer/about/new-research.html
+
+Resource: Zollinger-Ellison syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000325.htm
+
+Resource: Zollinger-Ellison Syndrome
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/zollinger-ellison-syndrome

@@ -1,0 +1,60 @@
+Title: Planes de administración de seguros de salud
+
+Summary:
+Los planes de administración de seguros de salud son un tipo de
+seguro de salud
+. Éstos contratan profesionales y establecimientos médicos para suministrar atención a sus miembros con costos reducidos. Estos proveedores forman la red del plan. Lo que su plan deberá pagar por la atención de salud depende de las reglas de la red.
+Los planes que ofrecen menos opciones en general cuestan menos. Si busca un plan más flexible, probablemente cueste más. Existen tres tipos de planes de administración de seguros de salud:
+Organizaciones de mantenimiento de la salud (HMO, por sus siglas en inglés): En general pagan por la atención dentro de la red. Usted elige un médico de cabecera que coordina la mayoría de sus cuidados
+Organizaciones de proveedores preferentes (PPO, por sus siglas en inglés): Suelen pagar más si usted se atiende dentro de la red, pero pagan una parte si lo hace fuera de ella
+Planes de punto de servicio (POS, por sus siglas en inglés): Permiten elegir entre una HMO o una PPO cada vez que necesite atención médica
+
+Groups:
+- Sistemas de salud
+
+Related Resources:
+
+Resource: Búsqueda de un seguro de salud asequible
+Category: Más información, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/find-care.html
+
+Resource: Medicare
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/
+
+Resource: Organizaciones de proveedores preferidos (PPO)
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/PPO
+
+Resource: Organizaciones para el mantenimiento de la salud (HMO)
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/HMO
+
+Resource: Planes de atención médica administrada (seguros médicos)
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/health-insurance/paginas/types-of-managed-care-plans.aspx
+
+Resource: Planes de atención médica administrada: Obtenga una buena atención para su hijo
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/family-life/health-management/health-insurance/paginas/managed-care-plans-getting-good-care-for-your-child.aspx
+
+Resource: Planes de seguro médico y tipos de redes: HMO, PPO y más
+Category: Más información, Spanish/Español
+Organization: Departamento de Salud y Servicios Humanos
+URL: https://www.cuidadodesalud.gov/es/choose-a-plan/plan-types/
+
+Resource: Planes Medicare Advantage: Opciones de cobertura
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/health-plans/your-health-plan-options
+
+Resource: Planes por necesidades especiales (SNP)
+Category: Más información, Spanish/Español
+Organization: Centros de Servicios de Medicare y Medicaid
+URL: https://es.medicare.gov/health-drug-plans/health-plans/your-health-plan-options/SNP

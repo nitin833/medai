@@ -1,0 +1,145 @@
+Title: Cáncer de los ductos biliares
+
+Summary:
+Su hígado produce un jugo digestivo llamado bilis. Su
+vesícula biliar
+la almacena entre comidas. Cuando come, la vesícula biliar empuja la bilis por unos tubos llamados
+ductos biliares
+. Estos llevan la bilis al intestino delgado. La bilis ayuda a descomponer las grasas. También ayuda al hígado a deshacerse de toxinas y desechos.
+El cáncer de los ductos biliares es poco común. Puede ocurrir en las partes de los ductos biliares que están dentro o fuera del hígado. El cáncer de las ductos biliares afuera del hígado es mucho más común. Los factores de riesgo incluyen tener inflamación de los ductos biliares,
+colitis ulcerativa
+y algunas enfermedades del hígado.
+Los síntomas pueden incluir:
+Ictericia
+Picazón en la piel
+Fiebre
+Dolor abdominal
+Los exámenes para diagnosticar el cáncer de ductos biliares pueden incluir un examen físico, pruebas de imagen de los conductos hepáticos y biliares, análisis de sangre y una biopsia.
+El tratamiento incluye cirugía, radioterapia y quimioterapia.
+NIH: Instituto Nacional del Cáncer
+
+Groups:
+- Cánceres
+- Sistema digestivo
+
+Related Resources:
+
+Resource: Biopsia del tracto biliar
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003894.htm
+
+Resource: Causas y factores de riesgo del cáncer de vías biliares
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-vias-biliares/causas-factores-riesgos
+
+Resource: Colangiocarcinoma
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000291.htm
+
+Resource: Colangiografía transhepática percutánea
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003820.htm
+
+Resource: Colangiopancreatografía endoscópica retrógrada
+Category: Spanish/Español, Imágenes
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/esp_presentations/100180_1.htm
+
+Resource: Colangiopancreatografía por RM (MRCP)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/mrcp
+
+Resource: Colangiopancreatografía retrógrada endoscópica (CPRE)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/colangiopancreatografia-retrograda-endoscopica
+
+Resource: CPRE (colangiopancreatografía retrógrada endoscópica)
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007479.htm
+
+Resource: Cómo seleccionar a un médico
+Category: Spanish/Español, Especialistas
+Organization: Sociedad Americana Contra el Cáncer
+URL: https://www.cancer.org/es/cancer/preparase-para-el-tratamiento/como-seleccionar-a-un-medico.html
+
+Resource: Diagnóstico del cáncer de vías biliares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-vias-biliares/diagnostico
+
+Resource: Diccionario de cáncer del NCI
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/
+
+Resource: Estadios del cáncer de vías biliares
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-vias-biliares/estadios
+
+Resource: Estenosis biliar
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000220.htm
+
+Resource: Examen de bilirrubina en sangre
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/examen-de-bilirrubina-en-sangre/
+
+Resource: Fosfatasa alcalina
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/fosfatasa-alcalina/
+
+Resource: Gammagrafía de la vesícula biliar con radionúclidos
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003826.htm
+
+Resource: Grasa fecal
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003588.htm
+
+Resource: Grupos de apoyo para el cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://supportorgs.cancer.gov/home.aspx?lang=2
+
+Resource: Instituto Nacional del Cáncer
+Category: Spanish/Español, Especialistas
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol
+
+Resource: Radioterapia de haz externo para el cáncer
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/cancer/tratamiento/tipos/radioterapia/haz-externo
+
+Resource: Resonancia magnética del abdomen
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003796.htm
+
+Resource: RMN de cuerpo
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Colegio Americano de Radiología, Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/bodymr
+
+Resource: Tratamiento del cáncer de vías biliares
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-vias-biliares/tratamiento
+
+Resource: ¿Qué es el cáncer de vías biliares (colangiocarcinoma)?
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/higado/cancer-vias-biliares

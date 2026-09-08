@@ -1,0 +1,152 @@
+Title: Clinical Trials
+
+Summary:
+Clinical trials are research studies that test how well new medical approaches work in people. Each study 
+answers scientific questions and tries to find better ways to prevent, screen for, diagnose, or treat a 
+disease. Clinical trials may also compare a new treatment to a treatment that is already available.
+Every clinical trial has a protocol, or action plan, for conducting the trial. The plan describes what 
+will be done in the study, how it will be conducted, and why each part of the study is necessary. Each study 
+has its own rules about who can take part. Some studies need volunteers with a certain disease. Some need 
+healthy people. Others want just men or just women.
+An Institutional Review Board (IRB) reviews, monitors, and approves many clinical trials. It is an independent committee of physicians, statisticians, and members of the community. Its role is to:
+Make sure that the study is ethical
+Protect the rights and welfare of the participants
+Make sure that the risks are reasonable when compared to the potential benefits
+In the United States, a clinical trial must have an IRB if it is studying a drug, biological product, or medical device that the Food and Drug Administration (FDA) regulates, or it is funded or carried out by the federal government.
+NIH: National Institutes of Health
+
+Groups:
+- Personal Health Issues
+
+MeSH Headings:
+- Clinical Trials as Topic
+
+Related Resources:
+
+Resource: A guide to clinical trials for cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000823.htm
+
+Resource: About Cancer Clinical Research
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/about-cancer-clinical-research
+
+Resource: Are Clinical Studies for You?
+Category: Specifics
+Organization: National Institutes of Health, Clinical Center
+URL: https://www.cc.nih.gov/participate/studies
+
+Resource: Are Clinical Trials Safe?
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials/safety#informed-consent
+
+Resource: Cancer Clinical Trials at the National Institutes of Health Clinical Center
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/clinical-center
+
+Resource: Children's Assent to Clinical Trial Participation
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials/safety#childrens-assent
+
+Resource: Clinical Research FAQ
+Category: Start Here
+Organization: National Human Genome Research Institute
+URL: https://www.genome.gov/FAQ/Clinical-Research
+
+Resource: Clinical Trial Basics
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics
+
+Resource: Clinical Trials -- Information for Participants
+Category: Specifics
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/trials
+
+Resource: Clinical Trials: Benefits, Risks, and Safety
+Category: Specifics
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/clinical-trials-and-studies/clinical-research-benefits-risks-and-safety
+
+Resource: ClinicalTrials.gov Background Information
+Category: Find an Expert
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/ct2/about-site/background
+
+Resource: ClinicalTrials.gov Glossary Terms
+Category: Reference Desk
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/ct2/about-studies/glossary
+
+Resource: ClinicalTrials.gov: Search Clinical Trials
+Category: Find an Expert
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/ct/screen/SimpleSearch
+
+Resource: How Clinical Trials Work
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/research/clinical-trials/how-studies-work
+
+Resource: Is a Clinical Trial Right for You?
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/is-a-clinical-trial-right-for-you
+
+Resource: National Institutes of Health
+Category: Find an Expert
+Organization: National Institutes of Health
+URL: https://www.nih.gov/
+
+Resource: NCI's Clinical Trials Programs and Initiatives
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/clinical-trials
+
+Resource: Participating in Alzheimer's Disease and Related Dementias Research
+Category: Specifics
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/clinical-trials-and-studies/participating-alzheimers-disease-and-related-dementias-research
+
+Resource: Clinical Trials
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Clinical+Trials+as+Topic%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Should I Participate in a Clinical Trial? What's in It for Me?
+Category: Videos and Tutorials
+Organization: National Institutes of Health
+URL: https://www.nlm.nih.gov/oet/ed/ceal/should-i-participate-in-a-clinical-trial.html
+
+Resource: Should Your Child Participate in a Clinical Trial?
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/should-your-child-participate-clinical-trial
+
+Resource: Volunteer Stories
+Category: Specifics
+Organization: National Institutes of Health
+URL: https://www.nih.gov/health-information/nih-clinical-research-trials-you/personal-stories
+
+Resource: What Is a Clinical Trial?
+Category: Videos and Tutorials
+Organization: National Institutes of Health
+URL: https://www.nlm.nih.gov/oet/ed/ceal/what-is-a-clinical-trial.html
+
+Resource: Who Pays for Clinical Trials?
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials/paying
+
+Resource: Will I Always Get the Experimental Treatment in a Clinical Trial?
+Category: Specifics
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/clinical-trials-and-studies/clinical-research-benefits-risks-and-safety#treatment
+
+Resource: Women in Clinical Trials
+Category: Women
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health-research/women-clinical-trials

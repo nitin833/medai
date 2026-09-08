@@ -1,0 +1,104 @@
+Title: Toxoplasmosis
+
+Summary:
+Toxoplasmosis is a disease caused by the parasite Toxoplasma gondii. More than 60 million people in the U.S. have the parasite.  Most of them don't get sick. But the parasite causes serious problems for some people. These include people with weak immune systems and babies whose mothers become infected for the first time during pregnancy. Problems can include damage to the brain, eyes, and other organs.
+You can get toxoplasmosis from :
+Waste from an infected cat
+Eating contaminated meat that is raw or not well cooked
+Using utensils or cutting boards after they've had contact with contaminated raw meat
+Drinking infected water
+Receiving an infected organ transplant or blood transfusion
+Most people with toxoplasmosis don't need treatment. There are drugs to treat it for pregnant women and people with weak immune systems.
+Centers for Disease Control and Prevention
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Toxoplasmosis
+
+Related Resources:
+
+Resource: About Toxoplasmosis
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: ClinicalTrials.gov: Toxoplasmosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Toxoplasmosis%22&aggFilters=status:not%20rec
+
+Resource: Congenital toxoplasmosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001360.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: People at Increased Risk for Toxoplasmosis
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/risk-factors/
+
+Resource: Preventing Toxoplasmosis
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/prevention/
+
+Resource: Toxoplasmosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Toxoplasmosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Symptoms of Toxoplasmosis
+Category: Symptoms
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/symptoms/
+
+Resource: Toxoplasma blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003514.htm
+
+Resource: Toxoplasmosis
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/toxoplasmosis/symptoms-causes/syc-20356249?p=1
+
+Resource: Toxoplasmosis
+Category: Specifics
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/toxoplasmosis
+
+Resource: Toxoplasmosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000637.htm
+
+Resource: Toxoplasmosis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/toxoplasmosis.html
+
+Resource: Toxoplasmosis and Breastfeeding
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/toxoplasmosis.html
+
+Resource: Toxoplasmosis: Causes and How It Spreads
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/causes/index.html
+
+Resource: Treatment of Toxoplasmosis
+Category: Treatments and Therapies
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/treatment/

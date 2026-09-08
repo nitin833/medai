@@ -1,0 +1,174 @@
+Title: Salud de los adolescentes
+
+Also Called:
+- Salud del adolescente
+
+Summary:
+En la adolescencia pasas por muchos cambios. Tu cuerpo está en camino para alcanzar su tamaño adulto. Puedes notar que no te entran tus zapatos viejos o que los pantalones te quedan siete centímetros más cortos. Además de estos cambios, probablemente te estás haciendo más independiente y tomando más decisiones propias. Algunas de las decisiones más importantes que enfrentas se relacionan con tu salud.
+Los hábitos saludables, incluyendo una alimentación nutritiva y la actividad física, pueden ayudarte a sentirte bien, verte bien y a esforzarte en la escuela, el trabajo o los deportes. También pueden prevenir enfermedades como la diabetes, la hipertensión arterial, las enfermedades cardiacas, la osteoporosis, los derrames cerebrales y algunos cánceres cuando seas mayor.
+
+Groups:
+- Niños y adolescentes
+- Grupos especiales
+
+Related Resources:
+
+Resource: Adolescente
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/ages-stages/teen/paginas/default.aspx
+
+Resource: Adolescentes y el sueño
+Category: Spanish/Español, Asuntos relacionados, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000872.htm
+
+Resource: Adolescentes: Riesgos para la salud y soluciones
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/adolescents-health-risks-and-solutions
+
+Resource: Alcohol y menores de edad: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/underagedrinking.html
+
+Resource: Aspectos básicos de la higiene
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/hygiene-basics.html
+
+Resource: Atención médica y su hijo de 13 a 18 años
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/medical-care-13-18.html
+
+Resource: Calculadora de percentil de IMC para niños y adolescentes
+Category: Herramientas para evaluar la salud, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/bmi/es/child-teen-calculator/index.html
+
+Resource: Consulta con un terapeuta
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/therapist.html
+
+Resource: Control de peso
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/control-de-peso?dkrd=/health-information/informacion-de-la-salud/control-de-peso/hazte-cargo-salud
+
+Resource: Dar voz a los adolescentes en las decisiones relacionadas con su asistencia sanitaria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/teen-health-care.html
+
+Resource: Ejercicio físico compulsivo
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/compulsive-exercise.html
+
+Resource: Ejercicios fáciles para adolescentes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/easy-exercises.html
+
+Resource: Encuentre un pediatra o un pediatra especialista
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/tips-tools/find-pediatrician/paginas/pediatrician-referral-service.aspx
+
+Resource: Entender los medicamentos: Qué son y para qué sirven
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/meds.html
+
+Resource: Exploraciones testiculares
+Category: Spanish/Español, Niños
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/testicles.html
+
+Resource: Exámenes ginecológicos
+Category: Spanish/Español, Niñas
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/gyn-checkups.html
+
+Resource: Fumar y los jóvenes: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/smokingandyouth.html
+
+Resource: Genes y genética
+Category: Spanish/Español, Genética
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/genes-genetic-disorders.html
+
+Resource: Hablar con tu médico
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/talk-doctor.html
+
+Resource: Hablar con tus padres u otros adultos
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/talk-to-parents.html
+
+Resource: Imagen corporal y autoestima
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/body-image.html
+
+Resource: Información para adolescentes
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens
+
+Resource: Meditación
+Category: Spanish/Español, Niñas
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/meditacion/
+
+Resource: Salud sexual del adolescente: Tema de salud de MedlinePlus
+Category: Spanish/Español, Asuntos relacionados
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/teensexualhealth.html
+
+Resource: Triada de la atleta
+Category: Spanish/Español, Niñas
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/triad.html
+
+Resource: Tu primer exámen pélvico
+Category: Spanish/Español, Niñas
+Organization: Hospital de Niños de Boston
+URL: https://youngwomenshealth.org/guias/examen-pelvico/
+
+Resource: Vacunas para preadolescentes y adolescentes
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Coalición de Acción para la Inmunización
+URL: https://www.immunize.org/wp-content/uploads/catg.d/p4020-spa.pdf
+
+Resource: Vacunas por edad
+Category: Spanish/Español, Prevención y factores de riesgo
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vaccines/es/by-age/vacunas-por-edad.html
+
+Resource: ¿Cuál es el peso adecuado para mi altura?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/weight-height.html
+
+Resource: ¿Cuáles son los riesgos de los esteroides?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/steroids.html
+
+Resource: ¿Cuánto necesito dormir?
+Category: Spanish/Español, Asuntos relacionados
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/teens/how-much-sleep.html
+
+Resource: ¿Está bien que mi hijo use productos para cuidarse la piel?
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/skincare-products.html

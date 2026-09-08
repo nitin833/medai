@@ -1,0 +1,199 @@
+Title: Jaundice
+
+Also Called:
+- Icterus
+
+Summary:
+Jaundice causes your skin and the whites of your eyes to turn yellow. Too much bilirubin causes jaundice.  Bilirubin is a yellow chemical in hemoglobin, the substance that carries oxygen in your red blood cells. As red blood cells break down, your body builds new cells to replace them. The old ones are processed by the liver. If the liver cannot handle the blood cells as they break down, bilirubin builds up in the body and your skin may look yellow.
+Many healthy babies have some jaundice during the first week of life.  It usually goes away.   However, jaundice can happen at any age and may be a sign of a problem.  Jaundice can happen for many reasons, such as:
+Blood diseases
+Genetic syndromes
+Liver diseases, such as
+hepatitis
+or
+cirrhosis
+Blockage of bile ducts
+Infections
+Medicines
+
+Groups:
+- Digestive System
+- Symptoms
+
+MeSH Headings:
+- Hyperbilirubinemia
+
+Related Resources:
+
+Resource: ALP isoenzyme test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003497.htm
+
+Resource: American Liver Foundation
+Category: Find an Expert
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/
+
+Resource: Bili lights
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002394.htm
+
+Resource: Biliary atresia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001145.htm
+
+Resource: Bilirubin - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003595.htm
+
+Resource: Bilirubin Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bilirubin-blood-test/
+
+Resource: Bilirubin blood test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003479.htm
+
+Resource: Bilirubin encephalopathy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007309.htm
+
+Resource: ClinicalTrials.gov: Hyperbilirubinemia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hyperbilirubinemia%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Jaundice
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Jaundice%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Kernicterus
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kernicterus%22&aggFilters=status:not%20rec
+
+Resource: Crigler-Najjar syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001127.htm
+
+Resource: Crigler-Najjar syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/crigler-najjar-syndrome
+
+Resource: Dubin-Johnson syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000242.htm
+
+Resource: Dubin-Johnson syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dubin-johnson-syndrome
+
+Resource: Exchange transfusion
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002923.htm
+
+Resource: Exchange transfusion - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100018_1.htm
+
+Resource: Gilbert Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/gilberts-syndrome/symptoms-causes/syc-20372811?p=1
+
+Resource: Gilbert syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000301.htm
+
+Resource: Jaundice
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000210.htm
+
+Resource: Jaundice and breastfeeding
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000995.htm
+
+Resource: Jaundice and Breastfeeding
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/jaundice.html
+
+Resource: Jaundice causes
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007491.htm
+
+Resource: Jaundice in Adults
+Category: Adults
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/liver-and-gallbladder-disorders/manifestations-of-liver-disease/jaundice-in-adults
+
+Resource: Jaundice in Newborns
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jaundice.html
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Newborn jaundice
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001559.htm
+
+Resource: Newborn jaundice - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000296.htm
+
+Resource: Newborn jaundice - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000257.htm
+
+Resource: Percutaneous transhepatic cholangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003820.htm
+
+Resource: Jaundice
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Hyperbilirubinemia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Recognizing Jaundice: Signs That Your Liver Isn't Delivering
+Category: Start Here
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2022/10/recognizing-jaundice
+
+Resource: Transient familial hyperbilirubinemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001196.htm
+
+Resource: What Makes Urine Yellow? The Answer Lies in Your Gut
+Category: Related Issues
+URL: https://magazine.medlineplus.gov/article/what-makes-urine-yellow-the-answer-lies-in-your-gut

@@ -1,0 +1,92 @@
+Title: Dual Diagnosis
+
+Summary:
+What is dual diagnosis?
+If you have a dual diagnosis, that means that you have both a
+mental disorder
+and a substance use disorder (SUD), either with
+alcohol
+or
+drugs
+. A dual diagnosis is a type of comorbidity, which is when someone has two disorders at the same time. Another name for this is co-occurring disorders.
+Mental and substance use disorders often occur together. Many people who develop SUDs are also diagnosed with mental disorders. And the reverse is true; many people with mental disorders will develop an SUD. Having both types of disorders is even more common in teenagers, people with serious mental illness, and people with certain mental disorders.
+Why do substance use disorders and mental disorders occur together?
+Although these problems often occur together, this does not mean that one caused the other, even if one appeared first. In fact, it can be hard to figure out which came first. Researchers think that there are three possible reasons as to why they often occur together:
+Common risk factors can contribute to both mental disorders and SUDs.
+These factors include:
+Genetics.
+Stress
+.
+Trauma, especially in childhood. Veterans with
+post-traumatic stress disorder
+(PTSD) are also at risk for SUDs
+Mental disorders can contribute to drug use and SUDs.
+For example, people with mental disorders may use drugs or alcohol to try to feel better temporarily. This is known as self-medication. Also, mental disorders may change the brain to make it more likely that you will become addicted.
+Substance use and addiction can contribute to the development of a mental disorder.
+Substance use may change the brain in ways that make you more likely to develop a mental disorder.
+What are the treatments for dual diagnosis?
+If you have a dual diagnosis, it is usually better to treat both conditions at the same time rather than separately. You and your health care provider can work on a treatment plan that fits your needs.The plan should take into account your age, which substance(s) you are misusing, and which specific mental disorder(s) you have. The plan may include:
+Behavioral therapy,
+such as talk therapy (psychotherapy), long-term residential treatment (which combines housing and treatment services), and therapies to help you stay motivated to stick with your treatment plan.
+Medicines.
+There are effective medicines that treat
+opioid
+,
+alcohol
+, and nicotine addiction. There are also medicines that can lessen the symptoms of many mental disorders. Some medicines may treat more than one disorder.
+A referral to a support group.
+Support groups can give you emotional and social support. They are also a place where people can share tips about how to deal with day-to-day challenges.
+NIH: National Institute on Drug Abuse
+
+Groups:
+- Mental Health and Behavior
+- Substance Use and Disorders
+
+MeSH Headings:
+- Diagnosis, Dual (Psychiatry)
+
+Related Resources:
+
+Resource: Bipolar Disorder and Alcoholism: Are They Related?
+Category: Learn More
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/bipolar-disorder/expert-answers/bipolar-disorder/faq-20057890?p=1
+
+Resource: ClinicalTrials.gov: Dual Diagnosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22dual+diagnosis%22&term=mental+disorders&aggFilters=status:not%20rec
+
+Resource: Co-Occurring Disorders and Health Conditions
+Category: Learn More
+Organization: National Institute on Drug Abuse
+URL: https://nida.nih.gov/research-topics/co-occurring-disorders-health-conditions
+
+Resource: Co-Occurring: Mental Health and Substance Use Disorders
+Category: Learn More
+Organization: Mental Health America
+URL: https://mhanational.org/conditions/co-occurring-mental-health-and-substance-use-disorders/
+
+Resource: FindTreatment.gov
+Category: Learn More
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://findtreatment.gov/
+
+Resource: Dual Diagnosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Diagnosis%2C+Dual+%28Psychiatry%29%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: Substance Abuse and Mental Health Services Administration
+Category: Learn More
+Organization: Substance Abuse and Mental Health Services Administration
+URL: https://www.samhsa.gov/
+
+Resource: Substance Use and Co-Occurring Mental Disorders
+Category: Learn More
+Organization: National Institute of Mental Health
+URL: https://www.nimh.nih.gov/health/topics/substance-use-and-mental-health
+
+Resource: Substance Use Disorders
+Category: Learn More
+Organization: NAMI
+URL: https://www.nami.org/co-occurring-conditions/substance-use-disorders/

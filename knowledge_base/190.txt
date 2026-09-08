@@ -1,0 +1,285 @@
+Title: Cirrhosis
+
+Also Called:
+- Hepatic fibrosis
+
+Summary:
+Cirrhosis is scarring of the liver. Scar tissue forms because of injury or long-term disease. Scar tissue cannot do what healthy liver tissue does - make protein, help fight infections, clean the blood, help digest food and store energy.   Cirrhosis can lead to  :
+Easy bruising or bleeding, or nosebleeds
+Swelling of the abdomen or legs
+Extra sensitivity to medicines
+High blood pressure in the vein entering the liver
+Enlarged veins called varices in the esophagus and stomach. Varices can bleed suddenly.
+Kidney failure
+Jaundice
+Severe itching
+Gallstones
+A small number of people with cirrhosis get
+liver cancer
+.
+Your doctor will diagnose cirrhosis with blood tests, imaging tests, or a biopsy.
+Cirrhosis has many causes. In the United States, the most common causes are chronic
+alcoholism
+and
+hepatitis
+. Nothing will make the scar tissue disappear, but treating the cause can keep it from getting worse. If too much scar tissue forms, you may need to consider a
+liver transplant
+.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+
+MeSH Headings:
+- Liver Cirrhosis
+
+Related Resources:
+
+Resource: Abdominal and Pelvic CT
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominct
+
+Resource: Abdominal tap
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003896.htm
+
+Resource: Abdominal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominus
+
+Resource: ACE blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003567.htm
+
+Resource: Alcohol and Cirrhosis
+Category: Related Issues
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/alcohol/patient/cirrhosis.asp
+
+Resource: Alpha fetoprotein
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003573.htm
+
+Resource: Alpha-1 antitrypsin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003715.htm
+
+Resource: Alpha-1 antitrypsin deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alpha-1-antitrypsin-deficiency
+
+Resource: American Liver Foundation
+Category: Find an Expert
+Organization: American Liver Foundation
+URL: https://liverfoundation.org/
+
+Resource: Anti-smooth muscle antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003531.htm
+
+Resource: Antimitochondrial antibody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003529.htm
+
+Resource: Ascites
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000286.htm
+
+Resource: Ascites: A Common Problem in People with Cirrhosis
+Category: Related Issues
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/ascites/
+
+Resource: Bleeding esophageal varices
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000268.htm
+
+Resource: Body MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bodymr
+
+Resource: Cirrhosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000255.htm
+
+Resource: Cirrhosis
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/cirrhosis
+
+Resource: Cirrhosis - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000290.htm
+
+Resource: Cirrhosis and Portal Hypertension
+Category: Related Issues
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/cirrhosis-and-portal-hypertension/
+
+Resource: Cirrhosis for Patients
+Category: Start Here
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/cirrhosis/patient/index.asp
+
+Resource: ClinicalTrials.gov: Liver Cirrhosis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Liver+Cirrhosis%22&aggFilters=status:not%20rec
+
+Resource: Cryptogenic cirrhosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cryptogenic-cirrhosis
+
+Resource: Eating Tips for People with Cirrhosis
+Category: Living With
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/cirrhosis/patient/diet.asp
+
+Resource: Elastography
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/elastography/
+
+Resource: Esophageal Varices
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/esophageal-varices/symptoms-causes/syc-20351538?p=1
+
+Resource: FastStats: Chronic Liver Disease and Cirrhosis
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/liver-disease.htm
+
+Resource: Gamma-glutamyl transpeptidase (GGT) blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003458.htm
+
+Resource: Hepatorenal syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000489.htm
+
+Resource: Leucine aminopeptidase - urine
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003617.htm
+
+Resource: Liver Biopsy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/liver-biopsy
+
+Resource: Liver biopsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003895.htm
+
+Resource: Liver Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+
+Resource: Loss of brain function - liver disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000302.htm
+
+Resource: Mesenteric angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003819.htm
+
+Resource: Milk Thistle
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/milk-thistle
+
+Resource: MRCP (MR Cholangiopancreatography)
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/mrcp
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Nonalcoholic Fatty Liver Disease (NAFLD) and NASH
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash
+
+Resource: Pleural fluid analysis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003624.htm
+
+Resource: Portacaval shunting
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007336.htm
+
+Resource: Primary Biliary Cholangitis
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/primary-biliary-cholangitis/symptoms-causes/syc-20376874?p=1
+
+Resource: Primary Biliary Cholangitis (Primary Biliary Cirrhosis)
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/liver-disease/primary-biliary-cholangitis
+
+Resource: Primary biliary cirrhosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000282.htm
+
+Resource: Protein electrophoresis - serum
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003540.htm
+
+Resource: Cirrhosis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Liver+Cirrhosis%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Smooth Muscle Antibody (SMA) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/smooth-muscle-antibody-sma-test/
+
+Resource: Total iron binding capacity
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003489.htm
+
+Resource: Transjugular Intrahepatic Portosystemic Shunt (TIPS)
+Category: Treatments and Therapies
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/tips
+
+Resource: Transjugular intrahepatic portosystemic shunt (TIPS)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007210.htm
+
+Resource: What Is Decompensated Cirrhosis?
+Category: Specifics
+Organization: Department of Veterans Affairs
+URL: https://www.hepatitis.va.gov/cirrhosis/patient/decompensated.asp

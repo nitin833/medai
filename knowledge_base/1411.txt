@@ -1,0 +1,246 @@
+Title: Connective Tissue Disorders
+
+Summary:
+Your connective tissue supports many different parts of your body, such as your skin, eyes, and heart. It is like a "cellular glue" that gives your body parts their shape and helps keep them strong. It also helps some of your tissues do their work. It is made of many kinds of proteins. Cartilage and fat are types of connective tissue.
+Over 200 disorders that impact connective tissue. There are different types:
+Genetic disorders, such as
+Ehlers-Danlos syndrome
+,
+Marfan syndrome
+, and
+osteogenesis imperfecta
+Autoimmune disorders, such as
+lupus
+and
+scleroderma
+Cancers, like some types of
+soft tissue sarcoma
+Each disorder has its own symptoms and needs different treatment.
+NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Connective Tissue Diseases
+
+Related Resources:
+
+Resource: Achondrogenesis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001247.htm
+
+Resource: Achondrogenesis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/achondrogenesis
+
+Resource: ANA (Antinuclear Antibody) Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ana-antinuclear-antibody-test/
+
+Resource: Arterial tortuosity syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/arterial-tortuosity-syndrome
+
+Resource: Autoantibody Testing
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/autoantibody-testing/
+
+Resource: Buschke-Ollendorff syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/buschke-ollendorff-syndrome
+
+Resource: Cartilage Hair Hypoplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cartilage-hair-hypoplasia.html
+
+Resource: ClinicalTrials.gov: Connective Tissue Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Connective+Tissue+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Mixed Connective Tissue Disease
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Mixed+Connective+Tissue+Disease%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Pseudoxanthoma Elasticum
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Pseudoxanthoma+Elasticum%22&aggFilters=status:not%20rec
+
+Resource: Congenital contractural arachnodactyly: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-contractural-arachnodactyly
+
+Resource: Connective Tissue Disorders: Recognizing and Treating Structural Defects
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/09/connective-tissue-disorders
+
+Resource: Cutis Laxa
+Category: Specifics
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/connective-tissue-disorders-in-children/cutis-laxa
+
+Resource: Cutis laxa: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cutis-laxa
+
+Resource: Czech dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloepiphyseal-dysplasia-with-metatarsal-shortening
+
+Resource: Diastrophic Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/diastrophic-dysplasia.html
+
+Resource: Dupuytrens contracture
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001233.htm
+
+Resource: Ellis-Van Creveld Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ellis-dysplasia.html
+
+Resource: Ganglion Cyst
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/ganglion-cyst
+
+Resource: Hyaline fibromatosis syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyaline-fibromatosis-syndrome
+
+Resource: Hypochondrogenesis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypochondrogenesis
+
+Resource: Kniest Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/kniest-dysplasia.html
+
+Resource: Kniest dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/kniest-dysplasia
+
+Resource: Lateral meningocele syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lateral-meningocele-syndrome
+
+Resource: Lipoma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/lipoma/symptoms-causes/syc-20374470?p=1
+
+Resource: Loeys-Dietz Syndrome
+Category: Specifics
+Organization: Marfan Foundation
+URL: https://marfan.org/conditions/loeys-dietz/
+
+Resource: Loeys-Dietz syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/loeys-dietz-syndrome/
+
+Resource: Multiple Epiphyseal Dysplasia (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/multiple-epiphyseal-dysplasia.html
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Otospondylomegaepiphyseal dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/otospondylomegaepiphyseal-dysplasia
+
+Resource: Platyspondylic lethal skeletal dysplasia, Torrance type: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/platyspondylic-dysplasia-torrance-type
+
+Resource: Pseudoxanthoma elasticum: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/pseudoxanthoma-elasticum
+
+Resource: Connective tissue disorders
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Connective+Tissue+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shprintzen-Goldberg syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/shprintzen-goldberg-syndrome
+
+Resource: Spondyloepimetaphyseal dysplasia, Strudwick type: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloepiphyseal-dysplasia-with-marked-metaphyseal-changes
+
+Resource: Spondyloepiphyseal Dysplasia Congenita (SEDc) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/sedc-dysplasia.html
+
+Resource: Spondyloepiphyseal dysplasia congenita: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloepiphyseal-dysplasia-congenita
+
+Resource: Spondyloperipheral dysplasia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/spondyloperipheral-dysplasia
+
+Resource: Stickler syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/stickler-syndrome
+
+Resource: Synovial Chondromatosis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/synovial-chondromatosis
+
+Resource: Systemic scleroderma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/systemic-scleroderma
+
+Resource: Undifferentiated Connective Tissue Disease (UCTD)
+Category: Specifics
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/uctd-undifferentiated-connective-tissue-disease?modal=1
+
+Resource: Weill-Marchesani syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/weill-marchesani-syndrome
+
+Resource: Weissenbacher-Zweymüller syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/weissenbacher-zweymuller-syndrome

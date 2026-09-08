@@ -1,0 +1,164 @@
+Title: Limb Loss
+
+Summary:
+People can lose all or part of an arm or leg for many reasons. Common ones include:
+Problems with the flow of blood through your body. These may be the result of atherosclerosis or diabetes. Severe cases may result in amputation (the surgical removal of a limb).
+Injuries, including from traffic accidents and military combat.
+Cancer.
+Birth defects.
+Some amputees have phantom pain, which is the feeling of pain in the missing limb. Other physical problems include surgical complications and skin problems if you wear an
+artificial limb
+. Many amputees use an artificial limb. Learning how to use it takes time. Physical therapy can help you adapt.
+Recovery from the loss of a limb can be hard. Sadness, anger, and frustration are common. If you are having a tough time, talk to your health care provider. Treatment with medicine or counseling can help.
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Amputees
+
+Related Resources:
+
+Resource: Amputations
+Category: Prevention and Risk Factors
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/sites/default/files/publications/AMPUTATION-FACTSHEET.pdf
+
+Resource: Before Your Amputation: Questions to Ask Your Surgeon
+Category: Specifics
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/questions-to-ask/
+
+Resource: Beginning Your New Journey: Above Knee Amputation
+Category: Living With
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/wp-content/uploads/Above-Knee-Amputation-2025.pdf
+
+Resource: Beginning Your New Journey: Below Knee Amputation
+Category: Living With
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/wp-content/uploads/Below-Knee-Amputation-2025.pdf
+
+Resource: Beginning Your New Journey: Upper-Limb Amputation
+Category: Living With
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/wp-content/uploads/Upper-Limb-Amputation-2025.pdf
+
+Resource: Care of Your Wounds After Amputation Surgery
+Category: Treatments and Therapies
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/care-of-your-wounds-after-amputation-surgery-fs/
+
+Resource: ClinicalTrials.gov: Amputation
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=amputation&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Amputation, Traumatic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Amputation,+Traumatic%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Amputees
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Amputees%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Artificial Limbs
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?term=prosthetic+limbs&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Phantom Limb
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Phantom+Limb%22&aggFilters=status:not%20rec
+
+Resource: Diabetic Complications and Amputation Prevention
+Category: Prevention and Risk Factors
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/diabetic-complications-and-amputation-prevention
+
+Resource: Emotional Recovery
+Category: Living With
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/emotional-recovery/
+
+Resource: First Step -- A Guide for Adapting to Limb Loss
+Category: Start Here
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/wp-content/uploads/First-Step-Guide-2025.pdf
+
+Resource: Foot amputation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000013.htm
+
+Resource: Leg amputation - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000014.htm
+
+Resource: Leg or foot amputation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007365.htm
+
+Resource: Leg or foot amputation - dressing change
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000018.htm
+
+Resource: Living with Phantom Limb Pain
+Category: Specifics
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/living-with-phantom-limb-pain-fs/
+
+Resource: Missing or Incompletely Formed Limbs
+Category: Children
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/children-s-health-issues/birth-defects-of-the-bones-joints-and-muscles/missing-or-incompletely-formed-limbs
+
+Resource: Pediatric Limb Loss and Limb Difference: An Introduction for Parents
+Category: Children
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/pediatric-limb-loss-and-limb-difference-an-introduction-for-parents/
+
+Resource: Phantom limb pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000050.htm
+
+Resource: Points to Know and Consider When Preparing for and Undergoing an Amputation
+Category: Start Here
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/points-to-know/
+
+Resource: Limb Loss
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Amputees%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rehabilitation after Limb Amputation
+Category: Living With
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/special-subjects/rehabilitation/rehabilitation-after-limb-amputation
+
+Resource: Residual Limb Pain
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/residual-limb-pain/symptoms-causes/syc-20541403?p=1
+
+Resource: Traumatic amputation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000006.htm
+
+Resource: When a Parent Loses a Limb: Helping Children Cope
+Category: Living With
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/when-a-parent-loses-a-limb-helping-children-cope/
+
+Resource: Wound Care: Preventing Infection
+Category: Related Issues
+Organization: Amputee Coalition
+URL: https://amputee-coalition.org/resources/wound-care-preventing-infection/

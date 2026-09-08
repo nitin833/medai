@@ -1,0 +1,209 @@
+Title: Child Development
+
+Summary:
+As children grow older, they develop in several different ways. Child development includes physical, intellectual, social, and emotional changes.
+Children grow and mature at very different rates. It's hard to say what "normal" is.  There can be big differences in height, weight, and build among healthy children. Diet, exercise and genes are all factors. Some children begin
+puberty
+or are close to it before they are teenagers.
+Children start to become more independent from their parents.  They may rebel.  They also look outward - to their friends, who are usually of the same sex. Peer approval becomes very important. Your child may try new behaviors to be part of "the group." This can also be the time that parents or teachers recognize
+learning disabilities
+or
+behavioral problems
+in children. These problems can get worse as time goes on, so it is important to get help early.
+
+Groups:
+- Children and Teenagers
+
+MeSH Headings:
+- Child Development
+
+Related Resources:
+
+Resource: 5 Ways to Promote a Positive Body Image for Kids
+Category: Related Issues
+Organization: Academy of Nutrition and Dietetics
+URL: https://www.eatright.org/health/wellness/weight-and-body-positivity/5-ways-to-promote-a-positive-body-image-for-kids
+
+Resource: American Academy of Child and Adolescent Psychiatry
+Category: Find an Expert
+Organization: American Academy of Child and Adolescent Psychiatry
+URL: https://www.aacap.org/
+
+Resource: Bedwetting
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000703.htm
+
+Resource: Bedwetting in Children (Enuresis) (For Parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/enuresis.html
+
+Resource: Bedwetting: 3 Common Reasons and What Families Can Do
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/ages-stages/toddler/toilet-training/Pages/Bedwetting.aspx
+
+Resource: Bladder Control Problems and Bedwetting in Children
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children
+
+Resource: Child Development
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/child-development/
+
+Resource: ClinicalTrials.gov: Child Development
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Child+Development%22&aggFilters=status:not%20rec
+
+Resource: Developmental and Behavioral Screening Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/developmental-and-behavioral-screening-tests/
+
+Resource: Developmental milestones record
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002002.htm
+
+Resource: Developmental milestones record - 4 years
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002015.htm
+
+Resource: Developmental milestones record - 5 years
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002016.htm
+
+Resource: Developmental Monitoring and Screening
+Category: Diagnosis and Tests
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/act-early/about/developmental-monitoring-and-screening.html
+
+Resource: Emotions and Behavior
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/emotions/
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Feeling Good About Yourself (Self-Esteem)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/self-esteem.html
+
+Resource: Growth and Development
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/growth/
+
+Resource: Growth chart
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001910.htm
+
+Resource: Growth Charts (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/growth-charts.html
+
+Resource: How to Handle Peer Pressure
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/peer-pressure.html
+
+Resource: How to Read a Growth Chart: Percentiles Explained
+Category: Diagnosis and Tests
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/Glands-Growth-Disorders/Pages/growth-charts-by-the-numbers.aspx
+
+Resource: KidsHealth
+Category: Find an Expert
+Organization: Nemours Foundation
+URL: https://kidshealth.org/
+
+Resource: Magic of Play: How It Inspires and Aids Early Development
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/play-magic.html
+
+Resource: Medications to Treat Bed-Wetting
+Category: Treatments and Therapies
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/medications-to-treat-bed-wetting
+
+Resource: Normal growth and development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002456.htm
+
+Resource: Physical Therapy (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/phys-therapy.html
+
+Resource: Positive Parenting Tips: Preschoolers (3-5 years old)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/child-development/positive-parenting-tips/preschooler-3-5-years.html
+
+Resource: Preschooler development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002013.htm
+
+Resource: Child Development
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Child+Development%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: School-age children development
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002017.htm
+
+Resource: Shyness in Children
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/gradeschool/Pages/Shyness-in-Children.aspx
+
+Resource: Speech-Language Therapy (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/speech-therapy.html
+
+Resource: Telling Your Child a Family Member Has a Serious Illness
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/serious-illness.html
+
+Resource: Temper tantrums
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001922.htm
+
+Resource: Understanding Your Child's Temperament: Why It's Important
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/english/ages-stages/gradeschool/Pages/How-to-Understand-Your-Childs-Temperament.aspx
+
+Resource: Videos from the Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)
+Category: Videos and Tutorials
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/newsroom/digital-media/videos
+
+Resource: What Is a Developmental-Behavioral Pediatrician?
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/family-life/health-management/pediatric-specialists/pages/What-is-a-Developmental-Behavioral-Pediatrician.aspx
+
+Resource: Your Child's Growth
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/childs-growth.html

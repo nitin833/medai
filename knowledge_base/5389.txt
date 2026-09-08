@@ -1,0 +1,78 @@
+Title: Vitamina K
+
+Also Called:
+- Filoquinona
+
+Summary:
+Las
+vitaminas
+son sustancias que ayudan a su cuerpo a crecer y desarrollarse en forma normal. La vitamina K ayuda al cuerpo a construir huesos y tejidos saludables a través de las proteínas. También produce proteínas que ayudan a coagular la sangre. Si no tiene suficiente vitamina K, podría
+sangrar mucho
+.
+Los recién nacidos tienen muy poca vitamina K. Frecuentemente reciben una vacuna de vitamina K poco después de nacer.
+Si está tomando
+anticoagulantes
+, necesita tener cuidado con la cantidad de vitamina K que consume. También necesitaría tener cuidado al consumir suplementos de vitamina E. La
+vitamina E
+puede interferir con la manera en que la vitamina K se procesa en el cuerpo. Hable con su proveedor de salud para que le aconseje sobre el consumo de estas vitaminas.
+Hay diferentes tipos de vitamina K. La mayoría de las personas consume vitamina K a través de las verduras de hojas y las bayas de color oscuro. Las bacterias en su intestino también producen pequeñas cantidades de vitamina K.
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Anticoagulantes y la vitamina K
+Category: Más información, Spanish/Español
+Organization: Hospital de Investigación sobre Niños St. Jude
+URL: https://www.stjude.org/content/dam/es_US/shared/www/do-you-know-spanish/nutrition-anticoagulant-k-spa.pdf
+
+Resource: Análisis del factor II (protombina)
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003674.htm
+
+Resource: Análisis del factor IX
+Category: Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003679.htm
+
+Resource: Análisis del factor VII
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003676.htm
+
+Resource: Análisis del factor X
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003680.htm
+
+Resource: Carencia de vitamina K
+Category: Más información, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-nutricionales/vitaminas/carencia-de-vitamina-k
+
+Resource: Deficiencias poco comunes de factores de la coagulación
+Category: Más información, Spanish/Español
+Organization: Federación Mundial de Hemofilia
+URL: https://elearning.wfh.org/es/centros-de-aprendizaje/deficiencias-poco-comunes-de-factores-de-la-coagulacion/
+
+Resource: Preguntas frecuentes acerca de los sangrados por deficiencia de vitamina K
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/vitamin-k-deficiency/es/faq/preguntas-frecuentes-acerca-de-los-sangrados-por-deficiencia-de-vitamina-k.html
+
+Resource: Sangrado por deficiencia de vitamina K en recién nacidos
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007320.htm
+
+Resource: Vitamina K
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002407.htm
+
+Resource: Vitamina K
+Category: Más información, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminK-DatosEnEspanol/

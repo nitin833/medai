@@ -1,0 +1,108 @@
+Title: Gas
+
+Also Called:
+- Belch
+- Burp
+- Eructation
+- Flatulence
+- Flatus
+
+Summary:
+Everyone has gas. Most people pass gas 13 to 21 times a day. Passing gas through the mouth is called belching or burping.  Passing gas through the anus is called flatulence. Most of the time gas does not have an odor. The odor comes from bacteria in the large intestine that release small amounts of gases that contain sulfur.
+Gas in the digestive tract comes from two sources: air that you swallow and the breakdown of undigested food by bacteria in the large intestine.  Certain foods may cause gas.  Foods that produce gas in one person may not cause gas in another.
+You can reduce the amount of gas you have by:
+Drinking lots of water and non-fizzy drinks
+Eating more slowly so you swallow less air when you eat
+Avoiding milk products if you have
+lactose intolerance
+Medicines can help reduce gas or the pain and bloating caused by gas. If your symptoms still bother you, see your health care provider.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Symptoms
+
+MeSH Headings:
+- Eructation
+- Flatulence
+
+Related Resources:
+
+Resource: Abdominal bloating
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003123.htm
+
+Resource: Belching
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003080.htm
+
+Resource: Belching, Bloating and Flatulence
+Category: Start Here
+Organization: American College of Gastroenterology
+URL: https://gi.org/topics/belching-bloating-and-flatulence/
+
+Resource: Bland diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000068.htm
+
+Resource: Burping Your Baby
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/burping.html
+
+Resource: ClinicalTrials.gov: Flatulence
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Flatulence%22&aggFilters=status:not%20rec
+
+Resource: Find a Gastroenterologist (GI Doctor)
+Category: Find an Expert
+Organization: American College of Gastroenterology
+URL: https://gi.org/patients/find-a-gastroenterologist/
+
+Resource: Foods Likely to Cause Gas
+Category: Living With
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://iffgd.org/gi-disorders/symptoms-causes/intestinal-gas/foods-that-may-cause-gas/
+
+Resource: Gas - flatulence
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003124.htm
+
+Resource: Gas in the Digestive Tract
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/gas-digestive-tract
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Gas
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Flatulence%22%5Bmajr%3Anoexp%5D+OR+%22Eructation%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29
+
+Resource: Treatment of Gas
+Category: Treatments and Therapies
+Organization: International Foundation for Gastrointestinal Disorders
+URL: https://iffgd.org/gi-disorders/symptoms-causes/intestinal-gas/treatment/
+
+Resource: What's a Fart?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/fart.html
+
+Resource: Why Do I Burp?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/burp.html
+
+Resource: Your Digestive System and How It Works
+Category: Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works

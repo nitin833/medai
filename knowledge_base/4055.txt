@@ -1,0 +1,171 @@
+Title: Animal Diseases and Your Health
+
+Also Called:
+- Zoonoses
+
+Summary:
+Animal diseases that people can catch are called zoonoses.   Many diseases affecting humans can be traced to animals or animal products. You can get a disease directly from an animal, or indirectly, through the environment.
+Farm animals can carry diseases. If you touch them or things they have touched, like fencing or buckets, wash your hands thoroughly. Adults should make sure children who visit farms or petting zoos wash up as well.
+Though they may be cute and cuddly, wild animals may carry germs, viruses, and parasites. Deer and deer mice carry ticks that cause
+Lyme disease
+. Some wild animals may carry
+rabies
+. Enjoy wildlife from a distance.
+Pets
+can also make you sick. Reptiles pose a particular risk. Turtles, snakes and iguanas can transmit
+Salmonella
+bacteria to their owners. You can get rabies from an infected dog or
+toxoplasmosis
+from handling kitty litter of an infected cat. The chance that your dog or cat will make you sick is small. You can reduce the risk by practicing good hygiene, keeping pet areas clean and keeping your pets' shots up to date.
+
+Groups:
+- Infections
+
+MeSH Headings:
+- Zoonoses
+
+Related Resources:
+
+Resource: About Bat Flu
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu-in-animals/about/bat-flu.html
+
+Resource: About Zoonotic Hookworm
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/zoonotic-hookworm/about/index.html
+
+Resource: Avian Influenza
+Category: Related Issues
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/avian-flu
+
+Resource: Backyard Poultry
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/backyard-poultry.html
+
+Resource: Bird Flu
+Category: Symptoms, Prevention and Risk Factors
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/bird-flu.html
+
+Resource: Birds (Pets)
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/birds.html
+
+Resource: Brucellosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000597.htm
+
+Resource: Cats
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/cats.htmL
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Controlling Wild Rodent Infestations
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/rodent-control/
+
+Resource: Creeping eruption
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001454.htm
+
+Resource: Disease Risks for People at Dog Social Events
+Category: Specifics
+Organization: American Veterinary Medical Association
+URL: https://www.avma.org/resources/pet-owners/petcare/disease-risks-people-dog-social-events
+
+Resource: Dogs
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/dogs.html
+
+Resource: Facts about Diseases that Can Spread between Animals and People
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/diseases/
+
+Resource: Farm Animals
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/farm-animals.html
+
+Resource: Horses
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/horses.html
+
+Resource: Infections that Pets Can Spread
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/pet-infections.html
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: People at Increased Risk for Toxoplasmosis
+Category: Women
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/toxoplasmosis/risk-factors/
+
+Resource: Pets and Pasteurella Infections
+Category: Specifics
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/from-insects-animals/pages/Pets-and-Pasteurella-Infections.aspx
+
+Resource: Pets and the immunocompromised person
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003967.htm
+
+Resource: Preventing Rabies from Bats
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/rabies/prevention/bats.html
+
+Resource: Psittacosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000088.htm
+
+Resource: Animal Diseases and Your Health
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Zoonoses%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rat-bite fever
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001348.htm
+
+Resource: Ringworm and Fungal Nail Infections Basics
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/ringworm/about/
+
+Resource: Tularemia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000856.htm
+
+Resource: Visceral larva migrans
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000633.htm
+
+Resource: Ways to Stay Healthy Around Animals
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/healthy-pets/about/

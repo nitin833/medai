@@ -1,0 +1,171 @@
+Title: Chronic Pain
+
+Summary:
+What is chronic pain?
+Pain
+is a signal from your nervous system that something may be wrong. It is an unpleasant feeling, such as a prick, tingle, sting, burn, or ache. Pain may be sharp or dull. You may feel pain in one area of your body or all over. Each person feels pain differently, even if the reason for the pain is the same.
+Pain might be acute or chronic. The type of pain is based on how long and how often you have pain. Acute pain starts suddenly and goes away when the cause is treated or healed. This pain lets you know that you may be injured or have a problem you need to take care of. Chronic pain lasts longer than three months or the time in which you should have healed.
+If you have chronic pain, it can occur most days or every day and may last for weeks, months, or even years. It can affect all aspects of daily life, including your mood and relationships. Treatment may not get rid of chronic pain, but it can help with your symptoms.
+What causes chronic pain?
+Sometimes, acute pain can become chronic pain. The original cause may have been an injury or infection, or you may have an ongoing cause of pain, such as
+arthritis
+or
+cancer
+. In some cases, there is no clear cause. Environmental factors and psychological factors such as mood and stress can make chronic pain worse.
+What are the symptoms of chronic pain?
+Since people feel pain in different ways, two people could have the same issue, but each may have different symptoms. Chronic pain can occur anywhere in your body and may cause other symptoms such as
+fatigue
+, mood changes, or
+difficulty sleeping
+. If you have
+depression
+or stress, it may make chronic pain worse.
+Who is more likely to get chronic pain?
+Many older adults have chronic pain. Women also report having more chronic pain than men, and they are at a greater risk for many pain conditions. Some people have two or more chronic pain conditions. You may be more likely to have chronic pain if you have certain medical conditions such as:
+Headaches
+or
+migraines
+Cancer
+Fibromyalgia
+Arthritis
+Nerve damage
+Back problems
+How is chronic pain diagnosed?
+Chronic pain lasts three months or longer or when pain continues after your body has healed. If the cause of your pain is unknown, your health care provider may:
+Ask you about your medical history
+Ask you to describe the pain and how it affects your life
+Do a physical exam
+Order blood tests or other medical tests
+What are the treatments for chronic pain?
+Chronic pain is not always curable, but treatments can help. Treatments may include medicines, including
+pain relievers
+. There are also
+non-drug treatments
+, such as
+acupuncture
+, physical therapy, and sometimes surgery.
+Depending on the cause of your pain and your symptoms, your provider may also recommend lifestyle changes which may include suggestions for:
+Improving mental health
+Managing
+stress
+Getting to and staying at a
+healthy weight
+Adding low-impact
+exercise
+
+Groups:
+- Brain and Nerves
+- Symptoms
+
+MeSH Headings:
+- Chronic Pain
+
+Related Resources:
+
+Resource: "Ouch, That Hurts!" The Science of Pain
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/ouch-that-hurts-the-science-of-pain
+
+Resource: Amplified Musculoskeletal Pain Syndrome (AMPS)
+Category: Specifics
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/amplified-musculoskeletal-pain-syndrome-amps
+
+Resource: Antidepressants: Another Weapon against Chronic Pain
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/back-pain/in-depth/pain-medications/art-20045647?p=1
+
+Resource: Basic Facts about Pain Management
+Category: Older Adults
+Organization: American Geriatrics Society
+URL: https://www.healthinaging.org/a-z-topic/pain-management/basic-facts
+
+Resource: Central Pain Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/central-pain-syndrome
+
+Resource: Chronic Pain (For Employees)
+Category: Related Issues
+Organization: Office of Disability Employment Policy
+URL: https://askjan.org/disabilities/Chronic-Pain.cfm?
+
+Resource: Chronic Pain and PTSD
+Category: Related Issues
+Organization: National Center for PTSD
+URL: https://www.ptsd.va.gov/understand/related/chronic_pain.asp
+
+Resource: ClinicalTrials.gov: Chronic Pain
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Chronic+Pain%22&aggFilters=status:not%20rec
+
+Resource: Complementary Health Approaches for Chronic Pain: What the Science Says
+Category: Statistics and Research
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/providers/digest/complementary-health-approaches-for-chronic-pain-science
+
+Resource: Coping with Chronic Pain
+Category: Living With
+Organization: American Psychological Association
+URL: https://www.apa.org/topics/pain/chronic?partner=nlm
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Managing Pain: Moving beyond Opioids
+Category: Treatments and Therapies
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2018/10/managing-pain
+
+Resource: Managing your chronic back pain
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000516.htm
+
+Resource: Myofascial Pain Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/myofascial-pain-syndrome/symptoms-causes/syc-20375444?p=1
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: Non-Drug Pain Management: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/nondrugpainmanagement.html
+
+Resource: Pain
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/pain
+
+Resource: Pain and your emotions
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000417.htm
+
+Resource: Pain Consortium
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/current-research/trans-agency-activities/pain-consortium
+
+Resource: Pain Relievers: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/painrelievers.html
+
+Resource: Chronic Pain
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Chronic+Pain%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Stopping Pain Before It Turns Chronic
+Category: Prevention and Risk Factors
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/pain/stopping-pain-before-it-turns-chronic

@@ -1,0 +1,95 @@
+Title: Asbestos
+
+Summary:
+Asbestos is the name of a group of minerals with long, thin fibers. It was once used widely as insulation. It also occurs in the environment. Asbestos fibers are so small you can't see them. If you disturb asbestos, the fibers can float in the air. This makes them easy to inhale, and some may become lodged in the lungs.
+If you breathe in high levels of asbestos over a long period of time, the fibers can build up in the lungs.  This causes scarring and inflammation, and can affect breathing. Eventually it can lead to diseases such as:
+Asbestosis, or scarring of the lungs that makes it hard to breathe
+Mesothelioma
+, a rare cancer that affects the lining of the lungs or abdomen
+Lung cancer
+Lung diseases associated with asbestos usually develop over many years. People who become ill from asbestos are usually exposed on the job over long periods of time. Smoking cigarettes increases the risk.
+Agency for Toxic Substances and Disease Registry
+
+Groups:
+- Lungs and Breathing
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Asbestos
+- Asbestosis
+
+Related Resources:
+
+Resource: Asbestos
+Category: Start Here
+Organization: American Lung Association
+URL: https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants/asbestos
+
+Resource: Asbestos
+Category: Start Here
+Organization: Agency for Toxic Substances and Disease Registry
+URL: https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=29&toxid=4
+
+Resource: Asbestos Exposure and Cancer Risk
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos/asbestos-fact-sheet
+
+Resource: Asbestosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000118.htm
+
+Resource: Asbestosis
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asbestosis/symptoms-causes/syc-20354637?p=1
+
+Resource: Environmental Protection Agency
+Category: Find an Expert
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/
+
+Resource: Learn about Mesothelioma
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/mesothelioma/learn-about-mesothelioma
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: National Institute for Occupational Safety and Health
+Category: Find an Expert
+Organization: National Institute for Occupational Safety and Health
+URL: https://www.cdc.gov/niosh/index.html
+
+Resource: Occupational Safety and Health Administration
+Category: Find an Expert
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/
+
+Resource: Protect Your Family from Exposures to Asbestos
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/asbestos/protect-your-family-exposures-asbestos
+
+Resource: Asbestos
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Asbestosis%22%5Bmajr%3Anoexp%5D+OR+%22Asbestos%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Safety and Health Topics: Asbestos
+Category: Start Here
+Organization: Occupational Safety and Health Administration
+URL: https://www.osha.gov/asbestos
+
+Resource: Talc
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/cosmetics/cosmetic-ingredients/talc
+
+Resource: What Are Interstitial Lung Diseases?
+Category: Related Issues
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/interstitial-lung-diseases

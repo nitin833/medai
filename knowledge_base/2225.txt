@@ -1,0 +1,58 @@
+Title: Verrugas
+
+Summary:
+Las verrugas son crecimientos del tejido en la piel causados por una infección por el
+virus del papiloma humano
+o VPH. Los tipos de verrugas incluyen:
+Verrugas comunes, que suelen aparecer en los dedos
+Verrugas plantares, que aparecen en las plantas de los pies
+Verrugas genitales
+, una infección de transmisión sexual (ITS)
+Verrugas planas, que aparecen en lugares donde se afeita con frecuencia
+En los niños, las verrugas suelen desaparecer en forma espontánea. En los adultos, tienden a permanecer. Si duelen o molestan o si se multiplican, es posible eliminarlas. Los tratamientos químicos de la piel suelen funcionar. En caso contrario, hay varios tratamientos de congelamiento, cirugía y rayos láser que eliminan las verrugas.
+
+Groups:
+- Infecciones
+- Piel, cabello y uñas
+
+Related Resources:
+
+Resource: Crioterapia para la piel
+Category: Spanish/Español, NON-DISPLAY (Patient Handout), Tratamientos y terapias
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007506.htm
+
+Resource: Qué hacer con las verrugas
+Category: Comience aquí, Spanish/Español
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/warts-sheet.html
+
+Resource: Tratamiento para las verrugas
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/Spanish/health-issues/conditions/skin/Paginas/Treatment-For-Warts.aspx
+
+Resource: Verruga plantar
+Category: Asuntos específicos, Spanish/Español
+Organization: Colegio Americano de Cirujanos del Pie y Tobillo
+URL: https://www.foothealthfacts.org/conditions/plantar-wart-(verruca-plantaris)?lang=es-MX
+
+Resource: Verrugas
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000885.htm
+
+Resource: Verrugas
+Category: Spanish/Español, Niños/as
+Organization: Fundación Nemours
+URL: https://kidshealth.org/es/parents/wart.html
+
+Resource: Verrugas comunes
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/common-warts/symptoms-causes/syc-20371125?p=1
+
+Resource: Verrugas plantares
+Category: Asuntos específicos, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/plantar-warts/symptoms-causes/syc-20352691?p=1

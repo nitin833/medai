@@ -1,0 +1,484 @@
+Title: X-Rays
+
+Also Called:
+- Radiography
+
+Summary:
+What is an x-ray?
+X-rays are a painless medical
+imaging test
+. They send a small amount of radiation through your body to create pictures of bones and organs.
+X-rays are a type of electromagnetic radiation. They create images in shades of black, white, and gray because different tissues absorb radiation differently. Bones absorb the most radiation and appear white. Fat and other soft tissues absorb less and appear gray. Air absorbs the least radiation, so areas like the lungs appear black.
+The image is recorded on film or sent to a computer. Health care providers use x-rays to find health problems and to check how well certain treatments are working.
+Who needs an x-ray?
+X-rays are commonly used to check for
+fractures
+(broken bones). They are also used for other purposes. For example, chest x-rays can detect
+pneumonia
+.
+Mammograms
+use x-rays to look for breast cancer. X-rays are also used as part of other imaging tests, such as
+CT scans
+.
+How do you prepare for an x-ray?
+In most cases, little or no preparation is needed. You may be asked to wear a lead apron to protect certain parts of your body. You may also be asked to remove jewelry or other items that could affect the image.
+The amount of
+radiation
+from an x-ray is small. For example, the radiation from a chest x-ray is about the same as the natural radiation you are exposed to from the environment over about 10 days.
+Always tell your provider if you are pregnant or think you may be pregnant.
+How is an x-ray done?
+Depending on the part of your body being examined, you may be asked to stand, sit, or lie down. You will need to stay still for a short time while the image is taken.
+What should you expect after an x-ray?
+After an x-ray, you can return to normal activities right away. A specialist called a radiologist reviews the images and shares the results with your provider.
+
+Groups:
+- Diagnostic Tests
+
+MeSH Headings:
+- X-Rays
+
+Related Resources:
+
+Resource: Abdominal x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003815.htm
+
+Resource: Abdominal X-Ray
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/abdominrad
+
+Resource: Abdominal X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-abdomen.html
+
+Resource: All About Your Radiology Report: What to Know
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/all-about-your-radiology-report
+
+Resource: Aortic angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003814.htm
+
+Resource: Are Dental X-Rays Safe?
+Category: Specifics
+Organization: American Association of Orthodontists
+URL: https://aaoinfo.org/whats-trending/is-radiation-from-dental-x-rays-harmful/
+
+Resource: Barium enema
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003817.htm
+
+Resource: Bone Density Scan
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bone-density-scan/
+
+Resource: Bone x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003808.htm
+
+Resource: Bone X-Ray
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/bonerad
+
+Resource: Catheter Angiography
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/angiocath
+
+Resource: Cerebral angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003799.htm
+
+Resource: Chest x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003804.htm
+
+Resource: Chest X-Ray
+Category: Videos and Tutorials
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/gallery/video/962
+
+Resource: Chest X-Ray (Radiography)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/chestrad
+
+Resource: ClinicalTrials.gov: X Rays
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?intr=%22X-Ray+Imaging%22&aggFilters=status:not%20rec
+
+Resource: Dental x-rays
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003801.htm
+
+Resource: Direct Arthrography
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/arthrog
+
+Resource: Discography (Discogram)
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/discography
+
+Resource: Do X-rays and Gamma Rays Cause Cancer?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/risk-prevention/radiation-exposure/x-rays-gamma-rays/do-xrays-and-gamma-rays-cause-cancer.html
+
+Resource: Elbow X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-exam-elbow.html
+
+Resource: Electronic Medical Devices, X-Ray Imaging and Radiation Therapy: What to Know and How to Prevent Damage
+Category: Related Issues
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/radiation-safety/electronic-medical-devices-x-ray-imaging-and-radiation-therapy-what-know-and-how-prevent-damage
+
+Resource: Enteroclysis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003818.htm
+
+Resource: Extremity x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003461.htm
+
+Resource: Femur X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-femur.html
+
+Resource: Fluoroscopy
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/fluoroscopy/
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Forearm X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-forearm.html
+
+Resource: Galactography (Ductography)
+Category: Women
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/galactogram
+
+Resource: Getting an X-Ray (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/get-xray.html
+
+Resource: Hand x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003811.htm
+
+Resource: How Does a Leg Length X-Ray Work? (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-leg-length.html
+
+Resource: Hysterosalpingography (Uterosalpingography)
+Category: Women
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/hysterosalp
+
+Resource: Intravenous pyelogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003782.htm
+
+Resource: Intravenous Pyelogram (IVP)
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/intravenous-pyelogram-ivp/
+
+Resource: Joint x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003810.htm
+
+Resource: Lower GI Series (Barium Enema)
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/lower-gi-series
+
+Resource: Lumbosacral spine x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003807.htm
+
+Resource: Lymphangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003798.htm
+
+Resource: Mammography: MedlinePlus Health Topic
+Category: Women
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/mammography.html
+
+Resource: Medical X-Ray Imaging
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/radiation-emitting-products/medical-imaging/medical-x-ray-imaging
+
+Resource: Mesenteric angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003819.htm
+
+Resource: My Child's Medical Imaging Record
+Category: Children
+Organization: Alliance for Radiation Safety in Pediatric Imaging
+URL: https://www.imagegently.org/Portals/6/Parents/Dose_Record_8.5x11_fold.pdf
+
+Resource: Myelography
+Category: Specifics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/myelography/
+
+Resource: Neck x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003805.htm
+
+Resource: Panoramic Dental X-Ray
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/panoramic-xray
+
+Resource: Patient Safety -- Contrast Material
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-contrast
+
+Resource: Pediatric VCUG (Voiding Cystourethrogram)
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/voidcysto
+
+Resource: Pelvic X-Ray Exam (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-pelvis.html
+
+Resource: Pelvis x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003809.htm
+
+Resource: Percutaneous transhepatic cholangiogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003820.htm
+
+Resource: X-Rays
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22X-Rays%22%5Bmajr%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+
+
+Resource: Pulmonary angiography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003813.htm
+
+Resource: Radiation and Medical X-Rays
+Category: Related Issues
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/radtown/radiation-and-medical-x-rays
+
+Resource: Radiation Dose from X-Ray and CT Exams
+Category: Related Issues
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-xray
+
+Resource: Radiation Safety for Children
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/safety-rad-children
+
+Resource: RadiologyInfo
+Category: Find an Expert
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/
+
+Resource: RadiologyInfo: Glossary of Terms
+Category: Reference Desk
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/glossary-index
+
+Resource: Renal arteriography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003781.htm
+
+Resource: Renal venogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003770.htm
+
+Resource: Retrograde cystography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003783.htm
+
+Resource: Sialogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003812.htm
+
+Resource: Sinus x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003803.htm
+
+Resource: Skull x-ray
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003802.htm
+
+Resource: Thoracic spine x-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003806.htm
+
+Resource: Upper GI and small bowel series
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003816.htm
+
+Resource: Upper GI Series
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/upper-gi-series
+
+Resource: Venogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007283.htm
+
+Resource: Venography -- Blood Flow Examination of Veins
+Category: Specifics
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/venography
+
+Resource: Virtual Colonoscopy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/virtual-colonoscopy
+
+Resource: Voiding cystourethrogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003784.htm
+
+Resource: X-ray
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003337.htm
+
+Resource: X-Ray
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/x-ray/about/pac-20395303?p=1
+
+Resource: X-ray - skeleton
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003381.htm
+
+Resource: X-Ray Exam: Ankle (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-ankle.html
+
+Resource: X-Ray Exam: Bone Age Study (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-bone-age.html
+
+Resource: X-Ray Exam: Cervical Spine (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-c-spine.html
+
+Resource: X-Ray Exam: Chest (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-exam-chest.html
+
+Resource: X-Ray Exam: Finger (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-finger.html
+
+Resource: X-Ray Exam: Foot (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-foot.html
+
+Resource: X-Ray Exam: Hand (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-hand.html
+
+Resource: X-Ray Exam: Hip (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-hip.html
+
+Resource: X-Ray Exam: Knee (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-knee.html
+
+Resource: X-Ray Exam: Lower Leg (Tibia and Fibula) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-lower-leg.html
+
+Resource: X-Ray Exam: Neck (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-neck.html
+
+Resource: X-Ray Exam: Scoliosis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-scoliosis.html
+
+Resource: X-Ray Exam: Upper Arm (Humerus) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-humerus.html
+
+Resource: X-Ray Exam: Upper Gastrointestinal Tract (Upper GI) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/xray-upper-gi.html
+
+Resource: X-Rays
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/x-rays/

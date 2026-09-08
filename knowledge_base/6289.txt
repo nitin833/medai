@@ -1,0 +1,101 @@
+Title: Signos vitales
+
+Summary:
+Sus signos vitales muestran qué tan bien está funcionando su cuerpo. Por lo general, se miden en la consulta del médico, a menudo como parte de un
+chequeo médico
+, o durante una visita de
+emergencia médica
+. Estos incluyen:
+La presión arterial
+, que mide la fuerza de la sangre contra las paredes de las arterias. La presión arterial que es
+muy alta
+o
+muy baja
+puede causar problemas. Su presión arterial tiene dos números. El primer número es la presión cuando el corazón late y bombea la sangre. El segundo es cuando el corazón está en reposo entre latidos. Una lectura de la presión arterial normal para adultos es inferior a 120/80 y superior a 90/60
+La frecuencia cardiaca o pulso
+, que mide la velocidad con la que su corazón late. Un problema con el ritmo cardíaco puede ser una
+arritmia
+. Su ritmo cardíaco normal depende de factores tales como su edad, cantidad de ejercicio, si usted está sentado o de pie, los medicamentos que toma y su peso
+La frecuencia respiratoria
+, que mide su respiración. Cambios respiratorios leves pueden ser por causas tales como tener la nariz tapada o hacer ejercicio intenso. Pero una respiración lenta o rápida también puede ser un signo de un
+problemas respiratorios
+graves
+La temperatura
+, que mide qué tan caliente está su cuerpo. Una temperatura corporal que es más alta de lo normal (más de 98,6 ºF o 37 ºC) se llama
+fiebre
+
+Groups:
+- Pruebas de diagnóstico
+- Bienestar y estilo de vida
+
+Related Resources:
+
+Resource: Cambios en los signos vitales con la edad
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/004019.htm
+
+Resource: Cómo el cuerpo controla la respiración
+Category: Más información, Spanish/Español
+Organization: Instituto Nacional del Corazón, los Pulmones y la Sangre
+URL: https://www.nhlbi.nih.gov/es/salud/pulmones/controles-respiratorios-del-cuerpo
+
+Resource: Medición de la presión arterial
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/medicion-de-la-presion-arterial/
+
+Resource: Medición de la presión arterial
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/007490.htm
+
+Resource: Medición de la temperatura
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003400.htm
+
+Resource: Monitores de muñeca para la presión arterial: ¿Son exactos?
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/high-blood-pressure/expert-answers/wrist-blood-pressure-monitors/faq-20057802?p=1
+
+Resource: Presión arterial
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000013.htm
+
+Resource: Presión arterial: ¿Se ve afectada por el clima frío?
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058250?p=1
+
+Resource: Presión arterial: ¿Tiene un patrón diario?
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058115?p=1
+
+Resource: Pulso
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003399.htm
+
+Resource: Respiración
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/anatomyvideos/000018.htm
+
+Resource: Signos vitales
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002341.htm
+
+Resource: Temperatura corporal normal
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001982.htm
+
+Resource: Termómetros: Comprender las opciones
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/fever/in-depth/thermometers/art-20046737?p=1

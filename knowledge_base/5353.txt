@@ -1,0 +1,136 @@
+Title: Trastornos de la uretra
+
+Summary:
+La uretra es un tubo que permite a la
+orina
+salir del cuerpo. En los hombres, la uretra es un tubo largo que corre a lo largo del pene. En las mujeres, la uretra es corta. Las causas de los problemas de la uretra pueden ser envejecimiento, enfermedad o lesión. Estos incluyen:
+Cáncer de la uretra: Un tipo raro de cáncer que afecta con más frecuencia a hombres
+Estenosis uretral: Estrechamiento de la abertura de la uretra
+Uretritis: Inflamación de la uretra, a veces causada por una infección
+Los problemas de la uretra pueden causar dolor o dificultad para orinar. Usted también puede presentar sangrado o secreción por la uretra.
+Los doctores diagnostican los problemas uretrales con varios exámenes. Estos incluyen análisis de orina, rayos X y un examen con una sonda especial con una pequeña cámara en su extremo llamado cistoscopia. El tratamiento depende  de la causa del problema. Puede incluir medicinas y, en casos severos, cirugía.
+
+Groups:
+- Riñones y sistema urinario
+
+Related Resources:
+
+Resource: Aspectos generales de las opciones de tratamiento para cáncer de uretra
+Category: Spanish/Español, Tratamientos y terapias
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/uretra/paciente/tratamiento-uretra-pdq#_46
+
+Resource: Autosondaje en hombres
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000143.htm
+
+Resource: Autosondaje en mujeres
+Category: Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/patientinstructions/000144.htm
+
+Resource: Cistoscopia y ureteroscopia
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/cistoscopia-ureteroscopia
+
+Resource: Cistouretrograma miccional pediátrico (VCUG)
+Category: Spanish/Español, Niños/as
+Organization: Sociedad de Radiología de Norteamérica
+URL: https://www.radiologyinfo.org/es/info/voidcysto
+
+Resource: Cultivo de secreción uretral
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003750.htm
+
+Resource: Diagnóstico por la imagen (imagenología) de las vías urinarias
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/pruebas-diagnosticas/imagen-vias-urinarias
+
+Resource: Epispadias
+Category: Spanish/Español, Niños/as, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001285.htm
+
+Resource: Estadios del cáncer de uretra
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/uretra/paciente/tratamiento-uretra-pdq#_22
+
+Resource: Estenosis meatal
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001599.htm
+
+Resource: Estenosis uretral
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001271.htm
+
+Resource: Hidronefrosis en recién nacidos
+Category: Spanish/Español, Niños/as
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/hidronefrosis-recien-nacidos
+
+Resource: Infecciones por clamidia en los hombres
+Category: Hombres, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000659.htm
+
+Resource: Información general sobre el cáncer de uretra
+Category: Comience aquí, Spanish/Español
+Organization: Instituto Nacional del Cáncer
+URL: https://www.cancer.gov/espanol/tipos/uretra/paciente/tratamiento-uretra-pdq#_1
+
+Resource: Lesiones ureterales
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/traumatismos-y-envenenamientos/lesiones-de-las-v%C3%ADas-urinarias-y-de-los-genitales/lesiones-ureterales
+
+Resource: Lesión traumática de la vejiga y la uretra
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001063.htm
+
+Resource: Retención urinaria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-renales-y-del-tracto-urinario/trastornos-de-la-micci%C3%B3n/retenci%C3%B3n-urinaria
+
+Resource: Retención urinaria
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/retencion-urinaria
+
+Resource: Sondas vesicales
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003981.htm
+
+Resource: Uretra
+Category: Información de referencia, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-renales-y-del-tracto-urinario/biolog%C3%ADa-de-los-ri%C3%B1ones-y-de-las-v%C3%ADas-urinarias/uretra
+
+Resource: Uretritis
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/trastornos-renales-y-del-tracto-urinario/infecciones-urinarias-iu/uretritis
+
+Resource: Uretritis
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000439.htm
+
+Resource: Válvulas de la uretra obstruidas
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/genitourinary-tract/paginas/blocked-urethral-valves.aspx
+
+Resource: Vías urinarias y cómo funcionan
+Category: Información de referencia, Spanish/Español
+Organization: Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales
+URL: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/enfermedades-urologicas/aparato-urinario-funciona

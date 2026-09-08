@@ -1,0 +1,230 @@
+Title: Foodborne Illness
+
+Also Called:
+- Food Poisoning
+
+Summary:
+Each year, around 48 million people in the United States get sick from contaminated food. Common causes include bacteria and viruses. Less often, the cause may be a parasite or a harmful chemical, such as a high amount of pesticides. Symptoms of foodborne illness depend on the cause. They can be mild or serious. They usually include:
+Upset stomach
+Abdominal cramps
+Nausea and vomiting
+Diarrhea
+Fever
+Dehydration
+Most foodborne illnesses are acute. This means that they happen suddenly and last a short time.
+It takes several steps to get food from the farm or fishery to your dining table. Contamination can happen during any of these steps. For example, it can happen to:
+Raw meat during slaughter
+Fruits and vegetables when they are growing or when they are processed
+Refrigerated foods when they are left on a loading dock in warm weather
+But it can also happen in your kitchen if you leave food out for more than 2 hours at room temperature.
+Handling food safely
+can help prevent foodborne illnesses.
+Most people with foodborne illness get better on their own. It is important to replace lost fluids and electrolytes to prevent dehydration. If your health care provider can diagnose the specific cause, you may get medicines such as
+antibiotics
+to treat it. For more serious illness, you may need treatment at a hospital.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Digestive System
+- Food and Nutrition
+- Poisoning, Toxicology, Environmental Health
+
+MeSH Headings:
+- Food Contamination
+- Foodborne Diseases
+
+Related Resources:
+
+Resource: About Food Safety
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/about/
+
+Resource: About Four Steps to Food Safety
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/prevention/
+
+Resource: About Norovirus
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/norovirus/about/
+
+Resource: About Trichinellosis
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/trichinellosis/about/
+
+Resource: About Vibrio Infection
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/vibrio/about/
+
+Resource: Amebiasis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000298.htm
+
+Resource: Bacteria Culture Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/bacteria-culture-test/
+
+Resource: Burden of Foodborne Illness in the United States
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/php/data-research/foodborne-illness-burden/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Chicken and Food Poisoning
+Category: Specifics
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/food-safety/foods/chicken.html
+
+Resource: ClinicalTrials.gov: Foodborne Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Foodborne+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Collecting a Stool Sample for Testing (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/stool-tests-done.html
+
+Resource: Cronobacter Sakazakii
+Category: Children
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/foodborne-pathogens/cronobacter-sakazakii
+
+Resource: Fecal culture
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003758.htm
+
+Resource: Food and Drug Administration
+Category: Find an Expert
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/
+
+Resource: Food Poisoning
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/food-poisoning/symptoms-causes/syc-20356230?p=1
+
+Resource: Food Poisoning
+Category: Start Here
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/food-poisoning
+
+Resource: Food poisoning
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001652.htm
+
+Resource: Food Poisoning
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/food-poisoning.html
+
+Resource: Food Poisoning
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/digestive-diseases/food-poisoning
+
+Resource: Food poisoning prevention
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001981.htm
+
+Resource: Food Safety: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/foodsafety.html
+
+Resource: Foodborne Illness-Causing Organisms in the U.S.: What You Need to Know
+Category: Start Here, Patient Handouts
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/media/77727/download
+
+Resource: FoodSafety.gov
+Category: Find an Expert
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/
+
+Resource: Gastritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001150.htm
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Ova and Parasite Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/ova-and-parasite-test/
+
+Resource: Parasites and Foodborne Illness
+Category: Specifics
+Organization: Department of Agriculture, Food Safety and Inspection Service
+URL: https://www.fsis.usda.gov/food-safety/foodborne-illness-and-disease/pathogens/parasites-and-foodborne-illness
+
+Resource: People at Risk of Foodborne Illness
+Category: Prevention and Risk Factors
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/food/consumers/people-risk-foodborne-illness
+
+Resource: People at Risk: Those with Weakened Immune Systems
+Category: Prevention and Risk Factors
+Organization: Department of Health and Human Services
+URL: https://www.foodsafety.gov/people-at-risk/people-with-weakened-immune-systems
+
+Resource: Poisoning - fish and shellfish
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002851.htm
+
+Resource: Preventing Cronobacter in Infants
+Category: Children
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/cronobacter/prevention/
+
+Resource: Preventing Food Poisoning
+Category: Prevention and Risk Factors
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/12/preventing-food-poisoning
+
+Resource: Foodborne Illness
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Foodborne+Diseases%22%5Bmajr%3Anoexp%5D+OR+%22Food+Contamination%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Shigella Infections (Shigellosis)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/shigella.html
+
+Resource: Shigellosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000295.htm
+
+Resource: Shigellosis
+Category: Specifics
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/diseases-conditions/shigellosis
+
+Resource: Stool Gram stain
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003757.htm
+
+Resource: Stool Tests (For Parents)
+Category: Diagnosis and Tests
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/labtest8.html

@@ -1,0 +1,147 @@
+Title: Dry Mouth
+
+Also Called:
+- Xerostomia
+
+Summary:
+What is saliva?
+Saliva, or spit, is made by your salivary glands. It helps keep you and your mouth healthy. For example:
+It moistens and breaks down the foods you eat, which makes it easier for you to chew and swallow.
+It washes away small food pieces from your teeth and gums, which helps fight against
+tooth decay
+.
+It contains minerals such as
+calcium
+and phosphate, which can also help fight tooth decay.
+It contains antibodies that can fight against infections of the mouth and throat. Antibodies are proteins that your
+immune system
+makes to fight foreign substances such as viruses and bacteria.
+What is dry mouth?
+Having dry mouth, also called xerostomia, means that you don't have enough saliva to keep your mouth wet. Everyone has a dry mouth once in a while, like when you are nervous or stressed. But if you have a dry mouth all or most of the time, it can be uncomfortable. It can make chewing,
+swallowing
+, and even talking difficult. It also raises your risk for tooth decay or infections in the mouth.
+What causes dry mouth?
+There are many possible causes of dry mouth, including:
+Side effects of certain medicines
+, such as some medicines for
+high blood pressure
+,
+depression
+, and bladder-control issues
+Diseases
+such as
+Sjogren's syndrome
+,
+HIV
+,
+salivary gland disorders
+, and
+diabetes
+Radiation therapy
+,
+which can damage your salivary glands if they are exposed to radiation during the treatment
+Chemotherapy
+,
+which can make your saliva thicker and cause your mouth to feel dry
+Nerve damage,
+when it involves the nerves that tell salivary glands to make saliva
+Breathing through your mouth
+Use of alcohol, tobacco, or other substances
+What are the symptoms of dry mouth?
+The symptoms of dry mouth may include:
+A sticky, dry feeling in your mouth
+Trouble chewing, swallowing, tasting, or speaking
+A burning feeling in your mouth
+A dry feeling in your throat
+Cracked lips
+A dry, rough tongue
+Mouth sores
+An infection in your mouth
+Bad breath
+How is the cause of dry mouth diagnosed?
+If you have dry mouth, it's important to find out the cause. To do that, your health care provider or dentist will review your medical history, examine your mouth, and ask about any medicines you take. They may also suggest blood tests or a test that measures how much saliva you produce.
+What are the treatments for dry mouth?
+Treatment for dry mouth depends on the cause. For example, if a medicine is causing dry mouth, your provider or dentist may suggest adjusting the dosage or switching medicines. In some cases, they might give you artificial saliva or a medicine to help your salivary glands work better.
+There are also several things you can do to help relieve your symptoms:
+Drink plenty of water
+Avoid drinks with
+caffeine
+, which can dry out your mouth
+Chew sugarless gum or suck on sugarless hard candy to stimulate saliva flow
+Avoid spicy or salty foods because they can cause pain if your mouth is dry
+Avoid alcohol and tobacco
+Using a humidifier at night
+Use a mouthwash made for dry mouth
+Since dry mouth can raise your risk of tooth decay, it's important to brush and floss your teeth regularly and see your dentist at least twice a year.
+NIH: National Institute of Dental and Craniofacial Research
+
+Groups:
+- Mouth and Teeth
+
+MeSH Headings:
+- Xerostomia
+
+Related Resources:
+
+Resource: 5 Common Questions About Dry Mouth
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/5-common-questions-about-dry-mouth
+
+Resource: ClinicalTrials.gov: Xerostomia
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Xerostomia%22&aggFilters=status:not%20rec
+
+Resource: Dry Mouth
+Category: Start Here, Patient Handouts
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/health-info/dry-mouth
+
+Resource: Dry mouth
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007760.htm
+
+Resource: Dry Mouth and Older Adults
+Category: Older Adults
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2023-12/dry-mouth-and-older-adults.pdf
+
+Resource: Dry mouth during cancer treatment
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000032.htm
+
+Resource: Dry Mouth Treatment: Tips for Controlling Dry Mouth
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/dry-mouth/expert-answers/dry-mouth/faq-20058424?p=1
+
+Resource: Dry Mouth: Questions and Answers
+Category: Start Here
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/sites/default/files/2023-10/dry-mouth-questions-answers_0.pdf
+
+Resource: Mouth Dryness or Thick Saliva
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/managing-cancer/side-effects/eating-problems/dry-mouth.html
+
+Resource: National Institute of Dental and Craniofacial Research
+Category: Find an Expert
+Organization: National Institute of Dental and Craniofacial Research
+URL: https://www.nidcr.nih.gov/
+
+Resource: Oral Complications of Cancer Therapies
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-pdq
+
+Resource: Dry Mouth
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Xerostomia%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Spit Happens: The Surprising Importance of Saliva
+Category: Related Issues
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2024/01/spit-happens

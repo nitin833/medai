@@ -1,0 +1,257 @@
+Title: Melanoma
+
+Summary:
+Melanoma is the most serious type of
+skin cancer
+.  Often the first sign of melanoma is a change in the size, shape, color, or feel of a mole. Most melanomas have a black or black-blue area. Melanoma may also appear as a new mole. It may be black, abnormal, or "ugly looking."
+Thinking of "ABCDE" can help you remember what to watch for:
+Asymmetry - the shape of one half does not match the other
+Border - the edges are ragged, blurred or irregular
+Color - the color is uneven and may include shades of black, brown and tan
+Diameter - there is a change in size, usually an increase
+Evolving - the mole has changed over the past few weeks or months
+Surgery is the first treatment of all stages of melanoma. Other treatments include chemotherapy and radiation, biologic, and targeted therapies.  Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses substances that attack cancer cells without harming normal cells.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Skin, Hair and Nails
+
+MeSH Headings:
+- Melanoma
+
+Related Resources:
+
+Resource: Advances in Melanoma and Other Skin Cancers Research
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/research
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: BRAF Genetic Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/braf-genetic-test/
+
+Resource: Cancer Stat Facts: Melanoma of the Skin
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://seer.cancer.gov/statfacts/html/melan.html
+
+Resource: Childhood Intraocular (Uveal) Melanoma Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/eye/patient/child-intraocular-melanoma-treatment-pdq
+
+Resource: Childhood Melanoma Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/child-melanoma-treatment-pdq
+
+Resource: ClinicalTrials.gov: Intraocular (Eye) Melanoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22intraocular+melanoma%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Melanoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Melanoma%22&aggFilters=status:not%20rec
+
+Resource: Common Moles, Dysplastic Nevi, and Risk of Melanoma
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/moles-fact-sheet
+
+Resource: Drugs Approved for Melanoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/melanoma
+
+Resource: Find a Dermatologist
+Category: Find an Expert
+Organization: American Academy of Dermatology
+URL: https://find-a-derm.aad.org/
+
+Resource: General Information about Intraocular (Uveal) Melanoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/eye/patient/intraocular-melanoma-treatment-pdq
+
+Resource: General Information about Melanoma
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/melanoma-treatment-pdq#_67
+
+Resource: Giant congenital melanocytic nevus: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/giant-congenital-melanocytic-nevus
+
+Resource: Living as a Melanoma Skin Cancer Survivor
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/after-treatment/follow-up.html
+
+Resource: Lymphoscintigraphy
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/lympho
+
+Resource: Melanoma
+Category: Start Here
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma?NoAds
+
+Resource: Melanoma
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/melanoma/?Imiw9cApl=1
+
+Resource: Melanoma
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/melanoma.html
+
+Resource: Melanoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000850.htm
+
+Resource: Melanoma of the eye
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001022.htm
+
+Resource: Melanoma of the Skin Statistics
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/skin-cancer/statistics/
+
+Resource: Melanoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/melanoma
+
+Resource: Moles: Overview
+Category: Related Issues
+Organization: American Academy of Dermatology
+URL: https://www.aad.org/public/diseases/a-z/moles-overview?NoAds
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Ocular Melanoma
+Category: Specifics
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/what-is-ocular-melanoma
+
+Resource: PDL1 (Immunotherapy) Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/pdl1-immunotherapy-tests/
+
+Resource: Melanoma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Melanoma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Related Conditions (Parkinson's Disease)
+Category: Related Issues
+Organization: Parkinson's Foundation
+URL: https://www.parkinson.org/understanding-parkinsons/what-is-parkinsons/related-conditions
+
+Resource: Risk Factors for Melanoma Skin Cancer
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/causes-risks-prevention/risk-factors.html
+
+Resource: Sentinel Lymph Node Biopsy
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sentinel-lymph-node-biopsy/
+
+Resource: Skin Biopsy
+Category: Diagnosis and Tests
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/skin-biopsy/?Imiw9cApl=1
+
+Resource: Skin Cancer Prevention
+Category: Prevention and Risk Factors
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-prevention-pdq
+
+Resource: Skin Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/skin-screening-pdq
+
+Resource: Skin Cancer Screening
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/skin-cancer-screening/
+
+Resource: Some Melanomas May Start in Hair Follicles
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://www.nih.gov/news-events/nih-research-matters/some-melanomas-may-start-hair-follicles
+
+Resource: Stages of Melanoma
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/melanoma-treatment-pdq#_96
+
+Resource: Tests for Melanoma Skin Cancer
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/detection-diagnosis-staging/how-diagnosed.html
+
+Resource: Treatment Option Overview (Melanoma)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/patient/melanoma-treatment-pdq#_135
+
+Resource: Ultraviolet Radiation
+Category: Prevention and Risk Factors
+Organization: American Cancer Society
+URL: https://canceratlas.cancer.org/risk-factors/ultraviolet-radiation/
+
+Resource: What Causes Melanoma Skin Cancer?
+Category: Related Issues
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/causes-risks-prevention/what-causes.html
+
+Resource: What Does a Mole Look Like?
+Category: Images
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/mole-photos
+
+Resource: What Does Melanoma Look Like?
+Category: Images
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/skin/melanoma-photos
+
+Resource: What Is Melanoma Skin Cancer?
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/about/what-is-melanoma.html
+
+Resource: What's New in Research and Treatment of Melanoma Skin Cancer?
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/melanoma-skin-cancer/about/new-research.html

@@ -1,0 +1,553 @@
+Title: Asthma
+
+Summary:
+What is asthma?
+Asthma is a chronic (long-term) lung disease. It affects your airways, the tubes that carry air in and out of your lungs. When you have asthma, your airways can become inflamed and narrowed. This can cause wheezing,
+coughing
+, and tightness in your chest. When these symptoms get worse than usual, it is called an asthma attack or flare-up.
+What causes asthma?
+The exact cause of asthma is unknown. Genetics and your environment likely play a role in who gets asthma.
+An asthma attack can happen when you are exposed to an asthma trigger. An asthma trigger is something that can set off or worsen your asthma symptoms. Different triggers can cause different types of asthma:
+Allergic asthma is caused by allergens. Allergens are substances that cause an allergic reaction. They can include
+Dust mites
+Mold
+Pets
+Pollen from grass, trees, and weeds
+Waste from pests such as cockroaches and mice
+Nonallergic asthma is caused by triggers that are not allergens, such as
+Breathing in cold air
+Certain medicines
+Household chemicals
+Infections such as
+colds
+and the
+flu
+Outdoor air pollution
+Tobacco smoke
+Occupational asthma is caused by breathing in chemicals or industrial dusts at work
+Exercise-induced asthma happens during physical exercise, especially when the air is dry
+Asthma triggers may be different for each person and can change over time.
+Who is at risk for asthma?
+Asthma affects people of all ages, but it often starts during childhood. Certain factors can raise your risk of having asthma:
+Being exposed to secondhand smoke
+when your mother is pregnant with you or when you are a small child
+Being exposed to certain substances at work
+, such as chemical irritants or industrial dusts
+Genetics and family history.
+You are more likely to have asthma if one of your parents has it, especially if it's your mother.
+Race or ethnicity.
+Black and African Americans and Puerto Ricans are at higher risk of asthma than people of other races or ethnicities.
+Having other diseases or conditions
+such as
+obesity
+and
+allergies
+Often having viral respiratory infections
+as a young child
+Sex.
+In children, asthma is more common in boys. In teens and adults, it is more common in women.
+What are the symptoms of asthma?
+The symptoms of asthma include:
+Chest tightness
+Coughing, especially at night or early morning
+Shortness of breath
+Wheezing, which causes a whistling sound when you breathe out
+These symptoms can range from mild to severe. You may have them every day or only once in a while.
+When you are having an asthma attack, your symptoms get much worse. The attacks may come on gradually or suddenly. Sometimes they can be life-threatening. They are more common in people who have severe asthma. If you are having asthma attacks, you may need a change in your treatment.
+How is asthma diagnosed?
+Your health care provider may use many tools to diagnose asthma:
+Physical exam
+Medical history
+Lung function tests
+, including spirometry, to test how well your lungs work
+Tests to measure how your airways react to specific exposures. During this test, you inhale different concentrations of allergens or medicines that may tighten the muscles in your airways. Spirometry is done before and after the test.
+Peak expiratory flow (PEF) tests to measure how fast you can blow air out using maximum effort
+Fractional exhaled nitric oxide (FeNO) tests to measure levels of nitric oxide in your breath when you breathe out. High levels of nitric oxide may mean that your lungs are inflamed.
+Allergy
+skin
+or
+blood
+tests, if you have a history of allergies. These tests check which allergens cause a reaction from your immune system.
+What are the treatments for asthma?
+If you have asthma, you will work with your health care provider to create a treatment plan. The plan will include ways to manage your asthma symptoms and prevent asthma attacks. It will include:
+Strategies to avoid triggers.
+For example, if tobacco smoke is a trigger for you, you should not smoke or allow other people to smoke in your home or car.
+Short-term relief medicines,
+also called quick-relief medicines. They help prevent symptoms or relieve symptoms during an asthma attack. They include an inhaler to carry with you all the time. It may also include other types of medicines which work quickly to help open your airways.
+Control medicines.
+You take them every day to help prevent symptoms. They work by reducing airway inflammation and preventing narrowing of the airways.
+If you have a severe attack and the short-term relief medicines do not work, you will need emergency care.
+Your provider may adjust your treatment until asthma symptoms are controlled.
+Sometimes asthma is severe and cannot be controlled with other treatments. If you are an adult with uncontrolled asthma, in some cases your provider might suggest bronchial thermoplasty. This is a procedure that uses heat to shrink the smooth muscle in the lungs. Shrinking the muscle reduces your airway's ability to tighten and allows you to breathe more easily. The procedure has some risks, so it's important to discuss them with your provider.
+
+Groups:
+- Lungs and Breathing
+- Immune System
+
+MeSH Headings:
+- Asthma
+
+Related Resources:
+
+Resource: About Asthma
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/asthma/about/
+
+Resource: Allergens and Irritants
+Category: Prevention and Risk Factors
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/agents/allergens
+
+Resource: Allergic asthma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/allergic-asthma
+
+Resource: Allergies and Asthma: They Often Occur Together
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/in-depth/allergies-and-asthma/art-20047458?p=1
+
+Resource: Allergies, asthma, and dust
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000487.htm
+
+Resource: Allergies, asthma, and molds
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000488.htm
+
+Resource: Allergies, asthma, and pollen
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000489.htm
+
+Resource: American Academy of Allergy, Asthma, and Immunology
+Category: Find an Expert
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/
+
+Resource: American Lung Association
+Category: Find an Expert
+Organization: American Lung Association
+URL: https://www.lung.org/
+
+Resource: Asthma
+Category: Start Here
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/conditions/asthma
+
+Resource: Asthma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000141.htm
+
+Resource: Asthma - control drugs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000005.htm
+
+Resource: Asthma - quick-relief drugs
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000008.htm
+
+Resource: Asthma Action Plan
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Asthma-Action-Plan-2020_rev_508.pdf
+
+Resource: Asthma and Complementary Health Approaches: What You Need to Know
+Category: Treatments and Therapies
+Organization: National Center for Complementary and Integrative Health
+URL: https://www.nccih.nih.gov/health/asthma-and-complementary-health-approaches-what-you-need-to-know
+
+Resource: Asthma and COPD: Differences and Similarities
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/asthma/asthma-and-copd-differences-and-similarities
+
+Resource: Asthma and Pregnancy
+Category: Women
+Organization: Organization of Teratology Information Specialists
+URL: https://mothertobaby.org/fact-sheets/asthma-and-pregnancy/
+
+Resource: Asthma Attack
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma-attack/symptoms-causes/syc-20354268?p=1
+
+Resource: Asthma Diet: Does What You Eat Make a Difference?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/expert-answers/asthma-diet/faq-20058105?p=1
+
+Resource: Asthma in adults - what to ask the doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000208.htm
+
+Resource: Asthma in Children: MedlinePlus Health Topic
+Category: Children
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/asthmainchildren.html
+
+Resource: Asthma Inhalers: Which One's Right for You?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/in-depth/asthma-inhalers/art-20046382?p=1
+
+Resource: Asthma Management Guidelines and Your Care
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Asthma-Management-Guidelines-Your-Care_rev_508.pdf
+
+Resource: Asthma Quiz
+Category: Test Your Knowledge
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/asthma/asthma-quiz
+
+Resource: Asthma Treatment Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000141_36.htm
+
+Resource: Asthma Triggers: Gain Control
+Category: Prevention and Risk Factors
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/asthma/asthma-triggers-gain-control
+
+Resource: Asthma, Allergies and Pregnancy
+Category: Women
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/asthma/asthma,-allergies-and-pregnancy-ttr
+
+Resource: Breathing Like Everyone Else
+Category: NIH MedlinePlus Magazine
+URL: https://magazine.medlineplus.gov/article/breathing-like-everyone-else
+
+Resource: Can Asthma Be Predicted? Early Signs, Risk Factors & Diagnosis in Children
+Category: Related Issues
+Organization: American Academy of Pediatrics
+URL: https://www.healthychildren.org/English/health-issues/conditions/allergies-asthma/Pages/Asthma-Predictive-Index.aspx
+
+Resource: Can Immunotherapy Help with the Treatment of Allergic Asthma?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Immunotherapy-Allergic-Asthma.pdf
+
+Resource: Changing Role of Inhaled Corticosteroids in Asthma Management
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Inhaled-Corticosteroids.pdf
+
+Resource: Controlling Asthma
+Category: Prevention and Risk Factors
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/asthma/control/
+
+Resource: Cough
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/cough/
+
+Resource: EIB (Exercise-Induced Bronchoconstriction) Asthma Quiz
+Category: Test Your Knowledge
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/asthma/eib-quiz
+
+Resource: Exercise and Asthma
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/asthma/exercise-and-asthma
+
+Resource: Exercise-Induced Asthma
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/exercise-induced-asthma/symptoms-causes/syc-20372300?p=1
+
+Resource: Exercise-induced asthma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000036.htm
+
+Resource: Exercise-Induced Bronchoconstriction Defined
+Category: Specifics
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/allergy,-asthma-immunology-glossary/exercise-induced-bronchoconstriction-defined
+
+Resource: Exercise-Induced Bronchospasm
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/exercise-induced-bronchospasm/
+
+Resource: FAQs About Steroids for Asthma
+Category: Specifics
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/longterm/faqs-about-steroids-for-asthma?modal=1
+
+Resource: Find an Allergist/Immunologist
+Category: Find an Expert
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://allergist.aaaai.org/find/
+
+Resource: Flu and People with Asthma
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/asthma.html
+
+Resource: Gastroesophageal Reflux Disease
+Category: Related Issues
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/conditions-treatments/related-conditions/gastroesophageal-reflux-disease
+
+Resource: Guide to Controlling Asthma at Work
+Category: Related Issues
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/managing-asthma/workplace
+
+Resource: How to breathe when you are short of breath
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000053.htm
+
+Resource: How to use a nebulizer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000006.htm
+
+Resource: How to use an inhaler - no spacer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000041.htm
+
+Resource: How to use an inhaler - with spacer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000042.htm
+
+Resource: How to use your peak flow meter
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000043.htm
+
+Resource: Humidifiers: Ease Skin, Breathing Symptoms
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/common-cold/in-depth/humidifiers/art-20048021?p=1
+
+Resource: Inflammation
+Category: Statistics and Research
+Organization: National Institute of Environmental Health Sciences
+URL: https://www.niehs.nih.gov/health/topics/conditions/inflammation
+
+Resource: Inhaled Asthma Medications
+Category: Treatments and Therapies
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/asthma/inhaled-asthma-medications
+
+Resource: Is Bronchial Thermoplasty Right for You?
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Bronchial-Thermoplasty.pdf
+
+Resource: Long-Acting Muscarinic Antagonists (LAMAs)
+Category: Treatments and Therapies
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Long-Acting-Muscarinic-Antagonists-LAMA.pdf
+
+Resource: Long-Term Control Medications for Lung Diseases
+Category: Treatments and Therapies
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/longterm?modal=1
+
+Resource: Lung Function Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/lung-function-tests/
+
+Resource: Make peak flow a habit
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000046.htm
+
+Resource: Manage Your Asthma: Know Your Triggers and Treatment Options
+Category: Treatments and Therapies
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/consumer-updates/manage-your-asthma-know-your-triggers-and-treatment-options
+
+Resource: Measuring Your Peak Flow Rate
+Category: Living With
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/devices/peak-flow
+
+Resource: Medications and Older Adults
+Category: Older Adults
+Organization: American Academy of Allergy, Asthma, and Immunology
+URL: https://www.aaaai.org/tools-for-the-public/conditions-library/allergies/medications-and-older-adults
+
+Resource: Metered dose inhaler use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100200_1.htm
+
+Resource: Monitoring Your Asthma
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/lmbb-monitoring-your-asthma-fact-sheet
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: National Institute of Allergy and Infectious Diseases
+Category: Find an Expert
+Organization: National Institute of Allergy and Infectious Diseases
+URL: https://www.niaid.nih.gov/
+
+Resource: Nebulizer use - series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100201_1.htm
+
+Resource: Occupational asthma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000110.htm
+
+Resource: Peak flow meter use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100202_1.htm
+
+Resource: People at Higher Risk of Flu Complications
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/flu/highrisk/
+
+Resource: Asthma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Asthma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulmonary function tests
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003853.htm
+
+Resource: Quick-Relief Medications for Lung Disease Symptoms
+Category: Treatments and Therapies
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/medications/asthma-medications/quickrelief?modal=1
+
+Resource: Reducing Allergens in Your Home
+Category: Prevention and Risk Factors
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/Reducing-Allergens_rev_508.pdf
+
+Resource: Respiratory Infections and Asthma
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/asthma/respiratory-infections/
+
+Resource: Self-Care for Asthma-Using Your Inhaler
+Category: Videos and Tutorials
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/asthma/caring/
+
+Resource: Signs of an asthma attack
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000062.htm
+
+Resource: Sleep Problems in Asthma and COPD
+Category: Related Issues
+Organization: American Thoracic Society
+URL: https://www.thoracic.org/patients/patient-resources/resources/sleep-problems-asthma-copd.pdf
+
+Resource: Smoking and asthma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000504.htm
+
+Resource: So You Have Asthma: A Guide for Patients and Their Families
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/resources/so-you-have-asthma-guide-patients-and-their-families
+
+Resource: Spacer use - Series
+Category: Images, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100203_1.htm
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/spirometry/about/pac-20385201?p=1
+
+Resource: Spirometry
+Category: Diagnosis and Tests
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-procedures-and-tests/spirometry
+
+Resource: Stay away from asthma triggers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000064.htm
+
+Resource: Suicide Warnings on Medications
+Category: Treatments and Therapies
+Organization: American Association of Psychiatric Pharmacists
+URL: https://aapp.org/faq/471018/suicide-warnings-medications
+
+Resource: Test Your Knowledge About Inhalers
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000005_32.htm
+
+Resource: Traveling with breathing problems
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000066.htm
+
+Resource: Understand Your Asthma Medication
+Category: Treatments and Therapies
+Organization: American Lung Association
+URL: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/treatment/medication
+
+Resource: Vocal Cord Dysfunction: Is it a Type of Asthma?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/asthma/expert-answers/vocal-cord-dysfunction/faq-20058019?p=1
+
+Resource: What is Asthma?
+Category: Specifics
+Organization: National Jewish Health
+URL: https://www.nationaljewish.org/conditions/asthma/overview
+
+Resource: What Is Asthma?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/asthma
+
+Resource: What Is Asthma?
+Category: Start Here
+Organization: Environmental Protection Agency
+URL: https://www.epa.gov/asthma/what-asthma
+
+Resource: What is Fractional Exhaled Nitric Oxide (FeNO) Testing?
+Category: Diagnosis and Tests
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/FeNO-Testing.pdf
+
+Resource: What's the Difference Between a Nebulizer and an Inhaler?
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/nebulizer-inhaler.html
+
+Resource: Wheezing
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003070.htm

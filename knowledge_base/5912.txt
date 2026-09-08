@@ -1,0 +1,216 @@
+Title: Polycystic Ovary Syndrome
+
+Also Called:
+- PCOS
+- Stein-Leventhal Syndrome
+
+Summary:
+What is polycystic ovary syndrome (PCOS)?
+Polycystic ovary syndrome (PCOS) is the name for set of symptoms that are related to an imbalance of
+hormones
+. PCOS affects the ovaries, as well as many other parts of the body.
+People with PCOS usually have at least two of these problems:
+Not ovulating.
+Normally, your ovaries make the egg that is released each month as part of a healthy
+menstrual cycle
+. This is called ovulation. But with PCOS, the egg may not develop as it should, or it may not be released during ovulation. Your periods may be irregular, or you may not have them at all.
+High levels of androgens.
+Androgens are hormones that are important for normal male sexual development. Women normally make smaller amounts of androgens. Having higher levels of androgens can cause you to have extra body or facial hair (called hirsutism).
+Cysts in one or both ovaries.
+Cysts are growths that are small, fluid-filled sacs.
+What causes polycystic ovary syndrome (PCOS)?
+The exact cause of PCOS in unknown. Research has shown that different factors may play a role, including:
+Genetics
+.
+PCOS tends to run in families.
+Imbalances in androgen levels.
+Insulin resistance.
+This is a condition in which your body can't use insulin properly. Insulin is a hormone that helps move
+blood glucose
+(sugar) into your cells to give them energy. Insulin resistance can lead to high blood glucose levels.
+What are the symptoms of polycystic ovary syndrome (PCOS)?
+PCOS often develops as young as age 11 or 12, around the time of your first period. But you can develop it later.
+The symptoms can vary from person to person. Some people have few or even no symptoms. They may not realize they have PCOS until they have trouble getting pregnant. Other people may have more severe symptoms.
+The symptoms of PCOS may include:
+Irregular or missed menstrual periods.
+Too much hair on the face, chest, stomach, or thighs.
+Obesity
+, weight gain, or trouble losing weight.
+Severe
+acne
+which may be hard to treat.
+Oily skin.
+Patches of thickened dark skin (called acanthosis nigricans).
+Infertility
+. PCOS is one of the most common causes of infertility. But many women with PCOS can still get pregnant.
+What other health problems are linked to polycystic ovary syndrome (PCOS)?
+PCOS is linked to many other health problems, including:
+Insulin resistance, which can lead to
+prediabetes
+and
+type 2 diabetes
+.
+Heart disease
+. Having PCOS increases your risk, and this risk goes up as you age.
+High blood pressure
+.
+High
+LDL ("bad") cholesterol
+and low
+HDL ("good") cholesterol
+. This increases your
+risk of heart disease
+.
+Sleep apnea
+, a disorder that causes you to repeatedly stop breathing during sleep.
+Depression
+and
+anxiety
+.
+Although there are links between PCOS and these conditions, researchers do not know whether:
+PCOS causes some of these problems
+Some of these problems cause PCOS, or
+There are other conditions that cause both PCOS and these other health problems
+Not everyone who has PCOS will have all these problems. However, you and your health care provider may want to monitor your health for signs of them, so they can be treated early.
+How is polycystic ovary syndrome (PCOS) diagnosed?
+There is no specific test for PCOS. To find out if you have PCOS, your provider:
+Will do a physical exam, which will include looking for the physical signs of PCOS.
+Will ask about your medical history and family health history.
+May do a pelvic exam to check for signs of extra male hormones and to see if your ovaries are enlarged or swollen.
+May order a pelvic
+ultrasound
+to look for cysts on your ovaries and check the thickness of your endometrium (the lining of your uterus, or womb).
+May order blood tests, including tests to check your hormone levels.
+What are the treatments for polycystic ovary syndrome (PCOS)?
+There is no cure for PCOS, but treatments can help you manage your symptoms. The treatments may include:
+Lifestyle changes,
+which can help reduce many symptoms. They can also lower your risk for or help manage related health problems. These changes include:
+Maintaining a healthy weight
+Getting regular physical activity
+Eating healthy foods
+Medicines:
+Hormonal
+birth control
+,
+such as pills, shots, and IUDs, can make your period more regular. They may also help remove acne and extra facial and body hair. But you would only use them if you don't want to get pregnant.
+Anti-androgen medicines,
+which block the effect of androgens. This can help reduce hair loss on your head, the growth of facial and body hair, and acne. Providers do use them to help with these symptoms, but anti-androgen medicines are not approved by the U.S. Food and Drug Administration (FDA) to treat PCOS. These medicines can cause problems during pregnancy. Your provider may have you take them with birth control (to prevent pregnancy).
+Insulin-sensitizing medicines,
+which are medicines that are used to treat type 2 diabetes. They improve insulin resistance and keep your blood glucose levels steady. They may also lower your androgen levels. They are not approved by the FDA to treat PCOS. But they may help with your symptoms.
+Medicines for acne.
+These medicines come in pills, creams, or gels.
+Treatments for hair removal,
+such as facial hair removal creams, laser hair removal, and electrolysis.
+Fertility treatments
+if you are having trouble getting pregnant. They include medicines and procedures such as
+in vitro fertilization (IVF)
+.
+
+Groups:
+- Women
+- Endocrine System
+- Female Reproductive System
+
+MeSH Headings:
+- Polycystic Ovary Syndrome
+
+Related Resources:
+
+Resource: About Polycystic Ovary Syndrome (PCOS)
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pcos/conditioninfo
+
+Resource: Anti-Müllerian Hormone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/anti-mullerian-hormone-test/
+
+Resource: ClinicalTrials.gov: Polycystic Ovary Syndrome
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Polycystic+Ovary+Syndrome%22&aggFilters=status:not%20rec
+
+Resource: Department of Health and Human Services, Office on Women's Health
+Category: Find an Expert
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/
+
+Resource: Diabetes and Polycystic Ovary Syndrome (PCOS)
+Category: Related Issues
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/diabetes/risk-factors/pcos-polycystic-ovary-syndrome.html
+
+Resource: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+Category: Find an Expert
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/
+
+Resource: Hirsutism and Polycystic Ovarian Syndrome
+Category: Related Issues
+Organization: American Society for Reproductive Medicine
+URL: https://www.reproductivefacts.org/news-and-publications/patient-fact-sheets-and-booklets/documents/fact-sheets-and-info-booklets/hirsutism-and-polycystic-ovary-syndrome-booket/
+
+Resource: How Do Health Care Providers Diagnose Polycystic Ovary Syndrome (PCOS)?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pcos/conditioninfo/diagnose
+
+Resource: How to Find an Ob-Gyn
+Category: Find an Expert
+Organization: American College of Obstetricians and Gynecologists
+URL: https://www.acog.org/womens-health/find-an-ob-gyn
+
+Resource: PCOS: The Oral Contraceptive Pill
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/pcos-and-the-pill/
+
+Resource: Polycystic Ovary Syndrome
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/pcos/symptoms-causes/syc-20353439?p=1
+
+Resource: Polycystic Ovary Syndrome
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/pcos.html
+
+Resource: Polycystic ovary syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000369.htm
+
+Resource: Polycystic Ovary Syndrome (PCOS) in Teens: A Guide for Parents and Guardians
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/parents/pcos-parent/
+
+Resource: Polycystic Ovary Syndrome (PCOS): General Information
+Category: Teenagers
+Organization: Boston Children's Hospital
+URL: https://youngwomenshealth.org/guides/polycystic-ovary-syndrome/
+
+Resource: Polycystic ovary syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/polycystic-ovary-syndrome
+
+Resource: Polycystic ovary syndrome
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Polycystic+Ovary+Syndrome%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Treatments for Infertility Resulting from Polycystic Ovary Syndrome (PCOS)
+Category: Related Issues
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pcos/conditioninfo/treatments/infertility
+
+Resource: What Are the Symptoms of Polycystic Ovary Syndrome (PCOS)?
+Category: Symptoms
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pcos/conditioninfo/symptoms
+
+Resource: What are the treatments for PCOS?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/pcos/conditioninfo/treatments

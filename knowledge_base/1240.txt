@@ -1,0 +1,191 @@
+Title: Neuroblastoma
+
+Summary:
+What is neuroblastoma?
+Neuroblastoma is a type of cancer that forms in nerve cells called neuroblasts. Neuroblasts are immature nerve tissue. They normally turn into working nerve cells. But in neuroblastoma, they form a tumor.
+Neuroblastoma usually begins in the
+adrenal glands
+. You have two adrenal glands, one on top of each kidney. The adrenal glands make important hormones that help control heart rate, blood pressure,
+blood glucose
+(blood sugar), and the way the body reacts to stress. Neuroblastoma may also begin in the neck, chest or spinal cord.
+What causes neuroblastoma?
+Neuroblastoma is caused by
+changes in your genes
+. Gene changes also called gene variants or mutations. In most cases, the cause of the mutation is unknown. In some other cases, the mutation is passed from the parent to the child.
+What are the symptoms of neuroblastoma?
+Neuroblastoma often begins in
+early childhood
+. Sometimes it begins before a child is born.The most common symptoms are caused by the tumor pressing on nearby tissues as it grows or by cancer spreading to the bone.They include:
+A lump in the abdomen, neck, or chest
+Bulging eyes
+Dark circles around the eyes
+Bone pain
+Swollen stomach and
+trouble breathing
+in babies
+Painless, bluish lumps under the skin in babies
+Weakness or
+paralysis
+(loss of ability to move a body part)
+How is neuroblastoma diagnosed?
+To diagnose neuroblastoma, your child's health care provider will do various tests and procedures, which may include:
+A medical history.
+A
+neurological exam
+.
+Imaging test
+s, such as
+x-rays
+, a
+CT scan
+, an
+ultrasound
+, an
+MRI
+, or an MIBG scan. In an MIBG scan, a small amount of a radioactive substance is injected into a vein. It travels through the bloodstream and attaches itself to any neuroblastoma cells. A scanner detects the cells.
+Blood and urine tests.
+Biopsy
+, in which a sample of tissue is removed and examined under a microscope.
+Bone marrow aspiration and biopsy, in which bone marrow, blood, and a small piece of bone are removed for testing.
+What are the treatments for neuroblastoma?
+The treatments for neuroblastoma include:
+Observation, also called watchful waiting, is where the health care provider does not give any treatments until your child's signs or symptoms appear or change.
+Surgery
+Radiation therapy
+.
+Chemotherapy
+.
+High-dose chemotherapy and radiation therapy with stem cell rescue. Your child will get high doses of chemotherapy and radiation. This kills the cancer cells, but it also kills healthy cells. So your child will get a
+stem cell transplant
+, usually of his or her own cells collected earlier. This helps to replace the healthy cells that were lost.
+Iodine 131-MIBG therapy, a treatment with radioactive iodine. The radioactive iodine collects in neuroblastoma cells and kills them with the radiation that is given off.
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Brain and Nerves
+
+MeSH Headings:
+- Neuroblastoma
+
+Related Resources:
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Catecholamine blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003561.htm
+
+Resource: Catecholamine Tests
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/catecholamine-tests/
+
+Resource: Catecholamines - urine
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003613.htm
+
+Resource: Childhood Esthesioneuroblastoma Treatment
+Category: Children
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/head-and-neck/patient/child/esthesioneuroblastoma-treatment-pdq
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Neuroblastoma
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Neuroblastoma%22&aggFilters=status:not%20rec
+
+Resource: Drugs Approved for Neuroblastoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/neuroblastoma
+
+Resource: Ganglioneuroblastoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001436.htm
+
+Resource: Key Statistics for Neuroblastoma
+Category: Statistics and Research
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/neuroblastoma/key-statistics.html
+
+Resource: MIBG scintiscan
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003830.htm
+
+Resource: MIBG Treatment for Neuroblastoma (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/mibg.html
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: Neuroblastoma
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/neuroblastoma.html
+
+Resource: Neuroblastoma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001408.htm
+
+Resource: Neuroblastoma (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/neuroblastoma.html
+
+Resource: Neuroblastoma in Children
+Category: Diagnosis and Tests
+Organization: CureSearch for Children's Cancer
+URL: https://curesearch.org/neuroblastoma-in-children/
+
+Resource: Neuroblastoma Screening
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/neuroblastoma/patient/neuroblastoma-screening-pdq#_19
+
+Resource: Neuroblastoma Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/neuroblastoma/patient/neuroblastoma-treatment-pdq
+
+Resource: Neuroblastoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/neuroblastoma
+
+Resource: Neuroblastoma
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neuroblastoma%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+human%5Bmh%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D
+
+Resource: Tests for Neuroblastoma
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/types/neuroblastoma/detection-diagnosis-staging/how-diagnosed.html

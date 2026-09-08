@@ -1,0 +1,433 @@
+Title: High Blood Pressure
+
+Also Called:
+- Benign essential hypertension
+- Essential hypertension
+- HBP
+- HTN
+- Hypertension
+
+Summary:
+What is blood pressure?
+Blood pressure is the force of your blood pushing against the walls of your arteries. Each time your heart beats, it pumps blood into the arteries. Your blood pressure is highest when your heart beats, pumping the blood. This is called systolic pressure. When your heart is at rest, between beats, your blood pressure falls. This is called diastolic pressure.
+Your blood pressure reading uses these two numbers. Usually the systolic number comes before or above the diastolic number. For example, 120/80 means a systolic of 120 and a diastolic of 80.
+How is high blood pressure diagnosed?
+High blood pressure usually has no symptoms. So the only way to find out if you have it is to get regular blood pressure checks from your health care provider. Your provider will use a gauge, a stethoscope or electronic sensor, and a blood pressure cuff. They will take two or more readings at separate appointments before making a diagnosis.
+Blood Pressure Category
+Systolic Blood Pressure
+Diastolic Blood Pressure
+Normal
+Less than 120
+and
+Less than 80
+Elevated
+120 - 129
+and
+Less than 80
+High Blood Pressure Stage 1
+130 - 139
+or
+80 - 89
+High Blood Pressure Stage 2
+140 or higher
+or
+90 or higher
+Hypertensive Crisis (dangerously high blood pressure - seek medical care right away)
+Higher than 180
+and
+Higher than 120
+For children and teens, the health care provider compares the blood pressure reading to what is normal for other kids who are the same age, height, and sex.
+What are the different types of high blood pressure?
+There are two main types of high blood pressure:
+Primary,
+or essential, high blood pressure. This is the most common type of high blood pressure. For most people who get this kind of blood pressure, it develops over time as you get older.
+Secondary
+high blood pressure. This is caused by another medical condition or use of certain medicines. It usually gets better after you treat that condition or stop taking the medicines that are causing it.
+Why do I need to worry about high blood pressure?
+When your blood pressure stays high over time, it causes the heart to pump harder and work overtime, possibly leading to serious health problems such as
+heart attack
+,
+stroke
+,
+heart failure
+, and
+kidney failure
+.
+What are the treatments for high blood pressure?
+Treatments for high blood pressure include
+heart-healthy lifestyle changes
+and
+medicines
+.
+You will work with your provider to come up with a treatment plan. It may include only the lifestyle changes. These changes, such as heart-healthy eating and exercise, can be very effective. But sometimes the changes do not control or lower your high blood pressure. Then you may need to take medicine. There are different types of blood pressure medicines. Some people need to take more than one type.
+If your high blood pressure is caused by another medical condition or medicine, treating that condition or stopping the medicine may lower your blood pressure.
+NIH: National Heart, Lung, and Blood Institute
+
+Groups:
+- Older Adults
+- Blood, Heart and Circulation
+
+MeSH Headings:
+- Prehypertension
+- Hypertension
+
+Related Resources:
+
+Resource: 9 Surprisingly Subtle Symptoms of High Blood Pressure
+Category: Symptoms
+Organization: National Council on Aging
+URL: https://www.ncoa.org/article/9-surprisingly-subtle-symptoms-of-high-blood-pressure/
+
+Resource: ACE inhibitors
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000087.htm
+
+Resource: Aldosterone blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003704.htm
+
+Resource: Aldosterone Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/aldosterone-test/
+
+Resource: Aldosterone-producing adenoma: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/aldosterone-producing-adenoma/
+
+Resource: American Heart Association
+Category: Find an Expert
+Organization: American Heart Association
+URL: https://www.heart.org/en/
+
+Resource: Anxiety: A Cause of High Blood Pressure?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/anxiety/faq-20058549?p=1
+
+Resource: Blood pressure
+Category: Videos and Tutorials, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000013.htm
+
+Resource: Blood Pressure and Lifestyle Quiz
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000101_29.htm
+
+Resource: Blood pressure measurement
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007490.htm
+
+Resource: Blood Pressure Medicines: MedlinePlus Health Topic
+Category: Treatments and Therapies
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/bloodpressuremedicines.html
+
+Resource: Blood pressure monitors for home
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007482.htm
+
+Resource: Blood Pressure Test
+Category: Diagnosis and Tests
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/blood-pressure-test/about/pac-20393098?p=1
+
+Resource: Blood Pressure: Does It Have a Daily Pattern?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058115?p=1
+
+Resource: Blood Pressure: Is It Affected by Cold Weather?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/blood-pressure/faq-20058250?p=1
+
+Resource: Chloride Blood Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/chloride-blood-test/
+
+Resource: ClinicalTrials.gov: Hypertension
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Hypertension%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Prehypertension
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Prehypertension%22&aggFilters=status:not%20rec
+
+Resource: Common High Blood Pressure Myths
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/common-high-blood-pressure-myths
+
+Resource: Controlling your high blood pressure
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000101.htm
+
+Resource: DASH Diet: MedlinePlus Health Topic
+Category: Living With
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/dasheatingplan.html
+
+Resource: Endocrine Related Hypertension
+Category: Specifics
+Organization: Endocrine Society
+URL: https://www.endocrine.org/patient-engagement/endocrine-library/endocrine-related-hypertension
+
+Resource: Get the Most Out of Home Blood Pressure Monitoring
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure/art-20047889?p=1
+
+Resource: Healthy Blood Pressure for Healthy Hearts: Small Steps to Take Control
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/HBP_Infograph_Fact_Sheet_508.pdf
+
+Resource: Healthy Blood Pressure for Healthy Hearts: Tracking Your Numbers
+Category: Living With
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/sites/default/files/publications/HBP_Worksheet_508.pdf
+
+Resource: High Blood Pressure (Hypertension)
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/high-blood-pressure-hypertension
+
+Resource: High Blood Pressure (Hypertension)
+Category: Start Here
+Organization: Food and Drug Administration
+URL: https://www.fda.gov/consumers/womens-health/high-blood-pressure-hypertension
+
+Resource: High blood pressure - medicine-related
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000155.htm
+
+Resource: High blood pressure - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000226.htm
+
+Resource: High Blood Pressure and Cold Remedies: Which Are Safe?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/high-blood-pressure/faq-20058281?p=1
+
+Resource: High blood pressure and eye disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000999.htm
+
+Resource: High Blood Pressure and Kidney Disease
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/high-blood-pressure
+
+Resource: High Blood Pressure and Older Adults
+Category: Older Adults
+Organization: National Institute on Aging
+URL: https://www.nia.nih.gov/health/high-blood-pressure/high-blood-pressure-and-older-adults
+
+Resource: High Blood Pressure and Sex: Overcome the Challenges
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/high-blood-pressure-and-sex/art-20044209?p=1
+
+Resource: High Blood Pressure Facts
+Category: Statistics and Research
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/high-blood-pressure/data-research/facts-stats/
+
+Resource: High blood pressure in adults - hypertension
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000468.htm
+
+Resource: High blood pressure in children - hypertension
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007696.htm
+
+Resource: High blood pressure in infants - hypertension
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007329.htm
+
+Resource: High blood pressure medications
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007484.htm
+
+Resource: High Blood Pressure, Atrial Fibrillation, and Your Risk of Stroke
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/atrial-fibrillation/why-atrial-fibrillation-af-or-afib-matters/high-blood-pressure-afib-and-your-risk-of-stroke
+
+Resource: How High Blood Pressure Can Lead to Stroke
+Category: Related Issues
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/health-threats-from-high-blood-pressure/how-high-blood-pressure-can-lead-to-stroke
+
+Resource: How to Prevent High Blood Pressure: MedlinePlus Health Topic
+Category: Prevention and Risk Factors
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/howtopreventhighbloodpressure.html
+
+Resource: How to Take Your Blood Pressure at Home
+Category: Diagnosis and Tests
+Organization: American College of Cardiology
+URL: https://www.cardiosmart.org/docs/default-source/assets/fact-sheet/how-to-take-your-blood-pressure-at-home.pdf?sfvrsn=24f484fb_3
+
+Resource: Hypertension (High Blood Pressure)
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/hypertension.html
+
+Resource: Hypertension (High Blood Pressure) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hypertension.html
+
+Resource: Hypertension - overview
+Category: Videos and Tutorials, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000072.htm
+
+Resource: Hypertension: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hypertension/
+
+Resource: Hypertensive heart disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000163.htm
+
+Resource: Is High Blood Pressure Affecting Your Health?
+Category: Test Your Knowledge
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/quiz/000468_38.htm
+
+Resource: Isolated Systolic Hypertension: A Health Concern?
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/hypertension/faq-20058527?p=1
+
+Resource: Low-salt diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000109.htm
+
+Resource: Malignant hypertension
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000491.htm
+
+Resource: Measuring Blood Pressure
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/measuring-blood-pressure/
+
+Resource: Menopause and High Blood Pressure: What's the Connection?
+Category: Women
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/menopause-and-high-blood-pressure/faq-20058406?p=1
+
+Resource: Mind Your Risks
+Category: Prevention and Risk Factors
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/mind-your-risks
+
+Resource: National Heart, Lung, and Blood Institute
+Category: Find an Expert
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/
+
+Resource: High Blood Pressure
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Prehypertension%22%5Bmajr%3Anoexp%5D+OR+%22Hypertension%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Pulse Pressure: An Indicator of Heart Health?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/pulse-pressure/faq-20058189?p=1
+
+Resource: Renin blood test
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003698.htm
+
+Resource: Renin Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/renin-test
+
+Resource: Renovascular hypertension
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000204.htm
+
+Resource: Salty Stuff: Salt, Blood Pressure, and Your Health
+Category: Living With
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2019/07/salty-stuff
+
+Resource: Secondary Hypertension
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/secondary-hypertension/symptoms-causes/syc-20350679?p=1
+
+Resource: Shaking the Salt Habit to Lower High Blood Pressure
+Category: Living With
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/shaking-the-salt-habit-to-lower-high-blood-pressure
+
+Resource: Stress and High Blood Pressure: What's the Connection?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/in-depth/stress-and-high-blood-pressure/art-20044190?p=1
+
+Resource: Systolic Blood Pressure Intervention Trial (SPRINT) Study
+Category: Statistics and Research
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/science/systolic-blood-pressure-intervention-trial-sprint-study
+
+Resource: Top 10 Things to Know about the New AHA/ACC High Blood Pressure Guideline
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure/high-bp-top-10
+
+Resource: What Is High Blood Pressure?
+Category: Start Here
+Organization: National Heart, Lung, and Blood Institute
+URL: https://www.nhlbi.nih.gov/health/high-blood-pressure
+
+Resource: What Is High Blood Pressure?
+Category: Start Here
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/the-facts-about-high-blood-pressure
+
+Resource: When to Call 911 about High Blood Pressure
+Category: Specifics
+Organization: American Heart Association
+URL: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/when-to-call-911-for-high-blood-pressure
+
+Resource: White Coat Hypertension: When Blood Pressure Rises in a Medical Setting
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/white-coat-hypertension/faq-20057792?p=1
+
+Resource: Wrist Blood Pressure Monitors: Are They Accurate?
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/expert-answers/wrist-blood-pressure-monitors/faq-20057802?p=1

@@ -1,0 +1,56 @@
+Title: Daltonismo
+
+Also Called:
+- Acromatismo
+- Acromatopsia
+
+Summary:
+La mayoría de nosotros ve el mundo a colores. Nos gusta ver un suntuoso césped verde o una rosa roja floreciendo. Si tiene un defecto para ver los colores, verá esos colores de una manera distinta a la mayoría de los demás.
+Existen tres defectos principales para ver los colores. Los defectos de la vista para ver los colores rojo y verde son los más comunes. Este tipo es más frecuente en los hombres que en las mujeres. Los otros tipos importantes son los defectos de la vista para ver los colores azul y amarillo y la ausencia total de poder ver todos los colores.
+La mayoría de las veces, el daltonismo es genético. No existe un tratamiento, pero la mayoría de las personas se adapta y este cuadro no parece limitar sus actividades.
+
+Groups:
+- Ojos y visión
+- Genética y defectos congénitos
+
+Related Resources:
+
+Resource: Cómo hablar con su oculista
+Category: Spanish/Español, Asuntos relacionados
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/informacion-sobre-la-salud-ocular/vision-saludable/encontrar-un-oculista/como-hablar-con-su-oculista
+
+Resource: Daltonismo
+Category: Comience aquí, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001002.htm
+
+Resource: Daltonismo: Diagnóstico y tratamiento
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/color-blindness/diagnosis-treatment/drc-20354991?p=1
+
+Resource: Daltonismo: Síntomas y causas
+Category: Spanish/Español, Síntomas
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/diseases-conditions/color-blindness/symptoms-causes/syc-20354988?p=1
+
+Resource: Datos y estadísticas relacionadas con la salud ocular
+Category: Spanish/Español, Estadísticas e investigación
+Organization: Instituto Nacional del Ojo
+URL: https://www.nei.nih.gov/espanol/acerca-del-NEI/educacion-y-difusion/datos-y-estadisticas-relacionadas-con-la-salud-ocular
+
+Resource: Encontrar un oftalmólogo
+Category: Spanish/Español, Especialistas
+Organization: Academia Americana de Oftalmología
+URL: https://secure.aao.org/aao/encontrar-oftalmologo
+
+Resource: Examen de visión cromática
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003387.htm
+
+Resource: ¿Qué es el daltonismo?
+Category: Comience aquí, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/daltonismo

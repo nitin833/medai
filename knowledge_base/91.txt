@@ -1,0 +1,640 @@
+Title: Kidney Diseases
+
+Also Called:
+- Renal diseases
+
+Summary:
+You have two kidneys, each about the size of your fist. They are near the middle of your back, just below the rib cage. Inside each kidney there are about a million tiny structures called nephrons. They filter your blood. They remove wastes and extra water, which become urine.  The urine flows through tubes called ureters. It goes to your bladder, which stores the urine until you go to the bathroom.
+Most kidney diseases attack the nephrons. This damage may leave kidneys unable to remove wastes. Causes can include genetic problems, injuries, or medicines. You have a higher risk of kidney disease if you have
+diabetes
+,
+high blood pressure
+, or a close family member with kidney disease.
+Chronic kidney disease
+damages the nephrons slowly over several years. Other kidney problems include:
+Cancer
+Cysts
+Stones
+Infections
+Your doctor can do
+blood and urine tests
+to check if you have kidney disease. If your kidneys
+fail
+, you will need
+dialysis
+or a
+kidney transplant
+.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Kidney Diseases
+
+Related Resources:
+
+Resource: 17q12 deletion syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/17q12-deletion-syndrome/
+
+Resource: A Better Test for Kidney Disease
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2021/12/better-test-kidney-disease
+
+Resource: ACE inhibitors
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000087.htm
+
+Resource: Action myoclonus-renal failure syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/action-myoclonus-renal-failure-syndrome/
+
+Resource: Acute arterial occlusion - kidney
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001272.htm
+
+Resource: Acute nephritic syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000495.htm
+
+Resource: Aging changes in the kidneys
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/004010.htm
+
+Resource: Alport Syndrome
+Category: Specifics
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/alport-syndrome
+
+Resource: Alport syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000504.htm
+
+Resource: Alport Syndrome Diagnosis
+Category: Diagnosis and Tests
+Organization: Alport Syndrome Foundation
+URL: https://www.alportsyndrome.org/about-alport-syndrome/diagnosis/
+
+Resource: Alport syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/alport-syndrome/
+
+Resource: Amyloidosis and Kidney Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/amyloidosis
+
+Resource: Analgesic nephropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000482.htm
+
+Resource: Anti-GBM (Goodpasture's) Disease
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease/anti-gbm-goodpastures-disease
+
+Resource: Anti-glomerular basement membrane disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000142.htm
+
+Resource: Are You at Risk of Developing Kidney Disease?: One-Minute Quiz
+Category: Health Check Tools
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-quiz/
+
+Resource: Atheroembolic renal disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000480.htm
+
+Resource: Atypical hemolytic-uremic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/atypical-hemolytic-uremic-syndrome/
+
+Resource: Autosomal dominant tubulointerstitial kidney disease--UMOD: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/autosomal-dominant-tubulointerstitial-kidney-disease-umod/
+
+Resource: Bardet-Biedl syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bardet-biedl-syndrome/
+
+Resource: Bartter syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000308.htm
+
+Resource: Bartter syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/bartter-syndrome/
+
+Resource: Bilateral hydronephrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000474.htm
+
+Resource: Blood in the Urine (Hematuria) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hematuria.html
+
+Resource: Branchiootorenal/branchiootic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/branchiootorenal-branchiootic-syndrome/
+
+Resource: C3 glomerulopathy: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/c3-glomerulopathy/
+
+Resource: ClinicalTrials.gov: Kidney Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Kidney+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Nephritis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Nephritis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Polycystic Kidney Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Polycystic+Kidney+Diseases%22&aggFilters=status:not%20rec
+
+Resource: Complete LCAT deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/complete-lcat-deficiency/
+
+Resource: Congenital anomalies of kidney and urinary tract: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-anomalies-of-kidney-and-urinary-tract/
+
+Resource: Congenital nephrotic syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001576.htm
+
+Resource: Congenital nephrotic syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/congenital-nephrotic-syndrome/
+
+Resource: Creatinine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/creatinine-test/
+
+Resource: Cystinosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cystinosis/
+
+Resource: Dent disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/dent-disease/
+
+Resource: Denys-Drash syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/denys-drash-syndrome/
+
+Resource: Distal renal tubular acidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000493.htm
+
+Resource: Ectopic Kidney
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/ectopic-kidney
+
+Resource: Fanconi syndrome
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000333.htm
+
+Resource: FastStats: Kidney Disease
+Category: Statistics and Research
+Organization: National Center for Health Statistics
+URL: https://www.cdc.gov/nchs/fastats/kidney-disease.htm
+
+Resource: Focal segmental glomerulosclerosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000478.htm
+
+Resource: Fractional excretion of sodium
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003602.htm
+
+Resource: Frasier syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/frasier-syndrome/
+
+Resource: Genetic Testing and Counseling for Kidney Disease
+Category: Genetics
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/all-about-kidneys/tests/genetic-testing-and-counseling
+
+Resource: Gitelman syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/gitelman-syndrome/
+
+Resource: Glomerular Diseases
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/glomerular-disease?dkrd=/health-information/kidney-disease/glomerular-diseases
+
+Resource: Glomerulonephritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000484.htm
+
+Resource: Glomerulonephritis (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/glomerulonephritis.html
+
+Resource: Hemolytic Uremic Syndrome in Children
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/hemolytic-uremic-syndrome
+
+Resource: High potassium level
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001179.htm
+
+Resource: Hydronephrosis
+Category: Specifics
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/hydronephrosis
+
+Resource: Hydronephrosis in Newborns
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns
+
+Resource: Hydronephrosis of one kidney
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000506.htm
+
+Resource: Hyperkalemia Guidelines
+Category: Related Issues
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/hyperkalemia-guidelines-professionals
+
+Resource: Hyperphosphatemic familial tumoral calcinosis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hyperphosphatemic-familial-tumoral-calcinosis/
+
+Resource: IgA nephropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000466.htm
+
+Resource: IgA Nephropathy
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/iga-nephropathy
+
+Resource: Injury - kidney and ureter
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001065.htm
+
+Resource: Interstitial Nephritis
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/interstitial-nephritis/
+
+Resource: Interstitial nephritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000464.htm
+
+Resource: Keeping Kidneys Safe: Smart Choices about Medicines
+Category: Related Issues
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/keeping-kidneys-safe
+
+Resource: Kidney Disease in Children
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children
+
+Resource: Kidney Disease Stages, Risks, and Real-Life Experiences
+Category: Start Here
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/news-stories/kidney-disease-stages-risks-and-real-life-experiences
+
+Resource: Kidney Disease Statistics for the United States
+Category: Statistics and Research
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/health-statistics/kidney-disease
+
+Resource: Kidney Disease: Fact Sheet
+Category: Statistics and Research
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/about/kidney-disease-fact-sheet
+
+Resource: Kidney Problems
+Category: Older Adults
+Organization: AGS Health in Aging Foundation
+URL: https://www.healthinaging.org/a-z-topic/kidney-problems
+
+Resource: Kidney removal
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003001.htm
+
+Resource: Kidney removal (nephrectomy) - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100069_1.htm
+
+Resource: Kidney removal - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000295.htm
+
+Resource: Kidney Tests: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/kidneytests.html
+
+Resource: Low blood potassium
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000479.htm
+
+Resource: Low Phosphorus Diet: Helpful for Kidney Disease?
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/chronic-kidney-disease/expert-answers/food-and-nutrition/faq-20058408?p=1
+
+Resource: Lowe syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/lowe-syndrome/
+
+Resource: Lupus Nephritis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/lupus-nephritis
+
+Resource: Mainzer-Saldino syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mainzer-saldino-syndrome/
+
+Resource: Medullary cystic kidney disease type 1: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/medullary-cystic-kidney-disease-type-1/
+
+Resource: Membranoproliferative glomerulonephritis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000475.htm
+
+Resource: Membranous nephropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000472.htm
+
+Resource: Minimal change disease
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000496.htm
+
+Resource: Nail-patella syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/nail-patella-syndrome/
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: National Kidney Disease Education Program
+Category: Find an Expert
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/community-health-outreach/information-clearinghouses/nkdep
+
+Resource: National Kidney Foundation
+Category: Find an Expert
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/
+
+Resource: Nephrectomy (Kidney Removal)
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/nephrectomy/about/pac-20385165?p=1
+
+Resource: Nephrocalcinosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000492.htm
+
+Resource: Nephrotic syndrome
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000490.htm
+
+Resource: Nephrotic Syndrome
+Category: Specifics
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/nephrotic-syndrome/symptoms-causes/syc-20375608?p=1
+
+Resource: Nephrotic Syndrome in Adults
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/nephrotic-syndrome-adults
+
+Resource: Nephrotic Syndrome in Children
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/children/nephrotic-syndrome-children
+
+Resource: NKF Patient Journey: Chronic Kidney Disease
+Category: Health Check Tools
+Organization: National Kidney Foundation
+URL: https://kidney.instilled.com/player/medium/2801865450776958574?embed=true&layout=fullscreen&overlay=false&version=health
+
+Resource: Obstructive uropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000507.htm
+
+Resource: Pain Medicines and Kidney Disease
+Category: Related Issues
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/pain-medicines-and-kidney-disease
+
+Resource: Perirenal abscess
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001274.htm
+
+Resource: Pneumonia's Ripple Effect: The Surprising Ties to Acute Kidney Injury
+Category: Related Issues
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/article/pneumonias-ripple-effect-surprising-ties-acute-kidney-injury
+
+Resource: Poststreptococcal glomerulonephritis (GN)
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000503.htm
+
+Resource: Pregnancy and Kidney Disease
+Category: Women
+Organization: National Kidney Foundation
+URL: https://www.kidney.org/kidney-topics/pregnancy-and-kidney-disease
+
+Resource: Preventing Chronic Kidney Disease
+Category: Prevention and Risk Factors
+Organization: National Kidney Disease Education Program
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/prevention
+
+Resource: Proximal renal tubular acidosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000497.htm
+
+Resource: Kidney Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Kidney+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+2+Years%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Reflux nephropathy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000459.htm
+
+Resource: REN-related kidney disease: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/ren-related-kidney-disease/
+
+Resource: Renal coloboma syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/renal-coloboma-syndrome/
+
+Resource: Renal hypouricemia: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/renal-hypouricemia/
+
+Resource: Renal papillary necrosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000488.htm
+
+Resource: Renal perfusion scintiscan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003831.htm
+
+Resource: Renal Tubular Acidosis
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/renal-tubular-acidosis.html
+
+Resource: Renal Tubular Acidosis
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/renal-tubular-acidosis
+
+Resource: Renal tubular acidosis with deafness: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/renal-tubular-acidosis-with-deafness/
+
+Resource: Renal tubular dysgenesis: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/renal-tubular-dysgenesis/
+
+Resource: Renal vein thrombosis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000513.htm
+
+Resource: Senior-Løken syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/senior-loken-syndrome/
+
+Resource: Solitary or Single-Functioning Kidney
+Category: Specifics
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/solitary-kidney
+
+Resource: The Urinary System & Kidneys
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/kidneys.html
+
+Resource: Townes-Brocks Syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/townes-brocks-syndrome/
+
+Resource: Types of Kidney Diseases
+Category: Start Here
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/all-about-kidneys/types-kidney-diseases
+
+Resource: Ultrasound: Renal (Kidneys, Ureters, Bladder) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/renal-ultrasound.html
+
+Resource: UPJ obstruction
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001267.htm
+
+Resource: Urinalysis: MedlinePlus Health Topic
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/urinalysis.html
+
+Resource: Vaccines and Kidney Disease
+Category: Related Issues
+Organization: American Kidney Fund
+URL: https://www.kidneyfund.org/resource/vaccines-and-kidney-disease
+
+Resource: Your Kidneys and How They Work
+Category: Start Here, Reference Desk
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work

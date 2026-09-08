@@ -1,0 +1,116 @@
+Title: Folic Acid
+
+Also Called:
+- Folacin
+- Folate
+- Pteroylglutamic acid
+- Vitamin B9
+
+Summary:
+Folic acid is a
+B vitamin
+. It helps the body make healthy new cells. Everyone needs folic acid. For women who may get pregnant, it is really important.  Getting enough folic acid before and during pregnancy can prevent major birth
+defects
+of her baby's brain or spine.
+Foods with folic acid in them include:
+Leafy green vegetables
+Fruits
+Dried beans, peas, and nuts
+Enriched breads, cereals and other grain products
+If you don't get enough folic acid from the foods you eat, you can also take it as a
+dietary supplement
+.
+NIH: National Institutes of Health Office of Dietary Supplements
+
+Groups:
+- Food and Nutrition
+
+MeSH Headings:
+- Folic Acid Deficiency
+- Folic Acid
+
+Related Resources:
+
+Resource: About Folic Acid
+Category: Start Here
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/folic-acid/about/
+
+Resource: Centers for Disease Control and Prevention
+Category: Find an Expert
+Organization: Centers for Disease Control and Prevention
+URL: https://www.cdc.gov/
+
+Resource: Cerebral folate transport deficiency: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/cerebral-folate-transport-deficiency
+
+Resource: ClinicalTrials.gov: Folic Acid
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Folic+Acid%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Folic Acid Deficiency
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Folic+Acid+Deficiency%22&aggFilters=status:not%20rec
+
+Resource: Folate
+Category: Start Here
+Organization: National Institutes of Health, Office of Dietary Supplements
+URL: https://ods.od.nih.gov/factsheets/Folate-Consumer/
+
+Resource: Folate (Folic Acid)
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/drugs-supplements-folate/art-20364625?p=1
+
+Resource: Folate deficiency
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000354.htm
+
+Resource: Folate-deficiency anemia
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000551.htm
+
+Resource: Folic Acid
+Category: Start Here
+Organization: Department of Health and Human Services, Office on Women's Health
+URL: https://womenshealth.gov/a-z-topics/folic-acid
+
+Resource: Folic acid - test
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003686.htm
+
+Resource: Folic acid in diet
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002408.htm
+
+Resource: Hereditary folate malabsorption: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/hereditary-folate-malabsorption/
+
+Resource: Homocysteine Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/homocysteine-test/
+
+Resource: March of Dimes Foundation
+Category: Find an Expert
+Organization: March of Dimes Foundation
+URL: https://www.marchofdimes.org/
+
+Resource: Folic Acid
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Folic+Acid+Deficiency%22%5Bmajr%3Anoexp%5D+OR+%22Folic+Acid%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Vitamin B Test
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/vitamin-b-test/

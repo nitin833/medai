@@ -1,0 +1,351 @@
+Title: Cancer in Children
+
+Summary:
+Cancer is a group of related diseases. In all types of cancer, some of the body's cells begin to divide without stopping and spread into surrounding tissues.
+Normally, new cells form as you need them, replacing old cells that die. Sometimes, this process goes wrong. New cells form when you don't need them, and old cells don't die when they should. The extra cells can form a tumor. Tumors can be benign or malignant.
+Benign tumors
+aren't cancer. Malignant tumors are cancer, and the cancer cells can spread to nearby tissues. They can also break away and spread to other parts of the body.
+Children can get cancer in the same parts of the body as adults, but there are differences. Childhood cancers may happen suddenly, without early symptoms. Some types can often be cured. The most common children's cancer is
+leukemia
+. Some of the other more common types of cancer in children include
+brain tumors
+,
+lymphoma
+, and
+soft tissue sarcoma
+.
+Symptoms and treatment depend on the type of cancer and how advanced it is. Treatments may include:
+Surgery
+Radiation therapy
+Chemotherapy
+Stem cell transplants
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+NIH: National Cancer Institute
+
+Groups:
+- Cancers
+- Children and Teenagers
+
+MeSH Headings:
+- Neoplasms
+
+Related Resources:
+
+Resource: A guide to help children understand cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000921.htm
+
+Resource: Adolescents and Young Adults with Cancer
+Category: Teenagers
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/aya
+
+Resource: Advances in Childhood Cancer: Making Personalized Treatments a Reality
+Category: Statistics and Research
+Organization: National Institutes of Health
+URL: https://newsinhealth.nih.gov/2023/02/advances-childhood-cancer
+
+Resource: After chemotherapy - discharge
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000012.htm
+
+Resource: American Cancer Society
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/
+
+Resource: Bone Health After Cancer Treatment
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/bones-after-cancer.html
+
+Resource: Cancer Basics
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/cancer.html
+
+Resource: Cancer in Children and Adolescents
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/child-adolescent-cancers-fact-sheet
+
+Resource: Cancer Support Groups
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/adjusting-to-cancer/support-groups
+
+Resource: Care for Childhood Cancer Survivors
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/survivorship/child-care
+
+Resource: Chemotherapy
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/chemo.html
+
+Resource: Childhood Adrenocortical Carcinoma
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/adrenocortical/childhood
+
+Resource: Childhood Cancer
+Category: Start Here
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/childhood-cancer.html
+
+Resource: Childhood Cancer
+Category: Start Here
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cancer.html
+
+Resource: Childhood Cancer Statistics
+Category: Statistics and Research
+Organization: CureSearch for Children's Cancer
+URL: https://curesearch.org/childhood-cancer-statistics
+
+Resource: Childhood Cancer Survivor Study: An Overview
+Category: Statistics and Research
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/ccss
+
+Resource: Childhood Carcinoma of Unknown Primary Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/unknown-primary/patient/child-unknown-primary-treatment-pdq
+
+Resource: Childhood Heart Tumors
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/cardiac/patient-child-cardiac-treatment-pdq
+
+Resource: Childhood Midline Tract Carcinoma with NUT Gene Changes Treatment
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/midline/patient-child-midline-tract-carcinoma-treatment-pdq
+
+Resource: Childhood Thyroid Cancer Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/thyroid/patient/child-thyroid-treatment-pdq
+
+Resource: Children with Cancer: A Guide for Parents
+Category: Start Here
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/patient-education/guide-for-parents
+
+Resource: Children's Assent to Clinical Trial Participation
+Category: Clinical Trials
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/participate/clinical-trials/safety#childrens-assent
+
+Resource: Children's cancer centers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000841.htm
+
+Resource: Choosing a Cancer Doctor
+Category: Find an Expert
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/preparing-for-treatment/choosing-a-cancer-doctor.html
+
+Resource: ClinicalTrials.gov: Cancer in Children
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=neoplasms&aggFilters=ages:child,status:not%20rec
+
+Resource: COG Member Institutions
+Category: Find an Expert
+Organization: Children's Oncology Group
+URL: https://childrensoncologygroup.org/patients-families/member-institutions/
+
+Resource: Coping with Cosmetic Effects of Cancer Treatment
+Category: Living With
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cosmetic-effects.html
+
+Resource: Dealing with Cancer
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/deal-with-cancer.html
+
+Resource: Drugs Approved for Childhood Cancers
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/childhood-cancer-fda-approved-drugs
+
+Resource: Drugs Approved for Rhabdomyosarcoma
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/treatment/drugs/rhabdomyosarcoma
+
+Resource: Eating extra calories when sick - children
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000034.htm
+
+Resource: Effects of Cancer Treatment on Fertility (For Parents)
+Category: Related Issues
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/cancer-fertility.html
+
+Resource: Finding and Diagnosing Cancer in Children
+Category: Diagnosis and Tests
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html
+
+Resource: General Information about Childhood Extracranial Germ Cell Tumors
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/extracranial-germ-cell/patient/germ-cell-treatment-pdq#_1
+
+Resource: Getting support when your child has cancer
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000843.htm
+
+Resource: Going to School during and after Cancer Treatment
+Category: Living With
+Organization: American Cancer Society
+URL: https://www.cancer.org/cancer/childhood-cancer/going-to-school-during-and-after-cancer-treatment.html
+
+Resource: Helping your child understand a cancer diagnosis
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000844.htm
+
+Resource: How childhood cancers are different from adult cancers
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000845.htm
+
+Resource: Immunotherapy to Treat Cancer (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/immunotherapy.html
+
+Resource: Late Effects of Treatment for Childhood Cancer
+Category: Related Issues
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/late-effects-pdq
+
+Resource: Mosaic variegated aneuploidy syndrome: MedlinePlus Genetics
+Category: Genetics
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/genetics/condition/mosaic-variegated-aneuploidy-syndrome
+
+Resource: National Cancer Institute
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/
+
+Resource: NCI Dictionary of Cancer Terms
+Category: Reference Desk
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/publications/dictionaries/cancer-terms
+
+Resource: NCI-Designated Cancer Centers
+Category: Find an Expert
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/research/infrastructure/cancer-centers
+
+Resource: Other Rare Cancers of Childhood
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq#_67
+
+Resource: Cancer in Children
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Neoplasms%22%5Bmajr%3Anoexp%5D+AND+child+%5Bmh%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Questions to ask your child's doctor about cancer
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000922.htm
+
+Resource: Radiation Therapy
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/radiation.html
+
+Resource: Rare Cancers of Childhood Treatment
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq
+
+Resource: Rare Cancers of the Abdomen
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq#_61
+
+Resource: Rare Cancers of the Chest
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq#_58
+
+Resource: Rare Cancers of the Head and Neck
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq#_55
+
+Resource: Rare Cancers of the Reproductive and Urinary Systems
+Category: Specifics
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/childhood-cancers/patient/rare-childhood-cancers-pdq#_64
+
+Resource: Rhabdomyosarcoma
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001429.htm
+
+Resource: Side Effects of Chemotherapy and Radiation (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/side-effects.html
+
+Resource: Stages of Childhood Extracranial Germ Cell Tumors
+Category: Diagnosis and Tests
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/extracranial-germ-cell/patient/germ-cell-treatment-pdq#_26
+
+Resource: Steroids for Treating Cancer (For Parents)
+Category: Treatments and Therapies
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/steroid-treatment.html
+
+Resource: Support for Families when a Child Has Cancer
+Category: Living With
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/about-cancer/coping/caregiver-support/parents
+
+Resource: Thyroid Cancer (For Parents)
+Category: Specifics
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/thyroid-cancer.html
+
+Resource: Treatment for childhood cancer -- long-term risks
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000849.htm
+
+Resource: Treatment Option Overview (Childhood Extracranial Germ Cell Tumors)
+Category: Treatments and Therapies
+Organization: National Cancer Institute
+URL: https://www.cancer.gov/types/extracranial-germ-cell/patient/germ-cell-treatment-pdq#_50
+
+Resource: What Is Cancer?
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/kids/cancer.html
+
+Resource: When Your Child Is Diagnosed with Cancer
+Category: Videos and Tutorials
+Organization: National Cancer Institute
+URL: https://www.youtube.com/watch?v=vrlyRdierRo&list=PLYKy4VbxNln5V3x2SaWnWG36LKlkFFP8q
+
+Resource: When your child's cancer treatment stops working
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000852.htm

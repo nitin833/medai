@@ -1,0 +1,161 @@
+Title: Tendinitis
+
+Also Called:
+- Tendonitis
+
+Summary:
+Tendons are flexible bands of tissue that connect muscles to bones. They help your muscles move your bones.  Tendinitis is the severe swelling of a tendon.
+Tendinitis usually happens after repeated injury to an area such as the wrist or ankle. It causes pain and soreness around a joint. Some common forms of tendinitis are named after the sports that increase their risk. They include tennis elbow, golfer's elbow, pitcher's shoulder, swimmer's shoulder, and jumper's knee.
+Doctors diagnose tendinitis with your medical history, a physical exam, and imaging tests. The first step in treatment is to reduce pain and swelling. Rest, wrapping or elevating the affected area, and medicines can help. Ice is helpful for recent, severe injuries. Other treatments include ultrasound, physical therapy, steroid injections, and surgery.
+
+Groups:
+- Bones, Joints and Muscles
+
+MeSH Headings:
+- Tendinopathy
+
+Related Resources:
+
+Resource: Achilles Tendinitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/achilles-tendinitis/
+
+Resource: Achilles tendinitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001072.htm
+
+Resource: Achilles Tendonitis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/achilles.html
+
+Resource: ClinicalTrials.gov: Tendinitis
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tendinitis%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Tendinopathy
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Tendinopathy%22&aggFilters=status:not%20rec
+
+Resource: De Quervain tendinitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000537.htm
+
+Resource: De Quervain's Tenosynovitis
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/de-quervains-tenosynovitis/
+
+Resource: De Quervain's Tenosynovitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/de-quervains-tendinosis/
+
+Resource: Heel pain and Achilles tendonitis -- aftercare
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000836.htm
+
+Resource: Joint Injections (Joint Aspirations)
+Category: Treatments and Therapies
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/joint-injections-joint-aspirations
+
+Resource: Jumper's Knee (Patellar Tendonitis) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/jumpers-knee.html
+
+Resource: Medial epicondylitis - golfer's elbow
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007638.htm
+
+Resource: Musculoskeletal MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/muscmr
+
+Resource: Musculoskeletal Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/musculous
+
+Resource: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+Category: Find an Expert
+Organization: National Institute of Arthritis and Musculoskeletal and Skin Diseases
+URL: https://www.niams.nih.gov/
+
+Resource: Peroneal Tendinosis
+Category: Specifics
+Organization: American Orthopaedic Foot and Ankle Society
+URL: https://www.footcaremd.org/foot-and-ankle-conditions/ankle/peroneal-tendinosis
+
+Resource: Posterior Tibial Tendon Dysfunction (PTTD)
+Category: Specifics
+Organization: American College of Foot and Ankle Surgeons
+URL: https://www.foothealthfacts.org/conditions/posterior-tibial-tendon-dysfunction-(pttd)
+
+Resource: Proximal Biceps Tendonitis
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/biceps-tendonitis.html
+
+Resource: Tendinitis
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Tendinopathy%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Rheumatology Provider Directory
+Category: Find an Expert
+Organization: American College of Rheumatology
+URL: https://my.rheumatology.org/rheumatology-provider-directory
+
+Resource: Rotator cuff problems
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000438.htm
+
+Resource: Shoulder Impingement/Rotator Cuff Tendinitis
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/shoulder-impingementrotator-cuff-tendinitis
+
+Resource: Tendinitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001229.htm
+
+Resource: Tendinitis (Bursitis)
+Category: Start Here
+Organization: American College of Rheumatology
+URL: https://rheumatology.org/patients/tendinitis-bursitis
+
+Resource: Tendinitis Pain: Should I Apply Ice or Heat?
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/tendinitis/expert-answers/tendinitis/faq-20057872?p=1
+
+Resource: Tennis elbow
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000449.htm
+
+Resource: Tennis Elbow (Lateral Epicondylitis)
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/tennis-elbow-lateral-epicondylitis/
+
+Resource: Tenosynovitis
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001242.htm
+
+Resource: Trigger Finger
+Category: Specifics
+Organization: American Academy of Orthopaedic Surgeons
+URL: https://orthoinfo.aaos.org/en/diseases--conditions/trigger-finger/

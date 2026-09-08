@@ -1,0 +1,82 @@
+Title: Herpes simple
+
+Summary:
+El herpes es una infección causada por un virus herpes simple (VHS). El herpes bucal provoca
+llagas
+alrededor de la boca o en el rostro. El
+herpes genital
+es una infección de transmisión sexual (ITS). Puede afectar los genitales, las nalgas o el área del ano. Otras infecciones por herpes pueden afectar los ojos, la piel u otras partes del cuerpo. El virus puede ser peligroso en recién nacidos o en personas con sistemas inmunes debilitados.
+Existen dos tipos de herpes simple:
+El herpes simple tipo 1 frecuentemente causa llagas labiales. También puede causar herpes genital.
+El herpes simple tipo 2 frecuentemente es el que causa el herpes genital, pero también puede afectar la boca.
+El herpes simple se contagia por contacto directo. Algunas personas no tienen síntomas. Otras presentan llagas cerca del área por la cual penetró el virus al cuerpo. Éstas se convierten en ampollas que causan picazón y dolor y posteriormente se curan.
+La mayoría de las personas tiene brotes varias veces al año. Con el transcurso del tiempo, los brotes se hacen menos frecuentes. Los medicamentos que ayudan al cuerpo a combatir el virus pueden ayudar a mejorar los síntomas y disminuir los brotes.
+
+Groups:
+- Infecciones
+- Salud oral y dental
+- Asuntos de salud sexual
+- Sistema reproductor femenino
+- Sistema reproductor masculino
+
+Related Resources:
+
+Resource: Anticuerpos séricos contra el herpes simple
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003352.htm
+
+Resource: Cultivo de lesión por herpes viral
+Category: Diagnóstico y exámenes, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/003739.htm
+
+Resource: Embarazo y el herpes
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001368.htm
+
+Resource: Eritema multiforme
+Category: Spanish/Español, Asuntos relacionados
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000851.htm
+
+Resource: Esofagitis infecciosa
+Category: Asuntos específicos, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000646.htm
+
+Resource: Herpes labial en los niños: información sobre el virus del herpes simple
+Category: Spanish/Español, Niños/as
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/conditions/skin/paginas/herpes-simplex-virus-cold-sores.aspx
+
+Resource: Herpes puede sucederle a cualquiera
+Category: Comience aquí, Spanish/Español
+Organization: Institutos Nacionales de la Salud
+URL: https://salud.nih.gov/recursos-de-salud/nih-noticias-de-salud/el-herpes-puede-sucederle-a-cualquiera
+
+Resource: Infecciones por el virus herpes simple
+Category: Comience aquí, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/es-us/hogar/infecciones/infecciones-por-el-virus-del-herpes/infecciones-por-el-virus-del-herpes-simple-vhs
+
+Resource: Prueba del virus del herpes simple (VHS)
+Category: Diagnóstico y exámenes, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-del-virus-del-herpes-simple-vhs/
+
+Resource: Queratitis herpética
+Category: Asuntos específicos, Spanish/Español
+Organization: Merck & Co., Inc.
+URL: https://www.msdmanuals.com/es/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-c%C3%B3rnea/queratitis-herp%C3%A9tica
+
+Resource: Virus del herpes simple
+Category: Comience aquí, Spanish/Español
+Organization: Organización Mundial de la  Salud
+URL: https://www.who.int/es/news-room/fact-sheets/detail/herpes-simplex-virus
+
+Resource: ¿Qué es la queratitis herpética?
+Category: Asuntos específicos, Spanish/Español
+Organization: Academia Americana de Oftalmología
+URL: https://www.aao.org/salud-ocular/enfermedades/queratitis-herpetica

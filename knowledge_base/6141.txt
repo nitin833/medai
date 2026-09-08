@@ -1,0 +1,100 @@
+Title: Retinal Detachment
+
+Summary:
+The retina is a layer of tissue in the back of your eye that senses light and sends images to your brain. It provides the sharp, central vision needed for reading, driving, and seeing fine detail. A retinal detachment lifts or pulls the retina from its normal position.  It can occur at any age, but it is more common in people over age 40. It affects men more than women and whites more than African Americans. A retinal detachment is also more likely to occur in people who:
+Are extremely nearsighted
+Have had a retinal detachment in the other eye
+Have a family history of retinal detachment
+Have had cataract surgery
+Have other eye diseases or disorders
+Have had an eye injury
+Symptoms include an increase in the number of floaters, which are little "cobwebs" or specks that float about in your field of vision, and/or light flashes in the eye. It may also seem like there is a "curtain" over your field of vision.
+A retinal detachment is a medical emergency.  If not promptly treated, it can cause permanent vision loss. If you have any symptoms, see an eye care professional immediately. Treatment includes different types of surgery.
+NIH: National Eye Institute
+
+Groups:
+- Eyes and Vision
+
+MeSH Headings:
+- Retinal Detachment
+
+Related Resources:
+
+Resource: ClinicalTrials.gov: Retinal Detachment
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Retinal+Detachment%22&aggFilters=status:not%20rec
+
+Resource: Complex Retinal Detachment
+Category: Specifics
+Organization: American Society of Retina Specialists
+URL: https://www.asrs.org/patients/retinal-diseases/34/complex-retinal-detachment
+
+Resource: Detached Retina
+Category: Start Here
+Organization: American Academy of Ophthalmology
+URL: https://www.aao.org/eye-health/diseases/detached-torn-retina
+
+Resource: Dilating Eye Drops
+Category: Diagnosis and Tests
+Organization: American Association for Pediatric Ophthalmology and Strabismus
+URL: https://www.aapos.org/glossary/dilating-eye-drops
+
+Resource: Eye Health Data and Statistics
+Category: Statistics and Research
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/about/education-and-outreach/eye-health-data-and-statistics
+
+Resource: Find an Ophthalmologist
+Category: Find an Expert
+Organization: American Academy of Ophthalmology
+URL: https://secure.aao.org/aao/find-ophthalmologist
+
+Resource: Finding an Eye Doctor
+Category: Find an Expert
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/healthy-vision/finding-eye-doctor
+
+Resource: Flashes and Floaters
+Category: Images
+Organization: VisualDX
+URL: https://skinsight.com/skin-conditions/flashes-and-floaters/?Imiw9cApl=1
+
+Resource: Floaters
+Category: Related Issues
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/floaters
+
+Resource: National Eye Institute
+Category: Find an Expert
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/
+
+Resource: Retinal Detachment
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Retinal+Detachment%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Retinal detachment
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001027.htm
+
+Resource: Retinal Detachment
+Category: Start Here
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/retinal-detachment
+
+Resource: Retinal detachment repair
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002960.htm
+
+Resource: Retinal detachment repair - series
+Category: Treatments and Therapies, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100132_1.htm
+
+Resource: Vitreous Detachment
+Category: Related Issues
+Organization: National Eye Institute
+URL: https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/vitreous-detachment

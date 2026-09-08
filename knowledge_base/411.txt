@@ -1,0 +1,245 @@
+Title: Spinal Cord Injuries
+
+Summary:
+Your spinal cord is a bundle of nerves that runs down the middle of your back. It carries signals back and forth between your body and your brain. A spinal cord injury disrupts the signals. Spinal cord injuries usually begin with a blow that
+fractures
+(breaks) or
+dislocates
+your vertebrae, the bone disks that make up your spine. Most injuries don't cut through your spinal cord. Instead, they cause damage when pieces of vertebrae tear into cord tissue or press down on the nerve parts that carry signals.
+Spinal cord injuries can be complete or incomplete. With a complete spinal cord injury, the cord can't send signals below the level of the injury. As a result, you are
+paralyzed
+below the injury. With an incomplete injury, you have some movement and sensation below the injury.
+A spinal cord injury is a medical emergency. Immediate treatment can reduce long-term effects. Treatments may include medicines, braces or traction to stabilize the spine, and surgery. Later treatment usually includes medicines and rehabilitation therapy.
+Mobility aids
+and
+assistive devices
+may help you to get around and do some daily tasks.
+NIH: National Institute of Neurological Disorders and Stroke
+
+Groups:
+- Brain and Nerves
+- Injuries and Wounds
+
+MeSH Headings:
+- Spinal Cord Injuries
+
+Related Resources:
+
+Resource: About Spinal Cord Injury
+Category: Start Here
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/spinalinjury/conditioninfo
+
+Resource: Assistive Technology for Spinal Cord Injury
+Category: Living With
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/tests-procedures/assistive-technology-for-spinal-cord-injury/about/pac-20392986?p=1
+
+Resource: Autonomic dysreflexia
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001431.htm
+
+Resource: Bladder Management
+Category: Related Issues
+Organization: University of Washington, Department of Rehabilitation Medicine
+URL: https://sci.washington.edu/info/pamphlets/bladder.asp
+
+Resource: Brain Basics: The Life and Death of a Neuron
+Category: Reference Desk
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-life-and-death-neuron
+
+Resource: Central Cord Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/central-cord-syndrome
+
+Resource: Central Pain Syndrome
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/central-pain-syndrome
+
+Resource: ClinicalTrials.gov: Spinal Cord Injuries
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Spinal+Cord+Injuries%22&aggFilters=status:not%20rec
+
+Resource: CSF leak
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001068.htm
+
+Resource: Daily bowel care program
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000133.htm
+
+Resource: Depression and Spinal Cord Injury
+Category: Related Issues
+Organization: University of Washington, Department of Rehabilitation Medicine
+URL: https://sci.washington.edu/info/pamphlets/depression_sci.asp
+
+Resource: Dressing with Ease, Style, and Comfort
+Category: Related Issues
+Organization: ALS Association
+URL: https://www.als.org/navigating-als/resources/fyi-dressing-ease-style-and-comfort
+
+Resource: FAQs about Spinal Cord Injury (SCI)
+Category: Start Here
+Organization: University of Alabama at Birmingham
+URL: https://www.uab.edu/medicine/sci/faqs-about-spinal-cord-injury-sci
+
+Resource: Find a Physical Medicine and Rehabilitation Physician
+Category: Find an Expert
+Organization: American Academy of Physical Medicine and Rehabilitation
+URL: https://members.aapmr.org/AAPMR/AAPMR_FINDER.aspx
+
+Resource: Hiring Caregivers for Spinal Cord Injury
+Category: Living With
+Organization: Department of Veterans Affairs
+URL: https://veteranshealthlibrary.va.gov/LivingWith/SpinalCordInjury/Coping/3,41199
+
+Resource: How Is Spinal Cord Injury (SCI) Diagnosed?
+Category: Diagnosis and Tests
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/spinalinjury/conditioninfo/diagnosed
+
+Resource: Indwelling catheter care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000140.htm
+
+Resource: Lumbar MRI scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007352.htm
+
+Resource: National Institute of Neurological Disorders and Stroke
+Category: Find an Expert
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/
+
+Resource: National Spinal Cord Injury Statistical Center
+Category: Statistics and Research
+Organization: University of Alabama at Birmingham
+URL: https://sites.uab.edu/nscisc/
+
+Resource: Nutrition and Spinal Cord Injury
+Category: Living With
+Organization: Department of Veterans Affairs
+URL: https://www.nutrition.va.gov/docs/UpdatedPatientEd/NutritionandSCI2021.pdf
+
+Resource: Overview of Spinal Cord Disorders
+Category: Start Here
+Organization: Merck & Co., Inc.
+URL: https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/spinal-cord-disorders/overview-of-spinal-cord-disorders
+
+Resource: Preventing Bedsores (Pressure Ulcers)
+Category: Videos and Tutorials
+Organization: Hill Foundation for Families Living with Disabilities
+URL: https://facingdisability.com/expert-topics/preventing-pressure-sores
+
+Resource: Spinal Cord Injuries
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Spinal+Cord+Injuries%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+AND+%28patient+education+handout%5Bpt%5D+OR+guideline%5Bpt%5D+OR+clinical+trial%5Bpt%5D%29++NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Self catheterization - female
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000144.htm
+
+Resource: Self catheterization - male
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000143.htm
+
+Resource: Spinal Cord Infarction
+Category: Specifics
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/spinal-cord-infarction
+
+Resource: Spinal Cord Injuries (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/spinal-cord-injuries.html
+
+Resource: Spinal Cord Injury
+Category: Start Here
+Organization: National Institute of Neurological Disorders and Stroke
+URL: https://www.ninds.nih.gov/health-information/disorders/spinal-cord-injury
+
+Resource: Spinal cord injury - Symptoms and causes
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/spinal-cord-injury/symptoms-causes/syc-20377890?p=1
+
+Resource: Spinal Cord Injury Basics
+Category: Videos and Tutorials
+Organization: Hill Foundation for Families Living with Disabilities
+URL: https://facingdisability.com/expert-topics/spinal-cord-injury-101
+
+Resource: Spinal Cord Injury Rehabilitation Basics
+Category: Videos and Tutorials
+Organization: Hill Foundation for Families Living with Disabilities
+URL: https://facingdisability.com/expert-topics/the-basics-of-sci-rehabilitation
+
+Resource: Spinal cord stimulation
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007560.htm
+
+Resource: Spinal cord trauma
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001066.htm
+
+Resource: Spinal injury
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000029.htm
+
+Resource: Spinal Injury:  First Aid
+Category: Treatments and Therapies
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/first-aid/first-aid-spinal-injury/basics/art-20056677?p=1
+
+Resource: Spine MRI
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/spinemr
+
+Resource: Suprapubic catheter care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000145.htm
+
+Resource: Taking Care of Pressure Sores
+Category: Related Issues
+Organization: University of Washington, Department of Rehabilitation Medicine
+URL: https://sci.washington.edu/info/pamphlets/pressure_sores.asp
+
+Resource: Taking Care of Your Bowels -- The Basics
+Category: Related Issues
+Organization: University of Washington, Department of Rehabilitation Medicine
+URL: https://sci.washington.edu/info/pamphlets/bowels_1.asp
+
+Resource: Thoracic spine CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007442.htm
+
+Resource: Urinary catheters
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003981.htm
+
+Resource: Urine drainage bags
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000142.htm
+
+Resource: What Are the Treatments for Spinal Cord Injury (SCI)?
+Category: Treatments and Therapies
+Organization: Eunice Kennedy Shriver National Institute of Child Health and Human Development
+URL: https://www.nichd.nih.gov/health/topics/spinalinjury/conditioninfo/treatments

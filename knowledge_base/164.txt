@@ -1,0 +1,289 @@
+Title: Bladder Diseases
+
+Summary:
+The bladder is a hollow organ in your lower abdomen that stores urine. Many conditions can affect your bladder. Some common ones are:
+Cystitis - inflammation of the bladder, often from an
+infection
+Urinary incontinence
+- loss of bladder control
+Overactive bladder
+- a condition in which the bladder squeezes urine out at the wrong time
+Interstitial cystitis
+- a chronic problem that causes bladder pain and frequent, urgent urination
+Bladder cancer
+Doctors diagnose bladder diseases using different tests. These include
+urine tests
+, x-rays, and an examination of the bladder wall with a scope called a cystoscope. Treatment depends on the cause of the problem. It may include medicines and, in severe cases, surgery.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+
+Groups:
+- Kidneys and Urinary System
+
+MeSH Headings:
+- Urinary Bladder Diseases
+
+Related Resources:
+
+Resource: Bladder biopsy
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003902.htm
+
+Resource: Bladder exstrophy repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002997.htm
+
+Resource: Bladder outlet obstruction
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002238.htm
+
+Resource: Bladder Outlet Obstruction: Causes in Men?
+Category: Men
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/benign-prostatic-hyperplasia/expert-answers/bladder-outlet-obstruction/faq-20058537?p=1
+
+Resource: Bladder Stone
+Category: Specifics
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/condition/bladder-stone/
+
+Resource: Bladder stones
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001275.htm
+
+Resource: Blood in the Urine (Hematuria) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/hematuria.html
+
+Resource: ClinicalTrials.gov: Urinary Bladder Diseases
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urinary+Bladder+Diseases%22&aggFilters=status:not%20rec
+
+Resource: ClinicalTrials.gov: Urinary Bladder, Neurogenic
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Urinary+Bladder,+Neurogenic%22&aggFilters=status:not%20rec
+
+Resource: Cystitis - noninfectious
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000514.htm
+
+Resource: Cystocele (Prolapsed Bladder)
+Category: Women
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/cystocele
+
+Resource: Cystometric study
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003904.htm
+
+Resource: Cystoscopy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003903.htm
+
+Resource: Cystoscopy and Ureteroscopy
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/cystoscopy-ureteroscopy
+
+Resource: Frequent or urgent urination
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003140.htm
+
+Resource: Hydronephrosis in Newborns
+Category: Children
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/hydronephrosis-newborns
+
+Resource: Indwelling catheter care
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000140.htm
+
+Resource: Intravenous pyelogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003782.htm
+
+Resource: Intravenous Pyelogram (IVP)
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/intravenous-pyelogram-ivp/
+
+Resource: Kegel exercises - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000141.htm
+
+Resource: Lithotripsy
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007113.htm
+
+Resource: National Institute of Diabetes and Digestive and Kidney Diseases
+Category: Find an Expert
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov
+
+Resource: Neurogenic bladder
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/000754.htm
+
+Resource: Patent urachus repair
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/002993.htm
+
+Resource: Patent urachus repair - series
+Category: Children, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/presentations/100130_1.htm
+
+Resource: Pediatric VCUG (Voiding Cystourethrogram)
+Category: Children
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/voidcysto
+
+Resource: Pelvic CT scan
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007362.htm
+
+Resource: Pelvic ultrasound - abdominal
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007667.htm
+
+Resource: Pelvis Ultrasound
+Category: Diagnosis and Tests
+Organization: Radiological Society of North America, American College of Radiology
+URL: https://www.radiologyinfo.org/en/info/pelvus
+
+Resource: Bladder Diseases
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Urinary+Bladder+Diseases%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Radionuclide cystogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003832.htm
+
+Resource: Retrograde cystography
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003783.htm
+
+Resource: Self catheterization - female
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000144.htm
+
+Resource: Self catheterization - male
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000143.htm
+
+Resource: Suprapubic catheter care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000145.htm
+
+Resource: The Urinary System & Kidneys
+Category: Teenagers
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/teens/kidneys.html
+
+Resource: Traumatic injury of the bladder and urethra
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/001063.htm
+
+Resource: Ultrasound: Bladder (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/ultrasound-bladder.html
+
+Resource: Ultrasound: Renal (Kidneys, Ureters, Bladder) (For Parents)
+Category: Children
+Organization: Nemours Foundation
+URL: https://kidshealth.org/en/parents/renal-ultrasound.html
+
+Resource: Urinary catheters
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003981.htm
+
+Resource: Urinary catheters - what to ask your doctor
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000230.htm
+
+Resource: Urinary Diversion
+Category: Treatments and Therapies
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-diversion
+
+Resource: Urinary incontinence products - self-care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000146.htm
+
+Resource: Urinary Retention
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention
+
+Resource: Urinary Tract and How It Works
+Category: Start Here
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-tract-how-it-works
+
+Resource: Urinary Tract Imaging
+Category: Diagnosis and Tests
+Organization: National Institute of Diabetes and Digestive and Kidney Diseases
+URL: https://www.niddk.nih.gov/health-information/diagnostic-tests/urinary-tract-imaging
+
+Resource: Urination - painful
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003145.htm
+
+Resource: Urination Problems
+Category: Diagnosis and Tests
+Organization: American Academy of Family Physicians
+URL: https://familydoctor.org/symptom/urination-problems/
+
+Resource: Urine - bloody
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003138.htm
+
+Resource: Urine Color
+Category: Related Issues
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/urine-color/symptoms-causes/syc-20367333?p=1
+
+Resource: Urine drainage bags
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000142.htm
+
+Resource: Urostomy - stoma and skin care
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000477.htm
+
+Resource: Voiding cystourethrogram
+Category: Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/003784.htm

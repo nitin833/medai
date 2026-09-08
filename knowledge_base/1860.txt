@@ -1,0 +1,45 @@
+Title: Difteria
+
+Summary:
+La difteria es una infección bacteriana grave. Se puede contraer de la tos o estornudo de una persona infectada. También se puede infectar al entrar en contacto con un objeto, como un juguete, contaminado con la bacteria.
+La difteria usualmente afecta la nariz y la garganta. Los síntomas incluyen:
+Dolor de garganta
+Ganglios inflamados en el cuello
+Fiebre
+Debilidad
+El médico la diagnostica en base a signos y síntomas y una prueba de laboratorio. Tratarse rápidamente la difteria es importante. Si su médico sospecha que usted la tiene, comenzará el tratamiento antes que las pruebas de laboratorio confirmen la infección. El tratamiento es con antibióticos.
+La
+vacuna contra el tétanos, difteria y tos ferina
+(DPT, por sus siglas en inglés) puede prevenir la difteria, pero su protección no dura para siempre. Los niños necesitan otras dosis o refuerzos alrededor de los 12 años. Los adultos deben recibir una dosis de refuerzo cada 10 años. La difteria es muy poco frecuente en los Estados Unidos gracias a la vacuna.
+Centros para el Control y la Prevención de Enfermedades
+
+Groups:
+- Infecciones
+- Oído, nariz y garganta
+
+Related Resources:
+
+Resource: Acerca de la difteria
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diphtheria/es/about/acerca-de-la-difteria.html
+
+Resource: Difteria
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/001608.htm
+
+Resource: Difteria
+Category: Más información, Spanish/Español
+Organization: Academia Americana de Pediatría
+URL: https://www.healthychildren.org/spanish/health-issues/vaccine-preventable-diseases/paginas/diphtheria.aspx
+
+Resource: Síntomas y complicaciones de la difteria
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/diphtheria/es/symptoms/sintomas-y-complicaciones-de-la-difteria.html
+
+Resource: Vacunas para el tétanos, difteria y tos ferina: Tema de salud de MedlinePlus
+Category: Más información, Spanish/Español
+Organization: Biblioteca Nacional de Medicina
+URL: https://medlineplus.gov/spanish/tetanusdiphtheriaandpertussisvaccines.html

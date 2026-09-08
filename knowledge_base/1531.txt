@@ -1,0 +1,101 @@
+Title: Snoring
+
+Summary:
+Snoring is the sound you make when your breathing is blocked while you are asleep.  The sound is caused by tissues at the top of your airway that strike each other and vibrate. Snoring is common, especially among older people and people who are overweight.
+When severe, snoring can cause frequent awakenings at night and daytime sleepiness. It can disrupt your bed partner's sleep. Snoring can also be a sign of a serious sleep disorder called
+sleep apnea
+.  You should see your health care provider if you are often tired during the day, don't feel that you sleep well, or wake up gasping.
+To reduce snoring:
+Lose weight if you are overweight. It may help, but thin people can snore, too.
+Cut down or avoid alcohol and other sedatives at bedtime
+Don't sleep flat on your back
+NIH: National Institute on Aging
+
+Groups:
+- Lungs and Breathing
+- Ear, Nose and Throat
+- Mouth and Teeth
+
+MeSH Headings:
+- Snoring
+
+Related Resources:
+
+Resource: American Academy of Otolaryngology--Head and Neck Surgery
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.entnet.org/
+
+Resource: ClinicalTrials.gov: Snoring
+Category: Clinical Trials
+Organization: National Institutes of Health
+URL: https://clinicaltrials.gov/search?cond=%22Snoring%22&aggFilters=status:not%20rec
+
+Resource: Do Products That Claim to Stop Snoring Actually Work?
+Category: Treatments and Therapies
+Organization: Harvard Medical School
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/do-products-that-claim-to-stop-snoring-actually-work
+
+Resource: Find an ENT (Ear, Nose, and Throat Specialist)
+Category: Find an Expert
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/find-ent/
+
+Resource: Oral Appliance Therapy
+Category: Treatments and Therapies
+Organization: American Academy of Dental Sleep Medicine
+URL: https://aadsm.org/oral_appliance_therapy.php
+
+Resource: Snoring
+Category: Journal Articles
+URL: https://pubmed.ncbi.nlm.nih.gov/?term=%22Snoring%22%5Bmajr%3Anoexp%5D+AND+humans%5Bmh%5D+AND+english%5Bla%5D+AND+%22last+1+Year%22+%5Bedat%5D+NOT+%28letter%5Bpt%5D+OR+case+reports%5Bpt%5D+OR+editorial%5Bpt%5D+OR+comment%5Bpt%5D%29+AND+free+full+text%5Bsb%5D+
+
+Resource: Sleep Center Directory
+Category: Find an Expert
+Organization: American Academy of Sleep Medicine
+URL: https://sleepeducation.org/sleep-center/
+
+Resource: Sleep Study
+Category: Diagnosis and Tests
+Organization: National Library of Medicine
+URL: https://medlineplus.gov/lab-tests/sleep-study/
+
+Resource: Snoring
+Category: Start Here
+Organization: Mayo Foundation for Medical Education and Research
+URL: https://www.mayoclinic.org/diseases-conditions/snoring/symptoms-causes/syc-20377694?p=1
+
+Resource: Snoring
+Category: Encyclopedia, Videos and Tutorials
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/anatomyvideos/000119.htm
+
+Resource: Snoring -- adults
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/patientinstructions/000720.htm
+
+Resource: Snoring and Snore-Reducing Devices
+Category: Treatments and Therapies
+Organization: American Academy of Dental Sleep Medicine
+URL: https://aadsm.org/snoring_and_snore-reducing_dev.php
+
+Resource: Snoring, Sleeping Disorders, and Sleep Apnea
+Category: Related Issues
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/conditions/snoring-sleeping-disorders-and-sleep-apnea/
+
+Resource: Surgical Treatment for Snoring and Sleep Apnea
+Category: Treatments and Therapies
+Organization: Department of Veterans Affairs
+URL: https://www.veteranshealthlibrary.va.gov/3,85833
+
+Resource: Treatment Options for Adults with Snoring
+Category: Treatments and Therapies
+Organization: American Academy of Otolaryngology--Head and Neck Surgery
+URL: https://www.enthealth.org/be_ent_smart/treatment-options-for-adults-with-snoring/
+
+Resource: Uvulopalatopharyngoplasty (UPPP)
+Category: Patient Handouts, Encyclopedia
+Organization: Medical Encyclopedia
+URL: https://medlineplus.gov/ency/article/007663.htm

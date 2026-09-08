@@ -1,0 +1,66 @@
+Title: Terremotos
+
+Summary:
+Se produce un terremoto cuando hay un desplazamiento súbito de un bloque de tierra sobre otro. Los terremotos ocurren repentinamente, en forma violenta y sin aviso previo en cualquier momento del día o de la noche. Si un terremoto ocurre en un área poblada, puede causar daños a las propiedades, lesiones e incluso muertes. Si vive en un área costera, existe la posibilidad de un
+tsunami
+. Los daños causados por los terremotos también pueden conducir a
+inundaciones
+o
+incendios
+.
+Aunque no hay garantías de seguridad durante un terremoto, usted puede tomar medidas para protegerse. Debe tener un
+plan de acción para casos de desastres
+. Estar preparado puede ayudar a reducir el miedo, la ansiedad y las pérdidas. Si usted experimenta un desastre, es normal sentirse estresado. Es posible que necesite ayuda para encontrar
+maneras de superarlo
+.
+Agencia Federal para el Manejo de Emergencias
+
+Groups:
+- Desastres
+
+Related Resources:
+
+Resource: Agencia Federal para el Manejo de Emergencias
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.fema.gov/es
+
+Resource: CDC en español
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/spanish/
+
+Resource: Cruz Roja Americana
+Category: Más información, Spanish/Español
+Organization: Cruz Roja Americana
+URL: https://www.redcross.org/cruz-roja.html
+
+Resource: Listo niños
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/kids
+
+Resource: Los deslizamientos de tierra, los aludes de barro y su seguridad
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://www.cdc.gov/landslides-and-mudslides/es/about/los-deslizamientos-de-tierra-los-aludes-de-barro-y-su-seguridad.html
+
+Resource: Terremotos
+Category: Más información, Spanish/Español
+Organization: Centros para el Control y la Prevención de Enfermedades
+URL: https://espanol.epa.gov/espanol/terremotos
+
+Resource: Terremotos
+Category: Más información, Spanish/Español
+Organization: Agencia Federal para el Manejo de Emergencias
+URL: https://www.ready.gov/es/kids/disaster-facts/earthquakes
+
+Resource: Terremotos
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.ready.gov/es/terremotos
+
+Resource: ¿Necesita ayuda después de un desastre?
+Category: Más información, Spanish/Español
+Organization: Departamento de Seguridad Nacional
+URL: https://www.disasterassistance.gov/es

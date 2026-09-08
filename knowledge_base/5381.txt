@@ -1,0 +1,44 @@
+Title: Vitamina C
+
+Summary:
+Las
+vitaminas
+son sustancias que su cuerpo necesita para crecer y funcionar en forma normal. La vitamina C es un
+antioxidante
+.  Es importante para la piel, los huesos y el tejido conectivo. Promueve la curación y ayuda al cuerpo a absorber el hierro.
+La vitamina C viene de las frutas y verduras. Buenas fuentes de esta vitamina  incluyen los cítricos, los pimentones rojos y verdes, tomates, brócoli y las verduras de hoja verde. Algunos jugos y cereales tienen vitamina C adicional.
+Algunas personas necesitan vitamina C extra:
+Mujeres embarazadas o dando pecho
+Fumadores
+Personas recuperándose de una cirugía
+Víctimas de quemaduras
+
+Groups:
+- Alimentos y nutrición
+
+Related Resources:
+
+Resource: Escorbuto
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/000355.htm
+
+Resource: Vitamina C
+Category: Más información, Spanish/Español, NON-DISPLAY (Patient Handout)
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002404.htm
+
+Resource: Vitamina C
+Category: Más información, Spanish/Español
+Organization: Oficina de Suplementos Dietéticos de los NIH
+URL: https://ods.od.nih.gov/factsheets/VitaminC-DatosEnEspanol/
+
+Resource: Vitamina C y los resfriados
+Category: Más información, Spanish/Español
+Organization: Enciclopedia Médica
+URL: https://medlineplus.gov/spanish/ency/article/002145.htm
+
+Resource: ¿Es posible tomar demasiada vitamina C?
+Category: Más información, Spanish/Español
+Organization: Fundación Mayo para la Educación y la Investigación Médica
+URL: https://www.mayoclinic.org/es/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/vitamin-c/faq-20058030?p=1
